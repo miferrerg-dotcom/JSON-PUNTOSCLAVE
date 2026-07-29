@@ -1,0 +1,1601 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "El rol del S&C Coach en el fútbol femenino",
+    "speaker": "Bethany Testro",
+    "total_duration": "01:12:09",
+    "total_duration_seconds": 4329,
+    "source_file": "auto_generated_captions (10).vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:55",
+      "start_seconds": 0,
+      "end_seconds": 175,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y propósito del webinar",
+      "summary": "Bethany Testro presenta el objetivo de la sesión: explicar el rol del strength and conditioning coach en el fútbol femenino y mostrar cómo se construye un sistema de trabajo desde el análisis inicial hasta la sesión diaria. Introduce su experiencia profesional y anticipa tres casos prácticos.",
+      "literal_quote": "En esta sesión vamos a hablar del rol del strength and conditioning coach en el fútbol femenino, planificación, toma de decisiones.",
+      "full_transcript": "Buenas a todos y bienvenidos a este webinar. Soy Bethany Testro, strength and conditioning coach, actualmente en el primer equipo femenino del Al Qadsia, donde competimos en la Premier League de Arabia Saudita. En esta sesión vamos a hablar del rol del strength and conditioning coach en el fútbol femenino, planificación, toma de decisiones, y vamos a ver cómo se construye un sistema de trabajo desde el análisis inicial hasta la sesión del día a día. No solamente eso, sino que veremos ejemplos reales de cómo ese sistema tiene que ser lo suficientemente sólido para guiarte, pero también lo suficientemente flexible para adaptarse a todo lo que el fútbol te lanza encima. Aquí tenemos un breve resumen de estos últimos años, donde he trabajado como strength and conditioning coach en distintos contextos. Los más recientes han sido en Oriente Medio, en Al-Ahli Football Club y actualmente en Al Qadsia femenino. Pero anteriormente a esto he trabajado con equipos tanto masculinos como femeninos de España, de diferentes niveles y categorías, y también con deportistas a nivel individual, quienes compiten en la Championship en Inglaterra y en La Liga y en la Liga F en España. He formado parte del Wellness Institute de Tecnogym Iberia y en 2024 pude asistir a mis primeros Juegos Olímpicos. En este caso fueron en París y fui como especialista de rendimiento. También colaboro con la SDA Spain como performance science specialist en el ámbito de formación. Aquí tenéis los puntos que vamos a tratar a lo largo del webinar. Empezamos con la introducción y el performance blueprint, que va a ser la base de todo el sistema. Después veremos cómo se construye y se integra ese sistema en el día a día y terminaremos con tres casos prácticos reales que ilustran cómo todo eso se aplica en situaciones concretas. Para contextualizar un poquito más, el fútbol femenino de élite exige un enfoque de rendimiento completo e individualizado. Cada vez tenemos calendarios más exigentes, plantillas con perfiles más diversos y un entorno multidisciplinar que hacen que el rol del preparador físico sea uno de los más complejos dentro del departamento de rendimiento. Y esta sesión es precisamente eso. Me gustaría que esta formación sea una mirada honesta a todo lo que hay detrás de una planificación de nuestro departamento, desde la construcción del blueprint y el análisis individual de cada jugadora, hasta la creación de un sistema de trabajo que diseña, da estructura e integra el entrenamiento de fuerza con las demandas del campo, adaptándose constantemente al contexto del equipo, el calendario y la metodología del cuerpo técnico.",
+      "keywords": [
+        "strength-conditioning",
+        "futbol-femenino",
+        "wellness",
+        "introduccion",
+        "proposito",
+        "webinar",
+        "performance",
+        "career-development",
+        "bethany-testro",
+        "qadsia",
+        "ahli-football-club",
+        "premier-league-arabia-saudita"
+      ],
+      "entities": [
+        "Bethany Testro",
+        "Al Qadsia",
+        "Al-Ahli Football Club",
+        "Premier League de Arabia Saudita"
+      ],
+      "topics": [
+        "Performance",
+        "Career Development"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre introducción y propósito del webinar?",
+        "¿Dónde se habla de introducción y propósito del webinar?",
+        "¿Cómo se aplica introducción y propósito del webinar en fútbol femenino?"
+      ],
+      "related_terms": [
+        "introducción",
+        "y",
+        "propósito",
+        "del",
+        "webinar",
+        "performance",
+        "career development"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "El sistema se organiza en tres niveles: demandas del deporte, outputs de rendimiento y perfil individual de la jugadora. La batería de test conecta el análisis de las demandas con la toma de decisiones individual."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "02:55",
+      "end_timestamp": "04:15",
+      "start_seconds": 175,
+      "end_seconds": 255,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=175",
+      "title": "El Performance Blueprint en tres niveles",
+      "summary": "El sistema se organiza en tres niveles: demandas del deporte, outputs de rendimiento y perfil individual de la jugadora. La batería de test conecta el análisis de las demandas con la toma de decisiones individual.",
+      "literal_quote": "Personalmente, lo organizo en tres niveles.",
+      "full_transcript": "De aquí pasaremos a crear nuestro performance blueprint, que va a servir como guía que vamos a ir utilizando para construir un sistema de entrenamiento basado en las necesidades reales del deporte y de cada jugadora. Personalmente, lo organizo en tres niveles. El primero son las demandas biomecánicas, fisiológicas y las de contexto deportivo. De este análisis pasamos a un segundo nivel, que son los outputs, que en este caso también son tres subgrupos. El primero de ellos, el de fuerza y potencia, el segundo grupo de riesgo y mecanismos de lesión y un tercer grupo de velocidad y acondicionamiento físico del deportista. Entre los dos primeros niveles está la batería de test, que es la herramienta que nos va a permitir medir y cuantificar todo esto de lo que estamos hablando. El tercer nivel es el perfil individual de cada jugadora, lo que llamamos el player profile. Aquí es donde vamos a recoger todo su historial, sus resultados de los test que hemos comentado anteriormente y los objetivos de desarrollo de manera individual.",
+      "keywords": [
+        "performance",
+        "blueprint",
+        "tres",
+        "niveles",
+        "methodology",
+        "testing"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance",
+        "Methodology",
+        "Testing"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre el performance blueprint en tres niveles?",
+        "¿Dónde se habla de el performance blueprint en tres niveles?",
+        "¿Cómo se aplica el performance blueprint en tres niveles en fútbol femenino?"
+      ],
+      "related_terms": [
+        "el",
+        "performance",
+        "blueprint",
+        "en",
+        "tres",
+        "niveles",
+        "methodology",
+        "testing"
+      ],
+      "relevance_score": 5,
+      "context_before": "Bethany Testro presenta el objetivo de la sesión: explicar el rol del strength and conditioning coach en el fútbol femenino y mostrar cómo se construye un sistema de trabajo desde el análisis inicial hasta la sesión diaria. Introduce su experiencia profesional y anticipa tres casos prácticos.",
+      "context_after": "Se explica cómo analizar las acciones frecuentes y exigentes del juego desde la biomecánica. Los cambios de dirección, el disparo y el sprint permiten identificar patrones, compensaciones y factores de riesgo."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "04:15",
+      "end_timestamp": "05:29",
+      "start_seconds": 255,
+      "end_seconds": 329,
+      "duration_seconds": 74,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=255",
+      "title": "Análisis biomecánico de las acciones del fútbol",
+      "summary": "Se explica cómo analizar las acciones frecuentes y exigentes del juego desde la biomecánica. Los cambios de dirección, el disparo y el sprint permiten identificar patrones, compensaciones y factores de riesgo.",
+      "literal_quote": "Aquí tenemos un ejemplo de análisis biomecánico que nos permite entender qué le ocurre al cuerpo durante las acciones más frecuentes y más exigentes del juego.",
+      "full_transcript": "Entrando en más detalle, aquí tenemos un ejemplo de análisis biomecánico que nos permite entender qué le ocurre al cuerpo durante las acciones más frecuentes y más exigentes del juego. Nos ayuda a identificar patrones de movimiento que pueden ser corregidos, compensaciones que pueden provocar o derivar en lesión y posibles causas de lesiones más prevalentes en nuestro contexto, que en mi caso es el fútbol femenino aquí en Arabia Saudita. En este ejemplo os muestro tres patrones muy comunes como es el cambio de dirección, el disparo y el sprint, y para cada una de ellas analizamos patrones de movimientos dominantes, la mecánica articular y los factores de riesgo asociados a estos movimientos. Por ejemplo, en el cambio de dirección, que está muy asociado a las lesiones de rotura del ligamento cruzado anterior, podríamos analizar o valorar el valgo dinámico de la rodilla, el desplazamiento lateral o rotación del tronco, junto con muchos otros factores como los factores neuromusculares y cómo es capaz la jugadora de producir y gestionar estas fuerzas durante el gesto deportivo.",
+      "keywords": [
+        "futbol-femenino",
+        "analisis",
+        "biomecanico",
+        "acciones",
+        "futbol",
+        "performance",
+        "injury-prevention",
+        "methodology"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance",
+        "Injury Prevention",
+        "Methodology"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre análisis biomecánico de las acciones del fútbol?",
+        "¿Dónde se habla de análisis biomecánico de las acciones del fútbol?",
+        "¿Cómo se aplica análisis biomecánico de las acciones del fútbol en fútbol femenino?"
+      ],
+      "related_terms": [
+        "análisis",
+        "biomecánico",
+        "de",
+        "las",
+        "acciones",
+        "del",
+        "fútbol",
+        "performance",
+        "injury prevention",
+        "methodology"
+      ],
+      "relevance_score": 4,
+      "context_before": "El sistema se organiza en tres niveles: demandas del deporte, outputs de rendimiento y perfil individual de la jugadora. La batería de test conecta el análisis de las demandas con la toma de decisiones individual.",
+      "context_after": "El fútbol combina esfuerzos explosivos, repetidos y una base aeróbica exigente. La programación debe reflejar tanto los sistemas energéticos como las diferencias posicionales entre jugadoras."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "05:29",
+      "end_timestamp": "07:08",
+      "start_seconds": 329,
+      "end_seconds": 428,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=329",
+      "title": "Demandas fisiológicas y perfiles posicionales",
+      "summary": "El fútbol combina esfuerzos explosivos, repetidos y una base aeróbica exigente. La programación debe reflejar tanto los sistemas energéticos como las diferencias posicionales entre jugadoras.",
+      "literal_quote": "El fútbol es un deporte de esfuerzos intermitentes de alta intensidad sobre una base aeróbica muy exigente.",
+      "full_transcript": "fuerzas durante el gesto deportivo. De aquí pasaremos a las demandas fisiológicas, que nos van a decir cuánto, cómo y con qué intensidad trabaja el cuerpo durante el partido y durante los entrenamientos, y esto va a ser fundamental para entender cómo programar. En cuanto a los sistemas energéticos, el fútbol es un deporte de esfuerzos intermitentes de alta intensidad sobre una base aeróbica muy exigente. El sistema fosfagénico domina las acciones explosivas de menos de seis segundos aproximadamente, como pueden ser los sprints, saltos y disparos El glucolítico entra en los esfuerzos repetitivos de alta intensidad, como pueden ser las secuencias de \"pressing\", cambios de dirección y aceleraciones repetidas. Y por último, el sistema oxidativo, que es la base que nos permite recuperar y repetir durante un tiempo extensivo, como los 90 minutos de un partido. En cuanto al output posicional, las demandas varían mucho según la posición y eso tiene que reflejarse en la programación también. Este año, por ejemplo, vimos que las centrocampistas son las que más distancia total acumulaban y las delanteras y extremos tenían más acciones de sprint y alta velocidad, como es el high speed running. Las jugadoras en posiciones más defensivas combinaban base aeróbica con potencia explosiva y las porteras mostraban un perfil mucho más reactivo y explosivo, con largos periodos de baja intensidad entre acciones.",
+      "keywords": [
+        "high-speed-running",
+        "demandas",
+        "fisiologicas",
+        "perfiles",
+        "posicionales",
+        "performance",
+        "training",
+        "competition"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance",
+        "Training",
+        "Competition"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre demandas fisiológicas y perfiles posicionales?",
+        "¿Dónde se habla de demandas fisiológicas y perfiles posicionales?",
+        "¿Cómo se aplica demandas fisiológicas y perfiles posicionales en fútbol femenino?"
+      ],
+      "related_terms": [
+        "demandas",
+        "fisiológicas",
+        "y",
+        "perfiles",
+        "posicionales",
+        "performance",
+        "training",
+        "competition"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explica cómo analizar las acciones frecuentes y exigentes del juego desde la biomecánica. Los cambios de dirección, el disparo y el sprint permiten identificar patrones, compensaciones y factores de riesgo.",
+      "context_after": "La carga externa mediante GPS debe cruzarse con información interna como frecuencia cardíaca, RPE y wellness. La batería de test no es universal: debe adaptarse al contexto, los recursos y el coste de fatiga."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "07:08",
+      "end_timestamp": "09:06",
+      "start_seconds": 428,
+      "end_seconds": 546,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=428",
+      "title": "Monitorización de carga y diseño de la batería de test",
+      "summary": "La carga externa mediante GPS debe cruzarse con información interna como frecuencia cardíaca, RPE y wellness. La batería de test no es universal: debe adaptarse al contexto, los recursos y el coste de fatiga.",
+      "literal_quote": "Aquí es donde entran los GPS como herramienta de cuantificación de carga externa, que lo vamos a combinar también con herramientas que nos van a cuantificar la carga interna.",
+      "full_transcript": "Aquí no entraremos en mucho detalle porque vendrá más adelante, pero quería mostrar y comentar que no solamente hay que hacer un análisis más puntual como el que hemos hecho ahora, sino que también hay que tener en cuenta la acumulación de esa carga. En este caso, aquí es donde entran los GPS como herramienta de cuantificación de carga externa, que lo vamos a combinar también con herramientas que nos van a cuantificar la carga interna, como puede ser la frecuencia cardíaca, el RPE y el wellness diario. Una vez que hayamos completado el análisis fisiológico, pasaremos a crear nuestra batería de test, que va a ser un pilar fundamental en nuestro sistema de trabajo. Pero antes de entrar en detalle, quiero aclarar que esto no es una lista cerrada ni universal. Depende mucho del contexto del club, de los recursos y el material que tengas disponible. Lo que os muestro aquí son ejemplos que hemos ido implementando estos años y que nos han dado información muy valiosa a la hora de trabajar y tomar decisiones. Hay algunas pruebas que forman parte de nuestra batería de test que solamente se realizan al inicio de temporada y en momentos claves para ver la evolución del deportista. Mientras que hay otras pruebas que nosotros englobamos en lo que llamamos retest, que es una monitorización continua, como pueden ser el CMJ, la fuerza en aductores y abductores, o incluso el Nordic curl. Son pruebas que no fatigan al deportista y se pueden integrar directamente dentro de las propias sesiones de entrenamiento y nos dan información de manera muy rápida y valiosa, tanto para tomar decisiones como para poder ver la progresión de la jugadora.",
+      "keywords": [
+        "wellness",
+        "cmj",
+        "gps",
+        "nordic",
+        "rpe",
+        "monitorizacion",
+        "carga",
+        "diseno",
+        "bateria",
+        "test",
+        "monitoring",
+        "testing",
+        "data-science"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ"
+      ],
+      "topics": [
+        "Monitoring",
+        "Testing",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre monitorización de carga y diseño de la batería de test?",
+        "¿Dónde se habla de monitorización de carga y diseño de la batería de test?",
+        "¿Cómo se aplica monitorización de carga y diseño de la batería de test en fútbol femenino?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "de",
+        "carga",
+        "y",
+        "diseño",
+        "la",
+        "batería",
+        "test",
+        "monitoring",
+        "testing",
+        "data science"
+      ],
+      "relevance_score": 4,
+      "context_before": "El fútbol combina esfuerzos explosivos, repetidos y una base aeróbica exigente. La programación debe reflejar tanto los sistemas energéticos como las diferencias posicionales entre jugadoras.",
+      "context_after": "El CMJ no se interpreta solo por la altura de salto. Métricas como RSI modificado, impulso concéntrico, RFD y asimetrías muestran estrategias distintas de producción de fuerza y ayudan a individualizar."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "09:06",
+      "end_timestamp": "10:00",
+      "start_seconds": 546,
+      "end_seconds": 600,
+      "duration_seconds": 54,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=546",
+      "title": "Qué revela realmente el CMJ",
+      "summary": "El CMJ no se interpreta solo por la altura de salto. Métricas como RSI modificado, impulso concéntrico, RFD y asimetrías muestran estrategias distintas de producción de fuerza y ayudan a individualizar.",
+      "literal_quote": "Para nosotros lo interesante del CMJ no es solo mirar cuánto salta la jugadora, sino cómo lo hace.",
+      "full_transcript": "Si cogemos el CMJ bilateral como ejemplo, nosotros utilizamos métricas como el RSI modified, el índice de fuerza reactiva, la altura de salto, el impulso concéntrico y el rate of force development. También comparamos la asimetría entre pierna derecha y pierna izquierda. Pero para nosotros lo interesante del CMJ no es solo mirar cuánto salta la jugadora, sino cómo lo hace. Por ejemplo, dos jugadoras podrían tener la misma altura de salto, pero con perfiles completamente diferentes en términos de estrategia de producción de fuerza, de tiempo de contracción y de capacidad elástica. Todo esto nos da información muy valiosa para la programación individual y cómo tenemos que adaptar esas sesiones para cada jugadora dentro del contexto colectivo.",
+      "keywords": [
+        "rsi-modificado",
+        "rsi",
+        "cmj",
+        "rfd",
+        "revela",
+        "realmente",
+        "testing",
+        "monitoring",
+        "performance"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Testing",
+        "Monitoring",
+        "Performance"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre qué revela realmente el cmj?",
+        "¿Dónde se habla de qué revela realmente el cmj?",
+        "¿Cómo se aplica qué revela realmente el cmj en fútbol femenino?"
+      ],
+      "related_terms": [
+        "qué",
+        "revela",
+        "realmente",
+        "el",
+        "cmj",
+        "testing",
+        "monitoring",
+        "performance"
+      ],
+      "relevance_score": 5,
+      "context_before": "La carga externa mediante GPS debe cruzarse con información interna como frecuencia cardíaca, RPE y wellness. La batería de test no es universal: debe adaptarse al contexto, los recursos y el coste de fatiga.",
+      "context_after": "El Nordic permite controlar fuerza excéntrica y déficits unilaterales de isquiotibiales. El ForceFrame aporta fuerza isométrica, RFD, asimetrías y ratios de abducción-aducción relevantes para estabilidad de cadera."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "10:00",
+      "end_timestamp": "11:23",
+      "start_seconds": 600,
+      "end_seconds": 683,
+      "duration_seconds": 83,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=600",
+      "title": "Nordic y fuerza de aductores y abductores",
+      "summary": "El Nordic permite controlar fuerza excéntrica y déficits unilaterales de isquiotibiales. El ForceFrame aporta fuerza isométrica, RFD, asimetrías y ratios de abducción-aducción relevantes para estabilidad de cadera.",
+      "literal_quote": "Es uno de los test que más información nos da en cuanto al riesgo de lesión muscular en isquiotibiales.",
+      "full_transcript": "Otro ejemplo sería el Nordic: utilizamos la fuerza excéntrica, también comparamos el ratio entre pierna derecha y pierna izquierda, miramos si tiene déficits unilaterales y es uno de los test que más información nos da en cuanto al riesgo de lesión muscular en isquiotibiales. Además, podemos integrarlo como herramienta de control continua dentro de la propia sesión de gimnasio. En el test de aductores y abductores, utilizando el force frame, miramos con mucho detalle el rate of force development, la fuerza máxima isométrica, la posible asimetría entre pierna derecha y pierna izquierda y el ratio entre abducción y aducción. Este ratio en especial es relevante para el fútbol femenino, porque nos habla de la capacidad de la cadera interna para estabilizar la cadera durante las acciones de alta velocidad y de cambio de dirección. Es uno de los factores que utilizamos para tomar decisiones a nivel individual dentro de las sesiones. Algo que veremos en los casos prácticos de cómo se ajustan esas sesiones dependiendo de los resultados de estos tests.",
+      "keywords": [
+        "futbol-femenino",
+        "fuerza-excentrica",
+        "fuerza-isometrica",
+        "forceframe",
+        "nordic",
+        "rfd",
+        "fuerza",
+        "aductores",
+        "abductores",
+        "testing",
+        "injury-prevention",
+        "strength-conditioning"
+      ],
+      "entities": [],
+      "topics": [
+        "Testing",
+        "Injury Prevention",
+        "Strength & Conditioning"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre nordic y fuerza de aductores y abductores?",
+        "¿Dónde se habla de nordic y fuerza de aductores y abductores?",
+        "¿Cómo se aplica nordic y fuerza de aductores y abductores en fútbol femenino?"
+      ],
+      "related_terms": [
+        "nordic",
+        "y",
+        "fuerza",
+        "de",
+        "aductores",
+        "abductores",
+        "testing",
+        "injury prevention",
+        "strength & conditioning"
+      ],
+      "relevance_score": 4,
+      "context_before": "El CMJ no se interpreta solo por la altura de salto. Métricas como RSI modificado, impulso concéntrico, RFD y asimetrías muestran estrategias distintas de producción de fuerza y ayudan a individualizar.",
+      "context_after": "Los test de sprint por parciales muestran dónde aparecen los picos de velocidad. El 30/15 máximo y submáximo permiten evaluar y monitorizar la capacidad aeróbica con distinto coste de fatiga."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "11:23",
+      "end_timestamp": "12:47",
+      "start_seconds": 683,
+      "end_seconds": 767,
+      "duration_seconds": 84,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=683",
+      "title": "Test de velocidad, capacidad aeróbica y composición corporal",
+      "summary": "Los test de sprint por parciales muestran dónde aparecen los picos de velocidad. El 30/15 máximo y submáximo permiten evaluar y monitorizar la capacidad aeróbica con distinto coste de fatiga.",
+      "literal_quote": "Esto nos permite hacer un seguimiento del estado de forma de cada jugadora de manera regular y con un coste de fatiga mucho menor que el test máximo.",
+      "full_transcript": "En cuanto a test de velocidad, nosotros implementamos el test de sprint de 0 a 30, pero analizando y recogiendo datos de 0 a 10, de 0 a 20, de 0 a 30 y también de 10 a 20 y de 20 a 30, para ver esos picos de velocidad, dónde y cómo ocurren. Para la capacidad aeróbica e intermitente utilizamos el 30/15 test máximo, donde el nivel final alcanzado nos da información sobre la capacidad aeróbica intermitente de la jugadora y nos sirve como referencia de test y retest a lo largo de la temporada. En el caso del retest de esta capacidad, nosotros implementamos el 30/15 submáximo donde realizamos el test hasta un nivel específico predeterminado y analizamos la respuesta de la frecuencia cardíaca a esa misma. Esto nos permite hacer un seguimiento del estado de forma de cada jugadora de manera regular y con un coste de fatiga mucho menor que el test máximo. Por último, a la hora de analizar la composición corporal, si tenemos Dexascan, perfecto, y si no, utilizamos pliegues según el protocolo ISAK para realizar este análisis.",
+      "keywords": [
+        "composicion-corporal",
+        "capacidad-aerobica",
+        "test",
+        "velocidad",
+        "capacidad",
+        "aerobica",
+        "composicion",
+        "corporal",
+        "testing",
+        "monitoring",
+        "performance"
+      ],
+      "entities": [],
+      "topics": [
+        "Testing",
+        "Monitoring",
+        "Performance"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre test de velocidad, capacidad aeróbica y composición corporal?",
+        "¿Dónde se habla de test de velocidad, capacidad aeróbica y composición corporal?",
+        "¿Cómo se aplica test de velocidad, capacidad aeróbica y composición corporal en fútbol femenino?"
+      ],
+      "related_terms": [
+        "test",
+        "de",
+        "velocidad",
+        "capacidad",
+        "aeróbica",
+        "y",
+        "composición",
+        "corporal",
+        "testing",
+        "monitoring",
+        "performance"
+      ],
+      "relevance_score": 4,
+      "context_before": "El Nordic permite controlar fuerza excéntrica y déficits unilaterales de isquiotibiales. El ForceFrame aporta fuerza isométrica, RFD, asimetrías y ratios de abducción-aducción relevantes para estabilidad de cadera.",
+      "context_after": "El player profile reúne resultados, percentiles, asimetrías y prioridades de desarrollo. Es un documento vivo que evoluciona con los datos y con los ajustes de programación."
+    },
+    {
+      "id": "V01-009",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "12:47",
+      "end_timestamp": "13:52",
+      "start_seconds": 767,
+      "end_seconds": 832,
+      "duration_seconds": 65,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=767",
+      "title": "Construcción del perfil individual de la jugadora",
+      "summary": "El player profile reúne resultados, percentiles, asimetrías y prioridades de desarrollo. Es un documento vivo que evoluciona con los datos y con los ajustes de programación.",
+      "literal_quote": "No es un documento estático, es un documento que está evolucionando junto con nosotros y las programaciones.",
+      "full_transcript": "De aquí pasaríamos al player profile, que es una herramienta que va a recoger todos los datos que llevamos comentando hasta ahora para poder ponerlo en contexto y analizar de manera individual los resultados. En este ejemplo, podemos ver el rendimiento individual de cada test, compararlo con la media del equipo a través del spider chart y también con los Z scores, identificar en qué percentil está la jugadora dentro del grupo, ver las asimetrías y posibles déficits que presenta y así poder definir las prioridades de desarrollo para esa jugadora en esta temporada o en este bloque de trabajo. Dicho esto, como ya sabemos, no es un documento estático, es un documento que está evolucionando junto con nosotros y las programaciones. Conforme vamos recogiendo datos, podemos ir viendo la progresión y los ajustes que hay que hacer en las programaciones de manera individual para cada jugadora dentro de nuestro sistema de trabajo.",
+      "keywords": [
+        "construccion",
+        "perfil",
+        "individual",
+        "jugadora",
+        "athlete-management",
+        "testing",
+        "methodology"
+      ],
+      "entities": [],
+      "topics": [
+        "Athlete Management",
+        "Testing",
+        "Methodology"
+      ],
+      "content_type": [
+        "Framework",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre construcción del perfil individual de la jugadora?",
+        "¿Dónde se habla de construcción del perfil individual de la jugadora?",
+        "¿Cómo se aplica construcción del perfil individual de la jugadora en fútbol femenino?"
+      ],
+      "related_terms": [
+        "construcción",
+        "del",
+        "perfil",
+        "individual",
+        "de",
+        "la",
+        "jugadora",
+        "athlete management",
+        "testing",
+        "methodology"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los test de sprint por parciales muestran dónde aparecen los picos de velocidad. El 30/15 máximo y submáximo permiten evaluar y monitorizar la capacidad aeróbica con distinto coste de fatiga.",
+      "context_after": "El preparador físico trabaja dentro de un sistema multidisciplinar centrado en la jugadora. Su función incluye convertir información de rendimiento en decisiones coordinadas con el área médica, técnica y otros departamentos."
+    },
+    {
+      "id": "V01-010",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "13:52",
+      "end_timestamp": "15:52",
+      "start_seconds": 832,
+      "end_seconds": 952,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=832",
+      "title": "El preparador físico como puente entre departamentos",
+      "summary": "El preparador físico trabaja dentro de un sistema multidisciplinar centrado en la jugadora. Su función incluye convertir información de rendimiento en decisiones coordinadas con el área médica, técnica y otros departamentos.",
+      "literal_quote": "Cuanto mejor funcione la comunicación entre departamentos, mejores son las decisiones que se toman en el día a día.",
+      "full_transcript": "Una vez que tengamos el blueprint y el perfil de cada jugadora, el siguiente paso es entender el entorno en el que trabajamos. Obviamente, el preparador físico no trabaja solo, sino que trabajamos dentro de un sistema multidisciplinar donde la comunicación y la colaboración entre departamentos es fundamental. En el centro de ese sistema están las jugadoras y a su alrededor los diferentes departamentos, como puede ser el staff técnico, el área médica, departamento de rendimiento, nutrición, psicología deportiva, dirección deportiva. Cada uno de estos diferentes departamentos tiene un rol importantísimo en el rendimiento y en el bienestar de la jugadora. En el caso del preparador físico, nuestro rol dentro de este sistema puede ser el puente entre la información que generamos y las decisiones que tomamos en el día a día. Pero para que eso funcione, necesitamos tener una relación fluida con cada uno de esos diferentes departamentos. Por ejemplo, con el departamento médico posiblemente estemos dentro de la toma de decisiones de la disponibilidad o el proceso de rehabilitación de una jugadora. O con el cuerpo técnico, posiblemente tengamos que cruzar los datos de GPS con los contenidos de campo y alinear el estímulo de fuerza también con la temática del día. Simplemente quería comentar que la importancia de este modelo y cómo funciona y cómo se vincula entre sí no se puede subestimar para nada. Cuanto mejor funcione la comunicación entre departamentos, mejores son las decisiones que se toman en el día a día. Y en el fútbol de hoy en día, donde los márgenes son cada vez más pequeños, esa coordinación es lo que realmente nos va a marcar la diferencia.",
+      "keywords": [
+        "gps",
+        "preparador",
+        "fisico",
+        "puente",
+        "departamentos",
+        "leadership",
+        "communication",
+        "staff-management"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Leadership",
+        "Communication",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre el preparador físico como puente entre departamentos?",
+        "¿Dónde se habla de el preparador físico como puente entre departamentos?",
+        "¿Cómo se aplica el preparador físico como puente entre departamentos en fútbol femenino?"
+      ],
+      "related_terms": [
+        "el",
+        "preparador",
+        "físico",
+        "como",
+        "puente",
+        "entre",
+        "departamentos",
+        "leadership",
+        "communication",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "El player profile reúne resultados, percentiles, asimetrías y prioridades de desarrollo. Es un documento vivo que evoluciona con los datos y con los ajustes de programación.",
+      "context_after": "El calendario integra partidos, viajes, tipos de día, contenidos técnico-tácticos y espacios de entrenamiento. Esa información permite anticipar las demandas de cada sesión y preparar el trabajo físico."
+    },
+    {
+      "id": "V01-011",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "15:52",
+      "end_timestamp": "18:11",
+      "start_seconds": 952,
+      "end_seconds": 1091,
+      "duration_seconds": 139,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=952",
+      "title": "Calendario, lenguaje técnico y diseño del microciclo",
+      "summary": "El calendario integra partidos, viajes, tipos de día, contenidos técnico-tácticos y espacios de entrenamiento. Esa información permite anticipar las demandas de cada sesión y preparar el trabajo físico.",
+      "literal_quote": "Esto luego nos va a ayudar muchísimo, no solamente para la entrega de objetivos de GPS, sino a la hora de planificar el trabajo de preactivación y de prevención en gimnasio.",
+      "full_transcript": "Una vez que tengamos este sistema multidisciplinar funcionando, necesitamos de herramientas que nos permitan ver todo esto reflejado y también que nos sirva como guía para el trabajo del día a día. Aquí en pantalla tenemos un ejemplo de calendario donde nos recoge información sobre los partidos, si son partidos de liga, partidos de copa, semanas sin partidos, partidos amistosos, si estos partidos eran en casa o fuera de casa, por lo tanto, si contábamos con viaje o no, los rivales contra los que jugábamos. Abajo tenemos una división día a día de los microciclos con el lenguaje que implementó el staff técnico esa temporada, los cuales se clasificaban los días por días extensivos, intensivos, de recuperación técnica, días de re-entry, obviamente los días de partidos y los días libres. A la derecha de la pantalla tenemos un ejemplo de microciclo. Entraremos en mucho más detalle en los casos prácticos, pero simplemente os quería mostrar de manera más visual la información que nos puede llegar para poder luego dar objetivos de carga externa. Podemos ver contenidos técnico-tácticos de cada día y los espacios que se van a utilizar para las diferentes tareas también, si van a ser espacios grandes, espacios amplios, espacios más moderados o espacios pequeños. Con respecto a esta información, nosotros vamos a saber si las acciones que se van a ver van a ser más explosivas y más cortas, como pueden ser las aceleraciones, desaceleraciones o los cambios de dirección, o si va a ser un día donde vamos a ver más acumulación de distancia total y high speed running. Esto luego nos va a ayudar muchísimo, no solamente para la entrega de objetivos de GPS, sino a la hora de planificar el trabajo de preactivación y de prevención en gimnasio y también el propio trabajo de fuerza si esos días contamos con sesión.",
+      "keywords": [
+        "high-speed-running",
+        "gps",
+        "calendario",
+        "lenguaje",
+        "tecnico",
+        "diseno",
+        "microciclo",
+        "management",
+        "training",
+        "competition"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Management",
+        "Training",
+        "Competition"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre calendario, lenguaje técnico y diseño del microciclo?",
+        "¿Dónde se habla de calendario, lenguaje técnico y diseño del microciclo?",
+        "¿Cómo se aplica calendario, lenguaje técnico y diseño del microciclo en fútbol femenino?"
+      ],
+      "related_terms": [
+        "calendario",
+        "lenguaje",
+        "técnico",
+        "y",
+        "diseño",
+        "del",
+        "microciclo",
+        "management",
+        "training",
+        "competition"
+      ],
+      "relevance_score": 4,
+      "context_before": "El preparador físico trabaja dentro de un sistema multidisciplinar centrado en la jugadora. Su función incluye convertir información de rendimiento en decisiones coordinadas con el área médica, técnica y otros departamentos.",
+      "context_after": "Las metas de carga semanal se construyen tomando el partido como referencia del 100 %. Una media móvil de varios partidos permite actualizar los objetivos a medida que evoluciona el equipo."
+    },
+    {
+      "id": "V01-012",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "18:11",
+      "end_timestamp": "24:01",
+      "start_seconds": 1091,
+      "end_seconds": 1441,
+      "duration_seconds": 350,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1091",
+      "title": "Objetivos de carga externa basados en el partido",
+      "summary": "Las metas de carga semanal se construyen tomando el partido como referencia del 100 %. Una media móvil de varios partidos permite actualizar los objetivos a medida que evoluciona el equipo.",
+      "literal_quote": "Para poder hacer esta distribución de carga utilizamos el partido como nuestro 100%.",
+      "full_transcript": "De aquí vamos a ver un ejemplo De tabla donde les marcamos los objetivos de carga externa al staff técnico. Esto va a estar basado en todo lo que hemos visto previamente, como los espacios que vayan a utilizar durante el entrenamiento, los objetivos técnico-tácticos y vamos a implementar el lenguaje que han establecido para clasificar cada día. Esto lo codificamos en base a su posición relativa al partido. Es decir, este es un partido menos cuatro, un match day menos tres, match day menos dos, match day menos uno y a continuación estaría el partido. Les marcamos el tiempo total y el tiempo activo dentro de la sesión. Como vemos, tenemos ahí la clasificación de temática del día basado en el lenguaje del staff técnico. Este es un día re-entry intensivo. Esto hace referencia a físicamente cómo vamos a clasificar el día y tenemos marcados los objetivos de carga externa. En este caso, al staff técnico les entregamos una guía bastante sencilla. Solamente contamos con cinco métricas y cada día va a tener sus propios objetivos físicos y, por lo tanto, diferentes demandas. Esto está basado en el partido. Es decir, para poder hacer esta distribución de carga utilizamos el partido como nuestro 100%. A lo largo de la semana o a lo largo de los diferentes mesociclos, vamos a intentar progresar para que durante la semana se acumule dos veces entre un 2 o un 2,5, si estamos hablando del fútbol de élite, de esa carga de partido. Es decir, a lo largo de la semana acumulamos dos veces el partido. Nosotros, en la práctica, lo que utilizamos para marcar ese 100% es una media móvil de cuatro a seis partidos. Esto lo que nos permite es que esos objetivos físicos vayan avanzando también con el desarrollo físico de las jugadoras durante la temporada. Es decir, no es lo mismo los objetivos que les vamos a marcar a principio de temporada en la jornada tres, en comparación con la jornada 18, donde ya tenemos un recorrido y un acúmulo de carga y de adaptaciones físicas bastante mayores. Si vemos en este ejemplo, en el match day menos cuatro, les hemos indicado que el volumen total queremos que esté por debajo de cuatro kilómetros. En cuanto a high speed running, marcamos bajo, low, por debajo de 80 metros y un trabajo de sprint también bajo. Y en el trabajo de aceleraciones y desaceleraciones les hemos indicado un trabajo moderado, en este caso por debajo de 35. Esto es porque al ser un día re-entry intensivo, habremos visto que tenemos espacios pequeños y algunos espacios moderados en las dimensiones bajas, entonces se van a ver esos estímulos, pero no va a ser un día donde vayamos a acumular mucha carga porque es un día a posteriori de tener día libre. Si pasamos al match day menos tres, podemos ver que es un día mucho más extensivo. Es un día donde el tiempo de trabajo también es mayor y el tiempo activo, de manera natural, también va a ser más amplio. En cuanto a las métricas de volumen, en este caso total distance, vemos que hemos marcado cinco kilómetros y medio a seis kilómetros y medio como objetivo. En cuanto a high speed running, hemos marcado 350 metros a 450 metros como objetivo. Es el día donde más trabajo de high speed running vamos a acumular por el esfuerzo físico que supone y también a posteriori el tiempo de recuperación que necesitan las deportistas para estar lo mejor posible de cara al partido. El trabajo de sprint lo marcamos por debajo de 150 metros. Es decir, vamos a tener un estímulo de sprint por esos espacios que vamos a utilizar en el campo, pero no va a ser el día donde mayor trabajo de sprint vamos a acumular. Y en el caso de aceleraciones y desaceleraciones, volvemos a marcar una carga moderada, de nuevo por la naturaleza de las tareas que se han establecido y por el acúmulo de carga que necesitamos en estas métricas. Entraremos en mucho más detalle de cómo tomamos la decisión de distribución de estas métricas y carga durante los case studies y durante las dos siguientes páginas de la presentación, pero también os quería mostrar de manera más visual cómo se puede ver esa acumulación de carga de las diferentes métricas y cómo podemos observar también el impacto que tienen los partidos sobre la acumulación de carga semanal. Esto nos va a permitir tomar esas decisiones de tapering y también, en el lado contrario, si vemos que tenemos que aumentar la carga para progresar esas adaptaciones físicas de cara a partidos importantes.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "objetivos",
+        "carga",
+        "externa",
+        "basados",
+        "partido",
+        "load-management",
+        "monitoring",
+        "competition"
+      ],
+      "entities": [],
+      "topics": [
+        "Load Management",
+        "Monitoring",
+        "Competition"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre objetivos de carga externa basados en el partido?",
+        "¿Dónde se habla de objetivos de carga externa basados en el partido?",
+        "¿Cómo se aplica objetivos de carga externa basados en el partido en fútbol femenino?"
+      ],
+      "related_terms": [
+        "objetivos",
+        "de",
+        "carga",
+        "externa",
+        "basados",
+        "en",
+        "el",
+        "partido",
+        "load management",
+        "monitoring",
+        "competition"
+      ],
+      "relevance_score": 5,
+      "context_before": "El calendario integra partidos, viajes, tipos de día, contenidos técnico-tácticos y espacios de entrenamiento. Esa información permite anticipar las demandas de cada sesión y preparar el trabajo físico.",
+      "context_after": "El MD-4 es un día de reintroducción con volumen y velocidad bajos. Se priorizan cambios de dirección no agresivos, estabilidad articular, control lumbopélvico, monitorización y trabajo isométrico largo."
+    },
+    {
+      "id": "V01-013",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "24:01",
+      "end_timestamp": "27:58",
+      "start_seconds": 1441,
+      "end_seconds": 1678,
+      "duration_seconds": 237,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1441",
+      "title": "Match Day -4: reintroducción de carga",
+      "summary": "El MD-4 es un día de reintroducción con volumen y velocidad bajos. Se priorizan cambios de dirección no agresivos, estabilidad articular, control lumbopélvico, monitorización y trabajo isométrico largo.",
+      "literal_quote": "Esto nos da una imagen completa del estado de la jugadora de la semana en cuanto a readiness y nos sirve como referencia para las decisiones de los días siguientes.",
+      "full_transcript": "Pasando al diseño e integración del entrenamiento de fuerza con el campo. Aquí vemos un ejemplo de microciclo Donde tenemos cuatro días de entrenamiento previos al partido y vamos a ir desglosando día por día para poder ver las diferencias, sobre todo en los patrones dominantes, el foco preventivo, cómo se va a ajustar esos patrones y cómo vamos a colocar ese microdosing de fuerza con respecto a estos estímulos y respetando siempre los objetivos físicos. Si nos fijamos en el primer día de la semana, en el matchday -4, vemos que es un día reentry intensivo, donde los objetivos de GPS que se han establecido son los que vemos en pantalla. En cuanto a volumen, por debajo de cuatro kilómetros. No queremos un estímulo de high speed running ni de sprint. Por lo tanto, hemos indicado que van a ser objetivos bajos. Y en cuanto a las aceleraciones y desaceleraciones, hemos indicado que queremos que el número de acciones estén por debajo de 30 y que estas a su vez sean acciones no agresivas y de velocidades no altas. En cuanto a los espacios en campo, vemos que se ha establecido que se van a realizar las tareas en espacios pequeños y reducidos y también alguna que otra tarea en espacios moderados, en este caso en sus dimensiones más bajas. En cuanto al patrón dominante de este día, lo que vamos a ver durante el entrenamiento son cambios de dirección y aceleraciones y desaceleraciones cortas y, por lo tanto, nuestro trabajo preventivo y de preactivación se va a adaptar a estos patrones. En este caso, hemos indicado que se va a realizar un trabajo individual basado en los resultados de la batería de test. Vamos a ir dando píldoras de uno o dos ejercicios que vayan trabajando lo que se ha indicado que tiene que mejorar la jugadora. Y con respecto a la sesión, hemos establecido que se va a realizar un trabajo de estabilidad de rodilla y de cadera, control lumbopélvico y en cuanto al core, un trabajo de antirotación. En cuanto al testing y monitorización, este día decidimos que iba a ser donde realizamos el CMJ bilateral y el test de abductores y aductores con el ForceFrame de VALD. Esto nos da una imagen completa del estado de la jugadora de la semana en cuanto a readiness y nos sirve como referencia para las decisiones de los días siguientes. En cuanto a abducción/adducción en el ForceFrame, es simplemente para llevar un control de manera más continua de esos valores, para que cuando volvamos a hacer evaluación, podamos ver con el tiempo cómo ha ido progresando. También contamos con el wellness, que es un cuestionario que completan las jugadoras por las mañanas de manera subjetiva. El RP, que lo rellenan también a posteriori de la sesión. En cuanto a un control más objetivo de la carga interna, contamos con la frecuencia cardíaca y en cuanto al control de la carga externa, contamos con los GPS. En cuanto al microdosing y en el trabajo de gimnasio, hemos anotado que este día es un día de reintroducción de carga, como hemos visto antes. Por lo tanto, vamos a completar ejercicios isométricos largos para la salud tendinosa y alineación de fibras a posteriori de día libre.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "cmj",
+        "gps",
+        "forceframe",
+        "match",
+        "day",
+        "4",
+        "reintroduccion",
+        "carga",
+        "load-management",
+        "training",
+        "injury-prevention",
+        "vald"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ",
+        "ForceFrame",
+        "VALD"
+      ],
+      "topics": [
+        "Load Management",
+        "Training",
+        "Injury Prevention"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre match day -4: reintroducción de carga?",
+        "¿Dónde se habla de match day -4: reintroducción de carga?",
+        "¿Cómo se aplica match day -4: reintroducción de carga en fútbol femenino?"
+      ],
+      "related_terms": [
+        "match",
+        "day",
+        "-4",
+        "reintroducción",
+        "de",
+        "carga",
+        "load management",
+        "training",
+        "injury prevention"
+      ],
+      "relevance_score": 4,
+      "context_before": "Las metas de carga semanal se construyen tomando el partido como referencia del 100 %. Una media móvil de varios partidos permite actualizar los objetivos a medida que evoluciona el equipo.",
+      "context_after": "El MD-3 concentra la mayor carga de la semana, especialmente distancia total y high speed running. Los espacios grandes y el trabajo excéntrico preparan el estímulo principal con suficiente tiempo de recuperación antes del partido."
+    },
+    {
+      "id": "V01-014",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "27:58",
+      "end_timestamp": "31:15",
+      "start_seconds": 1678,
+      "end_seconds": 1875,
+      "duration_seconds": 197,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1678",
+      "title": "Match Day -3: mayor carga semanal",
+      "summary": "El MD-3 concentra la mayor carga de la semana, especialmente distancia total y high speed running. Los espacios grandes y el trabajo excéntrico preparan el estímulo principal con suficiente tiempo de recuperación antes del partido.",
+      "literal_quote": "Es el día donde más trabajo de high speed running vamos a acumular.",
+      "full_transcript": "Si pasamos al matchday -3, vemos que es el día de mayor carga de la semana, es el día extensivo. Aquí es donde acumulamos la mayor distancia total y el mayor volumen de high speed running. Por lo tanto, los espacios que se van a utilizar durante las tareas son grandes y esto es lo que nos genera acciones de mayor distancia y exposición a esas altas intensidades. Los objetivos de GPS que se han establecido para este día son los más altos de la semana. Alcanzamos aproximadamente un 65% de las métricas de las demandas de un partido. En este ejemplo en concreto, vemos que tenemos como objetivo alcanzar entre 5.500 y 6.500 metros durante la sesión. En cuanto a high speed running, hemos marcado un objetivo de entre 350 y 450 metros. Vamos a tener un estímulo de sprint no excesivo, pero sí que se podría ver estas acciones por las demandas de la sesión, simplemente por los espacios que se van a utilizar. Por lo tanto, hemos marcado menos de 150 metros como objetivo. En cuanto a las aceleraciones y desaceleraciones, hemos marcado que sea una exposición a estas acciones de manera controlada, es decir, que no sean muy agresivas, ya que el patrón dominante de esta sesión va a ser el high speed running. En el trabajo preventivo y de preactivación, vemos de nuevo que tenemos ese trabajo individual basado en los test individuales, pero realmente nos vamos a enfocar en la preparación de high speed running, donde nos centraremos en ejercicios más orientados hacia los isquiotibiales, los abductores y aductores, y también vamos a introducir ejercicios que trabajen el stiffness a nivel de la articulación del tobillo Para preparar a las jugadoras para esas altas intensidades y esos impactos que van a recibir mientras realizan los \"sprints\". En cuanto al \"testing\" y monitorización, vemos que de nuevo contamos con el \"wellness\" y el RPE de manera más subjetiva y en cuanto a el control o la monitorización objetiva, contamos para la carga externa los GPS y para la carga interna la frecuencia cardíaca. En cuanto al microdosing de fuerza, que este día nosotros lo implementamos después de campo, nuestro objetivo era un \"overload\" excéntrico y también metimos un trabajo de tren superior. Esto así complementaba el trabajo que se ha establecido y el trabajo que se ha realizado en el campo y como hemos dicho antes, va a ser nuestro día de acumulación de carga más alta.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "gps",
+        "rpe",
+        "match",
+        "day",
+        "3",
+        "mayor",
+        "carga",
+        "semanal",
+        "load-management",
+        "strength-conditioning",
+        "training"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Load Management",
+        "Strength & Conditioning",
+        "Training"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre match day -3: mayor carga semanal?",
+        "¿Dónde se habla de match day -3: mayor carga semanal?",
+        "¿Cómo se aplica match day -3: mayor carga semanal en fútbol femenino?"
+      ],
+      "related_terms": [
+        "match",
+        "day",
+        "-3",
+        "mayor",
+        "carga",
+        "semanal",
+        "load management",
+        "strength & conditioning",
+        "training"
+      ],
+      "relevance_score": 4,
+      "context_before": "El MD-4 es un día de reintroducción con volumen y velocidad bajos. Se priorizan cambios de dirección no agresivos, estabilidad articular, control lumbopélvico, monitorización y trabajo isométrico largo.",
+      "context_after": "El MD-2 reduce el volumen pero mantiene acciones intensas y explosivas. Se combina preparación articular, CMJ, potencia, pliometría y un microdosing breve antes del campo."
+    },
+    {
+      "id": "V01-015",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "31:15",
+      "end_timestamp": "33:40",
+      "start_seconds": 1875,
+      "end_seconds": 2020,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1875",
+      "title": "Match Day -2: potencia y acciones explosivas",
+      "summary": "El MD-2 reduce el volumen pero mantiene acciones intensas y explosivas. Se combina preparación articular, CMJ, potencia, pliometría y un microdosing breve antes del campo.",
+      "literal_quote": "Estamos acercándonos al partido y la carga empieza a reducirse en cuanto a volumen, pero con acciones de patrón más explosivas.",
+      "full_transcript": "Si pasamos al matchday menos dos, vuelve a ser un día intensivo pero con un perfil diferente al matchday menos cuatro. Aquí el foco es el \"sprint\" y las acciones de alta intensidad. El espacio que se indica para este día son espacios medianos o espacios grandes en sus dimensiones más pequeñas y el patrón dominante son los esfuerzos de alta intensidad y las acciones repetidas. Los objetivos de GPS son menores que el día anterior, rondando entre el 40 y el 50 % de demandas del partido en las métricas claves. Tenemos marcados como objetivos una distancia total de entre 4.000 y 5.000 metros, \"high speed running\" por debajo de 150 metros, \"sprint\" por debajo de 100 metros y aceleraciones y desaceleraciones en una cantidad mayor. Estamos acercándonos al partido y la carga empieza a reducirse en cuanto a volumen, pero con acciones de patrón más explosivas. En el foco de preparación vemos que hemos marcado un trabajo de estabilidad de tobillo, de rodilla y de cadera. En cuanto a core, hemos metido un trabajo de antirrotación y vamos a hacer una activación neuromuscular para preparar las jugadoras para esas acciones intensivas durante la sesión. En cuanto al \"testing\" y monitorización, vemos que contamos de nuevo con el \"wellness\" y el RPE y vamos a meter el test de CMJ bilateral para poder compararlo con el matchday menos cuatro y para ver cómo ha evolucionado el estado neuromuscular a lo largo de la semana, por si tenemos que hacer algún ajuste, tanto ese mismo día de entrenamiento o el día posterior. En cuanto al gimnasio, el matchday menos dos es el día de potencia y trabajo preventivo. Metemos trabajo pliométrico no extensivo, lanzamientos, levantamientos rápidos con poco volumen. En este caso, tuvimos el lujo de colocar el microdosing pre sesión de campo en una ventana corta, estímulo específico y de bajo coste de fatiga.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "cmj",
+        "gps",
+        "rpe",
+        "match",
+        "day",
+        "2",
+        "potencia",
+        "acciones",
+        "explosivas",
+        "strength-conditioning",
+        "testing",
+        "training"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ"
+      ],
+      "topics": [
+        "Strength & Conditioning",
+        "Testing",
+        "Training"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre match day -2: potencia y acciones explosivas?",
+        "¿Dónde se habla de match day -2: potencia y acciones explosivas?",
+        "¿Cómo se aplica match day -2: potencia y acciones explosivas en fútbol femenino?"
+      ],
+      "related_terms": [
+        "match",
+        "day",
+        "-2",
+        "potencia",
+        "y",
+        "acciones",
+        "explosivas",
+        "strength & conditioning",
+        "testing",
+        "training"
+      ],
+      "relevance_score": 4,
+      "context_before": "El MD-3 concentra la mayor carga de la semana, especialmente distancia total y high speed running. Los espacios grandes y el trabajo excéntrico preparan el estímulo principal con suficiente tiempo de recuperación antes del partido.",
+      "context_after": "El MD-1 busca activar sin generar fatiga. Se emplean cargas mínimas, acciones cortas, reactividad, stiffness de tobillo y una preactivación de 10 a 15 minutos."
+    },
+    {
+      "id": "V01-016",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "33:40",
+      "end_timestamp": "36:08",
+      "start_seconds": 2020,
+      "end_seconds": 2168,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2020",
+      "title": "Match Day -1: activación sin generar fatiga",
+      "summary": "El MD-1 busca activar sin generar fatiga. Se emplean cargas mínimas, acciones cortas, reactividad, stiffness de tobillo y una preactivación de 10 a 15 minutos.",
+      "literal_quote": "Es simplemente activar y preparar a la jugadora antes de salir al campo.",
+      "full_transcript": "Pasando por último al matchday menos uno, es el día previo al partido, en este caso es un día reactivo, \"reactive\". Todo está orientado a preparar a la jugadora para rendir mañana. En cuanto a los GPS, la carga es mínima. Aquí tenemos un ejemplo donde el objetivo de distancia total es por debajo de 3.500 metros, \"high speed running\" muy bajo, \"sprint\" controlado y acciones de aceleraciones y desaceleraciones también muy bajitas. El espacio que se va a realizar las tareas son espacios pequeños o en el caso de utilizar espacios más amplios, como por ejemplo para realizar tareas de balón parado o tocar algo táctico, se realizan de manera pausada, es decir, se realiza una acción y luego se da un descanso y se vuelve andando o se vuelve a iniciar ese gesto, pero no son tiempos de trabajo largos ni nada que vaya a provocar fatiga a la jugadora. El patrón dominante es la reactividad, esos gestos cortos y explosivos y por lo tanto, en la preparación, el foco va a ser la activación del sistema nervioso central, enfocándonos en el \"stiffness\", en ese tobillo reactivo. Y en el caso de meter algún trabajo de core, vamos a meter trabajo de antiextensión. En cuanto al \"testing\" y monitorización de carga, contamos de nuevo con el \"wellness\" y el RPE y en este caso con los GPS y la frecuencia cardíaca. Objetivos y contenidos de gimnasio, en este caso solamente fue durante la parte de preactivación previo al campo. Como bien hemos dicho, es un trabajo de activación del sistema nervioso central, donde podemos ver acciones de saltos reactivos, pliometría corta y es un microdosing pre sesión que no supera los 10, 15 minutos. Es simplemente activar y preparar a la jugadora antes de salir al campo. Pasando al siguiente ejemplo,",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "gps",
+        "rpe",
+        "match",
+        "day",
+        "1",
+        "activacion",
+        "generar",
+        "fatiga",
+        "strength-conditioning",
+        "competition",
+        "training"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Strength & Conditioning",
+        "Competition",
+        "Training"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre match day -1: activación sin generar fatiga?",
+        "¿Dónde se habla de match day -1: activación sin generar fatiga?",
+        "¿Cómo se aplica match day -1: activación sin generar fatiga en fútbol femenino?"
+      ],
+      "related_terms": [
+        "match",
+        "day",
+        "-1",
+        "activación",
+        "sin",
+        "generar",
+        "fatiga",
+        "strength & conditioning",
+        "competition",
+        "training"
+      ],
+      "relevance_score": 4,
+      "context_before": "El MD-2 reduce el volumen pero mantiene acciones intensas y explosivas. Se combina preparación articular, CMJ, potencia, pliometría y un microdosing breve antes del campo.",
+      "context_after": "En semanas sin partido hay más ventanas para distribuir carga, fuerza y trabajo individual. Los primeros días progresan desde la reintroducción hacia estímulos moderados de velocidad y fuerza."
+    },
+    {
+      "id": "V01-017",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "36:08",
+      "end_timestamp": "39:17",
+      "start_seconds": 2168,
+      "end_seconds": 2357,
+      "duration_seconds": 189,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2168",
+      "title": "Planificación de una semana sin partido",
+      "summary": "En semanas sin partido hay más ventanas para distribuir carga, fuerza y trabajo individual. Los primeros días progresan desde la reintroducción hacia estímulos moderados de velocidad y fuerza.",
+      "literal_quote": "La lógica cambia en cuanto a la distribución de carga porque tenemos más tiempo, más ventanas de trabajo y más flexibilidad a la hora de distribuir la carga.",
+      "full_transcript": "nos encontramos ante una semana sin partido. La lógica cambia en cuanto a la distribución de carga porque tenemos más tiempo, más ventanas de trabajo y más flexibilidad a la hora de distribuir la carga. Si nos fijamos en el primer día de entrenamiento de la semana, vemos que vuelve a ser un día re-entry intensive, como el matchday -4 que hemos comentado antes. Por lo tanto, son objetivos más bajitos. En cuanto a volumen, la distancia total que marcamos como objetivo son 3.500 metros, high speed running y sprint bajos y en cuanto a acciones de aceleraciones y desaceleraciones también bajos. En este caso pusimos como objetivo estar por debajo de 25 acciones. Patrón dominante u objetivo de esta sesión es la reintroducción de carga. Se iba a realizar un trabajo técnico táctico, por lo tanto va a haber cambios de dirección, aceleraciones y desaceleraciones, pero son acciones no agresivas y no de mucha intensidad. En cuanto a la preparación, aquí el enfoque es orientado hacia esos gestos de cambio de dirección y aceleraciones, donde vamos a trabajar la estabilidad de rodilla y de cadera. En este caso, una activación de abductores y aductores también, y metimos un trabajo lumbopélvico y de core antirotación. No nos olvidamos tampoco del trabajo individual. Nosotros cuando nos encontramos semanas sin partido oficial de calendario, aprovechamos al máximo para aumentar la dosis de este trabajo individual a lo largo de la semana. En cuanto al testing y monitorización o evaluación de ciertas habilidades y/o métricas, contamos de nuevo a nivel subjetivo con el wellness de por las mañanas y el RPE por sesión. En este ejemplo metimos un CMJ bilateral utilizando los ForceDecks y también contábamos para el control de carga interna de las jugadoras con la frecuencia cardíaca y para el control de carga externa con los GPS. Como hemos comentado antes, en cuanto al trabajo de fuerza, contamos con que es el primer día de entrenamiento de este bloque, por lo tanto, reintroducción de carga. Metimos de nuevo esos isométricos largos y en este caso también hicimos un trabajo de fuerza más dinámica de tren inferior. En nuestro caso fue una sesión que metimos a posteriori del trabajo que se realizó en campo para tener una ventana mayor de trabajo.",
+      "keywords": [
+        "high-speed-running",
+        "wellness",
+        "cmj",
+        "gps",
+        "forcedecks",
+        "rpe",
+        "planificacion",
+        "semana",
+        "partido",
+        "training",
+        "load-management",
+        "strength-conditioning"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ",
+        "ForceDecks"
+      ],
+      "topics": [
+        "Training",
+        "Load Management",
+        "Strength & Conditioning"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre planificación de una semana sin partido?",
+        "¿Dónde se habla de planificación de una semana sin partido?",
+        "¿Cómo se aplica planificación de una semana sin partido en fútbol femenino?"
+      ],
+      "related_terms": [
+        "planificación",
+        "de",
+        "una",
+        "semana",
+        "sin",
+        "partido",
+        "training",
+        "load management",
+        "strength & conditioning"
+      ],
+      "relevance_score": 4,
+      "context_before": "El MD-1 busca activar sin generar fatiga. Se emplean cargas mínimas, acciones cortas, reactividad, stiffness de tobillo y una preactivación de 10 a 15 minutos.",
+      "context_after": "El día extensivo moderado acumula la mayor exposición semanal a high speed running y sprint. El descanso intermedio se considera parte del entrenamiento y permite sostener dos nuevos días de calidad."
+    },
+    {
+      "id": "V01-018",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "39:17",
+      "end_timestamp": "41:36",
+      "start_seconds": 2357,
+      "end_seconds": 2496,
+      "duration_seconds": 139,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2357",
+      "title": "Día extensivo, descanso y distribución de estímulos",
+      "summary": "El día extensivo moderado acumula la mayor exposición semanal a high speed running y sprint. El descanso intermedio se considera parte del entrenamiento y permite sostener dos nuevos días de calidad.",
+      "literal_quote": "La recuperación es parte del entrenamiento y un día libre, como ya sabemos, es tan importante como cualquier otro día de la semana.",
+      "full_transcript": "El segundo día de este bloque vemos que es un día intensivo moderado. Aquí empezamos a aumentar la carga de forma más progresiva. Los espacios que se indican para las tareas que se van a realizar estos días son espacios medianos y/o grandes. Por lo tanto, los patrones dominantes de este día pasan a ser las aceleraciones y desaceleraciones más agresivas y el high speed running. Como hemos dicho, la carga aumenta. En este caso, la distancia total que marcamos como objetivo está alrededor de los 4.500 metros, el high speed running por debajo de 200, pero alrededor de este valor. En el caso del sprint, por debajo de 80 metros y ese aumento de trabajo de aceleraciones y desaceleraciones, es decir, un aumento de carga más mecánica de un valor de alrededor o por debajo de 35 en ambos casos. En la preparación, el foco es trabajo individual, como hemos comentado, más la preparación del high speed running. En este caso, un trabajo más enfocado hacia los isquiotibiales, abductores y aductores, core antirotación y antiextensión para compensar el trabajo de high speed running y el impacto que tiene eso sobre la cadena posterior. En cuanto al testing y monitorización, vemos que de nuevo contamos con el wellness y la RPE a nivel más subjetivo y a nivel más objetivo contamos con la frecuencia cardíaca y los GPS. Este día metimos también, para seguir con esa evaluación más continua, utilizando el ForceFrame, el test isométrico de abducción-aducción y también metimos el Nordic Curl utilizando el NordBord. En cuanto a los objetivos y contenido de fuerza, este día realizamos trabajo de fuerza unilateral de tren inferior y también un trabajo de tren superior, ya que estas semanas aprovechamos para meter un poco más de volumen en ese tipo de trabajo y en el trabajo de fuerza en sala.",
+      "keywords": [
+        "high-speed-running",
+        "wellness",
+        "gps",
+        "forceframe",
+        "nordbord",
+        "nordic",
+        "rpe",
+        "extensivo",
+        "descanso",
+        "distribucion",
+        "estimulos",
+        "recovery",
+        "load-management",
+        "training"
+      ],
+      "entities": [
+        "GPS",
+        "ForceFrame",
+        "NordBord"
+      ],
+      "topics": [
+        "Recovery",
+        "Load Management",
+        "Training"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre día extensivo, descanso y distribución de estímulos?",
+        "¿Dónde se habla de día extensivo, descanso y distribución de estímulos?",
+        "¿Cómo se aplica día extensivo, descanso y distribución de estímulos en fútbol femenino?"
+      ],
+      "related_terms": [
+        "día",
+        "extensivo",
+        "descanso",
+        "y",
+        "distribución",
+        "de",
+        "estímulos",
+        "recovery",
+        "load management",
+        "training"
+      ],
+      "relevance_score": 4,
+      "context_before": "En semanas sin partido hay más ventanas para distribuir carga, fuerza y trabajo individual. Los primeros días progresan desde la reintroducción hacia estímulos moderados de velocidad y fuerza.",
+      "context_after": "Primer caso práctico de microdosing: día posterior a viaje y primer entrenamiento de pretemporada. La preparación se ajusta a cambios de dirección no agresivos y el trabajo postcampo utiliza isométricos y salud tendinosa."
+    },
+    {
+      "id": "V01-019",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "41:36",
+      "end_timestamp": "44:13",
+      "start_seconds": 2496,
+      "end_seconds": 2653,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2496",
+      "title": "Microdosing en un día de reintroducción",
+      "summary": "Primer caso práctico de microdosing: día posterior a viaje y primer entrenamiento de pretemporada. La preparación se ajusta a cambios de dirección no agresivos y el trabajo postcampo utiliza isométricos y salud tendinosa.",
+      "literal_quote": "El objetivo es la reintroducción de carga con trabajo de calidad.",
+      "full_transcript": "sala. El tercer día es un día extensivo moderado, el día de mayor carga de la semana. Los espacios que se van a utilizar son grandes o medianos, y aquí es donde acumulamos la mayor distancia total y la mayor exposición de high speed running y sprint de la semana. El día anterior también se han acumulado y se han expuesto las jugadoras a estos estímulos, pero lo bonito de estas semanas es que nos permite distribuir estas métricas, que son las que suelen producir más fatiga en las jugadoras, y podemos acumular de esta manera mayor volumen también. En cuanto al patrón dominante, como hemos dicho, es high speed running y sprints con esfuerzos de alta intensidad y acciones repetidas. En cuanto a la preparación, el foco de nuevo es el trabajo individual, más la preparación del high speed running la importancia de la activación del sistema nervioso central. En este caso, incluimos también trabajo de fuerza máxima utilizando como estímulo los isométricos push. En cuanto al testing y monitorización, como todos los días, wellness y RPE. Aquí es donde incluimos ese test de runner's knee iso push utilizando los force decks, un estímulo máximo, y contamos de nuevo con la frecuencia cardíaca y los GPS. De nuevo, este día pudimos incluir un trabajo de fuerza unilateral de tren inferior y también una parte de la sesión orientada hacia el tren superior. El microdosing se aplicó tanto en la preparación, que fue ese estímulo de iso push, y en la sesión de fuerza y ese trabajo unilateral y de tren superior, se aplicó en una sesión de fuerza a posteriori. En este caso, el cuarto día es un día libre, sin gimnasio y sin monitorización. La recuperación es parte del entrenamiento y un día libre, como ya sabemos, es tan importante como cualquier otro día de la semana. Este fue un día intermediario para luego poder incluir otros dos días de trabajo de mucha calidad, que tuvieron perfiles muy similares al segundo y tercer día de este bloque que estamos viendo en la pantalla.",
+      "keywords": [
+        "high-speed-running",
+        "wellness",
+        "gps",
+        "rpe",
+        "microdosing",
+        "reintroduccion",
+        "strength-conditioning",
+        "methodology",
+        "case-study"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Strength & Conditioning",
+        "Methodology",
+        "Case Study"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre microdosing en un día de reintroducción?",
+        "¿Dónde se habla de microdosing en un día de reintroducción?",
+        "¿Cómo se aplica microdosing en un día de reintroducción en fútbol femenino?"
+      ],
+      "related_terms": [
+        "microdosing",
+        "en",
+        "un",
+        "día",
+        "de",
+        "reintroducción",
+        "strength & conditioning",
+        "methodology",
+        "case study"
+      ],
+      "relevance_score": 5,
+      "context_before": "El día extensivo moderado acumula la mayor exposición semanal a high speed running y sprint. El descanso intermedio se considera parte del entrenamiento y permite sostener dos nuevos días de calidad.",
+      "context_after": "Segundo ejemplo de microdosing: día de mayor carga con objetivos altos de volumen, high speed running y acciones repetidas. La preparación y la sesión de fuerza se alinean con sprint, carga excéntrica y potencia."
+    },
+    {
+      "id": "V01-020",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "44:13",
+      "end_timestamp": "50:20",
+      "start_seconds": 2653,
+      "end_seconds": 3020,
+      "duration_seconds": 367,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2653",
+      "title": "Microdosing en el día de mayor carga",
+      "summary": "Segundo ejemplo de microdosing: día de mayor carga con objetivos altos de volumen, high speed running y acciones repetidas. La preparación y la sesión de fuerza se alinean con sprint, carga excéntrica y potencia.",
+      "literal_quote": "Aquí necesitamos preparar el cuerpo para acciones de alta velocidad y carga excéntrica, sobre todo de isquiotibiales y exposición repetida a sprint.",
+      "full_transcript": "Vamos a pasar al primero de los casos prácticos, en este caso del microdosing del trabajo de fuerza, donde nos encontramos con un día de entrenamiento, que es el primero de la semana, de una semana no match day, es decir, no tenemos partido oficial. Es el primer día de la semana de reentry intensivo. En este caso fue un entrenamiento a posteriori de viajar. Fue el primer entrenamiento de la estancia de pretemporada del camp. Por lo tanto, distancia total baja, high speed running bajo, sprint bajo, número de aceleraciones y desaceleraciones bajitas también. Los espacios que se iban a utilizar ese día en campo son espacios pequeños y/o medianos, dependiendo de la tarea. El patrón dominante es la reintroducción de carga, como hemos dicho antes, y se va a realizar un trabajo técnico-táctico. Por lo tanto, nuestro foco preventivo va a estar orientado hacia esos cambios de direcciones y aceleraciones y desaceleraciones de naturaleza menos intensas. Van a ser acciones no muy agresivas. Por lo tanto, incluimos un trabajo individual y ejercicios orientados hacia la estabilidad de rodilla y de cadera y de control lumbopélvico. De nuevo, sin entrar en mucho detalle, contábamos con el wellness, el RPE, y en este día también incluimos un CMJ bilateral. Los objetivos y contenido en la fuerza de nuevo estaban orientados hacia esa reintroducción de carga. Por lo tanto, incluimos isométricos hold y trabajo orientado hacia la salud tendinosa. En este caso, el microdosing, ese tipo de trabajo, se colocó a posteriori de estar en el campo. Si nos centramos en la segunda tabla, en la parte de preparación, estos son circuitos que iremos creando y desarrollando a lo largo de la temporada. Normalmente, lo suelo crear en base al patrón dominante que se va a ver ese día. Obviamente, a nivel individual se puede reajustar para incluir ese trabajo de prevención, pero si esto lo tratamos solamente como parte preparativa de la sesión, este sería un ejemplo que realizamos en campo este día, que estaba el trabajo orientado hacia esos cambios de dirección y aceleraciones y desaceleraciones no agresivas para que las jugadoras estuvieran lo más preparadas posible a la sesión que iban a realizar en campo a posteriori. En este caso, si cogemos, por ejemplo, el lateral squad con med ball chest throw como ejemplo, aquí lo que buscábamos era incluir un ejercicio de patrón de carga unilateral en el plano frontal con producción de fuerza explosiva en cuanto al tren inferior. Realmente, lo que buscábamos aquí era trabajar la capacidad de generar y transferir fuerza desde el tren inferior al superior, que es un patrón muy presente en las acciones de cambio de dirección. Si cogemos el body weight hip thrust más med ball adductor squeeze como segundo ejemplo, buscábamos la activación de cadena posterior, la coactivación del glúteo medio, glúteo mayor y aductores en posición de extensión de cadera, porque así trabajábamos la capacidad de fuerza de la cadena posterior en una posición funcionalmente relevante a la sesión. Y si cerramos con los single leg hops, aquí lo que buscábamos era un trabajo más reactivo, unilateral, no muy agresivo, donde trabajábamos el stiffness músculo-tendinoso para poder activar un poquito el sistema neuromuscular antes de entrar al campo. Si pasamos a la parte de gimnasio, el trabajo de fuerza, este día el microdosing se colocó post entrenamiento Porque tuvimos mayor ventana disponible, queríamos priorizar el trabajo que se iba a realizar en campo. Como hemos dicho antes, el objetivo es la reintroducción de carga con trabajo de calidad. En este caso, nuestro enfoque estaba orientado hacia los isométricos hold largos y el trabajo de salud tendinosa. Por ejemplo, si cogemos el single leg hamstring bridge iso hold, es un isométrico de isquiotibiales de cadena cerrada unilateral, donde buscamos la activación de la cadena posterior en posición de extensión de cadera, porque así trabajamos la capacidad de los isquiotibiales para producir y mantener fuerza isométrica en una posición donde el riesgo de lesión durante acciones de sprint y deceleraciones es bastante mayor. En el caso del dead bug, variación A, es simplemente un ejercicio de control motor en posición supina. Buscamos trabajar la antiextensión lumbar con disociación de extremidades. Trabajamos la capacidad del core para mantener la estabilidad lumbar mientras las extremidades se mueven de forma independiente. Otro ejemplo que podríamos escoger es el de dumbbell split squat iso hold, isométrico unilateral en posición de split squat con carga externa, que son los dumbbells. En este caso fue un isométrico muy largo con carga no muy alta, simplemente para la alineación de fibras musculares.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "fuerza-isometrica",
+        "cmj",
+        "rpe",
+        "microdosing",
+        "mayor",
+        "carga",
+        "strength-conditioning",
+        "load-management",
+        "case-study"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Strength & Conditioning",
+        "Load Management",
+        "Case Study"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre microdosing en el día de mayor carga?",
+        "¿Dónde se habla de microdosing en el día de mayor carga?",
+        "¿Cómo se aplica microdosing en el día de mayor carga en fútbol femenino?"
+      ],
+      "related_terms": [
+        "microdosing",
+        "en",
+        "el",
+        "día",
+        "de",
+        "mayor",
+        "carga",
+        "strength & conditioning",
+        "load management",
+        "case study"
+      ],
+      "relevance_score": 5,
+      "context_before": "Primer caso práctico de microdosing: día posterior a viaje y primer entrenamiento de pretemporada. La preparación se ajusta a cambios de dirección no agresivos y el trabajo postcampo utiliza isométricos y salud tendinosa.",
+      "context_after": "Una jugadora comunica molestias de isquiotibiales y presenta high speed running acumulado elevado y RSI bajo. El equipo cruza clínica, wellness y datos neuromusculares para sustituir el entrenamiento grupal por recuperación activa."
+    },
+    {
+      "id": "V01-021",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "50:20",
+      "end_timestamp": "56:42",
+      "start_seconds": 3020,
+      "end_seconds": 3402,
+      "duration_seconds": 382,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3020",
+      "title": "Jugadora A: decisión ante fatiga acumulada",
+      "summary": "Una jugadora comunica molestias de isquiotibiales y presenta high speed running acumulado elevado y RSI bajo. El equipo cruza clínica, wellness y datos neuromusculares para sustituir el entrenamiento grupal por recuperación activa.",
+      "literal_quote": "No es que haya perdido fuerza como tal, sino que el sistema nervioso no está respondiendo con la misma rapidez.",
+      "full_transcript": "En el segundo ejemplo de este primer caso práctico, volvemos a contar con un día no match day, esta vez con un match day coding extensivo. Aquí el contexto es completamente diferente. Estamos ante el día de mayor carga de la semana. Por lo tanto, si vamos a los objetivos de GPS de carga externa, se ha establecido que el objetivo en cuanto a volumen de trabajo son 5.000 metros, en cuanto a high speed running, un objetivo por debajo de 350 metros, sprint por debajo de 100 metros y aceleraciones y deceleraciones, en cuanto a número de acciones, una carga bastante elevada de 40 acciones. Los espacios que se van a utilizar para las tareas de este entrenamiento son espacios medianos y grandes, y el patrón dominante es el high speed running y el sprint con esfuerzos de alta intensidad y acciones repetidas. Por lo tanto, el foco preventivo incluye tanto el trabajo individual como la preparación a ese high speed running y el trabajo de sprint, y el microdosing se coloca pre sesión de campo más una sesión completa de gimnasio a posteriori. Si nos vamos a la segunda tabla, la de preparación, aquí necesitamos preparar el cuerpo para acciones de alta velocidad y carga excéntrica, sobre todo de isquiotibiales y exposición repetida a sprint. Como hemos dicho antes, nuestro patrón dominante va a ser el trabajo de sprint y el high speed running. Por lo tanto, si empezamos con este primer ejemplo de ejercicio, metimos un curl de isquios utilizando el Swiss ball, pero esta vez enfocando el trabajo hacia la fase excéntrica. Dimos la opción de completar este ejercicio de manera bilateral o unilateral, en el caso de querer meter también un trabajo de control lumbopélvico. En el segundo ejercicio, en el single leg banded hip adduction, lo que buscábamos era simplemente una activación de abductores de cadera en posición unilateral, donde trabajábamos la capacidad de esa cadena lateral para estabilizar la cadera durante las acciones de sprint. Algo que para nosotros es fundamental para mantener la mecánica correcta de carrera a alta velocidad cuando tenemos una fatiga acumulada. El tercer ejemplo, el Axel wall drill, es drill de aceleración en pared con cambio de pierna. Aquí lo que buscamos es una activación más neuromuscular del patrón de sprint. Realizamos el drive de rodilla, extensión de cadera, posición del tronco en una posición que nos va a permitir coger ese rango de movilidad completa y también aplicar la fuerza en la dirección correcta. Así preparamos el sistema nervioso para las acciones de aceleración y sprint que van a suponer las tareas del entrenamiento. Los pogos, en este caso, se metió en el circuito de preparación como trabajo de stiffness musculotendinoso bilateral, donde buscamos la activación de la capacidad reactiva del complejo gemelo soleo y el tendón de Aquiles, y así poder preparar a las jugadoras de la mejor manera posible a las demandas del trabajo de sprint y high speed running. Por último, el broad jump o salto horizontal bilateral, donde buscábamos la producción de fuerza explosiva de manera horizontal para activar el sistema neuromuscular, para la producción de fuerza en ese plano, que es el plano dominante durante esas acciones que vamos a ver en el campo. Queríamos que esa producción de fuerza viniera a través de la extensión de cadera. Pasando, por último, al trabajo que realizamos en sala. Aquí el objetivo es el trabajo de fuerza de tren inferior Más tren superior. En este caso, tuvimos una ventana suficientemente larga para poder meter una sesión más extensiva y complementar esos objetivos. El primer ejercicio o la primera superserie que metimos fue un trabajo de back squat con barra, que lo complementábamos con salto al cajón. Se realizó el trabajo de fuerza durante la sentadilla con barra y lo que buscábamos con esta superserie era transferir esa habilidad con el box jump, de manera que las jugadoras tenían que buscar la manera de producir una fuerza más explosiva en el plano vertical. En el segundo ejercicio, lo que buscábamos era más bien un trabajo unilateral de cadera posterior, obviamente con énfasis en los isquiotibiales, y les dimos dos opciones de ejercicio, dos variantes. Uno de ellos era con mancuernas, mientras que el otro era con la barra hexagonal, pero ambos ejercicios se realizaban en la posición de split stance para poder trabajar de manera unilateral esta habilidad. Luego metimos dos ejercicios de tren superior de empuje, en este caso bench press y un shoulder press. Y por último, metimos una variante de trabajo de core, el dead bug, junto con la activación de los aductores. Aquí lo que buscamos era un trabajo de antiextensión lumbar con coactivación de aductores, como bien hemos dicho, para trabajar un patrón más relevante a la estabilidad de cadera durante las acciones de alta velocidad.",
+      "keywords": [
+        "high-speed-running",
+        "match-day",
+        "wellness",
+        "gps",
+        "jugadora",
+        "decision",
+        "fatiga",
+        "acumulada",
+        "recovery",
+        "monitoring",
+        "decision-making"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Recovery",
+        "Monitoring",
+        "Decision Making"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre jugadora a: decisión ante fatiga acumulada?",
+        "¿Dónde se habla de jugadora a: decisión ante fatiga acumulada?",
+        "¿Cómo se aplica jugadora a: decisión ante fatiga acumulada en fútbol femenino?"
+      ],
+      "related_terms": [
+        "jugadora",
+        "a",
+        "decisión",
+        "ante",
+        "fatiga",
+        "acumulada",
+        "recovery",
+        "monitoring",
+        "decision making"
+      ],
+      "relevance_score": 5,
+      "context_before": "Segundo ejemplo de microdosing: día de mayor carga con objetivos altos de volumen, high speed running y acciones repetidas. La preparación y la sesión de fuerza se alinean con sprint, carga excéntrica y potencia.",
+      "context_after": "Una jugadora con disponibilidad completa muestra asimetría de aductores y déficit de fuerza de isquiotibiales. Se diseña un programa individual de seis semanas integrado dentro de las sesiones colectivas."
+    },
+    {
+      "id": "V01-022",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "56:42",
+      "end_timestamp": "59:59",
+      "start_seconds": 3402,
+      "end_seconds": 3599,
+      "duration_seconds": 197,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3402",
+      "title": "Jugadora B: intervención individual de seis semanas",
+      "summary": "Una jugadora con disponibilidad completa muestra asimetría de aductores y déficit de fuerza de isquiotibiales. Se diseña un programa individual de seis semanas integrado dentro de las sesiones colectivas.",
+      "literal_quote": "Mismo espacio, mismo tiempo que el resto del equipo, pero con un estímulo diferenciado.",
+      "full_transcript": "Vamos a pasar al segundo de los casos prácticos, en este caso la individualización y la toma de decisiones en tiempo real. Vamos a centrarnos en la jugadora A, que se encuentra ese día con un estado modified. Esto lo que nos indica es que no va a hacer la sesión estándar del grupo de entrenamiento. Y esta decisión no es arbitraria, sino que está basada en una combinación de información que nos va llegando de diferentes fuentes. Lo primero este día con lo que nos encontramos fue que en el wellness nos indica la jugadora que tiene una molestia en la zona de isquiotibiales. Por lo tanto, con esta información, la jugadora pasa primero por clínica para una revisión y tratamiento con el equipo médico. Este informe nos indica que no hay ningún red flag, ningún susto, sino simplemente una sobrecarga y una fatiga acumulada. Pero eso, cruzado con el resto de la información que tenemos, ya nos dice suficiente. Vemos que el high speed running acumulativo de la semana está un 12 % por encima de su umbral establecido. Y también vemos que el CMJ de ese mismo día, en cuanto a la métrica de RSI, está bajo. Es decir, lo que vemos es un aumento del tiempo de contracción concéntrica o el tiempo que tarda la jugadora en generar fuerza desde el punto más bajo del salto hasta el despegue. Esto nos indica que cuando hay fatiga neuromuscular, ese tiempo aumenta porque el sistema nervioso no es capaz de reclutar las unidades motoras con la misma velocidad. No es que haya perdido fuerza como tal, sino que el sistema nervioso no está respondiendo con la misma rapidez. Y eso, en el contexto de una jugadora con wellness comprometido, queja de isquios y el high speed running acumulativo elevado, es una señal muy clara para nosotros de que el cuerpo necesita recuperación. Por lo tanto, ese día tomamos la decisión de que la jugadora iba a realizar una sesión de recuperación activa de manera individualizada, donde realizamos un trabajo de neuroflushing como estrategia de recuperación del sistema nervioso central y periférico. Realizamos cardio sin impacto para mantener el flujo sanguíneo sin añadir carga mecánica y metimos un estímulo de fuerza en tren superior para mantener el estímulo sin comprometer la recuperación del tren inferior. Esta jugadora no hace entrenamiento en campo con el grupo y esa decisión, aunque a veces es difícil de gestionar en el contexto colectivo, para nosotros ese día fue la decisión más correcta por el bienestar de la jugadora. Si pasamos a la jugadora B como siguiente ejemplo de cómo podemos individualizar esas sesiones, en este caso nos encontramos en pretemporada, unos días después del bloque de testing inicial. La jugadora se encuentra en estado full, más trabajo individual. No hay ningún red flag en cuanto a riesgo y está disponible para entrenar con el",
+      "keywords": [
+        "high-speed-running",
+        "wellness",
+        "cmj",
+        "jugadora",
+        "b",
+        "intervencion",
+        "individual",
+        "seis",
+        "semanas",
+        "strength-conditioning",
+        "injury-prevention",
+        "case-study"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Strength & Conditioning",
+        "Injury Prevention",
+        "Case Study"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre jugadora b: intervención individual de seis semanas?",
+        "¿Dónde se habla de jugadora b: intervención individual de seis semanas?",
+        "¿Cómo se aplica jugadora b: intervención individual de seis semanas en fútbol femenino?"
+      ],
+      "related_terms": [
+        "jugadora",
+        "b",
+        "intervención",
+        "individual",
+        "de",
+        "seis",
+        "semanas",
+        "strength & conditioning",
+        "injury prevention",
+        "case study"
+      ],
+      "relevance_score": 4,
+      "context_before": "Una jugadora comunica molestias de isquiotibiales y presenta high speed running acumulado elevado y RSI bajo. El equipo cruza clínica, wellness y datos neuromusculares para sustituir el entrenamiento grupal por recuperación activa.",
+      "context_after": "Una jugadora no alcanza sus objetivos semanales de high speed running y sprint, pero presenta buena respuesta interna. Los datos en directo permiten añadir trabajo específico al final de la sesión para cerrar el déficit."
+    },
+    {
+      "id": "V01-023",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "59:59",
+      "end_timestamp": "01:03:56",
+      "start_seconds": 3599,
+      "end_seconds": 3836,
+      "duration_seconds": 237,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3599",
+      "title": "Jugadora C: completar objetivos con datos en directo",
+      "summary": "Una jugadora no alcanza sus objetivos semanales de high speed running y sprint, pero presenta buena respuesta interna. Los datos en directo permiten añadir trabajo específico al final de la sesión para cerrar el déficit.",
+      "literal_quote": "Nos permite adaptar esas sesiones de manera individual a los estímulos que necesita cada jugadora para llegar a sus objetivos.",
+      "full_transcript": "No hay ningún red flag en cuanto a riesgo y está disponible para entrenar con el grupo. Pero los resultados de los test nos han dado información muy relevante sobre su perfil individual y nos indica que tiene una asimetría de aductores y un déficit de fuerza en isquiotibiales. Por lo tanto, realizamos una intervención. En este caso, fue un programa individual de seis semanas que se integra dentro de las propias sesiones de fuerza colectivas. Es decir, mismo espacio, mismo tiempo que el resto del equipo, pero con un estímulo diferenciado. En este caso, integramos ejercicios bilaterales y ejercicios unilaterales, tanto de abductor en palanca larga como en palanca corta, como es el ejemplo del abductor squeeze con balón medicinal en posición prono En el caso de la palanca corta, la jugadora está tumbada con las rodillas flexionadas y el balón entre ellas realizando el squeeze, es decir, el estímulo isométrico. Y en el caso de pasar una palanca larga, realizamos el mismo ejercicio, pero esta vez las piernas están estiradas y el balón se encuentra entre las rodillas o, si queremos aumentar aún más la carga, lo ponemos entre los tobillos. Otra manera de progresar estos ejercicios sería simplemente aumentando el tiempo de contracción en isometría. Otros ejemplos de ejercicios que aumentamos para potenciar la fuerza en aductores e intentar cerrar o disminuir esa asimetría de manera unilateral fue trabajando la palanca Copenhague. En el caso de palanca corta, fue utilizando la rodilla como nuestro punto de apoyo, y en el caso de palanca larga, que fue a través de la progresión durante las semanas, utilizamos el tobillo como nuestro punto de apoyo. Igual, aquí podemos jugar con la carga y jugar también con los tiempos que vamos a realizar el ejercicio. Para el trabajo de isquiotibiales utilizamos diferentes estímulos según la fase del programa, tanto trabajo unilateral como bilateral. Algunos ejemplos, en este caso, de los que metimos fueron el RDL con mancuernas o con la barra hexagonal, donde nuestro trabajo estaba más enfocado hacia la fuerza excéntrica de cadena posterior, en cadena abierta con control del tiempo. En este caso, utilizábamos entre tres y cinco segundos en la bajada para esa fase excéntrica. Otros variantes que utilizábamos en cuanto a estímulo fueron los iso push y los iso hold unilaterales, también en el ejercicio como puente de isquiotibiales, jugando con el ángulo de flexión de rodilla para crear palancas más cortas o palancas más largas y así también modificar la demanda sobre el músculo en diferentes longitudes. Ya tirando para finales de esta programación, pudimos meter también ejercicios de sobrecarga excéntrica con dispositivos isoiniciales que nos permitían generar una resistencia acomodada a la fase excéntrica superior a la que la jugadora podía producir en esos momentos durante la fase concéntrica, y así maximizando el estímulo excéntrico de forma más segura y progresiva. Y este es uno de los ejemplos donde buscamos la adaptación y de manera individual ajustar las sesiones a las necesidades de cada jugadora para un desarrollo más completo de cada una de ellas dentro de un contexto colectivo.",
+      "keywords": [
+        "high-speed-running",
+        "fuerza-excentrica",
+        "jugadora",
+        "c",
+        "completar",
+        "objetivos",
+        "datos",
+        "directo",
+        "monitoring",
+        "data-science",
+        "decision-making"
+      ],
+      "entities": [],
+      "topics": [
+        "Monitoring",
+        "Data Science",
+        "Decision Making"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre jugadora c: completar objetivos con datos en directo?",
+        "¿Dónde se habla de jugadora c: completar objetivos con datos en directo?",
+        "¿Cómo se aplica jugadora c: completar objetivos con datos en directo en fútbol femenino?"
+      ],
+      "related_terms": [
+        "jugadora",
+        "c",
+        "completar",
+        "objetivos",
+        "con",
+        "datos",
+        "en",
+        "directo",
+        "monitoring",
+        "data science",
+        "decision making"
+      ],
+      "relevance_score": 5,
+      "context_before": "Una jugadora con disponibilidad completa muestra asimetría de aductores y déficit de fuerza de isquiotibiales. Se diseña un programa individual de seis semanas integrado dentro de las sesiones colectivas.",
+      "context_after": "En las ventanas FIFA se comparte información con la selección antes del viaje y se mantiene contacto durante la concentración. Al regreso se analizan minutos, sesiones, carga y factores extradeportivos."
+    },
+    {
+      "id": "V01-024",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "01:03:56",
+      "end_timestamp": "01:06:41",
+      "start_seconds": 3836,
+      "end_seconds": 4001,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3836",
+      "title": "Ventanas FIFA: comunicación antes, durante y después",
+      "summary": "En las ventanas FIFA se comparte información con la selección antes del viaje y se mantiene contacto durante la concentración. Al regreso se analizan minutos, sesiones, carga y factores extradeportivos.",
+      "literal_quote": "No es lo mismo todas las ventanas FIFA.",
+      "full_transcript": "Vamos a pasar al tercer ejemplo del segundo caso práctico, donde vemos que la jugadora C se encuentra en estado full, es decir, va a realizar el entrenamiento entero. No tenemos ningún indicativo de que no lo vaya a hacer. Tenemos readiness adecuada, wellness adecuada. Esta jugadora lleva varias semanas en nuestra lista de monitorización porque los objetivos acumulativos semanales no se están completando de forma consistente. No es algo puntual, es un patrón que hemos identificado y que estamos gestionando de forma activa. Este día en concreto, la jugadora completa la sesión junto con el resto del grupo, pero durante el entrenamiento, los datos de GPS en directo nos indican que está por debajo de los objetivos establecidos. Y con el historial que hemos mencionado antes de las últimas semanas, sabemos que si la sesión termina como está, los objetivos acumulativos, en este caso de high speed running y de sprint semanal, vuelven a quedarse cortos. Entonces, antes de tomar la decisión de añadir trabajo extra, cruzo esta información con su carga interna, vemos la respuesta que tiene al entrenamiento y, en este caso, la respuesta de carga interna es buena. El cuerpo está respondiendo bien a la demanda del día y esto me dice que la jugadora tiene margen aún de hacer un trabajo extra a posteriori del entrenamiento. Por lo tanto, la decisión es clara: trabajo extra específico al final del entrenamiento para cerrar esos márgenes a los objetivos establecidos en high speed running y en sprint, porque sabemos exactamente cuántos metros le faltan y en qué zona de velocidad los tiene que realizar. Por lo tanto, realizamos unas tareas extras para llegar a estos objetivos. Y esto es lo que quería mostrar, simplemente para indicar la importancia también de tener esos datos en directo durante la sesión, porque no solamente nos permite gestionar la carga a posteriori, sino tomar decisiones dentro de la propia sesión en tiempo real con toda esa información delante y poder adaptar esos entrenamientos para que no sea problema del día siguiente. Y nosotros es algo que le damos mucha importancia porque nos permite adaptar esas sesiones de manera individual a los estímulos que necesita cada jugadora para llegar a sus objetivos.",
+      "keywords": [
+        "high-speed-running",
+        "wellness",
+        "ventana-fifa",
+        "gps",
+        "fifa",
+        "ventanas",
+        "comunicacion",
+        "antes",
+        "despues",
+        "athlete-management",
+        "communication",
+        "competition"
+      ],
+      "entities": [
+        "GPS",
+        "FIFA"
+      ],
+      "topics": [
+        "Athlete Management",
+        "Communication",
+        "Competition"
+      ],
+      "content_type": [
+        "Proceso",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre ventanas fifa: comunicación antes, durante y después?",
+        "¿Dónde se habla de ventanas fifa: comunicación antes, durante y después?",
+        "¿Cómo se aplica ventanas fifa: comunicación antes, durante y después en fútbol femenino?"
+      ],
+      "related_terms": [
+        "ventanas",
+        "fifa",
+        "comunicación",
+        "antes",
+        "durante",
+        "y",
+        "después",
+        "athlete management",
+        "communication",
+        "competition"
+      ],
+      "relevance_score": 5,
+      "context_before": "Una jugadora no alcanza sus objetivos semanales de high speed running y sprint, pero presenta buena respuesta interna. Los datos en directo permiten añadir trabajo específico al final de la sesión para cerrar el déficit.",
+      "context_after": "La reintegración depende del tipo de convocatoria, viajes, jet lag, hidratación, sueño y fatiga mental. El regreso al grupo debe ser gradual y comunicado de forma transparente a todo el staff."
+    },
+    {
+      "id": "V01-025",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "01:06:41",
+      "end_timestamp": "01:08:17",
+      "start_seconds": 4001,
+      "end_seconds": 4097,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4001",
+      "title": "Reintegración tras viajes y fatiga internacional",
+      "summary": "La reintegración depende del tipo de convocatoria, viajes, jet lag, hidratación, sueño y fatiga mental. El regreso al grupo debe ser gradual y comunicado de forma transparente a todo el staff.",
+      "literal_quote": "La jugadora llega con una acumulación de fatiga física y mental que va mucho más allá que los minutos jugados.",
+      "full_transcript": "Vamos a pasar al último de los casos prácticos, donde vamos a hablar de las ventanas FIFA y las convocatorias internacionales. En nuestro caso, vamos a hablar de una jugadora brasileña de nuestra plantilla sin entrar en datos individuales, pero sí en el proceso y en las decisiones que tomamos Cuando nos encontramos en lo que nosotros llamamos precamp, es decir, los días previos a viajar con la selección, establecemos una primera comunicación con el cuerpo técnico, donde les enviamos los datos de la jugadora, tanto de GPS de partidos y de entrenamientos, normalmente de las últimas seis semanas. También les enviamos el contenido de gimnasio y los resultados de algún tipo de test de bal que se haya realizado durante esas semanas, como el CMJ o algún isométrico push, simplemente para que puedan contextualizar un poco la situación de nuestra jugadora y gestionar la carga, porque en nuestro caso el viaje que tiene que completar la jugadora para ir con la selección supone bastante fatiga y también contamos con jet lag. Durante el camp el contacto es puntual. Normalmente, si hay algún contacto es a través de la jugadora o simplemente el staff técnico posiblemente nos envíe algún que otro dato si ha jugado partidos, pero normalmente esto lo recibimos a posteriori.",
+      "keywords": [
+        "ventana-fifa",
+        "cmj",
+        "gps",
+        "fifa",
+        "reintegracion",
+        "viajes",
+        "fatiga",
+        "internacional",
+        "recovery",
+        "athlete-management",
+        "staff-management"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ",
+        "FIFA"
+      ],
+      "topics": [
+        "Recovery",
+        "Athlete Management",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre reintegración tras viajes y fatiga internacional?",
+        "¿Dónde se habla de reintegración tras viajes y fatiga internacional?",
+        "¿Cómo se aplica reintegración tras viajes y fatiga internacional en fútbol femenino?"
+      ],
+      "related_terms": [
+        "reintegración",
+        "tras",
+        "viajes",
+        "y",
+        "fatiga",
+        "internacional",
+        "recovery",
+        "athlete management",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "En las ventanas FIFA se comparte información con la selección antes del viaje y se mantiene contacto durante la concentración. Al regreso se analizan minutos, sesiones, carga y factores extradeportivos.",
+      "context_after": "Los casos prácticos muestran decisiones distintas apoyadas por un mismo sistema. La ponente subraya que el trabajo diario del preparador físico depende de una estructura sólida y adaptable."
+    },
+    {
+      "id": "V01-026",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "01:08:17",
+      "end_timestamp": "01:10:14",
+      "start_seconds": 4097,
+      "end_seconds": 4214,
+      "duration_seconds": 117,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4097",
+      "title": "Conclusiones del sistema de trabajo",
+      "summary": "Los casos prácticos muestran decisiones distintas apoyadas por un mismo sistema. La ponente subraya que el trabajo diario del preparador físico depende de una estructura sólida y adaptable.",
+      "literal_quote": "Tres situaciones completamente diferentes, tres decisiones diferentes y todas basadas en el mismo sistema que hemos construido juntos a lo largo de este webinar.",
+      "full_transcript": "En el postcamp, cuando la jugadora vuelve, lo primero es recibir y analizar toda la información que nos llega de la selección: partidos jugados, minutos jugados, tipo de sesiones, carga acumulada durante el camp. Con eso, más todos los factores extradeportivos que rodean esa convocatoria, diseñamos el protocolo de reintegración al grupo. Aquí quiero que veáis algo importante. No es lo mismo todas las ventanas FIFA, no es lo mismo volver de dos partidos amistosos que volver de tres partidos de clasificación para el mundial, por ejemplo. Tampoco es lo mismo jugar en un país que estar en tres países diferentes en 15 días. Tampoco es lo mismo un vuelo de dos horas que cruzar el Atlántico desde Brasil con varios cambios horarios. Contamos con jet lag, con deshidratación acumulada por el viaje y una higiene de sueño también reducida. En el primer escenario, vamos a contar con dos partidos amistosos, un viaje corto, pocos días fuera. La reintegración puede ser relativamente rápida con el grupo. El primer día, por ejemplo, podríamos contar con una evaluación del departamento médico, una recuperación activa y el segundo día sesión parcial con el grupo, con un volumen y también con intensidad reducida. A partir del tercer o cuarto día, la reintegración ya es completa si la respuesta es buena por parte de la jugadora. En el segundo escenario, vamos a decir que tiene a la espalda tres partidos de clasificación para el mundial, un viaje desde Brasil, varios partidos, cambios horarios significativos, semanas fuera de casa y el proceso es completamente diferente. En este caso, la jugadora llega con una acumulación de fatiga física y mental que va mucho más allá que los minutos jugados.",
+      "keywords": [
+        "ventana-fifa",
+        "fifa",
+        "conclusiones",
+        "sistema",
+        "trabajo",
+        "methodology",
+        "decision-making",
+        "performance"
+      ],
+      "entities": [
+        "FIFA"
+      ],
+      "topics": [
+        "Methodology",
+        "Decision Making",
+        "Performance"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre conclusiones del sistema de trabajo?",
+        "¿Dónde se habla de conclusiones del sistema de trabajo?",
+        "¿Cómo se aplica conclusiones del sistema de trabajo en fútbol femenino?"
+      ],
+      "related_terms": [
+        "conclusiones",
+        "del",
+        "sistema",
+        "de",
+        "trabajo",
+        "methodology",
+        "decision making",
+        "performance"
+      ],
+      "relevance_score": 4,
+      "context_before": "La reintegración depende del tipo de convocatoria, viajes, jet lag, hidratación, sueño y fatiga mental. El regreso al grupo debe ser gradual y comunicado de forma transparente a todo el staff.",
+      "context_after": "La sesión termina invitando a aplicar los aprendizajes al contexto propio y a mantener abierta la conversación con la ponente."
+    },
+    {
+      "id": "V01-027",
+      "video_title": "El rol del S&C Coach en el fútbol femenino",
+      "speaker": "Bethany Testro",
+      "start_timestamp": "01:10:14",
+      "end_timestamp": "01:12:09",
+      "start_seconds": 4214,
+      "end_seconds": 4329,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4214",
+      "title": "Despedida y aplicación práctica",
+      "summary": "La sesión termina invitando a aplicar los aprendizajes al contexto propio y a mantener abierta la conversación con la ponente.",
+      "literal_quote": "Ojalá os llevéis de aquí algo que podáis aplicar en vuestro contexto.",
+      "full_transcript": "Los primeros días son de recuperación completa, un trabajo de movilidad, cardio sin impacto, gestión de jet lag, hidratación, higiene de sueño. La reintegración al grupo es más gradual en estos casos y los objetivos de GPS se ajustan de forma mucho más conservadora y las decisiones que tomamos en el día a día también lo son, porque en este escenario la respuesta de la jugadora puede ser muy impredecible. Todo esto lo comunicamos al cuerpo técnico de forma transparente. Saben qué está pasando en cada momento, en qué estado está la jugadora y qué podemos pedirle en cada sesión, porque la reintegración de una jugadora, obviamente, no es decisión solamente de un miembro del staff y tampoco solamente una decisión de rendimiento en sí, sino que es una sesión compartida de todo el staff y también por la salud de esta jugadora. Y con eso cerramos los tres casos prácticos, tres situaciones completamente diferentes, tres decisiones diferentes y todas basadas en el mismo sistema que hemos construido juntos a lo largo de este webinar. Espero que haya sido útil y que de alguna manera hayáis podido acercaros a cómo es realmente el trabajo en el día a día de un preparador físico dentro del mundo del fútbol. Para mí ha sido todo un placer poder compartirlo con vosotros hoy. Es algo que me apasiona y que disfruto muchísimo cada vez que tengo la oportunidad de hacerlo. Ojalá os llevéis de aquí algo que podáis aplicar en vuestro contexto. Solamente me queda daros las gracias a todos y que si tenéis alguna duda o queréis seguir la conversación, por favor, no dudéis en escribirme.",
+      "keywords": [
+        "gps",
+        "despedida",
+        "aplicacion",
+        "practica",
+        "professional-experience",
+        "career-development"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Career Development"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Bethany Testro sobre despedida y aplicación práctica?",
+        "¿Dónde se habla de despedida y aplicación práctica?",
+        "¿Cómo se aplica despedida y aplicación práctica en fútbol femenino?"
+      ],
+      "related_terms": [
+        "despedida",
+        "y",
+        "aplicación",
+        "práctica",
+        "professional experience",
+        "career development"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los casos prácticos muestran decisiones distintas apoyadas por un mismo sistema. La ponente subraya que el trabajo diario del preparador físico depende de una estructura sólida y adaptable.",
+      "context_after": "Cierre del webinar."
+    }
+  ]
+}
