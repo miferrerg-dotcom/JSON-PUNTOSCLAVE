@@ -1,0 +1,443 @@
+{
+  "video": {
+    "video_id": "IP-05",
+    "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+    "speaker": "Ismael Parrilla",
+    "total_duration": "00:22:18",
+    "total_duration_seconds": 1338,
+    "source_file": "WEBVTT-5.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "IP-05-001",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:24",
+      "start_seconds": 0,
+      "end_seconds": 84,
+      "duration_seconds": 84,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Atracción de oportunidades y la fórmula no mágica",
+      "summary": "Introduce el concepto de creación de valor para atraer ofertas de empleo de forma orgánica en lugar de buscarlas de forma reactiva. Aclara que no hay una fórmula mágica, pero sí pasos consistentes que garantizan resultados.",
+      "literal_quote": "Vamos a hablar de creación de valor, de cómo hacer que las oportunidades te lleguen, en lugar de estar constantemente buscando, echando currículums.",
+      "full_transcript": "Hola de nuevo. Continuamos con el bloque de creación de oportunidades y creación de valor. Espero que los dos anteriores os hayan servido y activado ciertas palancas que necesitéis para escalar en vuestra carrera. Un recordatorio de cómo vamos ahora mismo: hemos hablado del bloque de dirección, de visión, de construir a largo plazo un proyecto. Hemos hablado brevemente de cómo construir el capital profesional, de considerarte a ti mismo como un activo en el mercado. Y ahora vamos a hablar de creación de valor, de cómo hacer que las oportunidades te lleguen, en lugar de estar constantemente buscando, echando currículums, etcétera. No existe una fórmula mágica, pero sí existe algo parecido a esa fórmula de decir: si doy estos pasos, si soy constante, va a llegar. Eso existe de verdad. Es lo más parecido. Siempre intento, cuando doy este tipo de clases, ya sea con los estudiantes o en el MBA, por ejemplo, decirles: \"Voy a intentar daros lo más parecido a la fórmula mágica que me pedís para que os contraten. Voy a intentar acercarme, pero la fórmula mágica no existe\".",
+      "keywords": [
+        "atracción",
+        "oportunidades",
+        "formula-magica",
+        "consistencia",
+        "curriculums"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Value Proposition",
+        "Job Sourcing Strategies"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué Ismael Parrilla descarta la existencia de una fórmula mágica para ser contratado?",
+        "¿Qué significa que las oportunidades de empleo 'te lleguen' de forma orgánica?"
+      ],
+      "related_terms": [
+        "atracción orgánica",
+        "búsqueda pasiva",
+        "creación de valor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del Bloque 5.",
+      "context_after": "Comparativa entre Profesional A y Profesional B."
+    },
+    {
+      "id": "IP-05-002",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "01:24",
+      "end_timestamp": "03:13",
+      "start_seconds": 84,
+      "end_seconds": 193,
+      "duration_seconds": 109,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=84",
+      "title": "Profesional A vs Profesional B: Solucionadores de problemas",
+      "summary": "Establece la disparidad entre el Profesional A (creador constante de valor y solucionador de problemas específicos) y el Profesional B (dedicado exclusivamente a actualizar el currículum y aplicar masivamente en foros, sin recibir respuestas).",
+      "literal_quote": "El profesional A, que crea constantemente valor, diferenciado del profesional B, que está constantemente en búsqueda del próximo trabajo.",
+      "full_transcript": "Comenzamos con el siguiente bloque, también con una diferencia de dos tipos de profesionales. El profesional A, que crea constantemente valor, diferenciado del profesional B, que está constantemente en búsqueda del próximo trabajo. Me sé todos los foros, las cuentas que publican puestos de trabajo vacantes todos los días. En estos dos tipos de profesionales muchas veces hay diferencias relevantes. Es decir, lo que hablábamos antes de solucionador de problemas: ¿qué problemas solucionas? Hoy en día tienes que especializarte en un método. Ahora os contaré ejemplos prácticos que he desarrollado y que son reales, para diferenciarte en una entrevista de trabajo, por ejemplo. Tus entregas, tu foco en los resultados de atletas, clientes o equipos. Estas diferencias se distinguen principalmente de una persona que está constantemente haciéndole el currículum bonito, enviándolo portado, esperando las respuestas, buscando lo que quiere, en lugar de tener una visión a largo plazo, como hemos hablado en el bloque anterior, y de la que, por más de cientos de currículums que envíe, no suele tener respuesta. Hay claves.",
+      "keywords": [
+        "profesional-a",
+        "profesional-b",
+        "foros-empleo",
+        "solucionador-problemas",
+        "curriculum",
+        "resultados"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Profiles",
+        "Problem Solving"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué define el perfil del Profesional A frente al Profesional B?",
+        "¿Por qué el envío masivo de currículums carece de efectividad según Parrilla?"
+      ],
+      "related_terms": [
+        "profesional reactivo",
+        "solucionador de problemas",
+        "foco en resultados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Atracción de oportunidades y la fórmula no mágica.",
+      "context_after": "El mercado internacional y la preparación de entrevistas."
+    },
+    {
+      "id": "IP-05-003",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "03:13",
+      "end_timestamp": "05:11",
+      "start_seconds": 193,
+      "end_seconds": 311,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=193",
+      "title": "Mercado internacional y el fracaso del CV plano frente al Blueprint",
+      "summary": "Expone que en el extranjero (Asia, Oriente Medio, EE.UU.) existen salarios del staff de rendimiento de seis cifras ($150k-$300k). Advierte que destacar requiere más que cartas y CV planos hechos con ChatGPT o Canva; se necesita un 'blueprint' metodológico y dashboards propios.",
+      "literal_quote": "Se crea un blueprint con un método propio en el que puedes acuñar un sistema propio que tú tienes y se lo vas a mostrar con tus propios dashboards.",
+      "full_transcript": "También hay palancas o activos que te van a ayudar a construir esto. Primero, lo que nos define ahora: lo de problem solver. Ser un problem solver hoy en día es esencial. Os voy a poner ejemplos que he dicho alguna vez de entrevistas que hemos tenido, muy importantes en la vida de las personas para ir a contratos. Os hablo de contratos de seis cifras, de 150, 200 o 300.000 dólares por año, que te encuentras, que es difícil en España, por ejemplo, pero gente que está matriculada aquí, que vive en otros contextos, son normales. Ahora, por ejemplo, hace muchísimos años en Asia se vivió un boom de inversión en deporte, ahora lo estamos viendo en Oriente Medio y en Estados Unidos, por ejemplo, o en ciertas partes de Centroamérica, incluso todavía puedes optar a puestos de trabajo y vacantes donde los salarios, dentro del staff de rendimiento, superan con creces las seis cifras, entre otros beneficios de nómina a la sombra, que se llaman. Entonces, ¿qué los diferencia? Que son normalmente solucionadores de problemas a corto plazo. Esto es esencial. Os ponía el ejemplo de preparar una entrevista de trabajo. Es decir, tienes que preparar una entrevista y te tienes que diferenciar de decenas, docenas o cientos de candidatos que aplican a la entrevista. Todos van a preparar un currículum bonito, porque ahora el currículum ya te lo hace Canva o te lo hace ChatGPT. Lo pones y es precioso. Es que yo los veo y son todos iguales, no se diferencian casi unos de otros. Haces una cover letter, que está bien, pero todas las cover letters son iguales, las redactan con ChatGPT. Error: no te diferencias, no sabes cómo colocar una cover letter. Esto lo enseño mucho a alumnos de MBA: cómo de estructurar los párrafos de una cover letter, cuántas palabras, qué horquilla de número de palabras tienes que usar. Es importante una cover letter, pero os digo que tampoco se diferencia. Entonces, ¿qué hacemos? Construimos un método. Es decir, dentro del contexto de rendimiento, ¿qué se te da muy bien? Por ejemplo, que nos digan: \"Tengo mi dashboard propio creado y soy muy bueno analizando los datos y reduciendo el número de lecciones con la metodología tal\". Enfoquémonos en eso. Vamos a decirle en la entrevista de trabajo a estas personas que aparte de evidentemente tener tu grado, tu máster, tus certificaciones internacionales, tu plan de formación continua, tus conocimientos tecnológicos y digital, vamos a decir que eres muy bueno en esto y además lo vas a demostrar. Entonces, se crea, por ejemplo, nosotros creábamos lo que llamamos el blueprint. Se crea un blueprint con un método propio en el que puedes acuñar un sistema propio que tú tienes y se lo vas a mostrar con tus propios dashboards.",
+      "keywords": [
+        "oriente-medio",
+        "salario-seis-cifras",
+        "entrevista-trabajo",
+        "chatgpt",
+        "canva",
+        "cover-letter",
+        "blueprint",
+        "dashboards"
+      ],
+      "entities": [
+        "España",
+        "Oriente Medio",
+        "Estados Unidos",
+        "Centroamérica",
+        "Asia",
+        "Canva",
+        "ChatGPT"
+      ],
+      "topics": [
+        "International Job Market",
+        "Strategic Applications"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué horquilla salarial existe en el extranjero para un S&C Coach de élite?",
+        "¿Por qué los currículos de Canva o ChatGPT ya no causan impacto en los empleadores?"
+      ],
+      "related_terms": [
+        "blueprint de rendimiento",
+        "salario de seis cifras",
+        "carta de presentación estructurada"
+      ],
+      "relevance_score": 5,
+      "context_before": "Profesional A vs Profesional B: Solucionadores de problemas.",
+      "context_after": "El poder de llamar la atención y subnichos de mercado."
+    },
+    {
+      "id": "IP-05-004",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "05:11",
+      "end_timestamp": "07:46",
+      "start_seconds": 311,
+      "end_seconds": 466,
+      "duration_seconds": 155,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=311",
+      "title": "Captar la atención y especializarse en subnichos",
+      "summary": "Analiza cómo llamar la atención del empleador demuestra curiosidad, ambición e iniciativa. Ilustra la importancia de la hiper-especialización, proponiendo la búsqueda de subnichos de mercado muy concretos (como atletas amateur de competencias concurrentes/híbridas).",
+      "literal_quote": "Y lo que es diferente llama la atención, capta la atención. Y si capta la atención, ya estás en una posición de que te elijan favorable respecto a otras. Has cribado.",
+      "full_transcript": "Esto lo hemos entregado alguna vez. Lo que os estoy contando es real. ¿Es determinante esta manera de presentarte? No sabemos si es determinante, pero por lo menos llama la atención y es diferente. Y lo que es diferente llama la atención, capta la atención. And si capta la atención, ya estás en una posición de que te elijan favorable respecto a otras. Has cribado. Y cuando llamas la atención en cómo hacer las cosas y te diferencias, os voy a decir la verdad, esto yo también como empleador me ha servido. Muchas veces cuando una persona me capta la atención por cómo ha hecho la cosa, no importa tanto ver si su método funciona o no, como el mero hecho de tener el detalle de querer diferenciarte creando algo diferente. Porque eso denota que esa persona es curiosa, tiene ambición, quiere diferenciarse, pelea por ser la mejor del grupo. Y creo que esos aspectos son decisivos a la hora de ser contratado por un club de alto rendimiento en cualquier deporte, ya sea en béisbol, en básquet, en fútbol y demás. Eso os digo de primera mano que es clave. Ser un buen problem solver, ser específico en algo, es esencial. Ahora, igual que para abrir centros de entrenamiento de rendimiento, el otro día lo comentábamos para población general. Población general, ¿metes las patologías, no las metes? Dentro de la población general sana, por ejemplo, también hay subnichos muy importantes. Tienes que saber resolver dolores o problemas de nichos muy específicos, porque la población sana también es competidora. Ahora han emergido las competiciones amateurs de entrenamiento concurrente o híbrido, como queramos llamarle. Tú, dentro de la población general, ¿eres muy bueno en qué? ¿En atletas amateurs competidores, en población sana que quiere mejorar, solo tener un hábito de vida saludable, pero no competir, en personas que se apuntan a tu centro, pero que buscan una mejora físico-mental y una conexión físico-mental o sus relaciones? Debes resolver problemas muy específicos hoy en día para poder distinguirte. Y si lo eres, si eres muy bueno resolviendo algo específico, no te puedo asegurar, pero te prometo que tus oportunidades se van a abrir y que la gente te va a buscar. Con la suma de los otros activos que hemos dicho de relaciones, reputación, etcétera. Sé específico, resuelve problemas y diferénciate.",
+      "keywords": [
+        "diferenciación",
+        "empleador",
+        "curiosidad",
+        "ambición",
+        "subnichos",
+        "entrenamiento-hibrido",
+        "población-general"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Niche Marketing",
+        "Recruitment Dynamics"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué valora Ismael Parrilla el esfuerzo por diferenciarse por encima del resultado inicial de un método?",
+        "¿Qué subnichos emergentes existen hoy dentro de la población general?"
+      ],
+      "related_terms": [
+        "hiper-especialización",
+        "curiosidad profesional",
+        "atracción de nichos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Mercado internacional y el fracaso del CV plano frente al Blueprint.",
+      "context_after": "El ciclo de aprendizaje y la inversión empresarial."
+    },
+    {
+      "id": "IP-05-005",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "07:46",
+      "end_timestamp": "09:19",
+      "start_seconds": 466,
+      "end_seconds": 559,
+      "duration_seconds": 93,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=466",
+      "title": "El ciclo del aprendizaje y la comunicación de resultados con IA",
+      "summary": "Presenta el bucle constante de 'Aprender, Aplicar, Medir, Comunicar y Repetir'. Resalta la importancia de la visualización del dato; crear dashboards apoyados por IA comunica mucho más impacto del trabajo del S&C que cualquier CV tradicional.",
+      "literal_quote": "Esta rueda que a mí me gusta aplicar siempre de aprender, aplica lo que aprendes, mide, que es muy importante, lo que no se mide, no se mejora, comunica y vuelve a repetir.",
+      "full_transcript": "Os he puesto aquí algunos libros que me he leído, que son también muy buenos, que te ayudan a tomar decisiones, a creación de hábitos, al pensamiento creativo que os he dicho. Estate constantemente en esta creación de valor, dentro del aprendizaje continuo que comentábamos antes. Esta rueda que a mí me gusta aplicar siempre de aprender, aplica lo que aprendes, mide, que es muy importante, lo que no se mide, no se mejora, comunica y vuelve a repetir. Y en cómo comunicar, os voy a decir ahora también aspectos muy importantes. En la comunicación es muy importante ahora mismo comunicar resultados. Los resultados de tus proyectos, de tus sistemas, de tus metodologías, tienes que comunicarlos y tienes que hacerlo. ¿Cómo los vas a comunicar? Yo te recomiendo que hagas dashboards. Hoy en día, con el uso de la IA, te puedes crear aplicaciones de cualquier tipo, de hacer gráficos, de todo tipo. Créate con ayuda de la inteligencia artificial, con ayuda de la IA, créate tus propios dashboards para presentar y comunicar los resultados. Esto te va a hacer diferenciarte más que tu propio currículum vitae, que ya os digo, los currículums ya son todos iguales, no tiene mérito.",
+      "keywords": [
+        "bucle",
+        "aprendizaje",
+        "medición",
+        "comunicación",
+        "resultados",
+        "dashboards-ia",
+        "visualización-datos"
+      ],
+      "entities": [
+        "IA"
+      ],
+      "topics": [
+        "Data Visualization",
+        "Operational Loops"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué fases componen el bucle operativo que defiende Ismael Parrilla?",
+        "¿Cómo ayuda la IA a desarrollar dashboards de resultados de rendimiento?"
+      ],
+      "related_terms": [
+        "lo que no se mide no se mejora",
+        "bucle aprender-aplicar",
+        "comunicación visual de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Captar la atención y especializarse en subnichos.",
+      "context_after": "Inversión como empresa: Mentores y soft skills."
+    },
+    {
+      "id": "IP-05-006",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "09:19",
+      "end_timestamp": "12:05",
+      "start_seconds": 559,
+      "end_seconds": 725,
+      "duration_seconds": 166,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=559",
+      "title": "Inversión personal como empresa: Mentores frente a títulos",
+      "summary": "Pide a los entrenadores comportarse como corporaciones y reinvertir anualmente en sí mismos. Advierte sobre el error de comprar más 'títulos técnicos' (Masters en lesiones o nutrición), abogando por destinar presupuesto a mentores, imagen y soft skills, lo que desbloquea un verdadero retorno financiero.",
+      "literal_quote": "Uno de los errores que más veo es que la inversión que solemos hacer de lo que ganamos para el año siguiente suele ser en formación técnica... No. En comunicación, en imagen, en habilidades sociales... es indispensable.",
+      "full_transcript": "A nivel de diseño son espectaculares, ya todos con ChatGPT. Pero que alguien haga un dashboard y presente resultados, eso no es tan fácil. Y si no sabes hacerlo o te da pereza la tecnología o la IA, para eso estamos los mentores también, para ayudar a que esto te ayuden a presentarlo. Yo conozco gente que al final la propia presión del día a día, el propio trabajo del día a día en entornos de élite, no les permiten estar tan preocupados de su marca personal, su comunicación y visibilidad, para eso hay que contratar gestores, o de tus redes sociales o mentores que te ayuden a trabajar todas estas variables que estamos viendo. De hecho, yo os recomiendo que si estáis en una posición privilegiada a nivel económico dentro de un club, os recomiendo guardar un porcentaje, igual que la diversificación y la gestión financiera es importante, que es otro tema que suelo hablar en el MBA, cómo diversificar tu portfolio. Hay una parte que debes dedicar un porcentaje a invertir como si fueras una empresa. Todas las empresas tenemos una horquilla de porcentajes anual que los reinvertimos en mejora para el año que viene. Tú como profesional, igual, pero no solo en formación. Uno de los errores que más veo es que la inversión que solemos hacer de lo que ganamos para el año siguiente suele ser en formación técnica. Otro máster de readaptación de lesiones, otro máster de fisiología, otro curso de nutrición. No. En comunicación, en imagen, en habilidades sociales, interpersonales, en mentores, en asesores, es indispensable. Yo personalmente he pagado por mentorías, he pagado 1.000 € y más de 1.000 € por estar con una persona un par de horas tomando un café. Lo he pagado. Y 6.000. ¿Por qué? Porque claro, si apunto a desarrollar un proyecto, apunto a una facturación importante, lo que pueda ser 6.000 € en el corto plazo de inversión para que una persona me desbloquee y me diga tantos activos, porque él ha estado en el camino donde yo estoy ahora y me va a ayudar, puede tener un impacto en las cifras después de los proyectos de cientos de miles de euros. Sinceramente, yo lo he visto y lo he vivido. Aprendí a mejorar mi relación con el dinero y a invertir mucho en profesionales de calidad, más que a veces incluso en formaciones regladas o estándares. Os he puesto esta frase aquí: el mercado no recompensa lo que sabes, recompensa más el valor que entiendes, el valor que aportas. Construir ese valor es importante. Y ahora os voy a enseñar algo también que considero importante y de valor.",
+      "keywords": [
+        "reinversion",
+        "empresa-personal",
+        "formacion-tecnica-error",
+        "mentores",
+        "habilidades-blandas",
+        "dinero",
+        "retorno-inversion"
+      ],
+      "entities": [
+        "ChatGPT"
+      ],
+      "topics": [
+        "Financial Management",
+        "Self-Investment ROI"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es el error de sobreformación técnica que Parrilla advierte en los S&C?",
+        "¿Por qué pagar 6.000 € por una mentoría de pocas horas puede ser rentable a largo plazo?"
+      ],
+      "related_terms": [
+        "inversión en uno mismo",
+        "mentores estratégicos",
+        "devaluación de títulos técnicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ciclo del aprendizaje y la comunicación de resultados con IA.",
+      "context_after": "El pitch de presentación y las dos fórmulas de elevator pitch."
+    },
+    {
+      "id": "IP-05-007",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "12:05",
+      "end_timestamp": "15:23",
+      "start_seconds": 725,
+      "end_seconds": 923,
+      "duration_seconds": 198,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=725",
+      "title": "El pitch de presentación memorable (<20 segundos) y estructurado",
+      "summary": "Establece las reglas para presentarse en congresos o networking de manera clara, memorable y de menos de 20 segundos. Estructura el pitch en base a dos opciones: anteponer el 'Contexto' si es de altísimo prestigio (Alex, analista del Real Madrid) o anteponer el 'Valor' si es un club más modesto.",
+      "literal_quote": "Yo considero personalmente dos formas de presentarte... introducción o presentación personal. Debe ser evidentemente muy clara y fácil de recordar... memorable y clear.",
+      "full_transcript": "Cómo presentarse, cómo hacer que las oportunidades te vengan. Muchas veces vienen de no solo cómo crear tu currículum, que ahora os daré consignas, sino de cómo presentarte a ti mismo. La mayoría de las veces no sabemos presentarnos. Y decimos: \"Soy Juan... Soy George y soy preparador físico. Si tú te presentas así en un contexto de un congreso, un evento de networking, por ejemplo, o una oportunidad de que te presenten a alguien que te puede facilitar un contacto o una oportunidad en tu futuro, el cómo te presentes es esencial y hay que saber presentarse. Espero que os ayude la siguiente slide. Yo considero personalmente dos formas de presentarte. Primero, debes saber construir tu introducción o presentación personal. Debe ser evidentemente muy clara y fácil de recordar. Por eso pongo aquí lo de memorable y clear. Debe ser clara y fácil de recordar. Debe ser corta. Yo no recomiendo más de 20 segundos. Si es menos, mejor. Pero aquí hay algo importante: cómo se construye. Se construye de dos formas. Primero tienes que decir quién eres, evidentemente. Who you are, va en primer lugar. Esto en las dos formas es igual. Pero cambia la parte del contexto y la parte de valor. Aquí veréis que el contexto va antes, en esta opción uno, y en la opción dos veis que el valor que aportas va antes. ¿Por qué poner el contexto antes o el valor antes? Evidentemente, en función de la relevancia que tú le des al contexto donde estás. Aquí os he puesto varios ejemplos debajo. Si tú has tenido la oportunidad de trabajar en un departamento de rendimiento como readaptador, por ejemplo, y has llegado a un club de superélite, un top tier, por ejemplo, un Real Madrid o cualquier club de Champions, el contexto donde has trabajado es tan importante que va a ser memorable para la persona a la que te presentes. Se va a acordar. Si tú a una persona le dices: \"Soy Juan\", o por ejemplo, aquí os pongo: \"Soy Alex\", que este es el who you are, quién eres. Soy analista de rendimiento en el Real Madrid. Aquí el contexto, si es el Real Madrid, nómbralo antes porque se le va a quedar en los primeros tres segundos. Ponemos el contexto antes y después el valor que aportas. Ayudo a profesionales de primer equipo a mejorar decisiones tácticas con mi propio dashboard. Esto es muy genérico, evidentemente, no lo toméis tanto al pie de la letra, pero tienes que poner el valor después y el contexto primero. Si en el caso de que no hayas estado en contextos de top tier, por ejemplo, y has estado en clubes todavía más modestos, pero tú sabes que aportas mucho valor, lo que me decían en la mentoría: \"Es que yo sé que aporto valor, pero no se me reconoce\". Entonces, pon el valor primero y después el contexto. Es decir: \"Soy David, strength and conditioning coach\". Ya nos hemos presentado en la primera parte. Y el valor que aportas: \"Ayudo a atletas a mejorar el rendimiento a través de...\" Y luego al final acabas: \"Trabajo en el sub-21 de no sé dónde o en el equipo de mi pueblo de balonmano\", por ejemplo. Ponemos el valor porque con todos los respetos, por supuesto, si estamos en un equipo, por ejemplo, de ligas menores, no va a ser tan memorable como el impacto que dejas diciéndole el valor que aportas, cómo reduces la cantidad de lesiones, cuál es tu enfoque de trabajo, cómo trabajas los datos con dashboard propios, por ejemplo, y personales con IA. Construye eso y construye tu propia introducción. Esto te va a ayudar mucho.",
+      "keywords": [
+        "pitch",
+        "networking",
+        "memorable",
+        "veinte-segundos",
+        "contexto-primero",
+        "valor-primero",
+        "real-madrid"
+      ],
+      "entities": [
+        "Real Madrid",
+        "Alex",
+        "David",
+        "Juan",
+        "George"
+      ],
+      "topics": [
+        "Strategic Pitching",
+        "Personal Branding"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo se debe anteponer el contexto al valor en una presentación personal?",
+        "¿Cómo se redacta un pitch de presentación de alto impacto de menos de 20 segundos?"
+      ],
+      "related_terms": [
+        "elevator pitch",
+        "presentación de 20 segundos",
+        "fórmula de autopresentación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inversión personal como empresa: Mentores frente a títulos.",
+      "context_after": "El pensamiento de consultor y 'New Amsterdam'."
+    },
+    {
+      "id": "IP-05-008",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "15:23",
+      "end_timestamp": "18:59",
+      "start_seconds": 923,
+      "end_seconds": 1139,
+      "duration_seconds": 216,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=923",
+      "title": "Pensamiento de consultor y la pregunta de New Amsterdam",
+      "summary": "Proscribe hacer preguntas pasivas de bolsa de empleo y aboga por el 'pensamiento de consultor'. Utilizando de metáfora la serie 'New Amsterdam', propone aproximarse a los directivos de rendimiento preguntando únicamente: '¿Cómo puedo ayudar con mi valor?'",
+      "literal_quote": "Piensa como un consultor. Piensa como empresa ti mismo... No le preguntes: 'Oye, ¿tenéis puestos de trabajo abiertos?'. Esa es la peor pregunta. Elimina todo esto.",
+      "full_transcript": "Crear tus propias oportunidades nos va primero a entender el contexto y la organización para las que queremos trabajar. Aquí hay varias consignas también que he separado. En el caso de que vayamos a trabajar por cuenta ajena, antes de presentarte, debes conocer cuáles son las prioridades estratégicas del club al que te presentas o del mercado en general, y cuáles son los desafíos a corto plazo de ese club. O si no tienes un club claro porque vas a un evento, del mercado en general. ¿En qué se está enfocando el mercado? Imagínate que es en recovery o que es en un aspecto tecnológico de GPS. En el caso de que vayas a ir a un evento, por ejemplo, y te tengas que presentar a profesionales y van a haber varios clubes y no identifiques quiénes van a estar, identifica desafíos comunes entre los clubes de ese deporte, interiorízalos y llévalos preparados para tus próximas presentaciones. Hay una cosa que me gusta mucho, que es el pensamiento. Piensa como un consultor. Piensa como empresa ti mismo. Aunque vayas a buscar trabajo por cuenta ajena, piensa como un consultor. Si tienes la oportunidad de hablar con un decision maker de un club, no le preguntes: \"Oye, ¿tenéis puestos de trabajo abiertos? Que me gustaría aplicar\". Esa es la peor pregunta. Elimina todo esto. No vas a ningún sitio ya si dices eso. Hay una pregunta que me gusta mucho, está sintetizada, evidentemente, que es: ¿cómo puedo ayudar? Y os he puesto lo de \"New Amsterdam\" porque es una serie que intentaba cambiar el paradigma de la salud en los hospitales, etcétera, que el protagonista, todo el tiempo, en sus equipos decía: ¿cómo puedo ayudar? ¿Cómo puedo ayudar? Era la frase más repetida. ¿Cómo puedo ayudar? ¿Cómo puedo ser de ayuda con mi valor, que lo hemos hablado antes, en tu equipo? A veces frases tan impactantes, tan cortas, definen mucho y son una carta de presentación, que ya te digo yo que un decision maker, que no está ahí por cualquier cosa, un decision maker, un director de rendimiento de cualquier club de Champions League, conozco personalmente a varios, os digo yo que no está ahí por casualidad. Os digo yo que no solo tiene estos activos que estáis viendo aquí, tiene muchos más. Son personas que han llegado por algo y son personas que son capaces de distinguir detalles importantes en la presentación de personas. A mí también personalmente me ha pasado tener conversaciones de segundos con juniors y en segundos determinar si esa persona tiene talento. Esta persona va a tener una posición relevante en años. Se le nota por cómo se presenta, por cómo habla, por su tono, por la educación, por muchísimos aspectos de la construcción, más allá de los técnicos, por ese capital profesional. Eso se ve.",
+      "keywords": [
+        "prioridades-estratégicas",
+        "desafios-club",
+        "pensar-consultor",
+        "decision-maker",
+        "champions-league",
+        "new-amsterdam",
+        "como-puedo-ayudar"
+      ],
+      "entities": [
+        "New Amsterdam",
+        "Champions League"
+      ],
+      "topics": [
+        "Consultative Approach",
+        "Executive Networking"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué preguntar por puestos vacantes arruina la aproximación con un director de rendimiento?",
+        "¿Qué valor transmite la fórmula de New Amsterdam en la captación de talento?"
+      ],
+      "related_terms": [
+        "pensamiento de consultor",
+        "ayuda de valor",
+        "aproximación New Amsterdam"
+      ],
+      "relevance_score": 5,
+      "context_before": "El pitch de presentación memorable (<20 segundos) y estructurado.",
+      "context_after": "El cambio de paradigma: Del viejo al nuevo mindset."
+    },
+    {
+      "id": "IP-05-009",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Creación de Oportunidades y Valor",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "18:59",
+      "end_timestamp": "22:18",
+      "start_seconds": 1139,
+      "end_seconds": 1338,
+      "duration_seconds": 199,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1139",
+      "title": "Cambio de mindset y el elevator pitch personal",
+      "summary": "Establece la dicotomía entre el Old Mindset (responsabilidades, estudios, experiencia descriptiva) y el New Mindset (solucionador, resultados demostrables y legados). Finaliza aconsejando documentar el trabajo de forma meticulosa y propone un test de pitch rápido.",
+      "literal_quote": "La mayoría de las veces no sabemos presentarnos... Completa el formulario este: 'I help [avatar] achieve [result] through [method]'.",
+      "full_transcript": "Aquí os pongo también la mentalidad antigua con la mentalidad actual, el old mindset con el new mindset. La mentalidad antigua, cuando construíamos nuestro portfolio, se basaba en: yo tengo que poner mi experiencia, mis estudios, mi certificaciones y las responsabilidades que he hecho a lo largo de mi vida. Esta es la manera antigua de hacer el currículum vítae. ¿Esto vale? Hay que tenerlo, como el grado, como el máster, como todos hemos hecho el doctorado, etcétera. Tenerlo que tenerlo, pero no es para nada determinante. Esta mentalidad hay que cambiarla. No digo que no haya que tener esto, vamos a ponerlo, vamos a trabajarlo, pero hay que mandarla. ¿Por qué? Porque nos tenemos que ir a esta mentalidad que os estoy diciendo. Solucionador de problemas, valor que creamos, muestra de los resultados, la evidencia son los resultados. Lo repito aquí. Y el impacto o huella que dejamos. No me voy a entretener mucho más, pero es un resumen de lo que hemos hecho antes, de cómo lo hago, cómo dejo impacto, cómo resuelvo problemas, cómo pienso en la organización y entiendo los objetivos o cómo muestro evidencia. Cómo muestro resultados. Documenta todo tu trabajo. Un error que cometí yo también como emprendedor, sobre todo al principio, es que no documentaba tanto las cosas que hacía. Tengo estanterías llenas de libretas, desde hace 20 años, donde apuntaba cosas. Esa documentación de todo te hace mejorar mucho, porque a veces tienes tiempo para ir atrás, leer y decir qué ha salido bien y qué no ha salido tan bien, para aprender también. Todos tus proyectos, todos tus casos de estudio, documéntalos, todas tus investigaciones. Todo documéntalo para construir tu propio portfolio, pero también tu propio dashboard. Y la construcción de relaciones. Vamos a terminar este bloque, de valor y de creación de oportunidades, con el ejercicio práctico. Muy sencillo, vuelvo a repetir. Son ejercicios sencillísimos, pero nos pueden ayudar a desbloquearnos. Completa el formulario este. Cuando pares este vídeo y vayas al siguiente, defínete en una frase. Es decir, ¿ayudas? ¿A quién ayudas? I help. A qué tipo de avatar ayudas a conseguir. ¿Qué es lo que consigues? ¿Cuál es el resultado que tienes? ¿Y cómo lo haces? Ayudo a este perfil de esta manera. Aquí pongo ejemplos sencillísimos, muy ambiguos, muy genéricos, pero lo que quiero es mostrar la importancia de saber presentar y saber qué problema resuelves y cómo lo resuelves y a qué tipo de cliente o atleta lo resuelves. La clave es: ¿podría un extraño entender mi valor en menos de 20 segundos? Yo aquí he cometido muchos errores en mi vida. No he sabido presentarme en muchísima fase, es decir, yo sé que estoy emprendiendo, hago proyectos, va bien, me gano la vida, pero no sabía en pocos segundos determinar qué era emprendedor. Es importante saber que en menos de 20 segundos un extraño pueda saber qué hacemos, para quién trabajamos y cómo lo hacemos. Hasta aquí el bloque, este vídeo. Y vamos a terminar ya con el último vídeo en el que hablaremos del impacto o la huella dentro de los equipos. Espero que os hayan servido estas herramientas.",
+      "keywords": [
+        "old-mindset",
+        "new-mindset",
+        "evidencia",
+        "documentar-trabajo",
+        "libretas",
+        "elevator-pitch",
+        "avatar"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Mindset Transformation",
+        "Applied Communication"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué opina Ismael Parrilla sobre el currículum plano tradicional?",
+        "¿Cómo se formula la ecuación de ayuda rápida para el elevator pitch?"
+      ],
+      "related_terms": [
+        "nuevo mindset",
+        "documentar el proceso",
+        "fórmula I Help"
+      ],
+      "relevance_score": 5,
+      "context_before": "Pensamiento de consultor y la pregunta de New Amsterdam.",
+      "context_after": "Paso al Bloque 6: Impacto, legado y trabajo en equipo."
+    }
+  ]
+}

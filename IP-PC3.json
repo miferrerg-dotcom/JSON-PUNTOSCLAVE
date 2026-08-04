@@ -1,0 +1,335 @@
+{
+  "video": {
+    "video_id": "IP-03",
+    "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+    "speaker": "Ismael Parrilla",
+    "total_duration": "00:19:24",
+    "total_duration_seconds": 1164,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "IP-03-001",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:42",
+      "start_seconds": 0,
+      "end_seconds": 102,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "El diagnóstico de los estudiantes y el reto del foco",
+      "summary": "Analiza los cuestionarios rellenados por los estudiantes del programa de la NSCA. Revela que aunque los alumnos muestran excelente motivación y visión, el foco es el factor común más débil, afectado por las distracciones, estímulos constantes e hiperproductividad del día a día.",
+      "literal_quote": "Había un denominador común: prácticamente todo el mundo puso que la variable en la que menos se sentía preparado, en la que más débil se sentía, era el foco.",
+      "full_transcript": "Continuamos esta clase comenzando con los cuatro bloques principales para el desarrollo de una carrera profesional. Para el siguiente punto, el de dirección, pedí al equipo que hiciera una matriz muy simple para ver quién está en esta sala, quién compone esta serie de estudiantes y profesionales del programa, y cómo estáis a nivel de la visión que tenéis del sector, de la energía y motivación con la que os sentís ahora mismo para querer escalar vuestra carrera, del foco, de cómo de preparados estáis para tomar acción y los próximos pasos. En esa matriz salió algo muy interesante, y me gustó ver que la gran mayoría de vosotros tenéis casi clara la visión, los próximos pasos, os sentís ultramotivados para avanzar. Sin embargo, había un denominador común: prácticamente todo el mundo puso que la variable en la que menos se sentía preparado, en la que más débil se sentía, era el foco. Tal vez por el nivel de distracciones, de cantidad de estímulos, de inputs que recibimos en el día a día constantemente, la cantidad de planes que se nos pasan por la cabeza, la cantidad de cosas que tenemos que hacer, esta hiperproductividad y hiperactividad hacen que muchas veces no seamos capaces de enfocarnos en el día y de sacar tiempo suficiente para ello. Y lo considero un factor esencial también. De hecho, parte de esta clase la he preparado sabiendo que a la mayoría de vosotros os falta un poquito de ese foco, de esa dirección, de esa visión al medio largo plazo, pero que en el resto estáis estupendamente. Entonces, enhorabuena, me ha alegrado verlo y vamos a intentar reconducir el resto de la clase en base a esta parte del foco. ¿Qué patrones también he descubierto en base a los cuestionarios que habéis rellenado, de los estudiantes y profesionales que formáis parte del programa?",
+      "keywords": [
+        "diagnostico",
+        "matriz-estudiantes",
+        "nsca",
+        "foco",
+        "distracciones",
+        "hiperproductividad"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Mindset and Focus",
+        "Class Analysis"
+      ],
+      "content_type": [
+        "Explicación",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Cuál fue el hallazgo más sorprendente de la matriz realizada a los estudiantes de la NSCA?",
+        "¿Por qué el foco es el eslabón más débil de los profesionales hoy en día?"
+      ],
+      "related_terms": [
+        "foco profesional",
+        "gestión de estímulos",
+        "hiperproductividad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación del esquema del curso.",
+      "context_after": "Dudas habituales y ciclos profesionales."
+    },
+    {
+      "id": "IP-03-002",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "01:42",
+      "end_timestamp": "04:02",
+      "start_seconds": 102,
+      "end_seconds": 242,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=102",
+      "title": "Dudas habituales y la selección de ciclos de carrera",
+      "summary": "Aborda las preguntas recurrentes del alumnado sobre cómo posicionarse y acceder a clubes de élite. Explica que la trayectoria profesional no es lineal y compara dos ciclos: iniciar en campo para luego pasar al aula frente a iniciar en la academia y saltar al césped a los 30 o 40 años.",
+      "literal_quote": "Cada uno los ciclos profesionales debe elegirlos en función de su criterio personal y su criterio propio.",
+      "full_transcript": "Había varias preguntas que eran similares: ¿cómo alcanzo el deporte de élite? ¿Cómo llego a los grandes clubes? Que ahora hablaremos si ese es el resultado final para unos y para otros tal vez no lo sea. ¿Cuál es la mejor manera de llegar? Otro patrón es cómo me posiciono, cómo soy visible, cómo me puedo posicionar en un mercado cada vez más creciente, más demandante y más exigente. Hay otra cuestión que me gustó mucho, que es cómo estoy preparado, cómo sé que ya estoy preparado para el mercado. Nunca me doy cuenta de mí mismo. Esta pregunta en específico salió en la mentoría y os animo luego también a analizarla y a verla, porque tuvimos un debate ahí interesante en cómo una persona siente que está ya preparada. Cómo resuelvo la incertidumbre era otro patrón. Mucha incertidumbre en cuanto a ciertos temores comunes que tenéis, a edad, incluso. La edad, al final, cada uno decide su ciclo profesional. Aquí hay una comparativa que siempre hago: profesionales que en la etapa primera de su carrera deciden comenzar en la práctica profesional, buscar clubes, viajar por el mundo y desarrollar esa práctica, y después dan un salto a la vida académica o a la vida educativa como formadores, como profesores, etcétera. Y viceversa, profesionales que deciden empezar por una vida académica en la universidad, siendo docentes, siendo investigadores, y que luego, a partir de los 30 y tantos, 40 incluso más, deciden empezar a trabajar a pie de campo y a pie de pista. Ninguna cosa es mejor que la otra. Yo personalmente me inclino más por la primera, porque al final los ciclos de vida naturales, cuando eres joven, tienes más disposición normalmente para viajar, para estar más frecuentemente, para someterte a entornos de presión. Luego, conforme vas creciendo, ya tienes un plan de vida que te exige incluso una vida familiar, hijos, te permite viajar menos y a lo mejor buscas una vida más acomodada donde te guste dar charlas, te guste investigar, te guste ser profesor y parece lo más natural. Pero no tiene por qué. Cada uno los ciclos profesionales debe elegirlos en función de su criterio personal y su criterio propio. Pero evidentemente, cualquier camino puede valer.",
+      "keywords": [
+        "deporte-elite",
+        "posicionamiento",
+        "ciclos-carrera",
+        "vida-academica",
+        "vida-practica",
+        "presion"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Career Paths",
+        "Life Balance"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué dos grandes trayectorias de carrera compara Ismael Parrilla?",
+        "¿Cómo influyen los ciclos biológicos y de edad en las decisiones del S&C Coach?"
+      ],
+      "related_terms": [
+        "práctica de campo",
+        "carrera académica",
+        "etapas de vida"
+      ],
+      "relevance_score": 4,
+      "context_before": "El diagnóstico de los estudiantes y el reto del foco.",
+      "context_after": "La visión a largo plazo y la creación del Vision Board."
+    },
+    {
+      "id": "IP-03-003",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "04:02",
+      "end_timestamp": "06:38",
+      "start_seconds": 242,
+      "end_seconds": 398,
+      "duration_seconds": 156,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=242",
+      "title": "La visión a largo plazo y el Vision Board",
+      "summary": "Expone el error común de optimizar la carrera a corto plazo buscando el próximo club, en lugar de consolidar un plan a 5 o 10 años. Detalla el uso de herramientas como el onirograma o el 'vision board' para proyectar metas a 12 o 24 meses y encauzar el futuro profesional.",
+      "literal_quote": "Lo que yo llevo haciendo personalmente muchos años y he recomendado muchas veces como mentor es la creación del onirograma y a lo que ahora mucha gente llama el vision board.",
+      "full_transcript": "También hay ciertos temores y errores que he visto a lo largo de las matrices que he leído y de vuestras respuestas. Muchas veces el hecho de seguir oportunidades en lugar de visión, lo considero también muy importante. Muchas veces estamos buscando el próximo puesto de trabajo: cuál es el próximo club que me va a contratar, o me quiero ir a esta ciudad o me quiero ir a otra. En lugar de conformar cuál es la visión a medio o a largo plazo, que eso nos va a ayudar. Hablaremos de una diferencia de lo que es enfocarte en el próximo paso, que es importante. Eso en fases donde estás atascado y no sabes qué hacer, sí que hay que ser cortoplacista y accionar el próximo paso, pero en general viene bien construir tu plan a cinco o 10 años. Esto lo hablamos en la mentoría también. Lo que yo llevo haciendo personalmente muchos años y he recomendado muchas veces como mentor es la creación del onirograma y a lo que ahora mucha gente llama el vision board. Vision board no deja de ser un ejercicio de visualizar en un espacio de 12 meses, 24 meses, un objetivo o una meta que quieres alcanzar y ponerte diferentes hitos hasta conseguirlo y diferentes acciones que tienes que empezar a tomar. Pero considero esencial que ese vision board, que es el más comúnmente conocido en la actualidad, se haga lo antes posible para tener dirección y visión de cómo nos queremos visualizar como profesionales. Hay cuestiones clave. Por ejemplo, os pongo algunas. ¿A mí me gusta trabajar por cuenta ajena o por cuenta propia? Eso es importante. Hay gente que no le gusta trabajar por cuenta propia y que prefiere siempre tener la seguridad de tener un empleador y buscar un club o buscar un centro en el que tenga un salario. Tienes que visualizarlo cuanto antes y desarrollar esas competencias para ser contratado. Y lo contrario, gente que no le gusta trabajar por cuenta ajena y prefiere construir y emprender por sí mismo, porque le gusta desarrollar sus propios proyectos, a lo mejor la visión y las acciones que tiene que hacer son algo diferentes.",
+      "keywords": [
+        "onirograma",
+        "vision-board",
+        "largo-plazo",
+        "seguridad-laboral",
+        "cuenta-ajena",
+        "cuenta-propia"
+      ],
+      "entities": [
+        "Chris Paul"
+      ],
+      "topics": [
+        "Strategic Vision",
+        "Entrepreneurship"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es un onirograma y cómo ayuda al desarrollo de la carrera deportiva?",
+        "¿Qué reflexiones debe hacerse un profesional sobre trabajar por cuenta ajena o propia?"
+      ],
+      "related_terms": [
+        "vision board",
+        "onirograma",
+        "plan decenal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Dudas habituales y la selección de ciclos de carrera.",
+      "context_after": "Evitar la influencia externa y la definición de fortalezas."
+    },
+    {
+      "id": "IP-03-004",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "06:38",
+      "end_timestamp": "08:24",
+      "start_seconds": 398,
+      "end_seconds": 504,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=398",
+      "title": "Evitar el ruido externo y escuchar la voz interior",
+      "summary": "Señala el peligro de dejarse influir en exceso por las redes sociales, donde se consumen resultados ajenos de manera que distorsionan los deseos propios. Anima a conocerse a fondo y estructurar la carrera en base a las preferencias y debilidades individuales (p. ej., trabajar aislado vs. dirigir grandes equipos).",
+      "literal_quote": "Esta definición de tu carrera escuchando esa voz interior será esencial para visualizarte en los próximos años.",
+      "full_transcript": "En este punto donde hablo de dejar que otros definan tu carrera, no me refiero a que una persona venga y te diga lo que tengas que hacer. Me refiero a que ahora seguimos a tantas personas en redes sociales que nos muestran los resultados, que muchas veces nuestra visión se compone de diferentes inputs o resultados que vemos de diferentes personas y no somos capaces de escucharnos a nosotros mismos para definir qué realmente queremos, cuál es nuestro \"feeling\", qué sensaciones tenemos. Os ponía el ejemplo antes de trabajar por cuenta ajena o propia, también de trabajo en equipo o no en equipo. Hay gente a la que le gusta trabajar en equipo y hay gente a la que le gusta menos. Antes, hace más de 10, 15 años, me acuerdo de que en el currículum tenías que poner obligatoriamente: \"Me gusta trabajar en equipo\". ¿Por qué? Yo personalmente soy una persona que rindo más y produzco más en periodos de aislamiento, me siento mejor trabajando más solo, en contacto con menos personas y me cuesta más trabajar en entornos de equipos grandes. Conozco mis debilidades, soy consciente de ellas, por eso he construido mi carrera en torno también a mis debilidades. Pero hay otras personas que son maravillosas gestoras de equipos, los veo y son espectaculares, les encanta, navegan muy bien con equipos grandes. Construye tu carrera profesional en base a esa habilidad que tienes tan grande de trabajar y de dirigir equipos enormes. Que una persona no le guste trabajar en equipo no significa que trabaje mal en equipo. Yo, por ejemplo, he tenido que trabajar y que dirigir muchos equipos, y me he tenido que formar para ello. Que no me guste principalmente no significa que no sepa. Me he tenido que formar. Al final, nuestras habilidades también nos forjan y nos hacen sacar lo mejor de nosotros mismos. Esto de definir tu carrera escuchando esa voz interior será esencial para visualizarte en los próximos años. Otro error común que veo es optimizar.",
+      "keywords": [
+        "redes-sociales",
+        "voz-interior",
+        "debilidades",
+        "introversión",
+        "trabajo-aislado",
+        "gestion-equipos"
+      ],
+      "entities": [],
+      "topics": [
+        "Self-Awareness",
+        "Professional Identity"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo distorsiona el ruido de las redes sociales la visión de carrera?",
+        "¿Por qué es importante construir una carrera que respete las debilidades y preferencias relacionales?"
+      ],
+      "related_terms": [
+        "voz interior",
+        "gestión de equipos",
+        "introversión"
+      ],
+      "relevance_score": 4,
+      "context_before": "La visión a largo plazo y el Vision Board.",
+      "context_after": "Estrategias de emprendimiento y desarrollo en paralelo."
+    },
+    {
+      "id": "IP-03-005",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "08:24",
+      "end_timestamp": "12:20",
+      "start_seconds": 504,
+      "end_seconds": 740,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=504",
+      "title": "Optimización de la década y la estrategia paralela",
+      "summary": "Pide diseñar la trayectoria para la próxima década, no para el próximo empleo. Recomienda a quienes deseen independizarse y no cuenten con capital que empiecen por cuenta ajena, ahorren y construyan un proyecto paralelo los fines de semana, citando la filosofía de transición deportiva del jugador de la NBA Chris Paul.",
+      "literal_quote": "Chris Paul dijo algo que me gustó mucho: 'Tu segunda carrera empieza el mismo día que la primera'.",
+      "full_transcript": "Voy a intentar poner también el puntero por si lo usamos aquí. Voy a ponerlo aquí un poquito más fino. O la optimización para el próximo trabajo y no para la próxima década, como yo digo. Dar pasos demasiado cortoplacistas, es decir, prepararme para mi próxima posición o mi próximo trabajo, en lugar de: \"Me puedo preparar para mi próxima posición, puedo adaptar mi portfolio, mi currículum, pero yo tengo que trabajar paralelamente en construir mis próximos años, mi década o lustro\", nuestro \"vision board\". Pero es importante que demos siempre pasos paralelamente a nuestras posiciones. Cada trabajo es una oportunidad de aprender, pero demos pasos siempre paralelamente a construir nuestros próximos objetivos a medio o largo plazo. Seguimos avanzando. Antes os hablaba de consideraros a vosotros mismos activos en un mercado, que separéis un poquito la parte personal y que hagáis imagen de espejo a veros como profesionales. En ese veros como profesionales, muchas veces uso paralelismo del emprendimiento y de las empresas. Al final, yo me he rodeado, he emprendido, he creado empresas, también he cerrado empresas. Muchas veces mostramos nuestro éxito, pero también hay que mostrar que yo he hecho proyectos que han fracasado y no pasa nada, he aprendido de ellos, siempre con sentido común. Pero proyectos y empresas que he tenido que cerrar. En esa labor de considerarnos como un activo, como una empresa, es importante también desarrollar la visión. Todas las empresas tienen una visión, un propósito. También nosotros tenemos que trabajar, como he dicho anteriormente. También el entorno se va a volver crucial. ¿Qué es el entorno? Lo que os he mencionado anteriormente, en qué contexto trabajo mejor: en contextos de equipos grandes, de equipos pequeños, más en solitario. Es decir, me sentiría cómodo trabajando para un club, para una federación, en el sector público, en el sector privado, como investigador, como emprendedor. Define en qué entorno te desenvuelves mejor y ve a por él. Y si no tienes experiencia ninguna, prueba, intenta hacer test. Un consejo o una recomendación que siempre doy cuando alguien no tiene absolutamente nada y dice que no tiene patrimonio ni capital para empezar, mi mejor consejo siempre es: empieza trabajando por cuenta ajena, desarrolla, capitalízate lo que puedas, es decir, ahorra para tu próximo paso y para tu objetivo personal. No dejes de trabajar en tu \"vision board\" o en tu objetivo a medio o largo plazo mientras das lo mejor por cuenta ajena. Por cuenta ajena significa también dar lo mejor de ti mismo, no aprovechar tener un trabajo para ganar dinero y estar de pasada. Mientras estés trabajando para otra empresa, otra persona, da lo mejor de ti mismo como profesional, como si la empresa fuese tuya, pero sabiendo y diciéndole evidentemente a tus superiores que tu propósito a medio plazo es salir y desarrollar tu proyecto personal. Entonces, en ese sentido, mientras estés por cuenta ajena capitalizándote y aprendiendo, echa más horas los fines de semana, por las tardes, por las noches que sean falta para construir tu proyecto paralelo. Estuve en la mentoría de Chris Paul, muchos lo conoceréis, gran jugador de la NBA. Ahora hay muchos jugadores en España de fútbol y baloncesto que desarrollan y emprenden durante su etapa profesional. Y me gustó que dijo una expresión como: \"Start something on the side\". Empieza algo paralelamente a tu carrera profesional. Él como jugador ya empezó a construir sus próximos 10 años y su etapa de transición, que esto lo hablo mucho incluso con atletas profesionales. Tienes que empezar tu segunda carrera profesional en la primera. También Chris Paul dijo algo que me gustó mucho: \"Tu segunda carrera empieza el mismo día que la primera\". Entonces rodéate de buena gente, rodéate de buenos equipos, de buenos consultores, de buenos mentores, porque un atleta tiene que estar enfocado en jugar, principalmente. Pero para eso están los equipos. Y si son atletas profesionales y tienen suficientemente patrimonio, permítete usar parte de tu capital, de tu dinero y de tu patrimonio para rodearte de buena gente que te ayuden a construir los activos de tu vida, no de los próximos cinco años, de tu vida, que la mayoría son inversiones y empresas.",
+      "keywords": [
+        "optimizacion",
+        "ahorro",
+        "cuenta-ajena",
+        "proyecto-paralelo",
+        "chris-paul",
+        "transicion-atleta"
+      ],
+      "entities": [
+        "Chris Paul",
+        "NBA"
+      ],
+      "topics": [
+        "Financial Capital",
+        "Dual Careers"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué consejo de Chris Paul rescata Ismael Parrilla sobre la jubilación deportiva?",
+        "¿Cómo compagina un profesional su empleo actual con la construcción de su propia marca?"
+      ],
+      "related_terms": [
+        "start on the side",
+        "doble carrera",
+        "desarrollo paralelo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Evitar el ruido externo y escuchar la voz interior.",
+      "context_after": "Estilo de vida y toma de decisiones."
+    },
+    {
+      "id": "IP-03-006",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "12:20",
+      "end_timestamp": "16:50",
+      "start_seconds": 740,
+      "end_seconds": 1010,
+      "duration_seconds": 270,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=740",
+      "title": "Estilo de vida y las preguntas correctas para decidir",
+      "summary": "Explica que el estilo de vida (viajes, familia, idiomas, horarios, libertad) debe ser una variable crucial en el Vision Board. Al presentarse una decisión trascendental, sugiere no buscar respuestas directas sino plantearse las preguntas adecuadas (expertise, red, credibilidad y alineación).",
+      "literal_quote": "Hacerse las preguntas correctas creo que es esencial... ¿Estaré orgulloso de esta decisión dentro de cinco años?",
+      "full_transcript": "Y luego el estilo de vida, que también va a marcar y a diferenciarnos. Va a diferenciar nuestra visión a largo plazo, es decir, qué estilo de vida vas a tener. También hablo de estilo de vida personal: te gusta viajar, no te gusta viajar, vas a desarrollar una vida en pareja, soltero, aprendizajes de idiomas. El estilo de vida para mí es un ítem importante a tener en cuenta en vuestra matriz de vision board. Lo considero esencial, porque al final tenemos que ser felices. Hay gente a la que, por mucho entorno de élite, no le gusta trabajar por cuenta ajena, porque lo expone a horarios, a obedecer órdenes, a que lo que muchas veces dices se va a cumplir o no se va a cumplir, y tu estilo de vida es simplemente decir: \"No, es que yo quiero tener horario de libertad\". Empieza a construirlo lo antes posible para poder viajar, trabajar en remoto, estar desde donde quieras, tener tus hábitos a la hora que quieras. Ese estilo de vida es crucial también en esta creación de tu visión. Y en esta parte de la construcción de dirección, hay algunas preguntas que he puesto aquí que creo que os pueden ayudar a desbloquear. Como decía anteriormente, en una clase es imposible que yo os dé todo lo que hago en mentorizaciones durante horas o conversaciones privadas, pero he intentado sintetizar los elementos más importantes que os van a ayudar como profesionales del deporte. Por ejemplo, cuando respondas a preguntas relacionadas con los ítems que os he dicho anteriormente, o cuando respondas a próximos pasos de tu carrera, no sé si cambiar de país, no sé si aplicar a nuevos puestos de trabajo, no sé si cambiar, no sé si estoy cómodo en lo que hago, llevo mucho tiempo. En la mentoría dijimos que muchas veces intentamos buscar rápidamente las respuestas, pero las respuestas están muchas veces en las preguntas correctas. Hacerse las preguntas correctas creo que es esencial. Pero ¿cuáles son las preguntas correctas? Cada vez que debemos tomar una decisión importante en nuestra vida, como es mudarnos de país, especialmente si tenemos familia, o cambiar de puesto de trabajo o cambiar de entorno. Hay unas preguntas que considero esenciales. Es decir, si yo quiero cambiar de un equipo a otro, por ejemplo, y tengo que tomar decisiones, puedo decir: \"¿Va a desarrollar mi expertise, mi combinación de experiencia y conocimiento?\" Expertise no lo considero solo experiencia, lo considero una comunicación entre experiencia y conocimientos teórico-prácticos. Es decir, ¿este cambio me va a ayudar a ser mejor profesional, a desarrollar mi expertise? ¿Va a mejorar mi red de contactos de valor? ¿Va a incrementar mi credibilidad? Y ojo, porque aquí pongo algo importante: credibilidad es diferente a visibilidad. Hoy en día en las redes nos obsesionamos con tener visibilidad a toda costa. Yo he visto que la gente hace cosas impresionantes por captar la atención y por ser visibles. Para mí es más importante, no creo que más sea mejor, diferenciar lo que es visibilidad de credibilidad. Yo prefiero un profesional que construya más credibilidad, aunque sea menos visible o tenga menos impacto. Igual que hablamos de dosis eficaz en el entrenamiento, saber construir la dosis eficaz de tus comunicaciones es esencial. A veces no hacen falta muchas stories, muchos posts, muchos congresos. Veo compañeros, incluso oponentes, que no paran de dar charlas, congresos por todos lados, todas las semanas. Son muy visibles, pero su impacto, ya no hablo de credibilidad, son grandes profesionales. Pero yo defiendo que es mejor dosificar las veces a las que vas y en qué congresos, en qué charlas estás o dónde vas a aparecer, y que sea de ultra calidad y que te aporte valor, a tener una visibilidad a toda costa. Es una opinión personal, por supuesto, debatible. Y algo que es importante: ¿esas decisiones van a estar alineadas con mi dirección a largo plazo? Es decir, ¿va a alimentar, va a nutrir, va a mejorar y va a complementar mi visión a largo plazo? Esto va a ser esencial también como pregunta a la hora de tomar una decisión. Y luego hay otra muy importante que me gusta mucho: ¿estaré orgulloso de esta decisión dentro de cinco años? Esto supone hacer un ejercicio reflexivo y casi filosófico personal de decir: \"Voy a intentar meditar por unos minutos, visualizarme en cinco años y decir: ¿voy a estar orgulloso de si tomo esta decisión y abandono este club y me voy al otro? ¿Voy a estar orgulloso de tomar una decisión tan importante como dejar un club para emprender mi proyecto por cuenta propia?\" Eso creo que va a ser un factor clave también en la toma de decisiones. Nunca sabemos si la decisión es correcta o no. A largo plazo lo entendemos. Pero la vida es de los valientes y vivimos en ciclos cambiantes profesionales, y estas preguntas son muy importantes ahora mismo a la hora de tomar decisiones y espero que os ayuden.",
+      "keywords": [
+        "estilo-vida",
+        "preguntas-correctas",
+        "decisiones",
+        "expertise",
+        "credibilidad",
+        "visibilidad-dosis",
+        "cinco-años"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Strategic Lifestyle",
+        "Decision Making Process"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el estilo de vida debe prevalecer al diseñar el Vision Board?",
+        "¿Qué cinco preguntas fundamentales propone Ismael Parrilla antes de cambiar de club o proyecto?"
+      ],
+      "related_terms": [
+        "calidad de vida",
+        "dosis de visibilidad",
+        "test de los 5 años"
+      ],
+      "relevance_score": 5,
+      "context_before": "Optimización de la década y la estrategia paralela.",
+      "context_after": "El Cuestionario de Dirección y desconexión analógica."
+    },
+    {
+      "id": "IP-03-007",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Foco, Dirección y Planificación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "16:50",
+      "end_timestamp": "19:24",
+      "start_seconds": 1010,
+      "end_seconds": 1164,
+      "duration_seconds": 154,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1010",
+      "title": "El cuestionario de dirección 'Back to Basics'",
+      "summary": "Propone salir del entorno tecnológico y realizar una autoreflexión con papel y boli mediante un test de dirección básica que cubre: destino a largo plazo, próximo hito (milestone), tres competencias requeridas y una acción realizable de inmediato.",
+      "literal_quote": "El 'back to the basics', el volver a lo esencial muchas veces... coge papel y boli.",
+      "full_transcript": "Os voy a dejar ahora, para terminar este módulo de dirección, con un cuestionario sencillísimo. Por supuesto, es una síntesis de un cuestionario muy largo que normalmente tengo para mentorizados. Pero esto es algo muy básico en lo que os recomiendo coger papel y boli. ¿Por qué? Porque también hay ciencia y evidencia científica del impacto que tiene usar papel y boli, o papel y lápiz, por ejemplo, en lugar de tecnología. Salir de la tecnología, salir de las interrupciones de las notificaciones por un momento, coge papel y boli. Yo he aprendido mucho el método Zettelkasten. Hubo evidencia científica del impacto en la retención del conocimiento de las personas en función de los que escribían a ordenador las notas a los que lo escribían con papel y boli. Hay una conexión mente-cerebro importantísima que no vamos aquí a profundizar. No soy experto ni mucho menos, pero aprendí lo esencial de eso. Entonces, coge papel y boli, no tengas miedo. Seguramente un junior a lo mejor le cueste menos, pero aquí hay profesionales de muchísima élite. A mí me pasó que dije: \"¿Dónde voy yo a coger ahora un boli si yo tengo aquí mis tablets o mi iPad para hacer todo? Soy ultratecnológico\". No. El \"back to the basics\", el volver a lo esencial muchas veces, el parar un poquito, el frenar, el sentir el tacto de un libro, de un papel, creedme que nos da calma, nos da paz y nos da visión y claridad. Entonces, empieza con algo muy sencillo. Antes de la siguiente sesión, intenta poner un poco cuál es tu destino, dónde te ves a largo plazo, cuál es tu próximo milestone, tu próximo hito para conseguir ese destino que te propones, cuáles son tus tres skills, tus tres habilidades más importantes que necesitas para conseguirlo y cuál es la acción que vas a hacer hoy mismo. Siempre he dicho que no vale lo de empiezo mañana, lo de empiezo el lunes, igual que en las dietas. Hay que empezar ya. Pero ya es ahora mismo, en esta clase. Si realmente tienes algunos bloqueos, no te esperes a mañana. Empieza absolutamente ahora mismo a redactar algo tan básico como esto. Luego te podré proporcionar cuestionarios más adelante más profundos, pero empieza con algo básico que te dé claridad y te dé la primera acción. Antes de movernos al siguiente módulo, te pido que termines este vídeo, pares, desarrolles esto, cojas papel, cojas lápiz, escribas y, como digo yo, no sobrepienses, no estés mucho tiempo. Lo primero que te venga a la cabeza. A veces la primera decisión suele ser muchas veces la correcta. No te quedes pensando mucho sobre este tipo de respuestas que necesitas ahora mismo. Sé incluso lo más rápido posible y te veo en el próximo vídeo, en el próximo módulo.",
+      "keywords": [
+        "analogo",
+        "papel-boli",
+        "zettelkasten",
+        "destino",
+        "hito-milestone",
+        "tres-skills",
+        "accion-inmediata"
+      ],
+      "entities": [
+        "Zettelkasten"
+      ],
+      "topics": [
+        "Strategic Diagnostics",
+        "Analog Methodology"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué Ismael Parrilla promueve el uso del papel y bolígrafo basándose en la ciencia?",
+        "¿Cuáles son las cuatro preguntas fundamentales del cuestionario de dirección?"
+      ],
+      "related_terms": [
+        "Zettelkasten",
+        "back to basics",
+        "claridad analógica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estilo de vida y las preguntas correctas para decidir.",
+      "context_after": "Paso al Bloque 4: Construcción del capital profesional."
+    }
+  ]
+}

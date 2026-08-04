@@ -1,0 +1,340 @@
+{
+  "video": {
+    "video_id": "IP-06",
+    "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+    "speaker": "Ismael Parrilla",
+    "total_duration": "00:15:39",
+    "total_duration_seconds": 939,
+    "source_file": "WEBVTT-6.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "IP-06-001",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:01",
+      "start_seconds": 0,
+      "end_seconds": 61,
+      "duration_seconds": 61,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción al impacto y legado en equipos",
+      "summary": "Presenta el último bloque temático, enfocado en las personas que están trabajando en activo y que buscan aumentar la visibilidad, valor y relevancia de su trabajo en el día a día para dejar huella.",
+      "literal_quote": "Acabaremos con una parte de impacto o huella, o cómo me vuelvo indispensable, que está más dedicado a las personas que ya trabajan en activo y que intentan que su trabajo se vea y que sea valorado.",
+      "full_transcript": "Seguimos con esta clase y con el siguiente vídeo. Vamos a hacer un repaso. Espero que os esté sirviendo lo que os comento, espero que os sea de ayuda y que active esas palancas que necesitéis para escalar o mejorar vuestra carrera. Como resumen, hemos hablado de dirección, visión y construcción de tu identidad. Hemos hablado de cómo construir, una vez que tienes claro hacia dónde vas y ese camino y ese vision board, los activos para desarrollar tu capital profesional. Hemos hablado de cómo crear valor y cómo generar oportunidades. Os he intentado dar lo más parecido a esas fórmulas que funcionan. Y acabaremos con una parte de impacto o huella, o cómo me vuelvo indispensable, que está más dedicado a las personas que ya trabajan en activo y que intentan que su trabajo se vea y que sea valorado.",
+      "keywords": [
+        "repaso",
+        "indispensable",
+        "huella",
+        "legado",
+        "trabajo-activo"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Career Legacy",
+        "Professional Visibility"
+      ],
+      "content_type": [
+        "Explicación",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué abarca el bloque de impacto o huella profesional según Ismael Parrilla?",
+        "¿Para qué tipo de profesionales está diseñado especialmente este bloque?"
+      ],
+      "related_terms": [
+        "huella profesional",
+        "relevancia laboral",
+        "desarrollo en activo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la última clase.",
+      "context_after": "Humildad intelectual y alineación grupal."
+    },
+    {
+      "id": "IP-06-002",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "01:01",
+      "end_timestamp": "03:00",
+      "start_seconds": 61,
+      "end_seconds": 180,
+      "duration_seconds": 119,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=61",
+      "title": "Humildad intelectual y el enfoque de equipo",
+      "summary": "Reflexiona sobre el ego profesional en entornos deportivos y aconseja anteponer la humildad, la empatía y la honestidad. Señala que el S&C trabaja para elevar al equipo, y es el equipo el que impulsa a la organización.",
+      "literal_quote": "Cuando lleguemos al nivel de organización y la organización haya cumplido los objetivos, siempre hablar de que lo ha conseguido el equipo. Siempre.",
+      "full_transcript": "Lo más importante es siempre hacerte la pregunta de cómo puedes mejorar al equipo. En el caso de que ya estés trabajando en equipos, es muy importante hacerse preguntas a sí mismo: para qué estás ahí. A veces no tenemos la humildad suficiente, porque el ego nos hace pensar que lo que nosotros sabemos o nuestra experiencia es lo que funciona, y muchas veces no funciona. He estado con profesionales de muchísimos países con los que trabajo, con los que me relaciono en el día a día, y os puedo contar que incluso hay profesionales ultrapreparados a nivel técnico, de experiencia, donde se someten a contextos culturales y políticos diferentes, donde no se obtienen resultados ni incluso haciendo lo mejor de ti. Entonces, primero, yo creo que habría que desarrollar esas habilidades también de empatía, de humildad, de honestidad, lo que hablábamos del credibility, de la credibilidad. Y tienes que pensar siempre en cómo tu trabajo mejora el equipo, sabiendo que el resultado siempre va a ser un resultado de equipo. Tienes que tener claro cuál es tu rol, cuál es tu expertise dentro del equipo, qué impacto vas a tener, cómo lo vas a mejorar, cómo vas a elevar los estándares de ese equipo, cómo tu trabajo a través de tu equipo va a mejorar la organización. Y aquí os animo a pensar también como equipo, nunca ser tan egoístas de pensar: \"Es que el equipo ha hecho que la organización o el club llegue a esta posición o mejore tanto\". Mi trabajo no, el trabajo del equipo, aunque tú hayas sido el que más trabaje. Ten la honestidad, ten la humildad. Y a veces hay que hacer ese ejercicio. Cuesta, porque sabemos que hay gente que no trabaja bien, o no se puede llevar con compañeros, o quiere destacar a toda costa, lo que hablábamos de la visibilidad a toda costa. Allá ellos. Nosotros mantengámonos y seamos fieles a nuestra identidad profesional. Cuando lleguemos al nivel de organización y la organización haya cumplido los objetivos, siempre hablar de que lo ha conseguido el equipo. Siempre. Hayas sido el que más haya hecho, incluso el líder.",
+      "keywords": [
+        "ego",
+        "humildad",
+        "empatia",
+        "credibilidad",
+        "trabajo-equipo",
+        "liderazgo-colectivo",
+        "organizacion"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Team Dynamics",
+        "Professional Ethics"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el ego obstaculiza el impacto de un profesional ultrapreparado?",
+        "¿Cómo se articula la relación entre individuo, equipo y organización?"
+      ],
+      "related_terms": [
+        "humildad en el liderazgo",
+        "resultados colectivos",
+        "identidad profesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción al impacto y legado en equipos.",
+      "context_after": "El mercado de la élite y la red WhatsApp."
+    },
+    {
+      "id": "IP-06-003",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "03:00",
+      "end_timestamp": "04:42",
+      "start_seconds": 180,
+      "end_seconds": 282,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=180",
+      "title": "La alta rotación y el reclutamiento vía 'WhatsApp' en la élite",
+      "summary": "Expone la alta volatilidad en los staffs deportivos de élite y explica que las ofertas muchas veces circulan de forma ágil y por canales informales ('WhatsApp'). Resalta la enorme responsabilidad ética de recomendar a un profesional.",
+      "literal_quote": "Y ese staff se desgrana y acaba en diferentes países y culturas... Depende de que la persona con la que has trabajado al lado al final acabará en otro sitio y te llamará. Y ese es el famoso: 'Es que los puestos van por WhatsApp'.",
+      "full_transcript": "Tú estás aquí, trabajas para el equipo, el equipo mejora la organización. Y todo ese cómputo es lo que va a hacer el impacto de tu carrera, es lo que te va a hacer crecer. Porque luego, en la élite, el equipo es muy cambiante y todos lo sabéis. Estás pocos años, a veces estás solo una temporada y a veces no llegas ni a terminar la temporada, pero no solo tú, un staff entero. Y ese staff se desgrana y acaba en diferentes países y culturas. Nunca sabes quién te va a llamar. Tu puesto de trabajo a veces no depende de tu currículum, tu portfolio y todos esos activos. Depende de que la persona con la que has trabajado al lado al final acabará en otro sitio y te llamará. Y ese es el famoso: \"Es que los puestos van por WhatsApp\". Pero por WhatsApp no llaman a cualquiera. Te estás jugando mucho. Yo, por ejemplo, si tuviera que recomendar a alguien para un puesto de trabajo, sé que me la juego yo, porque quien vaya en mi nombre también va a hablar de mí. Creo que considero importante tener en mente esta mentalidad de que tú como persona formas parte de un equipo, ese equipo consigue los objetivos de una organización o de un club completo y el cómputo de todo es lo que deja el impacto de tu carrera deportiva.",
+      "keywords": [
+        "rotación",
+        "elite",
+        "staff",
+        "reclutamiento-informal",
+        "whatsapp",
+        "recomendaciones",
+        "reputacion"
+      ],
+      "entities": [
+        "WhatsApp"
+      ],
+      "topics": [
+        "Elite Sport Ecosystem",
+        "Professional Networks"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué dinámicas de alta rotación caracterizan a los staffs deportivos de élite?",
+        "¿Por qué una oferta de trabajo enviada por WhatsApp conlleva tanta responsabilidad ética?"
+      ],
+      "related_terms": [
+        "vínculos de confianza",
+        "mercado informal de empleo",
+        "cohesión de staff"
+      ],
+      "relevance_score": 5,
+      "context_before": "Humildad intelectual y el enfoque de equipo.",
+      "context_after": "Las 10 dimensiones de evaluación del talento."
+    },
+    {
+      "id": "IP-06-004",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "04:42",
+      "end_timestamp": "08:31",
+      "start_seconds": 282,
+      "end_seconds": 511,
+      "duration_seconds": 229,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=282",
+      "title": "Las 10 dimensiones técnicas y contextuales del talento",
+      "summary": "Establece la rúbrica de Ismael Parrilla de 10 dimensiones, agrupadas en dos categorías: Aspectos Técnicos (Educación, Experiencia, Metodología, Tecnología, Toma de decisiones) y Aspectos Contextuales/Organizacionales (Movilidad, Comunicación, Integración de staff, Adaptación bajo presión, Liderazgo/Influencia).",
+      "literal_quote": "Yo separo lo que son aspectos técnicos de lo que son aspectos organizacionales o contextuales.",
+      "full_transcript": "Aquí vienen diferentes aspectos que considero esenciales en los que creo que hay que formarse. Hace poco hice un webinar, un curso que hablaba de influencia también con autoridad. También hice otro curso hace poquito de cómo destacar siendo introvertido, que lo considero importante. Hay gente muy introvertida, que no le gusta hablar en grupos, pero que hace trabajos impresionantes. Entonces, aprendes cómo el trabajo puede hablar por ti sin necesidad de ser un gran comunicador, porque de forma innata no lo eres. Hay formas, como os digo, por ejemplo, la presentación de tu trabajo con dashboards, cómo te presentas habla de ti. Algunos de estos activos ya los hemos hablado durante el resto de módulos, pero quería sintetizarlos aquí dentro de un equipo, lo que considero más importante. Evidentemente, yo os estoy dando una visión externa con los profesionales con los que trabajo, tanto del rendimiento y también trabajo con profesionales entrenadores, en mi caso UEFA, con los que trabajo, no son profesionales del rendimiento, son entrenadores o mánager de clubes de Champions League. El hablar con ellos me permite conocer, diferenciar, poner en contexto y tener esta información. Pero evidentemente, yo no trabajo dentro de un club. Para eso, este programa del Performance Science de la NSCA, dentro de mi área de management, vais a tener charlas o clases que os van a hablar de cómo gestionar dentro del club directamente estos aspectos que os digo importantes. Entonces, atender esas charlas, yo las atenderé también y seguro que aprendo como profesional. Pero quería ser honesto también. Entonces, esta parte de inside out hay que ponerla en contexto y saber cuáles son sus puntos fuertes. Pero al trabajar con muchísimos profesionales a lo largo de los últimos años, me han de hecho trabajar en diferentes dimensiones. 10 dimensiones en dos categorías o dos áreas diferentes. Yo separo lo que son aspectos técnicos de lo que son aspectos organizacionales o contextuales. Los aspectos técnicos que yo defino como diferenciadores, pero no suficientes para alcanzar la élite, son la educación, es decir, tu educación formal y no formal y tu plan de formación continua, si tienes grado, máster, posgrado, etcétera. Tu experiencia, tus metodologías que controlas, tu tecnología, y estas dos se pueden unir, metodología y tecnología ahora están unidas. Qué tipo de marcas sabes usar, plataformas de fuerza, dinamómetros, cómo los usas, dashboard. Esto es importantísimo. Y tu capacidad de toma de decisiones. Esto lo considero aspectos técnicos formativos que sin duda tienes que desarrollar. Pero luego están los contextuales u organizacionales, donde están contextos de dimensión de movilidad. ¿Tienes disponibilidad para irte a otras culturas, regiones, países? Hay gente, por ejemplo, a la que no le gusta trabajar en otras regiones, por ideologías personales o por contextos familiares, no tiene la capacidad de ser del mobility, y esto es esencial en la élite. ¿Por qué? Porque te pasas viajando y en aviones todas las semanas. Entonces, yo considero esto importante. Comunicación, habilidades de comunicación, temas de cómo integrarte en un staff. Hemos visto antes las variables más importantes. Adaptación a los entornos y a los contextos, sobre todo en temas de crisis o en temas de presión. En temas de presión lo considero importante. Y luego el tema de liderazgo o de influencia, del que también hemos hablado. También hay formaciones específicas.",
+      "keywords": [
+        "aspectos-técnicos",
+        "aspectos-contextuales",
+        "movilidad",
+        "presion",
+        "crisis",
+        "introvertido",
+        "10-dimensiones",
+        "uefa"
+      ],
+      "entities": [
+        "UEFA",
+        "NSCA"
+      ],
+      "topics": [
+        "Evaluation Models",
+        "Operational Frameworks"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo clasifica Ismael Parrilla las 10 dimensiones profesionales en el deporte?",
+        "¿Por qué la movilidad geográfica (mobility) es clave en el deporte de alto nivel?"
+      ],
+      "related_terms": [
+        "dimensiones técnicas",
+        "dimensiones contextuales",
+        "perfil híbrido"
+      ],
+      "relevance_score": 5,
+      "context_before": "La alta rotación y el reclutamiento vía 'WhatsApp' en la élite.",
+      "context_after": "Sport Talent Hub y la automatización del talento."
+    },
+    {
+      "id": "IP-06-005",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "08:31",
+      "end_timestamp": "10:21",
+      "start_seconds": 511,
+      "end_seconds": 621,
+      "duration_seconds": 110,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=511",
+      "title": "Sport Talent Hub: La herramienta de filtrado y radar de talento con IA",
+      "summary": "Detalla la creación de 'Sport Talent Hub', una aplicación privada basada en IA que evolucionó de un Excel. Permite trazar radares de araña y puntuar en escala Likert las 10 dimensiones a preparadores físicos, sport scientists y readaptadores, ayudando a los clubes a contratar.",
+      "literal_quote": "De ese Excel me hice mi propia aplicación privada de IA: el Sport Talent Hub.",
+      "full_transcript": "Entonces, en base a estas dos áreas y a estas 10 dimensiones, yo personalmente hace años usaba un Excel. Y de ese Excel me hice mi propia aplicación privada de IA: el Sport Talent Hub. Os he puesto incluso el QR, si alguno queréis explorarlo. Es una aplicación que aplico un profesional del rendimiento del staff, puede ser readaptador, sport scientist, strength and conditioning coach, performance director o rehabilitador. Todos los que trabajan en un staff, quitando el medical staff, con los que realmente no trabajo en el día a día y no tengo tanto conocimiento, ni por supuesto nutricionistas, psicólogos y demás. Pero todas las áreas del rendimiento están aquí. En este vídeo habéis visto un ejemplo de cómo al aplicar todas las dimensiones que os he nombrado anteriormente, que están aquí reflejadas, te pueden dar un perfil. Puedo saber los años que lleva, los clubes en los que ha estado. Puedo determinar unas variables numéricas con escalas de Likert, los clubes donde ha estado, sus logros más importantes, su matriz vista aquí con las dimensiones que os he dicho: educación, experience, metodología, movilidad, comunicación, mobility. Todo viene aquí y los profesionales lo rellenan con la escala de Likert. Es una herramienta privada que uso y que, en los momentos en los que los clubes necesitan profesionales, es una manera de filtrar, sabiendo ya datos contextuales del entorno y de habilidades sociales de cada profesional, que pueden ayudar a tomar mejores decisiones a la hora de contratar. Y eso al final te ahorra tiempo y te ahorra dinero, especialmente a los clubes.",
+      "keywords": [
+        "sport-talent-hub",
+        "excel",
+        "radar",
+        "radar-araña",
+        "escala-likert",
+        "filtrado",
+        "ahorro-costes"
+      ],
+      "entities": [
+        "Sport Talent Hub"
+      ],
+      "topics": [
+        "Recruitment Technology",
+        "Artificial Intelligence"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué funciones integra la aplicación Sport Talent Hub?",
+        "¿Cómo ayuda el análisis contextual de Sport Talent Hub a reducir los costes de contratación de un club?"
+      ],
+      "related_terms": [
+        "Sport Talent Hub",
+        "gráficos de radar",
+        "evaluación predictiva de talento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las 10 dimensiones técnicas y contextuales del talento.",
+      "context_after": "Preguntas de auditoría para el profesional indispensable."
+    },
+    {
+      "id": "IP-06-006",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "10:21",
+      "end_timestamp": "12:20",
+      "start_seconds": 621,
+      "end_seconds": 740,
+      "duration_seconds": 119,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=621",
+      "title": "Preguntas de auditoría del profesional indispensable",
+      "summary": "Establece una serie de preguntas críticas para auditar el impacto personal en el staff: ¿cuál es mi valor único?, ¿qué se pararía si no vengo una semana?, ¿qué recordarán mis compañeros al trabajar conmigo?",
+      "literal_quote": "Mañana si no vengo al staff, si estoy una semana fuera, ¿qué se deja de hacer? Porque si hay algo que se deja de hacer sin ti, puede ser de un gran valor.",
+      "full_transcript": "Siempre acabo con ejercicio práctico, pero primero últimas preguntas. Como os digo, a veces las preguntas son más importantes que las respuestas en sí. Saber las preguntas correctas que tienes que hacerte a ti mismo. Es decir, si tú estás dentro de un club, por ejemplo, o trabajas en un equipo, esto vale no solo para el deporte, evidentemente. Pero, ¿cuál es el valor diferencial o único? Disculpad, vuelvo otra vez, que quería poner el puntero. ¿Cuál es el valor único que traigo al equipo? Sé que me repito, pero es que es muy importante: ¿qué problemas resuelvo repetidamente o constantemente? ¿Qué se pararía sin ti? Esto parece que no, pero es importante esta pregunta. Es decir, mañana si no vengo al staff, si estoy una semana fuera, ¿qué se deja de hacer? Porque si hay algo que se deja de hacer sin ti, puede ser de un gran valor. Habrá que analizar en contexto qué puede ser, pero puede ser que ahí esté un verdadero valor. Si algo se frena, si tú no estás, qué aportas al equipo. Y algo que considero también muy importante, que es: ¿qué deberían las personas con las que trabajo recordar cuando trabajan contigo? Considero estas preguntas esenciales, que espero que os sirvan en vuestro día a día.",
+      "keywords": [
+        "auditoría",
+        "valor-único",
+        "cuello-botella",
+        "indispensable",
+        "ausencia-impacto"
+      ],
+      "entities": [
+        "Ismael Parrilla"
+      ],
+      "topics": [
+        "Professional Audit",
+        "Role Relevance"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué relevancia tiene la pregunta '¿qué se pararía sin ti?' según Ismael Parrilla?",
+        "¿Cómo evalúa un profesional su impacto a largo plazo en un club mediante la memoria de su staff?"
+      ],
+      "related_terms": [
+        "pregunta de ausencia",
+        "cuello de botella de valor",
+        "auditoría interna de valor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Sport Talent Hub: La herramienta de filtrado y radar de talento con IA.",
+      "context_after": "Takeaways generales y analogía del artista."
+    },
+    {
+      "id": "IP-06-007",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Impacto, Legado y Trabajo en Equipo",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "12:20",
+      "end_timestamp": "15:39",
+      "start_seconds": 740,
+      "end_seconds": 939,
+      "duration_seconds": 199,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=740",
+      "title": "takeaways del curso y la analogía del artista",
+      "summary": "Establece las conclusiones generales de la sesión (Claridad, Inversión, Problem solving, Legado). Concluye con la metáfora del artista: un profesional de élite nunca está terminado y siempre cultiva la humildad por seguir formándose, incluso a los 60 años.",
+      "literal_quote": "Los mejores profesionales nunca están acabados... Un cuadro, un poema, una canción nunca está acabada... Siempre tenemos algo que mejorar.",
+      "full_transcript": "Hasta aquí la clase. Espero haber sintetizado al máximo posible esta clase, esta especie de mentoría grabada. Creo que se ha alargado un poquito más, pero aun así, considero que todo lo que os he puesto es un resumen de todo el trabajo que suelo hacer en este sentido, tanto con profesionales como con estudiantes de universidad, que son futuros profesionales, gestores deportivos y directores deportivos. Espero que os haya ayudado. Voy a terminar con unos key takeaways. Siempre me gusta resumir un poco toda la información. Siempre digo que cuando tienes una charla, al final todo el mundo nos quedamos con dos o tres cosas. Es imposible asimilar tanta información, no sabes ni cómo contextualizarla ni qué te queda, pero sí nos quedamos con dos o tres cosas que nos activan y que recordamos casi para toda la vida, si realmente ha tenido valor. Yo he intentado sintetizar algunas partes de toda esta charla que hemos dado. Uno es la claridad: tener claridad hacia dónde queremos ir. Esto nos va a ayudar también a tomar mejores decisiones a lo largo del camino. La otra es invertir. Durante toda tu vida tienes que invertir en mejorar tus skills, tus relaciones, tu reputación. Invertir es clave. Otra, una vez más, cómo no iba a salir en los takeaways, es ser un solucionador de problemas. La cuarta, considero importante dejar huella, dejar legado, el impacto que vas a tener en el caso de que trabajes en equipos dentro de la organización. Esto va a dejar el impacto en tu carrera. Por último, comentar que los mejores profesionales nunca están acabados. Esto lo aprendí también de artistas. Los artistas dicen que una obra nunca está acabada. Un cuadro, un poema, una canción nunca está acabada, nunca es lo perfecto. Si cogieran pintores ahora cuadros de hace años, seguro que mejorarían algunos trazos. Nosotros igual. No creo que seamos profesionales que estemos siempre ya culminados. Siempre tenemos algo que mejorar. Os puedo decir que tengo también amigos preparadores físicos de más de 60 años, que son auténticos profesionales, que atienden congresos, que vienen, cuando impartimos cursos los atienden, que para mí demuestran un ejemplo de humildad tremendo y del ejemplo de lo que un profesional debe ser: en constante mejora y en constante aprendizaje. Ha sido un placer estar este rato grabando esta sesión. Espero que os sirva. Os he dejado aquí el QR por si queréis conectaros. Varias áreas en las que suelo trabajar en desarrollo de carrera, en el desarrollo de ese capital profesional, charlas o mentorías que también suelo hacer, o uno a uno. Estaré feliz de conectar con vosotros. Por supuesto, si os apetece mandar un mensaje con alguna duda, con alguna sugerencia de mejora de la presentación que veáis, la agradeceré también. Con algún comentario que queráis hacerme. Si os han servido algunos de los recursos que os he enseñado y queréis compartirlo conmigo o en alguna red social, estaré feliz también de leerlo. Os deseo lo mejor en vuestras carreras. Os deseo que disfrutéis de este programa tan ambicioso que ha sacado la NSCA. Me parece un acierto enorme hacer un programa vivo, lleno de practitioner 100 %, en el que va a estar constantemente lleno de carga teórico-práctica que os va a ayudar a mejorar. Quedo a vuestra disposición. Un saludo.",
+      "keywords": [
+        "takeaways",
+        "claridad",
+        "inversión",
+        "huella",
+        "nunca-terminado",
+        "obra-arte",
+        "humildad-60-años"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Key Takeaways",
+        "Humility and Lifelong Learning"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusiones"
+      ],
+      "search_questions": [
+        "¿Qué cuatro grandes pilares resumen la sesión de Ismael Parrilla?",
+        "¿Cómo asocia Ismael Parrilla el arte con la preparación física de alto rendimiento?"
+      ],
+      "related_terms": [
+        "conclusiones de carrera",
+        "aprendizaje permanente",
+        "analogía del pintor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Preguntas de auditoría del profesional indispensable.",
+      "context_after": "Cierre de la ponencia y despedida."
+    }
+  ]
+}

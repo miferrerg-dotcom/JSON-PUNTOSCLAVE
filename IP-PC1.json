@@ -1,0 +1,202 @@
+{
+  "video": {
+    "video_id": "IP-01",
+    "video_title": "Desarrollo de Carreras de Élite en el Deporte - Introducción y Presentación",
+    "speaker": "Ismael Parrilla",
+    "total_duration": "00:06:14",
+    "total_duration_seconds": 374,
+    "source_file": "WEBVTT.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "IP-01-001",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Introducción y Presentación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:12",
+      "start_seconds": 0,
+      "end_seconds": 72,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Bienvenida y fases de la carrera profesional",
+      "summary": "Ismael Parrilla da la bienvenida a la comunidad NSCA y presenta los objetivos generales de la sesión sobre la construcción de carreras profesionales en el deporte de élite, señalando que los alumnos se encuentran en diferentes fases (junior, intermedia o élite).",
+      "literal_quote": "En la clase de hoy hablaremos de construcción o desarrollo de carreras en el deporte de élite.",
+      "full_transcript": "Hola a toda la comunidad de estudiantes y de profesionales que formáis parte del Performance Science Specialist de la NSCA. En la clase de hoy hablaremos de construcción o desarrollo de carreras en el deporte de élite. En primer lugar, me gustaría agradecer a la NSCA, a Javier Arnaiz, por contar conmigo y con mi experiencia para desarrollar esta clase. Es un lujo formar parte de este faculty lleno de muchos compañeros y amigos que conozco, compartiendo también su visión y su experiencia. Y en segundo lugar, ponerme a vuestra disposición. Más allá de esta clase, estoy aquí para aportar los recursos que puedan ser necesarios para vuestra carrera deportiva. Es verdad que he observado que aquí estáis en diferentes fases de vuestra carrera. Hay gente que está en una fase junior o incluso todavía no ha comenzado. Hay otra gente que estáis en una fase más intermedia de vuestra carrera profesional y gente que está ya trabajando en entornos de élite profesional, a los que siempre cualquier clase puede servir para desactivar cualquier bloqueo o coger algún recurso nuevo para vuestras carreras.",
+      "keywords": [
+        "nsca",
+        "carrera-deportiva",
+        "deporte-elite",
+        "introduccion",
+        "fases-profesionales"
+      ],
+      "entities": [
+        "Ismael Parrilla",
+        "NSCA",
+        "Javier Arnaiz"
+      ],
+      "topics": [
+        "Career Development",
+        "Performance Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué fases de la carrera profesional identifica Ismael Parrilla?",
+        "¿Cuál es el objetivo principal del curso según Ismael Parrilla?"
+      ],
+      "related_terms": [
+        "desarrollo de carrera",
+        "fases profesionales",
+        "rendimiento deportivo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Presentación del ponente Ismael Parrilla y su trayectoria académica."
+    },
+    {
+      "id": "IP-01-002",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Introducción y Presentación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "01:12",
+      "end_timestamp": "02:40",
+      "start_seconds": 72,
+      "end_seconds": 160,
+      "duration_seconds": 88,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=72",
+      "title": "Perfil y trayectoria de Ismael Parrilla",
+      "summary": "El ponente se presenta a sí mismo destacando sus más de 20 años en la gestión deportiva, su perfil emprendedor, docente y su investigación doctoral sobre competencias profesionales y estándares académicos.",
+      "literal_quote": "Yo soy Ismael Parrilla, principalmente llevo más de 20 años trabajando en la gestión deportiva. Me considero más bien una persona emprendedora.",
+      "full_transcript": "En cualquier caso, me pongo también a vuestra disposición. Así que vamos a comenzar con la clase. En la primera parte me presento. Yo soy Ismael Parrilla, principalmente llevo más de 20 años trabajando en la gestión deportiva. Me considero más bien una persona emprendedora. Trabajo, además de consultor, como docente, principalmente en la Universidad Europea y en la Escuela Universitaria del Real Madrid. Actualmente, estoy terminando y a punto de presentar mi doctorado, en el que hablo de competencias profesionales y estándares académicos en la profesión del ejercicio físico, entrenamiento personal y preparación física, lo cual me ha dado una visión y un conocimiento importante que intentaré trasladaros a lo largo de esta clase. Mis principales temas de los que hablo, intento transmitir conocimientos, son innovación en el deporte, desarrollo de carreras de élite, tanto en atletas como en profesionales del deporte, no solo del rendimiento, también entrenadores UEFA con los que trabajo o entrenadores de otras disciplinas deportivas. Y otro ámbito en el que también intento investigar, no solo con mi doctorado, sino también en el departamento, y de transmitir, es el departamento de Tecnología e Inteligencia Artificial, donde también hoy en día es muy necesario.",
+      "keywords": [
+        "biografia",
+        "gestion-deportiva",
+        "doctorado",
+        "competencias",
+        "uefa",
+        "inteligencia-artificial"
+      ],
+      "entities": [
+        "Ismael Parrilla",
+        "Universidad Europea",
+        "Escuela Universitaria del Real Madrid"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Academic Standards"
+      ],
+      "content_type": [
+        "Explicación",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es el enfoque del doctorado de Ismael Parrilla?",
+        "¿En qué universidades imparte docencia Ismael Parrilla?"
+      ],
+      "related_terms": [
+        "gestión deportiva",
+        "competencias profesionales",
+        "innovación deportiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Bienvenida y fases de la carrera profesional.",
+      "context_after": "Logística y objetivos de la clase."
+    },
+    {
+      "id": "IP-01-003",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Introducción y Presentación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "02:40",
+      "end_timestamp": "03:56",
+      "start_seconds": 160,
+      "end_seconds": 236,
+      "duration_seconds": 76,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=160",
+      "title": "Logística y objetivos de la sesión",
+      "summary": "Ismael Parrilla detalla que hablará en español para facilitar la traducción de la presentación, la cual está diseñada en inglés según la estructura de la NSCA. Explica que la sesión busca desbloquear aspectos comunes para el escalado de carreras, transiciones o superación del síndrome del quemado (burnout).",
+      "literal_quote": "La sesión, principalmente a nivel general, trata de desbloquear ciertos aspectos que son comunes a todos los profesionales a la hora de escalar en vuestras carreras deportivas.",
+      "full_transcript": "Como vosotros, intento formarme. Aquí tenéis un QR donde podéis, si a alguno os interesa, contactarme. Me he intentado ceñir a lo largo de la clase a la estructura de presentación que nos ha pedido la NSCA. La presentación, aunque la estáis viendo en inglés, todo lo que yo diga será en español. De esta manera, será más fácil luego de traducir para los alumnos que no seáis de habla hispana y que vengáis de otros países. Y de todos modos, me intentaré también ceñir dentro de mi español, intentar traducir cualquier tema que considere relevante que esté escrito en inglés. La sesión, principalmente a nivel general, trata de desbloquear ciertos aspectos que son comunes a todos los profesionales a la hora de escalar en vuestras carreras deportivas. Ya no solo de escalar o avanzar, sino los que incluso estáis pensando en una transición, o estáis ya no acomodados, sino a lo mejor incluso saturados, cansados, quemados, decían el otro día en la mentoría que hicimos. La palabra quemado la empleó alguna persona y necesitáis un cambio profesional.",
+      "keywords": [
+        "traduccion",
+        "logistica",
+        "escalabilidad",
+        "burnout",
+        "mentoria",
+        "transicion"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Career Transition",
+        "Mental Health in Sports"
+      ],
+      "content_type": [
+        "Explicación",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué idiomas y logística se emplean en la clase?",
+        "¿Cómo aborda Ismael Parrilla el burnout profesional en la mentoría?"
+      ],
+      "related_terms": [
+        "burnout",
+        "transición profesional",
+        "mentoría"
+      ],
+      "relevance_score": 5,
+      "context_before": "Perfil y trayectoria de Ismael Parrilla.",
+      "context_after": "Declaración ética y esquema del curso."
+    },
+    {
+      "id": "IP-01-004",
+      "video_title": "Desarrollo de Carreras de Élite en el Deporte - Introducción y Presentación",
+      "speaker": "Ismael Parrilla",
+      "start_timestamp": "03:56",
+      "end_timestamp": "06:14",
+      "start_seconds": 236,
+      "end_seconds": 374,
+      "duration_seconds": 138,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=236",
+      "title": "Declaración ética, IA y estructura de bloques",
+      "summary": "El ponente declara su uso ético de la inteligencia artificial para documentos y la ausencia de conflictos de intereses. Presenta los 4 bloques principales del curso: Dirección/Foco, Capital Profesional, Creación de Oportunidades y Ser Indispensable en un equipo.",
+      "literal_quote": "Evidentemente, declarar mi uso de la inteligencia artificial para la realización de cualquier documento. Esto no quita que toda la información que veis aquí esté basada, por supuesto, en mi experiencia profesional.",
+      "full_transcript": "Basando en ese contexto, que ahora lo veremos más adelante, yo voy a intentar proveeros de varios recursos que a lo largo de mi carrera como emprendedor y como gestor me han valido, he aplicado tanto a mí mismo como dentro de mis equipos y que espero que sean valiosos. Al final, es muy difícil condensar en una única hora todo el conocimiento aplicable. Yo siempre digo que de una presentación todo el mundo sacamos dos, tres aspectos, recursos que ya nos valen y nos son suficientes. Espero que en mi clase por lo menos los encontréis. Me sentiré muy feliz de ello. Esto también lo suelo poner cada vez que voy a un congreso como ponente o en una clase. Evidentemente, declarar mi uso de la inteligencia artificial para la realización de cualquier documento. Esto no quita que toda la información que veis aquí esté basada, por supuesto, en mi experiencia profesional, en mi propio conocimiento o en la evidencia científica a través de varios artículos científicos, de algunos míos, incluso en las primeras comunicaciones científicas que he empezado a realizar como investigador en mi etapa tan joven que llevo como docente investigador, como artículos de compañeros míos que se dedican a lo mismo que yo. Y por supuesto, declarar si hubiera algún conflicto de intereses. In este caso, como yo también formo parte no solo del faculty, también del comité ejecutivo de la NSCA o de la universidad, también declararlo en ese sentido. Vamos al lío. Vamos a ver un esquema de qué vamos a aprender y cómo vamos a dividir la siguiente clase. En principio, haré una breve introducción de la clase en la que intentaré dar un contexto de por qué algunos profesionales, teniendo los mismos recursos que otros a disposición, consiguen escalar y consiguen llegar a lo que se llama ese éxito o élite. Y después hablaremos de diferentes bloques que he intentado construir para darle un sentido a la clase y que yo uso en mis propias mentorías. Hablaremos de cómo empezar a diseñar una carrera y tener una dirección o un foco, cómo construir lo que denomino professional capital, que es el capital profesional, considerarte a ti mismo como un activo. Luego también cómo crear oportunidades en el punto cuatro, cómo añadir valor y crear oportunidades y que hacer que las oportunidades vengan hacia ti y atraerlas en lugar de estar constantemente buscando ofertas de empleo. Y luego un último punto que veremos muy brevemente de cómo volverse indispensable en un equipo, cómo hacerte ver y que tu trabajo deje huella, deje un legado, una vez que ya estás trabajando dentro de un contexto de equipo, ya sea en la élite o ya sea en un equipo amateur o más principiante. Y acabaremos con un simple slide con los takeaways, que espero que también os ayuden. Vamos directamente a empezar con el primer módulo de introducción, que espero que os guste y que veremos en el siguiente vídeo.",
+      "keywords": [
+        "inteligencia-artificial",
+        "conflicto-intereses",
+        "esquema-curso",
+        "bloques-tematicos",
+        "capital-profesional",
+        "indispensable",
+        "oportunidades"
+      ],
+      "entities": [
+        "NSCA",
+        "Inteligencia Artificial"
+      ],
+      "topics": [
+        "Ethics and AI",
+        "Course Structure"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo declara Ismael Parrilla el uso de la IA en sus ponencias?",
+        "¿Cuáles son los cuatro bloques temáticos del curso de Ismael Parrilla?"
+      ],
+      "related_terms": [
+        "esquema del curso",
+        "conflictos de interés",
+        "capital profesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Logística y objetivos de la clase.",
+      "context_after": "Cierre de la introducción y paso al Bloque 2: Capital profesional e inteligencia contextual."
+    }
+  ]
+}
