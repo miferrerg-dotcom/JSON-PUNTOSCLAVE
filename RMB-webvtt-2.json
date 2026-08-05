@@ -1,0 +1,246 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Toma de decisiones en el fútbol profesional",
+    "speaker": "Rodrigo Martín Baeza",
+    "total_duration": "00:11:55",
+    "total_duration_seconds": 715,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:02",
+      "start_seconds": 0,
+      "end_seconds": 122,
+      "duration_seconds": 122,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Los Tres Tipos de Riesgo en la Toma de Decisiones",
+      "summary": "Rodrigo plantea la pregunta clave del entrenador: ¿puede jugar? Señala que en el 80% de los casos no es un simple sí o no, y define tres tipos de riesgo sobre los que se decide simultáneamente: biológico (estado del tejido), funcional (tolerancia a demandas) y contextual (importancia del partido).",
+      "literal_quote": "Te pagan por tomar decisiones cuando no hay una respuesta perfecta... Me gusta agruparlo en estos tres tipos, que son: riesgo biológico, riesgo funcional y riesgo contextual.",
+      "full_transcript": "¿Puede jugar? Ahora os hago esta misma pregunta a vosotros: si fuerais el responsable médico del equipo, ¿cuál sería vuestra respuesta? ¿Sí o no? Ahora vamos a hablar más en profundidad sobre todo esto para que al final de la charla sepáis el porqué de la respuesta que viene desde el departamento médico, ya que a veces no es tan sencillo como puede parecer. Es más, os voy a dar una pista, y es que el 80 % de las situaciones no va a ser un simple sí o no. Y aquí es donde te das cuenta de algo: como parte de los servicios médicos de un club, no te pagan solo por saber de lesiones. Te pagan por tomar decisiones cuando no hay una respuesta perfecta. Muchos profesionales piensan que se trata de una decisión médica, pero la realidad dentro de un club profesional es otra. No es solo una decisión médica, es una decisión en la que influyen muchos factores: el riesgo de recaída, el contexto competitivo, la importancia del partido, la presión del entrenador e incluso, a veces, la presión del propio jugador. Aún así, a mí me gusta ordenar todo esto en tres tipos de riesgo, porque si no parece que estamos hablando de demasiadas cosas a la vez y se complica. Me gusta agruparlo en estos tres tipos, que son: el primero, el riesgo biológico. ¿Qué quiere decir riesgo biológico? Que tenemos que saber cómo está realmente el tejido y en qué momento del proceso se encuentra. El segundo es el riesgo funcional. Quiere decir que aunque el tejido vaya bien, si el jugador no tolera las demandas del juego que luego se va a encontrar, el problema sigue existiendo. Y el tercero es el riesgo contextual, porque no es lo mismo decidir en un amistoso de pretemporada que decidir en una semifinal o en una fase final de temporada. En definitiva, la realidad del fútbol profesional es que rara vez decidimos sobre uno solo de estos riesgos. Normalmente, vamos a decidir sobre los tres al mismo tiempo. El principal problema aparece cuando, de esos tres, cada uno te dice una cosa distinta. Entonces, en ese momento, ¿qué haces? ¿Cómo tomas esa decisión?",
+      "keywords": [
+        "riesgo",
+        "riesgo biológico",
+        "riesgo funcional",
+        "riesgo contextual",
+        "toma de decisiones",
+        "retorno al juego"
+      ],
+      "entities": [],
+      "topics": [
+        "Tipos de riesgo",
+        "Toma de decisiones",
+        "Retorno al juego"
+      ],
+      "content_type": [
+        "Explicación",
+        "Marco conceptual"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres tipos de riesgo que se evalúan en el retorno al juego?",
+        "¿Por qué las decisiones en el fútbol profesional rara vez se basan en un sí o no?"
+      ],
+      "related_terms": [
+        "riesgo biológico",
+        "riesgo funcional",
+        "riesgo contextual"
+      ],
+      "relevance_score": 5,
+      "context_before": "Sección anterior plantea el debate del timing frente al tejido en el caso del jugador titular.",
+      "context_after": "Se analiza cómo funciona un club profesional por dentro y la diferencia entre el organigrama académico y el real."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "02:02",
+      "end_timestamp": "04:57",
+      "start_seconds": 122,
+      "end_seconds": 297,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=122",
+      "title": "Organigrama de un Club: Modelo Académico vs. Realidad Diaria",
+      "summary": "Se compara el organigrama lineal y teórico (médico, fisio, preparador físico) enseñado en el ámbito académico, con la compleja realidad diaria de un club donde influyen múltiples intereses, presiones competitivas y necesidades deportivas que posicionan al departamento médico dentro de un sistema más amplio.",
+      "literal_quote": "En el día a día de un club profesional, el flujo de influencia y de toma de decisiones suele parecerse más al recuadro de la derecha.",
+      "full_transcript": "Para entender cómo se toman realmente estas decisiones, primero hay que entender cómo funciona un club profesional por dentro. Muchas veces, cuando estudiamos fisioterapia, medicina deportiva o preparación física, se nos presenta un organigrama bastante claro y ordenado. Un modelo que parece lógico desde el punto de vista académico. Este modelo suele representarse como el recuadro que aparece a la izquierda: doctor, fisioterapeuta, preparador físico. Es un sistema aparentemente lineal, donde las decisiones clínicas siguen un flujo relativamente sencillo dentro del área médica y de rendimiento. Por ejemplo: el médico realiza el diagnóstico médico y establece las bases, el fisioterapeuta gestiona la rehabilitación y el preparador físico se encarga de la progresión hacia la vuelta al rendimiento. Sin embargo, cuando uno empieza a trabajar dentro de un club profesional, muchas veces puede ser así, pero otras muchas la realidad diaria es bastante más compleja. En el día a día de un club profesional, el flujo de influencia y de toma de decisiones suele parecerse más al recuadro de la derecha. Cualquiera que haya trabajado en un club profesional le sonará un poquito más esta situación. Este recuadro refleja simplemente que el fútbol profesional es un entorno competitivo donde intervienen múltiples intereses y responsabilidades. Es importante entender que, aunque haya puesto el departamento médico abajo del todo, no significa que pierda importancia, ni mucho menos. Lo que significa es que las decisiones médicas se toman dentro de un sistema donde existen objetivos deportivos, presiones competitivas y necesidades de equipo. Con lo cual ya podemos entender el porqué de que las decisiones médicas no sean puramente clínicas.",
+      "keywords": [
+        "organigrama",
+        "club profesional",
+        "médico",
+        "fisioterapeuta",
+        "preparador físico",
+        "flujo de influencia",
+        "decisiones clínicas"
+      ],
+      "entities": [
+        "Doctor",
+        "Fisioterapeuta",
+        "Preparador físico"
+      ],
+      "topics": [
+        "Estructura organizacional",
+        "Fútbol profesional",
+        "Toma de decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre el organigrama académico y el real en un club de fútbol?",
+        "¿Cómo influyen las presiones competitivas en las decisiones del departamento médico?"
+      ],
+      "related_terms": [
+        "organigrama lineal",
+        "flujo de decisiones",
+        "presiones competitivas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los tres tipos de riesgo (biológico, funcional y contextual).",
+      "context_after": "Rodrigo detalla los objetivos específicos de los departamentos de medicina, rendimiento y staff técnico, y el rol de la comunicación."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "04:57",
+      "end_timestamp": "07:25",
+      "start_seconds": 297,
+      "end_seconds": 445,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=297",
+      "title": "Comunicación entre Departamentos y Gestión de Riesgo",
+      "summary": "Se describen las metas de los departamentos médico (proteger salud), rendimiento (optimizar preparación física) y staff técnico (disponibilidad para competir). Rodrigo enfatiza que en el alto rendimiento no existe el riesgo cero, sino el riesgo gestionado, y la importancia de saber comunicar técnicamente estas decisiones.",
+      "literal_quote": "En el fútbol no gana la información mejor pensada. Muchas veces gana la información mejor comunicada... En el deporte de élite, rara vez la pregunta es si existe riesgo. La pregunta correcta es: ¿cuánto riesgo estamos dispuestos a asumir...?",
+      "full_transcript": "Ahora, después de entender cómo funciona un club, me gustaría detallar un poco, de manera resumida, cuáles son los objetivos y responsabilidades de los diferentes departamentos del área deportiva de un club. Empezamos por el departamento médico, que tiene como objetivo principal proteger la salud del jugador y gestionar el riesgo asociado a las lesiones. Esto incluye el diagnóstico, el proceso de rehabilitación y la valoración del riesgo en el retorno a la competición. Por otro lado, el departamento de rendimiento trabaja para optimizar la preparación física del jugador y asegurar que pueda tolerar todas las demandas del juego, que en el mundo del fútbol actual cada vez son más altas en términos de velocidad, intensidad y volumen competitivo. Recordemos que ahora se juegan cada vez más partidos, hay menos descanso y los jugadores ya no son como antes. Ahora los jugadores son atletas. Y, por otro lado, el staff técnico. El entrenador, en última instancia, es la persona que necesita el mayor número de jugadores disponibles para competir y obtener los resultados cada fin de semana. Después de poner esto en perspectiva, hay una realidad que creo que es importante destacar, sobre todo para la gente joven que quiere trabajar en el fútbol: la importancia de una buena comunicación entre los diferentes departamentos. En un club profesional no basta con tener criterio clínico, también hay que saber comunicarlo. Porque si tú, como fisioterapeuta o médico, tienes una valoración correcta, por muy buena que sea, pero no eres capaz de traducirla a un lenguaje que el entrenador y el staff entiendan, esa valoración pierde fuerza dentro de la toma de decisiones. Hay una gran verdad oculta que nadie nos dice, y es que en el fútbol no gana la información mejor pensada. Muchas veces gana la información mejor comunicada. Por eso, más que decir: \"No está preparado\", muchas veces tenemos que aprender a decir: \"Puede hacer esto, todavía no esto, este es el riesgo y esta es la progresión más razonable\", por ejemplo. Como he mencionado antes, aunque estos departamentos tienen responsabilidades distintas, todos comparten un objetivo común: que el jugador esté disponible y en las mejores condiciones posibles para competir cada fin de semana. Este punto considero que es importante remarcarlo, porque la gente que no vive dentro del fútbol a veces puede interpretar que existe una especie de conflicto permanente entre el departamento médico y el de rendimiento. ¿Por qué la gente puede pensar eso? Puede ser porque uno mira más por la salud y el otro por el rendimiento, pero lejos de la realidad, eso es completamente falso, porque ambos trabajan para que el jugador esté en las mejores condiciones posibles. En realidad, lo que existe es un proceso continuo de equilibrio entre la protección del jugador y la necesidad competitiva del equipo. And para que esto funcione, ambos tenemos que trabajar como si fuéramos uno solo. En mi opinión, hay algo que es clave y es la comunicación, como hemos dicho hace un momento. La comunicación tiene que ser constante para dar fuerza a esa relación entre fisioterapeutas y preparadores físicos. Porque el problema que nos vamos a encontrar en el fútbol actual es que este equilibrio del que hablamos entre protección y necesidad competitiva debe alcanzarse en un entorno donde el riesgo cero no existe. En el fútbol profesional y muchos deportes de alto rendimiento, no funcionan con riesgo cero, funcionan con riesgo gestionado. Por eso, en el deporte de élite, rara vez la pregunta es si existe riesgo. La pregunta correcta es: ¿cuánto riesgo estamos dispuestos a asumir en este momento concreto de la temporada?",
+      "keywords": [
+        "comunicación",
+        "departamentos",
+        "staff técnico",
+        "rendimiento",
+        "riesgo gestionado",
+        "riesgo cero"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación interdepartamental",
+        "Gestión de riesgo",
+        "Alto rendimiento"
+      ],
+      "content_type": [
+        "Explicación",
+        "Filosofía de trabajo"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol de cada departamento en la disponibilidad del jugador?",
+        "¿Qué significa que el fútbol profesional trabaja con riesgo gestionado en lugar de riesgo cero?"
+      ],
+      "related_terms": [
+        "riesgo gestionado",
+        "comunicación efectiva",
+        "disponibilidad competitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del organigrama y flujos de influencia realistas de un club profesional.",
+      "context_after": "Se introduce el conflicto entre la perfección clínica y la disponibilidad competitiva en el contexto real de la temporada."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "07:25",
+      "end_timestamp": "09:00",
+      "start_seconds": 445,
+      "end_seconds": 540,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=445",
+      "title": "Conflicto: Perfección Clínica vs. Disponibilidad Competitiva",
+      "summary": "Rodrigo aborda el clásico dilema del fútbol: el escenario clínico ideal (recuperación total del tejido, sin dolor, sin déficit ni riesgos) frente a la realidad del calendario exigente. Diferencia entre 'estar mejor' (reducción de dolor) y 'estar preparado' (tolerar demandas competitivas).",
+      "literal_quote": "Y a veces confundimos evolución favorable con preparación competitiva, y no son lo mismo.",
+      "full_transcript": "Y esta pregunta es la que nos lleva directamente al siguiente punto de la charla, porque cuando hablamos de decisiones médicas en el fútbol profesional, aparece uno de los conflictos más habituales: el conflicto entre la perfección clínica y la disponibilidad competitiva. Este conflicto aparece cuando comparamos estos dos conceptos, que en la práctica no siempre coinciden. Y os voy a explicar por qué. Desde el punto de vista estrictamente médico, el escenario ideal, todos sabemos cuál es, sería siempre el mismo: que el jugador vuelva a competir cuando el tejido esté completamente recuperado, sin dolor, sin déficits funcionales y sin riesgo significativo de recaída. Ese sería el contexto perfecto desde el punto de vista clínico. Sin embargo, el fútbol profesional se desarrolla dentro de un calendario extremadamente exigente, con partidos cada pocos días y con una presión competitiva constante. ¿And qué pasa con esto? Que esperar siempre a la perfección clínica absoluta algunas veces podrá ser posible, pero en otras muchas situaciones, no. Hay algo que vemos constantemente en nuestro día a día, y es que el jugador puede estar mejor y aun así no estar preparado. ¿Y esto por qué se da? Porque estar mejor significa que hay menos dolor, que hay mejores sensaciones, quizá mejor fuerza o mejor tolerancia a determinadas tareas. Pero estar preparado significa algo distinto. Significa que el jugador puede tolerar de forma suficientemente estable las demandas reales que le va a pedir la competición. Y a veces confundimos evolución favorable con preparación competitiva, y no son lo mismo.",
+      "keywords": [
+        "perfección clínica",
+        "disponibilidad competitiva",
+        "calendario",
+        "evolución favorable",
+        "preparación competitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Dilemas de rendimiento",
+        "Retorno a la competición",
+        "Fisiología deportiva"
+      ],
+      "content_type": [
+        "Explicación",
+        "Marco conceptual"
+      ],
+      "search_questions": [
+        "¿Cuál es el conflicto entre la perfección clínica y la disponibilidad del jugador?",
+        "¿Cuál es la diferencia entre que un jugador esté 'mejor' y que esté 'preparado'?"
+      ],
+      "related_terms": [
+        "perfección clínica",
+        "disponibilidad competitiva",
+        "evolución favorable"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexiones sobre la comunicación efectiva y la asunción de riesgos en el calendario competitivo.",
+      "context_after": "Se ilustra este conflicto con un ejemplo claro de tendinopatía rotuliana y la gestión práctica de su carga."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "09:00",
+      "end_timestamp": "11:55",
+      "start_seconds": 540,
+      "end_seconds": 715,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=540",
+      "title": "Ejemplo Práctico: Gestión de Carga en Tendinopatía Rotuliana",
+      "summary": "Se presenta el ejemplo de la tendinopatía rotuliana reactiva. En plena temporada, en lugar de parar por completo, el objetivo es gestionar la carga (ejercicios isométricos, excéntricos, control de volumen) para que el jugador siga compitiendo con un riesgo controlado. Esto demuestra que el retorno no depende de un único criterio clínico.",
+      "literal_quote": "El objetivo ahora es gestionar la carga para permitir que el jugador siga compitiendo sin que el problema empeore... no estás tratando solamente una tendinopatía, estás gestionando mucho más.",
+      "full_transcript": "Pero cuando hablamos del conflicto de perfección clínica y disponibilidad competitiva, se me viene a la cabeza un ejemplo muy claro de esta situación, y es una patología muy frecuente en el mundo del fútbol y que ejemplifica muy bien lo que quiero contaros. Es la tendinopatía rotuliana. Desde un punto de vista clínico ideal, cuando el jugador presenta una tendinopatía reactiva, el tratamiento óptimo implicaría reducir significativamente la carga durante un periodo de tiempo suficiente como para permitir que el tendón recupere su estado basal. Eso implicaría reducir la exposición a gestos muy comunes en el deporte y que son muy exigentes para el tendón, como pueden ser: sprints repetidos, cambios de dirección, aceleraciones, deceleraciones explosivas, saltos. Sin embargo, en plena temporada competitiva, muchas veces esta reducción completa de la carga no es viable, ya que el jugador debe seguir compitiendo por el motivo que sea: porque es una pieza importante dentro del equipo, porque hay muchas lesiones o sanciones de más jugadores en esa misma posición, por lo que sea. Y es que la realidad es que el calendario continúa y nos vemos envueltos en una de las situaciones que acabo de mencionar. Nos vemos obligados a buscar una solución en la cual el objetivo ya no es parar al jugador. Ahora el objetivo pasa a ser otro. El objetivo ahora es gestionar la carga para permitir que el jugador siga compitiendo sin que el problema empeore. Y en este escenario, sabemos que el tendón no está completamente recuperado, ya que el tejido sigue presentando cierto grado de irritabilidad. Pero como profesionales del sector, sabemos que mediante el tratamiento de fisioterapia se puede controlar la fase aguda y que con una adecuada gestión de la carga, ya sea ajustando el volumen de entrenamiento y técnicas de trabajo isométrico, excéntrico o modificando determinados estímulos, el jugador puede seguir participando en competición. Y aquí aparece una idea muy importante para entender el deporte de alto rendimiento, y es que, en muchos casos, el objetivo del departamento médico y de rendimiento no es eliminar completamente el problema en ese momento de la temporada. El objetivo es gestionar el problema de forma que el jugador pueda seguir compitiendo con un riesgo controlado. Y en este momento entiendes que no estás tratando solamente una tendinopatía, estás gestionando mucho más. Estás gestionando una lesión, una situación con un determinado contexto, estás gestionando también las emociones y el estar de una persona, del jugador, en este caso. Y esto nos lleva a una conclusión clave en el fútbol profesional, y es que la disponibilidad competitiva del jugador no siempre coincide con la recuperación clínica completa. Y esto nos ayuda a entender aún más y dar más solidez al concepto del porqué de que cuando hablamos del retorno a la competición, las decisiones rara vez dependen de un único criterio clínico. Normalmente, dependen de múltiples factores que deben valorarse de forma conjunta. Entonces, si el retorno a la competición no depende únicamente de la recuperación clínica perfecta.",
+      "keywords": [
+        "tendinopatía rotuliana",
+        "tendón",
+        "isométrico",
+        "excéntrico",
+        "gestión de carga",
+        "fisioterapia",
+        "riesgo controlado"
+      ],
+      "entities": [
+        "Tendinopatía rotuliana"
+      ],
+      "topics": [
+        "Casos prácticos",
+        "Tendinopatía rotuliana",
+        "Gestión de carga en tendón"
+      ],
+      "content_type": [
+        "Caso clínico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo se gestiona una tendinopatía rotuliana reactiva durante la temporada competitiva?",
+        "¿Por qué la disponibilidad competitiva no siempre coincide con la recuperación clínica completa?"
+      ],
+      "related_terms": [
+        "tendinopatía rotuliana",
+        "ejercicio isométrico",
+        "gestión de la carga",
+        "recuperación clínica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del conflicto entre evolución clínica y preparación competitiva.",
+      "context_after": "Fin del segundo video. El tercer video retoma la toma de decisiones abordando los cuatro pilares del retorno al juego."
+    }
+  ]
+}

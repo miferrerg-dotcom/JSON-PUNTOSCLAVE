@@ -1,0 +1,170 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Toma de decisiones en el fútbol profesional",
+    "speaker": "Rodrigo Martín Baeza",
+    "total_duration": "00:08:38",
+    "total_duration_seconds": 518,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:05",
+      "start_seconds": 0,
+      "end_seconds": 125,
+      "duration_seconds": 125,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y Experiencia de Rodrigo Martín Baeza",
+      "summary": "Rodrigo Martín Baeza se presenta como fisioterapeuta del Al-Nassr en Dubái y responsable de rehabilitación del primer equipo. Introduce los temas del webinar sobre el proceso real de la toma de decisiones en el fútbol profesional, superando la visión puramente académica.",
+      "literal_quote": "Soy Rodrigo Martín Baeza, fisioterapeuta en el Al-Nassr, en Dubái, y aquí soy el responsable del área de rehabilitación en el primer equipo.",
+      "full_transcript": "Hola, buenos días a todos. Es un placer estar aquí con vosotros. En el webinar de hoy voy a hablar de un tema que pocas veces se ha explicado antes: cómo se toman las decisiones sobre lesiones desde el departamento médico y, más en profundidad, cómo se toman realmente esas decisiones. Creo que es una charla bastante interesante que servirá para entender cómo funciona el proceso de toma de decisiones y, sobre todo en el día a día, ayudará mucho a los preparadores físicos a comprender muchas de las decisiones que se toman desde el departamento médico y el porqué se toman. Así, después de entender el porqué y el cómo, el trabajo en equipo será mucho más transparente, sencillo y fortalecerá la unión que debe haber entre fisios y preparadores físicos. Pero antes de empezar, me voy a presentar. Soy Rodrigo Martín Baeza, fisioterapeuta en el Al-Nassr, en Dubái, y aquí soy el responsable del área de rehabilitación en el primer equipo. Tengo ya 10 años de experiencia trabajando en el mundo del fútbol en diferentes equipos, y también he estado en diferentes países como España, Uzbekistán, Arabia Saudí y ahora aquí, en Emiratos Árabes. Esto es algo realmente interesante, porque he podido ver y experimentar cómo se vive y se trabaja en culturas diferentes a la europea. La verdad es que aquí, en Asia, muchos aspectos cambian bastante con respecto a Europa, pero eso ya es otro tema. Vamos con lo importante. Por aquí os dejo el índice y los temas que vamos a tocar hoy. El primero es la ilusión de las decisiones médicas. Digo ilusión porque la gente suele pensar que las decisiones que se toman son puramente clínicas, pero no es lo que parece y veremos por qué. Veremos también cómo funciona un club profesional desde dentro y cómo influye esto en la toma de decisiones. Clínica versus rendimiento, entendiendo rendimiento como disponibilidad. Cómo se decide el return to play, cuáles son los factores a tener en cuenta y la relación entre preparador físico y fisioterapeuta. Esta parte creo que es de las más importantes de todas, porque es la que nos afecta directamente. Y por último, la conclusión.",
+      "keywords": [
+        "introducción",
+        "presentación",
+        "experiencia",
+        "rehabilitación",
+        "fisioterapia",
+        "al-nassr"
+      ],
+      "entities": [
+        "Rodrigo Martín Baeza",
+        "Al-Nassr",
+        "Dubái",
+        "España",
+        "Uzbekistán",
+        "Arabia Saudí",
+        "Emiratos Árabes",
+        "Asia",
+        "Europa"
+      ],
+      "topics": [
+        "Presentación del ponente",
+        "Organización del webinar",
+        "Fisioterapia deportiva"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Quién es Rodrigo Martín Baeza y cuál es su experiencia?",
+        "¿Qué temas se tratarán en el webinar sobre toma de decisiones?"
+      ],
+      "related_terms": [
+        "fisioterapia",
+        "rehabilitación",
+        "al-nassr",
+        "experiencia profesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Rodrigo lanza una pregunta reflexiva sobre si las decisiones de retorno al juego son puramente médicas e introduce el caso práctico del Pichichi."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "02:05",
+      "end_timestamp": "06:01",
+      "start_seconds": 125,
+      "end_seconds": 361,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=125",
+      "title": "La Ilusión de las Decisiones Médicas: El Caso del Pichichi",
+      "summary": "Rodrigo explica que las decisiones de retorno al juego no son puramente médicas, sino que influyen factores deportivos y organizativos. Expone el caso real del delantero estrella (Pichichi) de un equipo español con problemas en el sartorio, quien a pesar de no estar al 100%, jugó por necesidades del equipo y el contexto.",
+      "literal_quote": "La mayoría de decisiones sobre lesiones en el fútbol profesional no se toman únicamente desde un punto de vista clínico, sino dentro de un contexto deportivo, competitivo y organizativo.",
+      "full_transcript": "Quiero empezar esta charla con una pregunta directa hacia vosotros. Os hago esta pregunta porque vuestra respuesta dice más de vuestra experiencia real que de vuestro conocimiento. Por eso, dependiendo de la situación de cada uno, la respuesta puede ser diferente, pero quiero que respondáis de verdad. En el mundo del fútbol profesional, ¿creéis que las decisiones de retorno al juego son puramente médicas? Muy bien. Ahora os voy a decir algo que igual os descoloca un poco, pero que se irá entendiendo a lo largo de la charla. La mayoría de decisiones sobre lesiones en el fútbol profesional no se toman únicamente desde un punto de vista clínico, sino dentro de un contexto deportivo, competitivo y organizativo. Aquí voy a plantear un caso muy común que nos va a ayudar a entenderlo. Pero antes de entrar en el caso, quiero contaros una situación real que probablemente muchos de los que trabajáis en el deporte habéis vivido o vais a vivir. En un club profesional, cuando un jugador importante para el equipo en ese momento está lesionado y se acerca la última fase de recuperación, aparecen muchas cosas y situaciones diferentes. Ya no aparece solo una pregunta médica; empiezan a aparecer conversaciones, expectativas. El jugador te mira y te dice: «Rodri, yo me siento bien, estoy listo para jugar». El entrenador se acerca y te dice: «Rodri, este finde el partido es muy importante y este jugador lo necesito». Recuerdo, por ejemplo, una situación real que me pasó en un equipo en España con el delantero titular, el Pichichi. Arrastraba problemas en el sartorio, llevaba una semana y media fuera de los entrenamientos y ahora ya se sentía bien. El entrenador lo quería y objetivamente parecía ir bien, pero yo sabía que no estaba al 100 %. ¿Por qué lo sabía? Porque su lesión vino por acumulación de carga. Sí, es verdad que el sartorio no es un músculo principal, y esa puede ser una de las razones por las que el jugador se encuentre bien. Pero, ¿qué pasa cuando se produce una acumulación de minutos y la fatiga aumenta? Existe la posibilidad de que se produzca una reagudización de ese dolor. Obviamente, no lo podemos saber. Yo puedo tener esa sospecha, principalmente porque durante la rehabilitación el jugador no ha sido expuesto a una gran carga de trabajo. Pero en ese momento no estás pensando solo en el músculo. Estás pensando en qué pasa si juega, qué pasa si no juega. Entonces, ¿qué pasó al final? En este caso, al final jugó, todo salió bien, marcó gol y en el minuto 60 lo cambiaron y ganamos el partido. Gracias a Dios, en esa ocasión todo salió bien. Pero es en ese momento cuando aparecen esas preguntas y situaciones que acabo de mencionar, en las que todos te miran a ti, al médico o a la persona responsable de tomar esa decisión, para ver cuál es la respuesta. ¿Por qué? Por lo que hemos hablado: porque el jugador se ve bien, está realizando \"sprints\", cambios de dirección, trabajo con balón. Los entrenadores están en el campo, viendo el entrenamiento que está haciendo el jugador, también ven el calendario, saben que el partido se acerca y, de repente, una lesión deja de ser solo una lesión. Se convierte en una decisión que afecta al rendimiento del equipo, al resultado del fin de semana, incluso a la responsabilidad del departamento médico. Ahí es donde uno entiende que en el fútbol profesional no trabajamos solo con tejidos; trabajamos con decisiones, y estas decisiones tienen consecuencias. Decisiones en las cuales debemos tener en cuenta el riesgo, la presión, los tiempos.",
+      "keywords": [
+        "decisiones clínicas",
+        "sartorio",
+        "pichichi",
+        "presión",
+        "riesgo",
+        "retorno al juego",
+        "disponibilidad"
+      ],
+      "entities": [
+        "Rodrigo Martín Baeza",
+        "España",
+        "Pichichi"
+      ],
+      "topics": [
+        "Toma de decisiones",
+        "Gestión de riesgo",
+        "Casos prácticos",
+        "Sartorio"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué ocurrió en el caso clínico del Pichichi con lesión en el sartorio?",
+        "¿Por qué las decisiones de retorno al juego no son únicamente médicas?"
+      ],
+      "related_terms": [
+        "sartorio",
+        "pichichi",
+        "retorno al juego",
+        "contexto competitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Rodrigo se presenta e introduce los contenidos y la estructura del webinar.",
+      "context_after": "Se presenta formalmente el caso clínico del jugador en la última fase de rehabilitación, analizando el timing frente al contexto."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "06:01",
+      "end_timestamp": "08:38",
+      "start_seconds": 361,
+      "end_seconds": 518,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=361",
+      "title": "Caso Clínico: Última Fase de Recuperación y el Conflicto del Contexto",
+      "summary": "Se analiza un caso clínico de un jugador en la última fase (85%) de rehabilitación muscular, con buenos test de fuerza y progresión de GPS en campo, pero sin haber completado los objetivos de carga e intensidad. El inminente partido decisivo del domingo cambia el debate de la salud del tejido a la disponibilidad del timing.",
+      "literal_quote": "Ya no hablamos de tejido, hablamos de timing. Ya no hablamos solo de salud, ya estamos hablando de disponibilidad.",
+      "full_transcript": "Ahora sí, os presento el caso clínico del que os hablaba antes. Imaginad la situación dentro de un club profesional. El jugador se encuentra en la última fase de su rehabilitación tras una lesión muscular y ha completado aproximadamente el 85 % del proceso de recuperación. Ha completado tres test de fuerza previos en gimnasio, previos a la fase de campo, en los cuales ha mostrado incluso niveles superiores de fuerza a antes de lesionarse. Y durante la última semana en campo, ha realizado una progresión de carrera hasta el 80 % de su velocidad máxima, cambios de dirección, situaciones específicas de trabajo de fútbol, trabajo con balón y todo este trabajo monitoreado con GPS para calcular y ver que se va cumpliendo la progresión de todos los objetivos de cada sesión. Y lo más importante es que todo sin dolor. Con lo cual, esto nos hace ver objetivamente que todo está yendo bien en el proceso de la rehabilitación. Pero, según el plan establecido en el momento de la lesión, al jugador aún le queda una semana más para poder unirse al equipo, ya que le faltan objetivos por cumplir. Todavía no ha acumulado gran carga, como en el ejemplo que he puesto al principio, le falta todavía acumular metros a alta intensidad, aumentar exposición a ciertos ejercicios y situaciones reales de competición que aún no hemos hecho. Y todo esto nos sirve, obviamente, para que cuando se produca la vuelta a la competición, sea lo más segura y óptima posible, minimizando al máximo los riesgos de recaída. Pero ahora os pongo en situación. Se trata de un jugador titular, el domingo se juega uno de los partidos más importantes de la temporada y aquí es cuando aparece el elemento que cambia completamente la situación. ¿Qué elemento es este? El contexto. Y aquí pasa algo muy interesante, y es que hasta ese momento todo parecía relativamente controlado. Teníamos una planificación estructurada, tenemos progresión, tenemos buenos datos, buena evolución, sensaciones positivas por parte del jugador. But en cuanto aparece un partido importante, automáticamente la naturaleza de la conversación cambia. Ya no hablamos solo de si el jugador mejora, hablamos de si llega al partido. Ya no hablamos de tejido, hablamos de timing. Ya no hablamos solo de salud, ya estamos hablando de disponibilidad. Y es que muchas veces la presión en el fútbol no aparece cuando el jugador está mal, aparece cuando está lo suficientemente bien como para abrir este debate. Y ahora, ¿qué ocurre? Que el entrenador se acerca al responsable del departamento médico, ya sea médico o fisioterapeuta, dependiendo del nivel del club, y hace la pregunta que todos hemos escuchado alguna vez. Y la pregunta es la siguiente.",
+      "keywords": [
+        "caso clínico",
+        "rehabilitación muscular",
+        "test de fuerza",
+        "gps",
+        "disponibilidad",
+        "timing",
+        "contexto"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Casos clínicos",
+        "Monitorización de carga",
+        "Contexto competitivo"
+      ],
+      "content_type": [
+        "Caso clínico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué variables clínicas y físicas se miden en la última fase de recuperación de una lesión muscular?",
+        "¿Cómo influye la importancia del próximo partido en la conversación de retorno al juego?"
+      ],
+      "related_terms": [
+        "test de fuerza",
+        "gps",
+        "disponibilidad",
+        "conversación sobre el retorno"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del caso del Pichichi y la influencia de la fatiga por acumulación de minutos.",
+      "context_after": "Fin del primer video. El segundo video comienza con la pregunta del entrenador sobre si el jugador puede jugar."
+    }
+  ]
+}

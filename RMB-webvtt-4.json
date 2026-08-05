@@ -1,0 +1,202 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Toma de decisiones en el fútbol profesional",
+    "speaker": "Rodrigo Martín Baeza",
+    "total_duration": "00:10:11",
+    "total_duration_seconds": 611,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:38",
+      "start_seconds": 0,
+      "end_seconds": 218,
+      "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Tres Modelos de Club: Amateur, Semiprofesional y Profesional",
+      "summary": "Rodrigo presenta una diferenciación inédita entre modelos de club: amateur (staff reducido, el fisio asume casi todo el proceso por falta de tiempo del preparador físico), semiprofesional (staff más amplio, fisio y preparador físico trabajan como procesos independientes por parcelas) y profesional (integrado).",
+      "literal_quote": "Os voy a presentar tres modelos diferentes de club, que son: amateur, semiprofesional y profesional... el alto rendimiento no empieza solo con más recursos, empieza con una mejor forma de pensar.",
+      "full_transcript": "Bien, aquí os voy a enseñar algo que no te enseñan en la universidad y es una diferenciación que no vais a encontrar en ningún sitio, pero que en la vida real está más que presente. Os voy a presentar tres modelos diferentes de club, que son: amateur, semiprofesional y profesional. Antes de desarrollarlos, me parece importante explicar esta diferenciación, ya que no todo el mundo trabaja en un club con una estructura ideal. No todo el mundo cuenta con tecnología GPS, con herramientas de valoración o un staff amplio con varios fisioterapeutas y varios preparadores físicos. Pero os voy a decir una cosa: incluso cuando te encuentras en contextos más modestos, sí se puede trabajar con una mentalidad integrada y profesional. Podemos compartir información mejor, podemos estructurar progresiones mejor, podemos tomar decisiones con más criterio. Y es que el alto rendimiento no empieza solo con más recursos, empieza con una mejor forma de pensar. Teniendo en cuenta que en la vida real nos vamos a encontrar con diferentes niveles y que yo, por experiencia, tengo la capacidad y la vivencia de haber estado y haber pasado por todos y cada uno de ellos, desde equipos regional, antigua Segunda B, Segunda RFEF, Primera RFEF, la liga y primeras divisiones en los diferentes países que mencioné antes. Quiero explicar un poco desde mi experiencia y desde mi punto de vista, cómo es el funcionamiento del trabajo y la realidad del trabajo entre fisioterapeuta y preparador físico en cada uno de ellos. En el primer escenario, en el equipo amateur, en muchos equipos de este nivel, el staff es muy reducido. Suele haber un fisioterapeuta, un entrenador y un preparador físico. En este contexto, lo más habitual es que el fisioterapeuta asume prácticamente todo el proceso de recuperación del jugador y se encarge del tratamiento, rehabilitación, progresión de carga y muchas veces también del retorno al entrenamiento con el equipo. Esto no significa que sea el modelo ideal, simplemente refleja la realidad de que muchos equipos tienen recursos humanos limitados y al final el fisioterapeuta se tiene que hacer cargo de una sola persona, que es el lesionado, mientras que el preparador físico, en este caso, va a estar principalmente centrado en el trabajo con el resto del equipo. Pero no porque no quiera ser partícipe de esa rehabilitación, sino porque no tiene tiempo, objetivamente hablando, para trabajar con un jugador cuando tiene que preocuparse de otros 23 durante el entrenamiento. Esto no quita para que la comunicación entre ambos siga siendo totalmente constante y se le informe al preparador físico de lo que se va a hacer en cada momento. Vamos al siguiente escenario, semiprofesional, pero yo creo que incluso algunos equipos profesionales siguen esta estructura. Y es que aquí ya hay un staff con mayor número de personas, es más profesional. El fisioterapeuta, normalmente aquí, lleva la recuperación del jugador durante toda la fase de rehabilitación y trabaja para que el jugador recupere la función, la fuerza, la tolerancia a la carga y la capacidad de realizar las demandas físicas básicas del deporte. Y una vez que el jugador demuestra que puede completar esas demandas sin problema, pasa a trabajar con el preparador físico. En este momento, el objetivo con el preparador físico suele ser terminar de preparar físicamente, en términos de rendimiento, al jugador para que el retorno a los entrenamientos con el resto de compañeros y a la competición sea lo más óptimo posible. Como veis aquí, este modelo se percibe como que son dos procesos independientes. ¿Hay trabajo en común? Sí, pero cada uno está más enfocado en su parcela.",
+      "keywords": [
+        "modelo amateur",
+        "modelo semiprofesional",
+        "recursos limitados",
+        "staff reducido",
+        "procesos independientes",
+        "organización de club"
+      ],
+      "entities": [
+        "Fisioterapeuta",
+        "Preparador físico",
+        "Entrenador"
+      ],
+      "topics": [
+        "Estructuras de clubes",
+        "Modelos de trabajo",
+        "Recursos humanos en fútbol"
+      ],
+      "content_type": [
+        "Explicación",
+        "Marco conceptual"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias de estructura de trabajo entre clubes amateurs, semiprofesionales y profesionales?",
+        "¿Cómo se distribuye la carga de rehabilitación en un equipo amateur con staff reducido?"
+      ],
+      "related_terms": [
+        "modelo amateur",
+        "modelo semiprofesional",
+        "alto rendimiento con pocos recursos"
+      ],
+      "relevance_score": 5,
+      "context_before": "La sección anterior cierra la progresión unificada de la preparación física y la fisioterapia deportiva.",
+      "context_after": "Se detalla el modelo integrado (profesional), que es el más eficiente según la experiencia del ponente."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "03:38",
+      "end_timestamp": "06:20",
+      "start_seconds": 218,
+      "end_seconds": 380,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=218",
+      "title": "El Modelo de Trabajo Integrado",
+      "summary": "Se analiza el modelo integrado (profesional) donde fisio y preparador físico trabajan juntos desde fases muy tempranas. El fisio gestiona la evolución clínica y el preparador físico gestiona la exposición progresiva a la carga. El retorno ocurre por una progresión adaptada y no por etapas aisladas.",
+      "literal_quote": "No se trata de dos fases separadas, se trata de una progresión continua en la que el fisioterapeuta gestiona la evolución clínica del jugador y el preparador físico gestiona la exposición progresiva a la carga.",
+      "full_transcript": "Y entonces nos vamos al escenario tres, que aquí en la presentación está puesto como profesional, pero a mí me gusta más llamarlo modelo integrado. En mi opinión, es el mejor y el más eficaz de todos, ya que por experiencia, cuando he trabajado de esta manera, he conseguido los mejores resultados. Es un modelo donde fisioterapeuta y preparador físico trabajan juntos desde fases mucho más tempranas del proceso. Y esto permite al jugador tener mayor tiempo disponible para mejorar todas las habilidades progresivamente, ya que en el modelo anterior, para que el jugador empiece con el preparador físico a trabajar capacidad aeróbica, por ejemplo, ha tenido que completar todo el trabajo previo con el fisioterapeuta. Pero aquí no. Aquí va a ser un modelo integrado y os voy a explicar el porqué y cómo funciona. Y es que no se trata de dos fases separadas, se trata de una progresión continua en la que el fisioterapeuta gestiona la evolución clínica del jugador y el preparador físico gestiona la exposición progresiva a la carga. Os pongo un ejemplo muy práctico, siguiendo un poco lo que puse antes, cuando hablamos de coordinación entre nosotros. Yo preparo una sesión de rehabilitación en la que quiero trabajar, por ejemplo: cambios de dirección, aceleraciones, deceleraciones, quiero introducir un poco de balón y alcanzar el 70 % de la velocidad máxima del jugador. En este caso, antes de empezar la sesión, me reúno con el preparador físico y le explico: \"Oye, mira, he pensado que para hoy la sesión de este jugador va a ser esta. ¿Cómo lo ves? ¿Hacemos algún tipo de trabajo adicional para completar la sesión?\" Y entonces ahí juntos discutiremos y valoraremos si la sesión preparada ya tiene suficiente trabajo, el suficiente volumen de trabajo, o es buen momento para introducir otro tipo de trabajo. Entonces el preparador físico me dice: \"Vale, perfecto. Si el jugador alcanzó un 60 % de velocidad en la sesión anterior y hoy vamos a progresar al 70, quiere decir que en un 50, 55 % puede trabajar cómodo, ¿verdad? Perfecto\". Entonces el preparador físico va a preparar una parte de endurance con el jugador en ese rango de intensidad para trabajar la capacidad aeróbica desde fechas más tempranas del proceso. Siempre y cuando, lo que hemos dicho antes, sin caer en el error de que haya sobrecarga de trabajo, porque eso ya lo habremos valorado previamente. Esto es un ejemplo. Habrá situaciones o tipos de lesiones que se podrá hacer antes, otras después, otras que no se pueda. Todo siempre tiene que ir adaptado al tipo de lesión y a la persona que tenemos delante. Quiero que quede claro que ambos trabajan coordinadamente para desarrollar algo que es clave en el retorno al juego: la capacidad del jugador para tolerar las demandas del fútbol. En este modelo, la rehabilitación y el rendimiento no se ven como procesos separados. Eso tiene que quedar claro. Se entienden como dos partes del mismo proceso de vuelta a la competición. Y es que un jugador no está listo para jugar cuando termina la rehabilitación, que es donde aprende y se prepara para moverse. Un jugador está listo cuando demuestra que puede tolerar las demandas del juego tras una exposición progresiva.",
+      "keywords": [
+        "modelo integrado",
+        "progresión continua",
+        "evolución clínica",
+        "exposición a la carga",
+        "capacidad aeróbica",
+        "velocidad máxima",
+        "tolerancia"
+      ],
+      "entities": [],
+      "topics": [
+        "Modelo integrado de club",
+        "Progresión de carga continua",
+        "Coordinación clínica y física"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el modelo de trabajo integrado en la recuperación de un futbolista?",
+        "¿Por qué el modelo integrado permite ganar tiempo en el desarrollo de la capacidad aeróbica?"
+      ],
+      "related_terms": [
+        "modelo integrado",
+        "progresión continua",
+        "exposición progresiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Comparativa de los modelos amateur y semiprofesional de organización de clubes.",
+      "context_after": "Se resume globalmente el webinar y se realiza la síntesis final de factores biológicos, de carga, juego y contexto."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "06:20",
+      "end_timestamp": "09:10",
+      "start_seconds": 380,
+      "end_seconds": 550,
+      "duration_seconds": 170,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=380",
+      "title": "Resumen Final del Webinar y Gestión del Riesgo Competitivo",
+      "summary": "Rodrigo resume que una decisión de retorno no depende de un único dato o test, sino de integrar la biología, carga, demandas del juego y contexto. En el fútbol profesional, el objetivo es comprender y gestionar el riesgo para asumir las consecuencias de cada decisión con responsabilidad ética.",
+      "literal_quote": "La respuesta tiene que salir de integrar, como hemos dicho, la biología, la carga, el juego y el contexto... No se trata de si el jugador puede jugar. Se trata de si tú estás preparado como profesional para asumir las consecuencias...",
+      "full_transcript": "Después de todo lo que hemos hablado, vamos a hacer un breve resumen de lo visto hasta ahora. Al principio de la charla planteamos un escenario muy común, un caso clínico dentro del fútbol profesional, en el que hablamos de un jugador en la última fase de rehabilitación que ha completado gran parte del proceso. Ha completado tres de fuerza, los test en campo también son buenos, la evolución clínica es positiva, pero aún no ha completado todo el proceso de rehabilitación. Recordaros también que una decisión médica no depende de un solo diagnóstico, de un solo test de fuerza o de cómo se sienta el jugador, sino que depende de otros muchos factores, que si los recordáis en la tabla que os he puesto, dependen de la biología de la lesión, la tolerancia del jugador a la carga, las demandas reales del juego y el contexto competitivo del equipo. También hemos visto que el retorno al juego no es un momento puntual, sino que es un proceso de exposición progresiva a las demandas del fútbol. Y que este proceso, principalmente, ocurre en el campo. Para que este proceso funcione, la mejor manera es cuando médico, fisioterapeutas, preparadores físicos y cuerpo técnico trabajan de forma coordinada. Por eso, volviendo a la pregunta inicial, cuando el entrenador hace la pregunta: \"¿Puede jugar?\" Después de esta charla, creo que todos entendemos que esa respuesta ya no puede salir de un solo dato. La respuesta rara vez va a ser un simple sí o no. La respuesta tiene que salir de integrar, como hemos dicho, la biología, la carga, el juego y el contexto. La respuesta suele ser algo más compleja, algo así como: puede jugar si entendemos el riesgo y lo gestionamos correctamente. Porque en el fútbol profesional el objetivo no es eliminar completamente el riesgo. Como hemos visto, el objetivo es entenderlo, gestionarlo y tomar la mejor decisión posible dentro del contexto competitivo del equipo. Y si llevamos un poco más lejos la pregunta del entrenador y vamos un poquito más allá, quizá la pregunta importante que tenemos que hacernos a nosotros mismos no es solo si el jugador puede jugar. Quizá la pregunta importante sea esta: ¿Estamos tomando la decisión porque el jugador realmente está preparado o porque el contexto nos empuja a querer que lo esté? Y después de esta pregunta de reflexión, me gustaría terminar con una frase que resume muy bien todo lo que hemos comentado hoy. Y es que la realidad sobre cómo funciona un departamento médico en el fútbol profesional se basa en una correcta toma de decisiones clínicas y gestión del riesgo dentro del contexto competitivo. ¿Por qué? Porque al final no se trata de si el jugador puede jugar. Se trata de si tú estás preparado como profesional para asumir las consecuencias de esa decisión. Y esa es la verdadera responsabilidad de trabajar en fútbol profesional.",
+      "keywords": [
+        "resumen del webinar",
+        "decisión médica",
+        "biología de la lesión",
+        "gestión del riesgo",
+        "consecuencias de la decisión",
+        "contexto competitivo",
+        "responsabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Resumen del webinar",
+        "Toma de decisiones",
+        "Ética profesional"
+      ],
+      "content_type": [
+        "Resumen",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué factores se deben integrar para dar una respuesta madura a la pregunta de si un jugador puede jugar?",
+        "¿Cuál es la verdadera responsabilidad ética de trabajar en el fútbol profesional?"
+      ],
+      "related_terms": [
+        "decisión compleja",
+        "asumir consecuencias",
+        "gestión del riesgo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica e ilustrativa del modelo integrado (profesional) de trabajo.",
+      "context_after": "Recomendación final sobre el trabajo en equipo, despedida y agradecimientos."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "09:10",
+      "end_timestamp": "10:11",
+      "start_seconds": 550,
+      "end_seconds": 611,
+      "duration_seconds": 61,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=550",
+      "title": "El Valor de Trabajar Acompañado y Despedida",
+      "summary": "Rodrigo cierra el webinar dando las gracias y ofreciendo su contacto. Brinda un consejo vital para el desarrollo personal y profesional: dejar los egos de lado e ir siempre acompañado y trabajando en equipo, porque el objetivo común siempre es el bienestar del jugador y los tres puntos cada fin de semana.",
+      "literal_quote": "Si queréis llegar lejos en este mundillo y en la vida en general, deberéis ir acompañados... los egos no llevan a ningún lado, que hay que trabajar juntos...",
+      "full_transcript": "Y hasta aquí ha llegado el webinar de hoy. Así que muchas gracias por vuestra atención. Ha sido un placer compartir este tiempo con vosotros. Espero que esta charla os haya ayudado un poco más a entender la realidad sobre cómo se toman las decisiones sobre lesiones dentro del cuerpo médico y también un poco más en global, cómo se toman las decisiones en un club de fútbol. Si me permitís un pequeño consejo, es que si queréis llegar lejos en este mundillo y en la vida en general, deberéis ir acompañados. Ir solos es muy complicado. Y con esto quiero decir que muchas veces los egos no llevan a ningún lado, que hay que trabajar juntos, que al final el objetivo común de todos siempre es el mismo: el jugador y los tres puntos cada fin de semana. Espero que os haya gustado. Os dejo por aquí mi contacto por si queréis seguir conversando o compartir experiencias. Estoy abierto a lo que sea. Lo dicho, ha sido un placer estar hoy aquí y estoy muy agradecido de tener la oportunidad de poder aportar mi granito de arena en esta plataforma junto a otros grandes profesionales, así que espero vernos pronto. Muchas gracias.",
+      "keywords": [
+        "trabajo en equipo",
+        "sin egos",
+        "objetivo común",
+        "consejo profesional",
+        "despedida",
+        "contacto",
+        "colaboración"
+      ],
+      "entities": [
+        "Rodrigo Martín Baeza"
+      ],
+      "topics": [
+        "Desarrollo profesional",
+        "Trabajo en equipo",
+        "Despedida del ponente"
+      ],
+      "content_type": [
+        "Consejo",
+        "Despedida"
+      ],
+      "search_questions": [
+        "¿Qué consejo final ofrece Rodrigo Martín Baeza para tener éxito en el fútbol profesional?",
+        "¿Cuál es el objetivo común del staff técnico y médico en el fútbol?"
+      ],
+      "related_terms": [
+        "trabajar acompañados",
+        "dejar los egos",
+        "tres puntos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexiones finales sobre el riesgo, la toma de decisiones y la responsabilidad profesional.",
+      "context_after": "Cierre definitivo de la sesión."
+    }
+  ]
+}

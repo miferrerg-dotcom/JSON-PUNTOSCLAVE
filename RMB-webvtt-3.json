@@ -1,0 +1,250 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Toma de decisiones en el fútbol profesional",
+    "speaker": "Rodrigo Martín Baeza",
+    "total_duration": "00:11:18",
+    "total_duration_seconds": 678,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:37",
+      "start_seconds": 0,
+      "end_seconds": 97,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Los Cuatro Pilares del Retorno a la Competición",
+      "summary": "Se explican detalladamente los dos primeros pilares para la toma de decisiones en el retorno a la competición: la biología de la lesión (cada tejido muscular, ligamentoso, tendinoso u óseo tiene sus tiempos de curación y capacidades de carga) y la tolerancia progresiva a la carga que el jugador demuestra en rehabilitación.",
+      "literal_quote": "El primer pilar es la biología de la lesión, y esto es importante porque cada tejido tiene su proceso de curación determinado.",
+      "full_transcript": "¿Cómo se toman realmente estas decisiones dentro de un club profesional? Vamos a dar respuesta a esto. En el fútbol profesional, las decisiones de retorno a la competición rara vez dependen de un único criterio. No dependen solo de una imagen médica, de un test de fuerza, ni de cómo se siente el jugador. La realidad es que las decisiones en el return to play suelen construirse evaluando varios factores al mismo tiempo. Una forma sencilla de entender este proceso es pensar que la decisión se apoya en cuatro pilares principales. El primer pilar es la biología de la lesión, y esto es importante porque cada tejido tiene su proceso de curación determinado. No es lo mismo una lesión muscular que una lesión ligamentosa, tendinosa o ósea. Cada una tiene tiempos biológicos diferentes y una capacidad distinta de tolerar carga durante la recuperación. Por lo tanto, es clave entender en qué tejido está la lesión y en qué punto del proceso biológico se encuentra. El segundo pilar es la capacidad del jugador para tolerar carga. Aquí es donde entran muchos de los elementos que trabajamos durante la fase de rehabilitación y de readaptación. El jugador debe demostrar progresivamente que puede tolerar carga en gimnasio, carrera lineal, cambios de dirección, aceleraciones, deceleraciones, gestos específicos del fútbol, trabajo con balón, golpeos y, lo más importante, que puede tolerar esa carga sin provocar una reagudización del problema. Por eso, las progresiones de carga deben ser claras y bien estructuradas.",
+      "keywords": [
+        "biología de la lesión",
+        "tolerancia a la carga",
+        "tejido muscular",
+        "ligamentoso",
+        "tendinoso",
+        "óseo",
+        "progresiones de carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Cuatro pilares",
+        "Biología de la lesión",
+        "Retorno a la competición"
+      ],
+      "content_type": [
+        "Explicación",
+        "Marco conceptual"
+      ],
+      "search_questions": [
+        "¿Cuáles son los primeros dos pilares del retorno a la competición?",
+        "¿Qué diferencias hay entre los tiempos biológicos de recuperación según el tejido afectado?"
+      ],
+      "related_terms": [
+        "biología de la lesión",
+        "tolerancia a la carga",
+        "progresiones de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Sección anterior concluye en que el retorno al juego no depende de un único criterio clínico.",
+      "context_after": "Se describe el desfase de percepción subjetiva del jugador frente a la estabilidad mecánica del tejido en lesiones musculares."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "01:37",
+      "end_timestamp": "04:21",
+      "start_seconds": 97,
+      "end_seconds": 261,
+      "duration_seconds": 164,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=97",
+      "title": "La Trampa de las Sensaciones vs. Datos Objetivos",
+      "summary": "Rodrigo alerta sobre la trampa del retorno al juego en lesiones musculares: el desfase donde el jugador se siente muy fuerte y recuperado pero el tejido aún no tiene estabilidad biológica ni mecánica. Propone usar datos de fuerza objetivos (isquiotibiales, cuádriceps, etc.) como 'seguro de vida' profesional.",
+      "literal_quote": "Ese desfase entre la percepción subjetiva y la capacidad real es una de las trampas más importantes... los datos no toman decisiones. Las decisiones las tomamos nosotros, asumiendo el riesgo...",
+      "full_transcript": "Ahora voy a daros un ejemplo que engloba un poco todos los pilares que tenemos en la diapositiva, pero que a su vez está más enfocado para estos dos primeros que ya he explicado. Voy a poner el ejemplo de lesiones musculares. Aunque podría extrapolarse con matices a los otros tipos de tejido, que responden distinto y tienen distintos tiempos biológicos de recuperación, en este caso nos vamos a centrar en las musculares, porque son las más recurrentes en nuestro deporte. En las lesiones musculares hay un momento del proceso que para mí es especialmente delicado: cuando un jugador empieza a sentirse muy bien. Percibe que está más fuerte que antes de lesionarse, que puede correr sin problema y cambiar de dirección. Ese desfase entre la percepción subjetiva y la capacidad real es una de las trampas más importantes del return to play. ¿Por qué? Porque las sensaciones del jugador mejoran antes de que el tejido haya recuperado completamente su capacidad para tolerar carga. Es decir, el jugador puede sentirse preparado, pero el músculo todavía no ha alcanzado la estabilidad biológica ni la capacidad mecánica necesarias para soportar las demandas reales del fútbol. Por eso es fundamental no basar las decisiones únicamente en las sensaciones del futbolista, sino en criterios objetivos. Yo, personalmente, intento apoyarme siempre en datos objetivos, siempre que puedo, utilizando diferentes plataformas para la valoración de fuerza, por ejemplo, porque eso me ayuda a que la progresión no dependa solo de una intuición o de una buena sensación. Cuando evaluamos fuerza, por ejemplo, en isquiotibiales, cuádriceps o en patrones específicos, podemos comprobar si el jugador realmente está capacitado para producir fuerza. También tenemos la posibilidad de compararlo con mediciones previas, si existe simetría entre ambos lados o si el tejido está preparado para tolerar las cargas que va a encontrar cuando vuelva al campo. Esto no significa que el jugador no pueda progresar. Significa que el progreso debe darse cuando el tejido demuestra objetivamente que está preparado. Pero también quiero añadir algo: los datos no toman decisiones. Las decisiones las tomamos nosotros, asumiendo el riesgo que corresponda en cada momento. De esta forma, tu trabajo va a tener un seguro de vida, ya que ante cualquier imprevisto que pueda surgir, siempre vas a tener unos datos objetivos en los que te has basado para poder justificar esos progresos en la rehabilitación. Cuando llega el momento de volver al campo, ya no solo tenemos buenas sensaciones, sino datos que nos dan seguridad de que el jugador y su tejido pueden producir la fuerza necesaria para soportar las demandas del juego.",
+      "keywords": [
+        "trampa de sensaciones",
+        "percepción subjetiva",
+        "capacidad real",
+        "datos objetivos",
+        "isquiotibiales",
+        "cuádriceps",
+        "plataformas de valoración"
+      ],
+      "entities": [
+        "Isquiotibiales",
+        "Cuádriceps"
+      ],
+      "topics": [
+        "Datos objetivos vs. Sensaciones",
+        "Evaluación de fuerza",
+        "Lesiones musculares"
+      ],
+      "content_type": [
+        "Explicación",
+        "Consejo profesional"
+      ],
+      "search_questions": [
+        "¿Por qué es arriesgado basar el retorno al juego solo en las sensaciones del jugador?",
+        "¿Cómo ayudan las plataformas de valoración de fuerza a justificar la progresión del jugador?"
+      ],
+      "related_terms": [
+        "percepción subjetiva",
+        "datos objetivos de fuerza",
+        "seguro de vida profesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la biología de la lesión y la tolerancia a la carga.",
+      "context_after": "Se aborda el tercer pilar: las demandas reales de la competición en comparación con el entorno controlado de la rehabilitación."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "04:21",
+      "end_timestamp": "05:46",
+      "start_seconds": 261,
+      "end_seconds": 346,
+      "duration_seconds": 85,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=261",
+      "title": "Tercer Pilar: Demandas de Competición vs. Entorno Controlado",
+      "summary": "El tercer pilar analiza las demandas reales del juego. Rodrigo diferencia el entorno controlado de la rehabilitación (donde decidimos el volumen, aceleración y fatiga) del entorno impredecible de la competición (esfuerzos a máxima velocidad, fatiga acumulada, gestos forzados en disputas y contacto).",
+      "literal_quote": "La rehabilitación ocurre en un entorno controlado, la competición ocurre en un entorno impredecible.",
+      "full_transcript": "Dicho esto, seguimos con el tercer pilar, que tiene que ver con las demandas reales de la competición. Porque una cosa es que el jugador sea capaz de entrenar y otra muy importante es que esté preparado para competir. Un partido de fútbol implica exponerse a situaciones que muchas veces no podemos reproducir completamente durante la rehabilitación. Se me ocurren acciones a máxima velocidad, cambios de dirección reactivos, fatiga acumulada, contacto con otros jugadores y situaciones impredecibles. Especialmente, este último punto es muy importante, porque durante el proceso de rehabilitación muchas veces vamos a trabajar en un entorno relativamente controlado. Es decir, vamos a poder decidir cuándo acelerar, cuándo frenar, cuándo cambiar de dirección, cuánta carga aplicar y, con ello, gestionar la fatiga. Incluso cuántas veces se golpea el balón y en qué situación. Pero la realidad es que en un partido se harán gestos forzados cuando se esté en una disputa por el balón, por ejemplo, que en una rehabilitación es más difícil de conseguir. Todas estas variables forman parte de lo que entendemos como demandas del juego y deben tenerse en cuenta cuando tomamos una decisión de return to play. Hay una frase que me gusta mucho, porque es muy sencilla, pero está llena de significado y tiene mucho que ver con lo que estamos hablando ahora: la rehabilitación ocurre en un entorno controlado, la competición ocurre en un entorno impredecible.",
+      "keywords": [
+        "demandas de competición",
+        "entorno controlado",
+        "entorno impredecible",
+        "acciones reactivas",
+        "gestos forzados",
+        "fatiga acumulada"
+      ],
+      "entities": [],
+      "topics": [
+        "Rehabilitación vs. Competición",
+        "Fisiología del esfuerzo",
+        "Entornos de trabajo"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis comparativo"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias de demandas físicas entre la rehabilitación y un partido real?",
+        "¿Qué factores hacen que la competición sea un entorno impredecible para un jugador lesionado?"
+      ],
+      "related_terms": [
+        "entorno controlado",
+        "entorno impredecible",
+        "gestos forzados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Uso de datos objetivos de fuerza frente a sensaciones subjetivas en lesiones musculares.",
+      "context_after": "Se presenta el cuarto pilar (contexto competitivo) y el error común de confundir tests pasados con preparación real."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "05:46",
+      "end_timestamp": "08:34",
+      "start_seconds": 346,
+      "end_seconds": 514,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=346",
+      "title": "Cuarto Pilar: Contexto Competitivo del Equipo y Errores de RTW",
+      "summary": "Se analiza el cuarto pilar: el contexto competitivo (calendario, importancia del partido, momento de la temporada, etc.). Se advierte sobre el error de confundir pasar un criterio de fuerza o sesión con estar verdaderamente preparado para el contexto real de fatiga acumulada y exigencia máxima de juego.",
+      "literal_quote": "Confundir pasar un criterio con estar preparado para competir... El fútbol te pregunta si sigues estando bien cuando todo deja de ser ideal.",
+      "full_transcript": "Ahora vamos a pasar al último y cuarto pilar, que es el contexto competitivo del equipo. Aquí entran factores que muchas veces no aparecen en los libros, pero que en el día a día en un club son muy reales y conviene tenerlos en cuenta. Son, por ejemplo, el calendario competitivo, la importancia de un partido, la disponibilidad de los jugadores en esa misma posición, el momento de la temporada. Porque no es lo mismo tomar una decisión en un partido amistoso de pretemporada que en un partido decisivo de la temporada. Creo que hasta ahí estamos todos de acuerdo. Pero esto no significa que ignoremos el riesgo en esta última situación que acabo de mencionar. Significa que tenemos que interpretar ese riesgo dentro del contexto competitivo específico en el que nos encontramos. Y es que, en definitiva, si uno de estos pilares que acabamos de explicar no lo tenemos en cuenta, el retorno no es totalmente sólido. Y si ya ignoramos dos, el retorno ya lo podemos considerar peligroso, bien porque no hemos tenido en cuenta sensaciones del jugador, tiempos biológicos, contexto competitivo o situaciones reales de juego, por ejemplo, que no se hayan dado previamente en entrenamientos. Ahora, después de desarrollar los cuatro pilares, quiero destacar uno de los errores más frecuentes en el return to play, y yo creo que es el siguiente: confundir pasar un criterio con estar preparado para competir. Y es que un jugador puede pasar un test de fuerza, puede completar una sesión, puede decir que se encuentra bien y aun así no está preparado para responder a la complejidad real del juego. Este error y esta situación se suele dar más, obviamente, cuando el proceso de rehabilitación está avanzado y el jugador ya empieza a alcanzar ciertos objetivos en campo. Y la realidad es que el fútbol no te pregunta si estás bien en condiciones ideales. El fútbol te pregunta si sigues estando bien cuando todo deja de ser ideal, cuando aparece la fatiga, cuando los esfuerzos de alta intensidad son repetidos. Es decir, todas aquellas situaciones incontrolables que se pueden dar durante un partido real. Y aquí presentamos a modo de esquema. Como hemos visto hasta ahora, en el fútbol profesional, las decisiones del return to play no se basan en un único dato. Se construyen integrando información clínica, funcional y contextual. Por eso, y ahora aquí añado esto, que creo que es importante destacar, las mejores decisiones suelen aparecer cuando el departamento médico, el departamento de rendimiento y el cuerpo técnico comparten la misma información y el mismo criterio. Pero cuando llevamos esta idea a la práctica, este proceso de decisión suele recaer principalmente en dos figuras dentro del staff: nosotros, los preparadores, los fisioterapeutas, y vosotros, los preparadores físicos. Somos nosotros quienes en el día a día gestionamos gran parte del proceso de recuperación y de progresión de carga del jugador.",
+      "keywords": [
+        "contexto competitivo",
+        "calendario competitivo",
+        "criterios de fuerza",
+        "errores return to play",
+        "fatiga",
+        "alta intensidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Contexto competitivo del equipo",
+        "Errores en el return to play",
+        "Complejidad del juego"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué factores componen el pilar del contexto competitivo?",
+        "¿Por qué pasar un test de fuerza no equivale a estar preparado para competir?"
+      ],
+      "related_terms": [
+        "contexto competitivo",
+        "calendario competitivo",
+        "errores en return to play"
+      ],
+      "relevance_score": 5,
+      "context_before": "La distinción entre rehabilitación controlada y competición impredecible.",
+      "context_after": "Se debate la articulación práctica del proceso de decisión liderado por el fisioterapeuta y el preparador físico."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Toma de decisiones en el fútbol profesional",
+      "speaker": "Rodrigo Martín Baeza",
+      "start_timestamp": "08:34",
+      "end_timestamp": "11:18",
+      "start_seconds": 514,
+      "end_seconds": 678,
+      "duration_seconds": 164,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=514",
+      "title": "Sinergia en Acción: El Trabajo del Fisioterapeuta y Preparador Físico",
+      "summary": "Se enfatiza la coordinación diaria entre el fisioterapeuta y el preparador físico. Rodrigo detalla su rutina: sentarse antes del entrenamiento para consensuar objetivos de sesión (fuerza, pliometría, velocidad, balón), volumen, síntomas de alarma y respuestas esperadas a las 24 horas. Evita mandar mensajes contradictorios al jugador.",
+      "literal_quote": "La coordinación no es hablar mucho. Es hablar el mismo idioma... el fisioterapeuta y el preparador físico deben trabajar en consonancia, entendiendo que ambos forman parte del mismo proceso...",
+      "full_transcript": "Y acá aparece un punto clave dentro del fútbol profesional. Y es que para que el proceso funcione correctamente, el fisioterapeuta y el preparador físico deben trabajar en consonancia, entendiendo que ambos forman parte del mismo proceso y que la coordinación es clave para trasladar la recuperación clínica a las demandas reales del juego. Porque al final, el retorno a la competición no ocurre en la camilla, el retorno a la competición ocurre en el campo. Y cuando hablamos de coordinación entre fisioterapeuta y preparador físico, hablamos de comunicación, como ya hemos visto. Pero, ¿esto qué quiere decir? Esto no significa que haya que llevarse bien, comentar dos cosas rápidas antes del entrenamiento y ya está. No. Hablo de compartir criterios. Os voy a poner un ejemplo mío personal de la manera que me gusta a mí trabajar. Y es que, por ejemplo, yo llego antes del entrenamiento. Preparo la sesión de rehabilitación, me siento con el preparador físico y hablamos. ¿Por qué hago esto? Porque me gusta que el preparador físico, que es mi compañero de viaje en esa rehabilitación, esté enterado de todo el proceso, para que cuando llegue el momento en el que pueda iniciar el trabajo con el jugador, sepa exactamente todos los detalles y eso le va a ayudar y le facilitará la toma de decisiones seguro. ¿Por qué? Porque ya conoce todo lo que hemos hecho anteriormente. Y entonces, nos sentamos y le comento los objetivos de la sesión. ¿Qué objetivo quiero hoy? Fuerza, pliometría, velocidad, balón. ¿Qué carga buscamos? X. ¿Qué síntomas nos haría frenar? Tipo de molestia o dolor, por ejemplo, se me ocurre. Si la lesión es en el cuádriceps y aparece una molestia en el aductor, por ejemplo, cuando hace un cambio de dirección, sabemos que puede ser por la carga de trabajo, pero no tiene nada que ver con la lesión. Pero ahora, si esa molestia aparece en un golpeo, igual que tenemos que tener más cuidado y mirar a ver por qué en un golpeo te aparece dolor en el aductor. Igual el cuádriceps no está trabajando su función o no se está activando de la forma que tiene que hacerlo. Y luego también hay que tener en cuenta qué respuesta esperamos a las 24 horas siguientes. Por ejemplo, si queremos trabajar fuerza, yo sé que el jugador, 24, 48 horas después, va a estar cansado, va a tener agujetas. O si la carga en campo está siendo progresiva, sé que lo que yo quiero es que no haya ninguna reacción física en las 24 horas siguientes, porque al día siguiente voy a querer seguir progresando en el campo. En fin, la coordinación no es hablar mucho. Es hablar el mismo idioma. Porque cuando fisioterapeuta y preparador físico no comparten criterio, el jugador recibe mensajes mezclados. Y cuando un jugador recibe mensajes mezclados, el jugador duda. Y cuando el jugador duda, pierde confianza y, como consecuencia, el proceso pierde solidez. Y con todo esto quiero decir que la rehabilitación y la preparación física no son procesos separados, sino que son partes de una misma progresión hacia la competición.",
+      "keywords": [
+        "coordinación",
+        "fisioterapeuta",
+        "preparador físico",
+        "sintonía",
+        "compartir criterios",
+        "molestias",
+        "aductor",
+        "cuádriceps"
+      ],
+      "entities": [
+        "Fisioterapeuta",
+        "Preparador físico",
+        "Aductor",
+        "Cuádriceps"
+      ],
+      "topics": [
+        "Coordinación del staff",
+        "Fisioterapia y preparación física",
+        "Protocolo de entrenamiento diario"
+      ],
+      "content_type": [
+        "Metodología",
+        "Consejo profesional"
+      ],
+      "search_questions": [
+        "¿Cómo deben coordinarse el fisioterapeuta y el preparador físico en el día a día?",
+        "¿Qué pasa cuando el jugador recibe mensajes contradictorios del staff médico y de rendimiento?"
+      ],
+      "related_terms": [
+        "hablar el mismo idioma",
+        "compartir criterios",
+        "mensajes mezclados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe cómo la toma de decisiones se apoya en la coincidencia de criterios médicos, rendimiento y técnicos.",
+      "context_after": "Fin del tercer video. El cuarto video aborda la categorización de los clubes según su nivel y resume el webinar."
+    }
+  ]
+}
