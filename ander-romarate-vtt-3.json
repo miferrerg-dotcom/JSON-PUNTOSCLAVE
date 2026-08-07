@@ -1,0 +1,357 @@
+{
+  "video": {
+    "video_id": "V01-PT3",
+    "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+    "speaker": "Ander Romarate",
+    "total_duration": "00:20:52",
+    "total_duration_seconds": 1252,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-PT3-001",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:02",
+      "start_seconds": 1,
+      "end_seconds": 182,
+      "duration_seconds": 181,
+      "timestamp_url": "?t=1",
+      "title": "Perfil funcional y criterios de elegibilidad",
+      "summary": "La discapacidad orienta la mirada del profesional, pero el rendimiento y la toma de decisiones dependen de cómo esta se expresa funcionalmente. Existen tres grandes bloques de discapacidad elegibles en el deporte paralímpico: físicas (estructurales y neuromusculares), visuales y mentales.",
+      "literal_quote": "Por tanto, el criterio de elegibilidad define quién puede competir en el deporte paralímpico, y el perfil funcional nos va a definir cómo debemos entrenar o cómo debe trabajar ese deportista para poder obtener el máximo rendimiento o salud posible.",
+      "full_transcript": "Vamos a continuar profundizando en los tipos de discapacidad... Tenemos que tener en cuenta que la discapacidad de alguna manera orienta la mirada, pero no explica el rendimiento por sí sola. Lo que tenemos que mirar es cómo esa discapacidad se expresa a nivel funcional en un deporte en concreto. Esto ya lo vimos en el apartado de la clasificación funcional... de alguna manera, analizar la discapacidad que tiene esa persona nos va a permitir orientar nuestra mirada como científicos del deporte, pero el perfil funcional es lo que va a guiar nuestra decisión final. Como os decía también, no cualquier discapacidad es elegible. Las discapacidades se agrupan principalmente en tres grandes bloques. Por un lado, estarían las discapacidades físicas (alteraciones estructurales, neuromusculares o funcionales). Las discapacidades visuales (orientación, anticipación, seguridad) y las discapacidades intelectuales (comprensión, aprendizaje, toma de decisiones). Por tanto, el criterio de elegibilidad define quién puede competir en el deporte paralímpico, y el perfil funcional nos va a definir cómo debemos entrenar o cómo debe trabajar ese deportista para poder obtener el máximo rendimiento o salud posible.",
+      "keywords": [
+        "perfil-funcional",
+        "criterio-elegibilidad",
+        "discapacidad-física",
+        "discapacidad-visual",
+        "discapacidad-intelectual"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres grandes bloques de discapacidad en el deporte paralímpico?",
+        "¿Qué diferencia hay entre el criterio de elegibilidad y el perfil funcional?"
+      ],
+      "related_terms": [
+        "alteraciones estructurales",
+        "científicos del deporte",
+        "rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la clase profundizando en los tipos de discapacidad de mayor presencia.",
+      "context_after": "Se analiza cómo el impacto de la discapacidad varía radicalmente dependiendo de las demandas específicas del deporte."
+    },
+    {
+      "id": "V01-PT3-002",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:06:17",
+      "start_seconds": 183,
+      "end_seconds": 377,
+      "duration_seconds": 194,
+      "timestamp_url": "?t=183",
+      "title": "Impacto de la discapacidad en las demandas deportivas",
+      "summary": "Una misma deficiencia impacta de forma distinta según el deporte. Se debe analizar cómo afecta a la masa muscular y termorregulación (deportes de resistencia), al rol táctico (deportes de equipo) o a la sincronización con el guía (discapacidad visual).",
+      "literal_quote": "la pregunta que nos deberíamos hacer no sería qué discapacidad tiene el deportista, sino qué le impide hacer este deporte o cómo le afecta esa discapacidad en este deporte.",
+      "full_transcript": "Como os decía antes, no todas las deficiencias impactan por igual. Una misma deficiencia puede limitar muchísimo en un deporte y, en cambio, en otro puede afectar en menor medida. Por tanto, es muy importante que realicemos un análisis de cómo esa discapacidad afecta a las demandas específicas de la disciplina. Por ejemplo, en resistencia afectará a la masa muscular activa, economía, respuesta cardiovascular, termorregulación. En deporte de equipo tendrá que ver el rol táctico, velocidad de reacción, contactos, toma de decisiones. Si tiene componente técnico alto, el control postural, coordinación y precisión. Por ejemplo, en un deportista con discapacidad visual en esquí o ciclismo, la capacidad de sincronizarse con el guía, la confianza y la comunicación serán importantes. Por eso, la pregunta que nos deberíamos hacer no sería qué discapacidad tiene el deportista, sino qué le impide hacer este deporte o cómo le afecta esa discapacidad en este deporte. Entrando en las discapacidades físicas, tenemos afectaciones neuromusculares (reducción de fuerza, hipertonía, ataxia), estructurales o mecánicas (amputaciones, dismetrías) y autonómicas o sistémicas (lesiones medulares, problemas de sudoración).",
+      "keywords": [
+        "demandas-deportivas",
+        "termorregulación",
+        "rol-táctico",
+        "discapacidad-física",
+        "afectaciones-autonómicas"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la discapacidad a los deportes de resistencia frente a los deportes de equipo?",
+        "¿Qué se debe analizar en lugar del tipo de discapacidad que tiene un deportista?"
+      ],
+      "related_terms": [
+        "relación guía-piloto",
+        "masa muscular activa",
+        "hipertonía"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del perfil funcional y los tres bloques de discapacidad.",
+      "context_after": "Se detallan las implicaciones específicas de la lesión medular en el control de la carga."
+    },
+    {
+      "id": "V01-PT3-003",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:06:18",
+      "end_timestamp": "00:08:23",
+      "start_seconds": 378,
+      "end_seconds": 503,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=378",
+      "title": "Lesión medular: Control de carga e interpretación fisiológica",
+      "summary": "Las lesiones medulares presentan menor masa activa, respuestas cardiovasculares tardías y problemas de termorregulación. La frecuencia cardíaca suele infraestimar la intensidad. Se recomienda monitorizar con RPE global, muscular y respiratorio, además de vigilar la hidratación y presión arterial.",
+      "literal_quote": "La frecuencia cardíaca no debería reflejar la intensidad real, sobre todo en lesiones medulares altas. La potencia y la velocidad debemos leerla según la masa activa que tiene el deportista.",
+      "full_transcript": "Por ejemplo, en cuanto a la lesión medular... lo más destacado es que generalmente suelen tener una menor masa muscular activa y una complejidad sistémica significativamente mayor. Pueden existir distintas alteraciones: peor estabilización del tronco, respuestas cardiovasculares y de frecuencia cardíaca tardías, una presión arterial más elevada, peor capacidad de sudoración y, por tanto, de termorregular. ¿Qué implicaciones tiene esto en el contexto del rendimiento? La frecuencia cardíaca no debería reflejar la intensidad real, sobre todo en lesiones medulares altas. La potencia y la velocidad debemos leerla según la masa activa que tiene el deportista. El calor y humedad elevan el riesgo fisiológico. También suelen sufrir de fatiga periférica principalmente en brazos o hombros. Decisiones prácticas: monitorizar a través del RPE global, pero también de la RPE respiratoria y muscular, controlar la temperatura, hidratación, presión arterial, vigilar la piel y tener mucho cuidado a la hora de leer e interpretar el consumo de oxígeno o frecuencia cardíaca.",
+      "keywords": [
+        "lesión-medular",
+        "termorregulación",
+        "frecuencia-cardíaca",
+        "rpe",
+        "fatiga-periférica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la frecuencia cardíaca no refleja la intensidad real en lesiones medulares?",
+        "¿Qué variables se deben monitorizar específicamente en deportistas con lesión medular?"
+      ],
+      "related_terms": [
+        "masa muscular activa",
+        "consumo de oxígeno",
+        "estabilización del tronco"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo las demandas del deporte cambian la interpretación funcional de la discapacidad.",
+      "context_after": "Análisis de las amputaciones y cómo la alteración mecánica y el material afectan al rendimiento."
+    },
+    {
+      "id": "V01-PT3-004",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:08:24",
+      "end_timestamp": "00:10:20",
+      "start_seconds": 504,
+      "end_seconds": 620,
+      "duration_seconds": 116,
+      "timestamp_url": "?t=504",
+      "title": "Amputaciones: Biomecánica y relación con el material",
+      "summary": "Las amputaciones alteran la longitud de palancas, la simetría y el coste energético. La interacción con la prótesis es vital: un cambio mínimo afecta la técnica y el dolor en el muñón. Se debe valorar la fuerza unilateral y evitar comparar datos absolutos sin considerar la mecánica.",
+      "literal_quote": "el material no es un accesorio en este caso, sino que forma parte muchas veces del cuerpo del propio deportista.",
+      "full_transcript": "En cuanto a las amputaciones, una parte muy importante será la biomecánica y cómo cambia. Modifican longitud de palancas y simetrías en la transmisión de fuerzas y en el equilibrio, el coste energético y la técnica. Interacción también con la prótesis, a fin de cuentas el material será muy importante y cómo interactúa con el cuerpo, hay una carga unilateral y, por tanto, sobreuso, dolor en el muñón. Pequeños cambios del material también cambian la técnica, pueden generar dolor o mejorar el rendimiento. La asimetría puede ser adaptación, pero si lo trabajamos mal puede suponer un riesgo. Decisiones prácticas: Analizar siempre al deportista, pero también el material, controlar el dolor, las rozaduras y la tolerancia al apoyo. Valorar la fuerza unilateral y las compensaciones que tiene el deportista. Y no comparar datos absolutos sin mecánica ni masa activa. Y aquí, en la parte final, os pongo que el material no es un accesorio en este caso, sino que forma parte muchas veces del cuerpo del propio deportista.",
+      "keywords": [
+        "amputaciones",
+        "biomecánica",
+        "prótesis",
+        "simetría",
+        "dolor-muñón"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las amputaciones a la biomecánica del deportista?",
+        "¿Por qué es crucial analizar la interacción con la prótesis en el rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "longitud de palancas",
+        "fuerza unilateral",
+        "coste energético"
+      ],
+      "relevance_score": 5,
+      "context_before": "Control de variables fisiológicas en deportistas con lesión medular.",
+      "context_after": "Se transiciona a las afectaciones neurológicas, el tono muscular y la espasticidad."
+    },
+    {
+      "id": "V01-PT3-005",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:10:21",
+      "end_timestamp": "00:11:53",
+      "start_seconds": 621,
+      "end_seconds": 713,
+      "duration_seconds": 92,
+      "timestamp_url": "?t=621",
+      "title": "Afectaciones neurológicas: Espasticidad y fatiga técnica",
+      "summary": "En perfiles con afectación neurológica, el tono muscular y la variabilidad diaria (frío, calor, estrés) dictan el rendimiento. La fatiga incrementa la espasticidad, por lo que la técnica cae antes que la capacidad sistémica. Se debe priorizar la calidad técnica sobre el volumen.",
+      "literal_quote": "La técnica cae antes que el rendimiento extremo. Es decir, normalmente, muchas veces será una fatiga más a nivel técnico que sistémico. La fatiga aumenta también la espasticidad.",
+      "full_transcript": "En cuanto a las afectaciones neurológicas, aquí una gran importancia tendrá el tono muscular, la capacidad de coordinación, la eficiencia economía y la variabilidad diaria. ¿Cómo pueden afectar? En el tono muscular y en la espasticidad, la rigidez, la coordinación, el control postural y la variabilidad entre días dependiendo del contexto (calor, frío, viajes, estrés, dormir mal). Todo eso va a afectar significativamente al rendimiento. ¿Qué implicaciones tiene? La técnica cae antes que el rendimiento extremo. Es decir, normalmente, muchas veces será una fatiga más a nivel técnico que sistémico. La fatiga aumenta también la espasticidad. Una misma sesión, debido a la variabilidad diaria, puede tener un coste distinto según el día. Y más carga no siempre es mejor si baja principalmente la calidad del gesto. Decisiones prácticas: priorizar la calidad técnica, ajustar el volumen según la fatiga y control motor, combinar fuerza, movilidad y resistencia, y distinguir la limitación funcional de falta de técnica.",
+      "keywords": [
+        "afectaciones-neurológicas",
+        "espasticidad",
+        "fatiga-técnica",
+        "variabilidad-diaria",
+        "control-motor"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la fatiga a la espasticidad en deportistas con daño neurológico?",
+        "¿Por qué es fundamental la variabilidad diaria en afectaciones neurológicas?"
+      ],
+      "related_terms": [
+        "tono muscular",
+        "calidad del gesto",
+        "rendimiento extremo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estudio del impacto biomecánico en deportistas con amputaciones.",
+      "context_after": "Se abordan las discapacidades en el plano sensorial (visual) e intelectual."
+    },
+    {
+      "id": "V01-PT3-006",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:11:54",
+      "end_timestamp": "00:15:11",
+      "start_seconds": 714,
+      "end_seconds": 911,
+      "duration_seconds": 197,
+      "timestamp_url": "?t=714",
+      "title": "Discapacidad visual e intelectual: Comunicación y rutinas",
+      "summary": "En discapacidad visual prima el feedback verbal/táctil, la seguridad del entorno y la relación con el guía. En discapacidad intelectual, la comunicación debe ser clara y repetible, sin asumir que se comprende la tarea al primer intento. Para ambas, mantener rutinas estables reduce la incertidumbre y fomenta la autonomía.",
+      "literal_quote": "Las rutinas, por ejemplo, suelen funcionar muy bien, al igual que la discapacidad visual, porque reducen esa incertidumbre y también dan mayor autonomía al deportista.",
+      "full_transcript": "En el plano sensorial, tenemos la discapacidad visual. Afectará en la orientación espacial, seguridad, aprendizaje técnico y relación guía-piloto. El aprendizaje por imitación está limitado. Tendrá más peso el feedback verbal, táctil y sonoro. La seguridad del entorno marca muchas veces la calidad de la sesión. Cuando hay un guía, el rendimiento es cosa de dos. Decisiones: estandarizar rutinas, dar instrucciones claras y consistentes, integrar al guía y buscar entornos seguros. En el caso de la discapacidad intelectual, afectará la comprensión de las instrucciones, aprendizaje técnico/táctico, adaptación a cambios y autorregulación (pacing). La información debe ser clara, estable y repetible. La RPE es útil pero requiere aprendizaje; debemos contrastarla con datos objetivos. Las rutinas suelen funcionar muy bien, al igual que la discapacidad visual, porque reducen esa incertidumbre y también dan mayor autonomía al deportista. Decisiones prácticas: utilizar instrucciones simples, feedback demostrativo repetitivo, comprobar la comprensión y no asumirla, y enseñar al deportista a autorregular.",
+      "keywords": [
+        "discapacidad-visual",
+        "discapacidad-intelectual",
+        "comunicación",
+        "rutinas",
+        "feedback-táctil"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué estrategias de comunicación funcionan mejor en discapacidad visual e intelectual?",
+        "¿Por qué es importante mantener rutinas estables en ciertos grupos de discapacidad?"
+      ],
+      "related_terms": [
+        "relación guía-piloto",
+        "autorregulación (pacing)",
+        "reducción de incertidumbre"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ajustes de carga en afectaciones de carácter neurológico.",
+      "context_after": "Se transiciona a analizar si el origen de la discapacidad es de nacimiento o posterior."
+    },
+    {
+      "id": "V01-PT3-007",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:15:12",
+      "end_timestamp": "00:17:54",
+      "start_seconds": 912,
+      "end_seconds": 1074,
+      "duration_seconds": 162,
+      "timestamp_url": "?t=912",
+      "title": "Curva de aprendizaje: Discapacidad congénita vs adquirida",
+      "summary": "La discapacidad congénita implica un desarrollo motor condicionado desde la infancia y menor bagaje multideportivo. La adquirida en edad adulta permite transferir hábitos y cultura del deporte convencional, posibilitando una progresión inicial rápida, aunque requiere reconstruir la identidad deportiva.",
+      "literal_quote": "Por tanto, la edad de adquisición de la discapacidad no va a determinar el techo, pero sí modifica el camino y por tanto, tendremos que adaptar la forma de trabajar que tenemos con ese deportista.",
+      "full_transcript": "entender si esa discapacidad es congénita o es adquirida... va a influir en el desarrollo deportivo, adaptaciones psicológicas, experiencias previas y curva de aprendizaje. Cuando es congénita, la adaptación funcional se da desde la infancia. El aprendizaje motor está condicionado. Estos deportistas presentan menos experiencia en deporte convencional y tienen necesidad de exploración multideportiva. El desarrollo será progresivo a largo plazo. Sin embargo, si es una discapacidad adquirida en edad adulta, el deportista puede haber tenido experiencia previa. Estas experiencias pueden tener transferencia, transferencia de hábitos de entrenamiento y mayor cultura deportiva previa. Tienen una progresión inicial muy rápida si ya practicaban un deporte, pero vamos a tener que reconstruir esa identidad deportiva. Por tanto, la edad de adquisición de la discapacidad no va a determinar el techo, pero sí modifica el camino y por tanto, tendremos que adaptar la forma de trabajar que tenemos con ese deportista.",
+      "keywords": [
+        "discapacidad-congénita",
+        "discapacidad-adquirida",
+        "aprendizaje-motor",
+        "transferencia-hábitos",
+        "identidad-deportiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay en el aprendizaje entre una discapacidad congénita y una adquirida?",
+        "¿Cómo afecta haber hecho deporte convencional antes de adquirir una discapacidad?"
+      ],
+      "related_terms": [
+        "cultura deportiva",
+        "desarrollo progresivo",
+        "exploración multideportiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Manejo de discapacidades sensoriales y mentales y la importancia del feedback.",
+      "context_after": "Se abordan los factores logísticos del día a día y cómo impactan en la fatiga antes de entrenar."
+    },
+    {
+      "id": "V01-PT3-008",
+      "video_title": "Deporte Paralímpico y Adaptado - Tipos de Discapacidad y Fisiología",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:17:55",
+      "end_timestamp": "00:20:52",
+      "start_seconds": 1075,
+      "end_seconds": 1252,
+      "duration_seconds": 177,
+      "timestamp_url": "?t=1075",
+      "title": "Carga contextual y fatiga extradeportiva",
+      "summary": "El rendimiento no empieza en la sesión; los atletas suelen llegar con carga previa debido a barreras arquitectónicas, transferencias complejas (ej. silla de ruedas) y logística diaria. El profesional debe individualizar teniendo en cuenta este desgaste extradeportivo para evaluar el rendimiento con precisión.",
+      "literal_quote": "El deportista con discapacidad sale de casa, por ejemplo, con una silla de ruedas... El transporte muchas veces puede generar fatiga... Que dos deportistas pueden hacer la misma sesión, pero no llegar igual a la sesión.",
+      "full_transcript": "Y también el contexto, que es algo muy importante. El rendimiento no empieza en la sesión de entrenamiento. Tenemos que tener en cuenta que muchos deportistas con discapacidad llegan a la sesión de entrenamiento con una carga previa que muchas veces no la tenemos en cuenta dentro del plan. El deportista con discapacidad sale de casa, por ejemplo, con una silla de ruedas, las tareas le van a costar más. El transporte muchas veces puede generar fatiga. La transferencia desde su vivienda al lugar de entrenamiento muchas veces es compleja y necesitan un montaje del material. ¿Esto qué quiere decir? Que dos deportistas pueden hacer la misma sesión, pero no llegar igual a la sesión. Tenemos que tener en cuenta las barreras arquitectónicas, las necesidades de asistencia, el dolor, la logística diaria... El deportista tiene que ser el centro. Comprender el tipo de deficiencia no sirve para etiquetar, pero sí nos sirve para saber qué medir, cómo interpretarlo, qué riesgos anticipar y qué decisiones tomar para individualizar el trabajo. La pregunta ya no es saber qué discapacidad tiene, sino cómo evaluamos su rendimiento de forma válida y útil.",
+      "keywords": [
+        "carga-contextual",
+        "logística-diaria",
+        "barreras-arquitectónicas",
+        "fatiga-extradeportiva",
+        "individualización"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo impacta la logística del día a día en el entrenamiento del deportista adaptado?",
+        "¿Por qué dos deportistas pueden realizar la misma sesión pero no asimilarla de la misma forma?"
+      ],
+      "related_terms": [
+        "transferencia en silla de ruedas",
+        "evaluación válida",
+        "desgaste previo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la influencia del momento de adquisición de la lesión.",
+      "context_after": "Finalización de la exposición sobre cómo abordar e interpretar los distintos perfiles de discapacidad en base al rendimiento y carga real."
+    }
+  ]
+}

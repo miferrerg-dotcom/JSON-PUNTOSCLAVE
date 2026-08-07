@@ -1,0 +1,367 @@
+{
+  "video": {
+    "video_id": "V01-PT1",
+    "video_title": "Deporte Paralímpico y Adaptado",
+    "speaker": "Ander Romarate",
+    "total_duration": "00:17:59",
+    "total_duration_seconds": 1079,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-PT1-001",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:00:26",
+      "end_timestamp": "00:01:58",
+      "start_seconds": 26,
+      "end_seconds": 118,
+      "duration_seconds": 92,
+      "timestamp_url": "?t=26",
+      "title": "Presentación y experiencia profesional",
+      "summary": "Ander Romarate, ex nadador paralímpico y doctor en Ciencias del Deporte, presenta su trayectoria profesional en el alto rendimiento, destacando su trabajo a través de MN4Sport con el Comité Paralímpico Español y otras entidades deportivas.",
+      "literal_quote": "Soy Ander Romarate, fui deportista paralímpico, en concreto fui nadador... me doctoré en Ciencias del Deporte y desde entonces he estado vinculado a través de mi proyecto profesional, que es MN4Sport.",
+      "full_transcript": "Soy Ander Romarate, fui deportista paralímpico, en concreto fui nadador. Participé en Juegos Paralímpicos y en distintos campeonatos internacionales. Cuando dejé la natación profesional, seguí en el mundo del alto rendimiento. Realicé mi doctorado en la Universidad del País Vasco, me doctoré en Ciencias del Deporte y desde entonces he estado vinculado a través de mi proyecto profesional, que es MN4Sport, que es una entidad, un proyecto en el que colaboramos y trabajamos con otras entidades, clubes, federaciones de primer nivel. La verdad es que desde entonces tengo la oportunidad de poder trabajar con entidades referencia como es el Comité Paralímpico Español, distintas federaciones de deporte adaptado... También el Bilbao Basket, el Polti Visit Malta, la Sociedad Deportiva Íbar.",
+      "keywords": [
+        "ander-romarate",
+        "mn4sport",
+        "experiencia-profesional",
+        "ciencias-del-deporte",
+        "comité-paralímpico-español"
+      ],
+      "entities": [
+        "Ander Romarate",
+        "MN4Sport",
+        "Universidad del País Vasco",
+        "Comité Paralímpico Español",
+        "Bilbao Basket"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Quién es Ander Romarate y cuál es su formación?",
+        "¿Con qué organizaciones ha colaborado Ander Romarate en alto rendimiento?"
+      ],
+      "related_terms": [
+        "alto rendimiento",
+        "deportista paralímpico",
+        "ciencias del deporte"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la sesión formativa sobre el bloque de deporte paralímpico.",
+      "context_after": "Se repasa el índice de los temas que conformarán el webinar (historia, clasificación, fisiología)."
+    },
+    {
+      "id": "V01-PT1-002",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:03:34",
+      "end_timestamp": "00:06:04",
+      "start_seconds": 214,
+      "end_seconds": 364,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=214",
+      "title": "Diferencia entre deporte adaptado y paralímpico: la equidad",
+      "summary": "Se clarifica que deporte adaptado y paralímpico no son sinónimos (paralímpico es el que está en el calendario de los Juegos). Mientras el deporte convencional busca la igualdad de condiciones, el deporte adaptado busca la equidad ajustando reglamento y entorno para que solo decida el talento y el esfuerzo.",
+      "literal_quote": "En el deporte convencional lo que buscamos es que los deportistas que compiten, compitan en las mismas condiciones. Buscamos la igualdad. Sin embargo, en el deporte adaptado lo que se busca es la equidad.",
+      "full_transcript": "A modo de introducción, un aspecto que tenemos que tener en cuenta antes de comenzar es que el deporte adaptado, a fin de cuentas, es una modalidad deportiva que se ajusta a las necesidades de las personas con discapacidad. ¿Cómo se ajusta? Realizando determinadas adaptaciones en la reglamentación, en el material y en el entorno del propio deporte. Algo que tenemos que tener en cuenta también, y que muchas veces cometemos el error, es que utilizamos el deporte paralímpico y el deporte adaptado como si fueran sinónimos, y no es así. Deporte paralímpico será aquel deporte que esté en el calendario paralímpico... Por otro lado, en el deporte convencional lo que buscamos es que los deportistas que compiten, compitan en las mismas condiciones... Buscamos la igualdad. Sin embargo, en el deporte adaptado lo que se busca es la equidad. Se ajustan las condiciones del propio deporte para que el talento y el esfuerzo sean los únicos factores que determinan el rendimiento.",
+      "keywords": [
+        "deporte-adaptado",
+        "deporte-paralímpico",
+        "equidad",
+        "igualdad",
+        "reglamentación"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre deporte adaptado y deporte paralímpico?",
+        "¿Por qué el deporte adaptado busca la equidad en vez de la igualdad?"
+      ],
+      "related_terms": [
+        "equidad deportiva",
+        "adaptación de material",
+        "calendario paralímpico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación del índice y objetivos del webinar.",
+      "context_after": "Análisis sobre la importancia extrema de la individualización en el entrenamiento de estos atletas."
+    },
+    {
+      "id": "V01-PT1-003",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:06:04",
+      "end_timestamp": "00:06:42",
+      "start_seconds": 364,
+      "end_seconds": 402,
+      "duration_seconds": 38,
+      "timestamp_url": "?t=364",
+      "title": "La importancia de la individualización en deporte adaptado",
+      "summary": "En el deporte adaptado, la individualización tiene un peso incluso mayor que en el deporte convencional. Comprender cómo la discapacidad altera la forma en que los profesionales miden, interpretan datos y toman decisiones es fundamental.",
+      "literal_quote": "Tenemos que entender cómo la discapacidad de ese deportista modifica la forma de medir, interpretar y decidir que tenemos como profesionales.",
+      "full_transcript": "Por tanto, en el deporte, cuando trabajamos con un deportista con discapacidad, no basta con saber de fisiología, fuerza o biomecánica, por ejemplo. Tenemos que entender cómo la discapacidad de ese deportista modifica la forma de medir, interpretar y decidir que tenemos como profesionales. Si bien en el deporte convencional nos hartamos de decir que la individualización es uno de los aspectos clave para garantizar el máximo rendimiento y la salud de un deportista, probablemente en el deporte adaptado la individualización todavía tenga un mayor valor, un mayor peso.",
+      "keywords": [
+        "individualización",
+        "entrenamiento",
+        "interpretación-datos",
+        "toma-decisiones",
+        "discapacidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es vital la individualización en el deporte adaptado?",
+        "¿Cómo altera la discapacidad la forma de interpretar los datos deportivos?"
+      ],
+      "related_terms": [
+        "fisiología",
+        "biomecánica",
+        "medición de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Diferenciación conceptual entre equidad e igualdad en el deporte.",
+      "context_after": "Se transiciona hacia el origen histórico del movimiento paralímpico tras 1945."
+    },
+    {
+      "id": "V01-PT1-004",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:06:42",
+      "end_timestamp": "00:09:36",
+      "start_seconds": 402,
+      "end_seconds": 576,
+      "duration_seconds": 174,
+      "timestamp_url": "?t=402",
+      "title": "Origen histórico: Ludwig Guttmann y los heridos de guerra",
+      "summary": "El deporte paralímpico nace y se expande tras la Segunda Guerra Mundial. En 1944, el Dr. Ludwig Guttmann usó el deporte como herramienta lúdica y rehabilitadora para heridos con lesión medular en Stoke Mandeville, celebrando en 1948 la primera edición de los juegos precursores.",
+      "literal_quote": "El doctor Ludwig Guttmann... comienza a utilizar el deporte en estas personas con lesiones medulares como una herramienta lúdica y transformando la alta competición en una estrategia para considerar esta adherencia desde el punto de vista de mejora de la salud.",
+      "full_transcript": "Comenzando con la historia... hasta 1945 el deporte adaptado no estaba expandido... Es a partir de 1945 cuando sucede un crecimiento totalmente exponencial, tras la Segunda Guerra Mundial. Muchos países tenían un problema: había muchísimos heridos de guerra y había que hacer algo con ellos. En ese contexto, sobre 1944, el doctor Ludwig Guttmann, que es considerado como el padre del deporte paralímpico, abrió un hospital en concreto para lesionados medulares en Stoke Mandeville. Es uno de los pioneros de utilizar el deporte como herramienta rehabilitadora... Él comienza a utilizar el deporte en estas personas con lesiones medulares como una herramienta lúdica y transformando la alta competición en una estrategia para considerar esta adherencia desde el punto de vista de mejora de la salud. En 1948 organiza la primera edición de los Juegos de Stoke Mandeville, que son la base para la creación posterior de los Juegos Paralímpicos.",
+      "keywords": [
+        "historia",
+        "ludwig-guttmann",
+        "segunda-guerra-mundial",
+        "rehabilitación",
+        "stoke-mandeville"
+      ],
+      "entities": [
+        "Ludwig Guttmann",
+        "Stoke Mandeville"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Quién fue Ludwig Guttmann y cuál es su importancia en el deporte paralímpico?",
+        "¿Cómo surge el deporte paralímpico tras la Segunda Guerra Mundial?"
+      ],
+      "related_terms": [
+        "lesión medular",
+        "heridos de guerra",
+        "adherencia deportiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación teórica de la necesidad de individualizar el entrenamiento.",
+      "context_after": "Se detalla la evolución y crecimiento desde Roma 1960 hasta Seúl 1988."
+    },
+    {
+      "id": "V01-PT1-005",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:09:36",
+      "end_timestamp": "00:11:27",
+      "start_seconds": 576,
+      "end_seconds": 687,
+      "duration_seconds": 111,
+      "timestamp_url": "?t=576",
+      "title": "Acuerdo IPC-COI de 1988 y crecimiento del movimiento",
+      "summary": "Tras iniciar los Juegos en Roma 1960, el gran hito ocurrió en 1988 cuando el IPC y el COI acordaron que la ciudad sede de los Juegos Olímpicos organizaría también los Paralímpicos (iniciando en Seúl). Esto impulsó el crecimiento, pasando de 400 deportistas en Roma a más de 4.000 en París 2024.",
+      "literal_quote": "En 1988 sucede también un hito muy importante... el IPC y el Comité Olímpico Internacional llegaron a un acuerdo en el que acordaron que el país anfitrión o la ciudad anfitriona de los Juegos Olímpicos también debía organizar paralelamente los Juegos Paralímpicos en la misma sede.",
+      "full_transcript": "Ya en 1960 se organizan los primeros Juegos Paralímpicos de verano en Roma... Y en 1988 sucede también un hito muy importante dentro del movimiento paralímpico, y es que el IPC (International Paralympic Committee) y el Comité Olímpico Internacional llegaron a un acuerdo en el que acordaron que el país anfitrión o la ciudad anfitriona de los Juegos Olímpicos también debía organizar paralelamente los Juegos Paralímpicos en la misma sede y en la misma ciudad. Entonces, desde 1988, desde los Juegos Olímpicos de Seúl... Todas las citas posteriores, los Juegos Olímpicos y Juegos Paralímpicos han tenido lugar en la misma sede... En la primera edición en Roma participaron 400 deportistas y 23 países... pero tenemos que tener en cuenta que, por ejemplo, en los últimos Juegos Paralímpicos de París, en el 2024, participaron más de 4.000 atletas.",
+      "keywords": [
+        "acuerdo-histórico",
+        "ipc",
+        "coi",
+        "seúl-1988",
+        "crecimiento"
+      ],
+      "entities": [
+        "Comité Olímpico Internacional (COI)",
+        "International Paralympic Committee (IPC)",
+        "Seúl 1988",
+        "París 2024"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuándo comenzaron a celebrarse los Juegos Olímpicos y Paralímpicos en la misma sede?",
+        "¿Qué impacto tuvo el acuerdo entre el IPC y el COI en 1988?"
+      ],
+      "related_terms": [
+        "movimiento paralímpico",
+        "sede compartida",
+        "crecimiento de atletas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Repaso al nacimiento del deporte adaptado en Stoke Mandeville.",
+      "context_after": "Se aclara el impacto mundial del evento y el origen real de la palabra 'paralímpico'."
+    },
+    {
+      "id": "V01-PT1-006",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:12:19",
+      "end_timestamp": "00:13:17",
+      "start_seconds": 739,
+      "end_seconds": 797,
+      "duration_seconds": 58,
+      "timestamp_url": "?t=739",
+      "title": "Etimología del término 'Paralímpico' y su impacto mundial",
+      "summary": "Los Juegos Paralímpicos son el tercer evento deportivo de mayor impacto mundial (tras Juegos Olímpicos y Mundial de Fútbol). Etimológicamente, 'paralímpico' no proviene de 'paralítico', sino del prefijo griego 'para' (al lado de) y 'olímpico'.",
+      "literal_quote": "El término 'paralímpico' viene de 'para', al lado, y 'Olympic', de olímpico, es decir, al lado de los olímpicos.",
+      "full_transcript": "Tras los Juegos Olímpicos y el Mundial de Fútbol, los Juegos Paralímpicos son el evento deportivo que mayor impacto tiene en el mundo. Es el tercer evento deportivo que mayor impacto tiene en el mundo... A modo de anécdota, seguro que muchos de vosotros desconocíais de dónde viene el término 'paralímpico', porque muchas veces creemos que viene de 'paralítico', y esto no es así. El término 'paralímpico' viene de 'para', al lado, y 'Olympic', de olímpico, es decir, al lado de los olímpicos. Es algo que tendríamos que tener en cuenta y siempre me gusta comentar a modo de anécdota, ya que mucha gente lo desconoce.",
+      "keywords": [
+        "etimología",
+        "paralímpico",
+        "impacto-mundial",
+        "evento-deportivo"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿De dónde viene la palabra paralímpico?",
+        "¿Cuál es el impacto de los Juegos Paralímpicos a nivel mundial?"
+      ],
+      "related_terms": [
+        "prefijo griego",
+        "Mundial de Fútbol",
+        "Juegos Olímpicos"
+      ],
+      "relevance_score": 3,
+      "context_before": "Análisis del uso del deporte como prescripción de salud y derecho humano.",
+      "context_after": "Se explica la jerarquía institucional y federativa que rige estos deportes."
+    },
+    {
+      "id": "V01-PT1-007",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:13:21",
+      "end_timestamp": "00:14:31",
+      "start_seconds": 801,
+      "end_seconds": 871,
+      "duration_seconds": 70,
+      "timestamp_url": "?t=801",
+      "title": "El IPC y las Federaciones Internacionales",
+      "summary": "A nivel organizativo internacional, el IPC (Comité Paralímpico Internacional) es el máximo órgano. Aunque en sus inicios gestionaba directamente los deportes adaptados, hoy en día la gobernanza de la mayoría ha sido absorbida por sus respectivas federaciones internacionales convencionales (ej. la UCI con el ciclismo).",
+      "literal_quote": "Hoy prácticamente la mayoría de los deportes son gobernados por la federación internacional correspondiente. Por ejemplo, en el caso del ciclismo, el ciclismo está dentro de la UCI.",
+      "full_transcript": "A nivel internacional, el máximo órgano que tenemos es el Comité Paralímpico Internacional o el IPC. Sería la contraparte de lo que es el Comité Olímpico Internacional y su sede está en Alemania, en Bonn. El Comité Paralímpico Internacional se encarga de organizar los Juegos Paralímpicos que se disputan cada cuatro años y establece políticas generales de inclusión y juego limpio. Antes, el IPC se encargaba de gestionar muchos deportes directamente, porque muchos deportes no tenían dentro de la federación internacional una sección de deporte adaptado... Sin embargo, hoy prácticamente la mayoría de los deportes son gobernados por la federación internacional correspondiente. Por ejemplo, en el caso del ciclismo, el ciclismo está dentro de la UCI, dentro de la Unión Ciclista Internacional.",
+      "keywords": [
+        "ipc",
+        "federaciones-internacionales",
+        "gobernanza",
+        "comité-paralímpico",
+        "uci"
+      ],
+      "entities": [
+        "Comité Paralímpico Internacional (IPC)",
+        "Unión Ciclista Internacional (UCI)",
+        "Bonn"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Quién rige a nivel organizativo el deporte paralímpico internacional?",
+        "¿Qué rol juegan las federaciones internacionales como la UCI en el deporte adaptado actual?"
+      ],
+      "related_terms": [
+        "políticas de inclusión",
+        "juego limpio",
+        "gobernanza deportiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Aclaración sobre la etimología de la palabra paralímpico.",
+      "context_after": "Se baja el análisis a nivel estatal, explicando las funciones del CSD y el CPE en España."
+    },
+    {
+      "id": "V01-PT1-008",
+      "video_title": "Deporte Paralímpico y Adaptado",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:14:32",
+      "end_timestamp": "00:17:59",
+      "start_seconds": 872,
+      "end_seconds": 1079,
+      "duration_seconds": 207,
+      "timestamp_url": "?t=872",
+      "title": "Gestión estatal: CPE, Plan ADOP y federaciones polideportivas",
+      "summary": "En España, el CSD rige el deporte de forma general, mientras que el Comité Paralímpico Español (CPE) gestiona la participación en los Juegos y el Plan ADOP. Las federaciones estatales polideportivas por discapacidad siguen siendo cruciales para el deporte base y la detección de talento.",
+      "literal_quote": "Hay ciertas federaciones que son denominadas federaciones polideportivas por discapacidad. Siguen siendo muy importantes para el deporte base y para la detección de talentos.",
+      "full_transcript": "A nivel estatal, tenemos el Consejo Superior de Deportes, que es el organismo público que rige el deporte en España. Tenemos también el Comité Paralímpico Español. Al igual que el IPC gestiona a nivel internacional... el Comité Paralímpico Español gestiona todo lo relacionado con las modalidades que participan en los Juegos Paralímpicos... y la entrada o salida de los deportistas que forman parte del Plan ADOP. Y después están las federaciones estatales... no todos los deportes están incluidos dentro de la federación convencional. Por eso hay ciertas federaciones que son denominadas federaciones polideportivas por discapacidad. Siguen siendo muy importantes para el deporte base y para la detección de talentos. Tenemos la Federación Española de Deportes para Discapacidades Físicas, la de Ciegos, Parálisis Cerebral y Daño Cerebral Adquirido y Discapacidad Intelectual. Estos cuatro grupos son los que están incluidos dentro del calendario paralímpico.",
+      "keywords": [
+        "cpe",
+        "csd",
+        "plan-adop",
+        "federaciones-estatales",
+        "detección-talentos"
+      ],
+      "entities": [
+        "Consejo Superior de Deportes (CSD)",
+        "Comité Paralímpico Español",
+        "Plan ADOP"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿De qué se encarga el Comité Paralímpico Español?",
+        "¿Cuál es el rol de las federaciones polideportivas por discapacidad en España?"
+      ],
+      "related_terms": [
+        "deporte base",
+        "discapacidad física",
+        "parálisis cerebral"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del rol del IPC y la gestión federativa a escala global.",
+      "context_after": "El vídeo termina enumerando los bloques que asumen la estructura estatal, y se da paso a la siguiente sección del webinar."
+    }
+  ]
+}

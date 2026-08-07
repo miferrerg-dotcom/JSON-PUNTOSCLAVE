@@ -1,0 +1,407 @@
+{
+  "video": {
+    "video_id": "V01-PT4",
+    "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+    "speaker": "Ander Romarate",
+    "total_duration": "00:28:34",
+    "total_duration_seconds": 1714,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-PT4-001",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:00:18",
+      "end_timestamp": "00:03:16",
+      "start_seconds": 18,
+      "end_seconds": 196,
+      "duration_seconds": 178,
+      "timestamp_url": "?t=18",
+      "title": "Limitaciones de las métricas fisiológicas clásicas",
+      "summary": "Las métricas convencionales (FC, lactato, VO2, potencia) no bastan por sí solas en deporte adaptado. Su interpretación depende de la masa activa y función autonómica. La FC puede infraestimar la intensidad y la potencia no siempre refleja la verdadera carga interna, exigiendo contextualización en el perfil funcional.",
+      "literal_quote": "Podemos medir, podemos registrar el dato, pero este dato por sí solo no va a valer. Va a valer si lo entendemos dentro del perfil funcional del propio deportista.",
+      "full_transcript": "Medir no es suficiente. Cuando trabajamos con deportistas con discapacidad, podemos utilizar las mismas variables desde el punto de vista de rendimiento que se utilizan en el deporte convencional, como la frecuencia cardíaca, el consumo de oxígeno, lactato, potencia, velocidad, la RP. Pero su interpretación va a depender de la masa muscular que el deportista tendrá activa, la función autonómica, el tipo de discapacidad, clase deportiva... Es decir, podemos medir, podemos registrar el dato, pero este dato por sí solo no va a valer. Va a valer si lo entendemos dentro del perfil funcional del propio deportista. En el caso de la frecuencia cardíaca, tenemos que tener cuidado porque puede infraestimar la intensidad. El lactato va a variar muchísimo entre distintos perfiles... La potencia, al igual que sucede en el deporte convencional, no siempre refleja la carga interna y dependiendo del tipo de discapacidad, puede haber muchísima mayor diferencia.",
+      "keywords": [
+        "métricas-fisiológicas",
+        "perfil-funcional",
+        "frecuencia-cardíaca",
+        "lactato",
+        "carga-interna"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué fallan las métricas clásicas en el deporte paralímpico?",
+        "¿Cómo afecta la masa muscular activa a la interpretación del lactato o consumo de oxígeno?"
+      ],
+      "related_terms": [
+        "función autonómica",
+        "consumo de oxígeno",
+        "carga externa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la clase sobre fisiología aplicada y entrenamiento en deporte adaptado.",
+      "context_after": "Análisis específico de cómo estas limitaciones afectan de forma concreta en perfiles con lesión medular."
+    },
+    {
+      "id": "V01-PT4-002",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:03:22",
+      "end_timestamp": "00:06:14",
+      "start_seconds": 202,
+      "end_seconds": 374,
+      "duration_seconds": 172,
+      "timestamp_url": "?t=202",
+      "title": "Implicaciones fisiológicas y monitorización en lesión medular",
+      "summary": "Las lesiones medulares (especialmente altas) limitan la respuesta cardiovascular y simpática. Usar únicamente la FC como medidor de carga interna es un error crítico. Es vital observar síntomas de fatiga, controlar la presión arterial, temperatura de la piel, y usar fajas abdominales si precisan control motor.",
+      "literal_quote": "Si solamente nos centramos en la frecuencia cardíaca, por ejemplo, para medir la carga interna del deportista, estaremos cometiendo errores.",
+      "full_transcript": "Por ejemplo, en el contexto de las lesiones medulares, puede haber distintas alteraciones fisiológicas... una menor masa muscular activa y un peor control del tronco, una respuesta cardiovascular y de frecuencia cardíaca máxima limitada, principalmente en lesiones medulares altas... Presión arterial, capacidad de termorregular también limitada, fatiga de miembros superiores. Y por tanto, a nivel fisiológico, podremos tomar ciertas decisiones prácticas, como tener muchísimo cuidado a la hora de utilizar la frecuencia cardíaca como una variable de carga interna y como única referencia. Si solamente nos centramos en la frecuencia cardíaca, por ejemplo, para medir la carga interna del deportista, estaremos cometiendo errores. También deberíamos de combinar variables como la potencia, la RP con síntomas y la observación del propio técnico... observar mareos, fatiga anómala o hipotensión para modificar el entrenamiento. En el caso de las lesiones medulares altas, las afectaciones serán mayores. Existirá una afectación en el sistema simpático, con una peor respuesta cardiovascular.",
+      "keywords": [
+        "lesión-medular",
+        "respuesta-cardiovascular",
+        "frecuencia-cardíaca",
+        "hipotensión",
+        "carga-interna"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las lesiones medulares altas a la frecuencia cardíaca máxima?",
+        "¿Qué precauciones clínicas hay que tener al entrenar con lesionados medulares?"
+      ],
+      "related_terms": [
+        "sistema simpático",
+        "fajas abdominales",
+        "fatiga anómala"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación general de las limitaciones de las métricas clásicas en diferentes perfiles funcionales.",
+      "context_after": "Profundización en un aspecto clave de la lesión medular: la termorregulación y estrategias de mitigación."
+    },
+    {
+      "id": "V01-PT4-003",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:06:16",
+      "end_timestamp": "00:07:33",
+      "start_seconds": 376,
+      "end_seconds": 453,
+      "duration_seconds": 77,
+      "timestamp_url": "?t=376",
+      "title": "Termorregulación y estrategias de cooling",
+      "summary": "La capacidad termorreguladora en lesiones medulares está muy mermada (menor sudoración, riesgo de hipertermia), agravada por la interferencia de materiales (sillas, prótesis). En deportes outdoor, se exige aclimatación y uso de estrategias per/pre-cooling (chalecos, sprays, ajustar descansos).",
+      "literal_quote": "Los deportistas con lesiones medulares tienen una menor capacidad de sudación, peor disipación de calor... y una interferencia con el material, sillas y las prótesis.",
+      "full_transcript": "Por ejemplo, en las lesiones medulares suele haber una afectación en la capacidad termorregular que tiene el deportista. Por tanto, en todos aquellos deportes que se realizan en outdoor, este aspecto será muy importante. Los deportistas con lesiones medulares tienen una menor capacidad de sudación, peor disipación de calor, como es lógico, mayor riesgo de hipertermia, menor percepción de estrés térmico, no se dan cuenta. Y también hay una interferencia con el material, sillas y las prótesis, si las usan, en esa disipación del calor. Entonces, debemos incluir estrategias prácticas... en el control de la temperatura y aclimatación progresiva. Podemos utilizar estrategias también de pre-cooling o per cooling, uso de chalecos, cinturones fríos, sprays granizados también, y lógicamente ajustar la duración, los intervalos, ajustar las variables de los entrenamientos.",
+      "keywords": [
+        "termorregulación",
+        "hipertermia",
+        "pre-cooling",
+        "aclimatación",
+        "lesión-medular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué los lesionados medulares tienen mayor riesgo de hipertermia?",
+        "¿Qué estrategias de cooling se usan en el deporte adaptado outdoor?"
+      ],
+      "related_terms": [
+        "estrés térmico",
+        "per-cooling",
+        "disipación de calor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las alteraciones cardiovasculares y simpáticas derivadas de la lesión medular.",
+      "context_after": "Se transiciona hacia cómo se comportan los umbrales de lactato y la percepción del esfuerzo."
+    },
+    {
+      "id": "V01-PT4-004",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:07:33",
+      "end_timestamp": "00:10:04",
+      "start_seconds": 453,
+      "end_seconds": 604,
+      "duration_seconds": 151,
+      "timestamp_url": "?t=453",
+      "title": "Interpretación del lactato y necesidad de RPE diferenciada",
+      "summary": "El lactato no sigue la linealidad convencional, ya que la masa muscular activa altera la curva y desconecta los umbrales ventilatorios y lácticos. Para obtener datos fiables sin coste económico, se recomienda usar siempre la RPE Global junto con RPE Muscular (fatiga periférica) y Respiratoria.",
+      "literal_quote": "Debido a esto, la curva del lactato puede no seguir la misma linealidad... El umbral de lactato y el umbral ventilatorio puede que no coincidan.",
+      "full_transcript": "El lactato... en el caso del deportista con discapacidad, debemos tener en cuenta que no siempre cuenta la misma historia. ¿Por qué? Porque va a estar afectado por la cantidad de masa muscular activa. Debido a esto, la curva del lactato puede no seguir la misma linealidad que sigue en un deportista sin discapacidad. El umbral de lactato y el umbral ventilatorio puede que no coincidan. Las discrepancias en deporte para personas con discapacidades son mayores. Comparar lactato entre distintas clases puede engañar... el lactato no es el puzle completo, es una pieza del puzle. La percepción subjetiva del esfuerzo también tiene muchísima importancia a nivel fisiológico... En el contexto del deportista con discapacidad, siempre recomiendo utilizar la RPE global, pero también utilizar la RPE diferenciada. Es decir, por un lado, registrar la RPE muscular para poder evaluar mejor la carga subjetiva y fatiga periférica a nivel muscular. Y también la RPE respiratoria. Esto es muy interesante sobre todo en deportistas con lesiones medulares, donde la masa muscular activa se ve afectada. Además se dan diferencias significativas entre la RPE muscular y la RPE respiratoria.",
+      "keywords": [
+        "lactato",
+        "masa-muscular-activa",
+        "rpe-diferenciada",
+        "umbral-ventilatorio",
+        "fatiga-periférica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué los umbrales de lactato y ventilatorios pueden no coincidir en deporte paralímpico?",
+        "¿Qué es la RPE diferenciada y por qué es importante?"
+      ],
+      "related_terms": [
+        "curva de lactato",
+        "RPE muscular",
+        "RPE respiratoria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Manejo del calor y estrés térmico en deportistas outdoor.",
+      "context_after": "Se cambia el foco de discapacidades estructurales/medulares hacia afectaciones puramente neurológicas y motoras."
+    },
+    {
+      "id": "V01-PT4-005",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:10:04",
+      "end_timestamp": "00:12:35",
+      "start_seconds": 604,
+      "end_seconds": 755,
+      "duration_seconds": 151,
+      "timestamp_url": "?t=604",
+      "title": "Afectaciones neurológicas, fuerza y entrenamiento inspiratorio",
+      "summary": "En alteraciones neuromusculares (parálisis cerebral), la fatiga eleva la espasticidad, haciendo que la técnica se deteriore antes que la capacidad sistémica. Se desmiente que la fuerza sea perjudicial (mejora la espasticidad). Las severas limitaciones motoras y posturales exigen incorporar entrenamiento inspiratorio sistemático.",
+      "literal_quote": "No descartar el entrenamiento de fuerza por miedo a aumentar la espasticidad, porque esto no es así... el trabajo de fuerza mejora y reduce la espasticidad.",
+      "full_transcript": "En cuanto a las afectaciones neurológicas, la espasticidad, eficiencia y la fatiga precoz tendrán muchas implicaciones... puede existir una hipertonía, contracciones, una menor eficiencia mecánica. Va a tener implicaciones prácticas, como que la técnica se deteriora antes de que la potencia se vea deteriorada. La fatiga puede aumentar también la espasticidad. Algo que tenemos que tener en cuenta, a pesar de que la fatiga aumente la espasticidad, no descartar el entrenamiento de fuerza por miedo a aumentar la espasticidad, porque esto no es así, sino que se ha observado que hay una relación contraria, es decir, el trabajo de fuerza mejora y reduce la espasticidad... es muy recomendable combinar trabajo de resistencia, fuerza y control motor. Por ejemplo, en el contexto de lesiones medulares y también ciertas parálisis cerebrales donde hay una gran afectación a nivel motor, el trabajo de la musculatura inspiratoria resulta clave... Esto lo que genera es un uso excesivo de la musculatura accesoria. Muchas veces... la propia postura del deportista limita la funcionalidad de esta musculatura respiratoria. Y, por tanto, incluir trabajo de musculatura inspiratoria con sistemas como el Powerbreath puede ser muy recomendable.",
+      "keywords": [
+        "espasticidad",
+        "entrenamiento-fuerza",
+        "entrenamiento-inspiratorio",
+        "parálisis-cerebral",
+        "hipertonía"
+      ],
+      "entities": [
+        "Powerbreath"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿El entrenamiento de fuerza es malo para la espasticidad muscular?",
+        "¿Por qué es importante entrenar la musculatura inspiratoria en atletas con parálisis cerebral?"
+      ],
+      "related_terms": [
+        "fatiga neuromuscular",
+        "musculatura accesoria",
+        "control motor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de RPE diferenciado para captar señales complejas en el atleta.",
+      "context_after": "Bloque dedicado a las mermas en la recuperación, variables de sueño y fatiga sistémica."
+    },
+    {
+      "id": "V01-PT4-006",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:12:37",
+      "end_timestamp": "00:14:16",
+      "start_seconds": 757,
+      "end_seconds": 856,
+      "duration_seconds": 99,
+      "timestamp_url": "?t=757",
+      "title": "Limitantes de recuperación y carga extradeportiva",
+      "summary": "En el deporte adaptado, la recuperación es inherentemente más limitada por factores fisiológicos (mala recuperación térmica) y extradeportivos (estrés logístico, sobrecarga periférica por uso de silla de ruedas, dolor neuropático). Se debe ampliar la monitorización cruzando HRVs, calidad de sueño y piel.",
+      "literal_quote": "En el contexto de ciertas discapacidades, la recuperación va a estar más limitada de lo normal. Por tanto, vamos a tener que prestarle más atención.",
+      "full_transcript": "También la recuperación va a ser un aspecto muy importante. En el contexto de ciertas discapacidades, la recuperación va a estar más limitada de lo normal. Por tanto, vamos a tener que prestarle más atención. Para ello, utilizar variables como son la RP, sesión y fatiga percibida, variables como el HRV y registro de sueños, registrar también el dolor del deportista, la temperatura y la presión arterial, el estado de la piel y la calidad técnica. Y debemos tener cuidado también con la nocturia y la espasticidad nocturna del deportista, que se puede dar. Las infecciones que el deportista puede ir acumulando, el dolor neuropático, el estrés logístico que vimos la clase anterior, la sobrecarga periférica que se puede dar, por ejemplo, en el caso de los hombros en usuarios de silla de ruedas. Y luego también la mala recuperación térmica... Es decir, hay que analizar también el contexto fuera del entrenamiento y cómo todo esto puede implicar o puede afectar a la recuperación del deportista.",
+      "keywords": [
+        "recuperación",
+        "dolor-neuropático",
+        "sobrecarga-periférica",
+        "estrés-logístico",
+        "hrv"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores extradeportivos que limitan la recuperación en deporte paralímpico?",
+        "¿Qué variables se deben medir para controlar la fatiga y recuperación adecuadamente?"
+      ],
+      "related_terms": [
+        "espasticidad nocturna",
+        "uso de silla de ruedas",
+        "estado de la piel"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de pautas de entrenamiento neuromuscular y respiratorio.",
+      "context_after": "Se transiciona a la manera correcta de diseñar y aplicar protocolos de testaje físico."
+    },
+    {
+      "id": "V01-PT4-007",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:14:18",
+      "end_timestamp": "00:17:02",
+      "start_seconds": 858,
+      "end_seconds": 1022,
+      "duration_seconds": 164,
+      "timestamp_url": "?t=858",
+      "title": "Adaptación y validación de protocolos de Test",
+      "summary": "Los tests convencionales fallan frecuentemente debido a ergómetros inespecíficos, asunciones erróneas de cadencia o termorregulación alterada. Se deben diseñar evaluaciones usando siempre el material real de competición, adaptando y personalizando los incrementos de carga y correlacionando el laboratorio con mediciones de campo.",
+      "literal_quote": "Pueden fallar los test por distintos aspectos, como el uso de ergómetros poco específicos... protocolos poco adaptados a la clase funcional del deportista.",
+      "full_transcript": "A la hora de realizar test, también tenemos que tener varios aspectos en cuenta. Los test hay que utilizarlos... pero en el contexto del deporte paralímpico todavía va a tener muchísimo más importancia. Pueden fallar los test por distintos aspectos, como el uso de ergómetros poco específicos. En muchas ocasiones, ergómetros típicos que nos podemos encontrar en un laboratorio de fisiología no nos van a servir. Cadencia no individualizada, la fatiga periférica precoz que se da o un control de tronco limitado pueden distorsionar las variables. Una termorregulación alterada también puede distorsionar las variables... El uso de material distinto al competitivo... protocolos poco adaptados a la clase funcional del deportista. ¿Qué decisiones prácticas podemos tomar? Adaptar el protocolo a la discapacidad y a la clase funcional del deportista, intentar utilizar el material lo más real posible. Combinar laboratorio con campo. Observar la técnica durante el test. Y luego, individualizar los incrementos y duración del propio protocolo... El contexto de este deportista es muy importante desde el punto de vista fisiológico, porque va a tener una implicación significativa y un peso importante en la toma de decisiones que nosotros hagamos.",
+      "keywords": [
+        "protocolos-test",
+        "ergómetros",
+        "individualización",
+        "laboratorio-campo",
+        "validación-fisiológica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué los test de laboratorio tradicionales pueden fallar en deportistas con discapacidad?",
+        "¿Cómo se deben adaptar los protocolos de evaluación en el deporte paralímpico?"
+      ],
+      "related_terms": [
+        "material competitivo",
+        "cadencia individualizada",
+        "control del tronco"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones críticas sobre la recuperación del atleta adaptado.",
+      "context_after": "Inicio del bloque final sobre cómo adaptar y periodizar el entrenamiento, basándose en la información extraída."
+    },
+    {
+      "id": "V01-PT4-008",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:17:04",
+      "end_timestamp": "00:24:00",
+      "start_seconds": 1024,
+      "end_seconds": 1440,
+      "duration_seconds": 416,
+      "timestamp_url": "?t=1024",
+      "title": "Principios de adaptación del entrenamiento y fuerza útil",
+      "summary": "La periodización obedece a los mismos principios universales (sobrecarga, variabilidad), pero requiere una individualización absoluta alejándose de zonas convencionales. Las modificaciones habituales implican ajustar la densidad, integrar medios de descarga (handbike) y centrarse en la fuerza útil y segura adaptada a asimetrías y rangos articulares funcionales.",
+      "literal_quote": "El entrenamiento de un deportista con discapacidad no es una versión suavizada del entrenamiento convencional, sino que es una versión, si cabe, más individualizada.",
+      "full_transcript": "Las adaptaciones del entrenamiento... La adaptación no se da únicamente cambiando ejercicios, esa es una reflexión muy simplista, sino entendiendo qué respuesta queremos provocar. Desde el punto de vista del entrenamiento, los principios generales que se aplican en el deporte convencional son iguales. Lo que va a cambiar es cómo estos se aplican dependiendo del perfil funcional. ¿Principios que se mantienen? Sobrecarga progresiva, especificidad, individualización, variabilidad. El entrenamiento de un deportista con discapacidad no es una versión suavizada del entrenamiento convencional, sino que es una versión, si cabe, más individualizada... La carga no debe interpretarse solo desde la carga externa y la carga interna, debemos ver variables locales, cómo afecta ese entrenamiento a cada estructura. Por tanto, deberíamos diseñar a partir de la respuesta individual del deportista y no de las zonas estándar copiadas del deporte convencional. Decisiones más habituales que vamos a tomar: modificación de la duración de intervalos, ajustar densidad, utilizar medios alternativos para acumular volumen (ej. nadador de lesión medular usando la Handbike en zonas de baja intensidad)... En cuanto al entrenamiento de fuerza, el objetivo no va a ser solo obtener una mejora en fuerza máxima, sino mejorar la capacidad de aplicar la fuerza útil... adaptarla según el rango articular disponible, la estabilidad de tronco, las asimetrías, la prótesis, y el riesgo de sobreuso... priorizar trabajo unilateral si hay asimetrías y elegir por transferencia y no por tradición.",
+      "keywords": [
+        "individualización",
+        "fuerza-útil",
+        "zonas-estándar",
+        "sobrecarga-progresiva",
+        "medios-alternativos"
+      ],
+      "entities": [
+        "Handbike"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se adaptan los principios del entrenamiento convencional al deporte paralímpico?",
+        "¿Qué variables se modifican habitualmente para controlar la carga en entrenamiento adaptado?",
+        "¿Por qué no se deben usar las zonas de entrenamiento estándar del deporte convencional?"
+      ],
+      "related_terms": [
+        "densidad de entrenamiento",
+        "trabajo unilateral",
+        "rango articular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones esenciales sobre el uso de ergómetros y validación de protocolos de evaluación.",
+      "context_after": "Se presentan ejemplos sobre las señales de alarma durante la sesión y cómo progresar las cargas con seguridad."
+    },
+    {
+      "id": "V01-PT4-009",
+      "video_title": "Deporte Paralímpico y Adaptado - Fisiología y Entrenamiento",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:25:34",
+      "end_timestamp": "00:28:34",
+      "start_seconds": 1534,
+      "end_seconds": 1714,
+      "duration_seconds": 180,
+      "timestamp_url": "?t=1534",
+      "title": "Señales de alarma y reglas de progresión segura",
+      "summary": "El entrenador debe vigilar señales claras (pérdida de técnica, dolor, espasticidad, mareos) para abortar o ajustar la sesión, asumiendo que 'completarla no es tolerarla'. La progresión exige mover una variable a la vez, con reevaluación a las 24-48 horas, considerando que la progresión se mide por la capacidad de repetición al día siguiente.",
+      "literal_quote": "La progresión no se mide por lo que el deportista puede hacer hoy, sino por lo que puede repetir mañana.",
+      "full_transcript": "El deportista nos va a trasladar una serie de señales... que nos van a encender una alarma para modificar la sesión. Estas señales pueden ser una pérdida clara de calidad técnica, dolor persistente, aumento de espasticidad, fatiga local desproporcionada, problemas de piel o presión, mareos, signos de estrés térmico, molestias por prótesis, mala recuperación. Y con todo esto debemos tomar decisiones... Es decir, completar la sesión no siempre significa haberla tolerado bien. Para terminar, la progresión dentro de la carga del entrenamiento es un aspecto de vital importancia. Antes de progresar... debemos de comprobar si mantiene la calidad técnica, si el dolor o espasticidad aumenta, si aparecen problemas de piel, si duerme correctamente, si mantiene autonomía... Podremos aplicar criterios de progresión: realizar en un inicio incrementos muy pequeños, modificar una variable cada vez, revisar las respuestas a las 24, 48 horas, y tener una coordinación muy estrecha con el equipo interdisciplinar, principalmente con el médico. La progresión no se mide por lo que el deportista puede hacer hoy, sino por lo que puede repetir mañana.",
+      "keywords": [
+        "señales-alarma",
+        "progresión-carga",
+        "toma-decisiones",
+        "calidad-técnica",
+        "fatiga-local"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Decisión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué señales de alarma obligan a modificar o finalizar una sesión de entrenamiento adaptado?",
+        "¿Cuáles son las reglas básicas para realizar una progresión de carga segura?"
+      ],
+      "related_terms": [
+        "incrementos pequeños",
+        "equipo interdisciplinar",
+        "tolerancia al entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose pormenorizado de cómo programar rutinas de fuerza y resistencia según cada perfil funcional.",
+      "context_after": "Agradecimientos y despedida final del bloque."
+    }
+  ]
+}
