@@ -20,9 +20,9 @@
       "duration_seconds": 203,
       "timestamp_url": "?t=1",
       "title": "Concepto y objetivo de la clasificación funcional",
-      "summary": "La clasificación funcional asigna una clase deportiva para medir cómo la discapacidad afecta a nivel funcional en una modalidad específica, no desde una perspectiva clínica [1-3]. Su objetivo es minimizar el impacto de la discapacidad para que el rendimiento dependa únicamente de la excelencia deportiva [4, 5].",
-      "literal_quote": "no compite el diagnóstico, sino que compite el deportista con una determinada capacidad funcional dentro de ese deporte concreto. [3]",
-      "full_transcript": "La clasificación funcional lo que pretende medir es el impacto funcional que tiene esa discapacidad en el propio deporte [2]. Por eso no se pretende clasificar o evaluar la discapacidad desde una mirada clínica, sino que lo que se busca es determinar cómo esa discapacidad afecta a las tareas específicas de un deporte concreto [2, 3]. Es decir, no compite el diagnóstico, sino que compite el deportista con una determinada capacidad funcional dentro de ese deporte concreto [3]. Principalmente, para minimizar el máximo posible el impacto que tiene la discapacidad sobre el resultado, para que el rendimiento dependa de la excelencia deportiva [4, 5].",
+      "summary": "La clasificación funcional asigna una clase deportiva para medir cómo la discapacidad afecta a nivel funcional en una modalidad específica, no desde una perspectiva clínica. Su objetivo es minimizar el impacto de la discapacidad para que el rendimiento dependa únicamente de la excelencia deportiva.",
+      "literal_quote": "no compite el diagnóstico, sino que compite el deportista con una determinada capacidad funcional dentro de ese deporte concreto.",
+      "full_transcript": "La clasificación funcional lo que pretende medir es el impacto funcional que tiene esa discapacidad en el propio deporte. Por eso no se pretende clasificar o evaluar la discapacidad desde una mirada clínica, sino que lo que se busca es determinar cómo esa discapacidad afecta a las tareas específicas de un deporte concreto. Es decir, no compite el diagnóstico, sino que compite el deportista con una determinada capacidad funcional dentro de ese deporte concreto. Principalmente, para minimizar el máximo posible el impacto que tiene la discapacidad sobre el resultado, para que el rendimiento dependa de la excelencia deportiva.",
       "keywords": [
         "clasificación-funcional",
         "impacto-funcional",
@@ -49,8 +49,8 @@
         "tareas específicas"
       ],
       "relevance_score": 5,
-      "context_before": "Inicio de la clase sobre clasificación funcional en el deporte adaptado [6].",
-      "context_after": "Explicación de los criterios de elegibilidad y cómo se agrupan los deportistas en las distintas clases [7]."
+      "context_before": "Inicio de la clase sobre clasificación funcional en el deporte adaptado.",
+      "context_after": "Explicación de los criterios de elegibilidad y cómo se agrupan los deportistas en las distintas clases."
     },
     {
       "id": "V01-PT2-002",
@@ -63,9 +63,9 @@
       "duration_seconds": 113,
       "timestamp_url": "?t=204",
       "title": "Criterios de elegibilidad y agrupación de clases",
-      "summary": "No todos pueden competir; deben tener una condición de salud subyacente y cumplir los criterios mínimos de discapacidad elegible por deporte [7, 8]. La clasificación agrupa a deportistas con discapacidades distintas pero con un impacto funcional comparable para asegurar una competición justa [9-11].",
-      "literal_quote": "lo que se busca es agrupar a mismos deportistas que tienen una discapacidad con un impacto funcional comparable. [9]",
-      "full_transcript": "Hay un criterio de elegibilidad, es decir, cada deportista con discapacidad tiene que cumplir una serie de criterios, tiene que tener una discapacidad que esté dentro del listado de discapacidades elegibles [7]. Tiene que existir una condición de salud subyacente y los criterios mínimos del propio deporte (minimum impairment criteria) [8]. Cuando se le asigna a un deportista una clase funcional, lo que se busca es agrupar a deportistas que tienen una discapacidad con un impacto funcional comparable [9]. Esto no quiere decir que todos tengan la misma discapacidad; en natación nos podemos encontrar nadadores con amputaciones compitiendo contra nadadores con lesión medular porque el impacto a nivel funcional es similar [9-11].",
+      "summary": "No todos pueden competir; deben tener una condición de salud subyacente y cumplir los criterios mínimos de discapacidad elegible por deporte. La clasificación agrupa a deportistas con discapacidades distintas pero con un impacto funcional comparable para asegurar una competición justa.",
+      "literal_quote": "lo que se busca es agrupar a mismos deportistas que tienen una discapacidad con un impacto funcional comparable.",
+      "full_transcript": "Hay un criterio de elegibilidad, es decir, cada deportista con discapacidad tiene que cumplir una serie de criterios, tiene que tener una discapacidad que esté dentro del listado de discapacidades elegibles. Tiene que existir una condición de salud subyacente y los criterios mínimos del propio deporte (minimum impairment criteria). Cuando se le asigna a un deportista una clase funcional, lo que se busca es agrupar a deportistas que tienen una discapacidad con un impacto funcional comparable. Esto no quiere decir que todos tengan la misma discapacidad; en natación nos podemos encontrar nadadores con amputaciones compitiendo contra nadadores con lesión medular porque el impacto a nivel funcional es similar.",
       "keywords": [
         "elegibilidad",
         "impacto-funcional-comparable",
@@ -92,8 +92,8 @@
         "impacto funcional comparable"
       ],
       "relevance_score": 5,
-      "context_before": "Definición conceptual de la clasificación funcional [3].",
-      "context_after": "Detalle sobre cómo la discapacidad impacta de manera diferente dependiendo del reglamento y la prueba [12]."
+      "context_before": "Definición conceptual de la clasificación funcional.",
+      "context_after": "Detalle sobre cómo la discapacidad impacta de manera diferente dependiendo del reglamento y la prueba."
     },
     {
       "id": "V01-PT2-003",
@@ -106,9 +106,9 @@
       "duration_seconds": 119,
       "timestamp_url": "?t=355",
       "title": "Fases del proceso de evaluación y observación en competición",
-      "summary": "El proceso abarca la revisión de documentación médica, test clínicos/funcionales en camilla y la evaluación en el medio específico del deporte [13-15]. Es obligatorio que el proceso culmine con la observación en competición oficial, ya que es el único entorno donde el atleta rinde al máximo real [16, 17].",
-      "literal_quote": "el proceso de clasificación no termina hasta que el deportista es observado por el clasificador en una competición. [16]",
-      "full_transcript": "Lo primero que se hace es recoger información respecto al diagnóstico de la discapacidad y evaluar la documentación médica [13]. Después se realiza una evaluación funcional a través de distintos test clínicos midiendo la fuerza, rango de movimiento, coordinación en camilla y después en el medio específico, como la piscina en el caso de la natación [14, 15]. Pero el proceso de clasificación no termina hasta que el deportista es observado por el clasificador en una competición [16]. En competición entendemos que el deportista va a rendir al máximo; muchas veces en el proceso previo no va al máximo y en competición se ven cosas distintas [16, 17].",
+      "summary": "El proceso abarca la revisión de documentación médica, test clínicos/funcionales en camilla y la evaluación en el medio específico del deporte. Es obligatorio que el proceso culmine con la observación en competición oficial, ya que es el único entorno donde el atleta rinde al máximo real.",
+      "literal_quote": "el proceso de clasificación no termina hasta que el deportista es observado por el clasificador en una competición.",
+      "full_transcript": "Lo primero que se hace es recoger información respecto al diagnóstico de la discapacidad y evaluar la documentación médica. Después se realiza una evaluación funcional a través de distintos test clínicos midiendo la fuerza, rango de movimiento, coordinación en camilla y después en el medio específico, como la piscina en el caso de la natación. Pero el proceso de clasificación no termina hasta que el deportista es observado por el clasificador en una competición. En competición entendemos que el deportista va a rendir al máximo; muchas veces en el proceso previo no va al máximo y en competición se ven cosas distintas.",
       "keywords": [
         "proceso-evaluación",
         "test-clínicos",
@@ -134,8 +134,8 @@
         "evaluación específica"
       ],
       "relevance_score": 5,
-      "context_before": "Explicación sobre la agrupación de atletas basada en criterios de elegibilidad [9].",
-      "context_after": "Se detallan los diferentes estatus que puede recibir un deportista tras la evaluación [18]."
+      "context_before": "Explicación sobre la agrupación de atletas basada en criterios de elegibilidad.",
+      "context_after": "Se detallan los diferentes estatus que puede recibir un deportista tras la evaluación."
     },
     {
       "id": "V01-PT2-004",
@@ -148,9 +148,9 @@
       "duration_seconds": 65,
       "timestamp_url": "?t=475",
       "title": "Asignación de estatus funcionales",
-      "summary": "Tras la observación, se asigna un estatus al deportista: nuevo, revisión, revisión con fecha fija (común en jóvenes que están creciendo o personas con condiciones degenerativas), confirmado o no elegible [18-20].",
-      "literal_quote": "se le asigna el estatus de 'confirmado', es decir, que en principio no hay que volver a pasar revisión y también se le puede asignar el estatus de 'no elegible'. [20]",
-      "full_transcript": "Tras esta observación en competición, al deportista se le asigna una clase y también un estatus [18]. 'Nuevo' para el que es clasificado por primera vez, 'revisión' para el que ha sufrido una revisión, y 'revisión con fecha fija' cuando la discapacidad es degenerativa, un daño cerebral que puede ir mejorando, o en deportistas jóvenes en etapa de crecimiento [18-20]. También se le puede asignar el estatus de 'confirmado', donde en principio no hay que volver a pasar revisión, o el estatus de 'no elegible' si no cumple los criterios mínimos para ese deporte [20, 21].",
+      "summary": "Tras la observación, se asigna un estatus al deportista: nuevo, revisión, revisión con fecha fija (común en jóvenes que están creciendo o personas con condiciones degenerativas), confirmado o no elegible.",
+      "literal_quote": "se le asigna el estatus de 'confirmado', es decir, que en principio no hay que volver a pasar revisión y también se le puede asignar el estatus de 'no elegible'.",
+      "full_transcript": "Tras esta observación en competición, al deportista se le asigna una clase y también un estatus. 'Nuevo' para el que es clasificado por primera vez, 'revisión' para el que ha sufrido una revisión, y 'revisión con fecha fija' cuando la discapacidad es degenerativa, un daño cerebral que puede ir mejorando, o en deportistas jóvenes en etapa de crecimiento. También se le puede asignar el estatus de 'confirmado', donde en principio no hay que volver a pasar revisión, o el estatus de 'no elegible' si no cumple los criterios mínimos para ese deporte.",
       "keywords": [
         "estatus-funcional",
         "revisión",
@@ -177,8 +177,8 @@
         "criterios mínimos"
       ],
       "relevance_score": 4,
-      "context_before": "Explicación de la obligatoriedad de la observación durante la competición [16].",
-      "context_after": "Se abordan las implicaciones fisiológicas y reglamentarias que tiene estar en una clase u otra [21]."
+      "context_before": "Explicación de la obligatoriedad de la observación durante la competición.",
+      "context_after": "Se abordan las implicaciones fisiológicas y reglamentarias que tiene estar en una clase u otra."
     },
     {
       "id": "V01-PT2-005",
@@ -191,9 +191,9 @@
       "duration_seconds": 135,
       "timestamp_url": "?t=540",
       "title": "Implicaciones de la clase funcional en rendimiento y reglamento",
-      "summary": "La clase funcional determina las expectativas de rendimiento y es necesaria para comparar datos fisiológicos (potencia, VO2) con justicia [21-23]. Además, implica adaptaciones reglamentarias, permitiendo excepciones tácticas como que un nadador amputado llegue a la pared con un solo brazo en estilo braza [24, 25].",
-      "literal_quote": "También en cada modalidad deportiva hay una serie de adaptaciones del reglamento para poder, de alguna manera, facilitar la práctica de determinado deporte dependiendo de la discapacidad. [24]",
-      "full_transcript": "Si nosotros queremos evaluar el rendimiento de dos deportistas con discapacidad, comparar sin clases no tiene mucho sentido [21]. Por ejemplo, los datos de un ciclista (300 vatios, 40 km/h, 55 ml/kg/min) pueden cambiar desde el punto de vista de rendimiento si es para una clase u otra [22]. La clase funcional va a definir las expectativas del deportista, la comparación fisiológica y biomecánica [23]. También hay adaptaciones del reglamento: en natación, al nadar a braza es obligatorio llegar con dos brazos a la pared [24, 25]. Si una persona tiene una amputación, se le indica una excepción para que no sea descalificada al llegar con un solo brazo, siempre que realice la llegada intencional correcta [25, 26].",
+      "summary": "La clase funcional determina las expectativas de rendimiento y es necesaria para comparar datos fisiológicos (potencia, VO2) con justicia. Además, implica adaptaciones reglamentarias, permitiendo excepciones tácticas como que un nadador amputado llegue a la pared con un solo brazo en estilo braza.",
+      "literal_quote": "También en cada modalidad deportiva hay una serie de adaptaciones del reglamento para poder, de alguna manera, facilitar la práctica de determinado deporte dependiendo de la discapacidad.",
+      "full_transcript": "Si nosotros queremos evaluar el rendimiento de dos deportistas con discapacidad, comparar sin clases no tiene mucho sentido. Por ejemplo, los datos de un ciclista (300 vatios, 40 km/h, 55 ml/kg/min) pueden cambiar desde el punto de vista de rendimiento si es para una clase u otra. La clase funcional va a definir las expectativas del deportista, la comparación fisiológica y biomecánica. También hay adaptaciones del reglamento: en natación, al nadar a braza es obligatorio llegar con dos brazos a la pared. Si una persona tiene una amputación, se le indica una excepción para que no sea descalificada al llegar con un solo brazo, siempre que realice la llegada intencional correcta.",
       "keywords": [
         "rendimiento",
         "reglamento",
@@ -220,8 +220,8 @@
         "comparación fisiológica"
       ],
       "relevance_score": 5,
-      "context_before": "Explicación de la asignación de estatus de clasificación funcionales [20].",
-      "context_after": "Se trata el tema de la ética y el engaño intencionado en los procesos de clasificación [27]."
+      "context_before": "Explicación de la asignación de estatus de clasificación funcionales.",
+      "context_after": "Se trata el tema de la ética y el engaño intencionado en los procesos de clasificación."
     },
     {
       "id": "V01-PT2-006",
@@ -234,9 +234,9 @@
       "duration_seconds": 93,
       "timestamp_url": "?t=707",
       "title": "Ética deportiva y Doping Paralímpico (Tergiversación intencionada)",
-      "summary": "El proceso exige estricta responsabilidad ética. Se denuncia el 'doping paralímpico' (tergiversación intencionada), que ocurre cuando el atleta exagera o distorsiona su discapacidad ante los evaluadores para conseguir una clase funcional más favorable, atentando contra la equidad [27-30].",
-      "literal_quote": "Se da muchísimas veces lo que llamamos tergiversación intencionada o también coloquialmente se le llama doping paralímpico. [28]",
-      "full_transcript": "La clasificación funcional debería ser un acto de responsabilidad ética y de transparencia, tanto del deportista como del equipo técnico [27]. Porque en el deporte adaptado se da muchísimas veces lo que llamamos tergiversación intencionada o también coloquialmente se le llama doping paralímpico [28]. Esto se da cuando un deportista en ese proceso de clasificación intenta exagerar o distorsionar voluntariamente ese proceso, haciéndole ver al evaluador aspectos de su discapacidad que no son reales para conseguir una clase funcional más favorable [28, 29]. Esto es un lastre muy grande. Es responsabilidad del equipo y del propio deportista no inducir a conductas deshonestas y competir con transparencia [29, 30].",
+      "summary": "El proceso exige estricta responsabilidad ética. Se denuncia el 'doping paralímpico' (tergiversación intencionada), que ocurre cuando el atleta exagera o distorsiona su discapacidad ante los evaluadores para conseguir una clase funcional más favorable, atentando contra la equidad.",
+      "literal_quote": "Se da muchísimas veces lo que llamamos tergiversación intencionada o también coloquialmente se le llama doping paralímpico.",
+      "full_transcript": "La clasificación funcional debería ser un acto de responsabilidad ética y de transparencia, tanto del deportista como del equipo técnico. Porque en el deporte adaptado se da muchísimas veces lo que llamamos tergiversación intencionada o también coloquialmente se le llama doping paralímpico. Esto se da cuando un deportista en ese proceso de clasificación intenta exagerar o distorsionar voluntariamente ese proceso, haciéndole ver al evaluador aspectos de su discapacidad que no son reales para conseguir una clase funcional más favorable. Esto es un lastre muy grande. Es responsabilidad del equipo y del propio deportista no inducir a conductas deshonestas y competir con transparencia.",
       "keywords": [
         "doping-paralímpico",
         "tergiversación-intencionada",
@@ -264,8 +264,8 @@
         "responsabilidad ética"
       ],
       "relevance_score": 5,
-      "context_before": "Importancia de interpretar los datos fisiológicos y reglamentarios en función de la clase [23].",
-      "context_after": "Se presenta una herramienta digital para facilitar la consulta de clases funcionales [31]."
+      "context_before": "Importancia de interpretar los datos fisiológicos y reglamentarios en función de la clase.",
+      "context_after": "Se presenta una herramienta digital para facilitar la consulta de clases funcionales."
     },
     {
       "id": "V01-PT2-007",
@@ -278,9 +278,9 @@
       "duration_seconds": 94,
       "timestamp_url": "?t=800",
       "title": "Herramienta Lexi para consulta de clasificaciones",
-      "summary": "El ponente recomienda Lexi, una página web que sirve de base de datos visual para consultar qué discapacidades están admitidas en cada modalidad deportiva y qué clases funcionales corresponden a afectaciones físicas, visuales e intelectuales [31-33].",
-      "literal_quote": "os dejo una herramienta, es una página web que se llama Lexi, que la verdad es muy interesante... podemos ver por deporte qué discapacidades están admitidas. [31, 32]",
-      "full_transcript": "Para terminar con la parte de la clasificación funcional, os dejo una herramienta, es una página web que se llama Lexi, que la verdad es muy interesante [31]. En esta página web podemos ver, por ejemplo, por deporte, qué discapacidades están admitidas o pueden participar [32]. Si seleccionamos la natación, podemos ver las clases funcionales que existen para las discapacidades físicas, visuales e intelectuales [32, 33]. Podemos hacer una búsqueda por deporte y también por tipo de discapacidad [34]. Por ejemplo, si queremos ver en qué deportes pueden participar personas con ceguera total, clicamos ahí y vemos en qué clase funcional tendrían asignada [35].",
+      "summary": "El ponente recomienda Lexi, una página web que sirve de base de datos visual para consultar qué discapacidades están admitidas en cada modalidad deportiva y qué clases funcionales corresponden a afectaciones físicas, visuales e intelectuales.",
+      "literal_quote": "os dejo una herramienta, es una página web que se llama Lexi, que la verdad es muy interesante... podemos ver por deporte qué discapacidades están admitidas.",
+      "full_transcript": "Para terminar con la parte de la clasificación funcional, os dejo una herramienta, es una página web que se llama Lexi, que la verdad es muy interesante. En esta página web podemos ver, por ejemplo, por deporte, qué discapacidades están admitidas o pueden participar. Si seleccionamos la natación, podemos ver las clases funcionales que existen para las discapacidades físicas, visuales e intelectuales. Podemos hacer una búsqueda por deporte y también por tipo de discapacidad. Por ejemplo, si queremos ver en qué deportes pueden participar personas con ceguera total, clicamos ahí y vemos en qué clase funcional tendrían asignada.",
       "keywords": [
         "lexi",
         "herramienta",
@@ -309,7 +309,7 @@
         "ceguera total"
       ],
       "relevance_score": 4,
-      "context_before": "Explicación de las prácticas deshonestas en la evaluación de la clase funcional [28].",
+      "context_before": "Explicación de las prácticas deshonestas en la evaluación de la clase funcional.",
       "context_after": "Cierre del bloque analizado sobre el tema de clasificación."
     }
   ]
