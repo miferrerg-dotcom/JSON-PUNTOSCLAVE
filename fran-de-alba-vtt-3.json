@@ -1,0 +1,425 @@
+{
+    "video": {
+        "video_id": "F03",
+        "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+        "speaker": "Fran de Alba",
+        "total_duration": "00:13:04",
+        "total_duration_seconds": 784,
+        "source_file": "WEBVTT-3.vtt",
+        "language": "es"
+    },
+    "segments": [
+        {
+            "id": "F03-001",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "00:01",
+            "end_timestamp": "02:09",
+            "start_seconds": 1,
+            "end_seconds": 129,
+            "duration_seconds": 128,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+            "title": "Integración en MD-4: Espacio Reducido, Desaceleración y Lucha",
+            "summary": "Fran de Alba explica la integración práctica en el día MD-4 (Match Day - 4). El entrenador propone tareas de espacio reducido y posesión en cancha, lo que genera demandas mecánicas de desaceleración y lucha. En el gimnasio se programa un Cuadrante 4 (alta carga y volumen post-cancha) enfocado específicamente en desaceleración y lucha, evitando fatigar otros patrones.",
+            "literal_quote": "En el menos cuatro... a mi entrenador le gusta trabajar el espacio reducido y la posesión... ¿Qué es lo que más estimula? Los patrones de deceleración y de lucha. Por tanto, mis ejercicios van orientados a estimular estos dos patrones de movimiento... para no trabajar otros estímulos o otros patrones que se podrían dar al día siguiente.",
+            "full_transcript": "Con todo esto en cuenta, vamos ahora a pasar a esa segunda fase de la integración, que es cuando tenemos tres piezas del puzzle completas, que son las del contexto, los patrones y el sistema. Aquí lo pueden ver. Esto es un ejemplo del microciclo previo, el de siete días. Como hemos dicho, tenemos un cuadrante uno en el más uno, un cuadrante uno en el más dos. Empezamos a crear en el cuadrante cuatro, en el menos cuatro, en el menos tres también, y vamos a un cuadrante dos en el menos dos y un cuadrante tres en el menos uno. ¿Qué pasa aquí? Que, como ven, los patrones son lo que incluyo ahora en mi microciclo para tener esa tercera parte del puzzle, esa tercera base incrustada y en funcionamiento. Hago un estudio de cómo va a ser mi microciclo, sé cómo el entrenador va a trabajar en cancha o en campo y, a partir de ahí, diseño los patrones que van a decidir las tareas de gimnasio y de la sesión de fuerza. Por poner un ejemplo, en el menos cuatro, veis que trabajo un cuadrante cuatro. Es decir, que después del entrenamiento de cancha, para que no haya una fatiga previa, voy a hacer una sesión de fuerza de alta carga, es decir, de alto volumen y de alta intensidad. ¿Qué pasa? Que en esta sesión menos cuatro, a mi entrenador le gusta trabajar el espacio reducido y la posesión, como hemos dicho antes, que se da mucho en estos casos. ¿Qué es lo que más estimula? Los patrones de deceleración y de lucha. Por tanto, mis ejercicios van orientados a estimular estos dos patrones de movimiento, para generar aún más estímulo del que se ha conseguido en cancha y para no trabajar otros estímulos u otros patrones que se podrían dar al día siguiente y, por tanto, estamos fatigando lo que se va a dar en cancha al día siguiente.",
+            "keywords": [
+                "matchday-4",
+                "espacio-reducido",
+                "desaceleracion",
+                "lucha",
+                "cuadrante-4",
+                "co-facilitación",
+                "patrones-de-movimiento"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Metodología"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Por qué se eligen los patrones de desaceleración y lucha en el día MD-4?",
+                "¿Cómo se coordinan los ejercicios de gimnasio en MD-4 con la sesión de posesión en cancha?"
+            ],
+            "related_terms": [
+                "deceleración",
+                "lucha",
+                "espacio reducido",
+                "posesión"
+            ],
+            "relevance_score": 5,
+            "context_before": "Inicio del tercer fragmento, uniendo las bases de contexto, sistema y patrones.",
+            "context_after": "Integración del día MD-3 con espacios amplios y patrones de aceleración y salto."
+        },
+        {
+            "id": "F03-002",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "02:10",
+            "end_timestamp": "03:26",
+            "start_seconds": 130,
+            "end_seconds": 206,
+            "duration_seconds": 76,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=130",
+            "title": "Integración en MD-3: Espacios Amplios, Aceleración y Salto",
+            "summary": "En el día MD-3 se realiza trabajo en espacios amplios (partidos de 11 contra 11) en cancha, lo que provoca demandas de carrera y velocidad. Coherentemente, en el gimnasio se aplica una sesión de Cuadrante 4 enfocada en aceleración y salto. Al alternar los patrones con respecto al día anterior, se logran adaptaciones óptimas sin sobrefatigar.",
+            "literal_quote": "En el menos tres trabajamos en cancha... espacios más amplios... hacen más carrera y demás. Ahí queremos, posiblemente, trabajar el patrón de aceleración como prioritario y el patrón de salto... no coinciden, no provocan el mismo estímulo... estamos estimulando cada patrón cada día.",
+            "full_transcript": "Este es el ejemplo perfecto. En el menos tres trabajamos en cancha, todo se basa en lo que se hace allí, en espacios más amplios. Jugamos partidos de 11 contra 11, ya hacen más carrera y demás. Ahí queremos, posiblemente, trabajar el patrón de aceleración como prioritario y el patrón de salto. Por tanto, los ejercicios, si los diseño de forma correcta, que yo haga en el menos cuatro de deceleración y de lucha, no coinciden, no provocan el mismo estímulo, tanto de fatiga como de adaptación en mis jugadores, que lo que se va a conseguir con los patrones de aceleración y de salto en el menos tres. Estamos estimulando cada patrón cada día y, además, dentro de cuadrantes diferentes. Por tanto, estamos estimulando estos patrones de forma diferente, con más volumen, con menos volumen, con más intensidad, con menos intensidad, con más complejidad, con más especificidad. Y así podemos ir jugando y manejando lo que el grupo debe hacer sin que haya realmente una sobrefatiga y consiguiendo las mayores adaptaciones posibles para que los jugadores lleguen en el máximo punto de rendimiento al partido.",
+            "keywords": [
+                "matchday-3",
+                "espacio-amplio",
+                "11-contra-11",
+                "aceleracion",
+                "salto",
+                "cuadrante-4",
+                "alternancia-de-carga"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Metodología"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo se integra el gimnasio con la sesión de espacios amplios en MD-3?",
+                "¿Por qué la alternancia de patrones entre MD-4 y MD-3 evita la sobrefatiga?"
+            ],
+            "related_terms": [
+                "11 contra 11",
+                "aceleración",
+                "salto vertical",
+                "distribución de estímulos"
+            ],
+            "relevance_score": 5,
+            "context_before": "Integración práctica del día MD-4.",
+            "context_after": "Análisis del microciclo táctico-reducido de cuatro días."
+        },
+        {
+            "id": "F03-003",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "03:36",
+            "end_timestamp": "04:02",
+            "start_seconds": 216,
+            "end_seconds": 242,
+            "duration_seconds": 26,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=216",
+            "title": "Alineación de Patrones en el Microciclo de 4 Días",
+            "summary": "Se describe cómo, a pesar de que el microciclo reducido de cuatro días prescinde del Cuadrante 4 (construcción de fuerza), el sistema sigue permitiendo estimular de forma selectiva múltiples patrones biomecánicos sin generar fatiga, complementando la sesión de campo de forma útil.",
+            "literal_quote": "un microciclo de cuatro días. Da poco tiempo de hacer cosas, pero aun así, mira cuántos patrones podemos estimular... el jugador tiene esa ayuda extra de nuestras sesiones de fuerza, que es para lo que lo hacemos.",
+            "full_transcript": "Esto lo podemos comparar con esto, que es, como hemos dicho antes, un microciclo de cuatro días. Da poco tiempo de hacer cosas, pero aun así, mira cuántos patrones podemos estimular. Es cierto que no vamos a construir al atleta con cuadrantes cuatro, con cuadrantes de sesiones de fuerza de mucha carga, pero seguimos estimulando ciertas cosas que suelen coincidir con lo que se hace en cancha y, por tanto, el jugador tiene esa ayuda extra de nuestras sesiones de fuerza, que es para lo que lo hacemos.",
+            "keywords": [
+                "microciclo-reducido",
+                "4-dias",
+                "estimulación-selectiva",
+                "patrones-motores",
+                "gimnasio"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Metodología"
+            ],
+            "content_type": [
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Qué utilidad tiene el trabajo de gimnasio en un microciclo de solo 4 días?",
+                "¿Cómo se seleccionan los patrones en semanas congestionadas?"
+            ],
+            "related_terms": [
+                "ayuda extra",
+                "microciclo reducido",
+                "exposición de fuerza"
+            ],
+            "relevance_score": 4,
+            "context_before": "Integración de patrones y cuadrantes en MD-3.",
+            "context_after": "Estudio de caso de individualización: integración de la base 4 en un jugador de perfil contráctil."
+        },
+        {
+            "id": "F03-004",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "04:10",
+            "end_timestamp": "06:35",
+            "start_seconds": 250,
+            "end_seconds": 395,
+            "duration_seconds": 145,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=250",
+            "title": "Individualización en MD+1 para Perfil Contráctil",
+            "summary": "Para un jugador de perfil contráctil que no compitió en el partido anterior, se prescribe en MD+1 una sesión individual de Cuadrante 3 enfocada en la aceleración. El objetivo es reforzar su identidad contráctil y su capacidad de empuje en primeros apoyos (knee iso push, heavy sled push, barbell hip thrust, dumbbell step up).",
+            "literal_quote": "sabiendo que tiene un cuadrante tres, es lo que he planeado para él o ella... voy a trabajar sobre el patrón de aceleración... reforzar el perfil contráctil, reforzar lo que le hace bueno... knee iso push, heavy sled push, barbell hip thrust, dumbbell step up.",
+            "full_transcript": "Esto sería entonces el final de todo. Esto sería nuestro objetivo real: tener las cuatro piezas del puzzle completamente incrustadas entre sí, unidas, para que nuestra molécula de ADN, este modelo de cuatro bases de ADN, que son la contextualización, la especificidad deportiva por medio de los patrones, el sistema estandarizado que utilicemos siempre y la individualización, tenga sentido y se pueda aplicar. Entonces, con todo esto en cuenta, vamos a hacer un ejemplo, de forma breve, pero a la vez profunda, de un jugador de perfil contráctil, como hemos estado viendo antes. va a tener el estímulo, como hemos dicho antes, de cada patrón en cada tipo de día para este tipo de jugador. A lo mejor los patrones pueden cambiar para un perfil reactivo. No lo sé. Va a depender de lo que quiera, del tipo de partido que tenga, de si va a jugar o no, de muchísimas cosas. Pero esta es mi idea inicial para el microciclo de este perfil contráctil. Entonces, ¿dónde entra aquí el tema de la individualización? Ya sabemos que es un perfil contráctil en base a nuestras evaluaciones. Entonces, quiero en el más uno, sabiendo que tiene un cuadrante tres, es lo que he planeado para él o ella, y voy a trabajar sobre el patrón de aceleración, mi objetivo con él va a ser reforzar el perfil contráctil, reforzar lo que le hace bueno en ese día, en el más uno. Esto lo voy a conseguir por medio de knee iso push, heavy sled push, barbell hip thrust, dumbbell step up. Entonces, reforzamos su capacidad de empuje en los primeros apoyos y mantenemos su presión de fuerza tras no haber competido. Esa es mi idea para el más uno con este perfil contráctil.",
+            "keywords": [
+                "matchday+1",
+                "perfil-contractil",
+                "cuadrante-3",
+                "aceleracion",
+                "knee-iso-push",
+                "heavy-sled-push",
+                "hip-thrust",
+                "step-up"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología",
+                "Toma de Decisiones"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo se individualiza el trabajo de fuerza en MD+1 para un jugador contráctil que no ha jugado?",
+                "¿Qué ejercicios específicos se proponen para potenciar la fuerza de empuje inicial?"
+            ],
+            "related_terms": [
+                "knee iso push",
+                "heavy sled",
+                "hip thrust",
+                "empuje inicial"
+            ],
+            "relevance_score": 5,
+            "context_before": "Alineación de patrones biomecánicos en semanas reducidas.",
+            "context_after": "Pinceladas individuales en la sesión grupal de recuperación de MD+2."
+        },
+        {
+            "id": "F03-005",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "06:36",
+            "end_timestamp": "07:40",
+            "start_seconds": 396,
+            "end_seconds": 460,
+            "duration_seconds": 64,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=396",
+            "title": "MD+2: Pincelada Reactiva en Sesión Recuperatoria Grupal",
+            "summary": "En el día MD+2, mientras todo el equipo realiza un Cuadrante 1 recuperatorio general post-cancha, se añade una pequeña 'pincelada' individual al jugador contráctil en la parte final para estimular su perfil reactivo (su área de oportunidad) mediante apoyos orientados y cambios de dirección técnicos a muy baja intensidad sin generar fatiga.",
+            "literal_quote": "en el más dos, todo el equipo va a estar recuperando a la vez... voy a utilizar esa sesión grupal para trabajar en la parte final de la sesión su perfil reactivo. Vamos a hacer cambio de dirección técnicos a baja intensidad, apoyos orientados, todo con muy poca carga, todo body weight.",
+            "full_transcript": "¿Qué pasa en el más dos? Que va a hacer un regenerativo postcancha, después de la sesión de campo, de forma grupal. En el más uno fue de forma individual, se trabaja individual, y ahora en el más dos, todo el equipo va a estar recuperando a la vez. ¿Qué quiero en este caso con mi jugador? Voy a utilizar esa sesión grupal para trabajar en la parte final de la sesión su perfil reactivo. Vamos a hacer cambio de dirección técnicos a baja intensidad, apoyos orientados, todo con muy poca carga, todo body weight, posiblemente, sin generar ningún tipo de fatiga. Sabemos que estamos en más dos, que tenemos que tener cuidado con los estímulos, que no sean demasiado altos, pero aún así quiero mejorar el perfil reactivo, que es en lo que falla este jugador, su área de oportunidad. Perfecto, va a hacer la sesión recuperatoria postcancha con el equipo y en una parte final voy a ponerle una pincelada de unos cambios de dirección de baja intensidad y unos apoyos orientados y demás.",
+            "keywords": [
+                "matchday+2",
+                "sesion-grupal",
+                "regenerativo",
+                "perfil-reactivo",
+                "área-de-oportunidad",
+                "cambio-de-direccion",
+                "pincelada-individual"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología",
+                "Toma de Decisiones"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo se introduce trabajo reactivo en un día de recuperación MD+2 sin fatigar?",
+                "¿Qué es la 'pincelada reactiva' en el perfil contráctil?"
+            ],
+            "related_terms": [
+                "recuperación post-cancha",
+                "peso corporal",
+                "apoyos orientados",
+                "área de oportunidad"
+            ],
+            "relevance_score": 5,
+            "context_before": "Individualización en MD+1 para el perfil contráctil dominativo.",
+            "context_after": "Individualización en los días centrales del microciclo (MD-4 y MD-3)."
+        },
+        {
+            "id": "F03-006",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "07:42",
+            "end_timestamp": "09:09",
+            "start_seconds": 462,
+            "end_seconds": 549,
+            "duration_seconds": 87,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=462",
+            "title": "Individualización en MD-4 y MD-3 para el Jugador Contráctil",
+            "summary": "En MD-4, el jugador contráctil trabaja individualmente para reforzar su fuerte (lucha y desaceleración). En MD-3 (día de campo amplio, aceleración y salto), se utiliza un Cuadrante 4 de fuerza máxima pero orientado a su debilidad, el perfil reactivo, realizando ejercicios de stiffness como box jumps, squat iso push cortos y pogo reactivo.",
+            "literal_quote": "En el menos cuatro... voy a trabajar después de la cancha de forma individual y voy a reforzar de nuevo su perfil contráctil... en el menos tres... voy a mejorar su área de oportunidad, ese perfil reactivo. Voy a utilizar un cuadrante cuatro para mejorar... Box jumps... squat iso push... pogo reactivo.",
+            "full_transcript": "Vamos al menos cuatro. Tenemos, como hemos dicho antes, espacio reducido y la posesión en el campo, que lo vamos a empatar con los estímulos de fuerza que estimulen los patrones de lucha y de desaceleración. Con este jugador voy a trabajar después de la cancha de forma individual y voy a reforzar de nuevo su perfil contráctil. A él le gusta la lucha, le gusta la desaceleración, voy a seguir reforzando. ¿Qué va a pasar en el menos tres? Que nos vamos a esa sesión de espacio amplio donde quiero potenciar su salto y su aceleración. Pero ahora, en vez de reforzar su perfil contráctil, voy a mejorar su área de oportunidad, ese perfil reactivo. Voy a utilizar un cuadrante cuatro para mejorar su área de oportunidad. ¿Qué vamos a hacer ahí? Box jumps, vamos a hacer squat iso push, pero cortos, un pogo reactivo con una salida. Todo esto que sabemos que podría mejorar ese perfil reactivo, esas bases del perfil reactivo. Lo que queremos es esto que pone aquí: buscamos que exprese su fuerza en el menor tiempo posible y acercar su perfil a las demandas más reactivas. Entonces, ya llevamos dos días durante el microciclo de siete en los que intentamos llevarlo hacia mejorar esa reactividad, que claramente es su punto débil.",
+            "keywords": [
+                "matchday-4",
+                "matchday-3",
+                "lucha-y-desaceleración",
+                "perfil-contractil",
+                "perfil-reactivo",
+                "cuadrante-4",
+                "box-jumps",
+                "pogo-reactivo"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología",
+                "Toma de Decisiones"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo varía el enfoque del entrenamiento de fuerza del jugador contráctil entre MD-4 y MD-3?",
+                "¿Qué ejercicios del Cuadrante 4 se prescriben para mejorar su reactividad neuromuscular?"
+            ],
+            "related_terms": [
+                "box jumps",
+                "pogo reactivo",
+                "área de oportunidad",
+                "isométricos cortos"
+            ],
+            "relevance_score": 5,
+            "context_before": "Alineación de cargas en MD+2 con pinceladas reactivas.",
+            "context_after": "Toma de decisiones en MD-1 basada en la disponibilidad y participación en el partido."
+        },
+        {
+            "id": "F03-007",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "09:10",
+            "end_timestamp": "09:49",
+            "start_seconds": 550,
+            "end_seconds": 589,
+            "duration_seconds": 39,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=550",
+            "title": "Toma de Decisiones en MD-1 según Convocatoria y Rol",
+            "summary": "En MD-1 (día de activación/priming), la decisión del gimnasio depende del rol competitivo inmediato del jugador: si va a ser titular, se programa un priming que refuerce su perfil contráctil dominante para aportarle confianza. Si no va a jugar, se aprovecha para estimular su área de oportunidad reactiva.",
+            "literal_quote": "En el menos uno, en este caso, que a lo mejor yo sé que no va a jugar... vamos a utilizar el menos uno para mejorar el perfil reactivo... Si fuera un jugador que va a jugar... utilizaría el menos uno para reforzar de nuevo el perfil contráctil... para que llegue con lo que mejor se le da.",
+            "full_transcript": "En el menos dos volvemos a reforzar el perfil contráctil y en el menos uno, en este caso, que a lo mejor yo sé que no va a jugar, porque no jugó el partido anterior, porque ya lo sé por el entrenador, porque el jugador lo sabe o por cualquier razón, ahí entramos con el contexto, vamos a utilizar el menos uno para mejorar el perfil reactivo de nuevo, para mejorar esa área de oportunidad. Si fuera un jugador que va a jugar y estamos hablando de un contráctil y va a jugar, aquí utilizaría el menos uno para reforzar de nuevo el perfil contráctil, para que llegue al partido con lo que más le gusta, con lo que mejor se le da y reforzar ese punto para que llegue con todo al partido.",
+            "keywords": [
+                "matchday-1",
+                "toma-de-decisiones",
+                "rol-competitivo",
+                "no-convocado",
+                "titularidad",
+                "reforzar",
+                "compensar"
+            ],
+            "entities": [],
+            "topics": [
+                "Toma de Decisiones",
+                "Metodología"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Decisión"
+            ],
+            "search_questions": [
+                "¿Cómo decide el preparador físico el enfoque del priming en MD-1?",
+                "¿Por qué se prefiere reforzar la fortaleza del jugador en el priming previo a jugar?"
+            ],
+            "related_terms": [
+                "titularidad",
+                "compensación",
+                "refuerzo neuromuscular",
+                "rol del jugador"
+            ],
+            "relevance_score": 5,
+            "context_before": "Análisis de la individualización en los días de mayor carga (MD-4 y MD-3).",
+            "context_after": "Síntesis del marco común versus las pinceladas individuales."
+        },
+        {
+            "id": "F03-008",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "09:51",
+            "end_timestamp": "10:21",
+            "start_seconds": 591,
+            "end_seconds": 621,
+            "duration_seconds": 30,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=591",
+            "title": "Marco Grupal vs. Pinceladas Individuales",
+            "summary": "Fran de Alba resume su enfoque de individualización: el equipo funciona bajo un marco grupal robusto gobernado por el contexto, el sistema de cuadrantes y los patrones mecánicos del día, pero se optimiza mediante sutiles pinceladas adaptadas a las necesidades específicas de cada jugador.",
+            "literal_quote": "el marco general es para el grupo y hay pequeñas pinceladas según lo que quiero conseguir. El marco grupal sería el sistema y el contexto. Y también los patrones... Pero al final, de forma individual, ya quiero dar pinceladas.",
+            "full_transcript": "Esto sería lo ideal. Es donde intento ir con cada uno de mis jugadores. Como veis, al final, el marco general es para el grupo y hay pequeñas pinceladas según lo que quiero conseguir. El marco grupal sería el sistema y el contexto. Y también los patrones que quiero trabajar con todo el mundo. Pero al final, de forma individual, ya quiero dar pinceladas hacia reforzar los perfiles en lo que esté bueno, en lo que esté bien, o mejorar los perfiles en los que tenga área de oportunidad.",
+            "keywords": [
+                "marco-grupal",
+                "pinceladas-individuales",
+                "sistema-y-contexto",
+                "seleccion-de-ejercicios",
+                "optimizacion"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Reflexión",
+                "Framework"
+            ],
+            "search_questions": [
+                "¿Cómo se equilibra el trabajo colectivo con las necesidades individuales en el gimnasio?",
+                "¿Qué constituye el 'marco grupal' en el modelo de fuerza?"
+            ],
+            "related_terms": [
+                "marco común",
+                "pinceladas",
+                "colectivo",
+                "grupación"
+            ],
+            "relevance_score": 5,
+            "context_before": "Criterios de toma de decisiones en el priming MD-1.",
+            "context_after": "Conclusiones finales de la ponencia de Fran de Alba."
+        },
+        {
+            "id": "F03-009",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte III",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "10:28",
+            "end_timestamp": "13:04",
+            "start_seconds": 628,
+            "end_seconds": 784,
+            "duration_seconds": 156,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=628",
+            "title": "Resumen, Sostenibilidad y Conclusiones del Modelo",
+            "summary": "La ponencia concluye resaltando que el éxito metodológico de la fuerza no recae en diseñar el programa teóricamente más perfecto, sino en su repetibilidad y consistencia práctica a lo largo del calendario. Al integrar el contexto, sistema de cuadrantes, patrones biomecánicos e individualización, la fuerza pasa de complementaria a estructural.",
+            "literal_quote": "La fuerza en fútbol no falla por falta de evidencia, sino por falta de encaje con la realidad competitiva... en el fútbol profesional, la mejor metodología no es la más compleja, sino la que consigue repetirse con sentido durante toda la temporada.",
+            "full_transcript": "Y este sería el final. Ahí escribo unas cuantas conclusiones que creo que resumen muy bien todo lo que ha sido la presentación. La fuerza en fútbol no falla por falta de evidencia, sino por falta de encaje con la realidad competitiva. Contextualizar antes de programar permite que el trabajo de fuerza sea aplicable, sostenible y sobre todo, útil. Un sistema estandarizado aporta orden, lenguaje común y criterios claros de decisión, que es lo que queremos. Toma de decisiones en base al sistema. La especificidad deportiva da dirección al contenido y el sistema de cuadrantes facilita organizar el volumen y la intensidad dentro de un microciclo sin perder esa intención, lo que realmente hemos programado para mi microciclo. Al final, todo lleva a lo esto de individualizar, que no es hacer algo distinto para cada jugador, sino darle a cada uno lo que más necesita dentro de un marco común, como hemos explicado antes. Y los últimos tres serían: el valor del modelo no está solo en evaluar el perfil, sino en traducirlos en decisiones prácticas en el entrenamiento, aterrizar todo, darle un sentido práctico, que todo lo que sale bonito en mi metodología, en mis reportes y en mis evaluaciones tenga un sentido para el rendimiento del jugador o la salud del jugador, o para que el entrenador tenga elegibilidad a todos los jugadores. Cuando el contexto, el sistema, los patrones y la individualización se integran, la fuerza deja de ser complementaria y pasa a ser algo estructural dentro de tu... hace qué cuadrante, por qué se hace ese cuadrante y qué patrones vamos a trabajar. Y por último, en el fútbol profesional, la mejor metodología no es la más compleja, sino la que consigue repetirse con sentido durante toda la temporada, es decir, cuando se integra de todas dentro de tu modelo. Vamos entonces a agradecer. Muchísimas gracias por la oportunidad y por escucharme. Ahí tienen por WhatsApp y por email cómo podrían contactarme. Ha sido un placer. Mi nombre es Fran de Alba y estamos viéndonos.",
+            "keywords": [
+                "conclusiones",
+                "encaje-competitivo",
+                "repetibilidad",
+                "sostenibilidad",
+                "fuerza-estructural",
+                "elegibilidad",
+                "sentido-practico"
+            ],
+            "entities": [
+                "Fran de Alba"
+            ],
+            "topics": [
+                "Metodología",
+                "Toma de Decisiones",
+                "Performance & Context"
+            ],
+            "content_type": [
+                "Reflexión",
+                "Metodología"
+            ],
+            "search_questions": [
+                "¿Por qué falla el trabajo de fuerza en el fútbol según la conclusión final?",
+                "¿Qué define a la 'mejor metodología' en el fútbol profesional según Fran de Alba?"
+            ],
+            "related_terms": [
+                "repetibilidad",
+                "sostenibilidad",
+                "elegibilidad",
+                "fuerza estructural"
+            ],
+            "relevance_score": 5,
+            "context_before": "Definición del balance entre el marco general y las pinceladas individuales.",
+            "context_after": "Despedida del ponente y agradecimiento al público."
+        }
+    ]
+}

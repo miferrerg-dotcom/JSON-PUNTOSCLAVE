@@ -1,0 +1,485 @@
+{
+    "video": {
+        "video_id": "F01",
+        "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+        "speaker": "Fran de Alba",
+        "total_duration": "00:16:17",
+        "total_duration_seconds": 977,
+        "source_file": "WEBVTT-1.vtt",
+        "language": "es"
+    },
+    "segments": [
+        {
+            "id": "F01-001",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "00:00",
+            "end_timestamp": "01:06",
+            "start_seconds": 0,
+            "end_seconds": 66,
+            "duration_seconds": 66,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+            "title": "Introducción y Propósito del Modelo de Fuerza",
+            "summary": "Fran de Alba introduce el modelo de cuatro bases y sistema de cuadrantes para el trabajo de fuerza en fútbol. El propósito es estructurar el entrenamiento de fuerza de forma realista, consistente y útil dentro del microciclo competitivo, superando el mero entendimiento de su importancia.",
+            "literal_quote": "En el fútbol profesional no basta solo con entender, a día de hoy, que el trabajo de fuerza es importante. El verdadero reto es encontrar una manera de aplicarla de forma consistente, útil y sobre todo realista en el día a día competitivo.",
+            "full_transcript": "Hola a todos, me llamo Fran de Alba y en esta presentación voy a compartir una propuesta metodológica para el trabajo de fuerza en fútbol, basada en lo que he ido aprendiendo en distintos contextos de alto rendimiento en los últimos años. El título, como podéis ver, es modelo de cuatro bases y sistema de cuadrantes, y la idea principal de toda la ponencia es muy sencilla. En el fútbol profesional no basta solo con entender, a día de hoy, que el trabajo de fuerza es importante. El verdadero reto es encontrar una manera de aplicarla de forma consistente, útil y sobre todo realista en el día a día competitivo que se vive en el fútbol y en todos los deportes de élite. Lo que voy a presentar aquí no pretende ser una verdad absoluta ni una receta cerrada, es más bien una forma de organizar el pensamiento y la práctica para que el trabajo de fuerza deje de ser algo secundario o complementario y pase a tener una estructura clara dentro de los microciclos.",
+            "keywords": [
+                "trabajo-de-fuerza",
+                "futbol-profesional",
+                "propuesta-metodologica",
+                "microciclo",
+                "consistencia",
+                "realismo",
+                "alto-rendimiento"
+            ],
+            "entities": [
+                "Fran de Alba"
+            ],
+            "topics": [
+                "Performance & Context",
+                "Metodología"
+            ],
+            "content_type": [
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Cuál es el verdadero reto del trabajo de fuerza en el fútbol según Fran de Alba?",
+                "¿Qué propone el modelo de cuatro bases y sistema de cuadrantes?"
+            ],
+            "related_terms": [
+                "microciclos",
+                "metodología",
+                "fuerza",
+                "alto rendimiento"
+            ],
+            "relevance_score": 5,
+            "context_before": "Inicio del webinar.",
+            "context_after": "Presentación del perfil profesional de Fran de Alba y su experiencia en el alto rendimiento internacional."
+        },
+        {
+            "id": "F01-002",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "01:10",
+            "end_timestamp": "02:36",
+            "start_seconds": 70,
+            "end_seconds": 156,
+            "duration_seconds": 86,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=70",
+            "title": "Perfil y Experiencia Profesional de Fran de Alba",
+            "summary": "Fran de Alba detalla su trayectoria profesional multidisciplinar e internacional, habiendo trabajado en organizaciones como el Comité Olímpico Chino, la Selección Española de Voleibol, la NBA en Senegal, y el Real Madrid Castilla, adquiriendo certificaciones como CSCS y CPSS de Sport Science y máster en osteopatía.",
+            "literal_quote": "He podido trabajar en varias organizaciones, lo que me ha dado la capacidad y la posibilidad de ver trabajar a los mejores en este campo. Y además, no solo me he dedicado al fútbol, sino que he podido estar también en muchísimos deportes.",
+            "full_transcript": "Vamos a comenzar. De forma superbreve, les presento mi perfil profesional. He trabajado en diferentes organizaciones, como podéis ver ahí, en diferentes partes del mundo también. He tenido la suerte de estar en varios países: el Comité Olímpico Chino, con la Selección Española de Voleibol, he estado también en Senegal, en África, trabajando para un proyecto de la NBA, estuve en el Madrid Castilla. He podido trabajar en varias organizaciones, lo que me ha dado la capacidad y la posibilidad de ver trabajar a los mejores en este campo. Y además, no solo me he dedicado al fútbol, sino que he podido estar también en muchísimos deportes, como podéis ver ahí, algunos de ellos están presentes. Esto también me abre un poco el rango de posibilidades que se hace a nivel de preparación física, rendimiento y salud en todo. En cuanto a los roles, también decir que soy fisioterapeuta y preparador físico, que tengo el CSCS y el CPSS de Sport Science, me los saqué hace poquito, y también me saqué el máster de osteopatía. Por tanto, como he dicho antes, gracias a este rango de acción he podido observar muchas estrategias que me han dado un contexto para poder ahora explicar lo que explico en esta ponencia.",
+            "keywords": [
+                "perfil-profesional",
+                "preparador-fisico",
+                "fisioterapeuta",
+                "cscs",
+                "cpss",
+                "osteopatia",
+                "experiencia-internacional"
+            ],
+            "entities": [
+                "Comité Olímpico Chino",
+                "Selección Española de Voleibol",
+                "Senegal",
+                "NBA",
+                "Madrid Castilla",
+                "CSCS",
+                "CPSS",
+                "Fran de Alba"
+            ],
+            "topics": [
+                "Professional Experience"
+            ],
+            "content_type": [
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Qué certificaciones y formación posee Fran de Alba?",
+                "¿En qué clubes u organizaciones deportivas ha trabajado Fran de Alba?"
+            ],
+            "related_terms": [
+                "preparador físico",
+                "fisioterapeuta",
+                "sport science",
+                "alto rendimiento"
+            ],
+            "relevance_score": 4,
+            "context_before": "Introducción y propósito del modelo de cuatro bases y sistema de cuadrantes.",
+            "context_after": "Planteamiento del problema de la aplicación práctica de la fuerza en el fútbol."
+        },
+        {
+            "id": "F01-003",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "02:42",
+            "end_timestamp": "03:20",
+            "start_seconds": 162,
+            "end_seconds": 200,
+            "duration_seconds": 38,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=162",
+            "title": "Estructura e Índice de la Ponencia",
+            "summary": "Se describe el índice de la presentación, estructurado en tres bloques clave: planteamiento del problema, presentación detallada del modelo de cuatro bases y la integración práctica de todo el sistema en el día a día competitivo.",
+            "literal_quote": "Primero voy a plantear el problema: por qué, a pesar de toda la evidencia existente, sigue siendo tan difícil aplicar la fuerza de forma consistente en fútbol. Después presentaré el modelo de cuatro bases... Y por último, mostraré cómo integrar todo en la práctica.",
+            "full_transcript": "De forma muy breve, el índice está organizado en tres grandes bloques. Primero voy a plantear el problema: por qué, a pesar de toda la evidencia existente, sigue siendo tan difícil aplicar la fuerza de forma consistente en fútbol. Después presentaré el modelo de cuatro bases del que hablo en la ponencia, y cada una de esas cuatro bases la dividiré y tendrá su propio apartado. Y por último, mostraré cómo integrar todo en la práctica, que es lo que realmente nos concierne, que es lo realmente importante y donde hay que aterrizarlo todo.",
+            "keywords": [
+                "indice",
+                "estructura",
+                "ponencia",
+                "modelo-cuatro-bases",
+                "integracion-practica"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Cómo está estructurada la ponencia sobre el modelo de fuerza de Fran de Alba?",
+                "¿Cuáles son los tres bloques principales del índice?"
+            ],
+            "related_terms": [
+                "estructura",
+                "índice",
+                "integración",
+                "fuerza"
+            ],
+            "relevance_score": 3,
+            "context_before": "Presentación del perfil profesional del ponente.",
+            "context_after": "Análisis del problema principal: la paradoja de la fuerza en el fútbol de élite."
+        },
+        {
+            "id": "F01-004",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "03:21",
+            "end_timestamp": "06:16",
+            "start_seconds": 201,
+            "end_seconds": 376,
+            "duration_seconds": 175,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=201",
+            "title": "El Problema del Encaje y la Supervivencia Competitiva",
+            "summary": "Fran de Alba expone la paradoja del fútbol moderno: a pesar de contar con más tecnología y datos que nunca, existen barreras masivas como la congestión del calendario, viajes y falta de tiempo. Se plantea que el fútbol opera bajo un entorno de 'supervivencia competitiva' donde el problema no es el conocimiento sino el encaje.",
+            "literal_quote": "El problema no es la falta de conocimiento, el problema es la falta de encaje... Muchas veces no estamos trabajando en un entorno de desarrollo ideal, sino en un entorno de supervivencia competitiva.",
+            "full_transcript": "Siendo autocrítico, a mí me ha costado muchísimo poner en práctica conceptos, estrategias y metodologías en el pasado, y la idea es simple: ir encontrando tu manera de llevarlos al campo. Vamos a empezar por el principio, que es el problema. Quiero empezar por aquí porque este para mí es el punto central. Hoy prácticamente nadie discute la importancia de la fuerza en el rendimiento, en la disponibilidad y en la prevención. Todos entendemos que es una cosa fundamental el tema del trabajo de fuerza. El problema no está en convencer a la gente hoy en día... convivir con una paradoja. Por un lado, tenemos cada vez más herramientas, plataformas de fuerza, datos de carga externa e interna, los mejores gimnasios, los mejores dispositivos, mucha más información. Pero, por otro lado, seguimos teniendo las mismas barreras o incluso mayores, menos tiempo útil, más congestión competitiva, más viajes, más interrupciones del proceso y muchas veces ausencia de un sistema claro. El problema no es la falta de conocimiento, el problema es la falta de encaje. Esta diapositiva resume muy bien este contexto. Cuando hablamos de fútbol de élite, no hablamos solo de partidos... hablamos de congestión, de ventana FIFA, de viajes, de cambios horarios brutales y de acumulación de minutos en zonas críticas del calendario. Esto tiene una consecuencia directa. El margen para construir fuerza de manera ordenada, como hemos dicho antes, se reduce mucho. Muchas veces no estamos trabajando en un entorno de desarrollo ideal, sino en un entorno de supervivencia competitiva, como lo llamamos muchas veces. Esto es importante. Por eso la metodología de fuerza en fútbol no puede diseñarse como si el equipo tuviera siempre semanas limpias, descansadas y estables. Esto en otros deportes no pasa... En fútbol no es así. Tu calendario competitivo son 10 meses, 11 meses, dependiendo del jugador, y compites una, dos veces a la semana.",
+            "keywords": [
+                "paradoja",
+                "congestion-calendario",
+                "viajes",
+                "falta-de-tiempo",
+                "supervivencia-competitiva",
+                "falta-de-encaje",
+                "tecnologia"
+            ],
+            "entities": [
+                "FIFA"
+            ],
+            "topics": [
+                "Performance & Context",
+                "Metodología"
+            ],
+            "content_type": [
+                "Reflexión",
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Por qué existe una paradoja en el trabajo de fuerza en fútbol según de Alba?",
+                "¿Qué significa el término 'supervivencia competitiva' en el contexto del fútbol de élite?"
+            ],
+            "related_terms": [
+                "congestión competitiva",
+                "calendario",
+                "carga",
+                "desarrollo"
+            ],
+            "relevance_score": 5,
+            "context_before": "Índice de los temas que componen la ponencia.",
+            "context_after": "Análisis de estudios científicos y estadísticas sobre el tiempo disponible para el trabajo de fuerza."
+        },
+        {
+            "id": "F01-005",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "06:34",
+            "end_timestamp": "08:01",
+            "start_seconds": 394,
+            "end_seconds": 481,
+            "duration_seconds": 87,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=394",
+            "title": "Falta de Arquitectura Metodológica y Datos de la Literatura",
+            "summary": "Se presentan datos reveladores de la literatura de élite (encuestas en 52 y 77 clubes). El 38% no puede controlar la intensidad de las cargas, y la falta de tiempo es la principal barrera. La solución radica en crear una arquitectura metodológica que facilite decisiones rápidas y comunicación dentro del staff.",
+            "literal_quote": "La conclusión no es que falte intención, tampoco que falte evidencia. Lo que falta muchas veces es una arquitectura metodológica que permita decidir rápido, comunicar mejor dentro del staff y sostener la intervención semana tras semana.",
+            "full_transcript": "Para mí, esta idea cambia completamente la conversación, porque ya no se trata de preguntarnos cuál sería el mejor programa en las condiciones perfectas, sino más bien cuál es el mejor sistema posible dentro de las condiciones imperfectas, dentro del caos. Y por ahí vamos a ir. Esto no es solo una percepción práctica a nivel de estudios y demás, también aparece en la literatura a nivel de lo que se vive dentro del club. Aquí vemos tres datos que me parecen reveladores. El primero es que prácticamente todos los profesionales quieren incluir trabajo de fuerza en este cuestionario que se hizo en 52 clubes. Todo el mundo sabe que quiere meter fuerza, pero el tiempo y el calendario se lo impiden. En el otro estudio de González Badillo, 77 equipos de élite de España, aquí no solo mete fútbol, también mete otros deportes, y el 38 % no es capaz de controlar la intensidad de las cargas. No les da para eso, los mismos problemas que hemos dicho antes de tiempo, calendario y demás. El tercero es que aunque muchos clubes usan metodologías de fuerza, la barrera principal sigue siendo el tiempo disponible para hacerlo. Como veis, los números son altísimos. La conclusión no es que falte intención, tampoco que falte evidencia. Lo que falta muchas veces es una arquitectura metodológica que permita decidir rápido, comunicar mejor dentro del staff y sostener la intervención semana tras semana.",
+            "keywords": [
+                "arquitectura-metodologica",
+                "gonzalez-badillo",
+                "evidencia",
+                "control-de-intensidad",
+                "toma-de-decisiones",
+                "comunicacion",
+                "barreras"
+            ],
+            "entities": [
+                "González Badillo",
+                "España"
+            ],
+            "topics": [
+                "Performance & Context",
+                "Toma de Decisiones",
+                "Comunicación"
+            ],
+            "content_type": [
+                "Explicación",
+                "Reflexión"
+            ],
+            "search_questions": [
+                "¿Qué porcentaje de equipos de élite no controla la intensidad de las cargas según González Badillo?",
+                "¿Por qué es fundamental la arquitectura metodológica según Fran de Alba?"
+            ],
+            "related_terms": [
+                "intensidad",
+                "control de carga",
+                "staff",
+                "toma de decisiones"
+            ],
+            "relevance_score": 5,
+            "context_before": "Análisis del problema de la supervivencia competitiva en condiciones imperfectas.",
+            "context_after": "Introducción al modelo de las cuatro bases como solución estructural."
+        },
+        {
+            "id": "F01-006",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "08:03",
+            "end_timestamp": "09:52",
+            "start_seconds": 483,
+            "end_seconds": 592,
+            "duration_seconds": 109,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=483",
+            "title": "Las Cuatro Bases del Modelo (La Molécula del ADN)",
+            "summary": "Fran de Alba introduce la analogía del ADN para representar las cuatro bases de su modelo de fuerza: Contextualización, Especificidad deportiva, Sistema estandarizado e Individualización. Plantea que si falla o falta una de estas bases, el modelo completo se cae.",
+            "literal_quote": "Para mí hay cuatro bases claras en una metodología de fuerza que se puede adaptar al fútbol... puedes tener el mejor sistema de fuerza del mundo, pero si nunca vas a individualizar en un deporte como el fútbol, con tantas posiciones distintas... el método o el modelo se cae.",
+            "full_transcript": "La solución que propongo se apoya en cuatro bases. Aquí podéis ver una molécula de ADN. Lo pensamos así por estas cuatro bases que forman la molécula y sin una de las bases no se podría dar la molécula de ADN, como todos sabemos. Para mí hay cuatro bases claras en una metodología de fuerza que se puede adaptar al fútbol. Y estas son las cuatro que nos podemos encontrar. Una primera, que es la contextualización, y ahora vamos a aplicar una por una bien. Una segunda, que se va hacia la especificidad del deporte. Hay que investigar el deporte, entender los patrones de movimiento, los patrones motores de ese deporte, entender todo lo que envuelve a la biomecánica del deporte. La tercera es tener un sistema claro, y aquí es donde nos vamos a parar profundamente, porque creo que es bastante interesante. Y por último, cómo hacemos para, sabiendo que un equipo tiene 26, 30 jugadores, 20 jugadores, no todos necesitan el mismo tipo de trabajo. Esto lo veremos en más profundidad más adelante, pero tú puedes haber diseñado todo para tu contexto de forma perfecta, puedes haber estudiado la biomecánica y tener claros los patrones y cómo trabajarlos, puedes tener el mejor sistema de fuerza del mundo, pero si nunca vas a individualizar en un deporte como el fútbol, con tantas posiciones distintas, con tantos momentos de la temporada, con tantas fisonomías de los jugadores, cómo se mueven, cómo son, el método o el modelo se cae. Teniendo en cuenta esto, vamos a profundizar en cada uno de los niveles.",
+            "keywords": [
+                "cuatro-bases",
+                "molecula-adn",
+                "contextualizacion",
+                "especificidad",
+                "sistema-claro",
+                "individualizacion"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Framework"
+            ],
+            "search_questions": [
+                "¿Cuáles son las cuatro bases del modelo metodológico de fuerza propuesto por Fran de Alba?",
+                "¿Por qué utiliza la analogía del ADN para describir su modelo de fuerza?"
+            ],
+            "related_terms": [
+                "especificidad",
+                "individualización",
+                "sistema",
+                "contexto"
+            ],
+            "relevance_score": 5,
+            "context_before": "Conclusiones sobre la falta de arquitectura metodológica en los clubes.",
+            "context_after": "Análisis profundo de la primera base del modelo: la contextualización."
+        },
+        {
+            "id": "F01-007",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "09:53",
+            "end_timestamp": "11:28",
+            "start_seconds": 593,
+            "end_seconds": 688,
+            "duration_seconds": 95,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=593",
+            "title": "Base 1: Contextualización del Sistema y Entorno",
+            "summary": "La primera base exige comprender el entorno específico (tiempo, material, calendario, cuerpo técnico, etc.) antes de prescribir entrenamientos. Destaca la necesidad de que las propuestas metodológicas encajen con los recursos reales y cuenten con el consenso del cuerpo técnico para no fracasar.",
+            "literal_quote": "Antes de pensar en ejercicios, en series, en repeticiones, en tecnologías, en evaluaciones, hay que entender el sistema donde vamos a intervenir... No es un paso previo menor, es una condición metodológica clave.",
+            "full_transcript": "La primera base es la contextualización. Para mí, aquí empieza realmente todo. Esto se entiende ya cuando has estado en varios equipos, que cada uno funciona de una manera diferente y aunque parezca desde fuera siempre lo mismo, hay muchísimos engranajes que cambian todo. Y si uno no funciona, ya todo se va por el retrete, empieza a no funcionar todo el sistema. Entonces, antes de pensar en ejercicios, en series, en repeticiones, en tecnologías, en evaluaciones, hay que entender el sistema donde vamos a intervenir. Y ese contexto incluye el tiempo, el material, el tiempo de competición, el club, el cuerpo técnico, todos los que pongo ahí. En este sentido, en fútbol, puede ser esto, pero en cada deporte tienes que encontrar los que correspondan. Esto parece obvio, pero muchas veces se ignora. Diseñamos propuestas excelentes en el papel que luego no caben realmente en la realidad de tu contexto individual. O proponemos una organización del trabajo que exige más recursos, más coordinación o más tiempo del que realmente existe, o a lo mejor tu staff no está de acuerdo con lo que tú estás proponiendo y por mucho que tú lo estés defendiendo, intentando aplicar, no se va a dar porque el resto del staff no quiere o porque el cuerpo técnico no quiere. Entonces, tienes que adaptar todo a tu contexto. No es un paso previo menor, es una condición metodológica clave. Seguimos.",
+            "keywords": [
+                "contextualizacion",
+                "entorno",
+                "cuerpo-tecnico",
+                "engranajes",
+                "recursos",
+                "condicion-metodologica"
+            ],
+            "entities": [],
+            "topics": [
+                "Performance & Context",
+                "Staff Management"
+            ],
+            "content_type": [
+                "Explicación",
+                "Reflexión"
+            ],
+            "search_questions": [
+                "¿Por qué la contextualización es una condición metodológica clave según Fran de Alba?",
+                "¿Qué factores componen el contexto que se debe analizar antes de programar?"
+            ],
+            "related_terms": [
+                "entorno",
+                "recursos",
+                "staff técnico",
+                "coordinación"
+            ],
+            "relevance_score": 4,
+            "context_before": "Presentación general de las cuatro bases del modelo (molécula de ADN).",
+            "context_after": "Definición de los tres escenarios prácticos dentro del contexto de entrenamiento."
+        },
+        {
+            "id": "F01-008",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "11:30",
+            "end_timestamp": "12:52",
+            "start_seconds": 690,
+            "end_seconds": 772,
+            "duration_seconds": 82,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=690",
+            "title": "Escenarios de Entrenamiento: Precancha, Postcancha y Sin Cancha",
+            "summary": "Se identifican tres escenarios contextuales del trabajo de fuerza en relación a la práctica de campo: precancha, postcancha y sin cancha. Estas dinámicas permiten flexibilizar la aplicación del modelo, adaptándolo a las exigencias diarias y necesidades del grupo o de forma individual.",
+            "literal_quote": "Aquí planteo tres escenarios básicos que entran dentro de nuestro contexto: precancha, postcancha y sin cancha... si no entendemos que hay que tener flexibilidad para nuestro contexto... no nos va a funcionar nuestro modelo.",
+            "full_transcript": "Una vez entendido el contexto, el siguiente paso es reconocer algo muy importante: la fuerza no siempre entra en el mismo lugar cada día. Aquí planteo tres escenarios básicos que entran dentro de nuestro contexto: precancha, postcancha y sin cancha. Trabajos de fuerza que se realizan antes de hacer la sesión de campo, después de hacerla o sin hacerla. Como veis, hay tres escenarios, nueve dinámicas iniciales, es decir, puede haber precancha, una fuerza grupal, un trabajo individual o las dos cosas, y así con cada uno de los escenarios. Pero la realidad es esta. Infinitas dinámicas posibles he podido percibir, por lo menos en los equipos de fútbol, pero también en otros deportes. Puede haber una sesión pre cancha de fuerza grupal, pero que sea de cuadrante uno o de cuadrante dos. Ahora veremos más adelante los cuadrantes, que son los tipos de sesión que vamos a tener. Dentro de la fuerza grupal ya tenemos cuatro tipos de posibilidades. Después tenemos el trabajo individual, otros cuatro tipos de posibilidades y así con cada uno. Entonces, hay que adaptarse. Y esto entra en el contexto, porque si no entendemos que hay que tener flexibilidad para nuestro contexto, no solo del equipo, sino en nuestro contexto diario, no nos va a funcionar nuestro modelo.",
+            "keywords": [
+                "precancha",
+                "postcancha",
+                "sin-cancha",
+                "escenarios-de-fuerza",
+                "flexibilidad",
+                "fuerza-grupal",
+                "trabajo-individual"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Metodología",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cuáles son los tres escenarios básicos en los que se organiza el trabajo de fuerza?",
+                "¿Por qué es vital la flexibilidad diaria en la programación de fuerza?"
+            ],
+            "related_terms": [
+                "pre-cancha",
+                "post-cancha",
+                "fuerza grupal",
+                "individual"
+            ],
+            "relevance_score": 4,
+            "context_before": "Análisis de la base de contextualización.",
+            "context_after": "Análisis de la base 2: Especificidad deportiva y los 7 grandes patrones del fútbol."
+        },
+        {
+            "id": "F01-009",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "12:54",
+            "end_timestamp": "14:08",
+            "start_seconds": 774,
+            "end_seconds": 848,
+            "duration_seconds": 74,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=774",
+            "title": "Base 2: Especificidad Deportiva y los Siete Patrones del Fútbol",
+            "summary": "La segunda base es la especificidad del deporte. El trabajo de fuerza debe alinearse con siete grandes patrones biomecánicos del fútbol: aceleración, desaceleración, cambio de dirección, salto, lucha, carrera y golpeo. Especificidad no significa imitar o 'disfrazar' gestos en el gimnasio, sino transferir capacidades reales.",
+            "literal_quote": "La especificidad no es disfrazar ejercicios del fútbol, es construir capacidades que luego tengan transferencia sobre patrones relevantes de rendimiento.",
+            "full_transcript": "El segundo punto, la segunda base de nuestra molécula de ADN, de nuestro modelo, es la especificidad deportiva. Aquí la idea es que la fuerza debe dialogar con los grandes patrones físicos del fútbol, que para mí, después de haberlo estudiado y entendido un poco, serían estos siete que ven aquí: aceleración, desaceleración, cambio de dirección, salto, lucha, carrera y golpeo. Esto no significa que todo deba ser específico en apariencia dentro de las sesiones de fuerza. No significa copiar el juego, que muchas veces caemos en ese error dentro del gimnasio. Significa que el contenido debe tener una dirección clara hacia las demandas reales que luego aparecen en el campo. Es decir, la especificidad no es disfrazar ejercicios del fútbol, es construir capacidades que luego tengan transferencia sobre patrones relevantes de rendimiento. Es muy importante entender la especificidad deportiva, porque habrá días, y ya lo veremos más adelante en la presentación, que quieras trabajar la desaceleración y la lucha con tus ejercicios, pero no te conviene trabajar todos los patrones o solamente un patrón durante toda la semana, todo el microciclo. Ahora lo veremos más adelante.",
+            "keywords": [
+                "especificidad-deportiva",
+                "patrones-de-movimiento",
+                "aceleracion",
+                "desaceleracion",
+                "cambio-de-dirección",
+                "salto",
+                "lucha",
+                "carrera",
+                "golpeo",
+                "transferencia"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Metodología"
+            ],
+            "search_questions": [
+                "¿Cuáles son los siete patrones de movimiento biomecánico dominantes en fútbol según de Alba?",
+                "¿Qué error advierte Fran de Alba sobre la especificidad en el gimnasio?"
+            ],
+            "related_terms": [
+                "biomecánica",
+                "transferencia",
+                "patrones de movimiento",
+                "rendimiento"
+            ],
+            "relevance_score": 5,
+            "context_before": "Explicación de las dinámicas en los escenarios de entrenamiento (pre/post/sin cancha).",
+            "context_after": "Análisis de la base 3: El sistema estandarizado y los cuadrantes de fuerza."
+        },
+        {
+            "id": "F01-010",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "14:12",
+            "end_timestamp": "16:17",
+            "start_seconds": 852,
+            "end_seconds": 977,
+            "duration_seconds": 125,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=852",
+            "title": "Base 3: Sistema Estandarizado - El Sistema de Cuadrantes",
+            "summary": "Fran de Alba introduce el sistema de cuadrantes adaptado del modelo de Daniel Bove en la NBA. Se dividen las sesiones de fuerza según los objetivos de volumen, intensidad e impacto fisiológico: Cuadrante 1 (Recuperación), Cuadrante 2 (Remodelación tisular por TUT), Cuadrante 3 (Estimulación/Rendimiento) y Cuadrante 4 (Fuerza Máxima).",
+            "literal_quote": "Básicamente, en este sistema de cuadrantes vamos a tener sesiones de fuerza que sean de cuadrante uno... recuperación... cuadrante dos... remodelación tisular... cuadrante cuatro... estímulo real de fuerza... cuadrante tres... estimular, mejorar el rendimiento.",
+            "full_transcript": "La tercera, y esta posiblemente es donde nos vamos a detener más tiempo, es el tema del sistema estandarizado. Aquí aparece el sistema de cuadrantes. Esto es una adaptación que yo he hecho de cuando estuve en NBA. Pude trasladar este sistema de cuadrantes, el que tiene Daniel Bove, que trabaja en NBA con estos cuadrantes, dentro de un sistema competitivo como el de NBA. Vi que era parecido en cuanto al número de partidos durante el año y entonces dije: «En fútbol podemos intentar hacer algo parecido». Es muy sencillo de entender, tanto para nosotros como para cuerpo técnico, staff y los jugadores, y se puede aplicar muy bien. Básicamente, en este sistema de cuadrantes vamos a tener sesiones de fuerza que sean de cuadrante uno. Este cuadrante uno se basa en la recuperación. Sabiendo que todo esto es sesión de microdosis en general, que tú estés en un día pospartido no significa que no puedas hacer fuerza o una sesión de fuerza. Puedes hacer una sesión de fuerza de baja intensidad y de bajo volumen. Entonces, tendrás una sesión de cuadrante uno en el que el objetivo real sea la recuperación, la regeneración tisular. También habrá sesiones de menos intensidad, de poca intensidad, pero mucho volumen, donde quieras maximizar el trabajo muscular en el tiempo total bajo tensión, porque sabemos que esto provoca unas adaptaciones que pueden ser positivas. Aquí buscamos la remodelación tisular. También tendremos sesiones, sobre todo en los días menos cuatro, menos tres, ya lo veremos más adelante, en los que queremos un estímulo real de fuerza, que son sesiones muy altas de volumen y muy altas de intensidad. Y por último, sesiones de cuadrante tres, en las que hay mucha intensidad, pero el volumen baja. ¿Por qué? Porque ya nos encontramos cerca del día de competición, en el menos uno o en el día de partido, y queremos estimular, mejorar el rendimiento. Y ahí podríamos utilizar las sesiones de cuadrante tres.",
+            "keywords": [
+                "sistema-de-cuadrantes",
+                "daniel-bove",
+                "nba",
+                "cuadrante-1",
+                "cuadrante-2",
+                "cuadrante-3",
+                "cuadrante-4",
+                "microdosis",
+                "recuperacion",
+                "estimulo"
+            ],
+            "entities": [
+                "Daniel Bove",
+                "NBA"
+            ],
+            "topics": [
+                "Metodología",
+                "Control de Carga"
+            ],
+            "content_type": [
+                "Framework",
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿En qué consiste el sistema de cuadrantes de fuerza de Fran de Alba y de dónde procede?",
+                "¿Cómo se definen fisiológicamente los cuadrantes 1, 2, 3 y 4?"
+            ],
+            "related_terms": [
+                "remodelación tisular",
+                "recuperación",
+                "microdosis",
+                "tiempo bajo tensión"
+            ],
+            "relevance_score": 5,
+            "context_before": "Explicación de la especificidad deportiva y de los patrones motores.",
+            "context_after": "Fin del primer fragmento. Continuación en WEBVTT-2 con la base 4 (Individualización) y la toma de decisiones."
+        }
+    ]
+}

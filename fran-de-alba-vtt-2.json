@@ -1,0 +1,514 @@
+{
+    "video": {
+        "video_id": "F02",
+        "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+        "speaker": "Fran de Alba",
+        "total_duration": "00:15:10",
+        "total_duration_seconds": 910,
+        "source_file": "WEBVTT-2.vtt",
+        "language": "es"
+    },
+    "segments": [
+        {
+            "id": "F02-001",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "00:01",
+            "end_timestamp": "01:41",
+            "start_seconds": 1,
+            "end_seconds": 101,
+            "duration_seconds": 100,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+            "title": "Base 4: Individualización y los Cuatro Perfiles Físicos",
+            "summary": "Fran de Alba expone la cuarta base de su modelo: la individualización. Aclara que no consiste en hacer entrenamientos completamente distintos para cada jugador (lo cual es insostenible en el fútbol), sino en dar pinceladas individuales basadas en cuatro grandes perfiles: contráctil, elástico, reactivo y completo.",
+            "literal_quote": "Individualizar no significa hacer algo completamente distinto para cada jugador... significa dar a cada jugador lo que más necesita dentro de un marco común... he propuesto en mi equipo actual cuatro grandes perfiles: el contráctil, el elástico, el reactivo y el completo.",
+            "full_transcript": "Aquí me interesa aclarar algo desde el principio. Individualizar no significa hacer algo completamente distinto para cada jugador. Lo veremos más adelante, pero en muchos contextos esto no es ni realista ni sostenible. Se da mucho en el deporte de élite, en el día a día. Para mí, individualizar significa dar a cada jugador lo que más necesita dentro de un marco común. Eso es importante entenderlo. El jugador sigue haciendo las tareas generales del marco común del equipo, pero con ciertas pinceladas en base a lo que necesita. En este caso, he propuesto en mi equipo actual cuatro grandes perfiles: el contráctil, el elástico, el reactivo y el completo. El perfil contráctil destaca en producción de fuerza y de impulso. El elástico tiene más eficiencia en acciones apoyadas de un ciclo de estiramiento-acortamiento de mayor duración. Por tanto, estaría asociado con un canguro. El reactivo, la serpiente, destaca en la capacidad de aplicar fuerza en tiempos de contacto muy cortos. Y el completo representa el desarrollo más equilibrado en las distintas expresiones. Estoy seguro de que a muchos se os vienen a la cabeza tipos de jugadores de fútbol y de algunos otros deportes que se pueden asociar a estos perfiles. Un perfil contráctil sería el típico central fuerte, que le gusta el contacto, que se maneja bien en ese tipo de situaciones, y así con cada uno de los perfiles. La idea es agrupar a los jugadores dentro de un perfil individual, pero que se asemeja o se asocia con su expresión de la fuerza en diferentes ámbitos. Pasamos aquí",
+            "keywords": [
+                "individualizacion",
+                "perfil-contractil",
+                "perfil-elastico",
+                "perfil-reactivo",
+                "perfil-completo",
+                "marco-comun",
+                "fuerza"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Framework",
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Qué significa la individualización para Fran de Alba?",
+                "¿Cuáles son los cuatro perfiles de fuerza que propone el modelo?"
+            ],
+            "related_terms": [
+                "ciclo de estiramiento acortamiento",
+                "serpiente",
+                "canguro",
+                "fuerza de impulso"
+            ],
+            "relevance_score": 5,
+            "context_before": "Inicio de la segunda parte. Continuación desde el sistema de cuadrantes.",
+            "context_after": "Evaluación objetiva de los perfiles utilizando plataformas de fuerza."
+        },
+        {
+            "id": "F02-002",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "01:50",
+            "end_timestamp": "02:53",
+            "start_seconds": 110,
+            "end_seconds": 173,
+            "duration_seconds": 63,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=110",
+            "title": "Evaluación del Perfil con Plataformas de Fuerza",
+            "summary": "Se detalla cómo se diagnostica a los jugadores mediante el uso de plataformas de fuerza en test específicos como el CMJ y el test de contracción isométrica máxima con Isobelt. Esto genera un radar con seis métricas para encuadrar al deportista dentro de un perfil objetivo.",
+            "literal_quote": "Mediante varios tests, en este caso el test de CMJ y el test de Isobelt, de contracción máxima isométrica con el Isobelt, los dos con plataformas de fuerza, hemos decidido que esas seis métricas están asociadas a ciertos perfiles.",
+            "full_transcript": "a un ejemplo concreto. Se trata de un perfil claramente contráctil dominante. Aquí en el radar podéis ver seis métricas específicas, que mediante varios tests, en este caso el test de CMJ y el test de Isobelt, de contracción máxima isométrica con el Isobelt, los dos con plataformas de fuerza, hemos decidido que esas seis métricas están asociadas a ciertos perfiles. Las dos métricas rojas, el peak force y el concentric impulse, se asociarían más al perfil reactivo, y así con cada uno de los pares de métricas. En este caso, claramente estamos refiriendo a un perfil contráctil, porque tras la evaluación de expresión de la fuerza, hemos visto que se va claramente hacia las dos métricas que tenemos dentro de ese perfil. Lo que me interesa de este tipo de sistema no es solo el diagnóstico, es la",
+            "keywords": [
+                "plataformas-de-fuerza",
+                "cmj",
+                "isobelt",
+                "isometrico",
+                "mando-de-carga",
+                "diagnostico",
+                "radar"
+            ],
+            "entities": [
+                "CMJ",
+                "Isobelt"
+            ],
+            "topics": [
+                "Evaluación",
+                "Análisis de Datos"
+            ],
+            "content_type": [
+                "Herramienta",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Qué test utiliza Fran de Alba para perfilar la fuerza de los futbolistas?",
+                "¿Cómo se asocian las métricas de las plataformas de fuerza a los perfiles de los jugadores?"
+            ],
+            "related_terms": [
+                "fuerza máxima isométrica",
+                "impulso concéntrico",
+                "pico de fuerza",
+                "perfil neuromuscular"
+            ],
+            "relevance_score": 5,
+            "context_before": "Presentación de los cuatro grandes perfiles biomecánicos.",
+            "context_after": "Toma de decisiones prácticas a partir del diagnóstico del perfil individual."
+        },
+        {
+            "id": "F02-003",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "03:19",
+            "end_timestamp": "04:39",
+            "start_seconds": 199,
+            "end_seconds": 279,
+            "duration_seconds": 80,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=199",
+            "title": "Toma de Decisiones basada en el Perfil",
+            "summary": "El diagnóstico neuromuscular debe traducirse en decisiones de entrenamiento. El objetivo no es alterar la identidad física del jugador, sino preservar sus fortalezas dominantes (ej. fuerza contráctil) y complementar de manera dosificada sus áreas de oportunidad (ej. reactividad), respetando variables individuales como la edad.",
+            "literal_quote": "No queremos cambiar la identidad física del jugador... queremos preservar esa fortaleza contráctil. Pero al mismo tiempo, sí podría ser interesante introducir de forma dosificada estímulos que mejoren su perfil reactivo... decidir realmente qué mantener, qué potenciar y qué compensar.",
+            "full_transcript": "sobre todo, tiene que llevar a decisiones, y eso es lo más complicado. En este caso, la interpretación sería que no queremos cambiar la identidad física del jugador. No queremos quitarle lo que le hace fuerte, lo que le ha hecho ser el jugador que es. Al contrario, queremos preservar esa fortaleza contráctil. Pero al mismo tiempo, sí podría ser interesante introducir de forma dosificada estímulos que mejoren su perfil reactivo, que como vemos, está en un percentil muy bajo. Nos interesaría, en este caso, mejorar el perfil reactivo. Puede que haya casos de futbolistas con 34 años que están en etapa final de su carrera, que han sido contráctiles toda su vida, y ahí no queremos meterle mano al tema del perfil reactivo, porque ya no vamos a generar un cambio en su forma de expresar la fuerza. Pero cada caso es diferente y ahí está el tema de la individualización. Individualizar no es perseguir simetrías ideales ni perfiles perfectos, por tanto. Es decidir realmente qué mantener, qué potenciar y qué compensar en función del jugador y del contexto.",
+            "keywords": [
+                "toma-de-decisiones",
+                "identidad-física",
+                "compensar",
+                "potenciar",
+                "edad",
+                "individualizacion"
+            ],
+            "entities": [],
+            "topics": [
+                "Toma de Decisiones",
+                "Metodología"
+            ],
+            "content_type": [
+                "Reflexión",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Por qué de Alba argumenta que no hay que buscar simetrías ideales en los perfiles?",
+                "¿Cómo influye la edad del futbolista (ej. 34 años) en la toma de decisiones sobre su perfil de fuerza?"
+            ],
+            "related_terms": [
+                "identidad física",
+                "compensación",
+                "perfil reactivo",
+                "veteranos"
+            ],
+            "relevance_score": 5,
+            "context_before": "Análisis y diagnóstico mediante las plataformas de fuerza.",
+            "context_after": "Integración del modelo completo en el microciclo semanal competitivo."
+        },
+        {
+            "id": "F02-004",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "04:41",
+            "end_timestamp": "05:36",
+            "start_seconds": 281,
+            "end_seconds": 336,
+            "duration_seconds": 55,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=281",
+            "title": "El Microciclo como Validador de la Metodología",
+            "summary": "Fran de Alba sostiene que un modelo teórico de preparación física solo tiene valor real si es aplicable y se puede encajar eficazmente dentro de la estructura de la semana competitiva (el microciclo de fútbol), respetando el calendario y la carga global.",
+            "literal_quote": "Un modelo solo tiene valor si cabe en la realidad. Y en la élite, esta realidad, por lo menos en el fútbol, se llama microciclo. Por eso, la verdadera calidad de una metodología no se mide solo por su lógica teórica... sino por su capacidad para integrarse en una semana competitiva.",
+            "full_transcript": "Esta diapositiva resume la idea central de toda la presentación. Un modelo solo tiene valor si cabe en la realidad. Esto lo hemos visto antes. Y en la élite, esta realidad, por lo menos en el fútbol, se llama microciclo. Por eso, la verdadera calidad de una metodología no se mide solo por su lógica teórica y por lo bonita que luce, sino por su capacidad para integrarse en una semana competitiva como las de fútbol, respetando el contexto, la carga global y sobre todo las necesidades de cada jugador. Dicho de otra manera, el modelo no termina en la evaluación ni en el diseño de contenidos. El modelo se valida cuando entra de verdad en el calendario. Y por tanto, esta integración de las cuatro bases es lo que va a crear la molécula de ADN y, por tanto, el modelo de cuatro bases del que hablamos cobrará sentido y tendrá funcionamiento.",
+            "keywords": [
+                "microciclo",
+                "semana-competitiva",
+                "lógica-teórica",
+                "calendario",
+                "integracion",
+                "carga-global"
+            ],
+            "entities": [],
+            "topics": [
+                "Performance & Context",
+                "Metodología"
+            ],
+            "content_type": [
+                "Reflexión"
+            ],
+            "search_questions": [
+                "¿Dónde y cómo se valida la calidad de una metodología de preparación física en fútbol?",
+                "¿Qué papel juega el microciclo en el modelo de cuatro bases?"
+            ],
+            "related_terms": [
+                "calendario",
+                "microciclo competitivo",
+                "lógica teórica",
+                "validación"
+            ],
+            "relevance_score": 4,
+            "context_before": "Toma de decisiones individualizada según el perfil del jugador.",
+            "context_after": "Lógica de la integración de las bases y el cruce de planos."
+        },
+        {
+            "id": "F02-005",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "05:39",
+            "end_timestamp": "06:46",
+            "start_seconds": 339,
+            "end_seconds": 406,
+            "duration_seconds": 67,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=339",
+            "title": "La Lógica de Integración Cruzada de las Cuatro Bases",
+            "summary": "Se presenta la lógica de integración, explicando que el contexto, el sistema estandarizado, los patrones específicos de movimiento y la individualización son planos que se cruzan e interactúan constantemente en un único engranaje operativo.",
+            "literal_quote": "No son cuatro capas aisladas, son cuatro planos que se cruzan constantemente. El contexto condiciona qué puedo hacer. El sistema me da orden y lenguaje... Unirlo todo.",
+            "full_transcript": "Aquí vemos la lógica de integración. No son cuatro capas aisladas, son cuatro planos que se cruzan constantemente. El contexto condiciona qué puedo hacer. El sistema me da orden y lenguaje. Yo puedo ir generando metodologías o estrategias que entren dentro de mi contexto, y eso lo hago bien. Y hago bien también que tenga un sistema, o que tenga en cuenta los patrones, la especificidad deportiva. Pero me falta algo. En este caso, Unirlo todo. Ya tengo en el plano central un sistema que tiene el contexto, los patrones y... funcionando nuestro modelo de sistema de trabajo de fuerza.",
+            "keywords": [
+                "lógica-de-integración",
+                "planos-cruzados",
+                "orden",
+                "lenguaje",
+                "engranaje"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Framework",
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Por qué de Alba afirma que las cuatro bases no son capas aisladas?",
+                "¿Cómo condicionan el contexto y el sistema al entrenamiento final?"
+            ],
+            "related_terms": [
+                "engranaje",
+                "capas aisladas",
+                "cruce de planos",
+                "sistematización"
+            ],
+            "relevance_score": 5,
+            "context_before": "El microciclo como elemento clave para validar la metodología de fuerza.",
+            "context_after": "Ejemplo práctico de distribución de carga en un microciclo de siete días."
+        },
+        {
+            "id": "F02-006",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "06:47",
+            "end_timestamp": "08:41",
+            "start_seconds": 407,
+            "end_seconds": 521,
+            "duration_seconds": 114,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=407",
+            "title": "Distribución del Sistema de Cuadrantes en el Microciclo de 7 Días",
+            "summary": "Se expone un ejemplo de microciclo de 7 días orientado al desarrollo y construcción del atleta, detallando la asignación de cuadrantes según el día de partido (Match Day - MD): MD+1 (Q1 para los que jugaron, Q3 para los que compensan), MD+2 (Q1 de recuperación general), MD-4 (Q4 de alta fuerza), MD-3 (Q4 de alta fuerza), MD-2 (Q2 de remodelación/TUT) y MD-1 (Q3 de priming neuro).",
+            "literal_quote": "Este sería un ejemplo de microciclo de siete días orientado a la construcción. ¿Por qué? Porque en fútbol, si tienes siete días, tú puedes realmente construir al atleta... En el más uno, me cabe un cuadrante uno o un cuadrante tres... En el más dos... todo el mundo va a recuperar... menos cuatro y en el menos tres con un cuadrante cuatro... En menos dos, un cuadrante dos, y en el menos uno, un cuadrante tres.",
+            "full_transcript": "Este sería un ejemplo de microciclo de siete días orientado a la construcción. ¿Por qué? Porque en fútbol, si tienes siete días, tú puedes realmente construir al atleta, te da tiempo de construir a tu atleta, tu jugador, hasta el siguiente partido. Como veis ahí, el MD significa matchday, el día de partido, y tenemos un matchday más uno, el siguiente día, el más dos, y ya empezamos en el menos cuatro, menos tres, menos dos, menos uno y el siguiente partido. Ahí tenemos un buen microciclo para trabajar con el atleta, pero también tendremos microciclos, lo veremos después, que sean de menos días, en los que da tiempo de ver menos cosas y de hacer menos cosas, y a lo mejor ya no estamos construyendo al jugador, estamos optimizando su rendimiento, estamos recuperando. Eso va a depender del tipo de contexto. Y por eso aquí tenemos, en la parte superior izquierda, las dos piezas unidas, la de contexto y el sistema de cuadrantes. Como veis ahí, en el más uno, me cabe un cuadrante uno o un cuadrante tres, según si ha jugado el partido o si está compensando. No jugó el partido el jugador y puede hacer un cuadrante tres. En el más dos, que sabemos que es el día que más se da el tema de las reacciones inflamatorias, que el jugador está más cansado a nivel anímico también, todo el mundo va a recuperar. ¿Para qué? Para meternos en el menos cuatro y en el menos tres con un cuadrante cuatro. Cuadrante cuatro en el menos cuatro y otro en el menos tres. Y ahora veremos cómo podemos hacerlo para que no genere una fatiga total. En menos dos, un cuadrante dos, y en el menos uno, un cuadrante tres. De esta forma, ya tengo mi sistema trabajando perfectamente durante la semana, dependiendo del contexto, dependiendo del tipo de día y dependiendo de lo que se hace en la cancha.",
+            "keywords": [
+                "microciclo-7-dias",
+                "construccion-del-atleta",
+                "matchday",
+                "distribucion-de-cuadrantes",
+                "cuadrante-1",
+                "cuadrante-2",
+                "cuadrante-3",
+                "cuadrante-4",
+                "fatiga-acumulada"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Metodología"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo se distribuyen los cuadrantes de fuerza en un microciclo de 7 días?",
+                "¿Por qué el día MD+2 se destina íntegramente al Cuadrante 1?"
+            ],
+            "related_terms": [
+                "reacciones inflamatorias",
+                "compensación",
+                "estimulación",
+                "volumen e intensidad"
+            ],
+            "relevance_score": 5,
+            "context_before": "La lógica de integración cruzada de las cuatro bases del modelo.",
+            "context_after": "Cofacilitación de cargas entre el trabajo de gimnasio y las dinámicas técnico-tácticas de campo."
+        },
+        {
+            "id": "F02-007",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "08:42",
+            "end_timestamp": "10:14",
+            "start_seconds": 522,
+            "end_seconds": 614,
+            "duration_seconds": 92,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=522",
+            "title": "Emparejamiento de Cargas entre Gimnasio y Campo",
+            "summary": "Para evitar incoherencias y sobrefatiga, el trabajo de gimnasio debe 'empatar' sus intensidades y orientaciones con lo que se realiza en cancha. Por ejemplo, si en MD-4 el entrenador hace espacios reducidos (alta carga mecánica), se programa un cuadrante cuatro coherente, en lugar de un día contradictorio de recuperación.",
+            "literal_quote": "Queremos empatar las cargas para que haya días de descarga absoluta, como el más dos... Y al día siguiente ya puedo subir todo con el cuadrante cuatro... si no sé que mi entrenador en el menos cuatro hace espacio reducido y justo ese día yo propongo un cuadrante uno... ahí estamos rompiendo un poco el microciclo.",
+            "full_transcript": "Por ejemplo, como veis ahí, en el menos cuatro, se hace espacio reducido y posesión, normalmente con un cierto entrenador. Ahí voy a hacer un cuadrante cuatro que se asocie a eso que estamos hablando. En el menos uno, como dijimos antes, vamos a hacer un cuadrante tres que estimule el sistema nervioso, que quiere mucha intensidad, pero poca fatiga para que lleguen bien al partido. Ahí se asocia lo que hacen en cancha, espacio reducido, evoluciones, partidos pequeños. Y todo esto, al final, lo que hace es unir mi sistema con el contexto. ¿Qué quiere decir esto? Que a lo mejor tengo un sistema perfecto o que me funciona bien, porque el sistema perfecto no existe, como el sistema de los cuadrantes, que es un sistema que me podría funcionar bien. Pero si no sé que mi entrenador en el menos cuatro hace espacio reducido y justo ese día yo propongo un cuadrante uno de recuperación, porque el día en cancha ha sido de muy alta carga, ahí estamos rompiendo un poco el microciclo, porque van a tener días muy altos de carga en cancha y muy bajos en el gimnasio. Y esto nunca lo queremos. Queremos empatar las cargas para que haya días de descarga absoluta, como el más dos, que hay o no hay entrenamiento en cancha o hay regenerativo en cancha. Esto lo asocio con un cuadrante uno. Entonces, al jugador le da tiempo de adquirir los estímulos necesarios de esa recuperación durante el día. Y al día siguiente ya puedo subir todo con el cuadrante cuatro.",
+            "keywords": [
+                "emparejar-cargas",
+                "espacio-reducido",
+                "gimnasio-y-campo",
+                "descarga-absoluta",
+                "coherencia-metodologica",
+                "estimulo"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Metodología"
+            ],
+            "content_type": [
+                "Reflexión",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Por qué es fundamental coordinar los contenidos de campo con los cuadrantes del gimnasio?",
+                "¿Qué ocurre si el gimnasio y el campo no están alineados en cargas en un día MD-4?"
+            ],
+            "related_terms": [
+                "descarga",
+                "fatiga muscular",
+                "microciclo integrado",
+                "espacio reducido"
+            ],
+            "relevance_score": 5,
+            "context_before": "Distribución del sistema de cuadrantes en un microciclo clásico de siete días.",
+            "context_after": "Análisis del microciclo reducido de cuatro días en calendarios saturados."
+        },
+        {
+            "id": "F02-008",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "10:18",
+            "end_timestamp": "11:07",
+            "start_seconds": 618,
+            "end_seconds": 667,
+            "duration_seconds": 49,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=618",
+            "title": "El Microciclo de 4 Días: Optimizar y Recuperar en el Caos",
+            "summary": "Ante calendarios con congestión competitiva de partidos sucesivos, se diseña un microciclo de cuatro días. Aquí se elimina la fase de construcción (Cuadrante 4) para priorizar exclusivamente la optimización neuromuscular y la recuperación de tejidos (MD+1 Q1/Q3, MD+2 Q1, MD-1 Q3).",
+            "literal_quote": "Aquí tenemos un contexto de siete días y aquí tenemos un microciclo de cuatro días. Como podéis ver, los cuadrantes cuatro se han eliminado, ya no nos da tiempo de construir al atleta. Estamos recuperando, estamos optimizando por encima de todo... Mi sistema se ha vuelto a adaptar al contexto competitivo.",
+            "full_transcript": "Ahí tenemos un contexto de siete días y aquí tenemos un microciclo de cuatro días. Como podéis ver, los cuadrantes cuatro se han eliminado, ya nos da tiempo de construir al atleta. Estamos recuperando, estamos optimizando por encima de todo. Y entonces, aquí lo que podemos hacer es, en el más uno, volvemos a decir que el cuadrante uno de recuperación es para los que jugaron y para los que no jugaron, jugaron poco, un cuadrante tres. Pero en el más dos seguimos recuperando por completo y en el menos uno seguimos haciendo un cuadrante tres para estimular y que lleguen al partido. Aquí las prioridades cambian y tenemos realmente un ejemplo en el que lo que queremos es recuperar y optimizar. Mi sistema se ha vuelto a adaptar al contexto competitivo. Esto es lo importante de esta parte de la integración.",
+            "keywords": [
+                "microciclo-4-dias",
+                "congestión-competitiva",
+                "recuperar-y-optimizar",
+                "eliminación-q4",
+                "adaptabilidad-contextual"
+            ],
+            "entities": [],
+            "topics": [
+                "Control de Carga",
+                "Performance & Context",
+                "Metodología"
+            ],
+            "content_type": [
+                "Caso práctico",
+                "Metodología"
+            ],
+            "search_questions": [
+                "¿Cómo se adapta el sistema de cuadrantes a una semana con solo 4 días entre partidos?",
+                "¿Por qué se elimina por completo el Cuadrante 4 en semanas saturadas?"
+            ],
+            "related_terms": [
+                "semana limpia",
+                "congestión",
+                "recuperación celular",
+                "priming neuromuscular"
+            ],
+            "relevance_score": 5,
+            "context_before": "Emparejamiento de cargas de gimnasio y campo.",
+            "context_after": "Integración del sistema de cuadrantes con patrones de movimiento específicos, enfocándose en saltos."
+        },
+        {
+            "id": "F02-009",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "11:12",
+            "end_timestamp": "12:39",
+            "start_seconds": 672,
+            "end_seconds": 759,
+            "duration_seconds": 87,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=672",
+            "title": "Cruce de Cuadrantes y Patrones de Movimiento (Ejemplo: Salto)",
+            "summary": "Se detalla la segunda fase de la integración: cruzar el sistema de cuadrantes con los patrones biomecánicos. Se ejemplifica con el salto, demostrando que el patrón se adapta al objetivo del cuadrante: en Q1 se prioriza el control motor y la reeducación de caídas, mientras que en Q4 se enfoca en el desarrollo máximo de fuerza reactiva y stiffness.",
+            "literal_quote": "El mismo patrón no siempre persigue el mismo objetivo. Depende mucho del cuadrante. En el cuadrante uno, el objetivo es la reeducación, el control, aprender a caer... en el cuadrante cuatro... desarrollar esa capacidad de expresión de fuerza vertical... aprender a caer antes de aprender a volar.",
+            "full_transcript": "Segunda parte de la integración: unir mi sistema de cuadrantes con la especificidad deportiva, es decir, con los patrones de movimiento. En este caso, vamos a trabajar sobre el patrón de saltos. En este patrón de salto, lo interesante es que el mismo patrón no siempre persigue el mismo objetivo. Depende mucho del cuadrante. En el cuadrante uno, el objetivo es la reeducación, el control, aprender a caer. Pero estos objetivos que ves aquí en el cuadrante uno son muy diferentes a los del cuadrante cuatro, donde puedo realmente desarrollar esa capacidad de expresión de fuerza vertical en el salto. Desarrollo máximo, el RSI, rigidez con intención balística, alta carga. Entonces, ya sabemos que, en este caso, en el más dos, si yo quiero trabajar el patrón de salto en un día de recuperación, se puede. Lo que estoy haciendo es Cambiar el objetivo. Como vemos aquí, aprender a caer antes de aprender a volar. Control de ángulos, alineación de rodilla, cadera. Todo esto lo puedo trabajar. Sigue siendo un patrón de salto y lo puedo trabajar en un más dos que estamos recuperando. Es asociar esos patrones con los diferentes tipos de cuadrantes.",
+            "keywords": [
+                "patron-de-salto",
+                "cruce-de-planos",
+                "aprender-a-caer",
+                "reeducacion",
+                "stiffness",
+                "rsi",
+                "cuadrante-1",
+                "cuadrante-4"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Explicación",
+                "Proceso"
+            ],
+            "search_questions": [
+                "¿Cómo varía el objetivo del patrón de salto entre el Cuadrante 1 y el Cuadrante 4?",
+                "¿Qué significa la frase 'aprender a caer antes de aprender a volar'?"
+            ],
+            "related_terms": [
+                "fuerza reactiva",
+                "control de ángulos",
+                "valgo dinámico",
+                "landing mechanics"
+            ],
+            "relevance_score": 5,
+            "context_before": "Adaptación del modelo a semanas congestionadas de cuatro días.",
+            "context_after": "Presentación del modelo de especificidad y complejidad de los ejercicios en base a Jovanovic."
+        },
+        {
+            "id": "F02-010",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "12:41",
+            "end_timestamp": "14:28",
+            "start_seconds": 761,
+            "end_seconds": 868,
+            "duration_seconds": 107,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=761",
+            "title": "Especificidad y Complejidad del Ejercicio (Modelo de Jovanovic)",
+            "summary": "Se introduce la sub-división de los ejercicios dentro de cada cuadrante en base al modelo de Jovanovic, cruzando simplicidad-complejidad con nivel general-específico. En un Q4 de saltos, un jugador avanzado puede progresar hacia un drop jump squat o saltos reactivos a una pierna (específicos/complejos), mientras que otro se mantiene en back squat (general/simple).",
+            "literal_quote": "Tenemos este modelo de especificidad y de complejidad, que lo saqué de Jovanovic, en el que vemos que cada cuadrante incluso lo puedo dividir en otros cuatro cuadrantes para diferenciar mis ejercicios... general y simple... o específico y complejo.",
+            "full_transcript": "Seguimos en la siguiente, que es ejemplos de los contenidos que puede caer dentro de cada cuadrante. Podemos hacerlo incluso mucho más complejo. Tenemos este modelo de especificidad y de complejidad, que lo saqué de Jovanovic, en el que vemos que cada cuadrante incluso lo puedo dividir en otros cuatro cuadrantes para diferenciar mis ejercicios. Si nos vamos al cuadrante cuatro, puedo ver que tenemos ejercicios generales y simples, como el back squat pesadito, el roman deadlift, o tenemos ejercicios que son muy específicos y muy complejos, como un drop jump squat, los saltos de vallas, que pueden ser reactivos, pueden ser a una pierna. Esto ya nos vamos a la complejidad máxima y a lo máximo de específico. Yo puedo querer con un jugador trabajar en el cuadrante cuatro el patrón de salto, pero a lo mejor otro jugador que está mucho más avanzado a nivel de fuerza, de sesiones de fuerza, de gimnasio, puede hacer un trabajo dentro del patrón de salto mucho más específico y complejo, si así lo deseo. O puede que los dos, para ese microciclo en específico, quiero que trabajen en general y en simple. Entonces, a los dos les pongo el back squat. Pero esto es simplemente un ejemplo de cómo se puede asociar la simplicidad de los ejercicios y la especificidad con cada cuadrante dentro de cada patrón. Aquí vemos otro",
+            "keywords": [
+                "jovanovic",
+                "complejidad-ejercicio",
+                "especificidad-ejercicio",
+                "back-squat",
+                "drop-jump",
+                "sub-cuadrantes",
+                "progresión"
+            ],
+            "entities": [
+                "Jovanovic"
+            ],
+            "topics": [
+                "Metodología"
+            ],
+            "content_type": [
+                "Framework",
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Cómo utiliza Fran de Alba el modelo de Jovanovic para categorizar ejercicios?",
+                "¿Cómo se puede individualizar un Cuadrante 4 utilizando la especificidad y complejidad?"
+            ],
+            "related_terms": [
+                "cadena cinética",
+                "fuerza general",
+                "pliometría específica",
+                "back squat"
+            ],
+            "relevance_score": 5,
+            "context_before": "Análisis del patrón de salto y su evolución según el cuadrante.",
+            "context_after": "Análisis del patrón de cambio de dirección en el Cuadrante 3."
+        },
+        {
+            "id": "F02-011",
+            "video_title": "Modelo de cuatro bases y sistema de cuadrantes - Parte II",
+            "speaker": "Fran de Alba",
+            "start_timestamp": "14:30",
+            "end_timestamp": "15:09",
+            "start_seconds": 870,
+            "end_seconds": 909,
+            "duration_seconds": 39,
+            "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=870",
+            "title": "Priming en el Patrón de Cambio de Dirección (Cuadrante 3)",
+            "summary": "Se detalla el patrón de cambio de dirección aplicado en el Cuadrante 3. El objetivo es conseguir un 'priming' neuromuscular (conexión rápida, baja dosis y máxima calidad) en el día previo a la competición (MD-1), facilitando la reorientación y reduciendo los tiempos de apoyo sin generar fatiga.",
+            "literal_quote": "En el cuadrante tres del cambio de dirección, quiero conseguir ese priming del change of direction... baja dosis, pero máxima calidad, poco tiempo de apoyo, reorientación... conexión neuromuscular previa al día de partido.",
+            "full_transcript": "patrón diferente, que es el de cambio de dirección. Y vemos que en el cuadrante tres del cambio de dirección, quiero conseguir ese priming del change of direction. Quiero baja dosis, pero máxima calidad, poco tiempo de apoyo, reorientación. Eso que te da realmente esa conexión neuromuscular previa al día de partido. Ese cuadrante tres lo puedo dividir de nuevo, de más simple a más complejo y de más general a más específico. Y ahí veis muchos ejemplos en los que se da esta división de tipos de ejercicio según el tipo de cuadrante para el mismo patrón.",
+            "keywords": [
+                "cambio-de-direccion",
+                "priming-neuromuscular",
+                "cuadrante-3",
+                "baja-dosis",
+                "calidad-de-apoyo",
+                "reorientacion"
+            ],
+            "entities": [],
+            "topics": [
+                "Metodología",
+                "Performance & Context"
+            ],
+            "content_type": [
+                "Explicación"
+            ],
+            "search_questions": [
+                "¿Qué es el 'priming' en el patrón de cambio de dirección y en qué día se aplica?",
+                "¿Qué variables se buscan optimizar en el Cuadrante 3 de cambio de dirección?"
+            ],
+            "related_terms": [
+                "priming",
+                "change of direction",
+                "tiempo de apoyo",
+                "conexión neuromuscular"
+            ],
+            "relevance_score": 4,
+            "context_before": "Explicación del modelo de Jovanovic de especificidad y complejidad.",
+            "context_after": "Cierre del segundo fragmento. Continuación en WEBVTT-3 con la integración de campo-gimnasio en casos prácticos reales."
+        }
+    ]
+}
