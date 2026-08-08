@@ -1,0 +1,258 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del S&C Coach en el béisbol",
+    "speaker": "Carlos Peña Lyon",
+    "total_duration": "00:32:26",
+    "total_duration_seconds": 1946,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:07:00",
+      "start_seconds": 4,
+      "end_seconds": 420,
+      "duration_seconds": 416,
+      "timestamp_url": "?t=4",
+      "title": "Introducción, trayectoria y la importancia de la comunicación en el béisbol",
+      "summary": "Carlos Peña se presenta y repasa su trayectoria profesional desde el fútbol en Chile hasta su rol como International Strength and Conditioning Coordinator en los San Francisco Giants. Destaca que en cualquier deporte de equipo la pieza clave es el trabajo multidisciplinario y que la comunicación es la herramienta más valiosa e infravalorada para transmitir información. Además, menciona la importancia de la ciencia del deporte (sport science) y de certificaciones como el CPSS para evaluar el rendimiento.",
+      "literal_quote": "La herramienta más infravalorada, pero la más valiosa, según mi criterio, vendría siendo la comunicación.",
+      "full_transcript": "Hola, ¿qué tal? Muy buenas tardes. Mi nombre es Carlos Peña Lyon. Tengo el privilegio de ser parte de esta invitación que me hizo NSCA Spain para hablar un poquito acerca de lo que es el béisbol y lo que significa hacer un strength and conditioning en este deporte. Lo primero de todo es que hay que entender que esto es un equipo multidisciplinario... la piedra angular del éxito de cualquier equipo. La herramienta más infravalorada, pero la más valiosa, según mi criterio, vendría siendo la comunicación. Crecí acá en Chile, me titulé como kinesiólogo y después del 2017 me fui a vivir de nuevo a República Dominicana... Estoy muy orgulloso de ser parte de los San Francisco Giants. Hoy soy el International Strength and Conditioning Coordinator, básicamente soy el que evalúa a los futuros prospectos de la organización. Hago una evaluación física, hago un análisis de datos, también desarrollo el programa de fuerza... Estamos haciendo «sport science», básicamente, y creo que todas las organizaciones, no solo de béisbol, están necesitando mucho a este tipo de profesionales.",
+      "keywords": [
+        "strength-conditioning",
+        "comunicacion",
+        "multidisciplinario",
+        "san-francisco-giants",
+        "sport-science",
+        "cpss"
+      ],
+      "entities": [
+        "Carlos Peña Lyon",
+        "NSCA Spain",
+        "San Francisco Giants"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Por qué se considera la comunicación como una de las herramientas más infravaloradas en el desarrollo de un equipo de béisbol?",
+        "¿Qué importancia tiene la ciencia del deporte y la certificación CPSS para un S&C Coach a nivel profesional?",
+        "¿Cuáles son las responsabilidades principales del International Strength and Conditioning Coordinator en los San Francisco Giants?"
+      ],
+      "related_terms": [
+        "introducción",
+        "trayectoria profesional",
+        "comunicación en el béisbol",
+        "professional experience",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar y presentación del ponente.",
+      "context_after": "Se procede a analizar las características del calendario competitivo del béisbol, su alta densidad de partidos y el impacto directo en las lesiones por sobreuso."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:07:00",
+      "end_timestamp": "00:15:00",
+      "start_seconds": 420,
+      "end_seconds": 900,
+      "duration_seconds": 480,
+      "timestamp_url": "?t=420",
+      "title": "Demandas del calendario, sobreuso y gestión de carga posicional",
+      "summary": "El béisbol es el deporte de equipo con más partidos regulares (hasta 214 sumando pretemporada y postemporada en siete meses), lo que lo convierte en un deporte de sobreuso con lesiones predominantemente articulares. Se explica el efecto dominó o 'incendio forestal' que provoca una lesión y cómo el manejo de la carga crónica debe ser individualizado según la posición, diferenciando especialmente a los pitchers (abridores, relevistas y cerradores) del resto.",
+      "literal_quote": "Un lesionado en béisbol muchas veces se pierde prácticamente la temporada completa y eso genera un efecto dominó o lo que yo llamo un incendio forestal.",
+      "full_transcript": "Es el deporte con más fechas regulares en todos los deportes de equipo, con una impecable suma de 162 partidos... El panorama, si suponemos que un jugador se mantiene sano... jugaría 214 juegos. Las lesiones de este deporte son totalmente distintas a las de otros deportes, debido a que es un deporte de sobreuso... las lesiones prácticamente serían más articulares que de músculos. Un lesionado en béisbol muchas veces se pierde prácticamente la temporada completa y eso genera un efecto dominó o lo que yo llamo un incendio forestal... y el rol del equipo multidisciplinario se vuelve clave en esto de la prevención. El manejo de la carga se hace un poco difícil porque en el plantel... hay distintos tipos de jugadores en el béisbol: está el catcher, el pitcher, los outfield, los infield. Se dividen básicamente en pitchers... Un abridor es una de las personas que tiene la mayor carga... Los relevistas pueden jugar todos los días... Entonces, los pitchers tienen su dificultad y uno va generando los ajustes. El que no juegue el jugador es una pérdida de dinero sumamente grande para el equipo.",
+      "keywords": [
+        "sobreuso",
+        "calendario",
+        "incendio-forestal",
+        "pitcher",
+        "control-carga",
+        "lesiones-articulares"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el elevado volumen de partidos del calendario competitivo al riesgo de lesiones por sobreuso en el béisbol?",
+        "¿A qué se refiere el ponente con el concepto de 'incendio forestal' cuando ocurre una lesión importante en la plantilla?",
+        "¿Cuáles son las diferencias principales en el control de carga física entre un abridor, un relevista y un jugador de posición?"
+      ],
+      "related_terms": [
+        "demandas del calendario",
+        "gestión posicional",
+        "lesiones articulares por sobreuso",
+        "performance & context",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Carlos Peña detalla su trayectoria profesional y el rol inicial de la ciencia del deporte en su carrera y en los San Francisco Giants.",
+      "context_after": "El ponente introduce el método de seguimiento diario mediante distintas evaluaciones físicas e hidratación para mitigar la fatiga acumulada del calendario."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:15:00",
+      "end_timestamp": "00:22:00",
+      "start_seconds": 900,
+      "end_seconds": 1320,
+      "duration_seconds": 420,
+      "timestamp_url": "?t=900",
+      "title": "Evaluaciones diarias, hidratación y el síndrome general de adaptación",
+      "summary": "Para evitar lesiones en un deporte casi diario, se aplican evaluaciones constantes de carga interna y externa (readiness, MX3 para hidratación, plataformas de fuerza). Se profundiza en el síndrome general de adaptación, remarcando que el descanso (sueño, nutrición e hidratación) está infravalorado y es vital para aumentar el rendimiento. Se implementan prácticas de 'mindfulness' y respiración diafragmática para rebajar la sobreexcitación del atleta.",
+      "literal_quote": "En el síndrome general de adaptación, parte fundamental del éxito o del aumento del nuevo “performance” del atleta es la fase de descanso, que está muy infravalorada por el mismo atleta.",
+      "full_transcript": "Una evaluación por sí sola te genera una foto de un solo momento. Si esa evaluación tú la repites, se genera un seguimiento... las evaluaciones básicamente debiesen ser diarias. Tenemos el MX3, que mide la deshidratación del jugador. Muchas veces los calambres y las lesiones musculares se deben a que el sujeto no está bien hidratado. La evaluación constante de tus jugadores permite tener una visión más clara de cómo podrían realizar ajustes frente a un eventual episodio, primero de fatiga y posteriormente de lesión. Que al tener cargas de entrenamiento altas, moderadas, bajas, muchas veces entendemos que el gimnasio o las pesas lo son todo, pero en realidad, en el síndrome general de adaptación, parte fundamental del éxito... es la fase de descanso, que está muy infravalorada por el mismo atleta. Nosotros hacíamos mucho “mindfulness”... Promover que tu cuerpo deje de estar sobreexcitado y bajar las pulsaciones con una respiración diafragmática y una meditación guiada, logramos que ese síndrome general de adaptación tuviese esas fases de descanso.",
+      "keywords": [
+        "evaluacion-diaria",
+        "mx3",
+        "hidratacion",
+        "sindrome-adaptacion",
+        "mindfulness",
+        "descanso"
+      ],
+      "entities": [
+        "MX3"
+      ],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué tecnologías y herramientas se utilizan diariamente para medir el estado físico y la hidratación de los beisbolistas?",
+        "¿Qué rol juega el descanso dentro del síndrome general de adaptación en el aumento del rendimiento del atleta?",
+        "¿Cómo se aplican el mindfulness y la respiración diafragmática para reducir la sobreexcitación de los jugadores en la temporada?"
+      ],
+      "related_terms": [
+        "evaluaciones diarias",
+        "síndrome general de adaptación",
+        "hidratación",
+        "evaluación continua",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se discute la enorme demanda de partidos y las lesiones crónicas o por sobreuso derivadas del ajustado calendario del béisbol.",
+      "context_after": "Se presenta el inicio típico del día de entrenamiento a través del calentamiento dinámico y su uso como herramienta práctica de evaluación visual."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:22:00",
+      "end_timestamp": "00:27:00",
+      "start_seconds": 1320,
+      "end_seconds": 1620,
+      "duration_seconds": 300,
+      "timestamp_url": "?t=1320",
+      "title": "El calentamiento dinámico (RAMP) como herramienta de evaluación en vivo",
+      "summary": "El día inicia con el 'warm up dynamic stretch' siguiendo el protocolo RAMP. El S&C utiliza este momento fundamental para recopilar información visual sobre el estado físico de los jugadores y prevenir lesiones. A partir de esto, se individualiza el trabajo; por ejemplo, potenciando el 'footwork' y la coordinación en los catchers. También destaca que hablar múltiples idiomas (inglés, español, japonés) es indispensable para la comunicación en staffs globales.",
+      "literal_quote": "Para el 'strength coach', este es el lugar fundamental en el cual puede recopilar información y decidir prontamente y evitar cualquier lesión.",
+      "full_transcript": "¿Cómo inicia un día normal en el béisbol?... inicia normalmente con un 'staff meeting'... Pero la primera actividad la da el 'strength coach', en este caso es el 'warm up dynamic stretch'... Este es el lugar perfecto para evaluar, generar cambios, ver resultados y comunicar. Parto, como lo dice la bibliografía, con el RAMP. Cuando estoy viendo a mis jugadores, cómo se van moviendo, cómo ejecutan los movimientos, su cara... ahí inmediatamente estoy adquiriendo información valiosísima para comunicarla a mi staff médico. Para el 'strength coach', este es el lugar fundamental en el cual puede recopilar información y decidir prontamente y evitar cualquier lesión. Aquí tenemos a un catcher... Estos jugadores necesitan un 'footwork' Brutal. Necesitan una coordinación de pie tremenda, porque tienen que bloquear p*****s. El deporte cada día es más exigente y más individualizado. Trabajar uno a uno con objetivos claros para generar un valor extra. La educación continua te permite crecer y comunicarte mejor. En esta época no basta con solo hablar un idioma... En tu staff puede haber gente que habla japonés, inglés y español.",
+      "keywords": [
+        "dynamic-warm-up",
+        "ramp",
+        "individualizacion",
+        "catcher",
+        "footwork",
+        "idiomas"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿De qué manera aprovecha visualmente el S&C el calentamiento dinámico (RAMP) para evitar lesiones en los jugadores?",
+        "¿Por qué es crucial realizar un entrenamiento específico de 'footwork' y coordinación para la posición de catcher?",
+        "¿Qué impacto directo tiene el dominio de varios idiomas para un S&C que trabaja en franquicias globales de béisbol?"
+      ],
+      "related_terms": [
+        "calentamiento dinámico",
+        "protocolo RAMP",
+        "herramienta de evaluación",
+        "evaluación en vivo",
+        "metodología de entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalla la importancia del descanso y las evaluaciones objetivas diarias para controlar la fatiga y el síndrome general de adaptación.",
+      "context_after": "Tras el calentamiento, el enfoque se traslada al entrenamiento específico de béisbol, patrones de rotación, y acondicionamiento orientado a prevenir lesiones específicas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:27:00",
+      "end_timestamp": "00:32:26",
+      "start_seconds": 1620,
+      "end_seconds": 1946,
+      "duration_seconds": 326,
+      "timestamp_url": "?t=1620",
+      "title": "Patrones de movimiento específicos y preparación física",
+      "summary": "El béisbol demanda repetir patrones rotatorios de alta intensidad al batear y lanzar, exponiendo al atleta a lesiones lumbares y del manguito rotador. El entrenamiento de fuerza debe ser específico, incluyendo sprints cortos explosivos de 30 yardas. Se muestra un caso práctico de trabajo propioceptivo para una jugadora/or con edema óseo (bone bruise), dejando pendiente un análisis de caso clínico para la siguiente sección. Nota: El fragmento finaliza dejando abierta la introducción de un caso clínico mayor.",
+      "literal_quote": "Al ser un deporte de mucha rotación y repetición, hay que tener a tus jugadores muy fuertes, pero una fuerza específica al deporte.",
+      "full_transcript": "Este es un deporte de lanzamiento, entonces los chicos tienen que lanzar p*****s... También está esta otra parte de un entrenamiento tipo, que es el entrenamiento de bateo. Aquí vemos un patrón rotatorio, el cual puede ser muy lesivo a nivel lumbar... a nivel de extremidad superior, que puede ser muy lesivo a nivel de manguito rotador. Al ser un deporte de mucha rotación y repetición, hay que tener a tus jugadores muy fuertes, pero una fuerza específica al deporte. Si bien no hay tantos desplazamientos de 'high-speed running' como en otros deportes, sí es importante desarrollar la velocidad, debido a que es un deporte netamente anaeróbico y muy explosivo. La distancia entre cada base es de 30 yardas, por lo que hacer ejercicios de acondicionamiento y 'sprints' a alta velocidad tiene mucho sentido en este deporte. Aquí, en este tercer cuadro, vemos un trabajo en bosu donde promovemos el trabajo propioceptivo. Este jugador había recibido un pelotazo a nivel de la tibia y tenía un moretón, lo que en inglés llaman bone bruise... Le estábamos dando trabajo de carga corporal con inestabilidad. La segunda parte de la presentación será un caso clínico.",
+      "keywords": [
+        "patron-rotatorio",
+        "fuerza-especifica",
+        "sprint",
+        "manguito-rotador",
+        "propiocepcion",
+        "bone-bruise"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipos de lesiones son las más frecuentes debido a la repetición de patrones rotatorios en lanzadores y bateadores?",
+        "¿Por qué la preparación física en béisbol prioriza los sprints cortos explosivos de 30 yardas en lugar del running prolongado?",
+        "¿De qué manera se aborda el trabajo propioceptivo en la rehabilitación inicial de un jugador diagnosticado con edema óseo?"
+      ],
+      "related_terms": [
+        "patrones de movimiento específicos",
+        "preparación física",
+        "performance & context",
+        "return to play"
+      ],
+      "relevance_score": 4,
+      "context_before": "El S&C extrae información valiosa durante el calentamiento dinámico para individualizar las tareas tácticas y físicas de cada posición.",
+      "context_after": "El fragmento concluye anunciando el desarrollo de un caso clínico en la segunda parte de la presentación."
+    }
+  ]
+}

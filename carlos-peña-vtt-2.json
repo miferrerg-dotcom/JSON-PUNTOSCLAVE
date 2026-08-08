@@ -1,0 +1,305 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del S&C Coach en el béisbol",
+    "speaker": "Carlos Peña Lyon",
+    "total_duration": "00:20:45",
+    "total_duration_seconds": 1245,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:03:24",
+      "start_seconds": 5,
+      "end_seconds": 204,
+      "duration_seconds": 199,
+      "timestamp_url": "?t=5",
+      "title": "Caso clínico: Lesión Tommy John y selección del injerto",
+      "summary": "Se expone el caso clínico de un prospecto de 19 años con lesión Tommy John, frecuente en béisbol por los lanzamientos repetitivos. Se analizan las diferencias entre usar el palmar largo o el isquiotibial como injerto, advirtiendo que este último añade complejidad a la rehabilitación al afectar dos estructuras distintas.",
+      "literal_quote": "La reconstrucción del ligamento colateral medial ulnar tiene tres técnicas, pero las más famosas son el palmar largo... y el isquiotibial.",
+      "full_transcript": "Vamos a suponer un caso clínico, una lesión muy famosa en el béisbol, el llamado Tommy Johns o lesión medial del codo, debido a uso repetitivo de lanzamientos, casi siempre con pronosupinación... Es, lamentablemente, una de las lesiones más comunes del béisbol... la reconstrucción del ligamento colateral medial ulnar tiene tres técnicas, pero las más famosas son el palmar largo, entre un 60, un 80 % y el isquiotibial, muy parecido a lo que se hace con el cruzado anterior. Las ventajas del palmar largo son que no hay daño de otra estructura, de otra extremidad. Sin embargo, hay gente que no presenta el palmar largo. Por ende, hay que entrar a sacar un injerto del isquiotibial y eso hace un poquito más desafiante la rehabilitación, ya que tenemos dos estructuras dañadas... Vamos a hacer un caso hipotético... Este es un jugador prospecto de 19 años de edad. Ha ingresado recientemente a tu organización y sufre una Tommy Johns con técnica de hamstring. Tienes que trabajar con S&C rehab, ¿qué es lo primero que harías?",
+      "keywords": [
+        "tommy-john",
+        "palmar-largo",
+        "isquiotibial",
+        "pronosupinacion",
+        "caso-clinico",
+        "lesion-medial"
+      ],
+      "entities": [
+        "Tommy John"
+      ],
+      "topics": [
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la cirugía con injerto de isquiotibial resulta más compleja de rehabilitar que la del palmar largo en un lanzador?",
+        "¿Cuáles son los mecanismos biomecánicos que provocan la lesión medial del codo en los jugadores de béisbol?"
+      ],
+      "related_terms": [
+        "caso clínico",
+        "lesión tommy john",
+        "técnicas quirúrgicas",
+        "lesiones",
+        "return to play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se inicia el segundo bloque de la presentación enfocado en llevar la teoría a la práctica clínica deportiva.",
+      "context_after": "Se detalla cómo subdividir las fases de recuperación de la cirugía y la importancia de no descuidar el apartado mental del jugador."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:03:24",
+      "end_timestamp": "00:05:44",
+      "start_seconds": 204,
+      "end_seconds": 344,
+      "duration_seconds": 140,
+      "timestamp_url": "?t=204",
+      "title": "Fases de rehabilitación y la intervención de la psicología deportiva",
+      "summary": "Se describen las fases generalizadas de la rehabilitación (aguda, media y crónica) destacando que el proceso no debe aislarse en sus etapas finales. Se resalta la necesidad de un enfoque holístico donde el psicólogo deportivo o 'mental health' intervenga para tratar el miedo y los bloqueos mentales que genera una lesión de larga duración.",
+      "literal_quote": "El atleta tiene que tener no solo una rehabilitación de tejido... sino que tiene que tener una rehabilitación a nivel psicológico y mental, porque muchas veces estas lesiones generan un apremio, un miedo...",
+      "full_transcript": "Primero que nada es estudiar la lesión, comunicarte con tu par, kinesiólogo, athletic trainer, médico, etcétera, setear objetivos y mantener por siempre un trabajo multidisciplinario. La gran mayoría de las lesiones se divide en fase aguda, media y crónica o vuelta a la cancha o return to play. Muchas veces, en la fase más tardía de la lesión, se pierde un poquito la comunicación y el trabajo multidisciplinario, porque se asume precozmente que el atleta ya está listo para volver. Sin embargo, en mi experiencia, esta fase es una de las más importantes, porque el atleta tiene que tener no solo una rehabilitación de tejido, ligamento, músculo, lo que sea, sino que tiene que tener una rehabilitación a nivel psicológico y mental, porque muchas veces estas lesiones generan un apremio, un miedo y una restricción... muchas veces ese enfoque es un enfoque holístico, integral y multidisciplinario. Y en este caso, ahí entra otro profesional que en Norteamérica le llaman el mental health o psicólogo deportivo... El trabajo con tu par médico es fundamental, ya que en el béisbol la mayor parte del juego hay que lanzar.",
+      "keywords": [
+        "fases-rehabilitacion",
+        "psicologia-deportiva",
+        "salud-mental",
+        "return-to-play",
+        "multidisciplinario"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué papel fundamental juega el psicólogo deportivo durante las fases más avanzadas de la recuperación de un beisbolista?",
+        "¿Por qué suele debilitarse el trabajo multidisciplinario cuando el deportista se acerca a la fase de 'Return to Play'?"
+      ],
+      "related_terms": [
+        "fases rehabilitación",
+        "psicología deportiva",
+        "salud mental",
+        "return to play",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Planteamiento del caso clínico con lesión de ligamento colateral medial en un prospecto joven operado con técnica de hamstring.",
+      "context_after": "El análisis desglosa la fase postquirúrgica (fase cero), las precauciones articulares y la introducción de la pauta nutricional y física inicial."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:05:44",
+      "end_timestamp": "00:09:51",
+      "start_seconds": 344,
+      "end_seconds": 591,
+      "duration_seconds": 247,
+      "timestamp_url": "?t=344",
+      "title": "Fase postquirúrgica, control nutricional y entrenamiento contralateral",
+      "summary": "Durante la fase cero (restricción con brace) y la fase inicial, el objetivo es mantener un rango de movimiento sin arriesgar la estructura. Es crucial el trabajo con el nutricionista para evitar el aumento de peso y usar suplementos como la remolacha. Desde la preparación física, se aplican progresiones musculares (isométricas, concéntricas, excéntricas) con peso corporal y se exprime el entrenamiento de las extremidades sanas (brazo y pierna contralaterales).",
+      "literal_quote": "El enfoque netamente en esta fase primaria es una progresión muscular, llevando a isométrico, concéntrico y excéntrico, con cargas bien bajas... pero queda el brazo contralateral y la pierna contralateral.",
+      "full_transcript": "Existe una fase cero... que es netamente la postquirúrgica... les ponen un brace... hay que tener una limitación del movimiento de codo, lo que no significa que uno podría tener inmovilizado todo el brazo. A eso uno va cuando tiene que mantener un ROM estable. Si no movilizas el codo, puedes movilizar escápula... Posterior a la fase cero... vendría una fase inicial. En la fase primaria inicial es donde más tiempo vas a pasar con tu colega del área de la salud, también con el nutricionista... Porque muchas veces los protein shakes hoy por hoy están teniendo muchos más aportes... Hay bastantes insumos, como por ejemplo, que están en base a remolacha, que promueven el flujo sanguíneo... Como el deportista de alguna manera tiene menos actividad, podría entrar en un estado de aumento de peso, que es lo que no queremos... El enfoque netamente en esta fase primaria es una progresión muscular, llevando a isométrico, concéntrico y excéntrico, con cargas bien bajas, body weight o peso corporal... Por supuesto que con el brazo o con el codo hay que ser muy conservador, pero queda el brazo contralateral y la pierna contralateral. Y es ahí donde uno tiene que ser bastante versátil... ir manteniendo el deportista, el atleta, un estado óptimo...",
+      "keywords": [
+        "fase-postquirurgica",
+        "nutricion",
+        "suplementacion",
+        "remolacha",
+        "entrenamiento-contralateral",
+        "brace",
+        "isometria"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se debe ajustar la nutrición y la suplementación post-cirugía para prevenir la acumulación de grasa corporal en un deportista inactivo?",
+        "¿En qué consiste el entrenamiento contralateral y por qué es vital aplicarlo mientras el codo del jugador permanece inmovilizado con un brace?"
+      ],
+      "related_terms": [
+        "fase postquirúrgica",
+        "control nutricional",
+        "suplementación remolacha",
+        "entrenamiento contralateral",
+        "isometría",
+        "return to play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe el abordaje mental y psicológico necesario para prevenir bloqueos y miedos en los atletas que enfrentan rehabilitaciones prolongadas.",
+      "context_after": "Se transita a las fases dos y tres donde el preparador físico retoma un rol protagónico implementando herramientas tecnológicas de evaluación."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:09:51",
+      "end_timestamp": "00:13:07",
+      "start_seconds": 591,
+      "end_seconds": 787,
+      "duration_seconds": 196,
+      "timestamp_url": "?t=591",
+      "title": "Fases intermedias: Desarrollo de fuerza y contextualización de datos",
+      "summary": "Al avanzar a las fases dos y tres, el S&C coach asume el protagonismo en el desarrollo de fuerza. Se emplean herramientas como dinamómetros (Grip Strength), Force Plates y dispositivos como Tindeck para medir isometría. Se hace hincapié en que recopilar métricas debe ir acompañado de su interpretación en el campo de juego, ya que los datos aislados solo ofrecen 'una foto en blanco y negro'.",
+      "literal_quote": "Hay que familiarizarse con los datos... porque muchas veces los números por sí solos nos dan una foto en blanco y negro, y la interpretación de los números le brinda color a esta fotografía.",
+      "full_transcript": "En la fase dos y tres empezamos a tener un rol mucho más protagónico en términos de desarrollo de fuerza y adaptaciones de ejercicio... Y aquí puse tres herramientas que son importantes. Una de ellas es el grip strength test o se hace con dinamómetro... El force plate... El Tindeck, que es muy parecido a lo que evalúan los force plate, pero esto es más para trabajo isométrico... en la fase uno va a ser muy difícil que el sujeto pueda hacer una contracción isométrica máxima de rotación externa, rotación interna de brazo. Se va incorporando el rango de movimiento... y posterior fase dos y fase tres, empezamos a hacer evaluaciones de fuerza un poquito más complejas... hay que familiarizarse con los datos, hay que familiarizarse con los números y cómo interpretar esos números, porque muchas veces los números por sí solos nos dan una foto en blanco y negro, y la interpretación de los números le brinda color a esta fotografía. Aquí podemos ver cómo un sujeto con TJ está en una etapa intermedia, fase dos. Pueden ver que tiene un tipo de lanzamiento no muy pulcro. La pelota, de alguna manera, no la está tirando con fuerza, pero estamos de a poco volviendo a generar patrones y la función.",
+      "keywords": [
+        "fuerza",
+        "evaluacion",
+        "grip-strength",
+        "force-plate",
+        "tindeck",
+        "analisis-datos",
+        "isometria"
+      ],
+      "entities": [
+        "Tindeck",
+        "TJ"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tecnologías se consideran indispensables para evaluar de forma objetiva la fuerza isométrica y de agarre en un jugador de béisbol en recuperación?",
+        "¿Qué significa la afirmación de que los datos crudos de las evaluaciones físicas solo entregan 'una foto en blanco y negro' del estado del deportista?"
+      ],
+      "related_terms": [
+        "fases intermedias",
+        "desarrollo fuerza",
+        "evaluación isométrica",
+        "force plate",
+        "tindeck",
+        "análisis datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explica el trabajo de fuerza basal en la fase inicial, que depende casi exclusivamente del peso corporal y el entrenamiento de los miembros contralaterales sanos.",
+      "context_after": "Se enfatiza la gestión del miedo y las molestias que aparecen al reanudar patrones complejos como el lanzamiento en las fases avanzadas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:13:07",
+      "end_timestamp": "00:15:54",
+      "start_seconds": 787,
+      "end_seconds": 954,
+      "duration_seconds": 167,
+      "timestamp_url": "?t=787",
+      "title": "Gestión del dolor y alineación de mensajes en el staff multidisciplinario",
+      "summary": "Las rehabilitaciones largas generan dudas y dolores articulares naturales (agujetas o 'sore') que pueden asustar al deportista si se malinterpreta la palabra dolor. Resulta esencial que todo el staff (médicos, preparadores y nutricionistas) mantenga una comunicación cruzada impecable. Si los mensajes no están alineados, el atleta puede entregar versiones contradictorias a cada profesional dificultando la toma de decisiones.",
+      "literal_quote": "Hay que ser sumamente cuidadoso con el concepto de dolor, porque el dolor, sin lugar a duda, es algo natural de un proceso de recuperación...",
+      "full_transcript": "Hay un tema psicológico no menor, en el cual el atleta va generando dudas y ciertas agujetas o sore... al no haber utilizado el brazo en un movimiento tan complejo como lanzar... genera ciertos dolores que son normales del proceso... Pero hay que ser sumamente cuidadoso con el concepto de dolor, porque el dolor, sin lugar a duda, es algo natural de un proceso de recuperación, pero muchas veces para el atleta escuchar la palabra dolor genera un poquito de miedo y de retroceso en la rehabilitación... La constante comunicación que el atleta tiene que tener contigo, la tiene que tener con tu par médico y con tu par nutricionista, porque muchas veces el atleta le dice algo a uno, después le dice algo a otro... A mí me dijo que se sintió muy bien, dice el nutricionista. Después el médico dice: A mí me dijo que se siente muy contento. Y de repente el atleta llega a ti... Me siento un poco pesado, me siento gordo y me dolió al final... ¿qué hacemos con la otra información? Hay que tener una constante comunicación, llegar a un objetivo en común y hablarle al atleta, porque a veces el atleta lo único que quiere es avanzar... y muchas veces... puede omitir cierta información para beneficios personales. El proceso de rehabilitación por ningún motivo es algo personal que compete a un solo departamento...",
+      "keywords": [
+        "gestion-dolor",
+        "comunicacion",
+        "alineacion-mensajes",
+        "agujetas",
+        "sore",
+        "psicologia",
+        "staff-management"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo debe gestionar comunicativamente el S&C coach la aparición de dolor o molestias musculares para no causar pánico o retrocesos mentales en el deportista?",
+        "¿Por qué es crítico alinear los discursos de todos los miembros del staff frente al jugador durante las etapas finales de rehabilitación?"
+      ],
+      "related_terms": [
+        "gestión dolor",
+        "psicología deportiva",
+        "alineación mensajes",
+        "staff multidisciplinario",
+        "comunicación efectiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan las evaluaciones de fuerza con herramientas avanzadas en la etapa de reintroducción de los patrones de movimiento del jugador.",
+      "context_after": "El webinar concluye con una reflexión sobre la certificación y formación continua del preparador, así como el valor de la perseverancia diaria frente al estrés de la temporada."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "El rol del S&C Coach en el béisbol",
+      "speaker": "Carlos Peña Lyon",
+      "start_timestamp": "00:15:54",
+      "end_timestamp": "00:20:45",
+      "start_seconds": 954,
+      "end_seconds": 1245,
+      "duration_seconds": 291,
+      "timestamp_url": "?t=954",
+      "title": "Certificación CPSS, transferencia al campo y el principio de constancia",
+      "summary": "El rol del 'performance scientist' no consiste solo en estar frente a un ordenador computando métricas, sino en dominar el lenguaje técnico (mediante certificaciones como CPSS), bajar esa información a la tierra y evaluarla viendo la práctica real en el terreno de juego. Se cita al poeta Ovidio con la frase 'Gutta cavat lapidem' (la gota perfora la piedra), afirmando que el éxito en la gestión de cargas y en el desarrollo atlético reside en la persistencia diaria de los ajustes y la comunicación, no en intensidades extremas aisladas.",
+      "literal_quote": "La capacidad que tú tienes de comunicar y de entender lo que te están comunicando es muy importante y eso es lo que va a dar el éxito para la toma de decisiones.",
+      "full_transcript": "El CPSS es algo que a mí me llama mucho la atención. Me encanta que la NSCA se haya abierto a esto. El Certified Performance Scientist Specialist es una certificación que te catapulta en términos de vocabulario, lenguaje y comunicación. La cantidad de veces que te vas a ver expuesto a tomar decisiones con un equipo vasto de profesionales... es diario. Por eso es importante estar a la altura del caso... la verdadera herramienta que entrega la certificación y el trabajar como performance scientist es la capacidad que tú tienes para expresarte, para entregar una información, para recibir una información... es muy interesante cómo en realidad el trabajo no es estar tras un computador viendo datos, para nada, sino que es todo lo contrario. Esos datos los cogemos, los estudiamos y nos vamos afuera a ver el entrenamiento... y empezar a hablar cómo esos datos se ven dentro del juego. La capacidad que tú tienes de comunicar y de entender lo que te están comunicando es muy importante y eso es lo que va a dar el éxito para la toma de decisiones... Prácticamente, este para mí es un lema: Gutta cavat lapidem, que es del poeta latino Ovidio. En sus cartas desde el Ponto escribió... La gota horada la piedra, no por su fuerza, sino por su constancia al caer. Es una imagen que simboliza el valor de la constancia y de la persistencia... Muchas veces uno tiene un objetivo: hoy día vamos a hacer trap bar con 200 libras, pero llega tu atleta y está explotado, llega enfermo... y hay que hacer rápidamente el ajuste y ver qué carga le puedes entregar y ser constante con estas cargas, que no necesariamente son grandes o bajas... Agradecido también a NSCA Spain por darme la oportunidad...",
+      "keywords": [
+        "cpss",
+        "performance-scientist",
+        "toma-decisiones",
+        "comunicacion",
+        "gutta-cavat-lapidem",
+        "constancia"
+      ],
+      "entities": [
+        "NSCA",
+        "Ovidio",
+        "NSCA Spain"
+      ],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿De qué manera certificaciones especializadas como la CPSS mejoran la influencia, vocabulario y toma de decisiones del preparador físico moderno?",
+        "¿Cómo se traduce el proverbio de 'la gota perfora la piedra' (Gutta cavat lapidem) en la filosofía de gestión de cargas y ajustes diarios del S&C coach?"
+      ],
+      "related_terms": [
+        "certificación cpss",
+        "performance scientist",
+        "análisis campo",
+        "principio constancia",
+        "gestión cargas",
+        "toma decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha discutido el riesgo psicológico del dolor y la vital importancia de alinear los mensajes del staff de rendimiento de cara al atleta.",
+      "context_after": "Finalización de la exposición, agradecimientos institucionales a la NSCA Spain y despedida."
+    }
+  ]
+}
