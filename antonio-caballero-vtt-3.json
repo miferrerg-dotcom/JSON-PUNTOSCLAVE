@@ -14,30 +14,81 @@
       "video_title": "La dimensión invisible del rendimiento",
       "speaker": "Antonio Caballero",
       "start_timestamp": "00:00:17",
-      "end_timestamp": "00:06:02",
+      "end_timestamp": "00:03:11",
       "start_seconds": 17,
-      "end_seconds": 362,
-      "duration_seconds": 345,
-      "timestamp_url": "?t=17",
-      "title": "Adaptación del Quadrant System al Autoconocimiento del Staff",
-      "summary": "El 'Quadrant System' de Daniel Bove se traslada desde la métrica de carga a la evaluación del técnico. La línea horizontal representa la necesidad de ser importante (ego, reactividad), mientras la vertical es el deseo de ser útil (proactividad, humildad). Se menciona el concepto de 'desequilibrio armónico' para continuar en la senda correcta.",
-      "literal_quote": "La persona útil hace por ayudar, la persona importante hace por destacar.",
-      "full_transcript": "Abordaje de una parte mucho más práctica... a partir del libro de Daniel Bove de Quadrant System. Vemos que en este artículo de referencia de Tim Gabbett... se hacían con este modelo de cuadrantes, cuatro preguntas en secuencia. En este caso lo voy a cambiar. Va a haber una línea que tiene que ver con respecto a cómo de importantes somos... y una línea vertical que tiene que ver con respecto a cuánto de útiles somos. La persona útil hace por ayudar, la persona importante hace por destacar. Todas las actitudes que tienen que ver con proactividad, con humildad, con adaptación, con empatía, tienen que ver con la utilidad. Y sin embargo, todo aquello que tiene que ver con reactividad, con ego, con imposición... tiene que ver con lo importante. Menciona ahí un concepto... lo mencionaba Mario Sabán... el desequilibrio armónico. Ser capaces de estar en ese desequilibrio armónico que nos permita estar siempre en ese camino de la izquierda.",
+      "end_seconds": 191,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=17",
+      "title": "Análisis de Datos y las 4 Preguntas de Tim Gabbett",
+      "summary": "Se muestra el aterrizaje práctico del análisis de rendimiento mediante un gráfico de dispersión (distancia total vs high speed running) de un equipo en Rumanía. Para interpretar los datos, se introducen las cuatro preguntas secuenciales de Tim Gabbett: carga externa, respuesta fisiológica, wellness y readiness, yendo de lo visible a lo invisible.",
+      "literal_quote": "Las cuatro son necesarias para tomar buenas decisiones y vemos cómo este sistema o este modelo de los cuadrantes también Gabbett lo proponía en este análisis tan práctico a la hora de poder tomar decisiones en nuestro día a día...",
+      "full_transcript": "Voy a hacer referencia al abordaje de una parte mucho más práctica, ya que creo que todo lo que hemos visto tiene que tener estructura, soporte y una herramienta... a partir del libro de Daniel Bove de Quadrant System. Aquí comparto un gráfico de dispersión de partidos de la temporada 2021-2022 de un equipo en el que estaba en Rumanía en aquel momento, el FC Farul Constanța. Hay dos ejes: un eje de distancia total y un eje de high speed running... Vemos que en este artículo de referencia de Tim Gabbett y su equipo ya se hacían, con este modelo de cuadrantes, cuatro preguntas en secuencia. En primer lugar: ¿qué hizo el jugador en cuanto a la carga externa? En segundo lugar: ¿cómo responde a esa carga externa?... Hay una tercera pregunta con respecto al wellness... Y por último, todo lo que tiene que ver con el readiness, es decir, cómo o cuánto de preparado está nuestro deportista para rendir. Estamos yendo desde la punta de la pirámide, desde la parte alta del iceberg, hasta la base, hasta la parte no visible. Las cuatro son necesarias para tomar buenas decisiones.",
       "keywords": [
+        "Tim-Gabbett",
         "Quadrant-System",
-        "utilidad",
-        "importancia",
-        "ego",
-        "desequilibrio-armónico",
-        "Tim-Gabbett"
+        "análisis-datos",
+        "carga-externa",
+        "wellness",
+        "readiness"
       ],
       "entities": [
         "Daniel Bove",
-        "Tim Gabbett",
+        "FC Farul Constanța",
+        "Tim Gabbett"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 4 preguntas del modelo de cuadrantes de Tim Gabbett?",
+        "¿Cómo se relacionan el wellness y el readiness en la evaluación de carga?",
+        "¿De qué trata el Quadrant System de Daniel Bove?"
+      ],
+      "related_terms": [
+        "carga",
+        "externa",
+        "respuesta",
+        "wellness",
+        "readiness",
+        "cuadrantes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del cuarto bloque del webinar, pasando de la teoría filosófica al aterrizaje práctico de las herramientas.",
+      "context_after": "Se adapta la teoría del Quadrant System para dejar de evaluar al jugador y pasar a evaluar la actitud del staff técnico."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero",
+      "start_timestamp": "00:03:11",
+      "end_timestamp": "00:05:59",
+      "start_seconds": 191,
+      "end_seconds": 359,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=191",
+      "title": "Adaptación del Quadrant System al Autoconocimiento del Técnico",
+      "summary": "Se adapta el Quadrant System de Daniel Bove al staff técnico. La línea horizontal representa la necesidad de ser importante (ego, reactividad), y la vertical el deseo de ser útil (ayudar, proactividad). Se introduce el concepto de 'desequilibrio armónico' de Mario Sabán para mantenerse dinámicamente en el cuadrante de la utilidad.",
+      "literal_quote": "La persona útil hace por ayudar, la persona importante hace por destacar.",
+      "full_transcript": "Dándole una vuelta y buscando adaptarlo a la temática de la presentación... este cuadrante no lo voy a hacer en cuanto al jugador, sino que este cuadrante va en cuanto a nosotros... Va a haber una línea que tiene que ver con respecto a cómo de importantes somos, que es la línea horizontal, y una línea vertical que tiene que ver con respecto a cuánto de útiles somos... la persona útil hace por ayudar, la persona importante hace por destacar. Todas las actitudes que tienen que ver con proactividad, con humildad, con adaptación, con empatía, tienen que ver con la utilidad. Y sin embargo, todo aquello que tiene que ver con reactividad, con ego, con imposición, con dejarnos llevar por las emociones... tiene que ver con lo importante. Menciona ahí un concepto... lo mencionaba Mario Sabán... el desequilibrio armónico en relación a que... buscamos en todos los momentos el equilibrio... Pero él, sin embargo, decía que el equilibrio tiene que ver con lo estático... la vida no es precisamente estática, es dinámica... ser capaces de estar en ese desequilibrio armónico que nos permita estar siempre en ese camino de la izquierda.",
+      "keywords": [
+        "utilidad",
+        "importancia",
+        "ego",
+        "Quadrant-System",
+        "desequilibrio-armónico",
+        "staff"
+      ],
+      "entities": [
         "Mario Sabán"
       ],
       "topics": [
         "Evaluación",
+        "Staff Management",
         "Performance & Context"
       ],
       "content_type": [
@@ -45,41 +96,41 @@
         "Reflexión"
       ],
       "search_questions": [
-        "¿Cómo se adapta el Quadrant System para evaluar al cuerpo técnico?",
-        "¿Cuál es la diferencia entre ser útil y ser importante en un vestuario?",
-        "¿Qué significa el desequilibrio armónico en el contexto profesional?"
+        "¿Cómo se aplica el Quadrant System al comportamiento del entrenador?",
+        "¿Qué diferencia existe entre ser útil y ser importante en un equipo?",
+        "¿Qué significa el desequilibrio armónico según Mario Sabán?"
       ],
       "related_terms": [
-        "Quadrant",
-        "System",
         "utilidad",
         "importancia",
         "ego",
-        "staff"
+        "proactividad",
+        "desequilibrio",
+        "armónico"
       ],
-      "relevance_score": 4,
-      "context_before": "Inicio del cuarto punto enfocando la sesión hacia la práctica.",
-      "context_after": "Se contrasta el crecimiento profesional basado en currículum frente a la coherencia vertical e integral."
+      "relevance_score": 5,
+      "context_before": "Se explicó el uso original de los cuadrantes para medir carga física de los deportistas.",
+      "context_after": "El análisis se profundiza detallando cómo es el crecimiento interno de un profesional frente a sus logros externos."
     },
     {
-      "id": "WEBVTT-3-002",
+      "id": "WEBVTT-3-003",
       "video_title": "La dimensión invisible del rendimiento",
       "speaker": "Antonio Caballero",
-      "start_timestamp": "00:06:02",
-      "end_timestamp": "00:09:47",
-      "start_seconds": 362,
-      "end_seconds": 587,
-      "duration_seconds": 225,
-      "timestamp_url": "?t=362",
-      "title": "Coherencia Vertical y Prevención de Etiquetas en el Vestuario",
-      "summary": "Se subraya que el crecimiento horizontal (títulos) no trasciende; la verdadera evolución es vertical y radica en la coherencia entre lo que se piensa, siente, hace y dice. Los deportistas detectan rápidamente esta coherencia. Se advierte sobre los peligros de establecer etiquetas (juzgar a un jugador como lento o desmotivado) basándose en interpretaciones.",
-      "literal_quote": "Cuidado con las etiquetas, porque somos nosotros mismos los que nos hacemos daño y los que después, como consecuencia, dañamos al deportista...",
-      "full_transcript": "Una línea horizontal que tiene mucho que ver con los títulos, con los cursos, con los másters, con las medallas y con las victorias... esa línea no trasciende. Sin embargo, la vertical, que no siempre se ve, pero siempre nos transforma. La persona sabia sabe lo que tiene que pensar, lo que tiene que sentir, lo que tiene que hacer y lo que tiene que decir... Cuando lo que piensas, lo que sientes y lo que haces está alineado... uno mismo entra en un estado de coherencia. El deportista lo percibe y sobre todo los deportistas de alto nivel tienen capacidad de detectar todo esto. ¿Cuántas veces se dan que lo que escuchamos en nuestros vestuarios de staff son juicios respecto a qué lento es este jugador, qué desmotivado está este jugador... es posible que sea una interpretación, no un hecho. Cuidado con las etiquetas, porque somos nosotros mismos los que nos hacemos daño y los que después, como consecuencia, dañamos al deportista.",
+      "start_timestamp": "00:05:59",
+      "end_timestamp": "00:09:54",
+      "start_seconds": 359,
+      "end_seconds": 594,
+      "duration_seconds": 235,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=359",
+      "title": "Coherencia Vertical y el Peligro de las Etiquetas en el Vestuario",
+      "summary": "Se diferencia el crecimiento horizontal (títulos, currículum) del vertical (transformación personal y coherencia). Inspirado en Juan Miguel Fernández Balboa, se destaca la importancia de alinear lo que se piensa, siente, hace y dice. Además, alerta sobre el daño de colgar etiquetas subjetivas a los jugadores (como 'lento' o 'desmotivado') basándose en interpretaciones y no en hechos.",
+      "literal_quote": "Cuidado con las etiquetas, porque somos nosotros mismos los que nos hacemos daño y los que después, como consecuencia, dañamos al deportista porque ya lo estamos analizando por cualquier otro motivo.",
+      "full_transcript": "Hay una línea horizontal que tiene mucho que ver con los títulos, con los cursos, con los másters, con las medallas y con las victorias... esa línea no trasciende. Sin embargo, la vertical, que no siempre se ve, pero siempre nos transforma... Este cuadrante lo rescato igualmente de mi profesor, de Juan Miguel Fernández Balboa, que hacía referencia a que la persona sabia sabe lo que tiene que pensar, lo que tiene que sentir, lo que tiene que hacer y lo que tiene que decir... Cuando lo que piensas, lo que sientes y lo que haces está alineado... uno mismo entra en un estado de coherencia. El deportista lo percibe y sobre todo los deportistas de alto nivel... ¿Cuántas veces se dan que lo que escuchamos en nuestros vestuarios de staff son juicios respecto a qué lento es este jugador, qué desmotivado está este jugador... es posible que sea una interpretación, no un hecho. El hecho real es que... la velocidad de un jugador puede ser de 29,8 kilómetros por hora. ¿Es lento? ¿Es lento en comparación con quién? Un jugador que no habla en el vestuario y por eso mismo ya le colgamos la etiqueta de que está desmotivado. Cuidado con las etiquetas, porque somos nosotros mismos los que nos hacemos daño y los que después, como consecuencia, dañamos al deportista...",
       "keywords": [
-        "coherencia",
         "crecimiento-vertical",
+        "coherencia",
         "etiquetas",
-        "juicios",
+        "interpretación",
         "vestuario",
         "confianza"
       ],
@@ -95,72 +146,172 @@
         "Ejemplo"
       ],
       "search_questions": [
-        "¿Qué diferencia hay entre el crecimiento horizontal y vertical del profesional?",
-        "¿Por qué es importante mantener la coherencia interna ante los deportistas?",
-        "¿Qué peligro tienen las etiquetas y juicios rápidos dentro de un cuerpo técnico?"
+        "¿Qué diferencia hay entre crecimiento horizontal y vertical?",
+        "¿Qué significa tener coherencia en el cuerpo técnico?",
+        "¿Por qué son peligrosas las etiquetas subjetivas sobre los jugadores?"
       ],
       "related_terms": [
         "coherencia",
         "vertical",
         "etiquetas",
         "juicios",
-        "comunicación",
-        "vestuario"
+        "interpretación",
+        "comunicación"
       ],
       "relevance_score": 5,
-      "context_before": "Se ha definido la diferencia entre actuar desde la utilidad o desde la necesidad egoica de ser importante.",
-      "context_after": "Se detallan cinco herramientas prácticas finales de gestión."
+      "context_before": "Se establecieron las bases de la utilidad frente al ego en la evaluación personal del técnico.",
+      "context_after": "El ponente da paso a la sección final, donde proporcionará 5 herramientas prácticas para aplicar estos conceptos."
     },
     {
-      "id": "WEBVTT-3-003",
+      "id": "WEBVTT-3-004",
       "video_title": "La dimensión invisible del rendimiento",
       "speaker": "Antonio Caballero",
-      "start_timestamp": "00:09:47",
-      "end_timestamp": "00:19:12",
-      "start_seconds": 587,
-      "end_seconds": 1152,
-      "duration_seconds": 565,
-      "timestamp_url": "?t=587",
-      "title": "5 Herramientas Prácticas: Mapa de la Mano, Filtros y Hábitos",
-      "summary": "Presenta cinco recursos: 1) El 'mapa de la mano' para identificar cinco miedos. 2) Los tres filtros de Sócrates (verdad, bondad, necesidad). 3) Los hábitos atómicos de James Clear (obvio, atractivo, sencillo, satisfactorio). 4) Tres pasos para resolver conflictos: abandonar ego, repetir lo escuchado y empatizar. 5) Pedir feedback: cinco juicios positivos y negativos a tres cercanos.",
-      "literal_quote": "Si la base no está trabajada, todo lo que construimos encima de esa base creo que es mucho más frágil de lo que parece.",
-      "full_transcript": "Cinco aplicaciones prácticas o cinco recursos. Él hacía referencia a que nosotros en la mano tenemos un mapa... reconocer qué miedos nos mueven (aprobación, sentirse señalado, a la acción, al compromiso, a destacar). La segunda herramienta... los tres filtros de Sócrates: ¿estoy seguro de que es verdad?, ¿es sano, es bueno?, ¿es necesario?. La tercera herramienta... Hábitos Atómicos de James Clear: identidad, proceso; hacerlo obvio, hacerlo atractivo, hacerlo sencillo y hacerlo satisfactorio. En la cuarta herramienta... tres pasos en un conflicto... desapégate de todo lo que tenga que ver con tu ego, repítelo para demostrar que le has escuchado... empieza ese tercer paso con: 'Yo en tu lugar me sentiría exactamente igual'. Y por último... os propongo que pidáis a tres personas cercanas... que escriban cinco juicios positivos y cinco juicios negativos sobre vuestro comportamiento. Si la base no está trabajada, todo lo que construimos encima de esa base creo que es mucho más frágil de lo que parece.",
+      "start_timestamp": "00:09:54",
+      "end_timestamp": "00:12:54",
+      "start_seconds": 594,
+      "end_seconds": 774,
+      "duration_seconds": 180,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=594",
+      "title": "Herramientas Prácticas: Mapa de la Mano y Filtros de Sócrates",
+      "summary": "Se presentan dos recursos de autoconocimiento y comunicación para el técnico: el 'mapa de la mano' para identificar cinco miedos fundamentales (aprobación, sentirse señalado, acción, compromiso, destacar) y los tres filtros de Sócrates (verdad, bondad, necesidad) que deben aplicarse antes de intervenir comunicativamente en el vestuario.",
+      "literal_quote": "Si alguna falla, plantéate si realmente necesitas decir lo que vas a decir.",
+      "full_transcript": "Cinco aplicaciones prácticas o cinco recursos... Esta herramienta me la comentaba Juan Miguel Fernández Balboa... que nosotros en la mano tenemos un mapa. Todas las personas tenemos este mapa y es reconocer qué miedos nos mueven. El dedo pulgar... es realmente que tenemos la necesidad de que nos aprueben... El segundo dedo hace referencia a que tenemos miedo a sentirnos señalados. El tercer dedo hace referencia al miedo a la acción. El cuarto dedo... es el miedo al compromiso. Y el quinto dedo es el miedo o la necesidad de destacar... La segunda herramienta, nos vamos más de 2.000 años atrás en la historia... que son los tres filtros de Sócrates, que hace referencia a que antes de intervenir... apliquemos tres filtros. En primer lugar, lo que voy a decir, ¿estoy seguro de que es verdad?... En segundo lugar, lo que voy a decir, ¿es sano, es bueno, es positivo?... Y en tercer lugar... ¿es necesario, va a cambiar algo si lo digo o estoy únicamente metiendo más información innecesaria? Si las tres respuestas son sí, habla. Si alguna falla, plantéate si realmente necesitas decir lo que vas a decir.",
       "keywords": [
+        "mapa-de-la-mano",
         "miedos",
-        "filtros-Sócrates",
-        "hábitos",
-        "James-Clear",
-        "resolución-conflictos",
-        "feedback"
+        "filtros-de-Sócrates",
+        "comunicación-efectiva",
+        "autoconocimiento",
+        "herramientas"
       ],
       "entities": [
-        "Sócrates",
-        "James Clear"
+        "Juan Miguel Fernández Balboa",
+        "Sócrates"
       ],
       "topics": [
         "Comunicación",
-        "Metodología"
+        "Performance & Context"
       ],
       "content_type": [
         "Herramienta",
         "Metodología"
       ],
       "search_questions": [
-        "¿Cuáles son los miedos descritos en el mapa de la mano?",
-        "¿Cómo aplicar los filtros de Sócrates en la comunicación del staff?",
-        "¿Cuáles son los pasos clave para resolver un conflicto deportivo?"
+        "¿Cuáles son los 5 miedos representados en el mapa de la mano?",
+        "¿Cuáles son los tres filtros de Sócrates para la comunicación?",
+        "¿Cómo se aplican los filtros de Sócrates en un vestuario deportivo?"
       ],
       "related_terms": [
-        "herramientas",
-        "prácticas",
-        "hábitos",
-        "resolución",
-        "conflictos",
-        "feedback"
+        "mapa",
+        "mano",
+        "miedos",
+        "filtros",
+        "Sócrates",
+        "comunicación"
       ],
       "relevance_score": 5,
-      "context_before": "Se advirtió del peligro de encasillar al jugador y el valor de ser coherentes.",
-      "context_after": "Se concluye el webinar."
+      "context_before": "Se explicó la importancia de la coherencia y se advirtió sobre el daño de poner etiquetas subjetivas.",
+      "context_after": "Se presenta la tercera herramienta, basada en el modelo de creación de hábitos de James Clear."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero",
+      "start_timestamp": "00:12:54",
+      "end_timestamp": "00:15:01",
+      "start_seconds": 774,
+      "end_seconds": 901,
+      "duration_seconds": 127,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=774",
+      "title": "Aplicación de los Hábitos Atómicos para la Adherencia al Gimnasio",
+      "summary": "Se aplican los principios de James Clear ('Hábitos Atómicos') al entorno del fútbol. Para generar adherencia en tareas como el trabajo preventivo en el gimnasio, el técnico debe diseñar rutinas haciéndolas obvias, atractivas, sencillas y satisfactorias, uniendo la identidad del atleta al proceso.",
+      "literal_quote": "Vamos a hacerlo atractivo, también, para que eso pueda generar una mayor adherencia. Vamos a hacerlo sencillo, no empecemos por cosas que los jugadores no dominen.",
+      "full_transcript": "La tercera herramienta la he llamado hábitos de alto rendimiento, procede del libro 'Hábitos Atómicos' de James Clear... él plantea los resultados simplemente como consecuencia, en primer lugar, de la identidad, es decir, del quiénes somos y, como consecuencia... a qué hábitos nos han llevado, qué proceso es el que tenemos... Él aterriza esos hábitos en cuatro pasos, que en primer lugar es hacerlo obvio, en segundo lugar es hacerlo atractivo, en tercer lugar, hacerlo sencillo y en cuarto lugar, hacerlo satisfactorio. Esto lo podemos llevar a nuestro trabajo perfectamente en una situación de: si nosotros consideramos que la crioterapia es importante o algo más accesible, si el trabajo de gimnasio... es algo más que necesario para nosotros, vamos a tratar de facilitar que el trabajo de gimnasio para aquellos jugadores a los que no les atrae... lo vamos a hacer en primer lugar que sea obvio, acercando el trabajo de gimnasio... Vamos a hacerlo atractivo, también, para que eso pueda generar una mayor adherencia. Vamos a hacerlo sencillo, no empecemos por cosas que los jugadores no dominen. Y en cuarto lugar, vamos a asegurarnos de que esos tres pasos hacen que su experiencia en el gimnasio... pueda ser satisfactoria.",
+      "keywords": [
+        "Hábitos-Atómicos",
+        "James-Clear",
+        "adherencia",
+        "gimnasio",
+        "identidad",
+        "proceso"
+      ],
+      "entities": [
+        "James Clear"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los 4 pasos de los Hábitos Atómicos aplicados al deporte?",
+        "¿Cómo generar mayor adherencia al trabajo de gimnasio en futbolistas?",
+        "¿Qué relación hay entre identidad, proceso y resultados según James Clear?"
+      ],
+      "related_terms": [
+        "hábitos",
+        "atómicos",
+        "adherencia",
+        "obvio",
+        "atractivo",
+        "sencillo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se expusieron las herramientas del mapa de la mano y los filtros de Sócrates.",
+      "context_after": "Se abordan las dos últimas herramientas: gestión de conflictos uno a uno y recogida de feedback externo."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero",
+      "start_timestamp": "00:15:01",
+      "end_timestamp": "00:19:12",
+      "start_seconds": 901,
+      "end_seconds": 1152,
+      "duration_seconds": 251,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=901",
+      "title": "Resolución de Conflictos, Feedback 360 y Conclusión del Webinar",
+      "summary": "Se explican tres pasos para gestionar conflictos con deportistas desconectados: desapegarse del ego, escuchar activamente repitiendo su mensaje, y empatizar validando sus sentimientos ('Yo en tu lugar me sentiría igual'). Seguidamente, se propone pedir feedback (5 juicios positivos y negativos) a tres personas cercanas. Concluye recordando que la dimensión invisible humana es la verdadera base frágil de la pirámide del rendimiento.",
+      "literal_quote": "Pero si la base no está trabajada, todo lo que construimos encima de esa base creo que es mucho más frágil de lo que parece.",
+      "full_transcript": "En la cuarta herramienta... hago referencia en este homenaje que trato de hacer a Juan Miguel, a tres pasos que él me recomendó en una situación... con un deportista, que habíamos tenido un conflicto... Utiliza estos tres pasos. En primer lugar... desapégate de todo lo que tenga que ver con tu ego, con tu necesidad de tener razón... 'Oye, ¿qué tal estás?... no sé cómo te puedo ayudar'. Eso me abría la puerta a que él pudiese expresarse... 'Lo que él te diga, repítelo. Así demuéstrale que le has escuchado de verdad'... Y en tercer lugar... empieza ese tercer paso con: 'Yo en tu lugar me sentiría exactamente igual'. A partir de ahí, seguramente que el estado del deportista para poder recibir y percibir de otra manera tu opinión, sea desde un estado también de mucha más apertura... Y por último... os propongo que pidáis a tres personas cercanas... que escriban cinco juicios positivos y cinco juicios negativos sobre vuestro comportamiento... ¿qué impacto han tenido en vosotros sus opiniones?... Para terminar... volvemos al trabajo y seguimos invirtiendo el 95 % de nuestra energía, el 90 % de nuestra energía, seguramente, en la punta del iceberg, en los GPS, en las métricas... Pero si la base no está trabajada, todo lo que construimos encima de esa base creo que es mucho más frágil de lo que parece. Siempre ha sido así. Y lo que proponía hoy es que tratemos de dejar de verlo como un complemento interesante, que empecemos a tratarlo como lo que es, como la base de una pirámide.",
+      "keywords": [
+        "resolución-conflictos",
+        "empatía",
+        "feedback",
+        "dimensión-invisible",
+        "base-pirámide",
+        "escucha-activa"
+      ],
+      "entities": [
+        "Juan Miguel"
+      ],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres pasos para resolver un conflicto con un deportista?",
+        "¿Cómo funciona la herramienta de feedback de los 5 juicios?",
+        "¿Por qué es frágil la pirámide del rendimiento si solo se basa en GPS y métricas?"
+      ],
+      "related_terms": [
+        "resolución",
+        "conflictos",
+        "feedback",
+        "juicios",
+        "empatía",
+        "base"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo aplicar los Hábitos Atómicos a las rutinas de trabajo en el fútbol.",
+      "context_after": "Cierre del webinar y despedida del ponente."
     }
   ]
 }
