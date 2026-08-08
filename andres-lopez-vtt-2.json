@@ -1,0 +1,187 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Más allá de las métricas tradicionales GPS - GPS 2.0",
+    "speaker": "Andrés López Sagarra",
+    "total_duration": "00:18:47",
+    "total_duration_seconds": 1127,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Más allá de las métricas tradicionales GPS - GPS 2.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:07:03",
+      "start_seconds": 1,
+      "end_seconds": 423,
+      "duration_seconds": 422,
+      "timestamp_url": "?t=1",
+      "title": "El cuadrante de Buchheit y las limitaciones del GPS 2.0",
+      "summary": "Utilizando el cuadrante de monitorización de Martin Buchheit, se aclara que el GPS es una herramienta descriptiva diseñada para medir la carga y respuesta neuromuscular. El principal error del GPS 2.0 ha sido intentar obtener datos de carga metabólica interna o fatiga directa, para lo cual no fue diseñado.",
+      "literal_quote": "El GPS no nos va a dar información sobre la fatiga, la respuesta metabólica o la carga interna de por sí sola.",
+      "full_transcript": "El GPS no nos va a dar información sobre la fatiga, la respuesta metabólica o la carga interna de por sí sola. Esta es una de las principales limitaciones que se ha tenido hasta ahora en el GPS 2.0: se esperaba más o se querían interpretar más variables de manera más profunda de lo que realmente esta herramienta había nacido para tener como objetivo. Si nos fijamos en este cuadro, que es de Martin Buchheit... encontramos que el GPS donde de verdad nos va a ayudar es a identificar la carga neuromuscular y la respuesta neuromuscular. Alguna vez se ha intentado que esta herramienta nos dé respuesta a la carga metabólica interna... pero realmente no es una herramienta que sirva para eso. Entonces, tenemos que darle, y este cuadro sirve para eso, para ubicar para qué sirve el GPS y qué podemos esperar de él.",
+      "keywords": [
+        "gps-2.0",
+        "martin-buchheit",
+        "carga-neuromuscular",
+        "respuesta-metabolica",
+        "monitorizacion"
+      ],
+      "entities": [
+        "Martin Buchheit"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Para qué sirve realmente el GPS según el cuadrante de Martin Buchheit?",
+        "¿Cuáles son los principales errores al interpretar las métricas del GPS 2.0?"
+      ],
+      "related_terms": [
+        "cuadrante de monitorización",
+        "carga neuromuscular",
+        "carga metabólica interna"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación sobre cómo se han entendido las métricas del GPS en los últimos 20 años.",
+      "context_after": "Se detalla cómo el tracking lineal ignora los sensores inerciales del dispositivo."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Más allá de las métricas tradicionales GPS - GPS 2.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:07:04",
+      "end_timestamp": "00:12:16",
+      "start_seconds": 424,
+      "end_seconds": 736,
+      "duration_seconds": 312,
+      "timestamp_url": "?t=424",
+      "title": "Tracking lineal vs sensores internos desaprovechados",
+      "summary": "El GPS 2.0 basa sus métricas (velocidad, aceleraciones, distancias) únicamente en el cálculo de tiempo y distancia satelital (tracking). Esto desaprovecha la valiosa información de los magnetómetros, giroscopios y acelerómetros internos, perdiéndose la verdadera magnitud de las aceleraciones y cambios de dirección.",
+      "literal_quote": "Las aceleraciones, tal y como las hemos estado en contacto, son aceleraciones que se derivan de la información de GPS, de la velocidad, y que, por lo tanto, realmente no está recogiendo toda la variedad de aceleraciones.",
+      "full_transcript": "A día de hoy, lo que se ha utilizado siempre, y es una de las principales limitaciones del GPS 2.0, es la información que proviene del tracking, es decir, de los satélites y de la señal del movimiento (desplazamiento). A partir de esta señal se ha derivado el resto de métricas: aceleraciones, desaceleraciones, velocidad máxima, velocidad, distancia total... Todo se ha derivado de esta señal de tracking, pero realmente estos dispositivos incluyen información mucho más rica y completa que hasta a día de hoy ha sido totalmente pasada por alto. Se cuenta con una serie de sensores internos en los que hay magnetómetros, giroscopios y acelerómetros que nos van a dar una información del posicionamiento del jugador... Esto es muy importante que entendamos que las aceleraciones... se derivan de la información de GPS, de la velocidad, y que, por lo tanto, realmente no está recogiendo toda la variedad de aceleraciones que se producen durante todos los movimientos: fuerza centrípeta, aceleración en el plano frontal. Todo eso nos lo estamos perdiendo.",
+      "keywords": [
+        "tracking",
+        "sensores-internos",
+        "acelerometro",
+        "fuerza-centripeta",
+        "velocidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿De dónde derivan las métricas de aceleración en el GPS 2.0?",
+        "¿Qué información están omitiendo los dispositivos GPS tradicionales al usar solo la señal de tracking?"
+      ],
+      "related_terms": [
+        "señal de tracking",
+        "magnetómetros y giroscopios",
+        "derivación matemática de velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los límites metodológicos al querer medir carga metabólica con GPS.",
+      "context_after": "Se presenta la redundancia estadística provocada por medir todo en base a distancia y tiempo."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Más allá de las métricas tradicionales GPS - GPS 2.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:12:16",
+      "end_timestamp": "00:16:03",
+      "start_seconds": 736,
+      "end_seconds": 963,
+      "duration_seconds": 227,
+      "timestamp_url": "?t=736",
+      "title": "Redundancia estadística y alta correlación de variables",
+      "summary": "Al derivar todas las variables únicamente de la distancia y el tiempo, las métricas como aceleraciones, distancia explosiva y high speed running presentan una altísima correlación entre sí (>0.8). En la práctica, se está analizando el mismo fenómeno con distintos nombres, sin aportar información complementaria.",
+      "literal_quote": "Realmente estamos analizando lo mismo, pero con diferentes nombres y que varían levemente, pero no nos están hablando de información diferente.",
+      "full_transcript": "Como todas estas variables provienen de la distancia y el tiempo, todas tienen una correlación bastante alta entre sí mismas. Es decir, distancia, tiempo, high speed running, distancia sprint, número de aceleraciones, si nos ponemos a cruzarlas entre ellas, van a tener correlaciones más bien altas. ¿Esto qué quiere decir? Que varias variables nos están explicando básicamente lo mismo. No estamos obteniendo información que sea muy diferente entre sí. Realmente estamos analizando lo mismo, pero con diferentes nombres y que varían levemente, pero no nos están hablando de información diferente o medida de diferentes formas. Si vemos high speed running va a tener correlaciones positivas con distancia, con distancia explosiva también, con distancia a alta intensidad. Entonces, tenemos que encontrar variables que entre sí sean complementarias y no repetitivas.",
+      "keywords": [
+        "correlacion",
+        "redundancia",
+        "high-speed-running",
+        "distancia",
+        "estadistica"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Data Science"
+      ],
+      "content_type": [
+        "Análisis",
+        "Validación"
+      ],
+      "search_questions": [
+        "¿Por qué hay tanta correlación entre las métricas del GPS 2.0?",
+        "¿Qué problema genera la redundancia estadística en el análisis de datos de GPS?"
+      ],
+      "related_terms": [
+        "alta correlación",
+        "variables complementarias",
+        "análisis estadístico repetitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo la señal de velocidad pierde información multidireccional.",
+      "context_after": "Demostración visual de cómo dos acciones diferentes generan datos idénticos en el GPS 2.0."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Más allá de las métricas tradicionales GPS - GPS 2.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:16:03",
+      "end_timestamp": "00:18:47",
+      "start_seconds": 963,
+      "end_seconds": 1127,
+      "duration_seconds": 164,
+      "timestamp_url": "?t=963",
+      "title": "Subestimación del trabajo mecánico y cambios de dirección",
+      "summary": "El GPS 2.0 reporta los mismos números para una carrera puramente lineal sin balón y para una acción táctica compleja con cambios de dirección y frenadas. Al ignorar estas trayectorias curvilíneas, se pasa por alto entre un 35% y un 70% del trabajo mecánico real, dificultando procesos como el return to play.",
+      "literal_quote": "Estamos ignorando todo lo que es el cambio de dirección y, además, estamos pasando entre el 35 % y el 70 % del trabajo mecánico que se produce en maniobras significativas del juego.",
+      "full_transcript": "Nos encontramos que arriba es una acción totalmente lineal, sin balón, descontextualizada totalmente, y la de abajo es una acción que puede ser técnica y tácticamente más rica... Si nos fijamos en los números, tanto la distancia total como el high speed running, como la velocidad total, como la máxima aceleración... prácticamente es lo mismo. Visualmente, tenemos muy claro que han sido acciones totalmente diferentes, pero si tuviéramos que exponerle solamente usando los datos numéricos del dashboard a un compañero, no veríamos ninguna diferencia. ¿Cuál es la principal consecuencia de todo esto? Que estamos ignorando el cambio de dirección. Las métricas tradicionales fallan en que no se mide la aceleración debida a los cambios de velocidad. Estamos ignorando todo lo que es el cambio de dirección y, además, estamos pasando entre el 35 % y el 70 % del trabajo mecánico que se produce en maniobras significativas del juego. Si queremos monitorizar la carga de entrenamiento de manera efectiva y más durante un proceso de return to play, necesitamos... conocer en mayor profundidad qué es lo que está sucediendo.",
+      "keywords": [
+        "trabajo-mecanico",
+        "cambio-direccion",
+        "subestimacion",
+        "return-to-play",
+        "limitaciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué el GPS 2.0 no sirve para diferenciar un sprint lineal de uno con cambios de dirección?",
+        "¿Cuánto trabajo mecánico se ignora al usar métricas tradicionales?"
+      ],
+      "related_terms": [
+        "acciones descontextualizadas",
+        "cambio de dirección",
+        "subestimación del trabajo mecánico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la redundancia matemática de basar los datos solo en tiempo y distancia.",
+      "context_after": "Cierre del capítulo dedicado a las limitaciones del GPS 2.0."
+    }
+  ]
+}

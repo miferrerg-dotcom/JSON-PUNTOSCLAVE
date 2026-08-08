@@ -1,0 +1,231 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "Más allá de las métricas tradicionales GPS",
+    "speaker": "Andrés López Sagarra",
+    "total_duration": "00:15:42",
+    "total_duration_seconds": 942,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Más allá de las métricas tradicionales GPS",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:01:34",
+      "end_timestamp": "00:04:08",
+      "start_seconds": 94,
+      "end_seconds": 248,
+      "duration_seconds": 154,
+      "timestamp_url": "?t=94",
+      "title": "El reto de transformar datos en información útil",
+      "summary": "En el alto rendimiento se recolectan grandes volúmenes de datos que exigen mucho tiempo, pero el verdadero reto radica en la capacidad del profesional para transformar esos datos en información que resuelva problemas reales, más allá de la tecnología en sí.",
+      "literal_quote": "La capacidad de transformar esto en información es algo que va más allá de la propia tecnología.",
+      "full_transcript": "Lo que estamos recolectando no es otra cosa que datos. Muchas veces nos empeñamos en decir que es información que vamos a utilizar para tomar las mejores decisiones, pero realmente lo que estamos recolectando son datos. La capacidad de transformar esto en información es algo que va más allá de la propia tecnología. Todos estos datos nos requerían una inversión grandísima de tiempo... muchas veces no somos capaces de obtener la información que nosotros queremos. Muchas veces es más nuestro deseo de buscar una determinada solución en un dato que que esa tecnología o ese dato nos dé esa información de medida directa.",
+      "keywords": [
+        "datos",
+        "informacion",
+        "tecnologia",
+        "toma-decisiones",
+        "recoleccion"
+      ],
+      "entities": [
+        "FIFA Medical Center",
+        "Doha"
+      ],
+      "topics": [
+        "Data Science",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre recolectar datos y tener información útil?",
+        "¿Por qué la tecnología por sí sola no garantiza buenas decisiones?"
+      ],
+      "related_terms": [
+        "transformación de datos",
+        "toma de decisiones",
+        "análisis deportivo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación de Andrés López y su trayectoria en diferentes deportes.",
+      "context_after": "Presentación del índice del webinar sobre las métricas tradicionales y el GPS 3.0."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Más allá de las métricas tradicionales GPS",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:04:17",
+      "end_timestamp": "00:05:39",
+      "start_seconds": 257,
+      "end_seconds": 339,
+      "duration_seconds": 82,
+      "timestamp_url": "?t=257",
+      "title": "Evolución del GPS 2.0 al GPS 3.0",
+      "summary": "El análisis de datos está pasando del GPS 2.0, dominado por métricas lineales y ratios de entrenamiento, al GPS 3.0, que rescata conceptos olvidados para brindar un entendimiento del esfuerzo mucho más verídico, preciso e individual.",
+      "literal_quote": "Vamos a tener una información que es un poco más verídica o más real o más cercana a lo que está sucediendo para tomar decisiones.",
+      "full_transcript": "Vamos a tratar el cambio que ha habido del GPS 2.0, que es la forma de entender la información captada con los GPS que ha dominado la ciencia del deporte en los últimos 20 años... a un salto de calidad que nosotros denominamos el GPS 3.0. Hay ciertas variables y ciertos conceptos que de manera tradicional se han olvidado del GPS y los últimos avances tecnológicos nos permiten utilizarlos... para tener un mayor entendimiento de una forma más precisa y más individual de lo que está sucediendo en el campo. Vamos a tener una información que es un poco más verídica o más real o más cercana a lo que está sucediendo para tomar decisiones.",
+      "keywords": [
+        "gps-2.0",
+        "gps-3.0",
+        "metricas",
+        "monitorizacion",
+        "precision"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre el GPS 2.0 y el GPS 3.0?",
+        "¿Por qué es necesario el salto hacia el GPS 3.0 en el fútbol?"
+      ],
+      "related_terms": [
+        "ratios de entrenamiento",
+        "variables tradicionales",
+        "decisiones informadas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del índice del webinar y las demandas de los deportes colectivos.",
+      "context_after": "Analogía sobre la ceguera atencional y el rol de las herramientas de medición."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Más allá de las métricas tradicionales GPS",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:06:40",
+      "end_timestamp": "00:08:15",
+      "start_seconds": 400,
+      "end_seconds": 495,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=400",
+      "title": "La tecnología no hace al profesional (Analogía del meteorólogo)",
+      "summary": "Utilizar herramientas tecnológicas (GPS, plataformas de fuerza) no convierte a alguien en científico deportivo, al igual que medir el viento no te hace meteorólogo. El éxito reside en traducir esa información en decisiones que impacten al jugador.",
+      "literal_quote": "El rendimiento como profesional de alguien que usa una tecnología se podría medir con la cantidad de decisiones que tomas en base a esta herramienta, más que con la cantidad de evaluaciones que haces.",
+      "full_transcript": "Medir el viento, o si nosotros ponemos un pluviómetro... no nos va a hacer meteorólogos. Igual que poner un GPS entrenando o medir un salto vertical con unas plataformas de fuerza no nos va a hacer 'sport scientists'. Es la habilidad de transformar esta información en decisiones la que te hace un buen profesional. Si todo este proceso no termina en una decisión que afecte o que deje de afectar al jugador, todo lo que hemos hecho antes no habrá servido para nada. El rendimiento como profesional de alguien que usa una tecnología, se podría medir con la cantidad de decisiones que tomas en base a esta herramienta, más que con la cantidad de evaluaciones que haces.",
+      "keywords": [
+        "toma-decisiones",
+        "herramientas",
+        "impacto",
+        "analogia",
+        "sport-scientist"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Analogía"
+      ],
+      "search_questions": [
+        "¿Qué significa la analogía del meteorólogo en el análisis de datos deportivos?",
+        "¿Cómo se mide el éxito de un Sport Scientist según Andrés López?"
+      ],
+      "related_terms": [
+        "aplicación de tecnología",
+        "toma de decisiones deportivas",
+        "impacto en el jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejercicio de atención sobre contar pases.",
+      "context_after": "Análisis de las demandas físicas de los deportes de equipo versus individuales."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Más allá de las métricas tradicionales GPS",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:08:16",
+      "end_timestamp": "00:11:36",
+      "start_seconds": 496,
+      "end_seconds": 696,
+      "duration_seconds": 200,
+      "timestamp_url": "?t=496",
+      "title": "Naturaleza caótica e intermitente de los deportes colectivos",
+      "summary": "Frente a los esfuerzos estables de los deportes individuales, el fútbol es asincrónico y caótico, intercalando momentos de baja intensidad con picos extremos. Estas acciones máximas preceden momentos determinantes y se correlacionan altamente con el riesgo de lesión.",
+      "literal_quote": "Los deportes colectivos tienen un carácter caótico y asincrónico total, en el que se intercalan momentos de más exigencia y otros de menos.",
+      "full_transcript": "Los deportes colectivos tienen un carácter caótico y asincrónico total, en el que se intercalan momentos de más exigencia y otros de menos. Es un deporte intermitente. Además de que tienen un carácter intermitente, cuando tratamos de monitorizar las acciones de máxima intensidad o de máxima velocidad, que casualmente suelen preceder los momentos más importantes de la competición... esos momentos son los más determinantes. También los que tienen una mayor relación con sufrir una lesión, porque también son los más intensos muscularmente.",
+      "keywords": [
+        "caotico",
+        "asincronico",
+        "intermitente",
+        "intensidad",
+        "riesgo-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué características diferencian las demandas físicas del fútbol frente al atletismo?",
+        "¿Qué relación existe entre las acciones de máxima velocidad y las lesiones en el fútbol?"
+      ],
+      "related_terms": [
+        "esfuerzos intermitentes",
+        "demandas caóticas",
+        "acciones determinantes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre el valor de la toma de decisiones por encima de la medición.",
+      "context_after": "Análisis profundo sobre la geometría curvilínea de los esfuerzos de alta intensidad."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Más allá de las métricas tradicionales GPS",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:11:41",
+      "end_timestamp": "00:15:42",
+      "start_seconds": 701,
+      "end_seconds": 942,
+      "duration_seconds": 241,
+      "timestamp_url": "?t=701",
+      "title": "Trayectorias curvilíneas en esfuerzos de alta intensidad",
+      "summary": "Las acciones explosivas (high speed running, desmarques, aceleraciones) rara vez son en línea recta; suelen ser curvilíneas e interrumpidas por constantes cambios de velocidad. No tener en cuenta esta geometría resulta en una pobre medición del impacto real sobre la musculatura del jugador.",
+      "literal_quote": "Constantemente están realizando esfuerzos en los que se producen aceleraciones y desaceleraciones, y rara vez son rectos.",
+      "full_transcript": "La mayoría de estos esfuerzos no se producen de manera recta... Conforme vamos incrementando el umbral de velocidad, por ejemplo, a una velocidad de high speed running de más de 21 km/h, siguen siendo curvilíneas. Incluso son intermitentes durante el mismo esfuerzo: arranca, aumenta la velocidad, disminuye... y vuelve a acelerar. Constantemente están realizando esfuerzos en los que se producen aceleraciones y desaceleraciones, y rara vez son rectos. ¿Por qué esto no se tiene en cuenta cuando estamos monitorizando el trabajo que realiza el jugador? Esto obviamente va a tener un impacto muy diferente si se produce de una forma o de otra en los grupos musculares.",
+      "keywords": [
+        "curvilineo",
+        "trayectorias",
+        "high-speed-running",
+        "aceleraciones",
+        "impacto-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo son las trayectorias de alta velocidad en un partido de fútbol?",
+        "¿Por qué es un error ignorar los cambios de dirección al medir la carga física?"
+      ],
+      "related_terms": [
+        "esfuerzos curvilíneos",
+        "impacto biomecánico",
+        "monitorización de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del deporte colectivo como una actividad caótica y asincrónica.",
+      "context_after": "Cierre del primer fragmento de la presentación (capítulo 1)."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "video": {
+    "video_id": "WEBVTT-4",
+    "video_title": "Más allá de las métricas tradicionales GPS - Capítulo 4",
+    "speaker": "Andrés López Sagarra",
+    "total_duration": "00:31:14",
+    "total_duration_seconds": 1874,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo 4",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:06:36",
+      "start_seconds": 1,
+      "end_seconds": 396,
+      "duration_seconds": 395,
+      "timestamp_url": "?t=1",
+      "title": "Concepto de Tiempo de Intensidad",
+      "summary": "Se propone una nueva métrica para medir la densidad del entrenamiento: calcular el tiempo acumulado que un jugador pasa por encima de un umbral específico (ej. 80% de su valor máximo en partido), dividiendo la sesión en ventanas de un minuto.",
+      "literal_quote": "Es este concepto de generar un umbral en base al valor máximo y cuantificar cuánto tiempo pasamos por encima de cierto umbral.",
+      "full_transcript": "Esto es un concepto que nosotros proponemos como una mejor forma de medir la intensidad de la sesión. Es algo muy similar a cuando nos colocamos nuestro reloj Garmin con nuestros pulsómetros... Es este concepto de generar un umbral en base al valor máximo y cuantificar cuánto tiempo pasamos por encima de cierto umbral. Tomamos ese valor como referencia y después dividimos toda la sesión en ventanas de un minuto. Esto nos va a permitir detectar en qué minutos el jugador ha estado por encima de un umbral y contabilizar el tiempo que realmente se encuentra por encima... Cuántos minutos ha pasado el jugador por encima del 80 % de su máximo trabajo en partido. Hemos comprobado que esta es una variable que nos indica con mayor detalle cuál es la fatiga del jugador.",
+      "keywords": [
+        "tiempo-intensidad",
+        "umbral",
+        "densidad",
+        "ventanas-minuto",
+        "control-carga"
+      ],
+      "entities": [
+        "Garmin"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo se mide el tiempo de intensidad usando GPS?",
+        "¿Por qué es útil dividir la sesión en ventanas de un minuto para el control de carga?"
+      ],
+      "related_terms": [
+        "densidad de sesión",
+        "tiempo por encima del umbral",
+        "ventanas de un minuto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del capítulo 4 sobre las principales aplicaciones de las variables del GPS 3.0.",
+      "context_after": "Aplicación de este concepto de tiempo de intensidad al proceso de Return to Play."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo 4",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:06:36",
+      "end_timestamp": "00:18:29",
+      "start_seconds": 396,
+      "end_seconds": 1109,
+      "duration_seconds": 713,
+      "timestamp_url": "?t=396",
+      "title": "Aplicación del Tiempo de Intensidad en Return to Play",
+      "summary": "En procesos de readaptación, guiarse solo por métricas lineales (high speed running) da una falsa sensación de haber replicado las demandas. Monitorizar el trabajo mecánico ('stride' y 'fight') revela que los entrenamientos a menudo carecen del caos y trayectorias curvilíneas reales de la competición.",
+      "literal_quote": "Hay mucho trabajo intermedio que si nosotros nos fijamos solamente en los umbrales más altos, nos estamos perdiendo, pero en realidad es trabajo que no somos capaces tampoco de replicar y que sigue siendo de una intensidad bastante alta.",
+      "full_transcript": "Cuando nos enfocamos en aplicar este concepto al proceso de return to play... vemos que lo que ocurre en competición es esto, es totalmente caos, múltiples entradas y salidas de ese 80 %. Si nosotros hablamos solo de estas métricas, incluso con el tiempo de exposición de high speed running y aceleraciones, podemos pensar que nuestra sesión de return to play ha cumplido totalmente con el objetivo. Pero si nos fijamos en el tiempo de exposición en stride y en fight, vamos a ver que realmente nuestra sesión está bastante lejos de lo que dicta la realidad si nosotros queremos replicar esos escenarios de máxima exigencia. Hay mucho trabajo intermedio que si nosotros nos fijamos solamente en los umbrales más altos, nos estamos perdiendo, pero en realidad es trabajo que no somos capaces tampoco de replicar y que sigue siendo de una intensidad bastante alta.",
+      "keywords": [
+        "return-to-play",
+        "caos-partido",
+        "mechanical-work-fight",
+        "readaptacion",
+        "falsa-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué el High Speed Running no es suficiente para dar el alta en Return to Play?",
+        "¿Cómo ayuda el análisis del trabajo mecánico 'fight' en la readaptación de un jugador?"
+      ],
+      "related_terms": [
+        "falso optimismo de carga",
+        "exigencia competitiva",
+        "trabajo mecánico curvilíneo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del cálculo del tiempo de intensidad y las ventanas de un minuto.",
+      "context_after": "Se presenta un estudio clínico utilizando Myosen para comprobar la fatiga de estas métricas."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo 4",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:18:29",
+      "end_timestamp": "00:27:18",
+      "start_seconds": 1109,
+      "end_seconds": 1638,
+      "duration_seconds": 529,
+      "timestamp_url": "?t=1109",
+      "title": "Evaluación de la fatiga aguda con Myosen",
+      "summary": "Mediante el dispositivo Myosen se demostró una fuerte correlación entre el volumen de trabajo mecánico curvilíneo ('fight') y la caída del readiness neuromuscular. Ignorar esta métrica en el GPS 2.0 provocaba retrocesos invisibles en la readaptación de los jugadores.",
+      "literal_quote": "Pareciendo que hay una relación casi directa entre esta variable de trabajo mecánico 'fight' con la fatiga aguda del jugador.",
+      "full_transcript": "Estuvimos intentando comprobar si mayores volúmenes de tiempo de mechanical work fight... qué efecto tienen estas variables en la fatiga del jugador. Nosotros utilizamos este aparato que se llama Myosen. Evalúa el estado de readiness del jugador midiendo el tiempo de respuesta en el cuádriceps... Cuando hicimos una matriz de comparación... obteníamos que se correlacionaba con bastante potencia y fuerza con una caída en el readiness de todos los jugadores. Cuando pasamos de tres, cuatro... a siete u ocho minutos en este tipo de trabajo, esta fatigabilidad va incrementándose progresivamente, incluso hasta llegar a un 20% de fatigabilidad. Pareciendo que hay una relación casi directa entre esta variable de trabajo mecánico 'fight' con la fatiga aguda del jugador.",
+      "keywords": [
+        "myosen",
+        "readiness",
+        "fatiga-aguda",
+        "mechanical-work-fight",
+        "correlacion"
+      ],
+      "entities": [
+        "Myosen"
+      ],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Validación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué relación hay entre el trabajo mecánico 'fight' y la fatiga neuromuscular?",
+        "¿Cómo se mide el estado de readiness del jugador con Myosen?"
+      ],
+      "related_terms": [
+        "respuesta neuromuscular",
+        "fatiga acumulada",
+        "correlación de métricas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de que los entrenamientos de readaptación suelen subestimar las trayectorias curvas.",
+      "context_after": "Se presenta el ejercicio visual del oso haciendo moonwalk para extraer conclusiones finales."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo 4",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:27:18",
+      "end_timestamp": "00:31:14",
+      "start_seconds": 1638,
+      "end_seconds": 1874,
+      "duration_seconds": 236,
+      "timestamp_url": "?t=1638",
+      "title": "La analogía del oso invisible y conclusiones finales",
+      "summary": "Utilizando la analogía de la ceguera inatencional (no ver al oso por contar los pases), se concluye que obsesionarse solo con las métricas tradicionales de GPS provoca que el cuerpo técnico ignore cargas críticas que determinan la fatiga real del deportista.",
+      "literal_quote": "Igual que aquí no hemos visto el oso porque estábamos muy focalizados contando los pases, es muy fácil que pasemos por alto muchas cosas que suceden en el entrenamiento.",
+      "full_transcript": "Si hemos estado muy concentrados en los pases, porque era la tarea que nos estaban pidiendo, no nos hemos dado cuenta del oso. Igual que aquí no hemos visto el oso porque estábamos muy focalizados contando los pases, es muy fácil que pasemos por alto muchas cosas que suceden en el entrenamiento. Los 'take home messages' serían: necesitamos ser conscientes de las limitaciones de las variables que se derivan de la señal de velocidad. Son útiles, sí... pero hay información que nos estamos perdiendo y que este concepto de GPS 3.0 busca dar un paso más. En procesos de readaptación... si no somos conscientes o no monitorizamos estas variables... no vamos a ser capaces de verdad de entender cuál es la fatiga del jugador y por qué muchas veces suceden retrocesos.",
+      "keywords": [
+        "analogia-oso",
+        "ceguera-inatencional",
+        "conclusiones",
+        "toma-decisiones",
+        "gps-3.0"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Qué nos enseña la analogía del oso sobre el análisis de datos en el deporte?",
+        "¿Cuáles son las conclusiones principales sobre el uso de GPS 3.0 en la readaptación deportiva?"
+      ],
+      "related_terms": [
+        "sesgo de atención",
+        "limitaciones de la velocidad",
+        "decisiones informadas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Validación con el dispositivo Myosen del impacto de las cargas mecánicas en la fatiga aguda.",
+      "context_after": "Agradecimientos, despedida del ponente y fin del webinar."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Más allá de las métricas tradicionales GPS - Capítulo GPS 3.0",
+    "speaker": "Andrés López Sagarra",
+    "total_duration": "00:18:58",
+    "total_duration_seconds": 1138,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo GPS 3.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:08:27",
+      "start_seconds": 0,
+      "end_seconds": 507,
+      "duration_seconds": 507,
+      "timestamp_url": "?t=0",
+      "title": "Fundamentos del GPS 3.0 y la Aceleración Centrípeta",
+      "summary": "El GPS 3.0 supera las limitaciones de la señal satelital al incorporar sensores inerciales (giroscopio, acelerómetro). Esto permite calcular la aceleración centrípeta de las trayectorias curvas y sumarla a la tangencial, obteniendo un vector de aceleración completo para medir el trabajo mecánico real.",
+      "literal_quote": "Cuando acoplamos esta aceleración centrípeta y la combinamos con la aceleración tangencial, vamos a tener una monitorización del vector de aceleración completo.",
+      "full_transcript": "Vamos a dar paso al siguiente punto, que es el GPS 3.0. En este trabajo exploramos cómo variables que son un poco más avanzadas y que no dependen únicamente de la señal satelital y, por lo tanto, de la velocidad, nos pueden expresar y describir con mayor profundidad la carga que realiza el jugador. Incorporando la información de los sensores inerciales, el giroscopio... el GPS va a poder interpretar cuándo el jugador está girando. Cuando son acciones puramente lineales, la aceleración centrípeta es igual a cero. Pero cuando la trayectoria no es totalmente rectilínea, la aceleración centrípeta no es la misma. Cuando acoplamos esta aceleración centrípeta y la combinamos con la aceleración tangencial, vamos a tener una monitorización del vector de aceleración completo. La unidad de medida es el 'mechanical power' (vatios/kg). Cuando calculamos la integral de esta variable, al final obtenemos el volumen de trabajo acumulado, y esto es lo que conocemos como el trabajo mecánico.",
+      "keywords": [
+        "gps-3.0",
+        "aceleracion-centripeta",
+        "sensores-inerciales",
+        "trabajo-mecanico",
+        "vector-aceleracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre el GPS 2.0 y el GPS 3.0?",
+        "¿Cómo se obtiene el vector de aceleración completo en el fútbol?"
+      ],
+      "related_terms": [
+        "aceleración tangencial",
+        "sensores inerciales",
+        "mechanical power"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron las limitaciones matemáticas y estadísticas del GPS 2.0 en capítulos anteriores.",
+      "context_after": "Se detalla cómo categorizar este trabajo mecánico en diferentes planos de movimiento."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo GPS 3.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:08:27",
+      "end_timestamp": "00:14:09",
+      "start_seconds": 507,
+      "end_seconds": 849,
+      "duration_seconds": 342,
+      "timestamp_url": "?t=507",
+      "title": "Clasificación del Trabajo Mecánico: Stride vs Side",
+      "summary": "El trabajo mecánico se clasifica en 'Stride' (carreras continuas que involucran isquiotibiales y gastrocnemios) y 'Side' (cambios de dirección cortos y frenadas que exigen cuádriceps, glúteos y aductores). Esta división permite identificar de manera específica la carga muscular.",
+      "literal_quote": "Durante el mechanical work side, lo que más se involucra son cuádriceps en las frenadas. Vamos a ver cómo afecta la cadera... y también a los aductores.",
+      "full_transcript": "En función de cómo categorizamos nosotros estos esfuerzos... si nosotros agrupamos todas las variables que se producen en cambios de dirección y distancias cortas de frenada y aceleración, obtenemos una variable que denominamos 'mechanical work side'. Lo llamamos así porque está más enfocada en glúteos, músculos de la cadera, abductores, isquios y cuádriceps. Y luego, la que aparece en verde sería el trabajo mecánico que se produce de manera constante, que es el 'mechanical work stride'. Por ejemplo, en el mechanical work stride vamos a ver isquios, el gastrocnemio y los flexores plantares del pie. Y durante el mechanical work side, lo que más se involucra son cuádriceps en las frenadas. Vamos a ver cómo afecta la cadera (musculatura abductora, glúteo) y también a los aductores. El gran beneficio de usar estas variables es, por primera vez, saber dónde está yendo esa carga.",
+      "keywords": [
+        "mechanical-work-side",
+        "mechanical-work-stride",
+        "isquiotibiales",
+        "aductores",
+        "cuadriceps"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Clasificación",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué grupos musculares se ven afectados por el mechanical work side?",
+        "¿Cómo se clasifica el trabajo mecánico en el análisis del GPS 3.0?"
+      ],
+      "related_terms": [
+        "carga muscular",
+        "frenadas y aceleraciones",
+        "trabajo mecánico lineal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de la aceleración centrípeta y el vector de aceleración total.",
+      "context_after": "Se analiza la relación directa que existe entre este tipo de trabajo y la fatiga."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo GPS 3.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:14:09",
+      "end_timestamp": "00:15:16",
+      "start_seconds": 849,
+      "end_seconds": 916,
+      "duration_seconds": 67,
+      "timestamp_url": "?t=849",
+      "title": "El impacto del Trabajo Mecánico Side en la fatiga aguda",
+      "summary": "Las acciones no lineales catalogadas como 'Side' (aceleraciones, giros y frenadas cortas) tienen una relación directa mucho más alta con la fatiga aguda que el trabajo continuo 'Stride', provocando una marcada disminución en el readiness del jugador.",
+      "literal_quote": "El mechanical work side, es decir, estas acciones que se producen cortas, suele tener una relación más alta generando fatiga, más que el mechanical work stride.",
+      "full_transcript": "Y la relación que existe con la fatiga. Esto es algo muy importante, porque lo vamos a ver en las aplicaciones prácticas. El mechanical work side, es decir, estas acciones que se producen cortas, suele tener una relación más alta generando fatiga, más que el mechanical work stride. La relación va a ser más moderada. Sin embargo, tras sesiones de aceleración y desaceleración, de todas estas acciones que se dan curvilíneas, genera una disminución del 'readiness' del jugador mucho más alta que ante el otro trabajo. Es otro motivo más para tener esto presente. Finalmente, vamos a tener una variable que nos va a permitir monitorizar la intensidad de la sesión.",
+      "keywords": [
+        "fatiga-aguda",
+        "readiness",
+        "mechanical-work-side",
+        "intensidad",
+        "desaceleracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué relación hay entre el trabajo mecánico curvilíneo y la fatiga del jugador?",
+        "¿Por qué es importante medir el mechanical work side en el fútbol?"
+      ],
+      "related_terms": [
+        "estado de readiness",
+        "fatiga neuromuscular",
+        "acciones cortas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clasificación detallada de la carga mecánica y grupos musculares implicados.",
+      "context_after": "Se demuestra empíricamente la diferencia entre un drill lineal y uno de fútbol específico."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Más allá de las métricas tradicionales GPS - Capítulo GPS 3.0",
+      "speaker": "Andrés López Sagarra",
+      "start_timestamp": "00:15:16",
+      "end_timestamp": "00:18:58",
+      "start_seconds": 916,
+      "end_seconds": 1138,
+      "duration_seconds": 222,
+      "timestamp_url": "?t=916",
+      "title": "Subestimación del trabajo en drills específicos de fútbol",
+      "summary": "Comparando un drill puramente lineal y otro específico de fútbol, las métricas del GPS 2.0 no muestran diferencias. Sin embargo, el análisis con GPS 3.0 revela una drástica variación en el trabajo no lineal ('Side'), demostrando que ignorar las curvas subestima entre un 30% y un 70% la carga real.",
+      "literal_quote": "Si incorporan más o menos acciones curvilíneas o trayectorias que no sean lineales, podemos estar perdiéndonos entre el 30 y el 70 % de la información.",
+      "full_transcript": "Por lo tanto, a modo de conclusión, si volvemos a visualizar este vídeo que habíamos visto en el GPS 2.0, ya vimos que no había ninguna diferencia en las variables. La de arriba es totalmente lineal y, la de abajo, esa carrera con arco en el que se recorren las mismas distancias... pero el esfuerzo es totalmente diferente. Incorporando las métricas de 3.0, vamos a ver qué diferencia hay. La acción del 'football specific drill' es mucho más rica en cuanto a acciones y desaceleraciones. Esto, que era imperceptible por las métricas de GPS 2.0, encontramos que aquí sí existe una diferencia. Si nos fijamos en el mechanical work stride (linear), veríamos que hay una diferencia, pero tampoco hay tanta: nueve versus seis. Pero cuando acoplamos el 'non linear', que sería en este caso el side... vemos que aquí sí se detecta una gran diferencia entre ambos drills. En uno se detecta cinco y en el otro 14. Entonces, en función del drill, si incorporan más o menos acciones curvilíneas o trayectorias que no sean lineales, podemos estar perdiéndonos entre el 30 y el 70 % de la información.",
+      "keywords": [
+        "subestimacion",
+        "drills-especificos",
+        "trayectorias-curvas",
+        "non-linear",
+        "gps-2.0"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Validación"
+      ],
+      "search_questions": [
+        "¿Cuánta información de carga física se pierde al utilizar el GPS tradicional?",
+        "¿Cómo diferencia el GPS 3.0 un ejercicio lineal de uno específico de fútbol?"
+      ],
+      "related_terms": [
+        "fútbol específico",
+        "trabajo no lineal",
+        "subestimación de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la fatiga aguda asociada a las acciones multidireccionales cortas.",
+      "context_after": "Cierre del bloque explicativo sobre el GPS 3.0 y paso al siguiente punto."
+    }
+  ]
+}
