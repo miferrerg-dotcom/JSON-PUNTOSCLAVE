@@ -1,0 +1,333 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+    "speaker": "Diego Alarcón Riveros",
+    "total_duration": "00:29:35",
+    "total_duration_seconds": 1775,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:03:23",
+      "start_seconds": 4,
+      "end_seconds": 203,
+      "duration_seconds": 199,
+      "timestamp_url": "?t=4",
+      "title": "Introducción y mitos del entrenamiento de la fuerza",
+      "summary": "Diego Alarcón presenta su experiencia profesional en distintos deportes y aborda los mitos comunes sobre el trabajo de fuerza en el fútbol. Señala la falsa creencia de que realizar fuerza en el gimnasio lesiona, vuelve lento al jugador, lo fatiga o limita el crecimiento en edades tempranas.",
+      "literal_quote": "Tener jugadores fuertes e intensos no es una opción, sino que se vuelve una necesidad.",
+      "full_transcript": "Hola a todos, muy buenos días o buenas tardes... Hoy voy a compartir mi ponencia, la cual recibe el nombre de \"El tabú del entrenamiento de la fuerza en el fútbol\". Esta bajada de título... tener jugadores fuertes e intensos no es una opción, sino que se vuelve una necesidad... una de las cosas que más he escuchado es que el futbolista no necesita entrenar en el gimnasio, que realizar fuerza en el gimnasio te lesiona... que la fuerza te limita el crecimiento, que es perjudicial a nivel óseo.",
+      "keywords": [
+        "mitos",
+        "fuerza",
+        "futbol",
+        "experiencia",
+        "tabu"
+      ],
+      "entities": [
+        "Diego Alarcón Riveros",
+        "Club América"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los mitos del entrenamiento de fuerza en el fútbol?",
+        "¿Qué experiencia previa tiene Diego Alarcón en otros deportes?"
+      ],
+      "related_terms": [
+        "tabú",
+        "fuerza en el gimnasio",
+        "crecimiento",
+        "desarrollo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación del webinar sobre el entrenamiento de la fuerza en el fútbol.",
+      "context_after": "Se transita de los mitos a la justificación metodológica empleando el círculo de oro de Simon Sinek."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:03:25",
+      "end_timestamp": "00:07:36",
+      "start_seconds": 205,
+      "end_seconds": 456,
+      "duration_seconds": 251,
+      "timestamp_url": "?t=205",
+      "title": "El Círculo de Oro y las demandas competitivas",
+      "summary": "Utilizando el Círculo de Oro de Simon Sinek, se enfatiza la importancia de empezar por el 'porqué', que radica en las demandas del deporte. El fútbol actual exige acciones explosivas casi una vez por minuto y ha experimentado un aumento continuo en la velocidad y la distancia de sprint, haciendo vital el soporte físico.",
+      "literal_quote": "Las acciones explosivas se realizan casi una vez por minuto... En el 83 % de los goles hubo una acción intensa.",
+      "full_transcript": "Antes de comenzar, me gusta... compartirla desde la perspectiva del círculo de oro de Simon Sinek... Principalmente, entender el porqué, y en el caso de esta presentación serían las demandas y necesidades de nuestro deporte... el foco principal está en dar soporte hacia las acciones de alta intensidad y las acciones de alta velocidad... sabemos que hoy en día las acciones explosivas se realizan casi una vez por minuto... En el 83 % de los goles hubo una acción intensa... El promedio de los futbolistas alcanzaba una velocidad de 32 kilómetros por hora, pasando a 34.",
+      "keywords": [
+        "circulo-de-oro",
+        "demandas",
+        "intensidad",
+        "sprint",
+        "simon-sinek"
+      ],
+      "entities": [
+        "Simon Sinek"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario aplicar el círculo de oro en el entrenamiento deportivo?",
+        "¿Cuáles son las demandas de intensidad en el fútbol moderno?"
+      ],
+      "related_terms": [
+        "círculo de oro",
+        "acciones explosivas",
+        "alta intensidad",
+        "sprint"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los mitos del entrenamiento de fuerza en el fútbol.",
+      "context_after": "Tras exponer las altas demandas físicas, se analiza cómo la congestión de estos esfuerzos deriva en fatiga aguda."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:07:37",
+      "end_timestamp": "00:11:56",
+      "start_seconds": 457,
+      "end_seconds": 716,
+      "duration_seconds": 259,
+      "timestamp_url": "?t=457",
+      "title": "Congestión de partidos, fatiga y daño muscular (DOMS)",
+      "summary": "La alta congestión de partidos impide una recuperación completa, provocando fatiga aguda y residual. El incremento de creatinquinasa, generado por contracciones excéntricas, produce daño muscular (DOMS), disminuyendo el rendimiento neuromuscular, la coordinación y elevando significativamente el riesgo de lesión.",
+      "literal_quote": "La aparición del daño muscular se ha asociado con la disminución del rendimiento neuromuscular, el dolor muscular, reducción de la movilidad, coordinación, percepción del dolor e inflamación.",
+      "full_transcript": "La alta congestión de partidos genera una recuperación insuficiente, lo cual claramente va a llevar a una cantidad de fatiga elevada... un tiempo de recuperación más corto, por ejemplo, menor a cuatro días, se ha asociado con mayor tasa de lesión muscular... El daño muscular se presenta tanto en procesos inmediatos como a largo plazo. Se elevan estos valores de creatinquinasa... hay un déficit de fuerza, hay un déficit de potencia, hay un déficit coordinativo... la coordinación se ve afectada y un mal movimiento en cualquier gesto deportivo puede conllevar a ese riesgo de lesión.",
+      "keywords": [
+        "fatiga",
+        "congestion",
+        "dano-muscular",
+        "creatinquinasa",
+        "doms",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la congestión de partidos a la fatiga del futbolista?",
+        "¿Qué es la creatinquinasa y cómo impacta en las lesiones musculares?"
+      ],
+      "related_terms": [
+        "congestión de partidos",
+        "DOMS",
+        "creatinquinasa",
+        "fatiga aguda y residual"
+      ],
+      "relevance_score": 5,
+      "context_before": "Justificación de la necesidad de estar fuerte para tolerar acciones repetidas de alta intensidad.",
+      "context_after": "Se presenta el cruce de datos evaluativos que demuestran la caída del rendimiento debido a la fatiga explicada."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:12:00",
+      "end_timestamp": "00:16:22",
+      "start_seconds": 720,
+      "end_seconds": 982,
+      "duration_seconds": 262,
+      "timestamp_url": "?t=720",
+      "title": "Relación entre marcadores de fatiga y rendimiento en el salto",
+      "summary": "Al cruzar los valores de creatinquinasa con pruebas físicas, se evidencia que los días con mayor pico de daño muscular (frecuentemente a las 48-72 horas) coinciden exactamente con una caída en el rendimiento del CMJ (Salto en Contramovimiento), lo cual deprime la velocidad y capacidad de aceleración.",
+      "literal_quote": "A medida que el daño muscular medido por la creatinquinasa es alto, existe una disminución en el rendimiento del salto.",
+      "full_transcript": "El rendimiento disminuye cuando incrementó la creatinquinasa. Aquellos jugadores que disminuyeron el rendimiento en el salto en contramovimiento tuvieron una disminución de la distancia en alta intensidad... podemos observar que los días donde hay mayores valores, en este caso de creatinquinasa, coincide con los días que tienen menor rendimiento, en este caso medido por el salto en contramovimiento... Podemos observar cómo esta fatiga se presenta de forma aguda y residual... disminuye el rendimiento.",
+      "keywords": [
+        "cmj",
+        "creatinquinasa",
+        "fatiga",
+        "rendimiento",
+        "evaluacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre la creatinquinasa y el salto CMJ?",
+        "¿Cómo monitorizar la fatiga muscular y su impacto en la velocidad?"
+      ],
+      "related_terms": [
+        "salto en contramovimiento",
+        "CMJ",
+        "marcador neuromuscular",
+        "daño muscular"
+      ],
+      "relevance_score": 4,
+      "context_before": "Detalle sobre el daño muscular y los factores que predisponen a sufrir una lesión.",
+      "context_after": "Se presenta la fuerza máxima como el antídoto principal para prevenir estos déficits de rendimiento y daño muscular."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:16:23",
+      "end_timestamp": "00:23:05",
+      "start_seconds": 983,
+      "end_seconds": 1385,
+      "duration_seconds": 402,
+      "timestamp_url": "?t=983",
+      "title": "La fuerza como factor modificable y efecto protector",
+      "summary": "Jugadores con mayores niveles de fuerza presentan menor elevación de creatinquinasa y recuperan más rápido. Múltiples metaanálisis y estudios demuestran que incrementar la fuerza es el factor de riesgo modificable más efectivo para reducir la incidencia de lesiones musculares en futbolistas de élite y juveniles.",
+      "literal_quote": "El entrenamiento más importante o que tiene mejores cambios a la hora de reducir la incidencia de lesión termina siendo el entrenamiento de fuerza.",
+      "full_transcript": "Aquellos jugadores con menos fuerza... tienen mayores valores de creatinquinasa en comparación con los jugadores que son mucho más fuertes... los jugadores más fuertes se fatigan menos y se recuperan más rápido, vuelven a niveles basales más rápido... encontramos los factores de riesgo interno y externo... ¿Cuáles serían estos factores de riesgo modificables?... la capacidad aeróbica, la anaeróbica, el control neuromuscular, la fuerza... el entrenamiento más importante o que tiene mejores cambios a la hora de reducir la incidencia de lesión termina siendo el entrenamiento de fuerza... El grupo que entrenó [fuerza]... tuvo cuatro lesiones y el grupo que fue control... tuvo 13 lesiones.",
+      "keywords": [
+        "efecto-protector",
+        "recuperacion",
+        "prevencion-lesiones",
+        "fuerza",
+        "factores-modificables",
+        "metaanalisis"
+      ],
+      "entities": [
+        "Tim Gabbett",
+        "Premier League"
+      ],
+      "topics": [
+        "Lesiones",
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué los jugadores fuertes se recuperan más rápido de la fatiga?",
+        "¿Cuál es el mejor método para prevenir lesiones en el fútbol profesional?"
+      ],
+      "related_terms": [
+        "factores modificables",
+        "resiliencia de tejidos",
+        "incidencia de lesiones",
+        "efecto protector"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de la caída del rendimiento y elevación de marcadores inflamatorios por fatiga.",
+      "context_after": "Se avanza de la prevención de lesiones hacia la mejora directa del rendimiento físico con métricas de fuerza relativa."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:23:06",
+      "end_timestamp": "00:26:50",
+      "start_seconds": 1386,
+      "end_seconds": 1610,
+      "duration_seconds": 224,
+      "timestamp_url": "?t=1386",
+      "title": "Fuerza relativa y su correlación con el rendimiento",
+      "summary": "Alcanzar un nivel de fuerza relativa cercano a cargar dos veces el peso corporal en sentadilla optimiza significativamente los marcadores neuromusculares. Existe una correlación lineal: los jugadores más fuertes mejoran en los 10 y 30 metros de sprint, altura de salto (CMJ) y cambios de dirección.",
+      "literal_quote": "Aquellos sujetos que cargan dos veces su peso corporal... tienen mejores marcadores de velocidad o recorren en menos tiempo las distintas distancias analizadas.",
+      "full_transcript": "El incrementar la ganancia de fuerza con un cierto porcentaje... va a beneficiar a los 10 metros \"sprint\", cuatro saltos continuos, salto en contramovimiento... la relación o el ratio de fuerza relativa, que es la relación entre el 1RM y el peso corporal... aquellos sujetos que cargan dos veces su peso corporal... tienen mejores marcadores de velocidad... aquellos jugadores que tienen valores cercanos a dos veces su peso corporal tienen un mejor rendimiento... recorren en menor tiempo los 30 metros en sprint y tienen también una mejor altura en el salto.",
+      "keywords": [
+        "fuerza-relativa",
+        "rendimiento",
+        "sprint",
+        "cmj",
+        "1rm"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es la fuerza relativa y cómo afecta al rendimiento del futbolista?",
+        "¿Cuánto peso debería cargar un futbolista en relación a su peso corporal para optimizar su velocidad?"
+      ],
+      "related_terms": [
+        "fuerza relativa",
+        "1RM",
+        "peso corporal",
+        "correlación neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el rol preventivo de la fuerza y cómo esta actúa sobre la incidencia de lesiones.",
+      "context_after": "Se concluye explicando los beneficios a edades tempranas y un resumen del rol integral de la fuerza."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:26:51",
+      "end_timestamp": "00:29:35",
+      "start_seconds": 1611,
+      "end_seconds": 1775,
+      "duration_seconds": 164,
+      "timestamp_url": "?t=1611",
+      "title": "El entrenamiento de fuerza en edades tempranas y resumen biomotor",
+      "summary": "La evidencia epidemiológica desmiente el riesgo lesivo de entrenar la fuerza en niños. Por el contrario, beneficia su estructura corporal, salud metabólica, psicología y rendimiento. Se concluye que la fuerza es la madre de todas las habilidades biomotoras, mejorando agilidad, potencia y economía de carrera.",
+      "literal_quote": "La fuerza completamente beneficia al niño y si lo vemos en el ámbito deportivo, mejora el rendimiento, hay un menor riesgo de lesión y menor fatiga.",
+      "full_transcript": "¿Qué pasa con la fuerza en edades tempranas? Los estudios epidemiológicos han demostrado que lesiones resultantes de entrenamiento de fuerza son mucho menos comunes... el entrenamiento de fuerza beneficia y potencia tanto el rendimiento, la estructura corporal... marcadores asociados a riesgos metabólicos... La fuerza completamente beneficia al niño... presentamos a la fuerza como esa madre... cómo la fuerza va a mejorar estas distintas habilidades biomotoras, como la agilidad... la potencia... mejorar la economía de carrera.",
+      "keywords": [
+        "fuerza",
+        "jovenes",
+        "edades-tempranas",
+        "habilidades-biomotoras",
+        "desarrollo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Es seguro el entrenamiento de fuerza en niños futbolistas?",
+        "¿Por qué se dice que la fuerza es la madre de las habilidades biomotoras?"
+      ],
+      "related_terms": [
+        "edades tempranas",
+        "edad biológica",
+        "habilidades biomotoras",
+        "economía de carrera"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición sobre el rendimiento optimizado mediante altos niveles de fuerza relativa.",
+      "context_after": "Finalización de los puntos extraídos del webinar proporcionado."
+    }
+  ]
+}

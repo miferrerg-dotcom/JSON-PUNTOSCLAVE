@@ -1,0 +1,326 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+    "speaker": "Diego Alarcón Riveros",
+    "total_duration": "00:21:23",
+    "total_duration_seconds": 1283,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:55",
+      "start_seconds": 1,
+      "end_seconds": 175,
+      "duration_seconds": 174,
+      "timestamp_url": "?t=1",
+      "title": "Fundamentos de la RFD y la curva fuerza-tiempo/velocidad",
+      "summary": "Para mejorar las manifestaciones de fuerza es vital maximizar la fuerza muscular, desarrollar la Tasa de Desarrollo de Fuerza (RFD) en tiempos cortos y expresar alta fuerza a mayor velocidad. La mejora se observa al desplazar la curva fuerza-tiempo a la izquierda y la curva fuerza-velocidad a la derecha.",
+      "literal_quote": "Es fundamental desarrollar la capacidad de expresar alta fuerza a medida que aumenta la velocidad de acortamiento.",
+      "full_transcript": "¿Cómo orientamos el entrenamiento de fuerza y potencia?... Para mí, mejorar la fuerza se traduce en mejorar las distintas manifestaciones... El primero de ellos es que es esencial maximizar la fuerza muscular... Segundo, es importante desarrollar la capacidad de expresar altas tasas de fuerza en periodos de tiempo muy cortos... Y por último, es fundamental desarrollar la capacidad de expresar alta fuerza a medida que aumenta la velocidad... la curva se desplaza a la izquierda. O del mismo modo... la mejora se observa cuando la curva se desplaza hacia la derecha.",
+      "keywords": [
+        "rfd",
+        "fuerza-muscular",
+        "curva-fuerza-tiempo",
+        "curva-fuerza-velocidad",
+        "potencia"
+      ],
+      "entities": [
+        "González Badillo"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres elementos claves en la estructura del entrenamiento de fuerza?",
+        "¿Cómo se observa gráficamente la mejora en la fuerza explosiva y la potencia?"
+      ],
+      "related_terms": [
+        "fuerza explosiva",
+        "tasa de desarrollo de fuerza",
+        "RFD",
+        "curva fuerza-velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento sobre la orientación del entrenamiento de fuerza y potencia.",
+      "context_after": "Se presentan datos de un estudio sobre cómo responden los sujetos desentrenados ante distintos tipos de cargas."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:02:56",
+      "end_timestamp": "00:06:35",
+      "start_seconds": 176,
+      "end_seconds": 395,
+      "duration_seconds": 219,
+      "timestamp_url": "?t=176",
+      "title": "Beneficios de las cargas altas en atletas desentrenados",
+      "summary": "Un estudio demuestra que los atletas desentrenados mejoran más con cargas altas (75-90% 1RM). Logran mayores disminuciones en los tiempos de sprint, mejoras en el salto, incremento significativo en su 1RM y reducción en su porcentaje de grasa en comparación a entrenar con cargas ligeras.",
+      "literal_quote": "Atletas débiles, en este caso los desentrenados, pueden beneficiarse en fuerza y potencia del entrenamiento con cargas altas.",
+      "full_transcript": "¿Qué sucede con la mejora del entrenamiento en sujetos que son desentrenados?... Un grupo trabaja en las cargas más asociadas a la potencia... Y por último, un grupo que no entrena... atletas débiles... pueden beneficiarse en fuerza y potencia del entrenamiento con cargas altas... el grupo que trabajó con niveles altos de fuerza... disminuyó directamente los tiempos en los 40 metros de sprint... el grupo que entrenó entre el 75 y el 90 % del 1 RM, observamos cómo tuvo una disminución bastante significativa... del porcentaje de grasa... el grupo que entrenó cargas altas... mejoró significativamente su fuerza máxima.",
+      "keywords": [
+        "cargas-altas",
+        "desentrenados",
+        "composicion-corporal",
+        "1rm",
+        "sprint"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipo de carga beneficia más a un atleta desentrenado?",
+        "¿Cómo afecta el entrenamiento con cargas altas a la composición corporal de un novato?"
+      ],
+      "related_terms": [
+        "1RM",
+        "composición corporal",
+        "estrés mecánico",
+        "cargas altas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de cómo se desplazan las curvas de fuerza-tiempo y fuerza-velocidad.",
+      "context_after": "El análisis cambia hacia cómo responden los sujetos que ya tienen altos niveles de fuerza a las cargas ligeras."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:06:36",
+      "end_timestamp": "00:09:50",
+      "start_seconds": 396,
+      "end_seconds": 590,
+      "duration_seconds": 194,
+      "timestamp_url": "?t=396",
+      "title": "Optimización del trabajo de potencia según el nivel de fuerza",
+      "summary": "Al realizar saltos con cargas ligeras (0-30% 1RM), los atletas con niveles de fuerza base más altos (fuerza relativa cercana a 2.0) sacan mayor provecho de la velocidad, maximizando las adaptaciones de potencia, salto y sprint frente a sus contrapartes más débiles.",
+      "literal_quote": "Sujetos más fuertes estén mejor preparados para optimizar y beneficiarse de las cargas más ligeras, más asociadas a la velocidad.",
+      "full_transcript": "¿Qué sucede con la mejora de entrenamiento en sujetos según sus niveles de fuerza?... dividieron los grupos en tres en función de sus niveles de fuerza... realizaron sentadillas con salto de esfuerzo máximo con una carga entre el 0 y el 30 % del 1RM... atletas con niveles de fuerza adecuados pueden maximizar los beneficios de incorporar actividades de entrenamiento más específicas o más asociadas a la carga de velocidad... jugadores con una fuerza relativa de 2.0 presentan mejores valores asociados a marcadores de potencia que sus contrapartes más débiles.",
+      "keywords": [
+        "fuerza-relativa",
+        "cargas-ligeras",
+        "potencia",
+        "velocidad",
+        "optimizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué nivel de fuerza previa se necesita para sacar el máximo provecho al trabajo de velocidad?",
+        "¿Por qué los jugadores más fuertes mejoran más rápido con cargas ligeras?"
+      ],
+      "related_terms": [
+        "fuerza relativa",
+        "cargas ligeras",
+        "marcadores de potencia",
+        "velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estudio sobre la mejora generalizada de los sujetos desentrenados usando cargas altas.",
+      "context_after": "Alerta sobre el riesgo de abandonar las cargas altas en jugadores fuertes (desentrenamiento)."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:09:51",
+      "end_timestamp": "00:13:28",
+      "start_seconds": 591,
+      "end_seconds": 808,
+      "duration_seconds": 217,
+      "timestamp_url": "?t=591",
+      "title": "El riesgo de desentrenamiento en atletas fuertes",
+      "summary": "Si un atleta fuerte se enfoca solo en trabajar cargas ligeras (velocidad) y abandona las cargas altas, sufre un desentrenamiento rápido. Su fuerza relativa cae (ej. de 2.0 a 1.8), perdiendo los efectos protectores contra la fatiga, el daño muscular y las lesiones.",
+      "literal_quote": "Cuando los atletas que son más fuertes eliminan el entrenamiento de fuerza con cargas altas, pierden fuerza rápidamente, pudiendo afectar el rendimiento.",
+      "full_transcript": "Ahora vamos a hablar sobre la especificidad y el desentrenamiento... ¿Pero qué sucede cuando hablamos de desentrenamiento? Y como dijimos anteriormente, aquellos, el grupo que es el más fuerte, que tocaron las cargas ligeras y dejaron de entrenar con cargas altas, podemos observar como... disminuyeron sus niveles de fuerza máxima... de cargar cercano a dos veces su peso corporal pasaron a cargarlo 1.9, 1.8 veces... es importante entender con esto... que está muy bien trabajar con estas cargas que están más asociadas a la velocidad, pero no dejar de trabajar las cargas que nos mantienen esos niveles de fuerza altos.",
+      "keywords": [
+        "desentrenamiento",
+        "fuerza-maxima",
+        "perdida-fuerza",
+        "efecto-protector",
+        "cargas-altas"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Qué pasa si un jugador fuerte deja de hacer fuerza máxima?",
+        "¿Por qué se pierde el efecto protector al usar solo cargas ligeras?"
+      ],
+      "related_terms": [
+        "desentrenamiento",
+        "fuerza máxima",
+        "fuerza relativa",
+        "daño muscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los beneficios que obtienen los atletas fuertes al trabajar con cargas ligeras para potencia.",
+      "context_after": "Se define la Tasa de Desarrollo de Fuerza (RFD) y sus requerimientos temporales en el gesto deportivo."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:13:29",
+      "end_timestamp": "00:15:10",
+      "start_seconds": 809,
+      "end_seconds": 910,
+      "duration_seconds": 101,
+      "timestamp_url": "?t=809",
+      "title": "Tasa de Desarrollo de Fuerza (RFD) y tiempos de aplicación",
+      "summary": "La RFD se aplica en gestos rápidos (50-200 ms), mientras que desarrollar la fuerza máxima requiere más de 300 ms. Aunque no se alcance el pico de fuerza en una acción deportiva rápida, es necesario mantener altos niveles de fuerza máxima para respaldar y proteger al jugador.",
+      "literal_quote": "Tener altos niveles de fuerza tiene un respaldo muy importante que te va a proteger.",
+      "full_transcript": "La tasa de desarrollo de la fuerza es la RFD... Los tiempos son entre 50 y 200 milisegundos, porque estos se asocian a los gestos deportivos explosivos... En estas situaciones, los tiempos de contracción cortos hacen que sea poco probable aplicar fuerzas máximas, ya que puede llevar a tiempos sobre los 300 milisegundos... Y por esto es que muchas veces muchos entrenadores... argumentan que no tenemos que trabajar la fuerza con cargas altas... ¿Qué vimos anteriormente en nuestro porqué, en nuestro fundamento? Que tener altos niveles de fuerza tiene un respaldo muy importante que te va a proteger.",
+      "keywords": [
+        "rfd",
+        "milisegundos",
+        "tiempos-aplicacion",
+        "gestos-deportivos",
+        "fuerza-maxima"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuánto tiempo requiere aplicar la fuerza máxima frente a un gesto deportivo?",
+        "¿Por qué algunos entrenadores argumentan en contra de las cargas altas y por qué están equivocados?"
+      ],
+      "related_terms": [
+        "RFD",
+        "fuerza explosiva",
+        "milisegundos",
+        "aplicación de fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Advertencia sobre la pérdida de fuerza máxima por falta de estímulo pesado (desentrenamiento).",
+      "context_after": "Introducción de los métodos mixtos o de contraste para trabajar todas las zonas de la curva fuerza-velocidad."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:15:11",
+      "end_timestamp": "00:18:14",
+      "start_seconds": 911,
+      "end_seconds": 1094,
+      "duration_seconds": 183,
+      "timestamp_url": "?t=911",
+      "title": "Métodos mixtos para el desarrollo integral de la curva fuerza-velocidad",
+      "summary": "Para deportistas entrenados, las cargas extremas por sí solas no mejoran toda la curva. Los métodos mixtos (complex, contraste francés) ofrecen el desarrollo más completo y mejoras marcadas en el RSI y Drop Jump, fusionando fuerza pesada y velocidad pliométrica.",
+      "literal_quote": "Los métodos mixtos ofrecen un aumento superior al desarrollo completo de la curva fuerza-velocidad.",
+      "full_transcript": "En deportistas más fuertes y experimentados, mejora la RFD y, como resultado, la potencia necesitará otro tipo de estímulos... la famosa curva fuerza-velocidad... los ejercicios balísticos o explosivos van a atacar la parte alta de la curva... Los ejercicios pesados... más la parte baja... Y ya los métodos mixtos que conocemos: los famosos complex, contraste francés... El entrenamiento de fuerza con cargas ligeras y alta velocidad no puede aumentar los niveles generales de fuerza máxima y el entrenamiento con cargas altas a baja velocidad difícilmente mejorará la RFD... Los métodos mixtos ofrecen un aumento superior... Lo interesante está acá cuando hablamos del RCI y el drop jump, donde encontramos que las mejoras son mucho más marcadas en el grupo que trabaja en los métodos mixtos.",
+      "keywords": [
+        "metodos-mixtos",
+        "complex",
+        "contraste-frances",
+        "rci",
+        "drop-jump",
+        "curva-fuerza-velocidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Qué ventajas tienen los métodos mixtos frente al trabajo de fuerza tradicional?",
+        "¿Qué tipo de entrenamiento maximiza los resultados en el RCI y el Drop Jump?"
+      ],
+      "related_terms": [
+        "contraste francés",
+        "curva fuerza-velocidad",
+        "drop jump",
+        "RSI"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de mantener altos niveles de fuerza para la protección en la RFD.",
+      "context_after": "Se analiza cómo seleccionar los ejercicios más idóneos para encontrar los picos más altos de potencia."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:18:15",
+      "end_timestamp": "00:21:23",
+      "start_seconds": 1095,
+      "end_seconds": 1283,
+      "duration_seconds": 188,
+      "timestamp_url": "?t=1095",
+      "title": "Selección de ejercicios y optimización en el calentamiento",
+      "summary": "No se recomiendan levantamientos olímpicos por requerir mucha técnica y altas cargas para lograr picos de potencia. En cambio, las sentadillas (30-70% 1RM) y saltos (0-30% 1RM) son ideales. Recomienda aprovechar las series de aproximación en el calentamiento para estimular toda la curva fuerza-velocidad.",
+      "literal_quote": "El calentamiento o las series de aproximación permiten estimular todas las áreas de la curva.",
+      "full_transcript": "Los ejercicios de levantamiento olímpico... requieren de una educación importante... para que tengan valores importantes... tienen que ir con una carga bastante alta. Y esto es parte de la fundamentación por la cual yo no incluyo derivados... En el entrenamiento de sentadilla podemos observar que encontramos mejores niveles o picos de potencia en cargas más ligeras entre el 30 y el 70 % de 1 RM. Sin embargo, cuando hablamos de saltos con carga entre el cero y el 30 % de 1 RM, podemos observar que encontramos mayores picos de potencia... ¿Qué es lo interesante? Algo que utilizo mucho yo: que el calentamiento o las series de aproximación permiten estimular todas las áreas de la curva... podemos ir trabajando con cargas que están asociadas a la potencia, como con cargas que están asociadas a la velocidad.",
+      "keywords": [
+        "levantamiento-olimpico",
+        "sentadilla",
+        "picos-potencia",
+        "calentamiento",
+        "aproximacion",
+        "1rm"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no usar levantamientos olímpicos para generar picos de potencia?",
+        "¿Cómo aprovechar el calentamiento para estimular toda la curva fuerza-velocidad?"
+      ],
+      "related_terms": [
+        "levantamiento olímpico",
+        "series de aproximación",
+        "sentadilla con salto",
+        "picos de potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estudio mostrando la superioridad de los métodos de contraste (mixtos) en marcadores de fuerza y potencia.",
+      "context_after": "Finalización de la extracción para el archivo WEBVTT-2."
+    }
+  ]
+}

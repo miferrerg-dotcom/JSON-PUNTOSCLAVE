@@ -1,0 +1,292 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+    "speaker": "Diego Alarcón Riveros",
+    "total_duration": "00:24:27",
+    "total_duration_seconds": 1467,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:03:00",
+      "start_seconds": 2,
+      "end_seconds": 180,
+      "duration_seconds": 178,
+      "timestamp_url": "?t=2",
+      "title": "Filosofía y macroestructuras del entrenamiento de fuerza",
+      "summary": "El objetivo principal del entrenamiento de fuerza debe ser mantener o mejorar la capacidad física sin frenar la recuperación. Inspirado en Johan Cruyff, el ponente divide su metodología en tres macroestructuras: Desarrollar (construir en pretemporada), Estimular (mantener con microdosis) y Simular (acciones del modelo de juego).",
+      "literal_quote": "Nadie ha empeorado volviéndose más fuerte. Es una frase que tengo tatuada.",
+      "full_transcript": "El objetivo de entrenamiento de fuerza debe ser optimizar el equilibrio entre proporcionar un estímulo de entrenamiento adecuado que permita mejorar o mantener la capacidad física sin impedir la recuperación, así minimizando la posibilidad de lesiones... Parte de mi filosofía son estos tres puntos principales. Nadie ha empeorado volviéndose más fuerte. Es una frase que tengo tatuada... Para todo esto, yo lo que hice fue establecer dos criterios o dos estructuras: las macroestructuras y las microestructuras. ¿Qué entiendo yo por las macroestructuras? Desarrollar o construir... Estimular y mantener, que es estimular mediante microdosis de fuerza... Y por último está el simular o recrear, que sería recrear acciones neuromusculares a través de microestructuras del modelo de juego.",
+      "keywords": [
+        "macroestructuras",
+        "filosofia",
+        "desarrollar",
+        "estimular",
+        "simular",
+        "rendimiento"
+      ],
+      "entities": [
+        "Johan Cruyff"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres macroestructuras del entrenamiento de fuerza propuestas?",
+        "¿Cuál debe ser el objetivo principal del entrenamiento de fuerza en temporada?"
+      ],
+      "related_terms": [
+        "macroestructura",
+        "microdosis",
+        "modelo de juego",
+        "estímulo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la parte final del webinar, centrándose en cómo llevar toda la teoría y los fundamentos previos a la organización práctica en el club.",
+      "context_after": "Se detalla el peso y volumen específico que recibe cada una de estas macroestructuras a lo largo del año (Pretemporada vs Temporada)."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:03:01",
+      "end_timestamp": "00:06:30",
+      "start_seconds": 181,
+      "end_seconds": 390,
+      "duration_seconds": 209,
+      "timestamp_url": "?t=181",
+      "title": "Distribución del volumen: Pretemporada y adherencia",
+      "summary": "Para crear hábitos, tejido conectivo y adherencia, cerca del 50% de las sesiones anuales de fuerza se concentran en pretemporada. Este enfoque intensivo generó que, en un año de campeonato Sub-18, el equipo solo sufriera una lesión muscular. En temporada, se prioriza la recuperación con 1 a 3 microdosis semanales.",
+      "literal_quote": "Casi la mitad de las sesiones de fuerza las realizamos en pretemporada. Y justamente en ese torneo tuvimos la fortuna de solamente tener una lesión muscular.",
+      "full_transcript": "En la pretemporada es donde el mayor volumen vamos a realizar... Momento ideal para buscar no solo adaptaciones neuromusculares, sino que también estructurales... Y por último, algo fundamental, que es crear hábitos y adherencia. El año que salimos campeones con la sub-18... el 47, 48 % de las sesiones de fuerza las realizamos en pretemporada... tuvimos la fortuna de solamente tener una lesión muscular... Durante la temporada, existirá un menor volumen... Buscaremos mantener lo obtenido durante la pretemporada... tratar de intentar integrar entre una y tres sesiones, en este caso de microdosis por semana.",
+      "keywords": [
+        "pretemporada",
+        "adherencia",
+        "microdosis",
+        "lesiones",
+        "carga",
+        "volumen"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje del trabajo anual de fuerza debe realizarse en pretemporada?",
+        "¿Cuántas sesiones de fuerza (microdosis) se recomiendan durante la temporada competitiva?"
+      ],
+      "related_terms": [
+        "microdosis",
+        "adherencia",
+        "adaptaciones estructurales",
+        "volumen de entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las tres macroestructuras básicas del entrenamiento de fuerza (Desarrollar, Estimular, Simular).",
+      "context_after": "El expositor transita de las macroestructuras a las microestructuras de la sesión, abordando la necesidad de unificar el lenguaje del cuerpo técnico."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:06:31",
+      "end_timestamp": "00:12:45",
+      "start_seconds": 391,
+      "end_seconds": 765,
+      "duration_seconds": 374,
+      "timestamp_url": "?t=391",
+      "title": "Microestructuras y unificación de conceptos en el staff",
+      "summary": "Ante la confusión conceptual en el cuerpo técnico, dividió las sesiones en tres microestructuras: Producción (altos niveles de fuerza a baja velocidad), Aplicación (fuerza y velocidad en tareas complejas) y Resiliencia (tolerancia excéntrica e isométrica para evitar microtraumatismos). Esto asegura un mejor orden de las cargas (ej. MD-4 Producción/Resiliencia).",
+      "literal_quote": "Una de las cosas que tuve que modificar y entender es que todos manejamos conceptos distintos de lo que es la fuerza.",
+      "full_transcript": "Las microestructuras yo... las englobo en estas tres principales... Producción, que es la capacidad de producir altos niveles de fuerza; el concepto de aplicación, que sería la capacidad de producir altos niveles de fuerza a alta velocidad durante tareas motoras complejas y, finalmente, la resiliencia, que sería la capacidad de tolerar altos volúmenes de acciones neuromusculares repetitivas... Una de las cosas que tuve que modificar y entender es que todos manejamos conceptos distintos de lo que es la fuerza... Resumiendo todo en una palabra... me permite tener un mayor orden y control sobre lo que yo quiero en la semana para todas las categorías comandadas por los distintos preparadores físicos... En un -4, integrar la producción y la resiliencia. En un -3, la producción y la aplicación.",
+      "keywords": [
+        "microestructuras",
+        "produccion",
+        "aplicacion",
+        "resiliencia",
+        "conceptos",
+        "staff",
+        "microciclo"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres microestructuras de fuerza para organizar el trabajo semanal?",
+        "¿Por qué es vital unificar el lenguaje de preparación física dentro del staff?"
+      ],
+      "related_terms": [
+        "producción",
+        "aplicación",
+        "resiliencia",
+        "microciclo tipo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de generar adherencia y las diferencias de volumen de pretemporada y temporada.",
+      "context_after": "Se presenta un caso práctico de un jugador para ilustrar cómo este sistema impacta el rendimiento y las lesiones."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:12:46",
+      "end_timestamp": "00:19:35",
+      "start_seconds": 766,
+      "end_seconds": 1175,
+      "duration_seconds": 409,
+      "timestamp_url": "?t=766",
+      "title": "Caso de éxito: Incremento de fuerza relativa y disponibilidad",
+      "summary": "Caso real de un jugador condicionado por la fatiga y lesiones. Su meta era lograr una fuerza relativa de 2.0x su peso corporal. Su 1RM inicial de 118kg subió a 153kg (2.3x) en tres meses. Esto optimizó su curva fuerza-velocidad, resultando en un salto drástico en su disponibilidad: pasó de ser residual a jugar 10 de 17 partidos (8 titular) sin lesionarse.",
+      "literal_quote": "Un chico que no lograba terminar sesiones de entrenamiento ni jugar por su nivel de fuerza, logró hoy establecer un hábito de entrenamiento, mejorar sus niveles de fuerza y empezar a rendir y estar disponible.",
+      "full_transcript": "Quiero mostrarles un caso real de mejora del rendimiento... un chico que estuvo mucho tiempo condicionado por no poder terminar las sesiones de entrenamiento, tanto por tema de lesiones como de fatiga... Yo trataba de que mis jugadores tuviesen una fuerza relativa de 2.2 a 2.5 veces su peso corporal... lo decidí bajar a una fuerza relativa de dos veces su peso corporal... Su 1 RM, cuando hizo su evaluación inicial, era de 118 kilos, lo cual representaba a 1.8... me encontré que su 1 RM se había incrementado a 153 kilos, lo cual llevaba su fuerza relativa a 2.3 veces su peso corporal... Jugó cinco o seis veces más su cantidad de minutos. Un chico que estuvo disponible todo el torneo... generamos un cambio de hábito en el jugador.",
+      "keywords": [
+        "caso-real",
+        "fuerza-relativa",
+        "1rm",
+        "disponibilidad",
+        "rendimiento",
+        "curva-fuerza-velocidad"
+      ],
+      "entities": [
+        "González Badillo"
+      ],
+      "topics": [
+        "Evaluación",
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Qué impacto tiene lograr una fuerza relativa de 2.0x el peso corporal en un jugador propenso a lesiones?",
+        "¿Cómo se lee una mejora práctica en la curva fuerza-velocidad?"
+      ],
+      "related_terms": [
+        "1RM",
+        "fuerza relativa",
+        "disponibilidad",
+        "curva fuerza-velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de las clasificaciones del entrenamiento (producción, aplicación, resiliencia).",
+      "context_after": "Se presenta la analogía del déficit de fuerza para comunicar esta importancia al jugador."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:19:36",
+      "end_timestamp": "00:20:38",
+      "start_seconds": 1176,
+      "end_seconds": 1238,
+      "duration_seconds": 62,
+      "timestamp_url": "?t=1176",
+      "title": "Déficit vs. Reserva de fuerza (Analogía matemática)",
+      "summary": "Para generar adherencia y comprensión en el jugador, usa una fórmula simple: si la fuerza del jugador es 10 y la demanda del fútbol es 9, la reserva es solo 1 (rápida fatiga). Si incrementa su fuerza a 15, la reserva sube a 6, permitiéndole fatigarse mucho más lento y recuperarse más rápido.",
+      "literal_quote": "Si mi reserva de fuerza la incremento de 10 a 15, ahora el margen ya nos damos cuenta que es de 6 y que probablemente eso signifique que me fatigo más lento, que me recupero más rápido.",
+      "full_transcript": "Me gusta mucho hablar de esto, desde el déficit de fuerza hasta la reserva de fuerza... aquellos jugadores que están más débiles tienen un déficit de fuerza... Yo trato de explicárselo a los jugadores con una matemática muy simple. Yo les digo: si tus niveles de fuerza son de 10... y toda la demanda... es de 9, nos queda un margen de 1. ¿Ese margen de 1 qué significa? Que me voy a fatigar más rápido, que me voy a recuperar más lento. Sin embargo, si mi reserva de fuerza la incremento de 10 a 15, ahora el margen ya nos damos cuenta que es de 6 y que probablemente eso signifique que me fatigo más lento, que me recupero más rápido... Con esa forma tan simple, el jugador logra entender la importancia del trabajo de fuerza.",
+      "keywords": [
+        "reserva-fuerza",
+        "deficit-fuerza",
+        "margen",
+        "fatiga",
+        "recuperacion",
+        "comunicacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo explicar el concepto de reserva de fuerza a un futbolista?",
+        "¿Qué relación hay entre el nivel de fuerza máxima y la velocidad de aparición de la fatiga?"
+      ],
+      "related_terms": [
+        "reserva de fuerza",
+        "déficit de fuerza",
+        "adherencia",
+        "fatiga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Caso práctico que evidenció cómo elevar el 1RM mejoraba la disponibilidad y tolerancia a la fatiga.",
+      "context_after": "Análisis final sobre los factores del entrenamiento y la depresión del glucógeno muscular."
+    },
+    {
+      "id": "V05-006",
+      "video_title": "El tabú del entrenamiento de la fuerza en el fútbol",
+      "speaker": "Diego Alarcón Riveros",
+      "start_timestamp": "00:20:39",
+      "end_timestamp": "00:24:27",
+      "start_seconds": 1239,
+      "end_seconds": 1467,
+      "duration_seconds": 228,
+      "timestamp_url": "?t=1239",
+      "title": "Agotamiento de glucógeno y desmontaje de mitos",
+      "summary": "Muestra que el entrenamiento tradicional de hipertrofia o bajo volumen gasta más glucógeno que las microdosis de alta intensidad. Finaliza desmintiendo los mitos del inicio: el gimnasio no lesiona (protege), no ralentiza (mejora marcas), no fatiga (si está bien dosificado) y es la herramienta neuromuscular más específica.",
+      "literal_quote": "El entrenamiento de fuerza, bien dosificado, entendiendo el tipo de estímulo, no tiene por qué generar una depresión de glucógeno asociado a una posible fatiga posterior.",
+      "full_transcript": "Efectos del entrenamiento sobre el agotamiento del glucógeno... a intensidades más bajas es donde encontramos un mayor agotamiento de glucógeno... a series más altas, que son a lo mejor más tradicionales del entrenamiento convencional de gimnasio, de hipertrofia, hay un mayor agotamiento... Microdosis a alta intensidad. No afectamos el glucógeno como creemos... deportistas con su entrenabilidad más alta... tienen menos depresión de glucógeno que deportistas desentrenados. Podemos ver que el entrenamiento de fuerza, bien dosificado... no tiene por qué generar una depresión de glucógeno... ¿Mitos o realidades?... ¿Realizar fuerza en el gimnasio te lesiona? Al contrario, el mayor efecto protector que podemos encontrar. ¿Te vuelve lento?... hay una gran relación entre los jugadores fuertes y mejores marcas... Los futbolistas no necesitan mover mucho peso, necesitan mover la carga que ellos son capaces de tolerar.",
+      "keywords": [
+        "glucogeno",
+        "fatiga",
+        "mitos",
+        "microdosis",
+        "hipertrofia",
+        "especificidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿El entrenamiento de fuerza agota el glucógeno del futbolista?",
+        "¿Cuáles son las realidades sobre los mitos del trabajo de fuerza en el fútbol?"
+      ],
+      "related_terms": [
+        "agotamiento de glucógeno",
+        "hipertrofia",
+        "microdosis",
+        "especificidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación con analogías simples de cómo tener más fuerza protege de la fatiga (reserva de fuerza).",
+      "context_after": "El expositor agradece a la audiencia, cierra su participación y comparte sus redes de contacto."
+    }
+  ]
+}
