@@ -1,0 +1,463 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+    "speaker": "Francisco Terrón Salas",
+    "total_duration": "01:14:55",
+    "total_duration_seconds": 4495,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:04:02",
+      "end_timestamp": "00:08:56",
+      "start_seconds": 242,
+      "end_seconds": 536,
+      "duration_seconds": 294,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=242",
+      "title": "Contexto y exigencias de la NBA G League",
+      "summary": "Se describe el entorno competitivo de la NBA G League: alta densidad de partidos (50 en 5 meses), viajes largos en vuelos comerciales y constantes cambios en el roster debido a contratos two-way y call-ups, lo que genera un escenario altamente caótico y poco tiempo para entrenar.",
+      "literal_quote": "Se trata de un entorno con una muy alta densidad competitiva... con viajes constantes y muy largos, con lo que ello conlleva, que es muy poco tiempo para entrenar.",
+      "full_transcript": "Como comentaba brevemente anteriormente, la NBA G League es la principal liga de desarrollo del mundo. Asociada a la NBA, se trata de un entorno con una muy alta densidad competitiva, con viajes constantes y muy largos, con lo que ello conlleva, que es muy poco tiempo para entrenar. Desde el punto de vista del staff, la disponibilidad y la recuperación son vitales... Los cambios frecuentes en el roster modifican el escenario competitivo altamente, lo condicionan, porque no solo a nivel de la competición, sino cómo tu roster varía a lo largo de la temporada. Actualmente el 50 % de jugadores en la NBA tienen experiencia G League.",
+      "keywords": [
+        "nba-g-league",
+        "densidad-competitiva",
+        "two-way",
+        "call-ups",
+        "contexto-competitivo",
+        "viajes",
+        "performance"
+      ],
+      "entities": [
+        "NBA G League",
+        "NBA",
+        "Capitanes de la Ciudad de México"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Cuáles son las demandas competitivas y características de la NBA G League?",
+        "¿Cómo afectan los contratos two-way y call-ups a los equipos de la G League?",
+        "¿Qué desafíos logísticos enfrentan los equipos de la G League?"
+      ],
+      "related_terms": [
+        "densidad",
+        "competitiva",
+        "contratos",
+        "two-way",
+        "call-ups",
+        "viajes",
+        "roster"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción personal y trayectoria profesional de Francisco Terrón Salas.",
+      "context_after": "Explicación detallada del organigrama del equipo, roles del staff de rendimiento y operaciones."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:10:47",
+      "end_timestamp": "00:14:17",
+      "start_seconds": 647,
+      "end_seconds": 857,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=647",
+      "title": "Estructura del Staff y el rol del Athletic Trainer",
+      "summary": "Análisis del organigrama deportivo del equipo, destacando la importancia del área de operaciones logísticas y la diferencia clave del 'performance staff' en EEUU respecto al formato FIBA: el protagonismo del 'Athletic Trainer' como figura híbrida entre readaptador y fisioterapeuta.",
+      "literal_quote": "La figura del fisioterapeuta, tanto en NBA como en G League, no tiene tanta importancia y todo se canaliza a través de la figura que es el athletic trainer.",
+      "full_transcript": "Aquí tenemos el organigrama de la parte deportiva... Todo está bajo el paraguas del general manager. Y hay tres cabezas importantes: el área de operaciones, que es el área de logística, el coaching staff y el área de rendimiento. Operaciones es muy importante en este contexto donde se viaja tanto... La principal diferencia, quizá, que haya con el área de rendimiento con respecto a formatos FIBA, es que la figura del fisioterapeuta, tanto en NBA como en G League, no tiene tanta importancia y todo se canaliza a través de la figura que es el athletic trainer. Es una figura un poco híbrida entre readaptación y entrenamiento. Paralelamente tenemos nutricionista, preparador físico, fisioterapeuta y readaptador, y un equipo de doctores externos.",
+      "keywords": [
+        "athletic-trainer",
+        "organigrama",
+        "performance-staff",
+        "staff-management",
+        "coaching-staff",
+        "operaciones"
+      ],
+      "entities": [
+        "Athletic Trainer",
+        "General Manager"
+      ],
+      "topics": [
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Organización"
+      ],
+      "search_questions": [
+        "¿Qué es un Athletic Trainer y cuál es su rol en la NBA?",
+        "¿Cómo se organiza el departamento de rendimiento en un equipo de la G League?",
+        "¿Qué importancia tiene el departamento de operaciones en entornos con alta densidad de viajes?"
+      ],
+      "related_terms": [
+        "athletic",
+        "trainer",
+        "staff",
+        "rendimiento",
+        "organigrama",
+        "operaciones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del contexto de la liga y de Capitanes de la CDMX (franquicia latinoamericana, altitud, roster internacional).",
+      "context_after": "Reflexión sobre el caos comunicativo en staffs grandes y el debate entre hard skills y soft skills."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:20:27",
+      "end_timestamp": "00:28:50",
+      "start_seconds": 1227,
+      "end_seconds": 1730,
+      "duration_seconds": 503,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1227",
+      "title": "Evaluación: Pilares del Rendimiento y Testing",
+      "summary": "Se desglosa la batería de evaluaciones agrupada en 6 bloques: fuerza (CMJ, IMTP), movilidad, composición corporal, habilidad de movimiento (LESS, AAA), carga mecánica y wellness. Estos test alimentan tres pilares: fatiga neuromuscular (readiness), trackeo de rendimiento y tiempos de Return to Play.",
+      "literal_quote": "Todos los contenidos que nosotros evaluamos sirven para rellenar tres pilares fundamentales... fatiga neuromuscular, trackear performance, y para tener métricas... del return to play.",
+      "full_transcript": "Aquí tenemos lo que Capitales... pretende evaluar: Primer bloque, fuerza. Segundo, movilidad. Tercer, composición corporal. Habilidad del movimiento, carga en cancha y cuestionario de wellness. En fuerza evaluamos con plataforma, saltos CMJ, test isométricos máximos como el IMTP y el MSX Strength. En movimiento usamos el AAA (Athletic Ability Assessment) y el LESS (Landing Error Score System). Todos los contenidos sirven para tres pilares fundamentales: En primer lugar, fatiga neuromuscular (readiness) con SRSS y MRSI. En segundo lugar, para trackear rendimiento, con EUR (Excéntrico Utilización Ratio), DSI y métricas relativas al peso corporal. Y en tercer lugar, métricas en caso de una lesión, para estructurar los tiempos del return to play basándonos en simetrías y valores previos.",
+      "keywords": [
+        "evaluacion",
+        "testing",
+        "mrsi",
+        "cmj",
+        "imtp",
+        "return-to-play",
+        "readiness",
+        "wellness"
+      ],
+      "entities": [
+        "MSX",
+        "IMTP",
+        "Catapult",
+        "AAA",
+        "LESS"
+      ],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué pruebas físicas se realizan en pretemporada en la G League?",
+        "¿Cuáles son los tres pilares fundamentales de la evaluación del rendimiento?",
+        "¿Qué métricas de plataforma de fuerza se utilizan para medir readiness?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "batería",
+        "test",
+        "readiness",
+        "return to play",
+        "plataforma de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del calendario competitivo denso y cómo esto limita los días de training camp.",
+      "context_after": "Se muestra un ejemplo práctico de cómo las evaluaciones se traducen en trabajo de prehab individualizado pre-partido."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:34:42",
+      "end_timestamp": "00:38:37",
+      "start_seconds": 2082,
+      "end_seconds": 2317,
+      "duration_seconds": 235,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2082",
+      "title": "Centralización de Datos: AMS y Dashboard en Looker Studio",
+      "summary": "Se presenta el Athlete Management System (AMS) desarrollado en Looker Studio para reportar disponibilidad, readiness, carga mecánica y prescripciones a los entrenadores 24/7. Integra el SRSS (subjetivo) con el MRSI (objetivo) para observar fluctuaciones de recuperación y estrés.",
+      "literal_quote": "Jacob creó un AMS casero a través de Looker Studio y lo que estáis viendo aquí es un reporte 24 horas disponible para los entrenadores.",
+      "full_transcript": "Teníamos mucha información, pero no teníamos una forma sólida de reportarla a los entrenadores... Jacob creó un AMS casero a través de Looker Studio y lo que estáis viendo aquí es un reporte 24 horas disponible para los entrenadores. En la esquina superior izquierda ven directrices para el entrenamiento escritas por mí. Debajo tenemos parámetros de carga mecánica de Catapult (player load sugerido). En la esquina derecha está el reporte de lesiones (availability). En la parte central vemos el SRSS, cuando las dos líneas de recuperación y estrés se alejan significa que mejor estamos. Abajo a la izquierda, el MRSI grupal. Y abajo a la derecha, la carga conseguida en partidos y entrenamientos comparada con mis prescripciones en barras grises. El entrenador abre el dashboard y ve las directrices y lo que está pasando.",
+      "keywords": [
+        "ams",
+        "looker-studio",
+        "analisis-datos",
+        "control-carga",
+        "dashboard",
+        "player-load",
+        "srss",
+        "mrsi"
+      ],
+      "entities": [
+        "Looker Studio",
+        "Catapult",
+        "AMS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo reportar datos de rendimiento a los entrenadores de forma eficiente?",
+        "¿Qué incluye un Athlete Management System (AMS) funcional?",
+        "¿Cómo se visualiza la relación entre carga prescrita y carga ejecutada?"
+      ],
+      "related_terms": [
+        "dashboard",
+        "reporte",
+        "ams",
+        "readiness",
+        "catapult",
+        "looker studio"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del hub de VALD y cómo detectar descensos superiores al 10% en el MRSI justo después del calentamiento.",
+      "context_after": "Transición hacia los conceptos de programación de fuerza, variables de entrenamiento y la fluctuación de cargas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:40:44",
+      "end_timestamp": "00:44:56",
+      "start_seconds": 2444,
+      "end_seconds": 2696,
+      "duration_seconds": 252,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2444",
+      "title": "Cuadrantes de Carga, Fluctuación y Microdosing",
+      "summary": "Uso de los cuadrantes de Daniel Boff para clasificar el entrenamiento (volumen vs intensidad). Se subraya la importancia de evitar la monotonía en la carga para no estancar el sistema nervioso, logrando que los días intensos sean muy intensos y los suaves muy suaves (ondulación). Esto da origen al concepto de microdosing en sala de pesas.",
+      "literal_quote": "Tú necesitas que tus atletas lleguen a highs muy high y lleguen a lows muy low, porque así es como somos capaces de construir, recuperar y asimilar.",
+      "full_transcript": "Este plot está rescatado de Daniel Boff. Lo que vemos son cuadrantes de estímulos en cancha: poca intensidad y poco volumen (cuadrante 1, regenerativo), mucha intensidad y poco volumen (cuadrante 3), mucha intensidad y mucho volumen (cuadrante 4, partidos). Nosotros lo que queremos es que los contenidos no se agrupen en un cuadrante para evitar mesetas. El sistema nervioso no entiende de dónde procede el estrés. Si aplicas intensidad monótona, la fatiga es continua. Cuando somos capaces de 'match the intensity, match the volume', es decir, un día high, otro low, el jugador ondula. Tú necesitas que tus atletas lleguen a highs muy high y a lows muy low... De ahí nace el concepto del microdosing creado por Cory: aplicación de sesiones de entrenamiento intensas pero cortas (bajo volumen) a lo largo de la semana.",
+      "keywords": [
+        "microdosing",
+        "cuadrantes-boff",
+        "fluctuacion-carga",
+        "volumen-intensidad",
+        "control-carga",
+        "metodologia"
+      ],
+      "entities": [
+        "Daniel Boff"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué son los cuadrantes de Daniel Boff aplicados al baloncesto?",
+        "¿Por qué es importante ondular las cargas de entrenamiento?",
+        "¿Qué es el microdosing y por qué se utiliza en ligas profesionales?"
+      ],
+      "related_terms": [
+        "cuadrantes",
+        "microdosing",
+        "volumen",
+        "intensidad",
+        "ondulación",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica básica de que todas las capacidades provienen de la aplicación de fuerza en el tiempo.",
+      "context_after": "Introducción de la herramienta organizativa 'Match Day' para estructurar la semana competitiva."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:45:01",
+      "end_timestamp": "00:48:13",
+      "start_seconds": 2701,
+      "end_seconds": 2893,
+      "duration_seconds": 192,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2701",
+      "title": "El concepto de Match Day para la planificación",
+      "summary": "El 'Match Day' es un modelo organizativo que codifica los entrenamientos en función de su cercanía con el partido (ej. MD-1, MD-4). Sirve para unificar el lenguaje del staff técnico y aplicar directrices claras sobre qué tipo de estímulos tocan cada día independientemente del calendario caótico.",
+      "literal_quote": "El concepto match day es un continuo que nos sitúa con respecto a la competición. Es una herramienta muy útil para la comunicación con el staff.",
+      "full_transcript": "El concepto match day es un continuo que nos sitúa con respecto a la competición. Es una herramienta muy útil para la comunicación con el staff, porque nos sitúa dentro del microciclo y nos da directrices muy claras del tipo de estímulo y la magnitud de los mismos. Ya no se trata de qué hacemos los lunes o qué hacemos el jueves. No. Se trata de: estoy en un match day menos uno, ¿qué hago? En un contexto más NBA o G League, con un back to back martes y miércoles, una solución puede ser: match day menos uno, luego meter regenerativo, y vuelves a match day menos uno. Sirve para que la comunicación con el staff sea mucho más clara.",
+      "keywords": [
+        "match-day",
+        "planificacion",
+        "comunicacion",
+        "microciclo",
+        "metodologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el concepto Match Day y cómo ayuda a la planificación?",
+        "¿Cómo comunicar la estructura del microciclo al staff técnico en calendarios densos?"
+      ],
+      "related_terms": [
+        "match day",
+        "microciclo",
+        "comunicación",
+        "staff",
+        "calendario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del microdosing y la necesidad de evitar la monotonía en la carga.",
+      "context_after": "Análisis detallado de dos herramientas clave de fuerza en el calendario: Priming y Post-game lift."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:48:53",
+      "end_timestamp": "00:54:27",
+      "start_seconds": 2933,
+      "end_seconds": 3267,
+      "duration_seconds": 334,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2933",
+      "title": "Priming: Activación Neuromuscular Pre-Partido",
+      "summary": "El 'Priming' es una sesión de fuerza breve (microdosis) ejecutada entre 6 y 24 horas antes del partido. Su meta es activar el sistema neuromuscular mediante altas tasas de desarrollo de fuerza (RFD) e intención máxima, empleando volumen muy bajo para no generar fatiga, protegiendo así el readiness del atleta.",
+      "literal_quote": "El priming no es ni más ni menos que una sesión corta de fuerza previa al partido. El objetivo es activar el sistema neuromuscular.",
+      "full_transcript": "El priming no es ni más ni menos que una sesión corta de fuerza previa al partido. El objetivo es activar el sistema neuromuscular. Queremos aplicar ese trabajo de fuerza con un volumen muy bajo que no fatigue y siempre dependiente de la RFD. ¿Cómo hacerlo? Entre seis y 24 horas previo al partido, usando patrones motores grandes, de forma breve... En mi tesis doctoral comprobé que aplicando isometrías máximas o cargas al 70%, la altura del salto mejora, pero el MRSI no presenta cambios significativos, lo que significa que somos capaces de respetar la fatiga neuromuscular. Nosotros lo descomponemos en tres bloques: Estímulo principal (fuerza al 60-70% con máxima intención), contraste (acción explosiva, máxima velocidad) y activación neural (contactos cortos, pogos, sprints).",
+      "keywords": [
+        "priming",
+        "activacion-neuromuscular",
+        "rfd",
+        "fuerza",
+        "microdosing",
+        "readiness"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el priming y cuándo debe realizarse?",
+        "¿Qué tipo de ejercicios y cargas se recomiendan para una sesión pre-partido?",
+        "¿Cómo afecta el trabajo de fuerza pre-partido a la fatiga del jugador?"
+      ],
+      "related_terms": [
+        "priming",
+        "activación",
+        "RFD",
+        "potenciación",
+        "volumen bajo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de cómo clasificar los días usando el concepto de Match Day.",
+      "context_after": "Introducción y desglose de la estrategia antagónica: el Post-game lift."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "00:55:27",
+      "end_timestamp": "01:00:04",
+      "start_seconds": 3327,
+      "end_seconds": 3604,
+      "duration_seconds": 277,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3327",
+      "title": "Post-Game Lift: Sesión de Fuerza Post-Partido",
+      "summary": "El 'Post-game lift' es una sesión de fuerza de 20-25 minutos aplicada inmediatamente tras el juego. Su objetivo es mantener los niveles de fuerza y masa muscular. Aprovecha que el jugador ya está excitado neuromuscularmente para agrupar el estrés, permitiendo que el día siguiente sea un día de descanso real.",
+      "literal_quote": "El post-game lift es una sesión de fuerza que se aplica después del partido. El objetivo, ¿cuál es? Mantener los niveles de fuerza y/o la masa muscular.",
+      "full_transcript": "El post-game lift es una sesión de fuerza que se aplica después del partido. El objetivo es mantener los niveles de fuerza y/o la masa muscular. Aquí el volumen puede ser un poquito más alto. Es una solución al problema de la alta densidad competitiva. El objetivo de meter una sesión postpartido es que al día siguiente el jugador pueda descansar. El jugador ya está excitado a nivel neuromuscular, yo lo que quiero es cansarlo más ahora para que mañana tenga un día de recuperación real y no resetear la fatiga todos los días. ¿Cómo lo aplicamos? Un estímulo principal (ej: trap bar squats a RPE 6-7), un estímulo complementario (ej: bench press, RIR 2), y un trabajo regenerativo o isométrico accesorio (ej: trap bar iso squat hold por 45 segs para atacar el tendón rotuliano).",
+      "keywords": [
+        "post-game-lift",
+        "fuerza",
+        "densidad-competitiva",
+        "isometria",
+        "recuperacion",
+        "metodologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios de entrenar fuerza inmediatamente después de un partido?",
+        "¿Cómo agrupar el estrés físico para obtener días de descanso completos?",
+        "¿Qué rutinas se hacen en un post-game lift?"
+      ],
+      "related_terms": [
+        "post-game lift",
+        "fuerza",
+        "mantenimiento",
+        "descanso",
+        "isométricos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del Priming y cómo funciona la activación antes del partido.",
+      "context_after": "Guía práctica de adaptación del volumen de post-partido en función de los minutos jugados (Catapult/Tiempo)."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Preparación Física en la NBA G League - Capitanes de la CDMX",
+      "speaker": "Francisco Terrón Salas",
+      "start_timestamp": "01:06:52",
+      "end_timestamp": "01:10:29",
+      "start_seconds": 4012,
+      "end_seconds": 4229,
+      "duration_seconds": 217,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4012",
+      "title": "Perfiles de Personalidad y Soft Skills (Tetragrama)",
+      "summary": "Para gestionar la relación con los jugadores, se presenta un tetragrama basado en dos variables: 'Creer' (saber que deben mejorar) y 'Hacer' (ejecutar el trabajo). Esto arroja 4 perfiles: Aliado (cree y hace), Conformista (ni cree ni hace, necesita educación), Perezoso (cree pero no hace, necesita insistencia) y Solitario (no cree pero hace, necesita conexión).",
+      "literal_quote": "Es la interacción entre estas dos cosas, el creer y el hacerlo, lo que da lugar a lo que yo considero los distintos tipos de personalidad que nos podemos encontrar en un vestuario.",
+      "full_transcript": "¿Conoces realmente la personalidad de tus atletas? Llevo un tiempo trabajando en esto, en un tetragrama de la personalidad. Por un lado, están los jugadores que realmente creen (believers), saben que tienen que mejorar. Por otro lado, hay personas que son las que lo hacen (doers), no importa qué. Es la interacción entre el creer y hacerlo lo que da lugar a 4 perfiles. Si cree y lo hace, es el aliado; la estrategia es construir. Si no cree y no lo hace, es el conformista (talento natural joven); la estrategia es educar. Si cree pero no lo hace, es el perezoso; la estrategia es insistir. Y el conflictivo, que no cree (no encaja) pero sí trabaja por su cuenta, es el solitario; la estrategia es conectar para que empiecen a creer y se conviertan en los mayores aliados.",
+      "keywords": [
+        "soft-skills",
+        "comunicacion",
+        "tetragrama-personalidad",
+        "staff-management",
+        "psicologia",
+        "relacion-jugador"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo identificar y gestionar los distintos perfiles de personalidad en un vestuario?",
+        "¿Qué estrategias de comunicación usar con jugadores que no quieren entrenar?",
+        "¿Qué importancia tienen las soft skills en el rol del preparador físico?"
+      ],
+      "related_terms": [
+        "personalidad",
+        "creer",
+        "hacer",
+        "aliado",
+        "conformista",
+        "solitario",
+        "soft skills"
+      ],
+      "relevance_score": 5,
+      "context_before": "Notas y aprendizajes de la G League sobre la importancia del off-season, hábitos, disponibilidad 24/7 y generar confianza fuera de pista.",
+      "context_after": "Citas de Tim Grover sobre la cultura del esfuerzo y las conclusiones finales del webinar."
+    }
+  ]
+}
