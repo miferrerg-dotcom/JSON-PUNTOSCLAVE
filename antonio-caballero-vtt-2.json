@@ -1,0 +1,115 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "La dimensión invisible del rendimiento",
+    "speaker": "Antonio Caballero",
+    "total_duration": "00:12:34",
+    "total_duration_seconds": 754,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero",
+      "start_timestamp": "00:00:16",
+      "end_timestamp": "00:05:33",
+      "start_seconds": 16,
+      "end_seconds": 333,
+      "duration_seconds": 317,
+      "timestamp_url": "?t=16",
+      "title": "La Paradoja del Especialista y la Influencia Efectiva",
+      "summary": "Estudios demuestran que el comportamiento y el carácter del preparador físico son más valorados que los logros o habilidades técnicas. La eficacia aumenta cuando se lidera mediante el poder referente y el poder experto, en lugar de imponer normas. Se introducen los atributos de 'caring determination' (cuidado y determinación) y 'serial insecurity' (humildad e insatisfacción constructiva).",
+      "literal_quote": "El comportamiento y el carácter del profesional están por encima de cualquier logro o de cualquier habilidad técnica, incluso por encima de la gestión de la carga...",
+      "full_transcript": "Podemos ver cómo, en primer lugar, tanto el comportamiento como el carácter del profesional están por encima de cualquier logro o de cualquier habilidad técnica, incluso por encima de la gestión de la carga, de los datos físicos, los logros, las victorias, etcétera. Se ve cómo el poder experto, es decir, aquello que está basado en el conocimiento, en la experiencia y el poder referente, que es aquello que tiene que ver con tu personalidad... tienen los índices más altos en cuanto al tipo de poder que explica la mayor eficacia como técnicos. El 'porque yo lo digo' no funciona. En esta obra aparecen dos palabras: caring determination. Por un lado está el cuidado, centrado en el deportista... y por otro lado está la determinación. Y a partir de aquí también aparece otro concepto clave, que es el serial insecurity, y es que hace referencia a que los mejores nunca se sienten llegados. Tienen esa humildad también de saber que seguramente el éxito está siempre en el camino... saber que nunca se llega a la meta.",
+      "keywords": [
+        "paradoja-especialista",
+        "comportamiento",
+        "poder-referente",
+        "caring-determination",
+        "liderazgo",
+        "influencia"
+      ],
+      "entities": [
+        "Malet",
+        "Lara Bercial"
+      ],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Estudio"
+      ],
+      "search_questions": [
+        "¿Qué habilidades se valoran más en un preparador físico?",
+        "¿Qué diferencia hay entre el poder experto y el poder referente?",
+        "¿Qué significa caring determination y serial insecurity?"
+      ],
+      "related_terms": [
+        "comportamiento",
+        "poder",
+        "referente",
+        "liderazgo",
+        "influencia",
+        "staff"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del segundo bloque analizando las estadísticas de eficacia en la evaluación del staff.",
+      "context_after": "Se profundiza en el impacto de los pensamientos inconscientes y su manifestación neurofisiológica mediante el modelo de Hawkins y las neuronas espejo."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:12:34",
+      "start_seconds": 333,
+      "end_seconds": 754,
+      "duration_seconds": 421,
+      "timestamp_url": "?t=333",
+      "title": "Pensamientos Inconscientes, Frecuencias Emocionales y Neurociencia",
+      "summary": "De los 50.000 pensamientos diarios, el 95% son inconscientes y dirigen nuestras decisiones. El modelo conceptual de Hawkins separa emociones expansivas de las basadas en la contracción y el miedo. Las neuronas espejo y la coherencia fisiológica explican cómo el estado del técnico se activa neurológicamente en el deportista, y los estados emocionales positivos amplían el repertorio cognitivo.",
+      "literal_quote": "Podemos ver que no solo importa lo que hacemos, sino que también importa desde qué estado lo hacemos. Y esa es la dimensión invisible de ese rendimiento.",
+      "full_transcript": "Tenemos 50.000 pensamientos al día. Somos únicamente conscientes del 5%... Si el 95% ocurre bajo el umbral de la conciencia, ¿quién está tomando las decisiones realmente?. He tomado como referencia esta tabla adaptada del libro 'Power vs. Force'... de Hawkins, y lo utilizo más como un modelo conceptual. Por encima de ese umbral, todo lo que sucede son movimientos de expansión... y por debajo, todas esas emociones más relacionadas con el miedo... nos llevan a estados de mucho más sufrimiento y a movernos a partir de la contracción. Las neuronas espejo... el deportista puede llegar a procesar cómo estás, no solo lo que dices. El estado del técnico se activa neurológicamente en el deportista. Coherencia fisiológica... el campo electromagnético del corazón llega hasta 1,5 metros. El miedo estrecha esa creación de escenarios, mientras que los estados positivos amplían el repertorio cognitivo y de acciones.",
+      "keywords": [
+        "pensamientos-inconscientes",
+        "Hawkins",
+        "neuronas-espejo",
+        "coherencia-fisiológica",
+        "emociones",
+        "estado-de-flujo"
+      ],
+      "entities": [
+        "Hawkins",
+        "Rijsalati"
+      ],
+      "topics": [
+        "Comunicación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo influyen los pensamientos inconscientes en la toma de decisiones?",
+        "¿Qué es el modelo de Hawkins aplicado al alto rendimiento?",
+        "¿Cómo afectan las neuronas espejo y la coherencia fisiológica al equipo?"
+      ],
+      "related_terms": [
+        "pensamientos",
+        "inconscientes",
+        "neuronas",
+        "espejo",
+        "emociones",
+        "coherencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se abordó la paradoja del especialista y la necesidad de priorizar el carácter y el poder referente.",
+      "context_after": "Final del segundo archivo de registro."
+    }
+  ]
+}
