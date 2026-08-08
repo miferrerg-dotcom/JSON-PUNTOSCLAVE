@@ -2,7 +2,7 @@
   "video": {
     "video_id": "WEBVTT-1",
     "video_title": "La dimensión invisible del rendimiento",
-    "speaker": "Antonio Caballero",
+    "speaker": "Antonio Caballero Camacho",
     "total_duration": "00:14:12",
     "total_duration_seconds": 852,
     "source_file": "WEBVTT-1.vtt",
@@ -12,29 +12,26 @@
     {
       "id": "WEBVTT-1-001",
       "video_title": "La dimensión invisible del rendimiento",
-      "speaker": "Antonio Caballero",
+      "speaker": "Antonio Caballero Camacho",
       "start_timestamp": "00:00:17",
-      "end_timestamp": "00:06:03",
+      "end_timestamp": "00:02:45",
       "start_seconds": 17,
-      "end_seconds": 363,
-      "duration_seconds": 346,
+      "end_seconds": 165,
+      "duration_seconds": 148,
       "timestamp_url": "?t=17",
-      "title": "Introducción a la Dimensión Invisible y el Significado de Rendir",
-      "summary": "Antonio Caballero introduce el objetivo de optimizar al preparador físico antes de optimizar al deportista. Explica que el rendimiento abarca la utilidad que rinde alguien y la proporción entre el producto obtenido y los medios utilizados. Si estos medios incluyen el estado y comportamiento del entrenador, el técnico forma parte directa del rendimiento deportivo.",
+      "title": "Introducción a la Dimensión Invisible del Rendimiento",
+      "summary": "Antonio Caballero introduce la necesidad de comprender cómo aquello no medible ni cuantificable influye de forma directa en el rendimiento del deportista y del propio técnico. Plantea que, antes de optimizar al atleta, el preparador debe optimizarse a sí mismo.",
       "literal_quote": "Se trata básicamente de entender cómo aquello que no es medible ni cuantificable puede influir de manera directa en el rendimiento de nuestros deportistas y en nuestro propio desempeño profesional.",
-      "full_transcript": "Llevo años trabajando en la preparación física en el fútbol y el alto rendimiento. Se trata básicamente de entender cómo aquello que no es medible ni cuantificable puede influir de manera directa en el rendimiento de nuestros deportistas y en nuestro propio desempeño profesional. El título es: 'La dimensión invisible del rendimiento' y el objetivo es tratar de entender cómo antes de optimizar al deportista, tenemos que intentar optimizarnos a nosotros mismos. El diccionario define rendimiento de dos formas. Uno, que es producto o utilidad que rinde o da alguien. Y en segundo lugar, la proporción entre el producto obtenido y los medios utilizados. Si los medios incluyen al técnico, como puede ser su estado, su comportamiento, su carácter, su forma de ser, entonces nosotros como técnicos también empezamos a formar parte de esos medios.",
+      "full_transcript": "Hoy vengo a hablaros de algo que me lleva mucho tiempo rondando la cabeza... Se trata básicamente de entender cómo aquello que no es medible ni cuantificable puede influir de manera directa en el rendimiento de nuestros deportistas y en nuestro propio desempeño profesional. El objetivo es tratar de entender cómo antes de optimizar al deportista, tenemos que intentar optimizarnos a nosotros mismos.",
       "keywords": [
-        "rendimiento",
-        "autoconocimiento",
-        "utilidad",
         "dimensión-invisible",
-        "eficiencia",
-        "preparador-físico"
+        "rendimiento",
+        "preparador-físico",
+        "optimización",
+        "autoconocimiento"
       ],
       "entities": [
-        "Juan Miguel Fernández Balboa",
-        "NSCA",
-        "Javier Arnaiz"
+        "Real Madrid CF Femenino"
       ],
       "topics": [
         "Professional Experience",
@@ -46,45 +43,134 @@
       ],
       "search_questions": [
         "¿Qué significa la dimensión invisible del rendimiento?",
-        "¿Cómo se define el rendimiento desde la perspectiva del cuerpo técnico?",
-        "¿Por qué el estado del entrenador influye en el deportista?"
+        "¿Por qué el preparador físico debe optimizarse antes de optimizar al atleta?"
       ],
       "related_terms": [
-        "dimensión",
-        "invisible",
+        "dimensión invisible",
         "rendimiento",
-        "autoconocimiento",
-        "utilidad",
-        "eficiencia"
+        "desempeño profesional",
+        "optimización"
       ],
       "relevance_score": 4,
       "context_before": "Inicio del webinar.",
-      "context_after": "Se introduce la pirámide de recuperación y la comparación con la atención que se le da a las métricas y los GPS."
+      "context_after": "Se pasa a definir formalmente el concepto de rendimiento según el diccionario."
     },
     {
       "id": "WEBVTT-1-002",
       "video_title": "La dimensión invisible del rendimiento",
-      "speaker": "Antonio Caballero",
-      "start_timestamp": "00:06:08",
-      "end_timestamp": "00:10:21",
-      "start_seconds": 368,
-      "end_seconds": 621,
-      "duration_seconds": 253,
-      "timestamp_url": "?t=368",
-      "title": "La Base de la Pirámide del Rendimiento y el Liderazgo Empático",
-      "summary": "Se prioriza lo menos visible, como el sueño y el descanso mental, frente a las herramientas de la cima como el GPS. Utilizando las declaraciones de Lionel Scaloni, se destaca que la conexión humana, la empatía y la comodidad del jugador son la verdadera base del rendimiento.",
-      "literal_quote": "Lo más importante suele ser lo menos visible. Creo que en muchos momentos prestamos más atención y dedicamos más recursos temporales a aquello que está en lo alto de la pirámide y olvidamos lo de más abajo.",
-      "full_transcript": "¿Qué está en la base? Lo que nos encontramos en la base es el sueño, el descanso mental. No aparece la crioterapia, no aparece el masaje. Lo más importante suele ser lo menos visible. Creo que en muchos momentos prestamos más atención y dedicamos más recursos temporales a aquello que está en lo alto de la pirámide y olvidamos lo de más abajo. Scaloni: 'La mayoría de argentinos entiende de 4-3-3... Pero hay cosas que para mí son fundamentales... Te da la confianza y la comodidad dentro del campo... Porque te llevas bien con el otro, porque es tu amigo, vas a dar mucho más'. Sigue siendo para mí la base del rendimiento, la comprensión del ser humano, y creo que en muchos momentos es algo que estamos abandonando en el proceso de atención y desarrollo de nuestros deportistas.",
+      "speaker": "Antonio Caballero Camacho",
+      "start_timestamp": "00:02:46",
+      "end_timestamp": "00:05:31",
+      "start_seconds": 166,
+      "end_seconds": 331,
+      "duration_seconds": 165,
+      "timestamp_url": "?t=166",
+      "title": "El Técnico como Parte de los Medios para Rendir",
+      "summary": "Analizando la definición de rendimiento como la proporción entre producto obtenido y medios utilizados, se argumenta que el estado, comportamiento y carácter del técnico forman parte de dichos medios, influyendo en el resultado final.",
+      "literal_quote": "Si los medios incluyen al técnico, como puede ser su estado, su comportamiento, su carácter... entonces nosotros como técnicos también empezamos a formar parte de esos medios.",
+      "full_transcript": "El diccionario define rendimiento de dos formas. Uno, que es producto o utilidad que rinde o da alguien... Y en segundo lugar, la proporción entre el producto obtenido y los medios utilizados. Si los medios incluyen al técnico, como puede ser su estado, su comportamiento, su carácter, su forma de ser, entonces nosotros como técnicos también empezamos a formar parte de esos medios.",
       "keywords": [
-        "pirámide-rendimiento",
-        "descanso-mental",
-        "empatía",
-        "liderazgo",
-        "conexión-humana",
-        "Scaloni"
+        "rendimiento",
+        "utilidad",
+        "eficiencia",
+        "cuerpo-técnico",
+        "comportamiento"
       ],
       "entities": [
-        "Scaloni"
+        "Juan Miguel Fernández Balboa"
+      ],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se define el rendimiento desde la perspectiva del cuerpo técnico?",
+        "¿Por qué el estado del entrenador influye directamente en los medios para rendir?"
+      ],
+      "related_terms": [
+        "medios utilizados",
+        "eficiencia",
+        "carácter del técnico",
+        "utilidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Introducción sobre la necesidad de optimizar al técnico antes que al deportista.",
+      "context_after": "Cita a Javier Arnaiz sobre la importancia de respirar el vestuario desde dentro."
+    },
+    {
+      "id": "WEBVTT-1-003",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero Camacho",
+      "start_timestamp": "00:05:37",
+      "end_timestamp": "00:06:25",
+      "start_seconds": 337,
+      "end_seconds": 385,
+      "duration_seconds": 48,
+      "timestamp_url": "?t=337",
+      "title": "Respirar el Vestuario y el Autoconocimiento del Técnico",
+      "summary": "Citando la idea de 'respirar en los vestuarios' para adquirir conocimientos inalcanzables desde fuera, el ponente propone indagar no solo en el interior del atleta, sino también en el propio interior del preparador.",
+      "literal_quote": "Hay conocimientos que tienes que respirarlos en los vestuarios. Esas lecciones son muy valiosas e inaccesibles si no estás dentro.",
+      "full_transcript": "Me llamó la atención esta diapositiva donde aparece nuestro compañero Javier Arnaiz, donde decía que hay conocimientos que tienes que respirarlos en los vestuarios. Esas lecciones son muy valiosas e inaccesibles si no estás dentro. Me quedé sobre todo con la parte de 'si no estás dentro', porque creo que ese estar dentro tenemos y debemos extrapolarlo... ¿Qué hay dentro del vestuario? Necesitamos saberlo, pero también ¿qué hay dentro de nuestros atletas? ¿Qué hay dentro de nosotros?",
+      "keywords": [
+        "vestuario",
+        "autoconocimiento",
+        "Javier-Arnaiz",
+        "conocimiento",
+        "interior"
+      ],
+      "entities": [
+        "Javier Arnaiz",
+        "NSCA"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es importante respirar el vestuario según Javier Arnaiz?",
+        "¿Hacia dónde debe extrapolarse el concepto de 'estar dentro'?"
+      ],
+      "related_terms": [
+        "respirar vestuario",
+        "lecciones inaccesibles",
+        "autoconocimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición del técnico como parte activa de los medios de rendimiento.",
+      "context_after": "Introducción de la pirámide de recuperación de Lemur."
+    },
+    {
+      "id": "WEBVTT-1-004",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero Camacho",
+      "start_timestamp": "00:06:26",
+      "end_timestamp": "00:08:34",
+      "start_seconds": 386,
+      "end_seconds": 514,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=386",
+      "title": "La Pirámide del Rendimiento: Priorizar la Base Invisible",
+      "summary": "Utilizando la pirámide de Lemur, se ilustra que la base fundamental es invisible (sueño, descanso mental) frente a las tecnologías de la cima (crioterapia, GPS). Advierte que se sobreinvierten recursos en la cima ignorando los cimientos.",
+      "literal_quote": "Lo más importante suele ser lo menos visible. Creo que en muchos momentos prestamos más atención y dedicamos más recursos a aquello que está en lo alto de la pirámide y olvidamos lo de más abajo.",
+      "full_transcript": "Estoy seguro de que esta pirámide y esta infografía de Lemur la conocéis. Como vemos aquí, ¿qué está en la base? Lo que nos encontramos en la base es el sueño, el descanso mental. No aparece la crioterapia, no aparece el masaje... Lo más importante suele ser lo menos visible. Creo que en muchos momentos prestamos más atención y dedicamos más recursos temporales a aquello que está en lo alto de la pirámide y olvidamos lo de más abajo... Somos expertos en medir esa parte alta de la pirámide y sin embargo, la base sigue siendo en muchos momentos algo desconocido.",
+      "keywords": [
+        "pirámide",
+        "recuperación",
+        "Lemur",
+        "descanso-mental",
+        "GPS",
+        "base-invisible"
+      ],
+      "entities": [
+        "Lemur"
       ],
       "topics": [
         "Metodología",
@@ -92,46 +178,134 @@
       ],
       "content_type": [
         "Reflexión",
-        "Ejemplo"
+        "Metodología"
       ],
       "search_questions": [
-        "¿Qué elementos forman la base de la pirámide del rendimiento?",
-        "¿Qué importancia tiene la empatía en el alto rendimiento según Scaloni?",
-        "¿Por qué se descuidan los aspectos emocionales frente a los datos técnicos?"
+        "¿Qué elementos forman la base de la pirámide de recuperación según Lemur?",
+        "¿Por qué se comete el error de priorizar la cima tecnológica sobre la base invisible?"
       ],
       "related_terms": [
-        "base",
-        "pirámide",
-        "rendimiento",
-        "conexión",
-        "humana",
-        "empatía"
+        "pirámide de Lemur",
+        "descanso mental",
+        "tecnología aplicada"
       ],
       "relevance_score": 5,
-      "context_before": "Antonio Caballero introduce la necesidad de optimizar al preparador físico antes que al deportista.",
-      "context_after": "Se amplía el concepto con la analogía del iceberg del rendimiento y la necesidad de autoevaluación por parte del staff técnico."
+      "context_before": "Reflexión sobre conocer internamente al atleta y al técnico.",
+      "context_after": "Análisis del discurso de Lionel Scaloni sobre empatía y relación humana."
     },
     {
-      "id": "WEBVTT-1-003",
+      "id": "WEBVTT-1-005",
       "video_title": "La dimensión invisible del rendimiento",
-      "speaker": "Antonio Caballero",
+      "speaker": "Antonio Caballero Camacho",
+      "start_timestamp": "00:08:38",
+      "end_timestamp": "00:10:21",
+      "start_seconds": 518,
+      "end_seconds": 621,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=518",
+      "title": "Empatía y Conexión Humana como Base Táctica (Ejemplo Scaloni)",
+      "summary": "A partir de un testimonio de Lionel Scaloni, se resalta que la confianza y el 'feeling' con el jugador son tan determinantes para el rendimiento como la propia táctica o la estrategia de juego.",
+      "literal_quote": "Sigue siendo para mí la base del rendimiento, la comprensión del ser humano, y creo que en muchos momentos es algo que estamos abandonando.",
+      "full_transcript": "Scaloni: 'La mayoría de argentinos entiende de 4-3-3... Pero hay cosas que para mí son fundamentales y que no van por el lado de la técnica, la táctica o la estrategia... Te da la confianza y la comodidad dentro del campo... Porque te llevas bien con el otro, porque es tu amigo, vas a dar mucho más. Yo me crié con eso. He tenido miles de entrenadores. Tácticamente jugaban al ajedrez más que al fútbol, pero tenían cero feeling con el jugador'... Por supuesto, no quiero decir con esto que esto es en lugar de lo técnico... No, es junto a lo técnico, junto a lo táctico, pero sigue siendo para mí la base del rendimiento, la comprensión del ser humano.",
+      "keywords": [
+        "Scaloni",
+        "empatía",
+        "táctica",
+        "conexión-humana",
+        "confianza",
+        "feeling"
+      ],
+      "entities": [
+        "Lionel Scaloni"
+      ],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué importancia tiene la conexión humana frente a la táctica según Scaloni?",
+        "¿Por qué la comprensión del ser humano apoya el rendimiento táctico?"
+      ],
+      "related_terms": [
+        "feeling con el jugador",
+        "confianza",
+        "conexión humana",
+        "gestión de vestuario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición de la pirámide de recuperación de Lemur.",
+      "context_after": "Metáfora del iceberg para comparar datos de GPS frente al estado mental subyacente."
+    },
+    {
+      "id": "WEBVTT-1-006",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero Camacho",
       "start_timestamp": "00:10:23",
-      "end_timestamp": "00:14:12",
+      "end_timestamp": "00:11:55",
       "start_seconds": 623,
-      "end_seconds": 852,
-      "duration_seconds": 229,
+      "end_seconds": 715,
+      "duration_seconds": 92,
       "timestamp_url": "?t=623",
-      "title": "El Iceberg del Jugador y la Autoevaluación del Técnico",
-      "summary": "Se presenta la analogía del iceberg, donde factores invisibles como el diálogo interno y la autoestima sostienen los datos visibles. Se expone el caso de un jugador brasileño con un hermano con parálisis cerebral para ilustrar el riesgo de enfocarse únicamente en métricas. Finalmente, se cuestiona quién evalúa el propio rendimiento del staff.",
+      "title": "La Analogía del Iceberg: Carga Externa vs. Diálogo Interno",
+      "summary": "Se presenta la metáfora del iceberg: la punta visible agrupa GPS y carga externa, mientras que la parte sumergida abarca pensamientos y autoestima. Cuestiona buscar métricas avanzadas ignorando el estado mental no visible.",
       "literal_quote": "¿Podemos hablar de optimización del rendimiento, de Z-score, de ratios agudos crónicos, si ignoramos aquello y si no conocemos aquello que no se ve?",
-      "full_transcript": "En esta punta del iceberg vemos todo aquello que tiene que ver con el análisis de los GPS, la carga externa.... Pero vuelvo a insistir en que seguramente un porcentaje muy grande está debajo del agua, está en la parte no visible del iceberg, que son todos esos pensamientos antes de un partido.... ¿Podemos hablar de optimización del rendimiento, de Z-score, de ratios agudos crónicos, si ignoramos aquello y si no conocemos aquello que no se ve?. Recordando un jugador brasileño... conocí y supe que tenía un hermano con parálisis cerebral. Me llevé un jarro de agua fría conmigo mismo, porque dije: le estoy prestando atención aquí para decirle diferentes temas acerca de su composición corporal... y no tenía ni idea de que tenía esa circunstancia personal. Nosotros analizamos el rendimiento de nuestros jugadores, pero ¿quién analiza nuestro rendimiento?.",
+      "full_transcript": "Extrapolándolo... a otra analogía, como puede ser un iceberg. En esta punta del iceberg vemos todo aquello que tiene que ver con el análisis de los GPS, la carga externa... Pero vuelvo a insistir en que seguramente un porcentaje muy grande está debajo del agua, está en la parte no visible del iceberg, que son todos esos pensamientos antes de un partido... ese diálogo interno cuando un atleta falla... Sabiendo cómo esos pensamientos influyen en las diferentes emociones y conductas... mi pregunta es: ¿podemos hablar de optimización del rendimiento, de Z-score, de ratios agudos crónicos, si ignoramos aquello y si no conocemos aquello que no se ve?",
       "keywords": [
         "iceberg",
-        "evaluación",
+        "GPS",
+        "pensamientos",
         "diálogo-interno",
+        "autoestima",
+        "carga-externa"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué representa la parte sumergida del iceberg en el control de cargas?",
+        "¿Por qué los ratios y Z-scores son insuficientes sin conocer el estado mental?"
+      ],
+      "related_terms": [
+        "analogía del iceberg",
+        "diálogo interno",
+        "Z-score",
+        "ratio agudo-crónico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplo práctico de Scaloni sobre la importancia del aspecto relacional.",
+      "context_after": "Anécdota vivida en Rumanía sobre un jugador y su contexto familiar oculto."
+    },
+    {
+      "id": "WEBVTT-1-007",
+      "video_title": "La dimensión invisible del rendimiento",
+      "speaker": "Antonio Caballero Camacho",
+      "start_timestamp": "00:11:58",
+      "end_timestamp": "00:14:12",
+      "start_seconds": 718,
+      "end_seconds": 852,
+      "duration_seconds": 134,
+      "timestamp_url": "?t=718",
+      "title": "Contexto Personal del Jugador y Autoevaluación del Staff",
+      "summary": "Relata un caso en Rumanía con un jugador brasileño cuyo hermano padecía parálisis cerebral, demostrando los peligros de enfocarse solo en pantallas e ignorar la realidad personal. Concluye instando al staff a evaluar su propio rendimiento e iceberg interno.",
+      "literal_quote": "Nosotros analizamos el rendimiento de nuestros jugadores, pero ¿quién analiza nuestro rendimiento? ¿Quién analiza el rendimiento del preparador físico?",
+      "full_transcript": "Estando obsesionado con el dato, con el rendimiento, con lo que me mostraba un iPad y un ordenador... recuerdo un día con una conversación con un deportista... conocí y supe que tenía un hermano con parálisis cerebral. Me llevé un jarro de agua fría conmigo mismo, porque dije: le estoy prestando atención aquí para decirle diferentes temas acerca de su composición corporal, de su rendimiento... y no tenía ni idea de que tenía esa circunstancia personal... Nosotros analizamos el rendimiento de nuestros jugadores, pero ¿quién analiza nuestro rendimiento? ¿Quién analiza el rendimiento del preparador físico? Ese iceberg o esa pirámide no es solo del jugador... hay una parte invisible, que es aquello que pensamos, aquello que sentimos y que no siempre expresamos.",
+      "keywords": [
+        "obsesión-datos",
+        "contexto-personal",
+        "autoevaluación",
         "staff",
-        "contexto-familiar",
-        "autoevaluación"
+        "iceberg-técnico",
+        "empatía"
       ],
       "entities": [],
       "topics": [
@@ -143,21 +317,17 @@
         "Reflexión"
       ],
       "search_questions": [
-        "¿Qué representa la analogía del iceberg en el rendimiento deportivo?",
-        "¿Por qué es importante conocer el contexto personal de un jugador?",
-        "¿Cómo debe evaluar su propio rendimiento el staff técnico?"
+        "¿Qué lección se extrae de la anécdota del jugador brasileño en Rumanía?",
+        "¿Por qué debe el cuerpo técnico autoevaluar su propia dimensión invisible?"
       ],
       "related_terms": [
-        "iceberg",
-        "rendimiento",
-        "diálogo",
-        "interno",
-        "evaluación",
-        "staff"
+        "contexto personal",
+        "autoevaluación del staff",
+        "obsesión por los datos"
       ],
       "relevance_score": 5,
-      "context_before": "Se resalta la importancia de la conexión humana y la empatía como base del rendimiento usando unas declaraciones de Scaloni.",
-      "context_after": "Cierre del primer bloque del webinar."
+      "context_before": "Metáfora del iceberg y las limitaciones de evaluar únicamente la carga externa.",
+      "context_after": "Final del primer fragmento / webinar."
     }
   ]
 }
