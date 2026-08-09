@@ -1,0 +1,926 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Career Positioning en el Alto Rendimiento",
+    "speaker": "David Clancy",
+    "total_duration": "00:40:10",
+    "total_duration_seconds": 2410,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:01:04",
+      "end_timestamp": "00:04:26",
+      "start_seconds": 64,
+      "end_seconds": 266,
+      "duration_seconds": 202,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=64",
+      "title": "Introducción al Career Positioning",
+      "summary": "David Clancy define el 'Career Positioning' aclarando que no se trata de autopromoción excesiva ni arrogancia. Consiste en entender estratégicamente cómo comunicar nuestro valor a los 'stakeholders' clave (directores de rendimiento, entrenadores) para aumentar la visibilidad y credibilidad sin ser abrasivos.",
+      "literal_quote": "This isn't self-promotion. This isn't about saying you're the best, you're great... can we be strategic in understanding how we can share with certain stakeholders... our value",
+      "full_transcript": "Career positioning. For me, it's massively important... A lot of the conversations I have with prospective candidates from a very big talent pool, especially in the world of performance, is how can I give myself a better chance to make the next step in my career?... Just setting the scene, the landscape for career positioning. This isn't self-promotion. This isn't about saying you're the best, you're great. I am Irish, and Irish people, like a lot of Spanish people, are known for being very humble... But when we're talking about positioning, can we be strategic in understanding how we can share with certain stakeholders, certain performance directors, coaches, managers, front office our value, what we bring to that environment? How can we increase our visibility without shouting, without being abrasive and causing problems? How can we be more influential and understanding influence? A massive area that I've really learned how important it is over the last five to six years. Credibility, a huge part of nurturing trust.",
+      "keywords": [
+        "career-positioning",
+        "visibility",
+        "influence",
+        "credibility",
+        "stakeholders"
+      ],
+      "entities": [
+        "David Clancy"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es el career positioning según David Clancy?",
+        "¿Cómo se puede comunicar el valor sin ser autopromocional?",
+        "¿Por qué es importante la visibilidad ante los directores de rendimiento?"
+      ],
+      "related_terms": [
+        "career positioning",
+        "autopromoción",
+        "visibilidad estratégica",
+        "credibilidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar, presentación del ponente y saludo a NSCA Spain.",
+      "context_after": "Se aborda la importancia de tener metas claras y una dirección a largo plazo en la carrera profesional."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:04:54",
+      "end_timestamp": "00:06:02",
+      "start_seconds": 294,
+      "end_seconds": 362,
+      "duration_seconds": 68,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=294",
+      "title": "Metas claras y la Estrella Polar profesional",
+      "summary": "Se enfatiza la necesidad de definir claramente un rumbo o 'North Star' profesional. Recomienda usar papel y boli o tablets para reflexionar constantemente sobre dónde se está y hacia dónde se quiere ir, apoyándose en mentores si hay dudas.",
+      "literal_quote": "You need to have clear goals. You need to be really clear on where you're going and why you're going there in the first place. Why there? Why is that your North Star?",
+      "full_transcript": "You need to have clear goals. You need to be really clear on where you're going and why you're going there in the first place. Why there? Why is that your North Star? Or perhaps it's where you currently are, and that's absolutely okay. That's actually brilliant. And do you have a long-term direction? Do you use pen and paper? Do you use a Remarkable? Do you use a tablet? And are you constantly refining, reflecting, reviewing where you are and where you want to go, where you want to be? And it's okay if you don't know yet. That's why you speak to mentors. That's why you speak to people that have been there and done it.",
+      "keywords": [
+        "goals",
+        "north-star",
+        "mentorship",
+        "reflection",
+        "career-direction"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué es importante tener una 'North Star' en tu carrera?",
+        "¿Cómo ayuda la reflexión constante a definir objetivos profesionales?",
+        "¿Cuál es el rol de un mentor cuando no sabes hacia dónde dirigir tu carrera?"
+      ],
+      "related_terms": [
+        "metas claras",
+        "dirección a largo plazo",
+        "mentores",
+        "North Star"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se define el concepto de Career Positioning y la importancia de la credibilidad.",
+      "context_after": "Se pone como ejemplo la creación de un podcast o el uso de plataformas para mostrar intereses y experiencia."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:06:02",
+      "end_timestamp": "00:07:43",
+      "start_seconds": 362,
+      "end_seconds": 463,
+      "duration_seconds": 101,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=362",
+      "title": "Mostrar tu valor a través de plataformas",
+      "summary": "Clancy utiliza su experiencia creando un podcast (200 episodios) como ejemplo de cómo posicionarse y crear una red de contactos. Invita a los profesionales a usar plataformas para compartir pasiones, curiosidad y lecciones aprendidas sin resultar arrogantes.",
+      "literal_quote": "How are you showcasing your value? And how are you letting people understand, without being too loud, what you like to talk about and where your purpose is...",
+      "full_transcript": "I had a podcast Sleep, eat, perform, repeat... 200 episodes every week for 200 weeks. Really consistent. Lots of conversations, lots of mistakes at the start, lots of lessons. Lots of lessons that I still take to today. Other podcasts I've done recently... this is somebody reaching out to me and having a conversation with me, giving me the platform and the opportunity to share some mistakes, to share some things I've learned, but again, has helped me understand where I want to position myself in my career as I move forward over the next few years. So how are you showcasing your value? And how are you letting people understand, without being too loud, what you like to talk about and where your purpose is, what you're passionate about, what you're curious about, where you're good, where your strengths are... If you're asked to do a podcast, although some people find it scary, you can be anxious, I would say lean in and try it.",
+      "keywords": [
+        "showcase-value",
+        "podcast",
+        "platforms",
+        "networking",
+        "passion"
+      ],
+      "entities": [
+        "Apple",
+        "Spotify"
+      ],
+      "topics": [
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo pueden los podcasts ayudar al posicionamiento profesional?",
+        "¿De qué manera se puede mostrar curiosidad profesional sin ser egocéntrico?",
+        "¿Qué lecciones extrae David Clancy de realizar 200 episodios de su podcast?"
+      ],
+      "related_terms": [
+        "mostrar valor",
+        "plataformas de comunicación",
+        "networking",
+        "compartir lecciones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se habla sobre la necesidad de establecer metas profesionales claras.",
+      "context_after": "Se aborda la diferencia clave entre ser técnicamente competente y tener un buen posicionamiento."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:07:43",
+      "end_timestamp": "00:09:18",
+      "start_seconds": 463,
+      "end_seconds": 558,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=463",
+      "title": "Competencia vs. Posicionamiento Estratégico",
+      "summary": "Destaca que ser técnicamente excelente (conocer los X y O del trabajo) es el estándar mínimo esperado en el alto rendimiento. La clave está en ser 'diferente, no mejor', ganando confianza y siendo más asertivo al definir en qué aportas valor y cómo defines tu propio éxito.",
+      "literal_quote": "But what I want you to also think about... is to think about how you're different. Not better, but different.",
+      "full_transcript": "Yes, everyone watching today and everyone part of this group is technically, in our language, you would say proficient. Probably excellent at their job, really good at the performance side of the job, what it takes, the X's and O's, the A to Z, what you've studied... But what I want you to also think about, and that's why I've been brought in, is to think about how you're different. Not better, but different. Why you're trusted, and where you're trusted, and how can you improve trust? How can you improve your reputation? How can you be more influential, more strategic, bolder? That means a little bit more assertive, a little bit more proud of saying where you can add value. And how can you position yourself better for success? Understanding how do you define success for you in the first place, and that will be different for every single person watching this webinar.",
+      "keywords": [
+        "competence",
+        "positioning",
+        "differentiation",
+        "assertiveness",
+        "success"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué no es suficiente ser técnicamente bueno en el alto rendimiento?",
+        "¿Qué significa ser 'diferente, no mejor' en tu carrera?",
+        "¿Cómo la asertividad ayuda al posicionamiento profesional?"
+      ],
+      "related_terms": [
+        "competencia técnica",
+        "diferenciación",
+        "asertividad",
+        "definición de éxito"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clancy invita a usar plataformas para compartir experiencia y valor.",
+      "context_after": "Presenta los objetivos de la charla y la analogía de hacer que 'el bote vaya más rápido'."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:10:14",
+      "end_timestamp": "00:11:26",
+      "start_seconds": 614,
+      "end_seconds": 686,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=614",
+      "title": "Analogía: Cómo hacer que tu bote vaya más rápido",
+      "summary": "Utilizando una analogía de un amigo olímpico, pregunta '¿cómo puedes hacer que tu bote vaya más rápido?'. Subraya que para optimizar la eficiencia y eliminar obstáculos, primero es indispensable saber hacia dónde te diriges; de lo contrario, solo darás vueltas en el océano.",
+      "literal_quote": "Because if you don't know where you're going, you're just spinning around in the ocean.",
+      "full_transcript": "I love this analogy. There's a friend of mine, an Olympian, competed in many Olympic Games, and he came up with this beautiful piece of language, this phrase that I often refer to with any team or any individual I coach or I work with. How can you make your boat go faster? It's a big question. How can you make your boat go faster? Are you in the right boat, and do you know where you're going? Because if you don't know where you're going, you're just spinning around in the ocean. But if you know where you're going and what you have to do to get there and how you can get there, and what you have to get rid of, you can make your boat go really fast, and you can get to where you want to go quicker... How can you get from here to here quicker and better, more effectively, with more efficiency?",
+      "keywords": [
+        "analogy",
+        "boat-faster",
+        "efficiency",
+        "direction",
+        "clarity"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metáfora"
+      ],
+      "search_questions": [
+        "¿Qué significa la analogía del bote en el desarrollo profesional?",
+        "¿Por qué es importante conocer el destino antes de acelerar en la carrera?",
+        "¿Cómo se puede aplicar la eficiencia en la trayectoria laboral deportiva?"
+      ],
+      "related_terms": [
+        "dirección clara",
+        "eficiencia profesional",
+        "eliminar obstáculos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se definieron los objetivos del webinar (influencia, visibilidad, plan de ruta).",
+      "context_after": "Se explica cómo las ligas de alto rendimiento asumen la competencia técnica como algo garantizado."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:11:28",
+      "end_timestamp": "00:12:47",
+      "start_seconds": 688,
+      "end_seconds": 767,
+      "duration_seconds": 79,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=688",
+      "title": "Aportar valor mediante la resolución de problemas",
+      "summary": "En entornos de élite, la competencia técnica se da por sentada. La ventaja radica en posicionamiento, influencia, comunicación y ser conocido como la persona que aporta soluciones reales a los problemas del cuerpo técnico, directivos o jugadores.",
+      "literal_quote": "How can you be the person that comes with solutions to solve an issue for the player, for the manager, for the coach, for an owner...",
+      "full_transcript": "In competitive environments, high-performing environments... we're all expected to be really good at what we do... they expected me to be technically very good. But it's the other stuff that now I've really seen and learned and understood that would have helped me a lot earlier in my career. Positioning, influence, communication, and understanding how can you help someone else with their problems? How can you be the person that comes with solutions to solve an issue for the player, for the manager, for the coach, for an owner, for another club, at a conference? How can you be one that always is adding value, that's giving that little bit more, even when it's not expected? There's a difference, and I think the difference between being competent and being good at what you do, good at your job, versus positioning.",
+      "keywords": [
+        "problem-solving",
+        "value-add",
+        "influence",
+        "elite-sports",
+        "solutions"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué busca el alto rendimiento más allá de la competencia técnica?",
+        "¿Por qué es vital ser un solucionador de problemas en el deporte de élite?",
+        "¿Cómo influye la comunicación en la percepción de valor por parte del staff?"
+      ],
+      "related_terms": [
+        "resolución de problemas",
+        "aportar valor añadido",
+        "entornos competitivos",
+        "posicionamiento vs competencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "La analogía de hacer que el barco avance hacia una dirección específica.",
+      "context_after": "Se plantea un ejercicio reflexivo sobre la reputación actual del profesional."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:12:47",
+      "end_timestamp": "00:14:07",
+      "start_seconds": 767,
+      "end_seconds": 847,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=767",
+      "title": "Evaluación de Reputación Personal",
+      "summary": "Clancy propone un ejercicio con papel y lápiz: reflexionar sobre cuál es tu reputación actual (por qué eres conocido hoy) frente a por qué quieres ser conocido en el futuro y quién necesita comprender el valor que aportas.",
+      "literal_quote": "What are you currently known for?... What do you want to become known for? Take it a step further.",
+      "full_transcript": "So just taking a moment, perhaps writing it on paper... What are you currently known for? And write it down. Think about it and write it down. What are you known for? When someone says, 'Carlos,' what is Carlos known for? When someone says, 'Jorge,' what is he known for?... What's David known for? What's your reputation? What are you known for in the world, in our community of high performance, of sports performance, of human performance? What do you want to become known for? Take it a step further. Where you are today, but where you want to go. What's the destination?... And who needs to understand that better? What senior people need to understand what you bring to the table? What can you help with?",
+      "keywords": [
+        "reputation",
+        "personal-brand",
+        "reflection",
+        "destination",
+        "stakeholders"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo auditar la propia reputación en el ámbito del alto rendimiento?",
+        "¿Por qué es importante alinear la reputación actual con las metas futuras?",
+        "¿A quién hay que comunicar el valor personal en una organización deportiva?"
+      ],
+      "related_terms": [
+        "reputación profesional",
+        "marca personal",
+        "evaluación de carrera"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explica la diferencia entre ser un ejecutor y ser alguien que aporta soluciones.",
+      "context_after": "Introducción del Pilar 1: Definir la ventaja competitiva (Edge)."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:14:07",
+      "end_timestamp": "00:15:28",
+      "start_seconds": 847,
+      "end_seconds": 928,
+      "duration_seconds": 81,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=847",
+      "title": "Pilar 1: Define tu Ventaja Competitiva (Edge)",
+      "summary": "El primer pilar es definir tu 'Edge', es decir, tu combinación única de valor que te diferencia en un mercado competitivo. Esta ventaja no es una sola habilidad, sino la mezcla de tu historia, filosofía, capacidad analítica y liderazgo.",
+      "literal_quote": "First one is to define your edge. What makes you unique, what makes you different, how you can sell yourself. So your unique combination of value.",
+      "full_transcript": "First one is to define your edge. What makes you unique, what makes you different, how you can sell yourself. So your unique combination of value. What differentiates you? What makes you different? There's a lot of us trying to get jobs all the time. Why should you get the job? Why are you the best person for this job now? Where can you create impact? What are you really good at? What systems have you brought in? What philosophy do you have? What leadership qualities do you have? How can you manage the department? What can you do with the data? GPS, yes. Tech, yes. Can you draw insights to help with the training, to help with the practice? And your edge is rarely one skill. It's usually a combination. It's your story. It's your history. It's what you've done. It's your mistakes.",
+      "keywords": [
+        "edge",
+        "unique-value",
+        "differentiation",
+        "skills-combination",
+        "philosophy"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué compone el 'Edge' o ventaja competitiva de un profesional?",
+        "¿Cómo te diferencias en un proceso de selección en el alto rendimiento?",
+        "¿Por qué el valor único es una combinación de habilidades y no solo una técnica?"
+      ],
+      "related_terms": [
+        "ventaja competitiva",
+        "valor único",
+        "diferenciación profesional",
+        "insights de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejercicio de evaluación sobre la reputación profesional.",
+      "context_after": "Se detallan las partes que componen el 'Edge': lo técnico, lo humano y lo estratégico."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:15:28",
+      "end_timestamp": "00:17:18",
+      "start_seconds": 928,
+      "end_seconds": 1038,
+      "duration_seconds": 110,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=928",
+      "title": "Los componentes de la Ventaja Competitiva",
+      "summary": "El 'Edge' se divide en tres áreas clave: Expertise Técnica, Habilidades Humanas (soft skills) y Comprensión Estratégica (tomar decisiones bajo presión y ser consciente del entorno del club). Pide a los profesionales desglosar sus habilidades en este marco.",
+      "literal_quote": "And strategic understanding. What do you understand that can have a huge impact and value at a club, at a team?",
+      "full_transcript": "It's what you've learned. It's what you're still working on. It's usually a mix of experience, of traits, kind of what makes you, you. Your perspective, your views on things, what you think... how you execute to a really high level. Just a little model... So start with something like this. Technical expertise. Here's just some examples. Human skills, soft skills. I run an event every year... Essential skills. So the human skills. And strategic understanding. What do you understand that can have a huge impact and value at a club, at a team? Decision-making, performance under pressure, awareness of what's going on at the club. So think of this framework.",
+      "keywords": [
+        "technical-expertise",
+        "human-skills",
+        "soft-skills",
+        "strategic-understanding",
+        "decision-making"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres pilares que componen la ventaja competitiva (Edge)?",
+        "¿Qué incluye la comprensión estratégica en el contexto de un club?",
+        "¿Qué papel juegan las 'soft skills' en la diferenciación profesional?"
+      ],
+      "related_terms": [
+        "habilidades humanas",
+        "comprensión estratégica",
+        "toma de decisiones bajo presión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del 'Edge' como una combinación única de historia, errores y valor.",
+      "context_after": "Se habla de la 'Salsa Secreta' y de cómo los rasgos únicos a menudo pasan desapercibidos."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:17:43",
+      "end_timestamp": "00:18:34",
+      "start_seconds": 1063,
+      "end_seconds": 1114,
+      "duration_seconds": 51,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1063",
+      "title": "La 'Salsa Secreta' oculta a simple vista",
+      "summary": "El factor diferenciador o 'secret sauce' a menudo está oculto a simple vista. Lo que a un profesional le parece normal y fácil debido a su naturaleza o autenticidad, suele ser precisamente su habilidad más excepcional para los demás.",
+      "literal_quote": "And we often say it's hidden in plain sight. You can't see it because it's staring in front of you all the time.",
+      "full_transcript": "What combination do you possess? That you possess that not everyone has. So what's in your secret sauce? What makes you different? What do you bring? And we often say it's hidden in plain sight. You can't see it because it's staring in front of you all the time. It's how you show up. It's when you're authentic to yourself. Your uniqueness, what makes you unique is often hidden. What feels absolutely normal for you. What's normal for you, though, is not normal for everyone else, and that's what you need to look at and think about.",
+      "keywords": [
+        "secret-sauce",
+        "hidden-in-plain-sight",
+        "authenticity",
+        "uniqueness",
+        "self-awareness"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es difícil reconocer la propia 'salsa secreta' o valor único?",
+        "¿Cómo se relaciona la autenticidad con la ventaja profesional?",
+        "¿Por qué lo que es 'normal' para uno puede ser el factor diferencial?"
+      ],
+      "related_terms": [
+        "salsa secreta",
+        "talento natural",
+        "autenticidad",
+        "autoconocimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se desglosan las habilidades que componen el Edge (técnicas, humanas, estratégicas).",
+      "context_after": "Transición al Pilar 2: Influencia y Visibilidad."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:18:34",
+      "end_timestamp": "00:20:22",
+      "start_seconds": 1114,
+      "end_seconds": 1222,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1114",
+      "title": "Pilar 2: Influencia y Visibilidad en el entorno de equipo",
+      "summary": "El segundo pilar se centra en la influencia, la cual se basa en la confianza, claridad y consistencia. Las personas influyentes simplifican lo complejo, toman decisiones firmes, reducen la fricción y manejan la presión, creando alineamiento dentro del staff.",
+      "literal_quote": "People of influence often make complicated, complex things easier, simplify things.",
+      "full_transcript": "Pillar number two, we've discussed the edge, the intersection, the mix. Influence, visibility, how you can show up a little bit more on LinkedIn... You need to understand what influence is and how does it work... It's about trust. It's about being clear. It's about being consistent. It's about what do you bring, your value. If we talk around a team dynamic, team environment, people of influence often make complicated, complex things easier, simplify things. Really clear communication. Rather than five words, they'll use three words. They understand what feedback is. When they make a decision, they make the decision... They involve who they need to involve for a decision. They get people together and create alignment... They reduce problems and friction. They bring people up, and they can handle the pressure of this environment of elite high performance.",
+      "keywords": [
+        "influence",
+        "visibility",
+        "trust",
+        "consistency",
+        "alignment",
+        "decision-making"
+      ],
+      "entities": [
+        "LinkedIn"
+      ],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las características de las personas influyentes en un cuerpo técnico?",
+        "¿Qué papel juega la comunicación clara en la influencia profesional?",
+        "¿Cómo manejan la toma de decisiones las personas con alta influencia?"
+      ],
+      "related_terms": [
+        "influencia y visibilidad",
+        "reducción de fricción",
+        "alineamiento de equipo",
+        "manejo de presión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la ventaja única (Edge) y la salsa secreta.",
+      "context_after": "Se hace la distinción entre visibilidad estratégica y simple autopromoción."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:20:24",
+      "end_timestamp": "00:22:11",
+      "start_seconds": 1224,
+      "end_seconds": 1331,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1224",
+      "title": "El equilibrio entre Visibilidad y Autopromoción",
+      "summary": "Existe un delicado equilibrio entre visibilidad y autopromoción egoísta. Ser visible compartiendo conocimientos, publicaciones e ideas de forma transparente ayuda a generar comunidad y hace evolucionar la profesión, permitiendo que los reclutadores descubran tu perfil.",
+      "literal_quote": "There's a clear difference between being visible and just saying how great you are all the time, like self-promotion, and it's this dance, this balance that we have to get right.",
+      "full_transcript": "There's a clear difference between being visible and just saying how great you are all the time, like self-promotion, and it's this dance, this balance that we have to get right. Sometimes there is a time and context to self-promote... But you have to be visible. It's hard for someone like me to find you if you're not visible. Otherwise, I'm always relying on somebody to tell me about you. That makes it more difficult for us to find you. So putting valuable work out there, sharing it, being transparent. It's why I publish things. It's why I put publications out there, share what I think. It's not saying it's always right, just something I think often will cause a conversation, create a community, create collaboration... But you have to share. If we all share, we'll all get better, and that lights me up. That's how this profession grows. That's how we look after the players better.",
+      "keywords": [
+        "visibility",
+        "self-promotion",
+        "transparency",
+        "collaboration",
+        "community"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Por qué compartir conocimientos en redes beneficia la visibilidad profesional?",
+        "¿Cuál es la diferencia entre autopromoción y visibilidad según David Clancy?",
+        "¿Cómo afecta la visibilidad pública a los procesos de selección (recruitment)?"
+      ],
+      "related_terms": [
+        "visibilidad estratégica",
+        "compartir conocimiento",
+        "crecimiento de la profesión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se enumeran los atributos de las personas altamente influyentes en el deporte.",
+      "context_after": "Se detallan las tácticas prácticas para incrementar la visibilidad (comunicativa, relacional, estratégica)."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:22:13",
+      "end_timestamp": "00:24:02",
+      "start_seconds": 1333,
+      "end_seconds": 1442,
+      "duration_seconds": 109,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1333",
+      "title": "Tácticas de Visibilidad y la Auditoría de Influencia",
+      "summary": "Clancy ofrece tácticas para ganar visibilidad a nivel comunicativo, relacional, estratégico y de liderazgo de pensamiento. Recomienda a los profesionales realizar una 'Auditoría' de sí mismos, puntuándose del 1 al 10 en niveles de confianza, proactividad y colaboración interdepartamental.",
+      "literal_quote": "Understand how influential you are. There's this word called an audit, benchmark, review... Rate yourself out of 10.",
+      "full_transcript": "Just an idea of some tactics on visibility. Communication, speaking clearly in a meeting. Relational, building trust across departments at a club. Strategic, understanding the club or the organization or the multi-club or the team and where they're going. Thought visibility, like what I did. I shared a PDF on availability and some ideas on that. So for you, as a framework... write down some areas of visibility and some potential examples of what you've done in the past, what you're doing tomorrow, what you can do moving forward... Understand how influential you are. There's this word called an audit, benchmark, review. I'd like to learn the Spanish equivalent. Where is the opportunity to become more influential? Rate yourself out of 10. Trusted. How trusted do you think people see you as? Visible, strategic. What's your communication like? Are you good at working across different disciplines, different professions? Or are you isolated? And are you proactive or reactive?",
+      "keywords": [
+        "visibility-tactics",
+        "audit",
+        "benchmark",
+        "cross-department",
+        "thought-leadership"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo realizar una auditoría de influencia profesional personal?",
+        "¿Cuáles son los 4 niveles de visibilidad estratégica en un club deportivo?",
+        "¿Qué preguntas hacerte para evaluar tu nivel de colaboración interdepartamental?"
+      ],
+      "related_terms": [
+        "auditoría personal",
+        "tácticas de visibilidad",
+        "liderazgo de pensamiento",
+        "confianza interdepartamental"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del delicado balance entre la visibilidad y el egocentrismo.",
+      "context_after": "Se presenta el tercer pilar del posicionamiento de carrera: la comunicación del impacto."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:24:04",
+      "end_timestamp": "00:26:05",
+      "start_seconds": 1444,
+      "end_seconds": 1565,
+      "duration_seconds": 121,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1444",
+      "title": "Pilar 3: Comunica tu Impacto (Causa y Efecto)",
+      "summary": "El tercer pilar aboga por dejar de describir únicamente las tareas diarias ('hice esto, apoyé al equipo') y empezar a comunicar estratégicamente la relación de 'causa y efecto'. El objetivo es visibilizar cómo el trabajo realizado produce resultados reales y ayuda a los demás.",
+      "literal_quote": "Instead of saying, 'I worked hard. I supported the team...' think about impact as well. 'I improved communication flow. I reduced decision friction.'",
+      "full_transcript": "Pillar number three. You need to communicate your impact, that people understand it a little bit. Blogs, articles, publications... Where can you show value beyond just the stuff that people know you should be doing? Something to think about is we often describe what we do each and every day. 'I did this, this, this, this today. Tomorrow I'm doing this...' But to be a bit more strategic, you could think about, 'I'm doing this, this, this today to do that... Yesterday, I did that because today it's doing this.' So real cause and effect, impact. I'm doing this because of this... I hope me sharing some of this helps people... I feel I'm communicating and creating impact for people in our profession of elite sport... So why do you do what you do? And communicate, where does it cause that impact?",
+      "keywords": [
+        "impact",
+        "communication",
+        "cause-and-effect",
+        "strategy",
+        "value-add"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué no es suficiente describir las tareas diarias en el alto rendimiento?",
+        "¿Qué significa enfocar la comunicación profesional en la relación causa-efecto?",
+        "¿Cómo se comunica el impacto personal a la dirección de un club?"
+      ],
+      "related_terms": [
+        "comunicar el impacto",
+        "causa y efecto",
+        "valor estratégico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se propone una auditoría sobre el nivel actual de influencia del profesional.",
+      "context_after": "Se proveen ejemplos concretos de cómo cambiar el lenguaje comunicativo hacia el impacto."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:26:06",
+      "end_timestamp": "00:27:01",
+      "start_seconds": 1566,
+      "end_seconds": 1621,
+      "duration_seconds": 55,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1566",
+      "title": "Cambiar el lenguaje de 'Tareas' a 'Impacto'",
+      "summary": "Se proporcionan ejemplos claros sobre cómo modificar el lenguaje. En lugar de decir 'hice la sesión de fuerza', se debe expresar el impacto: 'mejoré el flujo de comunicación', 'aumenté la robustez del jugador' o 'construí sistemas escalables'.",
+      "literal_quote": "Instead of saying, 'I worked hard... I did the strength session...' think about impact as well. 'I improved communication flow. I reduced decision friction.'",
+      "full_transcript": "I love this piece of language, to shift the language... Instead of saying, 'I worked hard. I supported the team. I did the strength session. It was great. We worked on this, this, and this...' think about impact as well. 'I improved communication flow. I reduced decision friction. I increased player robustness. I improved discipline... alignment, so everyone was more aligned. We're all on the same boat together, on the same bus going together. I built systems that scaled. I used AI and this, this, and this, and now the player care in my team here is way better.' Shift the language.",
+      "keywords": [
+        "language-shift",
+        "communication",
+        "scalability",
+        "player-care",
+        "alignment"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "topics": [
+        "Comunicación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo cambiar el lenguaje para comunicar resultados en lugar de tareas?",
+        "¿Qué ejemplos da David Clancy de comunicación orientada al impacto?",
+        "¿Cómo expresar verbalmente la construcción de sistemas o alineamiento de equipo?"
+      ],
+      "related_terms": [
+        "cambio de lenguaje",
+        "comunicación de impacto",
+        "resultados vs tareas"
+      ],
+      "relevance_score": 5,
+      "context_before": "La premisa teórica de comunicar el impacto mediante causa y efecto.",
+      "context_after": "Se presenta formalmente el modelo estructurado IMPACT."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:27:01",
+      "end_timestamp": "00:28:18",
+      "start_seconds": 1621,
+      "end_seconds": 1698,
+      "duration_seconds": 77,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1621",
+      "title": "El Framework IMPACT",
+      "summary": "Presentación del marco 'IMPACT' para articular aportaciones: Intent (qué problema resolvías), Method (qué hiciste), People (a quién ayudó), Alignment (cómo apoyó el objetivo general del club), What improved (qué mejoró concretamente) y Transferability (cómo se puede escalar o repetir el modelo).",
+      "literal_quote": "Another little framework that I really like is one called IMPACT... Intent. What problem were you solving... The method. What did you do...",
+      "full_transcript": "Another little framework that I really like is one called IMPACT. Each letter standing for something and just a question... Impact, intent. What problem were you solving or are you solving? The method. What did you do? Tell me, what did you implement? What was the action? People. Who did it help? Who benefited from it? Alignment. How did it support the organization or the team goal? Why did you doing that help the big picture? What improved? What happened? We reduced hamstring injuries. We returned to play from difficult ankle and tendon pathology. Transferability. What can scale or repeat? How can you do more of that without it being too hard? How can we use technology and be innovative and creative to just bring this to life more? Because it helped. Really easy framework, very simple to follow... Simple exercise again for your pen and paper. Rewrite your contribution.",
+      "keywords": [
+        "IMPACT-framework",
+        "intent",
+        "method",
+        "alignment",
+        "transferability",
+        "scalability"
+      ],
+      "entities": [
+        "IMPACT Framework"
+      ],
+      "topics": [
+        "Metodología",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significan las siglas del framework IMPACT?",
+        "¿Cómo estructurar la presentación de un caso de éxito profesional?",
+        "¿Por qué es vital mostrar la transferibilidad o escalabilidad de una intervención deportiva?"
+      ],
+      "related_terms": [
+        "Framework IMPACT",
+        "alineamiento de objetivos",
+        "reescribir contribuciones",
+        "escalabilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplos prácticos sobre cómo modificar el lenguaje hacia el impacto.",
+      "context_after": "La invitación a compartir estas contribuciones bajo la idea de que la marea alta levanta todos los barcos."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:30:02",
+      "end_timestamp": "00:32:00",
+      "start_seconds": 1802,
+      "end_seconds": 1920,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1802",
+      "title": "Pilar 4: Arquitectura de Carrera y Proactividad",
+      "summary": "El cuarto pilar incide en ser intencional con el rumbo profesional, pasando de reactivo a proactivo. Propone utilizar la técnica de los '5 porqués' (Toyota) para descubrir motivaciones reales y advierte sobre el peligro de distraerse con el 'síndrome del objeto brillante', recomendando analizar a fondo el entorno actual.",
+      "literal_quote": "Shift from reactive to proactive. Be intentional. Think about your career... And keep asking why. Ask why five times. And you'll find out the real, clear, big reason.",
+      "full_transcript": "Pillar number four, career architecture... Shift from reactive to proactive. Be intentional. Think about your career. Don't just walk through it and be busy. That's fine. That's okay. But if you want to have a really great career, you need to think about it. Every now and then, you need to pause... and ask yourself, 'Is this where I want to be? Is this what I want to be doing?...' And keep asking why. Ask why five times. And you'll find out the real, clear, big reason. It's what Toyota used to do, the five why principle... Sometimes the grass isn't always green over there. Sometimes where you are is actually really good. You just don't think about it enough. You don't think about what you can do. You're not really thinking about what more value you can bring to where you are... careers sometimes drift if you just keep looking at the bright and shiny objects all the time.",
+      "keywords": [
+        "career-architecture",
+        "proactive",
+        "five-whys",
+        "intentionality",
+        "career-drift"
+      ],
+      "entities": [
+        "Toyota"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo aplicar la técnica de los 5 porqués en la planificación de carrera?",
+        "¿Qué significa la arquitectura de carrera según David Clancy?",
+        "¿Por qué es importante evaluar el entorno actual antes de buscar un cambio laboral?"
+      ],
+      "related_terms": [
+        "arquitectura de carrera",
+        "proactividad vs reactividad",
+        "técnica los 5 porqués"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia de crear casos de estudio usando el modelo IMPACT para compartir conocimientos.",
+      "context_after": "Planificación a futuro utilizando el modelo de los Tres Horizontes."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:32:53",
+      "end_timestamp": "00:33:45",
+      "start_seconds": 1973,
+      "end_seconds": 2025,
+      "duration_seconds": 52,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1973",
+      "title": "El modelo de los Tres Horizontes",
+      "summary": "Presenta el framework de los 'Tres Horizontes' (Current, Emerging, Future) para analizar la carrera a corto, medio y largo plazo. Sugiere que los profesionales se pregunten qué habilidades y redes están construyendo hoy para prepararse para lo que se aproxima.",
+      "literal_quote": "Another framework to pause the video and think for a minute, three horizons. Current, emerging, future.",
+      "full_transcript": "Another framework to pause the video and think for a minute, three horizons. Current, emerging, future. I think about this a lot. Currently, I'm doing this. This is starting to come as well, emerging. But in the future, it's where I want to be. It's what I want to be doing. Again, it's okay to not know these things, but you need to ask the question sometimes. You need to think about it. Don't just think of the past. Don't just think about today, which is good. We do want to live in the present, but we do need to think about what's coming and where are we going. What skills and network are you building at the moment?... Long-term direction. Where do you want to be? What do you want to be known for?",
+      "keywords": [
+        "three-horizons",
+        "future-planning",
+        "skills-building",
+        "networking",
+        "career-vision"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el marco de los Tres Horizontes en el desarrollo profesional?",
+        "¿Cómo balancear el enfoque en el trabajo presente y las habilidades futuras?",
+        "¿Por qué auditar las habilidades y contactos que estás construyendo actualmente?"
+      ],
+      "related_terms": [
+        "tres horizontes",
+        "habilidades emergentes",
+        "visión a largo plazo",
+        "planificación estratégica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Reflexiones de arquitectura de carrera para evitar guiarse por el 'síndrome del objeto brillante'.",
+      "context_after": "Se destaca que, a pesar de planificar para el futuro, es indispensable mantener la consistencia en el rendimiento actual."
+    },
+    {
+      "id": "V02-019",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:33:46",
+      "end_timestamp": "00:37:26",
+      "start_seconds": 2026,
+      "end_seconds": 2246,
+      "duration_seconds": 220,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2026",
+      "title": "Consistencia y el After Action Review personal",
+      "summary": "Para sostener un buen posicionamiento, es fundamental mantener un nivel constante de ejecución ('ser siempre un 8 sobre 10'). Propone un 'After Action Review' reflexivo haciéndose preguntas críticas sobre el punto ciego personal, el nivel de la red de contactos, relaciones a cultivar y fortalezas a apalancar.",
+      "literal_quote": "You need to always be 8 out of 10.' Be consistent with your job... After action review. Looking back to think forward, that reflective piece.",
+      "full_transcript": "But you need to be really good at what you do today as well. Don't forget that. You need to be 8 out of 10, at least. Big feedback I got... was, 'David, you're not consistent enough. Sometimes you're 6, sometimes you're 4, sometimes you're 10. You need to always be 8 out of 10.' Be consistent with your job. Some tactical pieces... What's your network like? How strong is it? Is it strong where it needs to be strong? Have you done a course in communication?... Thought leadership. What can you be known for?... After action review. Looking back to think forward, that reflective piece. So answer these... I want to become known for... My blind spot. What do I not see that someone maybe needs to think about, to tell me? One way I can increase visibility is... One strategic relationship I should invest in is... The next version of my career requires what? My biggest strengths are... I can leverage being more effective, more efficient by using process, by using certain people... They're hard questions, but they're definitely worth thinking about.",
+      "keywords": [
+        "consistency",
+        "after-action-review",
+        "thought-leadership",
+        "blind-spots",
+        "self-reflection",
+        "strategic-relationships"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué importancia tiene la consistencia (ser un 8/10) en el alto rendimiento?",
+        "¿Qué elementos incluye un After Action Review orientado a la carrera profesional?",
+        "¿Por qué identificar los 'puntos ciegos' (blind spots) es vital para el progreso?"
+      ],
+      "related_terms": [
+        "consistencia de rendimiento",
+        "after action review",
+        "puntos ciegos",
+        "apalancamiento de habilidades"
+      ],
+      "relevance_score": 5,
+      "context_before": "El marco de los Tres Horizontes (pasado, emergente, futuro).",
+      "context_after": "Se concluye enfatizando la colaboración global del sector mediante el concepto de 'pasar la escalera' (pass down the ladder)."
+    },
+    {
+      "id": "V02-020",
+      "video_title": "Career Positioning en el Alto Rendimiento",
+      "speaker": "David Clancy",
+      "start_timestamp": "00:37:46",
+      "end_timestamp": "00:40:10",
+      "start_seconds": 2266,
+      "end_seconds": 2410,
+      "duration_seconds": 144,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2266",
+      "title": "Colaboración y Contribución: 'Pass down the ladder'",
+      "summary": "A modo de conclusión, Clancy pide a los profesionales compartir y facilitar el camino a otros ('pasar la escalera'). Recalca que las mejores carreras no ocurren por accidente, requieren reflexión, credibilidad y contribución a la comunidad, bajo el lema 'una marea alta levanta todos los barcos'.",
+      "literal_quote": "A rising tide lifts all boats. If we all get better, and if we all keep sharing, and if we're all trying to improve, we all will improve.",
+      "full_transcript": "But pass down the ladder. Help me understand how we can get to where you are. Help us understand that. Pass down the ladder. Help everyone in this profession. Help us all as part of the NSCA in Spain. And like that, a rising tide lifts all boats. If we all get better, and if we all keep sharing, and if we're all trying to improve, we all will improve. We'll all get better. That's pretty special. That's magic. That's high performance. The best careers are not built by accident. They require thinking and thought and reflection and practice, clarity, being consistent, having credibility, and contributing. Like this, being part of this, contributing to this, helping this grow, telling people about it, how great it is. It's only going to help the players. It's only going to help the teams... So please connect with me, reach out with me on LinkedIn... Always happy to help this group. It's been my pleasure today, and I hope you got a lot of value from it. Muchas gracias.",
+      "keywords": [
+        "collaboration",
+        "mentorship",
+        "community",
+        "contribution",
+        "career-development"
+      ],
+      "entities": [
+        "NSCA",
+        "LinkedIn"
+      ],
+      "topics": [
+        "Staff Management",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué significa la frase 'pass down the ladder' en el ámbito laboral?",
+        "¿Por qué compartir conocimientos contribuye al alto rendimiento global de los equipos?",
+        "¿Qué ingredientes son necesarios para construir carreras exitosas según Clancy?"
+      ],
+      "related_terms": [
+        "pasar la escalera",
+        "mentoría",
+        "colaboración comunitaria",
+        "desarrollo de carrera intencional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan preguntas clave del After Action Review para la mejora personal.",
+      "context_after": "Despedida, fin de la presentación y llamada a la conexión vía redes."
+    }
+  ]
+}
