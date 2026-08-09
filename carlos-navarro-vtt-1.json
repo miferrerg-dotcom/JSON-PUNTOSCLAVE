@@ -1,0 +1,201 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+    "speaker": "Carlos Navarro",
+    "total_duration": "00:13:48",
+    "total_duration_seconds": 828,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:03:24",
+      "end_timestamp": "00:05:25",
+      "start_seconds": 204,
+      "end_seconds": 325,
+      "duration_seconds": 121,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=204",
+      "title": "Competencias del Sport Scientist y análisis de datos",
+      "summary": "El sport scientist debe integrar conocimientos científicos, tecnológicos y capacidad de análisis en su contexto. En la actual era de los datos y la inteligencia artificial, su valor radica en saber discernir entre el ruido estadístico y los datos realmente útiles para optimizar la toma de decisiones.",
+      "literal_quote": "Debemos discernir un poco y conocer lo que es ruido y lo que es realmente un dato que te puede aportar algo de valor para la toma de decisiones.",
+      "full_transcript": "Una breve introducción sobre qué es la figura del sport science... Tiene que tener competencias relacionadas con el conocimiento de la ciencia, saber aplicar la ciencia, saber adaptarla al contexto que está desempeñando, conocer la tecnología, qué tecnología es la que puede aportar un beneficio... el procesamiento de los datos, la interpretación y el análisis de los mismos. En estructuras donde esto no existe, debe ser el sport scientist el que mueva esos datos y sea capaz de extraerlos y analizarlos. Esto es importante porque nos estamos moviendo en la era del dato. Mediante herramientas de inteligencia artificial hay muchísimos datos que se están absorbiendo... debemos discernir un poco y conocer lo que es ruido y lo que es realmente un dato que te puede aportar algo de valor para la toma de decisiones.",
+      "keywords": [
+        "sport-scientist",
+        "tecnologia",
+        "inteligencia-artificial",
+        "ruido",
+        "toma-decisiones",
+        "era-del-dato"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos",
+        "Toma de Decisiones",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las competencias clave de un Sport Scientist?",
+        "¿Qué papel juega la inteligencia artificial en el análisis de datos deportivos?",
+        "¿Cómo ayuda el procesamiento de datos a la toma de decisiones en el fútbol?"
+      ],
+      "related_terms": [
+        "procesamiento de datos",
+        "interpretación",
+        "ruido estadístico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación del ponente, Carlos Navarro, y el índice de contenidos del webinar sobre estrategias del sprint.",
+      "context_after": "Se explica la importancia de las habilidades sociales para integrar esta información con los demás departamentos del club."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:05:26",
+      "end_timestamp": "00:07:26",
+      "start_seconds": 326,
+      "end_seconds": 446,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=326",
+      "title": "El Sport Scientist como hilo conductor de departamentos",
+      "summary": "Las habilidades sociales y comunicativas son esenciales y a menudo subestimadas. El sport scientist no necesita ser experto absoluto en cada área (médica, técnica, readaptación), sino actuar como el conector que unifica el flujo de información para maximizar el rendimiento.",
+      "literal_quote": "Mi interpretación sobre el sport scientist es que es como el hilo conductor de todas las áreas especialistas.",
+      "full_transcript": "Luego también, cómo no, habilidades sociales. Un aspecto que en muchas ocasiones en un staff o en un área de rendimiento en un club se obvia o se sobreentiende que ya se tiene que tener. Es una de las habilidades que puede hacer que todas las áreas sean unificadas y sean partícipes del mismo objetivo... Las habilidades sociales y comunicativas son la clave a la hora de tomar buenas decisiones dentro de un club. Sabiendo que el sport scientist no puede ser un experto en todas las áreas... creo que es el hilo conductor de todas las áreas especialistas dentro de un club... dentro del médico especialista, dentro del jefe de readaptación especialista, dentro de los técnicos... donde esa figura tiene que ir conectando todos los departamentos y unificando la información para que se tomen mejores decisiones.",
+      "keywords": [
+        "habilidades-sociales",
+        "comunicacion",
+        "hilo-conductor",
+        "staff",
+        "departamentos",
+        "unificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué importancia tienen las habilidades sociales para un preparador físico o sport scientist?",
+        "¿Cómo debe interactuar el sport scientist con el departamento médico y técnico?",
+        "¿Quién centraliza y unifica la información en un área de rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "comunicación interdepartamental",
+        "gestión de staff",
+        "unificación de información"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de que el analista sepa interpretar y depurar datos para evitar el ruido.",
+      "context_after": "Se inicia el análisis de las demandas del sprint y cómo han evolucionado físicamente las ligas a lo largo de los años."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:07:27",
+      "end_timestamp": "00:11:00",
+      "start_seconds": 447,
+      "end_seconds": 660,
+      "duration_seconds": 213,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=447",
+      "title": "Evolución de las demandas físicas en LaLiga (Alta Velocidad)",
+      "summary": "Estudios (Pons 2021, García Calvo 2025) reflejan un cambio claro en las demandas del fútbol español: aunque la distancia total recorrida mantiene fluctuaciones menores, la distancia a alta velocidad (HSR) y los sprints (>21 km/h y >24 km/h) han aumentado drásticamente a lo largo de las temporadas en Primera y Segunda División.",
+      "literal_quote": "El fútbol, conforme van pasando las temporadas, se está volviendo mucho más rápido y mucho más exigente a la hora de la alta velocidad.",
+      "full_transcript": "Aquí estamos observando una investigación de Eduard Pons en 2021... donde observa el cambio de tendencia dentro de la distancia total recorrida... desde la temporada 15-16 hasta la temporada 18-19, y observa que en primera división y en segunda división se cumple el mismo patrón... se ve una tendencia de mayor número de metros a mayor intensidad. Pasamos a un estudio de Tomás García Calvo, que publica en enero de 2025... estudia la temporada 19-20 hasta la 22-23... la distancia total aumenta y el HSR, que son velocidades comprendidas entre 18 y 21 kilómetros por hora, se observa mucho más a medida que se van sumando temporadas. Por tanto, esto nos hace pensar que el fútbol... se está volviendo mucho más rápido y mucho más exigente a la hora de la alta velocidad... Si un jugador quiere llegar a primera división, tiene que ser capaz de poder responder a estas demandas de alta velocidad.",
+      "keywords": [
+        "evolucion",
+        "alta-velocidad",
+        "high-speed-running",
+        "hsr",
+        "sprint",
+        "primera-division"
+      ],
+      "entities": [
+        "Eduard Pons",
+        "Tomás García Calvo"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo han cambiado las demandas físicas en el fútbol español en los últimos años?",
+        "¿Qué ocurre con la distancia a alta velocidad en Primera y Segunda División?",
+        "¿Qué perfil condicional necesita un jugador para competir en la élite actualmente?"
+      ],
+      "related_terms": [
+        "distancia total",
+        "high speed running",
+        "fútbol moderno"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se introdujo la figura del Sport Scientist y cómo sus decisiones se basan en el análisis de datos de contexto.",
+      "context_after": "Se asocia este aumento de las demandas de sprint directamente con los resultados deportivos y la tabla de clasificación."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:11:01",
+      "end_timestamp": "00:13:48",
+      "start_seconds": 661,
+      "end_seconds": 828,
+      "duration_seconds": 167,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=661",
+      "title": "El sprint como factor determinante en el éxito y el gol",
+      "summary": "Métricas condicionales como los metros recorridos por encima de 24 km/h se asocian con el rendimiento deportivo. Los equipos que finalizan más alto en la tabla realizan más sprints. Además, la mayoría de los goles vienen precedidos por acciones explosivas, haciendo del sprint una cualidad vital a estimular.",
+      "literal_quote": "Los equipos que más alto están en la tabla en el último partido son los que más metros por encima de 24 kilómetros por hora y más número de sprints han realizado.",
+      "full_transcript": "Lobo Triviño en 2023 publica un trabajo realizado sobre la temporada 15-16, 16-17, 17-18... en la segunda división española, y observa que los mejores equipos, los equipos mejor clasificados en la tabla final de final de año, eran los equipos que mayores distancias y mayores sprints habían recorrido por encima de 24 kilómetros por hora... es un indicador que nos hace pensar que los equipos que son más tolerantes a este tipo de demandas obtienen mejores resultados. Pasamos ya a un trabajo de Daly 2025... uno de los mejores resultados que obtienen los equipos es que los goles vienen precedidos principalmente de sprints... donde mayor cantidad de acciones se daban previos al gol eran sprints... Por tanto, podemos pensar que el sprint o el estímulo a los jugadores de esta cualidad me puede acercar en bastante porcentaje a obtener buenos resultados.",
+      "keywords": [
+        "sprints",
+        "goles",
+        "rendimiento-deportivo",
+        "clasificacion",
+        "tolerancia-esfuerzo"
+      ],
+      "entities": [
+        "Lobo Triviño",
+        "Daly"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Existe relación entre la cantidad de sprints de un equipo y su clasificación en liga?",
+        "¿Qué acciones motrices suelen preceder a la marca de un gol?",
+        "¿Por qué el sprint es un indicador clave de rendimiento en el fútbol?"
+      ],
+      "related_terms": [
+        "acciones precedentes al gol",
+        "medidor de rendimiento",
+        "mayor velocidad (>24 km/h)"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que el fútbol se ha vuelto más rápido y exige más sprints temporada tras temporada.",
+      "context_after": "El fragmento termina planteando la importancia de entrenar directamente esta capacidad para influir en los resultados."
+    }
+  ]
+}

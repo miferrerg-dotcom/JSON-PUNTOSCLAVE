@@ -1,0 +1,255 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+    "speaker": "Carlos Navarro",
+    "total_duration": "00:15:09",
+    "total_duration_seconds": 909,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:01:20",
+      "start_seconds": 0,
+      "end_seconds": 80,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Epidemiología y aumento de lesiones isquiosurales",
+      "summary": "El 54% de las lesiones durante el sprint afectan a la cabeza larga del bíceps femoral. Estudios recientes muestran un incremento del 24% en lesiones isquiosurales en la élite durante las últimas 8 temporadas, siendo un reto principal para los científicos del deporte reducir esta incidencia.",
+      "literal_quote": "De hecho, un 54 % de las lesiones que se producen durante el sprint son en el bíceps femoral de cabeza larga... concretamente las últimas ocho temporadas... suponen un 24 % más de lesiones en isquiosurales.",
+      "full_transcript": "Continuamos con la epidemiología de la lesión. Vamos a hablar un poco sobre qué aspectos importantes y relevantes se encuentran dentro de esta lesión de los isquiosurales, que la mayoría de las lesiones se producen durante el sprint. De hecho, un 54 % de las lesiones que se producen durante el sprint son en el bíceps femoral de cabeza larga en la estructura de los isquiosurales. Este es un trabajo de Extra en 2022, que analiza la temporada 2001-2002 hasta la temporada 21-22. ¿Y qué observa? Observa un incremento bastante sustancial dentro de las lesiones isquiosurales desde esas 20 temporadas, pero concretamente las últimas ocho temporadas, que van desde la 15-16, aproximadamente, hasta la 21-22, suponen un 24 % más de lesiones en isquiosurales. Esto es un dato bastante relevante en el que pienso que los científicos del deporte deben poner bastante empeño en poder reducir o buscar fórmulas para intentar reducir esta incidencia lesional tan importante.",
+      "keywords": [
+        "epidemiologia",
+        "isquiosurales",
+        "sprint",
+        "biceps-femoral",
+        "lesiones",
+        "elite"
+      ],
+      "entities": [
+        "Ekstrand"
+      ],
+      "topics": [
+        "Lesiones",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje de lesiones en el sprint afectan al bíceps femoral?",
+        "¿Cómo ha evolucionado la incidencia de lesiones isquiosurales en las últimas temporadas?",
+        "¿Cuál es el principal reto del sport scientist respecto a las lesiones en el sprint?"
+      ],
+      "related_terms": [
+        "biceps femoral de cabeza larga",
+        "incidencia lesional",
+        "científicos del deporte"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte del webinar centrada en la epidemiología del sprint.",
+      "context_after": "Se procede a analizar si este aumento de lesiones ocurre solo en la élite o también en equipos de categorías base según el nivel madurativo."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:01:21",
+      "end_timestamp": "00:03:37",
+      "start_seconds": 81,
+      "end_seconds": 217,
+      "duration_seconds": 136,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=81",
+      "title": "Influencia del estado madurativo (PHV) en la prevalencia lesional",
+      "summary": "Investigaciones de Hall y Txabi Monasterio evidencian que los jugadores en etapas pre-PHV y CIRCA sufren más lesiones vinculadas al crecimiento. Sin embargo, los grupos post-PHV y adultos presentan una mayor prevalencia de lesiones musculares y ligamentosas, específicamente en los isquiosurales.",
+      "literal_quote": "Los dos grupos más maduros, que son el post-PHV y la adultez, tienen mayor número de lesiones musculares, en este caso el hamstring muscle.",
+      "full_transcript": "Este estudio se realiza en equipos de élite. Por tanto, vamos a observar si este tipo de lesiones solamente se producen en élite o también hay una incidencia o la misma incidencia lesional en equipos más jóvenes. Esto nos lleva hacia un trabajo científico que realiza Holl y colaboradores en 2022, donde analizan ocho clubes de diferentes países. Ahí incluyen España, Uruguay, Brasil e Inglaterra. Estamos observando que este tipo de lesiones se producen más en el post PHV y en la adultez que en pre-PHV y en CIRCA. Eso es el estatus madurativo. Para todo aquel que no lo conozca, entiendo que todos estamos familiarizados con esto. El pre-PHV y el CIRCA son los menos desarrollados y tienen una tendencia a tener un número de lesiones, pero más relacionadas con el crecimiento. Mientras que los dos grupos más maduros, que son el post-PHV y la adultez, tienen mayor número de lesiones musculares, en este caso el hamstring muscle, y la adultez con la misma tendencia. Teniendo esto en cuenta, observamos y ampliamos un poco más el registro a nivel de estudios en el PHV, qué ocurría con esta lesión. Txabi Monasterio... observamos la misma tendencia que en los grupos de PHV y los grupos pre-PHV, los CIRCA, tienen mayor prevalencia en lesiones relacionadas con el crecimiento y los equipos o los grupos donde hay mayor número de post-PHV y adultos tienen mayor número de lesiones ligamentosas y musculares.",
+      "keywords": [
+        "maduracion",
+        "phv",
+        "crecimiento",
+        "lesiones-musculares",
+        "hamstring",
+        "adultez"
+      ],
+      "entities": [
+        "Hall",
+        "Txabi Monasterio"
+      ],
+      "topics": [
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia de lesiones existe entre jugadores pre-PHV y post-PHV?",
+        "¿Qué tipo de lesiones predominan en la etapa de adultez y post-PHV?",
+        "¿Cómo afecta el pico de velocidad de crecimiento (PHV) a la epidemiología lesional?"
+      ],
+      "related_terms": [
+        "estatus madurativo",
+        "pre-PHV",
+        "post-PHV"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que el 54% de las lesiones de sprint ocurren en el bíceps femoral en la élite.",
+      "context_after": "Se analiza la relación de este incremento lesional madurativo con el aumento del peso corporal y la arquitectura muscular."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:03:37",
+      "end_timestamp": "00:06:53",
+      "start_seconds": 217,
+      "end_seconds": 413,
+      "duration_seconds": 196,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=217",
+      "title": "Arquitectura muscular, peso corporal y exposición temprana al sprint",
+      "summary": "El peso corporal correlaciona positivamente con el grosor del bíceps femoral. Al madurar, el jugador moviliza más carga y experimenta mayor estrés muscular. Por ello, es vital exponer a los jóvenes al sprint tempranamente para generar tolerancia, ya que los post-PHV alcanzan velocidades y aceleraciones mucho mayores.",
+      "literal_quote": "Es muy importante en las etapas tempranas poder exponer a estos jugadores para que en la adultez o en post-PHV sean menos predominantes a esas lesiones y sean más tolerantes al sprint.",
+      "full_transcript": "¿Esto qué nos lleva a pensar? Nos lleva a pensar que quizás esa maduración puede tener unos cambios a nivel estructural o a nivel de arquitectura muscular dentro de los perfiles. Por tanto, encontramos un trabajo muy importante. Brown y colaboradores en 2023 analizan esto mismo: analizan si la arquitectura muscular, si la antropometría tenía correlaciones con respecto a la maduración y encontraron que solamente el peso corporal correlacionó positivamente con el grosor del bíceps femoral de cabeza larga. Por tanto, todos los demás datos antropométricos de arquitectura muscular no encontraron una correlación tan importante como la que encontraron en el peso corporal. ¿Esto qué nos lleva a pensar o qué podemos llegar a pensar? Que al final el jugador, conforme va quemando etapas y va madurando en su proceso de entrenamiento, tiene que movilizar mayor carga por el peso corporal que supone. Por tanto, esto puede ser ya un estrés a nivel muscular y se debería tener una buena adaptación o una buena tolerancia a este tipo de habilidades, como es el sprint. De tal manera que si un jugador no ha entrenado nunca el sprint y ha entrenado solo fútbol y técnico y tecnificación, pero no demandas atléticas, como puede ser un sprint, a la larga, quizá en la niñez o en grupos menos maduros, va a tener un problema, porque no se desarrolla ese peso corporal tanto como a medida que vas creciendo y vas madurando. Así que es muy importante en las etapas tempranas poder exponer a estos jugadores para que en la adultez o en post-PHV sean menos predominantes a esas lesiones y sean más tolerantes al sprint. Nosotros, en nuestro contexto, en el Villarreal, hemos podido observar esta tendencia también... Encontramos que en 20 metros de sprint tenemos una muestra mucho más heterogénea en los pre PHV, en los circa ya se reduce y en los post mucho menos. Y son muchísimo más rápidos los post PHV y así hacia abajo. También en la capacidad acelerativa. De cero a cinco metros, los más rápidos son los post PHV. ¿Esto qué quiere decir? Que ese aumento corporal puede deberse a ese aumento también de la fuerza coordinativa y que tienen mayor predominancia o mayor capacidad de poder acelerar mucho más rápido y con mayor potencia.",
+      "keywords": [
+        "arquitectura-muscular",
+        "peso-corporal",
+        "sprint",
+        "tolerancia",
+        "desarrollo",
+        "exposicion-temprana"
+      ],
+      "entities": [
+        "Brown",
+        "Villarreal"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre el peso corporal y el grosor del bíceps femoral?",
+        "¿Por qué es importante introducir el entrenamiento de sprint en etapas tempranas?",
+        "¿Cómo afecta el desarrollo del peso corporal a la tolerancia al esfuerzo en el sprint?"
+      ],
+      "related_terms": [
+        "fuerza coordinativa",
+        "estrés muscular",
+        "demandas atléticas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se demostró que la prevalencia de lesiones musculares incrementa considerablemente en las etapas post-PHV y en la adultez.",
+      "context_after": "El análisis se mueve hacia la biomecánica pura de la carrera y en qué fases el isquiosural recibe el mayor impacto."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:06:53",
+      "end_timestamp": "00:11:05",
+      "start_seconds": 413,
+      "end_seconds": 665,
+      "duration_seconds": 252,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=413",
+      "title": "Biomecánica del sprint y limitación de ejercicios de fuerza",
+      "summary": "La mayor actividad electromiográfica del bíceps femoral ocurre al final de la fase de vuelo (swing) y en el contacto inicial. Aunque se usen ejercicios para buscar sobrecarga excéntrica (como el Nordic), ninguno iguala el estímulo específico del sprint, ya que la cabeza larga del bíceps se activa sobre el 90-95% de la velocidad máxima.",
+      "literal_quote": "Ninguno de todos los ejercicios se acercan al estímulo específico del sprint. Esto ya nos da una pequeña visión de que una exposición a sprint... es básico para poder estimular al músculo.",
+      "full_transcript": "Nos vamos al análisis, viendo el gesto para posibles intervenciones dentro de este marco. Analizamos el ciclo de carrera primero y principal, y observamos con un trabajo de Yui y colaboradores en 2008, que la mayor actividad electromiográfica en el bíceps femoral se daba justamente en la última fase del swing y los primeros momentos del contacto con el suelo... el bíceps femoral encuentra la mayor actividad este músculo y con las primeras de la face stance. Observamos también en un trabajo de Morini y colaboradores que en el bíceps femoral, recto femoral, glúteo vasto lateral, encontramos que la mayor cantidad de señal electromiográfica se encuentra al final del swing. Es muy probable que el objetivo principal de todo el entrenamiento se hiciese enfocándolo hacia buscar una acción excéntrica, una acción donde se pueda vivenciar la velocidad o la traslación de la tibia hacia adelante y poder frenarlo con los isquiosurales. Por ahí pensamos que se pueden dar las mayores prescripciones sobre el Nordic hamstring... para poder provocar esa sobrecarga excéntrica. Pero ahora veremos si es la mayor o el mejor ejercicio para poder estimular este tipo de cargas. Dentro de la activación de los isquiosurales, este es un trabajo de Van Der Tilar de 2017 y colaboradores que analiza la actividad electromiográfica de siete ejercicios de fuerza... donde lo comparan con el sprint... puesto que el bíceps femoral cabeza larga se activa los 90, 95 % de nuestra velocidad máxima de carrera. Aquí podemos observar que ninguno de todos los ejercicios se acercan al estímulo específico del sprint. Esto ya nos da una pequeña visión de que una exposición a sprint, una exposición a esa habilidad, es básico para poder estimular al músculo en lo que le tengo que estimular, en actividad y cantidad de señal para poderme proteger y adaptarme al esfuerzo y al rendimiento de ese sprint.",
+      "keywords": [
+        "biomecanica",
+        "electromiografia",
+        "biceps-femoral",
+        "swing",
+        "nordic-hamstring",
+        "estimulo-especifico"
+      ],
+      "entities": [
+        "Yui",
+        "Morini",
+        "Van Der Tilar"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿En qué fase de la carrera se produce la mayor activación del bíceps femoral?",
+        "¿Qué limitaciones tienen los ejercicios de gimnasio frente al sprint real?",
+        "¿A qué porcentaje de velocidad máxima se activa la cabeza larga del bíceps femoral?"
+      ],
+      "related_terms": [
+        "sobrecarga excéntrica",
+        "fase del swing",
+        "face stance",
+        "actividad electromiográfica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se concluyó que la exposición al sprint a edades tempranas protege a nivel estructural ante aumentos de peso corporal y fuerza.",
+      "context_after": "Se plantea cómo adaptar ejercicios de gimnasio, específicamente el Nordic Hamstring, para acercarlos a la realidad biomecánica del sprint."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Continuación)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:11:05",
+      "end_timestamp": "00:15:09",
+      "start_seconds": 665,
+      "end_seconds": 909,
+      "duration_seconds": 244,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=665",
+      "title": "Optimización del Nordic Hamstring mediante angulación y palancas",
+      "summary": "El Nordic tradicional genera más elongación en estructuras blandas que en el fascículo muscular. Para optimizar el estímulo, se sugiere realizarlo en una plataforma inclinada (20-40 grados) o modificando el apoyo a medio muslo, lo que aumenta la longitud del fascículo y replica mejor las angulaciones del sprint.",
+      "literal_quote": "Si queremos optimizar o si queremos estimular en una longitud bastante amplia o cerca de lo que se puede encontrar un futbolista... tenemos que buscar dentro de lo posible estas angulaciones de cadera, rodilla y tobillo.",
+      "full_transcript": "Esto nos lleva a pensar que la estructura tenemos que observarla desde un punto biomecánico, a ver cómo se comporta dentro del gesto específico del sprint. Así que Van Geffen y Bos, en 2016, realizaron este estudio... observan que a medida que las inserciones proximal y distal van aumentando de distancia, el músculo no se comporta igual que como se comporta la unión miotendinosa. De tal manera que la elongación se provoca más en las estructuras blandas, tendón, tendones intramusculares, aponeurosis, que no tanto a nivel del fascículo muscular, de ese componente contractil. Por tanto, lo que estamos buscando, poder estimular la estructura con algún ejercicio en el gimnasio, quizás estaríamos hablando de que el Nordic hamstring no sea el ejercicio más adecuado a la hora de estimular o de maximizar esa señal electromiográfica dentro de ese isquiosural. Teniendo esta información... observamos el último trabajo, donde Seoga y colaboradores presentan un póster en el 13° congreso de la International Society of Biomechanics en 2025, donde observan... en una plataforma horizontal, realizando un Nordic hamstring, una plataforma con una inclinación de 20 grados y con una inclinación de 40 grados. Ellos observan que a mayor inclinación, mayor longitud de fascículo muscular y, a menor inclinación, menor longitud en el fascículo. Por tanto, si queremos optimizar o si queremos estimular en una longitud bastante amplia o cerca de lo que se puede encontrar un futbolista o un sprinter... tenemos que buscar dentro de lo posible estas angulaciones de cadera, rodilla y tobillo. En esta imagen de aquí podéis observar que es muy probable que se esté provocando este mismo posicionamiento... nosotros, desde nuestro contexto, buscamos estimular. Aquí, en este ejercicio, este jugador está realizando el ejercicio de una pierna para tratar de maximizar y aumentar esa actividad en toda la cadena posterior y también teniendo bastante bajo... el apoyo, donde las crestas están fuera y donde el apoyo se va a medio muslo. De ahí aumentamos y maximizamos esa señal en la estructura isquiosural. Si observáis también cadera, rodilla y tobillo, es bastante similar al ataque o la primera fase del apoyo del sprinter.",
+      "keywords": [
+        "nordic-hamstring",
+        "fasciculo-muscular",
+        "biomecanica",
+        "inclinacion",
+        "angulaciones",
+        "optimizacion"
+      ],
+      "entities": [
+        "Van Geffen y Bos",
+        "Seoga"
+      ],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué el Nordic Hamstring tradicional puede no ser óptimo para el bíceps femoral?",
+        "¿Cómo se puede modificar el Nordic Hamstring para replicar la biomecánica del sprint?",
+        "¿Qué efecto tiene realizar el ejercicio de isquiosurales en una plataforma inclinada?"
+      ],
+      "related_terms": [
+        "longitud de fascículo muscular",
+        "unión miotendinosa",
+        "apoyo a medio muslo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se evidenció mediante EMG que ningún ejercicio de gimnasio tradicional se acerca a los picos de intensidad que el bíceps femoral experimenta al correr a máxima velocidad.",
+      "context_after": "Fin del fragmento extraído. El ponente concluye cómo estas adaptaciones biomecánicas acercan el gimnasio a las demandas reales de campo."
+    }
+  ]
+}
