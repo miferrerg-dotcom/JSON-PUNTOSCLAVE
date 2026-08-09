@@ -1,0 +1,230 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+    "speaker": "Carlos Navarro",
+    "total_duration": "00:13:15",
+    "total_duration_seconds": 795,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:49",
+      "start_seconds": 1,
+      "end_seconds": 169,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Diseño de tareas globales para maximizar la alta velocidad",
+      "summary": "Para exponer a los jugadores a altas velocidades en tareas globales, es crucial generar ventajas posicionales (un perseguidor detrás) y disponer de espacio a la espalda. Si el defensor está de cara, el atacante frenará para pensar y tomar decisiones, impidiendo que alcance su velocidad máxima.",
+      "literal_quote": "Si hago una cuenta atrás y tengo a la defensa a la cara, voy a frenarme, porque voy a estar viendo al defensor y voy a estar pensando en qué decisión tengo que tomar.",
+      "full_transcript": "En cuanto a la exposición de la alta velocidad en tareas globales, tenemos que tener varios aspectos en cuenta y variables que modificar para que esta exposición a máximos se pueda dar. Primero que nada, aquí lo que tratamos de tener siempre son ventajas posicionales. Aquí podéis ver el atacante, que tiene una ventaja posicional con respecto al defensor... La numérica es una igualdad, igual que te lo vas a encontrar en términos competitivos... Pero lo que estamos maximizando o provocando aquí es que hay una ventaja posicional. ¿Qué aspecto hay relevante? Que el conductor de balón puede salir conduciendo o puede salir en pase y va a tener un perseguidor... maximizamos la velocidad máxima porque tenemos un perseguidor detrás. No es lo mismo si hago una cuenta atrás. ¿Por qué? Porque si hago una cuenta atrás y tengo a la defensa a la cara, voy a frenarme, porque voy a estar viendo al defensor y voy a estar pensando en qué decisión tengo que tomar... Tercero, debe tener espacio a la espalda. Si el espacio es muy corto, es muy probable que no se lleguen a alcanzar velocidades máximas.",
+      "keywords": [
+        "tareas-globales",
+        "alta-velocidad",
+        "ventaja-posicional",
+        "perseguidor",
+        "espacio",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se deben diseñar las tareas globales para que el jugador alcance su velocidad máxima?",
+        "¿Por qué es importante que el jugador tenga una ventaja posicional y un perseguidor?"
+      ],
+      "related_terms": [
+        "ventaja posicional",
+        "espacio a la espalda"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los umbrales de velocidad máxima y la importancia de monitorizar la carga intradía.",
+      "context_after": "Se analiza cómo estas tareas de transiciones afectan las variables y densidad de la sesión."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:02:49",
+      "end_timestamp": "00:04:42",
+      "start_seconds": 169,
+      "end_seconds": 282,
+      "duration_seconds": 113,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=169",
+      "title": "Transiciones, densidad y maximización de métricas (HSR/Sprint)",
+      "summary": "Las tareas de transiciones maximizan de manera significativa variables como el High Speed Running (HSR) y los sprints (>21 km/h) respecto a las demandas de un partido real. Sin embargo, al utilizarlas es vital gestionar la densidad otorgando suficiente tiempo de recuperación para evitar fatiga excesiva.",
+      "literal_quote": "En estas métricas de transiciones... se maximiza muchísimo esta cualidad, esta variable... en esta tarea, por ejemplo, se pasa en la mayoría de jugadores de 30 kilómetros por hora.",
+      "full_transcript": "Conocer volúmenes, porque en este tipo de tareas, si las numéricas, como esta de aquí, es un dos contra dos, si no doy bastante tiempo de recuperación, la densidad de la tarea se va a hacer muchísimo más grande. Como podemos observar aquí, en estas métricas de transiciones, lo que os quiero mostrar aquí es bastante relevante con respecto al partido... HSR absoluto por minuto, HMLD, aceleración, deceleración y sprint. Todo lo que pasa de 21. Aquí estamos observando que de estas variables, más o menos se encajan todas con respecto a un partido, pero si observamos esta de aquí y estas de aquí, se maximiza muchísimo esta cualidad, esta variable... centrales, laterales, centrocampistas, bandas y delanteros, en muchas ocasiones se maximizan... Y las velocidades máximas donde se producen las carreras, podemos observar aquí que en esta tarea, por ejemplo, se pasa en la mayoría de jugadores de 30 kilómetros por hora. Ahí podemos estar observando una tarea global y la exposición a esa alta velocidad que se da, pero observando siempre la densidad.",
+      "keywords": [
+        "transiciones",
+        "densidad",
+        "high-speed-running",
+        "hsr",
+        "sprint",
+        "volumen"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué ocurre con las variables de HSR y sprint en las tareas de transiciones?",
+        "¿Por qué es fundamental controlar los tiempos de recuperación en ejercicios de 2vs2?"
+      ],
+      "related_terms": [
+        "High Speed Running",
+        "densidad de la tarea",
+        "HMLD"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se definieron las reglas estructurales (ventaja posicional) para asegurar picos de velocidad.",
+      "context_after": "Se transiciona hacia el análisis de las tareas generales/analíticas y el uso de trineos."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:04:47",
+      "end_timestamp": "00:07:43",
+      "start_seconds": 287,
+      "end_seconds": 463,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=287",
+      "title": "El impacto de arrastres pesados vs cargas ligeras en la aceleración",
+      "summary": "El uso de trineos con cargas muy altas (40-50% del peso corporal) no mejora significativamente los primeros 10 metros de aceleración, sino las distancias de 20 a 30 metros. Para mejorar el arranque inicial, se requieren cargas ligeras o sprints libres que permitan ejecutar los movimientos con alta velocidad, energía y potencia.",
+      "literal_quote": "La carga ligera hace que tú puedas acelerar mucho más rápido, con mucha más energía y potencia. Cuando tú cargas mucho más la estructura... no estás aumentando la velocidad.",
+      "full_transcript": "Una parte específica donde podemos ver aquí que es arrastre de trineo con bastante carga... este jugador estaba en torno a los 40, 50 % de su peso corporal, aproximadamente, que es muchísimo. Y nosotros lo hacíamos pensando en maximizar los resultados en cuanto a las primeras fases de la carrera. Y podéis observar aquí que no tuvimos la consecución de ese objetivo. Los primeros 10 metros en la primera toma y la segunda toma después de la intervención, el post Test es el mismo tiempo en media. En los 20 metros ya se empieza a mejorar un poquito y a los 30 metros se mejora un poco más. Por tanto, la teoría de que en nuestro contexto... nosotros en este tipo de entrenamiento mejoramos siempre mucho más los 20, 30 metros que no los primeros metros. Cuando utilizamos sprints o cargas mucho más livianas, como es este caso... vemos ahí una competición de dos jugadores y luego un sprint que podéis estar viendo aquí, un sprint libre. Maximizamos muchísimo más las velocidades en los primeros metros. ¿Esto por qué puede ser? Porque la carga ligera hace que tú puedas acelerar mucho más rápido, con mucha más energía y potencia. Cuando tú cargas mucho más la estructura, el movimiento no lo ejecutas rápidamente. Lo ejecutas de forma más lenta y de forma que tú puedes aumentar la fuerza, pero no estás aumentando la velocidad.",
+      "keywords": [
+        "arrastre",
+        "trineo",
+        "cargas-pesadas",
+        "cargas-ligeras",
+        "aceleracion",
+        "sprint-libre"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué efecto tiene arrastrar un trineo pesado (40-50% del peso corporal) en la aceleración?",
+        "¿Por qué las cargas ligeras o los sprints libres mejoran más los primeros 10 metros de carrera?"
+      ],
+      "related_terms": [
+        "arrastre de trineo",
+        "peso corporal",
+        "fases de la carrera"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las métricas de alta intensidad generadas en tareas globales.",
+      "context_after": "Se detallan otras variables importantes a incluir en las tareas de sprint generales."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:07:44",
+      "end_timestamp": "00:09:20",
+      "start_seconds": 464,
+      "end_seconds": 560,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=464",
+      "title": "Variables clave en el programa analítico de sprint",
+      "summary": "En las tareas generales, el sprint siempre debe plantearse de forma competitiva para maximizar el esfuerzo del jugador. El programa debe incluir activación muscular, movilidad, fuerza potencia, pliometría para el ciclo estiramiento-acortamiento y variar distancias y trayectorias (cambios de dirección).",
+      "literal_quote": "No es lo mismo introducir carreras lineales de forma individual que ofrecerlo... de forma competitiva, siempre... Porque se maximiza esa capacidad de competición en el jugador.",
+      "full_transcript": "Aquí en las tareas generales también hay que tener unas cuantas consideraciones. No es lo mismo introducir carreras lineales de forma individual que ofrecerlo, como estáis viendo aquí, de forma competitiva, siempre. Incluso con trineos, con una buena separación para evitar choques y aquí en competición igual. ¿Por qué? Porque se maximiza esa capacidad de competición en el jugador. Por tanto, variables que hay que tener en cuenta: incluir dentro de estos programas analíticos o generales activaciones musculares altas para poder enfrentarse a este tipo de estímulos, una buena movilidad, un buen rango de movimiento, una buena carga de fuerza potencia, un estímulo corto pero intenso, pliometría para inducir a ese ciclo estiramiento-acortamiento y, si puedo, también realizar cambios de plano a una pierna, unipodales... Y luego también no olvidarse de que el fútbol es un deporte de cambio de dirección. Por tanto, no debemos hacer siempre las mismas distancias, no debemos hacer siempre las mismas trayectorias y ir cambiando y jugando con este tipo de estímulos para poder tener un jugador mucho más completo.",
+      "keywords": [
+        "tareas-analiticas",
+        "competicion",
+        "pliometria",
+        "movilidad",
+        "unipodales",
+        "cambio-direccion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué se deben incluir competiciones dentro de los sprints analíticos?",
+        "¿Qué elementos debe contener un programa general de entrenamiento de velocidad?"
+      ],
+      "related_terms": [
+        "ciclo estiramiento-acortamiento",
+        "cambios de plano"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se observó que para mejorar los primeros metros de carrera se requieren cargas ligeras o libres.",
+      "context_after": "El vídeo compara finalmente cómo varían las velocidades medias en función del contexto táctico."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 4)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:09:21",
+      "end_timestamp": "00:13:15",
+      "start_seconds": 561,
+      "end_seconds": 795,
+      "duration_seconds": 234,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=561",
+      "title": "Comparativa de velocidad: Contextos tácticos vs analíticos",
+      "summary": "Las tareas con alta carga táctica, técnica y cognitiva reducen la velocidad media del jugador. Para alcanzar velocidades máximas (y el umbral preventivo del 90-95%), son necesarios contextos cerrados o analíticos sin distracciones, los cuales deben complementarse e integrarse posteriormente en tareas globales.",
+      "literal_quote": "En programas analíticos o más generales se maximiza muchísimo más la velocidad máxima. ¿Por qué? Porque al final no hay componente táctico, no hay componente técnico, no hay cargas, no hay nada.",
+      "full_transcript": "Estos componentes tácticos, técnicos y que hay un gran componente también cognitivo, se tiende a tener una velocidad media mucho más baja que en contextos más competitivos, como es un partido. Y contextos mucho más cerrados, que no tenemos tantos mecanismos que atender, como son compañeros, rivales, toma de decisiones... Se maximiza muchísimo más la velocidad. Por tanto, en nuestro contexto hemos podido observar esto también con nuestra práctica diaria... y en programas analíticos o más generales se maximiza muchísimo más la velocidad máxima. ¿Por qué? Porque al final no hay componente táctico, no hay componente técnico, no hay cargas, no hay nada. Simplemente, el objetivo es correr y correr más rápido que tu par. Por tanto, aquí estamos maximizando muchísimo más estas capacidades para llegar a altas velocidades. Por tanto, siempre está la pregunta: ¿lo globalizo todo, lo integro todo dentro de las tareas globales o hago más tareas analíticas o hago más tareas globales?... Lo maximizo en tarea analítica y lo integro en tarea global. Pero mi jugador está protegido. ¿Por qué? Porque estoy exponiéndolo a ese 90, 95 que dice la literatura y que dice nuestra propia experiencia también, que es un preventivo muy potente y un maximizador de la alta velocidad superpotente.",
+      "keywords": [
+        "carga-cognitiva",
+        "velocidad-media",
+        "tareas-analiticas",
+        "tareas-globales",
+        "umbral-preventivo",
+        "90-95%"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la velocidad disminuye en tareas con mucha carga táctica y cognitiva?",
+        "¿Cuál es el mejor método para asegurar que el jugador llega a su umbral preventivo de velocidad?"
+      ],
+      "related_terms": [
+        "componente táctico y técnico",
+        "umbral preventivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se revisó la estructura ideal para diseñar un programa analítico de sprint en campo.",
+      "context_after": "Fin del vídeo y cierre de las conclusiones metodológicas entre el entrenamiento analítico y global."
+    }
+  ]
+}

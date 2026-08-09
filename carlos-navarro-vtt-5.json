@@ -1,0 +1,248 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+    "speaker": "Carlos Navarro",
+    "total_duration": "00:15:06",
+    "total_duration_seconds": 906,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:15",
+      "start_seconds": 1,
+      "end_seconds": 195,
+      "duration_seconds": 194,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "La dosis óptima y la protección del sprint en el día -2",
+      "summary": "Determinar la dosis adecuada en calendarios congestionados es vital. Según el estudio de Martin Buchheit (2023) en equipos de élite, los jugadores expuestos a más del 95% de su velocidad máxima en el día -2 (48 horas antes del partido) presentaron cero lesiones isquiosurales, convirtiendo este día en el ideal para el estímulo preventivo.",
+      "literal_quote": "Todo aquel jugador que se expuso a mayores velocidades de 95 o el 95 % de su velocidad máxima en los días 48 horas previas a la competición, no tuvo ninguna lesión isquiosural.",
+      "full_transcript": "Ahora viene el quid de la cuestión, que es la dosis. ¿Cuánto es suficiente para el jugador? ¿Cuándo introduzco este tipo de estímulos? ¿Cuándo lo introduzco, sobre todo en calendarios congestionados? Muchas veces ahí es donde radica la diferencia de una buena decisión... Un trabajo que podemos rescatar de Martin Buchheit en 2023, que se realizó con 16 equipos de élite... se describe que todos los jugadores que estuvieron expuestos a más del 95 % de su velocidad máxima en el día -2 matchday tuvieron una incidencia lesional de cero. Es decir, todo aquel jugador que se expuso a mayores velocidades de 95 o el 95 % de su velocidad máxima en los días 48 horas previas a la competición, no tuvo ninguna lesión isquiosural... Los equipos que realizan este tipo de tareas en día -1 son los que mayor exposición a esta lesión tienen, que estamos hablando en torno a 10 lesiones por 1.000 horas de exposición.",
+      "keywords": [
+        "dosis",
+        "calendario-congestionado",
+        "velocidad-maxima",
+        "lesiones-isquiosurales",
+        "dia-menos-2",
+        "martin-buchheit"
+      ],
+      "entities": [
+        "Martin Buchheit"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cuándo es el mejor día para exponer a los jugadores a su velocidad máxima?",
+        "¿Qué incidencia de lesiones isquiosurales hay si se alcanza el 95% de velocidad en el MD-2?",
+        "¿Qué ocurre si se exponen a velocidades máximas en el día -1?"
+      ],
+      "related_terms": [
+        "incidencia lesional",
+        "velocidad máxima",
+        "día -2"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente cerró la explicación sobre cómo se ven afectadas las velocidades según la carga táctica y cognitiva.",
+      "context_after": "Se transiciona a la necesidad de no copiar programas de forma estricta, sino de adaptarlos a las necesidades de cada equipo."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:03:17",
+      "end_timestamp": "00:06:40",
+      "start_seconds": 197,
+      "end_seconds": 400,
+      "duration_seconds": 203,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=197",
+      "title": "Adaptación al contexto y la mínima dosis efectiva",
+      "summary": "No existe un plan cerrado universal; cada equipo debe adaptarse a sus necesidades y perfil de jugadores. Basado en la literatura (como Gómez Piqueras 2024), se debe buscar siempre la mínima dosis efectiva para evitar sobrecargar al jugador, aterrizando la teoría científica a la realidad cambiante diaria.",
+      "literal_quote": "La mínima dosis efectiva para nosotros, en nuestro contexto, siempre es la mejor opción para no sobrecargar al jugador.",
+      "full_transcript": "Bajo nuestra metodología no existe un plan cerrado. Sí que existen una serie de programas que se tienen que realizar, pero no hay una forma estricta de realizarlos conjuntamente todos los equipos, porque cada equipo tiene una causística, cada equipo tiene un calendario y tiene unas consideraciones... cada equipo se debe adaptar a las necesidades de la competición y a las necesidades de los jugadores. Por tanto, es imposible cerrar un plan para todos igual. De hecho, estaríamos incurriendo en una mala decisión... Hablando un poco de dosis, si podéis tener la ocasión de leer el paper de Gómez Piqueras y colaboradores en 2024... Yo siempre hablo de tratar de simular los papers o tratar de hacer nuestros los papers de la ciencia, adaptándolos a nuestro contexto del día a día. No siempre son reproducibles al 100 % porque el contexto de alta competición es muy cambiante y cambia día a día. Por tanto, es necesario en muchas ocasiones adaptarlo... Yo siempre digo lo mismo: la mínima dosis efectiva para nosotros, en nuestro contexto, siempre es la mejor opción para no sobrecargar al jugador.",
+      "keywords": [
+        "minima-dosis-efectiva",
+        "adaptacion",
+        "contexto",
+        "gomez-piqueras",
+        "sobrecarga",
+        "planificacion"
+      ],
+      "entities": [
+        "Gómez Piqueras"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no se puede aplicar un plan de entrenamiento estricto para todos los equipos?",
+        "¿Qué es la mínima dosis efectiva en el entrenamiento?",
+        "¿Cómo se deben interpretar los papers científicos en la práctica diaria?"
+      ],
+      "related_terms": [
+        "mínima dosis efectiva",
+        "calendarios congestionados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó estadísticamente la prevención de lesiones en el día -2.",
+      "context_after": "Se detalla cómo es la distribución de esta mínima dosis efectiva a lo largo de los días más exigentes de la semana."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:06:41",
+      "end_timestamp": "00:08:30",
+      "start_seconds": 401,
+      "end_seconds": 510,
+      "duration_seconds": 109,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=401",
+      "title": "Distribución de estímulos en días de alta carga (MD-4 y MD-3)",
+      "summary": "En los días de mayor carga (MD-4 y MD-3), no se debe agotar al jugador en una sola sesión ni estresar solo una capacidad. Se deben distribuir los estímulos aplicando la mínima dosis efectiva de diferentes cualidades cada día, usándolo también como tapering para maximizar el rendimiento de cara al partido.",
+      "literal_quote": "No hay que llenar el tanque solamente en un día, sino que intentamos dar mínima dosis efectiva en este día y mínima dosis efectiva en este día de otra capacidad.",
+      "full_transcript": "Quizás teniendo este ejemplo aquí, el día -4, el día -3, que son los días de mayor carga, no aplicamos solamente una estructura, no aplicamos solamente un tipo de estímulo. Es cierto que estimulamos más una serie de factores, el -4 puede irse a un estrés más mecánico, pero no solamente mecánico. No hay que llenar el tanque solamente en un día, sino que intentamos dar mínima dosis efectiva en este día y mínima dosis efectiva en este día de otra capacidad, y mínima dosis efectiva de este día en otra capacidad. También lo utilizamos como un tapering para el recovery y para estimular una serie de habilidades para que nos den mayor rendimiento aquí en el partido. Por tanto, esta distribución, como habla Pedro Gómez Piqueras, es bastante viable y a nosotros nos ayuda bastante también en cuanto a la prescripción de ejercicio.",
+      "keywords": [
+        "distribucion-estimulos",
+        "dia-menos-4",
+        "dia-menos-3",
+        "estres-mecanico",
+        "tapering",
+        "recovery"
+      ],
+      "entities": [
+        "Marcos Chena",
+        "Pedro Gómez Piqueras"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se distribuyen los estímulos en los días de mayor carga (MD-4 y MD-3)?",
+        "¿Qué tipo de estrés predomina en el entrenamiento del día -4?"
+      ],
+      "related_terms": [
+        "estrés mecánico",
+        "tapering",
+        "recovery"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el concepto de mínima dosis efectiva y la necesidad de evitar la sobrecarga.",
+      "context_after": "El ponente avanza hacia las conclusiones finales de la presentación y resume los pilares de la metodología."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:08:31",
+      "end_timestamp": "00:12:10",
+      "start_seconds": 511,
+      "end_seconds": 730,
+      "duration_seconds": 219,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=511",
+      "title": "Conclusiones prácticas sobre tareas globales y analíticas",
+      "summary": "Para maximizar la exposición al sprint, las tareas globales requieren ventajas posicionales, presión a la espalda y espacio libre. En lo analítico, se fomenta la competición interna. Si un equipo no dispone de GPS, puede lograr que los jugadores superen el 90% de su velocidad máxima realizando competiciones de 1v1 o 2v2 sobre distancias de 20 a 40 metros.",
+      "literal_quote": "Si no dispongo de ninguna tecnología de monitorización de GPS... tengo que exponerlo con jugadores de forma interna, competiciones... a completar una distancia relativamente larga a partir de 20, 30, 40 metros para exponer a esa máxima velocidad.",
+      "full_transcript": "Ya como última parte, como aplicación práctica y como conclusiones, para resumir un poco lo que ha sido esta charla... tareas globales... teniendo ventajas posicionales para los atacantes, sumamente importante, teniendo aspectos de persecución para esos atacantes, que no se ralentice la jugada, sino que se intente estresar con esa presión por la espalda. Y por último, que haya espacio en la espalda para maximizar la amplitud. Para las tareas individuales, debemos maximizarlas con competiciones internas, competiciones de jugadores que tengan la misma velocidad o velocidad parecida... Por ejemplo, si no dispongo de ninguna tecnología de monitorización de GPS, solamente puedo exponerlo bajo competición. Entonces, de la mejor manera que lo puedo hacer, si lo quiero hacer de forma analítica, tengo que exponerlo con jugadores de forma interna, competiciones de forma interna que puedan competir dos contra dos o uno contra uno, o incluso todo el equipo a completar una distancia relativamente larga a partir de 20, 30, 40 metros para exponer a esa máxima velocidad y que supere los 90 % de su velocidad máxima.",
+      "keywords": [
+        "tareas-globales",
+        "tareas-analiticas",
+        "competicion-interna",
+        "gps",
+        "ventajas-posicionales",
+        "90-velocidad-maxima"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo lograr que los jugadores superen el 90% de su velocidad máxima sin usar GPS?",
+        "¿Qué características deben tener las tareas globales para maximizar el sprint?"
+      ],
+      "related_terms": [
+        "ventajas posicionales",
+        "distancia larga (20-40m)"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del reparto de cargas condicionales y mecánicas durante el microciclo.",
+      "context_after": "Se reflexiona finalmente sobre las verdaderas habilidades del Sport Scientist en el cuerpo técnico."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 5)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:12:12",
+      "end_timestamp": "00:15:06",
+      "start_seconds": 732,
+      "end_seconds": 906,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=732",
+      "title": "El arte del Sport Scientist: Comunicación, contexto e IA",
+      "summary": "El sport scientist debe organizar una infinidad de datos (RPE, GPS, IA) y adaptar la comunicación a las áreas del club. El verdadero 'arte' de esta profesión no es solo planificar, sino modular las decisiones, comprendiendo que los jugadores son humanos, fluctúan diariamente y requieren intensidades aterrizadas a su contexto personal.",
+      "literal_quote": "El arte del preparador físico del sport scientist no radica solamente en realizar los ejercicios... sino aplicar el volumen, la densidad, la intensidad y la frecuencia acorde a cada jugador, según el contexto de cada atleta.",
+      "full_transcript": "Mediante todos los datos que recabamos los sport scientists tenemos que ser capaces de ordenar cuestionarios de RPE, de monotonía, de wellness, de GPS, de plataforma de fuerzas, de análisis de sangre, de termografía, etcétera. Hay infinidad de datos. La inteligencia artificial quizá nos pueda ayudar en esta organización de datos y en este constructo. Tenemos la responsabilidad nosotros como sport scientists de organizar todos los datos, de poder trasladarlo y hablar el mismo idioma que habla el jefe de rendimiento, el jefe de servicios médicos, el jefe del staff técnico, el primer entrenador, y tengo que adaptar el mensaje a según qué área. Por tanto, nos tiene que ayudar todo este conjunto de datos para tomar mejores decisiones... Conocer que estamos trabajando con seres humanos, tener consciencia de que el ser humano no está todos los días igual. Por muchos datos que tengamos... la carga de cada jugador se va a adaptar cada día de una forma distinta... Y por último, el arte del preparador físico del sport scientist no radica solamente en realizar los ejercicios acorde a la especialidad del deporte, sino aplicar el volumen, la densidad, la intensidad y la frecuencia acorde a cada jugador, según el contexto de cada atleta. Esa es la verdadera diferencia.",
+      "keywords": [
+        "sport-scientist",
+        "inteligencia-artificial",
+        "datos",
+        "comunicacion",
+        "arte-preparador-fisico",
+        "fluctuaciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Data Science",
+        "IA Deportiva",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuál es la responsabilidad comunicativa del sport scientist dentro del club?",
+        "¿Cómo puede ayudar la inteligencia artificial en el rendimiento deportivo?",
+        "¿En qué consiste el verdadero arte del preparador físico?"
+      ],
+      "related_terms": [
+        "inteligencia artificial",
+        "modulación de decisiones",
+        "fluctuaciones de adaptación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron opciones analíticas para equipos sin grandes presupuestos en tecnología de monitorización.",
+      "context_after": "El ponente da por finalizada la sesión formativa despidiéndose y agradeciendo la atención."
+    }
+  ]
+}

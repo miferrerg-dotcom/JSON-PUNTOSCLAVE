@@ -1,0 +1,236 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+    "speaker": "Carlos Navarro",
+    "total_duration": "00:09:34",
+    "total_duration_seconds": 574,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:01:32",
+      "start_seconds": 0,
+      "end_seconds": 92,
+      "duration_seconds": 92,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Estrategias y métodos para el desarrollo de la fuerza",
+      "summary": "Para maximizar la velocidad máxima y prevenir lesiones, el entrenamiento se divide en tareas analíticas y globales. Las estrategias clave para desarrollar la fuerza incluyen la pliometría, arrastres con trineo lastrado, sprints libres, entrenamiento combinado y asistido.",
+      "literal_quote": "Para desarrollar la fuerza, evidentemente, es un indicador de mejora, es un indicador de maximizar o poder maximizar la velocidad con estrategias de pliometría, con treníeo lastrado, con sprints libres...",
+      "full_transcript": "Pasamos ahora al entrenamiento mismo de la cualidad. ¿Cómo podemos exponer al jugador para la ganancia, para maximizar esa velocidad máxima y con ello prevenir lesiones en dicha estructura? Hay muchísimos métodos de entrenamiento. Lo vamos a reducir en dos tipos de entrenamiento, si es en el fútbol analítico: tareas generales o tareas globales, donde son tareas más jugadas o tareas de transiciones. Para desarrollar la fuerza, evidentemente, es un indicador de mejora, es un indicador de maximizar o poder maximizar la velocidad con estrategias de pliometría, con treníeo lastrado, con sprints libres, con entrenamiento de potencia, con entrenamiento de fuerza, entrenamiento combinado y sprint asistido. Nosotros vamos a centrarnos en dos o tres estrategias como mucho, donde ese trabajo analítico se va a poder integrar dentro de cada una de esas estrategias. Y también algo de tareas globales que, evidentemente, siempre que podamos acercar al jugador a la realidad del contexto de competición de forma más específica, que no de otra forma.",
+      "keywords": [
+        "velocidad-maxima",
+        "prevencion",
+        "metodos-entrenamiento",
+        "pliometria",
+        "trineo-lastrado",
+        "sprint-libre"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las principales estrategias para desarrollar la fuerza en el fútbol?",
+        "¿Cómo se dividen los tipos de entrenamiento para la velocidad máxima?"
+      ],
+      "related_terms": [
+        "entrenamiento analítico",
+        "tareas globales",
+        "sprint asistido"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la sección sobre la aplicación práctica del entrenamiento del sprint.",
+      "context_after": "Se detallan cómo aplicar los vectores de fuerza (horizontales y verticales) en estas estrategias."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:01:32",
+      "end_timestamp": "00:03:10",
+      "start_seconds": 92,
+      "end_seconds": 190,
+      "duration_seconds": 98,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=92",
+      "title": "Orientación de vectores y tamaño del efecto",
+      "summary": "La orientación de la fuerza aplicada es vital: vectores horizontales para los primeros metros de aceleración y vectores verticales para mantener la velocidad (a partir de los 15-20 metros). Según Rampf (2015), las metodologías con mayor tamaño del efecto en la velocidad son el sprint libre, el sprint resistido y el entrenamiento combinado o pliométrico.",
+      "literal_quote": "Dentro del tamaño del efecto, donde las estrategias que mayor cambio obtuvieron fueron: el sprint libre, el sprint resistido y también podemos encontrar por aquí lo que es el entrenamiento combinado.",
+      "full_transcript": "Y por último, orientación de la fuerza. ¿Qué orientación tenemos que darle? Si es más en vectores verticales, si es más en vectores horizontales o si es una combinación de ambos, siendo si me estoy enfocando en los primeros metros de aceleración, los primeros metros de la carrera, o más hacia los 10, 15, 20 metros posteriores. Así que, ¿cómo podemos exponerlo? ¿Cómo podemos entrenar? En este trabajo de Rampf y colaboradores en 2015, realizan una revisión bastante exhaustiva sobre todos los métodos de entrenamiento que existen... Dentro del tamaño del efecto, donde las estrategias que mayor cambio obtuvieron fueron: el sprint libre, el sprint resistido y también podemos encontrar por aquí lo que es el entrenamiento combinado. Nosotros veremos también entrenamiento pliométrico, donde está maximizándose también ese ciclo estiramiento-acortamiento para estimular esa velocidad en la frecuencia de zancada.",
+      "keywords": [
+        "vectores-verticales",
+        "vectores-horizontales",
+        "rampf",
+        "tamano-efecto",
+        "ciclo-estiramiento-acortamiento"
+      ],
+      "entities": [
+        "Rampf"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué estudios respaldan el tamaño de efecto del sprint libre y resistido?",
+        "¿Qué vectores de fuerza dominan en los primeros metros de una aceleración?"
+      ],
+      "related_terms": [
+        "ciclo estiramiento-acortamiento",
+        "frecuencia de zancada"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las diversas herramientas para el trabajo analítico de la fuerza.",
+      "context_after": "Se transiciona a la monitorización del entrenamiento de fuerza mediante dispositivos como el encoder."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:03:12",
+      "end_timestamp": "00:06:13",
+      "start_seconds": 192,
+      "end_seconds": 373,
+      "duration_seconds": 181,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=192",
+      "title": "Control intradía, hip thrust e individualización del VBT",
+      "summary": "Para el control de carga intradía, el entrenamiento basado en la velocidad (VBT) con un encoder maximiza el esfuerzo del atleta a través del feedback visual. Ejercicios como el hip thrust ayudan a trabajar vectores horizontales. A nivel de carga, aunque existan estándares teóricos de velocidad, García Ramos (2023) aconseja individualizar y utilizarlos solo como horquillas de referencia, dado que cada deportista tiene niveles y experiencias distintas.",
+      "literal_quote": "Es muy difícil centrar en individualizar una carga para cada uno de los jugadores, de tal manera que cada jugador y cada deportista tiene unos niveles, tiene una experiencia y tiene un ejercicio que es más capaz...",
+      "full_transcript": "¿Por qué utilizamos nosotros el entrenamiento de la velocidad basada en la barra para el control intradía? Para nosotros es un tipo de estímulo bastante importante, donde el jugador se le estimula a vectores verticales normalmente y si trabajamos con hip thrust, lo estamos orientando hacia vectores más horizontales... para esos primeros metros de la carrera, esa aceleración... Aquí, en este trabajo de Panderka y colaboradores, observan que el feedback visual de un encoder maximizaba los comportamientos o maximizaba el esfuerzo del entrenamiento en los atletas. Por tanto, quizá con menos entrenamientos de fuerza estamos siendo mucho más eficientes y impactamos mucho más en la respuesta del jugador. También quiero ser claro en que dentro de estos márgenes o estos estándares que se marcan de más de 0,75 metros/segundos son cargas ligeras, entre 0,50 y 0,75 son cargas medias y todo lo que va por debajo de 0,5 son cargas altas. Me gustaría entrar dentro del campo también de García Ramos en 2023, donde habla de que está bien tener un estándar... pero es muy difícil centrar en individualizar una carga para cada uno de los jugadores, de tal manera que cada jugador y cada deportista tiene unos niveles, tiene una experiencia y tiene un ejercicio que es más capaz o que es más habilidoso en ejecutarlo. De tal manera que no se puede generalizar. Sí se puede tener unas horquillas de rango más o menos para ver en qué fuerzas o en qué objetivos nos estamos moviendo...",
+      "keywords": [
+        "vbt",
+        "encoder",
+        "hip-thrust",
+        "individualizacion",
+        "garcia-ramos",
+        "horquillas"
+      ],
+      "entities": [
+        "Panderka",
+        "García Ramos"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo beneficia el feedback visual de un encoder al entrenamiento de fuerza?",
+        "¿Por qué no se deben aplicar ciegamente los estándares de velocidad en el gimnasio?"
+      ],
+      "related_terms": [
+        "entrenamiento basado en la velocidad",
+        "feedback visual",
+        "cargas ligeras"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de la pliometría para el ciclo estiramiento-acortamiento.",
+      "context_after": "Se cambia de la monitorización interna en el gimnasio a la medición de carga externa en el campo mediante GPS."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:06:14",
+      "end_timestamp": "00:08:01",
+      "start_seconds": 374,
+      "end_seconds": 481,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=374",
+      "title": "Monitorización diaria en campo mediante GPS",
+      "summary": "El uso del GPS es fundamental para monitorizar la carga externa y la exposición a la velocidad diaria. Realizar este seguimiento continuo es mucho más objetivo y útil que realizar test aislados cada varios meses, ya que permite ajustar la planificación considerando que la respuesta del jugador fluctúa cada sesión.",
+      "literal_quote": "La monitorización diaria se vuelve mucho más objetiva a nivel de evolución que teniendo un test de velocidad hecho cada dos, tres meses aproximadamente.",
+      "full_transcript": "Para conocer a qué velocidades se están moviendo y a qué velocidades se están exponiendo nuestros jugadores, tenemos que tener una monitorización con GPS. Todo aquel que no tenga posibilidad de tener un GPS lo va a tener un poco más complejo en cuanto a la monitorización intradía, que creo que es lo más importante de todo, porque el deportista todos los días no se encuentra igual. De tal manera que nosotros podemos estar planificando y el jugador no estar en ese rango que nosotros pensamos que está... La monitorización diaria se vuelve mucho más objetiva a nivel de evolución que teniendo un test de velocidad hecho cada dos, tres meses aproximadamente. Siempre que se pueda contar con algún GPS es mucho mejor a la hora de contabilizar y poder conocer la carga externa que se está exponiendo el jugador. Los datos ofrecidos de carga externa por los dispositivos GPS son de muchísima importancia para nosotros, pero sí que es cierto que hay que saber interpretar estos datos y conocer la respuesta que tiene el jugador a esa carga, que no va a ser todos los días la misma, sino que va a fluctuar...",
+      "keywords": [
+        "gps",
+        "monitorizacion-intradia",
+        "carga-externa",
+        "fluctuacion",
+        "test-velocidad"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la monitorización con GPS es mejor que los test esporádicos?",
+        "¿Qué importancia tiene la fluctuación diaria del deportista al planificar?"
+      ],
+      "related_terms": [
+        "carga externa",
+        "monitorización intradía"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre las horquillas de rango de velocidad en los entrenamientos de gimnasio.",
+      "context_after": "Se definen cuáles son las franjas porcentuales de velocidad máxima que se busca alcanzar con el GPS."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist (Parte 3)",
+      "speaker": "Carlos Navarro",
+      "start_timestamp": "00:08:02",
+      "end_timestamp": "00:09:34",
+      "start_seconds": 482,
+      "end_seconds": 574,
+      "duration_seconds": 92,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=482",
+      "title": "Umbrales preventivos y principio de reversibilidad",
+      "summary": "Para maximizar la señal y proteger la estructura del bíceps femoral de cabeza larga, los jugadores deben exponerse a intensidades superiores al 90% de su velocidad máxima. De no alcanzarse estos umbrales constantemente (85-95% o 95-100%), el deportista sufrirá una baja estimulación que desencadenará el principio de reversibilidad, incrementando el riesgo lesional.",
+      "literal_quote": "Tenemos que estar por encima del 90% de la velocidad máxima para poder estimular en gran cantidad a ese músculo y protegerlo y evitarle, por ese principio de reversibilidad de una baja estimulación...",
+      "full_transcript": "En nuestro contexto, tenemos una serie de valores que damos mucha más importancia, sobre todo en esta variable, en el control de la velocidad, en los porcentajes de su máxima velocidad, que son el 85, 95% de su máxima velocidad y también el 95 y el 100% de su velocidad máxima. Porque ya hemos estado comentando que para maximizar la señal y para maximizar los beneficios en la estructura muscular del bíceps femoral de cabeza larga, tenemos que estar por encima del 90% de la velocidad máxima para poder estimular en gran cantidad a ese músculo y protegerlo y evitarle, por ese principio de reversibilidad de una baja estimulación, lo que supondrá será un bajo nivel de entrenamiento, nivel de exposición. Nosotros intradía podemos estar observando este tipo de monitorización. Estamos observando a qué velocidades se está moviendo cada sesión y si eso corresponde a su 85, 95% de su máximo o su 95, 100% máximo. De esta forma, podemos conocer mucho más al detalle por cada jugador en qué niveles se está moviendo.",
+      "keywords": [
+        "velocidad-maxima",
+        "umbrales",
+        "prevencion",
+        "principio-reversibilidad",
+        "biceps-femoral"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje de la velocidad máxima es necesario alcanzar para prevenir lesiones de isquiotibiales?",
+        "¿Qué es el principio de reversibilidad en el entrenamiento del sprint?"
+      ],
+      "related_terms": [
+        "bíceps femoral de cabeza larga",
+        "principio de reversibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de contar con dispositivos GPS para medir objetivamente la carga en cada sesión.",
+      "context_after": "El vídeo concluye finalizando la explicación sobre la monitorización detallada e individual en el campo."
+    }
+  ]
+}
