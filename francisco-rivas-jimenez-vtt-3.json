@@ -1,0 +1,245 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+    "speaker": "Francisco José Rivas",
+    "total_duration": "00:11:46",
+    "total_duration_seconds": 706,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:11",
+      "start_seconds": 1,
+      "end_seconds": 131,
+      "duration_seconds": 130,
+      "timestamp_url": "?t=1",
+      "title": "Fase 1: Protocolo LOVE y delimitación de roles",
+      "summary": "Para la fase inicial de rehabilitación se aplica el protocolo LOVE (Load, Optimismo, Vascularización, Ejercicio). El rol del fisioterapeuta es primordial para proteger el tejido y movilizar fluidos, mientras que el preparador físico asume un papel secundario enfocado en educar y evitar que el sudor infecte las heridas.",
+      "literal_quote": "Durante la fase uno, el rol del terapeuta es primordial, porque él tiene que asegurarse de proteger el área para minimizar el sangrado y evitar más daño al tejido.",
+      "full_transcript": "Con el término LOF [LOVE] tenemos cuatro métodos que tenemos que ejecutar a través de la rehabilitación, que sería: \"load\", progresivamente aumentar la carga... optimismo... Vascularización, que es el enfoque en el aspecto del sistema cardíaco... Y ejercicio. Tenemos que asegurarnos de que, incluso si la lesión afecta a uno de los miembros del cuerpo, podamos seguir trabajando las otras áreas... Durante la fase uno, el rol del terapeuta es primordial, porque él tiene que asegurarse de proteger el área para minimizar el sangrado y evitar más daño al tejido. La evaluación y movilización de fluidos... El rol del \"strength coach\" en esta fase es secundario: es educar al pelotero acerca del proceso de rehabilitación... Sin embargo, tenemos que prevenir sudor en las heridas, lo cual puede causar infección.",
+      "keywords": [
+        "protocolo-love",
+        "fase-1",
+        "fisioterapeuta",
+        "strength-coach",
+        "inflamacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué significa el acrónimo LOVE en recuperación de lesiones?",
+        "¿Cuál es el rol del preparador físico en la fase 1 de una lesión?",
+        "¿Por qué es importante evitar el sudor en las heridas postoperatorias?"
+      ],
+      "related_terms": [
+        "LOVE",
+        "terapeuta",
+        "vascularización",
+        "heridas",
+        "tejido"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del fragmento WEBVTT-3 (Continuación de la explicación del método PEACE and LOVE).",
+      "context_after": "Se detallan los procesos de la Fase 2 de rehabilitación y la progresiva integración del entrenamiento cardiovascular."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:04:35",
+      "start_seconds": 146,
+      "end_seconds": 275,
+      "duration_seconds": 129,
+      "timestamp_url": "?t=146",
+      "title": "Transición a Fases 2 y 3: El protagonismo del preparador físico",
+      "summary": "En la Fase 2, el enfoque está en recuperar la movilidad con un rol aún secundario para el preparador físico. Sin embargo, en la Fase 3, el Strength Coach asume el liderazgo para restaurar fuerza, propiocepción y desarrollar sistemas energéticos (aeróbico/anaeróbico) de cara a la simulación deportiva.",
+      "literal_quote": "En la fase tres es cuando nuestro rol se vuelve primordial, porque el propósito principal es restaurar la fuerza, la resistencia muscular y la propiocepción.",
+      "full_transcript": "En la fase dos es la movilidad y fuerza ligera. El propósito principal... es recuperar el rango de movimiento y la circulación. El rol del terapeuta es primordial... Nuestro rol es secundario otra vez, porque vamos a empezarnos a enfocar en un programa progresivo de las extremidades sanas y un programa progresivo de los sistemas energéticos... En la fase tres es cuando nuestro rol se vuelve primordial, porque el propósito principal es restaurar la fuerza, la resistencia muscular y la propiocepción. El rol del terapeuta es secundario... Ahí es cuando el rol del preparador físico se convierte en un programa progresivo de manera funcional. Preparación para las demandas de la simulación deportiva. No es solo entrenar el músculo de manera hipertrofia o de potencia, también de manera elástica.",
+      "keywords": [
+        "fase-2",
+        "fase-3",
+        "sistemas-energeticos",
+        "propiocepcion",
+        "simulacion-deportiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuándo se vuelve primordial el rol del preparador físico en una rehabilitación?",
+        "¿Qué sistemas energéticos se entrenan en la fase 3 de retorno al juego?",
+        "¿Qué se busca en la fase 2 de una lesión deportiva?"
+      ],
+      "related_terms": [
+        "movilidad",
+        "propiocepción",
+        "elástica",
+        "simulación",
+        "energéticos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del protocolo LOVE y prevención de infecciones en las heridas durante la fase 1.",
+      "context_after": "Se presenta la fase 4 (readaptación total) y se introduce un ejemplo de cronograma de 12 meses."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:05:43",
+      "end_timestamp": "00:07:35",
+      "start_seconds": 343,
+      "end_seconds": 455,
+      "duration_seconds": 112,
+      "timestamp_url": "?t=343",
+      "title": "Cronograma de 12 meses: Capacidad elástica y trabajo excéntrico",
+      "summary": "Se modela una progresión anual post-quirúrgica. Destaca el mes 6, donde se trata al jugador de manera integral, priorizando el trabajo excéntrico para adaptar los tendones elásticamente. En el mes 7 inician los lanzamientos isométricos, culminando en el mes 10 con la simulación en bullpens.",
+      "literal_quote": "En el mes seis ya empezamos a tratar el cuerpo como si fuera un atleta, cuerpo completo, y el enfoque tiene que ser en la parte excéntrica.",
+      "full_transcript": "Basado en el cronograma de rehabilitación... entendemos que el cronograma de rehabilitación tiene que ser parecido a esto... En el mes dos trabajaríamos hipertrofia del tren inferior y el tren superior sería limitado... En el mes seis ya empezamos a tratar el cuerpo como si fuera un atleta, cuerpo completo, y el enfoque tiene que ser en la parte excéntrica, porque queremos que los tendones empiecen a entender lo que es la capacidad elástica de su tejido, cómo guardar energía y soltar esa energía... En el mes siete, el programa de lanzamiento empieza a tomar un poquito más de forma... Nos enfocamos más que todo en la parte isométrica... En el mes 10, el enfoque total es simulación deportiva. Es enfocarnos en que el jugador se sienta bien lanzando bullpens.",
+      "keywords": [
+        "cronograma-12-meses",
+        "fuerza-excentrica",
+        "capacidad-elastica",
+        "tendones",
+        "bullpens"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿En qué mes comienza el trabajo excéntrico de cuerpo completo tras una cirugía en béisbol?",
+        "¿Cuándo se empieza a lanzar bullpens después de una cirugía Tommy John?"
+      ],
+      "related_terms": [
+        "cronograma",
+        "excéntrica",
+        "isométrica",
+        "elástica",
+        "bullpens"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la Fase 4 centrada en el control de cargas y simulación por parte del preparador físico.",
+      "context_after": "Se detallan las evaluaciones de fuerza obligatorias (agarre, hombro y chin-ups) previas a iniciar el programa de lanzamientos."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:08:23",
+      "end_timestamp": "00:10:01",
+      "start_seconds": 503,
+      "end_seconds": 601,
+      "duration_seconds": 98,
+      "timestamp_url": "?t=503",
+      "title": "Evaluación de aptitud para lanzar: Fuerza de agarre y dominadas",
+      "summary": "Para iniciar el retorno al lanzamiento, el atleta debe superar metas estrictas: fuerza de agarre superior a 120-130, un ratio de hombro (rotación interna/externa) de 1 a 1.5 y lograr más de ocho dominadas (chin-ups) para asegurar que el cuerpo soporte las fuerzas distractivas articulares.",
+      "literal_quote": "Si no eres capaz de hacer dominadas, ocho repeticiones con tu cuerpo, no vas a ser capaz de aguantar las fuerzas distractivas del hombro y del codo.",
+      "full_transcript": "Desde el aspecto físico, una evaluación médica es importante. Asegurarnos de que la fuerza del agarre sea más de 130, porque sabemos que mínimo 120 es lo necesario para proteger el ligamento cubital... Durante este tiempo también queremos medir la fuerza del hombro, que la fuerza interna sea más que la rotación interna entre un \"ratio\" de 1 a 1.5. Habilidad de hacer \"chin ups\", más de ocho, o dominadas... Esta es una prueba que he usado bastante por obvias razones: las fuerzas distractivas del hombro y del codo cuando lanzamos. Si no eres capaz de hacer dominadas, ocho repeticiones con tu cuerpo, no vas a ser capaz de aguantar las fuerzas distractivas del hombro y del codo.",
+      "keywords": [
+        "fuerza-agarre",
+        "chin-ups",
+        "fuerzas-distractivas",
+        "ratio-hombro",
+        "evaluacion-medica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son los requisitos físicos para volver a lanzar en béisbol?",
+        "¿Cuántas dominadas debe poder hacer un pitcher en rehabilitación?",
+        "¿Por qué es importante medir la fuerza de agarre para proteger el codo?"
+      ],
+      "related_terms": [
+        "agarre",
+        "cubital",
+        "ratio",
+        "dominadas",
+        "distractivas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del mes a mes en el cronograma anual de rehabilitación.",
+      "context_after": "Progresión de ejercicios pliométricos para preparar los tendones antes de las sesiones balísticas formales."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:10:01",
+      "end_timestamp": "00:11:46",
+      "start_seconds": 601,
+      "end_seconds": 706,
+      "duration_seconds": 105,
+      "timestamp_url": "?t=601",
+      "title": "Pliometría preparatoria y gestión del estrés con 'plyos'",
+      "summary": "Previo al pitcheo, se exige una progresión pliométrica (cadenas cerradas a abiertas, paso de dos manos a una usando balones medicinales). El uso de pelotas pesadas ('plyos') reduce el estrés en valgo sobre el codo, aunque incrementa el estrés en la rotación externa del hombro.",
+      "literal_quote": "Más peso significa menos estrés en el codo, porque hay menos \"valgus stress\", pero hay más estrés en la rotación externa del hombro.",
+      "full_transcript": "Asegurarnos de que la progresión de pliométricos sea adecuada antes de empezar a lanzar, de cadenas cerradas versus cadenas abiertas. Con eso estamos hablando de pechadas o de lanzar balones medicinales... Tenemos que asegurarnos que vayamos de dos manos a una mano... Antes de lanzar, tenemos que asegurarnos de que el jugador sea capaz de lanzar p*****s medicinales, que el tejido sea elástico suficiente para aguantar la fuerza balística... Los siguientes pasos del programa de lanzamiento que tenemos que considerar son pliométricos con simulación de lanzamiento, empezar a lanzar \"plyos\". Más peso significa menos estrés en el codo, porque hay menos \"valgus stress\", pero hay más estrés en la rotación externa del hombro. Escoger los ciertos \"drills\" que nos ayuden a progresar de manera correcta.",
+      "keywords": [
+        "pliometria",
+        "balones-medicinales",
+        "plyos",
+        "valgus-stress",
+        "estres-articular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las pelotas pesadas al estrés del codo en el béisbol?",
+        "¿Qué ejercicios pliométricos se deben hacer antes de volver a lanzar?"
+      ],
+      "related_terms": [
+        "pliométricos",
+        "cadenas",
+        "elástico",
+        "balística",
+        "valgus"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exigencia de fuerza mínima estructural (dominadas, ratio de hombro) para soportar las tensiones de lanzamiento.",
+      "context_after": "Final del extracto WEBVTT-3."
+    }
+  ]
+}

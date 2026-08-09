@@ -1,0 +1,148 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+    "speaker": "Francisco José Rivas",
+    "total_duration": "00:07:36",
+    "total_duration_seconds": 456,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:32",
+      "start_seconds": 1,
+      "end_seconds": 152,
+      "duration_seconds": 151,
+      "timestamp_url": "?t=1",
+      "title": "Limitaciones del programa de intervalo basado en distancia",
+      "summary": "El programa clásico está desactualizado porque se basa en distancias subjetivas y carece de RPE o métricas de intensidad. Su dinámica de calentamiento, lanzamientos y descansos prolongados resulta ineficiente, requiriendo hasta una hora de trabajo sin brindar parámetros objetivos de progresión.",
+      "literal_quote": "Está descrito basado en distancia, lo cual es subjetivo. No te dice a qué nivel está lanzando, el esfuerzo que está lanzando la persona, no tiene RPE.",
+      "full_transcript": "Cuando hablamos del programa de intervalo de lanzamiento, es el programa que ha sido usado por décadas. Está un poquito desactualizado por falta de requerimientos objetivos... Cuando discutimos el programa de lanzamiento, van a notar que está descrito basado en distancia, lo cual es subjetivo. No te dice a qué nivel está lanzando, el esfuerzo que está lanzando la persona, no tiene RPE... Esto puede tomar casi una hora lanzando... lo cual no es eficiente y también no nos permite tener de manera objetiva la progresión de un pelotero para la siguiente fase... No hay objetividad en los requerimientos que son necesarios para que un jugador vuelva a lanzar.",
+      "keywords": [
+        "programa-intervalo",
+        "distancia",
+        "subjetivo",
+        "rpe",
+        "progresion-objetiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Crítica",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fallas del programa de intervalo basado en distancia?",
+        "¿Por qué es importante el RPE en el retorno de lanzamientos?"
+      ],
+      "related_terms": [
+        "distancia",
+        "esfuerzo",
+        "intensidad",
+        "rehabilitación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del fragmento WEBVTT-2.",
+      "context_after": "Se procede a criticar la fase de bullpens y las alteraciones biomecánicas que produce lanzar a bajas intensidades."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:02:33",
+      "end_timestamp": "00:06:04",
+      "start_seconds": 153,
+      "end_seconds": 364,
+      "duration_seconds": 211,
+      "timestamp_url": "?t=153",
+      "title": "Crítica a la restricción mecánica y falta de individualización",
+      "summary": "Pedir a un lanzador tirar al 50% de su capacidad desde el montículo carece de validez y altera su secuencia cinemática. El programa tradicional ignora la preparación pliométrica previa, carece de metas físicas y no se individualiza según la recuperación del tejido o el sistema nervioso.",
+      "literal_quote": "Si le pedimos a un jugador que lanza 100 millas, lanzar 50 millas del montículo, sería algo un poco ridículo y con falta de base objetiva.",
+      "full_transcript": "Cuando vemos el retorno de intervalo... paso uno, lanzar 15 tiros del montículo a 50 %... si le pedimos a un jugador que lanza 100 millas, lanzar 50 millas del montículo, sería algo un poco ridículo y con falta de base objetiva... Las limitaciones a este programa serían: falta de metas físicas objetivas... la falta de progresión pliométrica... No hay individualización en el programa, todos siguen el mismo programa, no hay cambio basado en el tipo de lesión o recuperación de tejido... Y falta de restricción liderada. Con esto nos referimos que no prescriben cierta manera de lanzar... porque cuando un jugador lanza a un nivel de 40 o 50 %, tiene que hacer cambios a su mecánica que pueden ser contraproducentes al producto final.",
+      "keywords": [
+        "intensidad",
+        "secuencia-kinematica",
+        "pliometria",
+        "individualizacion",
+        "mecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Crítica",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué altera la mecánica lanzar a baja intensidad desde el montículo?",
+        "¿Qué limitaciones tiene el programa de bullpens tras una lesión?"
+      ],
+      "related_terms": [
+        "montículo",
+        "cinemática",
+        "pliométrica",
+        "velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la falta de objetividad (distancias y RPE) en las primeras fases del programa de retorno al lanzamiento.",
+      "context_after": "Transición hacia los protocolos de rehabilitación para lesiones del tren superior, empezando por la fase 1."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:06:07",
+      "end_timestamp": "00:07:36",
+      "start_seconds": 367,
+      "end_seconds": 456,
+      "duration_seconds": 89,
+      "timestamp_url": "?t=367",
+      "title": "Evolución de protocolos: De RICE a PEACE and LOVE",
+      "summary": "En la Fase 1 (protección y control) se ha descartado el método RICE porque la crioterapia frena la respuesta antiinflamatoria natural. Hoy se aplica PEACE (protección, educación, movimiento activo, compresión, elevación) para optimizar la vasodilatación. Nota: La explicación del componente 'LOVE' queda incompleta en este fragmento.",
+      "literal_quote": "La literatura nos ha informado bastante que el uso de crioterapia puede ser contraproducente... Eso ha sido reemplazado por PEACE and LOVE.",
+      "full_transcript": "La fase número uno de cualquier lesión va a ser protección y control. Reducir el dolor, reducir la inflamación y proteger el tejido. En el pasado usábamos RICE... La literatura nos ha informado bastante que el uso de crioterapia puede ser contraproducente a dejar que el cuerpo encuentre su manera de usar sus productos antiinflamatorios para la protección del cuerpo y la vasodilatación... Eso ha sido reemplazado por PEACE and LOVE. Cuando hablamos de PEACE, estamos hablando de protection, protección, educación, active movement... compresión y elevación. Una vez que salimos de la parte de inflamación, empezamos a aplicar el término de LOVE.",
+      "keywords": [
+        "fase-1",
+        "rice",
+        "peace-and-love",
+        "crioterapia",
+        "antiinflamatorio"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Por qué se ha dejado de usar el método RICE en lesiones?",
+        "¿Qué significa el protocolo PEACE and LOVE en rehabilitación?"
+      ],
+      "related_terms": [
+        "protección",
+        "inflamación",
+        "tejido",
+        "crioterapia",
+        "vasodilatación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Crítica a las progresiones desactualizadas de lanzamientos y la alteración de la mecánica articular a bajas intensidades.",
+      "context_after": "El fragmento termina justo cuando el ponente se dispone a detallar el acrónimo 'LOVE'."
+    }
+  ]
+}
