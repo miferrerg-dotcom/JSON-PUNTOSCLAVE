@@ -1,0 +1,454 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+    "speaker": "Enrique Cházaro",
+    "total_duration": "00:24:54",
+    "total_duration_seconds": 1494,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-008",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:00:07",
+      "end_timestamp": "00:02:15",
+      "start_seconds": 7,
+      "end_seconds": 135,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=7",
+      "title": "El rol mediador y la creación de alertas",
+      "summary": "La aplicación diaria del control de cargas organiza el trabajo y facilita el diálogo con el cuerpo técnico. El sport scientist equilibra la disponibilidad de jugadores para el entrenador con el cuidado de la salud física, protegiendo los activos del club.",
+      "literal_quote": "Nosotros tenemos un rol complicado, porque nos debemos al club, pero también nos debemos al entrenador... tratar de cuidarlos, porque al final son activos del club.",
+      "full_transcript": "La aplicación del control de las cargas es esencial en el día a día en un club. Creo que sin eso pierdes lo que venimos arrastrando en las slides pasadas. Pierdes ese orden, pierdes la mejor manera de entablar la conversación con las diferentes áreas del club. ¿Qué podemos hacer con esto? Uno, planificar los trabajos... nosotros tenemos un rol complicado, porque nos debemos al club, pero también nos debemos al entrenador. Entonces, es como encontrar esa manera de que tus jugadores estén bien, estén sanos, estén disponibles para el entrenador y también cuando veamos que hay algún área de oportunidad, poder ir con el preparador físico... y tratar de medirlos, tratar de cuidarlos, porque al final son activos del club. La creación de los reportes es algo que te tienes que saber adaptar a tu cuerpo técnico y a tu club... Otro tipo de aplicaciones que también se pueden hacer es alertas en las cargas, que para mí es esencial. ¿Para qué estás midiendo algo si no puedes dar ninguna conclusión?",
+      "keywords": [
+        "reportes",
+        "alertas",
+        "comunicacion",
+        "activos-del-club",
+        "cuerpo-tecnico"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante generar alertas a partir del monitoreo?",
+        "¿Cómo debe comunicarse el área de ciencias del deporte con el cuerpo técnico?"
+      ],
+      "related_terms": [
+        "alertas en las cargas",
+        "activos del club",
+        "entablar conversación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Fin de la explicación sobre carga interna y biomarcadores (WEBVTT-1).",
+      "context_after": "Se detalla cómo medir la fatiga de manera específica a través del test de salto Contramovimiento (CMJ)."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:02:22",
+      "end_timestamp": "00:04:09",
+      "start_seconds": 142,
+      "end_seconds": 249,
+      "duration_seconds": 107,
+      "timestamp_url": "?t=142",
+      "title": "Evaluación de fatiga con el test de salto CMJ",
+      "summary": "Para analizar la fatiga neuromuscular, se recomienda el test de salto CMJ (Contra Movement Jump) en el día +2. Es una evaluación rápida, económica, no invasiva y de alta sensibilidad para el fútbol.",
+      "literal_quote": "Nosotros la medimos con los test de un salto de CMJ... es bien fácil de hacer, es práctica, de bajo costo, no es invasiva, no carga al jugador.",
+      "full_transcript": "Vamos a enfocarnos ahorita en el primer punto, que sería el análisis de la fatiga. No hay solo una manera de medirla. En esta charla vamos a hablar de una de las maneras como nosotros la medimos, que es con los test de un salto de CMJ, un Contra Movement Jump. ¿Por qué es útil o por qué es importante hacerlo así? Hay demasiados artículos que hablan de la aplicación del CMJ y una, es bien fácil de hacer, es práctica, es de bajo costo, no es invasiva, no carga al jugador. Para mí, por eso es esencial hacerla. Nosotros tenemos el protocolo de hacerlo siempre, al menos una vez por semana en el +2... Otra cosa por la que es muy importante hacer estos análisis de los cambios porcentuales es porque detectas los cambios en el sistema neuromuscular. Es bien sensible, entonces casi que de manera inmediata puedes ver si el jugador está asimilando bien la fatiga o no. Es superindividualizado.",
+      "keywords": [
+        "cmj",
+        "fatiga-neuromuscular",
+        "mas-dos",
+        "evaluacion",
+        "sistema-neuromuscular"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué se prefiere el CMJ para medir la fatiga en fútbol?",
+        "¿Cuándo es ideal aplicar el test CMJ tras un partido?"
+      ],
+      "related_terms": [
+        "Contra Movement Jump",
+        "fatiga neuromuscular",
+        "día +2"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del rol del sport scientist y la necesidad de generar reportes de alertas.",
+      "context_after": "Desglose de las variables específicas que se miden en el salto CMJ: RSI y tiempo de impulso."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:04:42",
+      "end_timestamp": "00:07:12",
+      "start_seconds": 282,
+      "end_seconds": 432,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=282",
+      "title": "Interpretación del RSI y Tiempo de Impulso",
+      "summary": "El CMJ se interpreta mediante el RSI (eficacia al producir fuerza) y el tiempo de impulso (velocidad de generación). Un RSI bajo y un tiempo alto indican fatiga clara, permitiendo adaptar la carga en vez de descartar al jugador automáticamente.",
+      "literal_quote": "El RCI refleja qué tan rápido y qué tan eficaz estás produciendo la fuerza... Si baja el RCI y sube el tiempo, la fatiga neuromuscular es clara.",
+      "full_transcript": "Siguiendo el tema de las variables que nosotros usamos, son las que les ponía antes, es el RCI y el tiempo de impulso. Mucha gente habla, por ejemplo, de la altura del salto, pero nosotros nos fijamos en estas dos. ¿Por qué? Porque nos permite ver el tipo de fatiga, ya sea que es neuromuscular o mecánica. Aquí explicando muy rápido, el RCI refleja qué tan rápido y qué tan eficaz estás produciendo la fuerza. En este caso, si baja, implica menor capacidad explosiva, por lo tanto, una fatiga. Y el tiempo de impulso es cuánto tarda en generar la fuerza necesaria el jugador para saltar. Y en este caso, si aumenta, implica que estás haciendo fuerza más lento, por ende, también una fatiga. El escenario ideal, obviamente, es la parte que les pongo abajo. Si baja el RCI y sube el tiempo, la fatiga neuromuscular es clara... La idea es, con esta información, cómo podemos tomar estrategias para que el jugador sí pueda jugar. Por eso nos adelantamos, por eso lo hacemos en el más dos.",
+      "keywords": [
+        "rsi",
+        "tiempo-impulso",
+        "fatiga-neuromuscular",
+        "baseline",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué es el RSI y el tiempo de impulso en un CMJ?",
+        "¿Cómo se toman decisiones con los datos del CMJ sin descartar al jugador?"
+      ],
+      "related_terms": [
+        "RSI",
+        "tiempo de impulso",
+        "capacidad explosiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del test CMJ y su idoneidad para detectar fatiga en el fútbol.",
+      "context_after": "Transición hacia otra aplicación clave en el control de cargas: el ratio agudo crónico."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:07:17",
+      "end_timestamp": "00:08:49",
+      "start_seconds": 437,
+      "end_seconds": 529,
+      "duration_seconds": 92,
+      "timestamp_url": "?t=437",
+      "title": "La métrica de carga aguda-crónica (ACWR)",
+      "summary": "El ratio agudo-crónico de Tim Gabbett compara la carga semanal con el histórico reciente. El rango ideal ('sweet spot') se sitúa entre 0.8 y 1.2, indicando variaciones del 20% respecto a la carga crónica.",
+      "literal_quote": "Si el jugador está en ciertos umbrales entre 0.8 y 1.2, quiere decir que la carga está o 20 % por abajo o 20 % por arriba de lo que vienes arrastrando en tu carga crónica... es un sweet spot.",
+      "full_transcript": "Una de las aplicaciones más conocidas, yo creo que es el famosísimo agudo crónico, que la primera vez que lo leí salió en un paper, es el de Tim Gabbett... es una manera muy rápida de ver cómo está la carga del jugador de esa semana con respecto al mes pasado. O lo puedes adaptar a ese día con respecto a los últimos siete días... Es un sweet spot. Si el jugador está en ciertos umbrales entre 0.8 y 1.2, quiere decir que la carga está o 20 % por abajo o 20 % por arriba de lo que vienes arrastrando en tu carga crónica... Y si está por arriba de eso, quiere decir que tal vez está haciendo, si estás en 1.5 o en dos, está haciendo más del 50 % o hasta el doble de lo que venías haciendo. Entonces, es muy intuitivo pensar que si el jugador tiene una carga alta, viene haciendo mucho.",
+      "keywords": [
+        "agudo-cronico",
+        "acwr",
+        "sweet-spot",
+        "tim-gabbett",
+        "carga-semanal"
+      ],
+      "entities": [
+        "Tim Gabbett"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué significa el sweet spot en el ratio agudo crónico?",
+        "¿Qué indica un ratio agudo crónico por encima de 1.5?"
+      ],
+      "related_terms": [
+        "carga aguda",
+        "carga crónica",
+        "sweet spot"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables del CMJ y su interpretación operativa.",
+      "context_after": "Se combinan estas métricas de ratio agudo-crónico con biomarcadores para crear semáforos de alerta."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:08:49",
+      "end_timestamp": "00:10:44",
+      "start_seconds": 529,
+      "end_seconds": 644,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=529",
+      "title": "Sistema integral de alertas multivariable",
+      "summary": "Un ratio agudo-crónico alto sumado a biomarcadores elevados (CK, estrés oxidativo), acumulación de partidos y un CMJ deprimido detonan un sistema visual de alertas. Este semáforo (óptimo, precaución, alerta) facilita la lectura al cuerpo técnico.",
+      "literal_quote": "¿Qué pasa cuando tienes un agudo crónico alto? Tienes aparte unos valores elevados en los biomarcadores... y un CMJ que te marca alerta... es importante tener un sistema de semáforos.",
+      "full_transcript": "¿Qué pasa cuando tienes un agudo crónico alto? Tienes aparte unos valores elevados en los biomarcadores... nos enfocamos mucho en el lactato, que sería el CK, nos enfocamos en el estrés oxidativo... medimos los antioxidantes y la inflamación... y cuando el jugador está en rojo en esos valores, y aparte agregamos que viene de jugar muchos partidos en un tiempo reducido, que haya jugado en dos semanas tres o cuatro partidos de 90 minutos y que aparte... tengas un resultado del CMJ que te marque la alerta de que es fatigado. Entonces, aquí estamos hablando de que con el monitoreo de las cargas sabemos lo que está haciendo el jugador... cómo lo está asimilando la carga interna con los biomarcadores... es importante tener un sistema de semáforos. Creo que es muy intuitivo para todos. Cuando el jugador está óptimo, cuando el jugador está en precaución y cuando el jugador está en alerta.",
+      "keywords": [
+        "alertas",
+        "semaforo",
+        "biomarcadores",
+        "agudo-cronico",
+        "fatiga",
+        "estres-oxidativo"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se combinan las variables para crear un sistema de alertas en el fútbol?",
+        "¿Por qué es importante integrar el ratio agudo crónico con biomarcadores y CMJ?"
+      ],
+      "related_terms": [
+        "sistema de semáforos",
+        "alerta",
+        "estrés oxidativo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción al concepto de ratio de carga aguda-crónica.",
+      "context_after": "Se transiciona hacia el tema de la readaptación física (Return to Play) tras una lesión."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:10:47",
+      "end_timestamp": "00:13:39",
+      "start_seconds": 647,
+      "end_seconds": 819,
+      "duration_seconds": 172,
+      "timestamp_url": "?t=647",
+      "title": "El perfil analítico como checklist en el Return to Play (RTP)",
+      "summary": "El Return to Play (RTP) es multidisciplinar y va más allá de tocar la velocidad máxima. El histórico del jugador antes de la lesión (volúmenes, sprints, desaceleraciones y fuerza) sirve como checklist objetivo para guiar la readaptación.",
+      "literal_quote": "Sabemos cuál era la carga de trabajo antes de que el jugador se lastimara... el umbral es este, cómo lo vas a trabajar es decisión del área pertinente, pero ahí están los objetivos, es como una checklist.",
+      "full_transcript": "Y por último... el famosísimo return to play. Creo que es el tema que más se ha explorado... Tenemos una oportunidad de hacer que el jugador tenga un riesgo menor... Porque me ha pasado, que hay gente que solo se enfoca en: 'Es que ya tocó una velocidad máxima, entonces ya está para jugar'. No... la pregunta siempre es: ¿cuándo está un jugador listo para regresar? Tiene que ser una decisión multidisciplinar, pero sí creo que nuestra área es esencial en el proceso del return to play. ¿Por qué? Porque sabemos cuál era la carga de trabajo antes de que el jugador se lastimara, sabemos el perfil del jugador, sabemos sus volúmenes de intensidades, sabemos sus velocidades máximas, sabemos su perfil de aceleración y desaceleración, sus desaceleraciones máximas... los niveles de fuerza en los que estaba. Lo que sí podemos ver y lo que sí podemos saber es que cuando un jugador se lastima, todo esto no lo puede hacer... El umbral del jugador era este, el umbral es este, cómo lo vas a trabajar, eso es una decisión 100 % del área pertinente, pero ahí están los objetivos, es como una checklist, y eso no te garantiza que el jugador va a regresar, pero sí te deja con una tranquilidad mayor de que está más apto.",
+      "keywords": [
+        "return-to-play",
+        "rtp",
+        "checklist",
+        "multidisciplinar",
+        "perfil-jugador",
+        "readaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no basta con tocar la velocidad máxima en un return to play?",
+        "¿Qué rol juega el historial de datos en la readaptación de un futbolista?"
+      ],
+      "related_terms": [
+        "Return to Play",
+        "checklist",
+        "decisión multidisciplinar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo integrar las métricas en un semáforo de riesgo.",
+      "context_after": "Se analiza el comportamiento numérico de la carga aguda-crónica durante esta fase de recuperación."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:13:39",
+      "end_timestamp": "00:14:51",
+      "start_seconds": 819,
+      "end_seconds": 891,
+      "duration_seconds": 72,
+      "timestamp_url": "?t=819",
+      "title": "Evolución de la carga aguda-crónica durante la readaptación",
+      "summary": "Durante la rehabilitación, el ratio agudo-crónico cae al cesar la actividad y luego marca alertas rojas falsas al reintroducir la carga. Se emplean promedios ponderados para asignar mayor peso a los días recientes y medir la progresión con precisión.",
+      "literal_quote": "Al final, cuando empieza la rehabilitación, es normal que el agudo crónico baje... Vuelve a estar en rojo, porque ahora tienes un agudo crónico bajo y de repente lo subes un poco. Yo lo hago con medios ponderados.",
+      "full_transcript": "Aquí es un ejemplo del agudo crónico que yo les mencionaba antes, que el jugador venía con agudos crónicos muy altos. ¿Qué pasó? Se lastimó y empezó la rehabilitación. Al final, cuando empieza la rehabilitación, es normal que el agudo crónico baje, porque vienes de no hacer nada. Entonces, las cargas empiezan a subir poco a poco. Vuelve a estar en rojo, porque ahora tienes un agudo crónico que tiene todo muy bajo y de repente lo subes un poco y de ahí ya se normaliza. Por eso yo siempre les digo que es algo muy sensible, pero te sirve... Yo lo hago con medios ponderados y le doy pesos. Entonces, claramente, lo que está haciendo ahorita tiene más peso que lo que hizo hace 28 días, pero tiene un peso. Y este es más o menos como entendemos la parte de un jugador que se lastimó y su proceso de return to play.",
+      "keywords": [
+        "agudo-cronico",
+        "rehabilitacion",
+        "medios-ponderados",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se comporta el ratio agudo crónico durante el proceso de rehabilitación?",
+        "¿Por qué se utilizan medios ponderados en la medición de cargas poslesión?"
+      ],
+      "related_terms": [
+        "agudo crónico baje",
+        "medios ponderados"
+      ],
+      "relevance_score": 4,
+      "context_before": "Establecimiento del uso de datos previos como checklist para el RTP.",
+      "context_after": "Se explora la monitorización de fuerza y asimetrías directamente en el gimnasio."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:14:52",
+      "end_timestamp": "00:17:25",
+      "start_seconds": 892,
+      "end_seconds": 1045,
+      "duration_seconds": 153,
+      "timestamp_url": "?t=892",
+      "title": "Control de asimetrías y fuerza en gimnasio post-lesión",
+      "summary": "En el gimnasio, un jugador con desgarro de isquiotibiales evidencia asimetría y pérdida de fuerza. Se emplea restricción del flujo sanguíneo (BFR) para readaptar. No se busca una asimetría cero, sino recuperar los niveles promedios de fuerza y la simetría original del atleta.",
+      "literal_quote": "No buscamos que el jugador tenga 0% de asimetría, buscamos que vuelva a sus niveles de asimetría. Y primero que nada, que regrese a sus niveles de fuerza promedio.",
+      "full_transcript": "Y aquí también lo que les mencionaba... sí, puedes medir la carga en la cancha con GPS, pero ¿qué pasa también con los trabajos en el gimnasio, por ejemplo? Es esencial que tengas un perfil del jugador en la parte de fuerza. Y aquí, como estamos hablando de return to play, este específico jugador tuvo un desgarro de isquiotibiales. Entonces... venía de trabajar bastante bien, tenía valores muy altos de fuerza. Se lastima, para y vemos cómo baja drásticamente... tenía una asimetría hacia la pierna izquierda, se desgarró la pierna izquierda y cuando empezamos a hacer estas pruebas, bajó mucho sus niveles de fuerza... Como no puede levantar muchos pesos, hacíamos trabajos con BFR... No nos gusta que un jugador regrese a jugar si su perfil era simétrico y aquí vemos asimetrías de 30 %. Entonces, primero que nada es que regrese a sus niveles de fuerza promedio, que justo es la línea que tenemos marcada aquí en punteada... pero también que regrese a sus niveles de simetría normales. ¿Por qué lo digo así? Porque no buscamos que el jugador tenga 0 % de asimetría, buscamos que vuelva a sus niveles de asimetría.",
+      "keywords": [
+        "fuerza",
+        "asimetrias",
+        "isquiotibiales",
+        "gimnasio",
+        "bfr",
+        "readaptacion"
+      ],
+      "entities": [
+        "BFR"
+      ],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es un error buscar el 0% de asimetría en un jugador tras una lesión?",
+        "¿Cómo se utiliza el BFR en la readaptación de isquiotibiales?"
+      ],
+      "related_terms": [
+        "Blood Flow Restriction",
+        "fuerza promedio",
+        "niveles de simetría"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis matemático del ratio agudo crónico en el retorno a los entrenamientos.",
+      "context_after": "Cruzar la información de gimnasio con las distancias de alta intensidad recorridas en campo antes del alta."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:17:28",
+      "end_timestamp": "00:18:54",
+      "start_seconds": 1048,
+      "end_seconds": 1134,
+      "duration_seconds": 86,
+      "timestamp_url": "?t=1048",
+      "title": "Validación de métricas de alta intensidad en campo",
+      "summary": "Antes de dar el alta final, se deben validar las métricas de alta intensidad en el campo. Si el perfil del jugador exige tocar altas velocidades, realizar una práctica de fútbol sin molestias y alcanzando los picos habituales funciona como el último checklist.",
+      "literal_quote": "Como era un jugador que tiene un perfil que toca 32 o 33 kilómetros... hizo el fútbol con el equipo y tocó casi 30 y no le molestó. Es un checklist más antes de que pueda jugar.",
+      "full_transcript": "Aquí es importante, en el return to play, creo que es un área en donde puedes hacer un macheo o juntar los diferentes tipos de cargas que mides. Entonces... aquí vemos cómo va progresando sus valores en alta intensidad... Vemos cómo va progresando en distancias, vemos cómo va progresando en aceleraciones, en frenados... sus picos de velocidad y sus distancias en alta intensidad. De hecho, aquí vemos el pico de velocidad. Vemos que es un jugador que no había tocado... Y el jugador ya no sentía ninguna molestia. Entonces, nace naturalmente la pregunta de si ya está para jugar o no. Como era un jugador que tiene un perfil que toca 32 o 33 kilómetros en un juego, si solo ha tocado 24 o 23, tienes esa duda de si está listo para tocar altas intensidades o no. Entonces, la siguiente sesión, cuando habíamos tenido esa discusión, fue que hiciera el fútbol con el equipo y ver qué velocidades tocaba. Tocó casi 30 y no le molestó. Es un checklist más antes de que pueda jugar.",
+      "keywords": [
+        "alta-intensidad",
+        "picos-velocidad",
+        "validacion-campo",
+        "return-to-play",
+        "checklist"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se utiliza un partido de práctica para validar el return to play?",
+        "¿Por qué es importante machear las cargas de gimnasio con las distancias a alta intensidad?"
+      ],
+      "related_terms": [
+        "pico de velocidad",
+        "distancias en alta intensidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Establecimiento de niveles de fuerza en el gimnasio.",
+      "context_after": "Sección final de conclusiones enfocada en herramientas y arquitectura de datos deportivos."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:18:56",
+      "end_timestamp": "00:23:07",
+      "start_seconds": 1136,
+      "end_seconds": 1387,
+      "duration_seconds": 251,
+      "timestamp_url": "?t=1136",
+      "title": "Centralización de datos e infraestructura en el club",
+      "summary": "Implementar ciencias del deporte requiere centralizar la información mediante herramientas en la nube como Tableau o Power BI. Las alertas deben desencadenar protocolos de recuperación y diálogo transparente con los jugadores en lugar de alarmismo.",
+      "literal_quote": "Saber dónde lo voy a subir, cómo lo voy a subir... Puede ser que usen un Tableau, puede ser que usen un Power BI... y que tengan ustedes sus protocolos de recuperación bien establecidos.",
+      "full_transcript": "Ya para concluir, para mí es muy importante que se queden siempre con estas preguntas antes de empezar a trabajar. Yo soy un sport scientist, ¿qué quiero hacer?... ¿Qué quiero monitorear?... ¿Qué herramientas tengo?... ¿Cómo y dónde voy a subir la información? Vital, porque no es tan fácil como luego la gente piensa. Si ya traje estos dispositivos... está esa nube y la nube no es apta para que la vean las diferentes áreas del club. Que tú puedas hacerles un reporte, que tú tengas cómo centralizar la información, para mí es tan importante como saber medirlo... Saber dónde lo voy a subir, cómo lo voy a subir, para mí es esencial y hay muchas herramientas. Puede ser que usen un Tableau, puede ser que usen un Power BI, que tengan un diseñador, puede ser que ustedes mismos lo diseñen... ¿Qué hago cuando tengo alertas?... ¿Voy y me asusto? Pues no, es parte de, siempre va a pasar. Tienes un grupo de 28 o 30 jugadores... Entonces, que sepan y que tengan ustedes sus protocolos de recuperación bien establecidos. ¿Cómo puedo explicar las alertas, que el jugador las entienda?... que te sirva para entablar conversación con las diferentes áreas y con ellos es muy importante.",
+      "keywords": [
+        "centralizacion-datos",
+        "nube",
+        "tableau",
+        "power-bi",
+        "protocolos-recuperacion",
+        "comunicacion"
+      ],
+      "entities": [
+        "Tableau",
+        "Power BI"
+      ],
+      "topics": [
+        "Data Science",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Consejos"
+      ],
+      "search_questions": [
+        "¿Qué herramientas de Business Intelligence se recomiendan para presentar datos deportivos?",
+        "¿Por qué es fundamental centralizar la información de los dispositivos GPS en el club?"
+      ],
+      "related_terms": [
+        "centralizar la información",
+        "protocolos de recuperación",
+        "Tableau",
+        "Power BI"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin del bloque práctico sobre validación en campo de jugadores lesionados.",
+      "context_after": "Agradecimientos y citas de autores bibliográficos para cerrar el webinar."
+    }
+  ]
+}

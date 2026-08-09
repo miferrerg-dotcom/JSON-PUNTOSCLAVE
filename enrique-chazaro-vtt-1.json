@@ -1,0 +1,339 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+    "speaker": "Enrique Cházaro",
+    "total_duration": "00:21:05",
+    "total_duration_seconds": 1265,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:00:49",
+      "end_timestamp": "00:03:04",
+      "start_seconds": 49,
+      "end_seconds": 184,
+      "duration_seconds": 135,
+      "timestamp_url": "?t=49",
+      "title": "Transición profesional y perfil analítico en ciencias del deporte",
+      "summary": "Enrique Cházaro relata su transición de matemático y estadista en un banco a analista de datos en el Club América. Destaca la importancia de complementar el análisis estadístico con formación técnica, incluyendo másteres en alto rendimiento y cursos de preparación física y nutrición.",
+      "literal_quote": "Antes de trabajar en el deporte era matemático y estadista... la idea es seguir creciendo y fortalecerme en la parte de ciencias del deporte.",
+      "full_transcript": "Mi nombre es Enrique Cházaro y tengo una historia peculiar, porque antes de trabajar en el deporte era matemático y estadista. Trabajaba en un banco y ya me gustaba la estadística aplicada, especialmente los datos deportivos. Entonces, empecé a ver que aplicar el dato deportivo era lo que yo quería hacer. Así fue como apliqué para el Club América. Empecé como analista de datos, un sport scientist del primer equipo varonil, y después fui creciendo. Me di cuenta de que había una gran área de oportunidad... Hoy en día soy head of sport science aquí dentro del club. Hice dos másters, uno de entrenador y uno de alto rendimiento deportivo. Tomé un curso de preparación física y he tomado muchos más cursos... Tomé también uno de nutrición, que me ha servido para entender un poco esa área de la que yo no tenía idea y la idea es seguir creciendo y fortalecerme en la parte de ciencias del deporte.",
+      "keywords": [
+        "sport-science",
+        "matematico",
+        "estadistica",
+        "analisis-datos",
+        "formacion",
+        "alto-rendimiento"
+      ],
+      "entities": [
+        "Enrique Cházaro",
+        "Club América"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Data Science"
+      ],
+      "content_type": [
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es el perfil académico de un Head of Sport Science?",
+        "¿Por qué es importante la formación multidisciplinar en análisis de datos deportivos?"
+      ],
+      "related_terms": [
+        "matemático",
+        "estadista",
+        "alto rendimiento",
+        "nutrición"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "El ponente introduce el rol del departamento de ciencias del deporte y su función facilitadora en la toma de decisiones."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:03:25",
+      "end_timestamp": "00:04:56",
+      "start_seconds": 205,
+      "end_seconds": 296,
+      "duration_seconds": 91,
+      "timestamp_url": "?t=205",
+      "title": "El rol centralizador del área de Ciencias del Deporte",
+      "summary": "Frente al crecimiento exponencial de la tecnología y los datos, el desafío es generar valor para la toma de decisiones. El Sport Scientist no toma la decisión final, pero actúa como un ente centralizador de información de diversas áreas para que el cuerpo técnico tome decisiones informadas.",
+      "literal_quote": "Nosotros no somos el área que toma la decisión final, pero como sí somos el área que centraliza y habla con todas, tiene un poco ese conocimiento de cada una, facilitamos que ellos puedan tomar una decisión más informada.",
+      "full_transcript": "Ya entrando en materia, esta frase creo que es lo que más me define y más nos define como área de sport scientist. No es mía, pero \"football is not science, but science can improve football\"... La tecnología ha crecido exponencialmente. Cada vez hay más y más datos, hay datos en tiempo real, datos por segundo, datos por minuto. Ahora el reto es qué hacemos con tanta información y cómo tomamos mejores decisiones, porque también es verdad que más información no necesariamente implica que el reporte sea mejor... El área de ciencias del deporte es un área que maneja toda esta información de diferentes áreas aplicadas al rendimiento. El objetivo, al menos dentro del club, es facilitar la toma de decisiones. Nosotros no somos el área que toma la decisión final, pero como sí somos el área que centraliza y habla con todas, tiene un poco ese conocimiento de cada una, facilitamos que ellos puedan tomar una decisión más informada.",
+      "keywords": [
+        "ciencia",
+        "tecnologia",
+        "datos",
+        "toma-decisiones",
+        "centralizacion",
+        "sport-science"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué función cumple el departamento de ciencias del deporte frente a la toma de decisiones?",
+        "¿Cómo se gestiona el exceso de datos en el fútbol de alto rendimiento?"
+      ],
+      "related_terms": [
+        "toma de decisiones",
+        "decisión informada",
+        "centralizar información"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente relata su experiencia profesional y su evolución dentro del club.",
+      "context_after": "Se presentan los cinco beneficios principales de monitorear las cargas de entrenamiento."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:04:58",
+      "end_timestamp": "00:09:23",
+      "start_seconds": 298,
+      "end_seconds": 563,
+      "duration_seconds": 265,
+      "timestamp_url": "?t=298",
+      "title": "Cinco beneficios clave del monitoreo de cargas",
+      "summary": "El monitoreo en tiempo real reemplaza la percepción subjetiva con datos. Sus cinco beneficios clave son: evaluar la sesión, adaptar planes (compensar cargas), personalizar estímulos, comparar tareas con el histórico y reforzar la estrategia del microciclo.",
+      "literal_quote": "Para mí estas cinco palabras son claves: evaluar la sesión, adaptar el plan, personalizar la carga o individualizar, comparar las tareas y reforzar la estrategia.",
+      "full_transcript": "Ahora, ¿por qué es importante medir las cargas? Antes... se tenía una idea muy clara en la parte física de que íbamos a hacer una hora de campo con estos objetivos... Pero no puedes estar 100 % seguro de si tu sesión cumplía con los objetivos. Monitorearlo nos permite observar detalladamente la sesión, verificar el proceso, la calidad de la sesión, que se cumplan los objetivos en el periodo establecido y aparte lo puedes hacer en tiempo real. Con esta información, para mí es evaluar el plan de trabajo propuesto. Como número dos, adaptar. Es necesario también adaptar el plan establecido según las necesidades... Puede ser que en tu siguiente sesión busques hacer un compensatorio de los jugadores que están quedando abajo. También puedes personalizar las tareas al máximo... todo el enfoque que sea individualizado. También puedes comparar las tareas con el histórico del jugador. Y reforzar la estrategia propuesta con datos objetivos... Para mí, estas cinco palabras son claves: evaluar la sesión, adaptar el plan, personalizar la carga o individualizar, comparar las tareas y reforzar la estrategia.",
+      "keywords": [
+        "monitoreo",
+        "evaluar",
+        "adaptar",
+        "personalizar",
+        "individualizar",
+        "comparar",
+        "estrategia"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios de medir las cargas de entrenamiento?",
+        "¿Qué cinco conceptos resumen el propósito del monitoreo en el fútbol?"
+      ],
+      "related_terms": [
+        "evaluar la sesión",
+        "adaptar el plan",
+        "personalizar la carga",
+        "histórico del jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe el rol del área de Ciencias del Deporte como un ente que centraliza información para la toma de decisiones.",
+      "context_after": "El ponente desglosa las diferencias entre carga externa e interna, junto a sus herramientas de medición."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:09:25",
+      "end_timestamp": "00:13:33",
+      "start_seconds": 565,
+      "end_seconds": 813,
+      "duration_seconds": 248,
+      "timestamp_url": "?t=565",
+      "title": "Diferenciación de métricas: Carga Externa vs. Interna",
+      "summary": "La carga externa mide objetivamente la cantidad de trabajo (volumen, distancia, velocidad) usando tecnología GPS como Catapult o Wimu. La carga interna evalúa el efecto fisiológico de esa carga en el jugador, utilizando herramientas como frecuencia cardíaca (Firstbeat), biomarcadores o escalas accesibles como el RPE.",
+      "literal_quote": "La carga externa es la más sencilla... consiste en medir la cantidad de trabajo o el volumen de la sesión. Luego viene la carga interna, que nos permite cuantificar el efecto de la carga externa en cada jugador.",
+      "full_transcript": "Ahora viene el monitoreo de las cargas, ¿qué podemos medir? Hoy en día... contamos con una gran cantidad de herramientas... Aquí yo lo divido rápidamente en dos, que serían carga interna y carga externa. Se puede medir la carga del entrenamiento de manera externa e interna. La carga externa es la más sencilla, la más intuitiva, que consiste en medir la cantidad de trabajo o el volumen de la sesión... Se necesita tecnología para hacerlo, obviamente... la carga externa medida con dispositivos de GPS. Catapult y Wimu son dos empresas muy famosas... Luego viene la carga interna, que nos permite cuantificar el efecto de la carga externa en cada jugador, en función de cómo ellos la están percibiendo... con la carga interna yo puedo ver cuánto le está afectando realmente o cuánto le está pegando a mi jugador esa carga. Firstbeat para medir la frecuencia cardíaca... biomarcadores... y por último... una tablita de RP... Del cero al 10 lo dividimos nosotros... El partido es nuestra máxima exigencia siempre.",
+      "keywords": [
+        "carga-externa",
+        "carga-interna",
+        "gps",
+        "frecuencia-cardiaca",
+        "rpe",
+        "biomarcadores",
+        "volumen",
+        "catapult"
+      ],
+      "entities": [
+        "Catapult",
+        "Wimu",
+        "Firstbeat"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre la carga interna y externa en el monitoreo deportivo?",
+        "¿Qué herramientas se usan para medir la carga interna y externa?"
+      ],
+      "related_terms": [
+        "cantidad de trabajo",
+        "volumen de la sesión",
+        "efecto de la carga externa",
+        "RPE"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan los beneficios del monitoreo, enfatizando la evaluación, adaptación y personalización de las cargas.",
+      "context_after": "Se muestran ejemplos prácticos de cómo los datos de carga externa se visualizan en reportes diarios y semanales."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:13:40",
+      "end_timestamp": "00:15:57",
+      "start_seconds": 820,
+      "end_seconds": 957,
+      "duration_seconds": 137,
+      "timestamp_url": "?t=820",
+      "title": "Estructura de reportes y umbral del 85% de velocidad máxima",
+      "summary": "Los datos se estructuran en reportes diarios, de evolución y acumulados de 7 días. Estos últimos son clave post-partido para identificar rezagos y planificar trabajos compensatorios, buscando siempre asegurar que el jugador alcance el 85% de su velocidad máxima en la semana.",
+      "literal_quote": "Para nosotros también es muy importante garantizar que el jugador esté tocando el 85 % de su velocidad máxima al menos unas veces por semana, sin contar el partido.",
+      "full_transcript": "La carga externa la dividí en estos tres: puedes hacer reportes diarios, reportes de evolución y reportes acumulados. El reporte diario... lo dividimos por jugador de cada actividad... Para nosotros también es muy importante garantizar que el jugador esté tocando el 85 % de su velocidad máxima al menos unas veces por semana, sin contar el partido. Y los reportes de evolución... Un jugador viene lastimado, qué números está alcanzando para que nosotros estemos un poco más seguros de que el jugador puede regresar a competir. Y la carga acumulada, que la vemos una vez a la semana, o más bien nos fijamos en los últimos siete días... Esto tal cual para ver los jugadores que están quedando abajo, cómo podemos compensar. Esto el lunes siempre te sirve... para planificar el jugador que va a hacer un trabajo compensatorio y el jugador que va a hacer un trabajo regenerativo. Y abajo de este... vemos la semana más intensa, la semana menos intensa y también nos sirve para planificar los días de la semana.",
+      "keywords": [
+        "reportes-diarios",
+        "reportes-acumulados",
+        "velocidad-maxima",
+        "trabajo-compensatorio",
+        "trabajo-regenerativo",
+        "microciclo"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el reporte de carga acumulada de 7 días?",
+        "¿Qué porcentaje de velocidad máxima debe buscarse tocar semanalmente?"
+      ],
+      "related_terms": [
+        "reportes de evolución",
+        "carga acumulada",
+        "trabajo compensatorio"
+      ],
+      "relevance_score": 4,
+      "context_before": "El ponente desglosa las diferencias entre carga externa e interna, junto a sus herramientas de medición.",
+      "context_after": "Transición hacia el análisis de carga interna pura, mostrando un caso práctico del uso de biomarcadores preventivos."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:16:02",
+      "end_timestamp": "00:17:30",
+      "start_seconds": 962,
+      "end_seconds": 1050,
+      "duration_seconds": 88,
+      "timestamp_url": "?t=962",
+      "title": "Prevención de lesiones mediante biomarcadores: Caso Práctico",
+      "summary": "Se expone el caso de un jugador cuyos biomarcadores (como el CK elevado) comenzaron a mostrar una 'tendencia roja' indicando fatiga sostenida. Al seguir compitiendo debido al calendario, el jugador se desgarró, demostrando el valor preventivo de medir marcadores sanguíneos en el club.",
+      "literal_quote": "A mediados de abril, el jugador ya empezó a tener una tendencia roja, terminaba los partidos muy fatigado y tenía, en este específico caso, el CK elevado... El jugador siguió jugando y se desgarró.",
+      "full_transcript": "Este ya es un ejemplo más de pura carga interna, que es lo que les decía con los biomarcadores... el jugador venía jugando en abril, tuvo varios partidos, sus biomarcadores eran bastante aceptables o estaban en su rango... a mediados de abril, el jugador ya empezó a tener una tendencia roja, terminaba los partidos muy fatigado y tenía, en este específico caso, el CK elevado, pero estábamos en un momento importante de la temporada. El jugador siguió jugando y se desgarró. Y aquí, de hecho, el pico más alto... es cuando el jugador ya estuvo lastimado y durante todo el proceso de la lesión seguimos tomando el biomarcador... ya cuando el jugador empezó a entrenar con nosotros y jugar, ya se normalizaron sus datos otra vez. Entonces, es importante enseñar este ejemplo porque creo que el biomarcador es un muy buen dato que si tienes la oportunidad de tomarlo en tu club, vale la pena que no lo desperdicies.",
+      "keywords": [
+        "biomarcadores",
+        "ck",
+        "tendencia-roja",
+        "fatiga",
+        "lesion",
+        "desgarro",
+        "prevencion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Lección aprendida"
+      ],
+      "search_questions": [
+        "¿Cómo pueden los biomarcadores predecir o advertir sobre una lesión inminente?",
+        "¿Qué indicador biológico muestra altos niveles de fatiga muscular (CK)?"
+      ],
+      "related_terms": [
+        "biomarcadores",
+        "tendencia roja",
+        "CK elevado",
+        "desgarro"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se muestran ejemplos prácticos de cómo los datos de carga externa se visualizan en reportes diarios y semanales.",
+      "context_after": "El análisis se mueve a cómo integrar el RPE y el ratio de Carga Aguda:Crónica para detectar fatiga con herramientas no invasivas."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Toma de decisiones a través del monitoreo de las cargas",
+      "speaker": "Enrique Cházaro",
+      "start_timestamp": "00:17:32",
+      "end_timestamp": "00:21:05",
+      "start_seconds": 1052,
+      "end_seconds": 1265,
+      "duration_seconds": 213,
+      "timestamp_url": "?t=1052",
+      "title": "Integración del RPE, Ratio Agudo:Crónico y protocolos de recuperación",
+      "summary": "Se cruza el RPE con el cuestionario de bienestar (sueño) y con la carga aguda:crónica. Una alta carga aguda y un RPE alto disparan alertas rojas, aplicando protocolos de recuperación (cámaras hiperbáricas, botas). Finalmente, se destaca la alta correlación entre Lactato-Frecuencia Cardíaca y HCR/Player Load-RPE.",
+      "literal_quote": "El jugador que está aquí marcado en rojo es un jugador que tiene una alta carga aguda crónica y un alto RP. Entonces al jugador se le hizo pesado, pero aparte viene arrastrando carga. Para nosotros es una alerta.",
+      "full_transcript": "Aquí tengo dos ejemplos más de lo que les decía del RP. En la primera vemos una imagen en que la sesión era de recuperación. Entonces, todos los jugadores tenían que estar en dos, máximo en tres... Cuando vemos un jugador que responde más, por ejemplo, aquí vemos uno que puso cuatro, vale la pena acercarte a ver qué está haciendo él, si durmió mal, que es algo que también lo recomiendo mucho, tener un cuestionario de bienestar de cuánto dormiste... Y este otro que tenemos es un dashboard que hacemos con la carga aguda crónica con respecto al RP, y el jugador que está aquí marcado en rojo es un jugador que tiene una alta carga aguda crónica y un alto RP. Entonces al jugador se le hizo pesado, pero aparte viene arrastrando carga. Para nosotros es una alerta. Y los jugadores que están en amarillo... es porque están marcando un RP alto, pero su carga aguda no es alta. Entonces ahí a veces adaptamos la sesión... Tenemos varios protocolos de recuperación con cámaras hiperbáricas, con botas, con contrastes... vemos cómo el lactato tiene una correlación altísima con la frecuencia cardíaca... normalmente cuando la sesión tiene mucho HCR, normalmente el RP es muy alto. Pasa lo mismo con HCR con Total Load, que es el RP con los minutos de la sesión. Y estas dos de abajo... juntan el RP con el Player Load. El Player Load es una métrica que junta aceleraciones, desaceleraciones, tiempo de la sesión y vemos una correlación bastante alta.",
+      "keywords": [
+        "rpe",
+        "bienestar",
+        "agudo-cronico",
+        "recuperacion",
+        "correlacion",
+        "hcr",
+        "player-load",
+        "lactato"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se relacionan el RPE y la carga aguda crónica para disparar alertas?",
+        "¿Qué protocolos de recuperación se utilizan tras detectar alertas de fatiga?",
+        "¿Cómo se correlacionan las métricas externas (Player Load, HCR) con las internas (RPE)?"
+      ],
+      "related_terms": [
+        "cuestionario de bienestar",
+        "carga aguda crónica",
+        "cámaras hiperbáricas",
+        "Player Load"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de un caso real donde los biomarcadores preventivos indicaron la fatiga previa a una lesión.",
+      "context_after": "Finalización del fragmento disponible."
+    }
+  ]
+}
