@@ -1,0 +1,290 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+    "speaker": "Enric Jiménez",
+    "total_duration": "00:21:59",
+    "total_duration_seconds": 1319,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:04:39",
+      "start_seconds": 0,
+      "end_seconds": 279,
+      "duration_seconds": 279,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Visión sistémica del alto rendimiento",
+      "summary": "Propone alejarse de la visión tradicional del alto rendimiento centrada únicamente en fisiología, fuerza o prevención de lesiones. Invita a entenderlo desde un nivel superior: cómo se estructura el equipo, cómo se lidera y qué lenguaje y cultura se construyen. Destaca la importancia de la claridad en los roles y el diseño de indicadores de rendimiento para retroalimentar al equipo.",
+      "literal_quote": "Hablemos desde un nivel superior del sistema, desde cómo es la estructura de un equipo, cómo se conforma un equipo de trabajo, cómo se lidera ese equipo de trabajo.",
+      "full_transcript": "Hola a todos, bienvenidos a este módulo de gestión en el alto rendimiento desde la estructura organizacional a la cultura del performance. Mi nombre es Enric Jiménez y hoy me gustaría que habláramos del alto rendimiento, pero desde una perspectiva diferente. Desde mi experiencia, hablaremos del alto rendimiento, sobre todo en los deportes de equipo y en específico en el fútbol, pero me gustaría que nos alejemos de la visión tradicional de la cual hablamos del alto rendimiento desde una perspectiva de la fisiología, de la fuerza, de la prevención de lesiones, de la gestión de la carga, y hablemos hoy desde otra dimensión. Hablemos desde un nivel superior del sistema, desde cómo es la estructura de un equipo, cómo se conforma un equipo de trabajo, cómo se lidera ese equipo de trabajo, cómo se comportan, qué se construye, qué lenguaje se construye, qué cultura se diseña desde el liderazgo hasta todas las personas que conforman el equipo de trabajo para llevar a ese equipo o a esos deportistas hasta el siguiente nivel.",
+      "keywords": [
+        "alto-rendimiento",
+        "estructura-organizacional",
+        "liderazgo",
+        "cultura",
+        "sistema"
+      ],
+      "entities": [
+        "Enric Jiménez"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Enric Jiménez sobre la visión sistémica del alto rendimiento?",
+        "¿Dónde se habla de superar la visión fisiológica tradicional en el deporte?",
+        "¿Cómo influye el liderazgo y la cultura en el éxito de un equipo?"
+      ],
+      "related_terms": [
+        "visión",
+        "sistémica",
+        "alto",
+        "rendimiento",
+        "estructura",
+        "organizacional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "Se ejemplifica cómo la acumulación de especialistas y grandes recursos en un club de fútbol no garantizan por sí solos el rendimiento final."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:04:40",
+      "end_timestamp": "00:07:46",
+      "start_seconds": 280,
+      "end_seconds": 466,
+      "duration_seconds": 186,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=280",
+      "title": "El sistema como motor del rendimiento",
+      "summary": "Tener un gran volumen de especialistas, recursos o el mejor talento no asegura el rendimiento deportivo final. El éxito reside en optimizar el engranaje del sistema multidisciplinar detrás de los jugadores, apoyado en roles claros, cultura sólida y designación de responsabilidades concretas.",
+      "literal_quote": "Teniendo las mejores piezas las probabilidades de éxito siempre son mayores, pero no necesariamente teniendo las mejores piezas, el rendimiento está asegurado.",
+      "full_transcript": "Cada vez hay mayores especialistas en los cuerpos técnicos, tenemos analistas de todos los tipos, tenemos auxiliares técnicos, especialistas en el balón parado, especialistas en el saque de banda. Tenemos preparadores físicos de diferentes perspectivas, preparadores físicos que se especializan en los datos, sport scientists. Pero una de las cosas que quiero concluir es que no solo los recursos y el talento son el único factor que determina el rendimiento final. Esa es la pregunta que quiero traer: ¿cuáles son algunos de los factores que nos pueden ayudar a determinar este rendimiento? Y uno de los que hoy quiero hablar es justo ese, es la frase que pongo abajo, es el sistema. Cómo teniendo las mejores piezas somos capaces de optimizar el sistema, cómo hacemos que ese sistema funcione y que engrane de la mejor manera para que el rendimiento de nuestros jugadores en el campo sea el mejor. Cómo la construcción de esa cultura, cómo la construcción de esa interacción entre el equipo de trabajo, cómo esa determinación clara de roles, cómo esa determinación de procesos claros, cómo esa designación de responsabilidades, cómo todo eso va a ayudar a que el sistema sea la base del rendimiento de cualquier equipo deportivo.",
+      "keywords": [
+        "sistema",
+        "optimizacion",
+        "talento",
+        "recursos",
+        "cultura",
+        "roles"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué los recursos y el talento no aseguran el rendimiento final en un equipo?",
+        "¿Cómo se optimiza el sistema multidisciplinar detrás de los jugadores?"
+      ],
+      "related_terms": [
+        "sistema",
+        "rendimiento",
+        "optimización",
+        "recursos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de pasar de una visión fisiológica a una sistémica.",
+      "context_after": "Se aborda la llegada a una nueva organización y la necesidad de entender la realidad (el territorio) antes de imponer cambios (el mapa)."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:07:47",
+      "end_timestamp": "00:13:59",
+      "start_seconds": 467,
+      "end_seconds": 839,
+      "duration_seconds": 372,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=467",
+      "title": "Aterrizaje organizativo: El mapa no es el territorio",
+      "summary": "Al integrarse a una organización, es vital comprender que la cultura declarada y los organigramas formales no siempre reflejan los comportamientos reales. Apoyándose en el concepto de 'Los primeros 90 días', se sugiere un equilibrio entre pasividad e hiperactividad, evaluando las expectativas de líderes y staff mientras se logran pequeñas victorias que generen credibilidad.",
+      "literal_quote": "Es importante entender cómo es el territorio. Que el mapa no determine el concepto y no determine nada más el camino, sino que entendamos primero el territorio para poder determinar justo ese mapa.",
+      "full_transcript": "Este concepto del mapa no es el territorio. Es importante porque lo más habitual es que llegamos a una organización y lo primero que queremos es empezar a tomar decisiones. Lo primero que nos exigen es empezar a cambiar cosas, empezar a determinar un diagnóstico. Y lo más importante es entender que no siempre lo que vemos es exactamente lo que es. No siempre la metodología de la que se habla de esa organización, de esa empresa o de ese equipo es necesariamente lo que se da. No necesariamente los valores de los que se habla son los que se comportan. De la misma manera, no siempre el organigrama que se dibuja o el organigrama que nos presentan cuando llegamos es realmente la dinámica de cómo se comporta. En esta primera parte voy a usar de referencia el libro de \"Los primeros 90 días\" de Michael Watkins. Es clave en este proceso encontrar un equilibrio, como decía anteriormente, entre la hiperactividad y la pasividad. Ni querer tomar decisiones muy rápido que luego nos podamos arrepentir o nos puedan pasar factura, ni dejar que pasen los días sin que sucedan cosas y que eso también nos pueda jugar en contra. Cuáles son los objetivos, no solo de la organización, sino también de los líderes de la organización, qué es lo que esperan de la organización y de nosotros llegando a esta organización. Y no solo eso, sino como pone Michael Watkins en su proceso, conocer no solo las expectativas de los líderes, sino también de tu equipo de trabajo. Importantes también esas primeras victorias, cómo podemos ir logrando ciertos hitos en este proceso mientras vamos haciendo el diagnóstico, que nos construyan esa credibilidad.",
+      "keywords": [
+        "aterrizaje",
+        "primeros-90-dias",
+        "mapa-territorio",
+        "diagnostico",
+        "credibilidad",
+        "cultura"
+      ],
+      "entities": [
+        "Michael Watkins"
+      ],
+      "topics": [
+        "Evaluación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué significa que el mapa no es el territorio al llegar a un nuevo club?",
+        "¿Por qué son importantes las primeras victorias en los primeros 90 días?"
+      ],
+      "related_terms": [
+        "aterrizaje",
+        "organización",
+        "cultura",
+        "credibilidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló que el engranaje del sistema es la verdadera base del rendimiento.",
+      "context_after": "Se presenta el 'Análisis GAP' como la herramienta específica para ejecutar el diagnóstico del territorio encontrado."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:14:00",
+      "end_timestamp": "00:17:40",
+      "start_seconds": 840,
+      "end_seconds": 1060,
+      "duration_seconds": 220,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=840",
+      "title": "Diagnóstico y estructuración a través del Análisis GAP",
+      "summary": "El Análisis GAP permite auditar procesos del club (evaluación, readaptación, hidratación, etc.) categorizándolos por niveles: básico, estándar, avanzado y líder. Facilita visualizar dónde está el departamento, hacia dónde debe ir y estimar la inversión de recursos y tiempo necesarios para alcanzar el nuevo estándar.",
+      "literal_quote": "Este análisis gap lo que nos permite es... entender en dónde estamos, delimitar una serie de niveles a través de los cuales queremos llegar para tener claro dónde estamos, dónde queremos llegar y qué se necesita para ir de un nivel al otro nivel.",
+      "full_transcript": "Una buena herramienta que podríamos usar para este diagnóstico inicial es este análisis gap. Este análisis gap lo que nos permite es, a través del establecimiento metodológico de las diferentes líneas que queremos trabajar, entender en dónde estamos, delimitar una serie de niveles a través de los cuales queremos llegar para tener claro dónde estamos, dónde queremos llegar y qué se necesita para ir de un nivel al otro nivel. Esto sería un ejemplo de un análisis gap a través de la determinación de cuatro niveles: básico, estándar, avanzado y líder. Hemos determinado una serie de procesos metodológicos que son los que queremos analizar, los que queremos determinar el diagnóstico, como el desarrollo atlético a largo plazo, como el entrenamiento en campo, el entrenamiento coadyuvante, la evaluación, la recuperación, la readaptación de lesiones, la hidratación, el servicio de alimentación. Con este análisis tendremos que establecer los niveles básico, estándar, avanzado, líder o los que nosotros queramos, para entender en cuál de ellos estamos. Y luego vendrá esta segunda diapositiva, que es la que nos determinará para pasar del básico al estándar, cuánto tiempo necesitamos, cuáles son los recursos, cuál es la inversión que se necesita para lograr esos recursos.",
+      "keywords": [
+        "gap-analysis",
+        "diagnostico",
+        "niveles",
+        "recursos",
+        "inversion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es y para qué sirve el análisis GAP en la gestión deportiva?",
+        "¿Cómo se categorizan los procesos dentro de un análisis GAP estructural?"
+      ],
+      "related_terms": [
+        "análisis",
+        "gap",
+        "diagnóstico",
+        "procesos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la fase de observación inicial para comprender las necesidades y cultura del club.",
+      "context_after": "Se explica cómo presentar los resultados de este GAP Analysis a los directivos para justificar la necesidad de inversión."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:17:41",
+      "end_timestamp": "00:20:11",
+      "start_seconds": 1061,
+      "end_seconds": 1211,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1061",
+      "title": "Retorno de Inversión (ROI) derivado de la mejora de procesos",
+      "summary": "Es fundamental transmitir a la directiva que la inversión económica para elevar los procesos del Análisis GAP se traduce en retornos tangibles, como mayor disponibilidad de la plantilla y optimización financiera. En la recuperación, evolucionar de un nivel básico (crioterapia simple) a un perfil líder (perfiles térmicos individualizados, genética) exige inversión, pero aumenta sustancialmente el rendimiento.",
+      "literal_quote": "Ahí es importante que tengamos claro cómo el avance de estos procesos va a tener un regreso de la inversión en disponibilidad de jugadores, en posible venta de jugadores más robustos.",
+      "full_transcript": "Este mismo gap analysis será importante normalmente cuando vayamos a presentarlo con directivos, con presidentes, nos van a pedir: \"Okey, y esto, ¿qué me va a dar a largo plazo? Si yo aquí pongo tanto en la bolsa, ¿cómo después esto me va a generar un regreso?\" Y ahí es importante que tengamos claro cómo el avance de estos procesos va a tener un regreso de la inversión en disponibilidad de jugadores, en posible venta de jugadores más robustos. En procesos más optimizados a nivel inversión, podemos hacer lo mismo con menos inversión, en cómo los jugadores van a rendir más, cómo vamos a obtener un mejor rendimiento, una mejor recuperación. Hablemos de un ejemplo: la recuperación. Como estamos en un estado básico, lo que podemos invertir es lo básico, recuperación básica a través de la crioterapia, a través de medios pasivos básicos con poca inversión, o cómo podemos llegar al nivel líder, al nivel en como al análisis de la genética, el análisis de perfiles de jugadores que se recuperan rápido o perfiles térmicos. Esa individualización máxima genética en base al perfil, en base a las estrategias líderes, nos va a aportar algo a largo plazo, pero necesita de una inversión previa.",
+      "keywords": [
+        "retorno-inversion",
+        "roi",
+        "directivos",
+        "individualizacion",
+        "recuperacion",
+        "genetica"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo se justifica económicamente el avance estructural en un equipo de fútbol ante los presidentes?",
+        "¿Qué diferencia existe entre un nivel básico y uno líder en estrategias de recuperación?"
+      ],
+      "related_terms": [
+        "retorno",
+        "inversión",
+        "rendimiento",
+        "recuperación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detallaron los niveles básico, estándar, avanzado y líder del Análisis GAP.",
+      "context_after": "Se concluye proponiendo un mapa concreto de inversión donde el principal activo son las personas y el desarrollo continuo del equipo técnico."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Gestión en el alto rendimiento: desde la estructura organizacional a la cultura del performance",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:20:12",
+      "end_timestamp": "00:21:59",
+      "start_seconds": 1212,
+      "end_seconds": 1319,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1212",
+      "title": "El mapa de inversión: desarrollo integral del Staff",
+      "summary": "La base del crecimiento de la organización recae en invertir en la formación continua del equipo. Se debe priorizar el desarrollo vertical (capacitar en habilidades técnicas exactas como Power BI o programación) y horizontal (dotar de habilidades blandas y liderazgo a perfiles clave) para consolidar estructuras robustas de alto rendimiento a través de los años.",
+      "literal_quote": "Cómo a través de la inversión en personas, probablemente siempre la base de la pirámide, de la inversión en equipo y de la inversión en formación, desarrollo de personas...",
+      "full_transcript": "Vemos otro ejemplo de cómo desde el análisis GAP lo podemos aterrizar en un posible mapa de inversión que nos permita entender cómo a través de la inversión en personas, probablemente siempre la base de la pirámide, de la inversión en equipo y de la inversión en formación, desarrollo de personas, ya sea desarrollo vertical, que desarrollemos sus capacidades para ejecutar exactamente lo que su job description o sus funciones necesitan. Por ejemplo, un preparador físico especialista en análisis de datos, cómo le vamos a dar formación en Power BI o formación en programación para que haga mejor sus funciones, o formación horizontal, cómo le damos más herramientas para ser más robusto, el desarrollo de un doctorado, el desarrollo de actividades paralelas, de habilidades blandas, de habilidades de liderazgo, si vamos a conformar un proyecto alrededor de él, del desarrollo de un área de sport science. Entonces, cómo a través de eso vamos a ir logrando el paso de toda nuestra organización y de nuestros procesos, de los niveles más básicos, a ir logrando esos niveles de los que estábamos hablando con el paso de los meses, de los años, de los semestres.",
+      "keywords": [
+        "desarrollo-vertical",
+        "desarrollo-horizontal",
+        "formacion",
+        "staff",
+        "habilidades-blandas",
+        "power-bi"
+      ],
+      "entities": [
+        "Power BI"
+      ],
+      "topics": [
+        "Staff Management",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué es el desarrollo vertical y horizontal dentro de un staff técnico?",
+        "¿Por qué la capacitación continua de las personas es la base de la pirámide de rendimiento?"
+      ],
+      "related_terms": [
+        "inversión",
+        "personas",
+        "desarrollo",
+        "formación"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente argumentó el ROI derivado de mejorar procesos concretos como la recuperación individualizada.",
+      "context_after": "Se da paso a la revisión de este mapa a lo largo de los torneos para establecer objetivos de proceso y resultado."
+    }
+  ]
+}

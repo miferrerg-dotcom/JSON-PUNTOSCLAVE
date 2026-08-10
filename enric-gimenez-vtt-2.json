@@ -1,0 +1,340 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+    "speaker": "Enric Jiménez",
+    "total_duration": "00:20:21",
+    "total_duration_seconds": 1221,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:00",
+      "end_timestamp": "04:25",
+      "start_seconds": 0,
+      "end_seconds": 265,
+      "duration_seconds": 265,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "De la interdisciplinariedad a la transdisciplinariedad",
+      "summary": "Se expone la necesidad de crear una red integrada de especialistas en el alto rendimiento para sostener el desarrollo deportivo. Se explica la evolución desde disciplinas fragmentadas, pasando por la interdisciplinariedad, hasta llegar a la transdisciplinariedad, un modelo donde se asume la complejidad del problema desde el principio, buscando soluciones conjuntas a través de un lenguaje común y decisiones integradas.",
+      "literal_quote": "El objetivo final no es el entendimiento del problema desde diferentes disciplinas y el mezclarlas, sino entender desde un principio la complejidad del problema y buscar soluciones a través de un lenguaje común.",
+      "full_transcript": "Quise empezar esta segunda parte de nuestra charla con este proverbio: si quieres ir rápido, ve solo, pero si quieres llegar lejos, ve acompañado. Tenemos claro que el entorno de alto rendimiento, sobre todo en el fútbol y en el básquet, donde hay una alta rotación de los cuerpos técnicos, ese equipo que estamos detrás de los jugadores y de los cuerpos técnicos, somos los que le damos el proceso y la continuidad al desarrollo deportivo. Somos los que sostenemos al equipo y su rendimiento. En este módulo vamos a profundizar en cómo somos capaces de generar esa red entre nutricionista, psicólogo, preparadores físicos, sport scientists, médicos, fisios y readaptadores, para que con el tiempo ese rendimiento se vaya sosteniendo. En el alto deporte las demandas cada vez son más altas y el deporte es mucho más complejo. Vamos a introducir primero este concepto de la transdisciplinariedad. Desde entender la disciplinariedad, en cómo vemos el problema desde diferentes disciplinas y entendiéndolo totalmente fragmentado, en silos. A medida que entra la interdisciplinariedad es donde empezamos a interactuar unas disciplinas con otras para entender mejor el problema. Pero el objetivo es llegar a este concepto de la transdisciplinariedad, en donde el objetivo final no es el entendimiento del problema desde diferentes disciplinas y el mezclarlas, sino entender desde un principio la complejidad del problema y buscar soluciones a través de un lenguaje común, de áreas que verdaderamente participan de manera integrada y que las decisiones se van tomando en manera conjunta.",
+      "keywords": [
+        "transdisciplinariedad",
+        "interdisciplinariedad",
+        "red-trabajo",
+        "lenguaje-comun",
+        "rendimiento",
+        "complejidad"
+      ],
+      "entities": [
+        "Enric Jiménez"
+      ],
+      "topics": [
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencias existen entre interdisciplinariedad y transdisciplinariedad en el deporte?",
+        "¿Por qué es importante un lenguaje común entre especialistas según Enric Jiménez?"
+      ],
+      "related_terms": [
+        "transdisciplinariedad",
+        "interdisciplinariedad",
+        "disciplinariedad",
+        "lenguaje común",
+        "complejidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte de la charla sobre gestión en alto rendimiento.",
+      "context_after": "El ponente ilustra cómo históricamente estas disciplinas se fueron sumando a los cuerpos técnicos, comenzando por la medicina."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "04:26",
+      "end_timestamp": "06:32",
+      "start_seconds": 266,
+      "end_seconds": 392,
+      "duration_seconds": 126,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=266",
+      "title": "Evolución histórica y retos de las ciencias del deporte",
+      "summary": "Repaso a la progresiva incorporación de especialistas en los equipos deportivos de alto rendimiento. En la cultura anglosajona, la medicina fue pionera, seguida de áreas como la preparación física o la psicología. El gran desafío moderno es sincronizar a toda esta gama de expertos bajo una visión transdisciplinar para abordar problemas complejos, como la gestión del calendario competitivo.",
+      "literal_quote": "Tenemos especialistas de muchas cosas, pero ¿cómo los hacemos trabajar bajo esta transdisciplinariedad, bajo este lenguaje común?",
+      "full_transcript": "Ese es el concepto que ha ido evolucionando a través de la aparición de las diferentes ciencias. En el fútbol, si buscamos en los diferentes libros, sobre todo si hablamos de una cultura más anglosajona, es lo mismo que fue pasando. La primera ciencia que fue apareciendo del lado de los entrenadores fue la medicina. Cómo después de que el entrenador tuviera un médico, fueron apareciendo los diferentes roles y cómo fue apareciendo el fisio, el preparador físico, el nutricionista, el psicólogo. Eso no quiere decir que esas disciplinas son nuevas, sino que poco a poco han ido apareciendo y adquiriendo un rol más importante en el deporte, llegando al momento en donde estamos hoy, en donde tenemos especialistas de muchas cosas, pero ¿cómo los hacemos trabajar bajo esta transdisciplinariedad, bajo este lenguaje común? Si hablamos de planificación, ¿cómo se entiende la planificación desde un mismo lenguaje común? Entendemos el problema de la dificultad del calendario y cómo juntos, a través de los diferentes conocimientos psicológicos, nutricionales y médicos, podemos dar una solución compleja a un problema que es complejo y podemos encontrar soluciones como equipo de trabajo.",
+      "keywords": [
+        "ciencias-deporte",
+        "evolucion",
+        "calendario",
+        "planificacion",
+        "especialistas",
+        "cultura-anglosajona"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál fue la primera ciencia médica incorporada formalmente en los equipos de fútbol?",
+        "¿Cómo se resuelve de forma transdisciplinar el reto del calendario deportivo?"
+      ],
+      "related_terms": [
+        "medicina",
+        "preparador físico",
+        "psicólogo",
+        "nutricionista",
+        "calendario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se definió el concepto de transdisciplinariedad como abordaje central del alto rendimiento.",
+      "context_after": "Se inicia la reflexión sobre cómo estructurar organizacionalmente a este equipo multidisciplinar para que logre operar transdisciplinarmente."
+    },
+    {
+      "id": "WEBVTT-2-003",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "06:32",
+      "end_timestamp": "09:24",
+      "start_seconds": 392,
+      "end_seconds": 564,
+      "duration_seconds": 172,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=392",
+      "title": "Tipos de organigramas y la inexistencia de una estructura ideal",
+      "summary": "Se establece que no existen organigramas perfectos, sino estructuras que se amoldan a la cultura, país y negocio del club. Contrastan las organizaciones piramidales (con roles muy definidos pero lentitud decisional) con las estructuras planas o en red, típicas de entornos dinámicos, que aceleran la toma de decisiones pero conllevan el riesgo de ambigüedad en responsabilidades.",
+      "literal_quote": "Lo importante es entender que no hay estructuras, organizaciones u organigramas ideales. Lo que sí encontraremos es estructuras, procesos u organigramas que se alinean de mejor o de peor manera a cada uno de los contextos.",
+      "full_transcript": "La siguiente pregunta que nos pudiéramos hacer es: ¿cómo podemos diseñar nuestro equipo de trabajo desde la estructura inicialmente para que se dé este concepto? Quiero empezar con el mensaje final. Lo importante es entender que no hay estructuras, organizaciones u organigramas ideales. Lo que sí encontraremos es estructuras, procesos u organigramas que se alinean de mejor o de peor manera a cada uno de los contextos de los sistemas. Lo que tenemos que entender, principalmente, es la cultura del país, la cultura de las personas, la cultura de esa organización. No es lo mismo una organización deportiva de las que estamos hablando aquí, que son muy dinámicas, que tienes muchas áreas diferentes, que una organización quizás más rígida, más mecanicista. Entender desde los tipos de organización, organigramas piramidales, los matriciales, divisionales en red. A veces los sistemas más tradicionales, con organigramas piramidales, tienden a tener mucha claridad de roles, pero se pueden convertir en lentos. Cuando son estructuras más planas, más habituales en el alto rendimiento, las decisiones tienden a ser más rápidas. Cuando hablamos ya de sistemas complejos en tipo red, en donde tenemos liderazgo por proyectos. Eso puede generar mucha velocidad de toma de decisiones, pero puede generar dudas, que no haya claridad en los procesos y eso genere malos entendidos.",
+      "keywords": [
+        "organigrama",
+        "estructura-piramidal",
+        "estructura-plana",
+        "toma-decisiones",
+        "cultura-organizacional",
+        "liderazgo-proyectos"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué se afirma que no existe una estructura organizativa ideal en el deporte?",
+        "¿Qué ventajas y desventajas tiene un organigrama en red frente a uno piramidal?"
+      ],
+      "related_terms": [
+        "organigrama",
+        "estructura piramidal",
+        "matriz",
+        "cultura",
+        "velocidad de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la evolución de los distintos roles y la necesidad de trabajar bajo un lenguaje transdisciplinar.",
+      "context_after": "Se detalla la necesidad de balancear precisamente estos dos factores: velocidad de acción frente a claridad operativa."
+    },
+    {
+      "id": "WEBVTT-2-004",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "09:24",
+      "end_timestamp": "11:34",
+      "start_seconds": 564,
+      "end_seconds": 694,
+      "duration_seconds": 130,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=564",
+      "title": "El balance crítico entre velocidad de decisión y claridad de procesos",
+      "summary": "Diseñar la organización requiere equilibrar la agilidad decisional y la claridad operativa. Si el sistema es muy rígido, se vuelve lento; si es muy plano sin claridad, genera ambigüedad y conflictos. También se señala que pueden coexistir distintos organigramas simultáneamente (la organización general jerárquica frente a un área de rendimiento que opera en red).",
+      "literal_quote": "Ese equilibrio entre velocidad de toma de decisiones y claridad de los procesos. Esos dos tienen que estar balanceados, porque si uno de los dos se nos desequilibra, es donde el proceso empieza a hacer aguas.",
+      "full_transcript": "Encontrar ese equilibrio es justo lo que necesitamos para que en la estructura dentro de la organización en la que trabajamos funcione esa toma de decisiones. Incluso puede haber diferentes organigramas o dos tipos de organigramas, uno dentro del otro, siendo una estructura jerárquica, pero dentro de una división en concreto, se comportan de manera en red o de manera matricial. Una empresa que sea dueña de un equipo de fútbol puede tener un organigrama de una manera en toda la organización y justo de la parte deportiva se comporta de otra. Y dentro de la estructura deportiva, el equipo de performance sea justo de una tercera manera. Lo que tenemos que ir diseñando es para encontrar ese equilibrio entre velocidad de toma de decisiones y claridad de los procesos. Esos dos tienen que estar balanceados, porque si uno de los dos se nos desequilibra, es donde el proceso empieza a hacer aguas y donde empieza a no ser sostenible en el tiempo. Porque si no hay suficiente claridad, eso empieza a generar dudas, conflictos y termina explotando. Si las decisiones tienden a ser muy lentas, lo mismo, termina generando conflictos y explotando por otro lado. Sistemas que tienen estructuras piramidales muy fuertes tienen unas ventajas muy buenas para la claridad, pero luego tienden a ser muy lentos, haciendo que no se alineen con la cultura del entorno deportivo, que es dinámica, compleja, cambiante.",
+      "keywords": [
+        "equilibrio",
+        "velocidad-decision",
+        "claridad-procesos",
+        "sostenibilidad",
+        "organigramas-coexistentes",
+        "dinamismo"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué los procesos lentos son perjudiciales en un equipo deportivo?",
+        "¿Cómo pueden coexistir diferentes organigramas dentro de una misma institución deportiva?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "claridad",
+        "decisiones",
+        "procesos",
+        "sostenibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron los distintos tipos de organigrama y sus pros y contras intrínsecos.",
+      "context_after": "Se analizan modelos teóricos de la literatura deportiva, mostrando organigramas bicefálicos y holárquicos."
+    },
+    {
+      "id": "WEBVTT-2-005",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "11:35",
+      "end_timestamp": "15:45",
+      "start_seconds": 695,
+      "end_seconds": 945,
+      "duration_seconds": 250,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=695",
+      "title": "Modelos estructurales en la literatura deportiva y coordinaciones",
+      "summary": "Analizando literatura científica, se muestran opciones estructurales: modelos divisionales (un director general), bicefálicos (jefaturas médica y de rendimiento al mismo nivel) u holárquicos (totalmente planos). Se enfatiza que al crecer los departamentos, se requieren mandos intermedios cada 5-6 personas para coordinar información. Además, la naturaleza del líder (enfocado a salud o a rendimiento) alterará toda la dinámica inferior.",
+      "literal_quote": "A medida que ya hay más de una unidad, hay que generar coordinaciones intermedias para que se mantenga el lineamiento de las diferentes metodologías, comunicación, reporte e información.",
+      "full_transcript": "Vamos a ver algunos ejemplos basados en la literatura más reciente. Vemos justo aquí cómo propone diferentes tipos de estructuras. Estructuras con un organigrama, quizás más divisional, con un director de alto rendimiento y sus coordinadores. Pero luego también podemos tener un organigrama bicéfalo, donde tenemos un jefe médico y un jefe de alto rendimiento que trabajan a la par, reportando ante un director deportivo. O un organigrama holárquico, en donde todos están al mismo nivel, totalmente plano. Cuanto más plana es la estructura, más va a permitir velocidad de decisiones, pero va a generar quizás ambigüedad. Si se genera ambigüedad: ¿quién toma esto? ¿Quién tiene la última palabra? También hay que ir con cuidado en que esos equipos de trabajo pueden llegar a ser muy grandes. Normalmente, se habla que dentro de cada coordinador tiene una unidad de cinco o seis personas, que a medida que ya hay más de una unidad, hay que generar coordinaciones intermedias para que se mantenga el lineamiento de las diferentes metodologías, comunicación, reporte, información y proceso. También es importante entender la duplicidad de cargos, cuando personas están ejecutando en campo y liderando. En otro artículo vemos estructuras bicefálicas y unicefálicas lideradas por un tipo de líder diferente: un líder más orientado al rendimiento, o un líder más orientado a la salud. En función de ese líder también las coordinaciones por abajo van a tener que comportarse de una manera diferente. Todo basado en cuál es la cultura, cómo se comporta esta organización y los objetivos.",
+      "keywords": [
+        "organigrama-bicefalo",
+        "holarquico",
+        "coordinacion",
+        "liderazgo-salud",
+        "liderazgo-rendimiento",
+        "unidades-trabajo"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué es una estructura bicefálica en el alto rendimiento deportivo?",
+        "¿Cuándo es necesario crear coordinaciones intermedias en un departamento de rendimiento?",
+        "¿Cómo afecta el perfil del líder al funcionamiento general del área?"
+      ],
+      "related_terms": [
+        "bicefálico",
+        "unicefálico",
+        "holárquico",
+        "coordinaciones",
+        "liderazgo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló el reto de equilibrar velocidad de acción y claridad procesal en cualquier organigrama.",
+      "context_after": "Se presenta el desafío añadido de integrar dentro de esta estructura a los cuerpos técnicos que van rotando."
+    },
+    {
+      "id": "WEBVTT-2-006",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "15:46",
+      "end_timestamp": "17:48",
+      "start_seconds": 946,
+      "end_seconds": 1068,
+      "duration_seconds": 122,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=946",
+      "title": "Adaptabilidad de la estructura ante cuerpos técnicos transitorios",
+      "summary": "Las estructuras estables de un club enfrentan el reto constante de amoldarse a los nuevos cuerpos técnicos (entrenadores y preparadores físicos) que llegan con un alto poder jerárquico. La fluidez de esta adaptación es un claro indicador del éxito institucional y de la madurez de la estructura organizativa.",
+      "literal_quote": "Esta estructura normalmente tiene un orden jerárquico y un orden en los procesos, siempre se tiene que adaptar a un orden jerárquico que se ve totalmente desestructurado con la llegada de cuerpos técnicos transitorios.",
+      "full_transcript": "Y por último, algo muy importante, es que también este sistema se adapta al entorno del cuerpo técnico que está a cargo en el equipo. Más allá de que esta estructura normalmente tiene un orden jerárquico y un orden en los procesos, siempre se tiene que adaptar a un orden jerárquico que se ve totalmente desestructurado con la llegada de cuerpos técnicos transitorios que llegan y tienen normalmente un alto poder jerárquico. El entrenador, el preparador físico, los auxiliares que llegan, y cómo la estructura de rendimiento se adapta a eso. En cada uno de los clubes es diferente. Hay clubes donde el preparador físico siempre será de la organización. Habrá otras organizaciones en donde el preparador físico se alinea de manera paralela con el director de rendimiento, y en otros en donde este preparador físico llega a tener un poder jerárquico sobre esta estructura. Cómo la organización tiene que establecerse y adaptarse para que esos procesos sigan funcionando. Hay cuerpos técnicos que ojalá siempre funcionaran por 20 años. Y eso normalmente es un indicador de rendimiento de que la estructura funciona muy bien, de que están claras las metas, los objetivos, de que las personas que llegaron se adaptaron a las necesidades a corto, medio y largo plazo de la organización. Pero eso no es tan habitual, desgraciadamente hoy en los deportes de alto rendimiento.",
+      "keywords": [
+        "cuerpos-tecnicos",
+        "transitorios",
+        "adaptabilidad",
+        "jerarquia",
+        "indicadores-rendimiento",
+        "rotacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Caso de uso"
+      ],
+      "search_questions": [
+        "¿Qué impacto tiene la llegada de un nuevo cuerpo técnico en la estructura de rendimiento de un club?",
+        "¿Cuáles son los indicadores de éxito de la organización frente a los entrenadores temporales?"
+      ],
+      "related_terms": [
+        "cuerpo técnico",
+        "jerarquía",
+        "adaptación",
+        "transitorio",
+        "indicador de rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se mostraron varios modelos de organigramas y la necesidad de coordinadores intermedios.",
+      "context_after": "Se presenta como ejemplo final el caso del City Football Group y su directiva de rendimiento a escala global."
+    },
+    {
+      "id": "WEBVTT-2-007",
+      "video_title": "Gestión en el alto rendimiento: Transdisciplinariedad y Estructuras Organizacionales",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "17:49",
+      "end_timestamp": "20:21",
+      "start_seconds": 1069,
+      "end_seconds": 1221,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1069",
+      "title": "Multiestructura y transformación cultural: El caso City Football Group",
+      "summary": "Se ejemplifica con la macroestructura del City Football Group, en la que un director global busca alinear metodologías en todos los equipos internacionales adquiridos por el grupo. El mayor desafío de este rol no es técnico, sino cultural: lograr encajar y evolucionar la cultura local de cada organización para potenciar el máximo rendimiento bajo las nuevas directrices.",
+      "literal_quote": "Lo difícil de ese puesto será cómo adaptamos esta misma metodología a la cultura del país, de esa organización en concreto, y empezó a transformar la cultura de esa organización.",
+      "full_transcript": "Vemos aquí dos ejemplos más de organización. Del lado derecho, un ejemplo de un organigrama hecho público por el City Football Group, en donde entendemos que dentro de un organigrama de rendimiento, donde hay un director de rendimiento, tenemos directores de rendimiento para cada una de las estructuras. Cabezas que se encargan desde la academia, primer equipo masculino, femenino, e incluso un director paralelo de salud y rendimiento que se encarga de que los equipos de este mismo grupo, que no son el City, se alineen a estos mismos procesos y sigamos esta misma estructura. Lo difícil de ese puesto será cómo adaptamos esta misma metodología adaptada a lo que decíamos antes, a la cultura del país, de esa organización en concreto, que tenía seguramente una cultura y en el momento en que la compró el City Group, empezó a transformar la cultura de esa organización. ¿Hacia dónde? No lo sabemos, solo se puede saber estando allá y entendiendo cómo fue esa historia, cómo se fueron comportando, qué es lo que se empezó a decir, cuál es la diferencia entre lo que se decía y lo que realmente se hacía. Todo eso es cómo se fue conformando esa cultura y cómo la fuimos evolucionando hacia una cultura que nos permita sacar el máximo rendimiento de los jugadores. Y eso lo vamos a terminar de profundizar en el tercer bloque de esta charla, en el cual vamos a profundizar en la cultura organizacional, en cómo entenderla, en cómo desgranarla y en cómo poder transformarla a través del liderazgo.",
+      "keywords": [
+        "city-football-group",
+        "multiestructura",
+        "transformacion-cultural",
+        "metodologia",
+        "liderazgo",
+        "cultura-organizacional"
+      ],
+      "entities": [
+        "City Football Group"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo estructura el rendimiento el City Football Group?",
+        "¿Cuál es el mayor reto al tratar de implementar una misma metodología en clubes de distintos países?"
+      ],
+      "related_terms": [
+        "City Football Group",
+        "cultura",
+        "metodología",
+        "transformación",
+        "liderazgo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el desafío de integrar cuerpos técnicos nuevos dentro de la estructura base del club.",
+      "context_after": "Se concluye la segunda parte de la charla y se anuncia que el tercer bloque profundizará en la cultura corporativa y el liderazgo."
+    }
+  ]
+}

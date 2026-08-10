@@ -1,0 +1,386 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+    "speaker": "Enric Jiménez",
+    "total_duration": "00:28:21",
+    "total_duration_seconds": 1701,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:05:10",
+      "start_seconds": 0,
+      "end_seconds": 310,
+      "duration_seconds": 310,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Cultura organizacional y los perfiles de liderazgo",
+      "summary": "La estructura es el esqueleto de una organización, pero la cultura es su sistema nervioso. Se destaca la importancia de comprender qué tipo de líder requiere cada microcultura (ej. un pensador estratégico a largo plazo vs. un perfil más operativo 'hands-on') apoyándose en la literatura de autores como Schein y Kahneman. La principal función del líder es consolidar y evolucionar esa cultura.",
+      "literal_quote": "Si decimos que la organización, que la estructura es el esqueleto de la empresa, de la organización, del club, la cultura es el sistema nervioso, lo que la hace funcionar.",
+      "full_transcript": "Empezamos este último y tercer módulo de esta charla haciendo referencia a probablemente uno de los autores más importantes respecto al análisis y el desarrollo de la cultura organizacional: Schein. Si decimos que la organización, que la estructura es el esqueleto de la empresa, de la organización, del club, la cultura es el sistema nervioso, lo que la hace funcionar. Entonces, entender cuál es la cultura de una empresa, de un club, de esa organización, cómo se ha formado y entender qué tipo de líder necesita cada una de las microculturas dentro de la organización va a ser clave para lograr ese rendimiento final. [...] ¿Necesitamos un perfil más líder, más fuera del campo, más organizador, que se caracterice quizás por algunas comunes, como por ejemplo, un pensador estratégico, alguien como Daniel Kahneman habla en su libro, que tenga más un pensamiento a largo plazo, un slow thinking, mientras que tiene un equipo de trabajo que son el fast thinking del día a día, los que resuelven?",
+      "keywords": [
+        "cultura-organizacional",
+        "liderazgo",
+        "sistema-nervioso",
+        "microculturas",
+        "slow-thinking",
+        "fast-thinking"
+      ],
+      "entities": [
+        "Edgar Schein",
+        "Daniel Kahneman",
+        "David Tinnie"
+      ],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué se compara a la cultura organizacional con el sistema nervioso de un club?",
+        "¿Qué perfiles de liderazgo existen según la literatura de Daniel Kahneman y David Tinnie?"
+      ],
+      "related_terms": [
+        "cultura",
+        "organización",
+        "liderazgo",
+        "sistema nervioso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del tercer y último módulo del webinar enfocado en gestión y liderazgo.",
+      "context_after": "Se profundiza en el modelo específico de Edgar Schein para diagnosticar la cultura organizacional en diferentes capas."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:05:14",
+      "end_timestamp": "00:08:52",
+      "start_seconds": 314,
+      "end_seconds": 532,
+      "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=314",
+      "title": "Diagnóstico cultural: Los tres niveles de Schein",
+      "summary": "Edgar Schein estructura la cultura en tres niveles: artefactos (lo visible: ropa, instalaciones, lenguaje), valores declarados (lo que se predica: tipo de liderazgo, políticas de promoción) y los supuestos básicos (creencias profundas y cómo se toman realmente las decisiones bajo presión o conflicto).",
+      "literal_quote": "A través de los tres niveles establecidos por Schein podemos entender, analizar y diagnosticar esa cultura, entendiendo que los artefactos son lo que se ve.",
+      "full_transcript": "Hablemos de esa cultura y vamos a entenderla a través del modelo dibujado y construido por Edgar Schein. [...] A través de los tres niveles establecidos por Schein podemos entender, analizar y diagnosticar esa cultura, entendiendo que los artefactos son lo que se ve. Entendemos por los logos, el tipo de ropa que se usa. [...] Las instalaciones. [...] Pero lo importante de la cultura es ir entendiendo lo más invisible. Es por eso que pasamos al segundo nivel de los valores declarados, que es lo que la organización dice. [...] Y lo más importante está en la base, los supuestos básicos. Aquello que no se dice, que se hace, que está profundo en las creencias que hay respecto a la organización. [...] Se determina, por ejemplo, que somos un equipo multidisciplinario moderno [...] Pero cuando llega el momento de la verdad, hay un conflicto, no tomamos nada de la tecnología, no la usamos, decide el entrenador.",
+      "keywords": [
+        "artefactos",
+        "valores-declarados",
+        "supuestos-basicos",
+        "diagnostico-cultural",
+        "creencias",
+        "conflictos"
+      ],
+      "entities": [
+        "Edgar Schein"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres niveles de cultura organizacional según Edgar Schein?",
+        "¿Qué diferencia hay entre los valores declarados y los supuestos básicos en un equipo deportivo?"
+      ],
+      "related_terms": [
+        "artefactos",
+        "valores",
+        "supuestos básicos",
+        "diagnóstico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se introdujo la cultura como el sistema nervioso del club y su dependencia del líder.",
+      "context_after": "Se detalla cómo adaptar el diagnóstico de estos tres niveles a las realidades sociodemográficas específicas del equipo."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:08:58",
+      "end_timestamp": "00:11:19",
+      "start_seconds": 538,
+      "end_seconds": 679,
+      "duration_seconds": 141,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=538",
+      "title": "Evaluación del contexto sociocultural del club",
+      "summary": "Para transformar la cultura es fundamental entender el contexto sociodemográfico del entorno: promedio de edad, nivel socioeconómico de los trabajadores y vías de promoción institucional (por ejemplo, si los talentos de academia llegan al primer equipo o es necesario que salgan del club para volver).",
+      "literal_quote": "Son cosas que a veces son específicas de la cultura concreta del club, a veces son de la cultura del deporte, del país o mundial.",
+      "full_transcript": "Profundizamos un poco más en los supuestos básicos y ahí mencionamos cosas como lo que se entiende por buen trabajador y mal trabajador, cómo se relaciona la organización con la sociedad. [...] entendiendo en el contexto en el que estamos llegando, repito, del país, de la historia de las personas. Son personas que tienen mucho tiempo en la organización, son personas con una alta rotación, de qué promedio de edad, de qué tipo de entornos vienen las personas que trabajan en nuestra organización. Es una organización o es un club que tiene mucha gente que viene de un estrato socioeconómico alto o de un estrato socioeconómico un poquito más bajo. [...] cómo se contrata y cómo se promueve. La gente que llega al primer equipo, ¿llega porque se desarrolla en la academia o llega porque se les contrata y la gente de la academia la única progresión que tiene es ir progresando en algunas funciones, pero para llegar al primer equipo hay que salir para volver?",
+      "keywords": [
+        "contexto-sociocultural",
+        "rotacion",
+        "promedio-edad",
+        "estrato-socioeconomico",
+        "promocion",
+        "academia"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué influye el estrato socioeconómico del staff en el día a día de un club?",
+        "¿Qué elementos se deben observar para entender la política de promoción de talento en una organización?"
+      ],
+      "related_terms": [
+        "contexto",
+        "sociedad",
+        "rotación",
+        "academia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicaron los tres niveles teóricos de la cultura organizacional de Schein.",
+      "context_after": "Se pasa al aspecto de estructuración a través de la clarificación de roles y cómo estos reducen la ambigüedad."
+    },
+    {
+      "id": "WEBVTT-3-004",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:11:19",
+      "end_timestamp": "00:14:55",
+      "start_seconds": 679,
+      "end_seconds": 895,
+      "duration_seconds": 216,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=679",
+      "title": "El descriptor de roles como reductor de ambigüedad",
+      "summary": "El diseño de estructuras exige claridad absoluta en las funciones. Un descriptor de roles no debe ser un mero trámite administrativo, sino una herramienta viva para reducir la ambigüedad, definir expectativas, relaciones interdepartamentales y establecer KPIs de evaluación alineados con un sistema complejo.",
+      "literal_quote": "El descriptor de rol tenemos que entenderlo no como una herramienta administrativa de recursos humanos... tiene que ser justamente una herramienta que nos permita reducir ambigüedad.",
+      "full_transcript": "Uno de los puntos clave es la determinación de esos roles y esa claridad en el proceso, y entender cuál es mi función dentro del equipo, dentro de este proceso, de esta línea, dentro de este equipo. Entender cuáles son mis responsabilidades, entender hasta dónde tengo que llegar [...] para la resolución compleja de los problemas. Entendiendo que esta claridad nos va a permitir desarrollarnos en un sistema más dinámico, más complejo, y que va a permitir que funcione todo de manera más rápida y se tomen decisiones más rápidas. [...] El descriptor de rol tenemos que entenderlo no como una herramienta administrativa de recursos humanos, como ha sido típicamente, algo complejo. No, tiene que ser justamente una herramienta que nos permita reducir ambigüedad, que nos permita a la persona que llega nueva o nosotros llegando nuevos a la persona que ya estaba, generar unas expectativas de qué esperamos de él o de ella. [...] y dentro de cada uno de esos procesos, cómo lo vamos a evaluar, qué es lo que él tiene que lograr de indicadores para este torneo o para este año, y cuáles son sus indicadores a nivel de proceso y a nivel de resultado.",
+      "keywords": [
+        "descriptor-roles",
+        "ambiguedad",
+        "responsabilidades",
+        "expectativas",
+        "evaluacion",
+        "dinamismo"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Para qué sirve verdaderamente un descriptor de roles en el alto rendimiento?",
+        "¿Cómo ayuda la claridad de funciones a la velocidad de toma de decisiones?"
+      ],
+      "related_terms": [
+        "roles",
+        "ambigüedad",
+        "responsabilidades",
+        "indicadores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se debatió el peso del contexto cultural de los trabajadores en la dinámica diaria de un club.",
+      "context_after": "Se introducen formalmente los KPIs (Indicadores Clave de Rendimiento) para evaluar el desempeño de los roles descritos."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:14:55",
+      "end_timestamp": "00:18:40",
+      "start_seconds": 895,
+      "end_seconds": 1120,
+      "duration_seconds": 225,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=895",
+      "title": "Diferenciación entre KPIs de proceso y de resultado",
+      "summary": "Los indicadores de rendimiento (KPIs) bajo metodología SMART cierran el círculo organizativo estableciendo métricas. Es vital diferenciar KPIs de proceso (acciones controlables al 100%, ej. revisar casos clínicos en lesiones) de los KPIs de resultado (sujetos a imponderables externos, ej. % de disponibilidad o convocatorias a selecciones).",
+      "literal_quote": "No podemos evaluar ni a una persona, ni a una organización, ni a un departamento solo con los objetivos de resultado, porque hay imponderables que no podrán ser objetivos.",
+      "full_transcript": "Estos KPIs o key performance indicators, indicadores de rendimiento. Primero, entender que son lo que nos permitirá cerrar el círculo para volver a empezar todo el proceso. [...] Primero entendamos que hay dos tipos de indicadores de proceso, una serie de cosas que dependen al 100 % de nosotros, que no dependen del azar. Realizar todas las revisiones oftalmológicas del 100 % de los jugadores, depende de nosotros. Ahora, lograr que todos los jugadores mejoren sus capacidades visuales o mejoren un 10 % de sus capacidades visuales en un año. Ese es de resultado, depende de otros factores, no solamente de nosotros mismos. [...] No podemos evaluar ni a una persona, ni a una organización, ni a un departamento solo con los objetivos de resultado, porque hay imponderables que no podremos controlar y que no podrán ser objetivos. Ahora, sí a través de los del proceso. [...] ¿Y cómo los debemos de redactar? Ya lo sabéis, metodología SMART, que sean específicos, qué es lo que miden, que sean medibles, cómo lo vamos a medir, [...] que sean alcanzables, realistas, que sean relevantes... y que tengan una temporalidad.",
+      "keywords": [
+        "kpis",
+        "kpi-proceso",
+        "kpi-resultado",
+        "metodologia-smart",
+        "imponderables",
+        "evaluacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre un KPI de proceso y un KPI de resultado en el deporte?",
+        "¿Por qué es un error evaluar a un staff técnico basándose únicamente en KPIs de resultado?"
+      ],
+      "related_terms": [
+        "indicadores",
+        "rendimiento",
+        "proceso",
+        "resultado",
+        "SMART"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se estableció la importancia del descriptor de roles para dar un marco de trabajo sin ambigüedades.",
+      "context_after": "Se presenta evidencia de la literatura científica sobre qué tipo de KPIs se usan más en la industria del deporte de élite."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:18:40",
+      "end_timestamp": "00:20:57",
+      "start_seconds": 1120,
+      "end_seconds": 1257,
+      "duration_seconds": 137,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1120",
+      "title": "Uso de KPIs en el alto rendimiento según la literatura",
+      "summary": "Estudios científicos indican que los departamentos de rendimiento dividen sus KPIs 50/50 entre procesos y resultados, mientras que a nivel individual se priorizan los de proceso. Las principales barreras radican en la falta de apoyo directivo para tomar decisiones corporativas basadas en el alcance de estos indicadores. Los KPIs de resultado más comunes refieren a la disponibilidad de plantilla.",
+      "literal_quote": "A nivel indicadores o KPIs de departamento, normalmente la gran mayoría respondieron que tienen 50 % de proceso y de resultado... mientras que los individuales tienen muchos más de proceso.",
+      "full_transcript": "En este artículo en concreto, hacen un análisis con diferentes líderes del alto rendimiento en los deportes y explican y definen que a nivel indicadores o KPIs de departamento, normalmente la gran mayoría respondieron que tienen 50 % de proceso y de resultado. [...] mientras que los individuales tienen muchos más de proceso que de resultado. [...] Claramente, no podemos basarnos nada más en los de resultado, porque como hemos dicho, los de resultado no dependen de nosotros. La base debería estar construida sobre los de proceso. Ahora tenemos claro que hay una serie de barreras que no siempre van a hacer que funcionen estos indicadores. [...] como por ejemplo, la dificultad de definir estos KPIs con los equipos, que haya apoyo de las directivas. Eso es clave, el apoyo, para que a través del logro de estos objetivos, cómo se toman decisiones, cómo se mejoran las condiciones de las personas, cómo se las promueve. Esa es alguna de las barreras. Y dentro de los KPIs más usados como departamento de resultados, sabéis que de los más usados siempre son la disponibilidad.",
+      "keywords": [
+        "literatura",
+        "kpis",
+        "departamentos",
+        "barreras",
+        "apoyo-directivo",
+        "disponibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Datos",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo distribuyen habitualmente sus objetivos los departamentos de rendimiento según la literatura?",
+        "¿Cuáles son las barreras para la correcta implementación de KPIs en un club deportivo?"
+      ],
+      "related_terms": [
+        "KPIs",
+        "departamento",
+        "barreras",
+        "apoyo directivo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se expuso la diferencia conceptual entre objetivos de proceso y objetivos de resultado.",
+      "context_after": "Se concluye integrando todos los conceptos previos: cultura, estrategia, organigrama y KPIs para lograr un rendimiento holístico."
+    },
+    {
+      "id": "WEBVTT-3-007",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:21:00",
+      "end_timestamp": "00:26:38",
+      "start_seconds": 1260,
+      "end_seconds": 1598,
+      "duration_seconds": 338,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1260",
+      "title": "La alineación entre cultura organizacional y estrategia",
+      "summary": "Los sistemas de alto rendimiento rara vez fracasan por déficits metodológicos, sino por falta de alineación entre la cultura organizacional y la estrategia (Schein). Un líder debe construir la cultura diariamente para lograr que staffs inmensos, propios del deporte moderno, remen en la misma dirección resolviendo problemas complejos de forma transdisciplinar.",
+      "literal_quote": "Los sistemas de alto rendimiento no suelen fracasar por debilidades metodológicas, sino por falta de alineación entre la cultura organizacional y la estrategia.",
+      "full_transcript": "Quise cerrar con una frase justo del protagonista de nuestro tercer módulo, de nuestro tercer apartado de esta charla, Shane, que dice que los sistemas de alto rendimiento no suelen fracasar por debilidades metodológicas, sino por falta de alineación entre la cultura organizacional y la estrategia. Un poco quería cerrar el círculo con este mensaje, que es con el que empezábamos al principio de la charla, de cómo teniendo los mejores recursos, los mejores jugadores, la mejor tecnología, los mejores procesos, no necesariamente siempre va a triunfar nuestro proceso, nuestro equipo, nuestros jugadores. Cómo el líder será el que tendrá que no solo gestionar dentro de la cultura, sino también crearla, reforzarla a través de las acciones que produce en el día a día para ir mejorando este rendimiento y esas ganancias marginales de las que tanto se habla [...] para resolver el problema complejo y la cantidad infinita de problemas complejos que van saliendo en un entorno como el de alto rendimiento en el que vivimos día a día, en donde los calendarios cada vez son más difíciles [...] Ya son gigantes los cuerpos técnicos, son gigantes los staffs y cómo los gestionamos para que todos aporten y todos aporten en la misma dirección. Al final del día todos estamos en el mismo barco, buscamos los mismos objetivos.",
+      "keywords": [
+        "alineacion",
+        "cultura-organizacional",
+        "estrategia",
+        "fracaso-metodologico",
+        "ganancias-marginales",
+        "problemas-complejos"
+      ],
+      "entities": [
+        "Edgar Schein"
+      ],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Por qué fracasan habitualmente los sistemas de alto rendimiento según Edgar Schein?",
+        "¿Cómo se logra que un staff gigante reme en la misma dirección ante problemas complejos?"
+      ],
+      "related_terms": [
+        "alineación",
+        "estrategia",
+        "cultura",
+        "líder",
+        "staffs gigantes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se analizaron las prácticas comunes y el uso de indicadores clave (KPIs) en la literatura.",
+      "context_after": "Se realiza el cierre formal de la ponencia agradeciendo a la organización y resumiendo la visión panorámica del curso."
+    },
+    {
+      "id": "WEBVTT-3-008",
+      "video_title": "Gestión en el alto rendimiento: Cultura organizacional y liderazgo",
+      "speaker": "Enric Jiménez",
+      "start_timestamp": "00:26:47",
+      "end_timestamp": "00:28:21",
+      "start_seconds": 1607,
+      "end_seconds": 1701,
+      "duration_seconds": 94,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1607",
+      "title": "Perspectiva sistémica y compleja en el deporte (Cierre)",
+      "summary": "Como reflexión final de la ponencia, se hace hincapié en la necesidad de abordar el alto rendimiento distanciándose del marco puramente anatómico, biomecánico o fisiológico, abrazando una visión organizativa de alta complejidad, exportando conceptos empresariales al dinamismo del deporte de élite.",
+      "literal_quote": "Desde un abordaje diferente a la fisiología, a la anatomía, a la biomecánica, sino desde un entorno de sistema, desde un contexto de una perspectiva del sistema, desde una perspectiva del liderazgo.",
+      "full_transcript": "Me gustaría agradecer claramente a la NSCA, NSCA Spain, por la oportunidad, por darnos un espacio para hablar del alto rendimiento desde una perspectiva diferente. Como empezábamos esta charla, desde un abordaje diferente al técnico más habitual, desde un abordaje diferente a la fisiología, a la anatomía, a la biomecánica, sino desde un entorno de sistema, desde un contexto de una perspectiva del sistema, desde una perspectiva del liderazgo, desde una perspectiva compleja. Espero que esto os haya podido dar una primera cápsula de algo que es, como decía al principio, claramente muy profundo, de un conocimiento que viene de otras disciplinas, de disciplinas organizacionales, de la empresa, y donde nosotros poco a poco la hemos ido transformando y adaptando a nuestras necesidades de un entorno dinámico, complejo, evolutivo, cambiante, como es el del deporte de alto rendimiento. Ojalá os haya gustado mucho y hayáis disfrutado mucho esta sesión en conjunto conmigo. [...] Mil gracias a todos por vuestro tiempo y mil gracias por compartir este ratito conmigo.",
+      "keywords": [
+        "perspectiva-sistemica",
+        "complejidad",
+        "vision-empresarial",
+        "fisiologia",
+        "dinamismo",
+        "cierre"
+      ],
+      "entities": [
+        "NSCA Spain"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Cierre"
+      ],
+      "search_questions": [
+        "¿Qué enfoque principal se promovió durante la charla en contraposición al abordaje fisiológico clásico?",
+        "¿De dónde provienen los conocimientos de estructuración aplicados actualmente al deporte de alto rendimiento?"
+      ],
+      "related_terms": [
+        "fisiología",
+        "biomecánica",
+        "sistema",
+        "complejidad",
+        "organización"
+      ],
+      "relevance_score": 4,
+      "context_before": "El ponente concluyó que la alineación entre cultura y estrategia es el verdadero motor del rendimiento.",
+      "context_after": "Finalización y despedida del evento formativo."
+    }
+  ]
+}
