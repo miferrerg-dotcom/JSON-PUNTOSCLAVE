@@ -1,0 +1,646 @@
+{
+  "video": {
+    "video_id": "V_DIEGO_ALONSO_3",
+    "video_title": "Entrenamiento de la velocidad",
+    "speaker": "Diego Alonso",
+    "total_duration": "00:30:28",
+    "total_duration_seconds": 1828,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_DIEGO_3-001",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:01",
+      "start_seconds": 3,
+      "end_seconds": 61,
+      "duration_seconds": 58,
+      "timestamp_url": "?t=3",
+      "title": "Producción de fuerza horizontal para la aceleración",
+      "summary": "Para poder acelerar de manera correcta, es indispensable aplicar fuerza resultando de la suma del componente vertical y el horizontal. Sin embargo, el componente predominante y más importante para lograr una aceleración frontal efectiva es siempre el componente de fuerza horizontal.",
+      "literal_quote": "La fuerza resultante entre el componente de fuerza vertical y el horizontal... Es evidente que ese componente horizontal, esa capacidad de acelerar hacia adelante, va a ser la más importante.",
+      "full_transcript": "Una vez que hemos visto esas fases de carrera de velocidad y esa primera introducción de la aceleración, producción y transmisión de fuerza en esos contextos donde hay cambios de dirección, vamos a adentrarnos mucho más en estos conceptos. En primer lugar, sabemos que existen unos requisitos básicos para poder acelerar adecuadamente. En primer lugar, vamos a tener que tener en cuenta la velocidad de movimiento, que como hemos dicho anteriormente, en el caso de los deportistas individuales de atletismo, la velocidad es cero y está estandarizado por una posición, una colocación de tacos. Y a partir de ahí, voy a tener que producir fuerza para poder acelerar. ¿Cómo va a tener que ser esa producción de fuerza? Va a tener que ser la fuerza resultante entre el componente de fuerza vertical y el horizontal. ¿Cuál va a ser el componente más predominante o importante? Es evidente que ese componente horizontal, esa capacidad de acelerar hacia adelante, va a ser la más importante.",
+      "keywords": [
+        "aceleracion",
+        "fuerza-resultante",
+        "componente-horizontal",
+        "fuerza-vertical",
+        "requisitos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué componente de fuerza es más importante para acelerar?",
+        "¿Cómo se produce la fuerza resultante en la fase de aceleración?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "de",
+        "movimiento",
+        "colocación",
+        "de",
+        "tacos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la tercera parte de la presentación sobre la carrera de velocidad.",
+      "context_after": "Análisis de los tiempos de contacto óptimos que permiten aplicar la fuerza horizontal en velocistas."
+    },
+    {
+      "id": "V_DIEGO_3-002",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:01:01",
+      "end_timestamp": "00:02:04",
+      "start_seconds": 61,
+      "end_seconds": 124,
+      "duration_seconds": 63,
+      "timestamp_url": "?t=61",
+      "title": "Tiempos de contacto y el equilibrio de fuerza (Bolt vs. Talakhadze)",
+      "summary": "Aplicar fuerza requiere un tiempo mínimo, siendo en velocistas de élite entre 80 y 110 milisegundos. Un halterófilo como Talakhadze tiene mucha más fuerza absoluta que Usain Bolt, pero no tiene el tiempo necesario para aplicarla rápido en el vector horizontal, volviéndose un 'tractor' ineficiente para esprintar.",
+      "literal_quote": "El tiempo del que dispongo para aplicar fuerza va a ser, aproximadamente... 100 milisegundos, y en ese intervalo de tiempo tengo que ejercer la mayor fuerza posible. Mucho más, lo que voy a ser es un tractor acelerando.",
+      "full_transcript": "Es evidente que tiene que tener unos tiempos de contacto determinados. Como veremos, por ejemplo, los deportistas de velocidad se están moviendo, los de élite, entre 80, 110 milisegundos, aproximadamente, de tiempo de contacto. Ahora bien, es cierto que para poder transmitir fuerza necesito un tiempo mínimo y es un poco el pez que se muerde la cola. Probablemente, si comparamos Usain Bolt con Lasha Takalash, campeón mundial de la halterofilia, está claro que Lasha va a tener mucha más fuerza que Usain Bolt. Ahora bien, ¿cuánto tiempo tarda Lasha Takalash en aplicar esa fuerza? Bastante más que Usain Bolt. Entonces, tenemos que llevar un buen equilibrio, es decir, el tiempo del que dispongo para aplicar fuerza va a ser, aproximadamente, por poner un número cerrado, 100 milisegundos, y en ese intervalo de tiempo tengo que ejercer la mayor fuerza posible. Mucho más, lo que voy a ser es un tractor acelerando, porque voy a tener mucho tiempo de contacto en el suelo y no soy capaz de aplicar fuerza en un vector horizontal de una manera muy rápida.",
+      "keywords": [
+        "tiempos-contacto",
+        "equilibrio-fuerza",
+        "halterofilia",
+        "usain-bolt",
+        "milisegundos"
+      ],
+      "entities": [
+        "Usain Bolt",
+        "Lasha Takalash"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tiempos de contacto en el suelo para los velocistas de élite?",
+        "¿Por qué un atleta más fuerte como un halterófilo no es necesariamente más rápido?"
+      ],
+      "related_terms": [
+        "aplicar",
+        "fuerza",
+        "vector",
+        "horizontal",
+        "tractor",
+        "acelerando"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que la aceleración hacia adelante depende principalmente del componente de fuerza horizontal.",
+      "context_after": "Transición hacia las dificultades de aplicar esta fuerza óptima en entornos dinámicos como los deportes de equipo."
+    },
+    {
+      "id": "V_DIEGO_3-003",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:02:04",
+      "end_timestamp": "00:03:28",
+      "start_seconds": 124,
+      "end_seconds": 208,
+      "duration_seconds": 84,
+      "timestamp_url": "?t=124",
+      "title": "Incertidumbre y fatiga en los deportes colectivos",
+      "summary": "El deporte individual está altamente estandarizado. Por el contrario, los deportes colectivos presentan entornos llenos de incertidumbre (oponentes, pases, caídas) y contextos variables de fatiga (minuto 5 vs 85), lo que modifica constantemente la capacidad del jugador para producir y transmitir fuerza.",
+      "literal_quote": "El deporte colectivo exige cierto nivel de incertidumbre... un oponente que puede realizar sus propias acciones y que en base a ellas modificará tu trayectoria y tu producción y transmisión de fuerza.",
+      "full_transcript": "En un contexto de deporte individual, además, el objetivo fundamental es, evidentemente, transmitir fuerza al suelo con eficacia y a medida que surgen otros contextos, esto puede ser modificado. Por ejemplo, no es lo mismo el estado de fatiga, que puede ser debido a un momento competitivo, a un momento de carga de fase de entrenamiento, si lo hago la primera serie o estoy en la última serie, si estoy en el minuto 5 de partido o estoy en el minuto 85. Todo esto puede modificar mis capacidades para producir y transmitir fuerza. Y luego posiciones y diferentes variables. El deporte individual puede estar muchísimo más estandarizado, homogeneizado. En un deporte colectivo, puede ser tras un salto, tras una caída, tras un rechace, tras diferentes posiciones y momentos. Y luego, además, el deporte colectivo exige cierto nivel de incertidumbre. Tienes unos compañeros a los que a lo mejor tienes que pasarle un balón o no, con la mano, con el pie, un oponente que puede realizar sus propias acciones y que en base a ellas modificará tu trayectoria y tu producción y transmisión de fuerza, con lo que vimos en la segunda parte, con los cambios de dirección, etcétera. Y todo esto va a conformar lo que es las capacidades de cada individuo de acelerar, producir y transmitir fuerza.",
+      "keywords": [
+        "deportes-colectivos",
+        "incertidumbre",
+        "fatiga",
+        "produccion-fuerza",
+        "estandarizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el cansancio y el entorno a la velocidad en el fútbol o baloncesto?",
+        "¿Qué factores modifican la transmisión de fuerza en un deporte de equipo?"
+      ],
+      "related_terms": [
+        "transmitir",
+        "fuerza",
+        "al",
+        "suelo",
+        "trayectoria"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación teórica de los tiempos de contacto óptimos.",
+      "context_after": "Se detallan las tres circunstancias indispensables para lograr acelerar correctamente (cantidad, ritmo y dirección)."
+    },
+    {
+      "id": "V_DIEGO_3-004",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:03:28",
+      "end_timestamp": "00:04:46",
+      "start_seconds": 208,
+      "end_seconds": 286,
+      "duration_seconds": 78,
+      "timestamp_url": "?t=208",
+      "title": "Interacción de factores y el 'unicornio' Usain Bolt",
+      "summary": "Para acelerar se debe conjugar bien la cantidad de fuerza, su ritmo y su dirección, sumado a una óptima amplitud y longitud de zancada. Usain Bolt se describe como un 'unicornio' por combinar una frecuencia altísima con dimensiones antropométricas enormes, resultando en fuerzas reactivas gigantescas y perfectamente direccionadas.",
+      "literal_quote": "Usain Bolt... es quizás un unicornio en este sentido. Se caracteriza por tener una frecuencia elevada y, además... unas dimensiones antropométricas muy grandes... Y luego es capaz de ejercer una fuerza reactiva contra el suelo muy grande y muy bien direccionada.",
+      "full_transcript": "Si nos vamos a la primera de las circunstancias que van a permitirnos acelerar de manera adecuada, va a tener que ver con la cantidad de fuerza que yo aplico, el ritmo en el que lo aplico y la dirección de aplicación. Sin esos tres factores, bien conjugados y bien equilibrados, no voy a ser capaz de acelerar y, por tanto, correr rápido o velozmente de manera adecuada. Además, hay que tener en cuenta la amplitud y longitud de zancada que hemos visto anteriormente. Y de hecho, Usain Bolt, como veremos en estadísticas y en datos descriptivos, es quizás un unicornio en este sentido. Se caracteriza por tener una frecuencia elevada y, además, es capaz de medir mucho, tener unas dimensiones antropométricas muy grandes, que hace que su longitud también sea grande. Y luego es capaz de ejercer una fuerza reactiva contra el suelo muy grande y muy bien direccionada. Es decir, la orientación de esas fuerzas reactivas verticales contra el suelo, las ground reaction forces, son clave, evidentemente, para acelerar y para considerar la magnitud total que soy capaz de mover por unidad de tiempo, es decir, la masa, cómo se desplaza en ese vector horizontal y que evidentemente va a ser importante para el sprint, lo que es esa transmisión al suelo con eficacia.",
+      "keywords": [
+        "fuerzas-reactivas",
+        "longitud-zancada",
+        "frecuencia",
+        "antropometria",
+        "ground-reaction-forces",
+        "usain-bolt"
+      ],
+      "entities": [
+        "Usain Bolt"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué factores conjugados determinan una aceleración adecuada?",
+        "¿Por qué se considera a Usain Bolt un caso excepcional o 'unicornio' en la velocidad?"
+      ],
+      "related_terms": [
+        "dirección",
+        "de",
+        "aplicación",
+        "masa",
+        "vector",
+        "horizontal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la variabilidad y dificultad de las acciones en deportes de equipo.",
+      "context_after": "Se presenta un análisis visual de cómo velocistas como Asafa Powell transmiten su fuerza resultante."
+    },
+    {
+      "id": "V_DIEGO_3-005",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:04:49",
+      "end_timestamp": "00:06:37",
+      "start_seconds": 289,
+      "end_seconds": 397,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=289",
+      "title": "Análisis cinético del vector resultante en la salida",
+      "summary": "En la salida, velocistas de élite como Asafa Powell logran transmitir la fuerza resultante (interacción de fuerza vertical y horizontal) con un ángulo muy bajo. Los deportistas amateur suelen erguir el tronco rápidamente, perdiendo aceleración. Pasados 13-15 apoyos, estas oscilaciones de fuerza se estabilizan casi por completo.",
+      "literal_quote": "En deportistas, evidentemente de élite, son capaces de transmitirla con una orientación, con un ángulo mucho más bajo que el que lo hace un deportista más amateur, donde no es capaz de llevar el tronco tan en horizontal, sino que verticaliza mucho más rápido.",
+      "full_transcript": "De hecho, existen vídeos que podéis consultar en plataformas, por ejemplo, como YouTube, donde se analizan cómo varían las transmisiones de fuerza de un velocista, en este caso Asafa Powell, en las primeras. Y simplemente os he incrustado esta imagen para que podáis ver un poco cómo se hace este análisis y cómo la fuerza resultante, que es la línea o la flecha que sale desde el taco en una dirección más o menos diagonal, nos indica cómo transmite fuerza en esa fuerza total, que es la interacción entre lo que es la fuerza horizontal y la fuerza vertical. Y se ve que en deportistas, evidentemente de élite, son capaces de transmitirla con una orientación, con un ángulo mucho más bajo que el que lo hace un deportista más amateur, donde no es capaz de llevar el tronco tan en horizontal, sino que verticaliza mucho más rápido. Por tanto, no es capaz de acelerar con tanta rapidez. Si comparamos estas fuerzas reactivas contra el suelo a lo largo de diferentes apoyos, vemos que el vector vertical es evidente que en los primeros apoyos va incrementándose como consecuencia de la mayor velocidad, de la cantidad de momentum, de movimiento que tiene el individuo. Y a partir de esa zancada 13, 14, 15, se permanece más o menos estable. Luego tenemos las fuerzas anteroposteriores que se producen, al igual que sucede en la fuerza vertical, a partir de la 13, 14 empieza a ser más o menos invariable, y luego la mediolateral, que ocurre más o menos lo mismo. Es decir, en esas primeras partes, en esos primeros 10, 15 apoyos en un deportista individual, se producen oscilaciones en los niveles de fuerza vertical, anteroposterior y mediolateral, y a partir de ahí empiezan a ser muchísimo más estables.",
+      "keywords": [
+        "vector-resultante",
+        "fuerza-horizontal",
+        "tronco",
+        "asafa-powell",
+        "cinetica"
+      ],
+      "entities": [
+        "Asafa Powell",
+        "YouTube"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre la salida de un velocista amateur y uno de élite?",
+        "¿En qué momento de la carrera se estabilizan las fuerzas de apoyo del pie?"
+      ],
+      "related_terms": [
+        "orientación",
+        "fuerzas",
+        "reactivas",
+        "anteroposteriores",
+        "mediolateral"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del caso físico excepcional de Usain Bolt.",
+      "context_after": "Se detallan las curvas de velocidad y los tres principios cinemáticos básicos (proyección, ritmo, elevación)."
+    },
+    {
+      "id": "V_DIEGO_3-006",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:07:43",
+      "end_timestamp": "00:10:30",
+      "start_seconds": 463,
+      "end_seconds": 630,
+      "duration_seconds": 167,
+      "timestamp_url": "?t=463",
+      "title": "El patrón de proyección y la fatiga neuromuscular",
+      "summary": "Existen tres principios cinemáticos: proyección, ritmo y elevación. El patrón de proyección (dirección de la fuerza) es clave: si falla, el atleta compensa aumentando pasos rápidos (como al tropezar), disparando la fatiga neuromuscular. La instrucción técnica debe ser: 'empuja el suelo con explosividad, eleva rodillas y arma el tobillo'.",
+      "literal_quote": "Una deficiencia en esa capacidad de proyección va a provocar una frecuencia de zancada... Cuantos más pasos tenga, más fatiga neuromuscular tendré... Por tanto, la instrucción... es que empujen el suelo con explosividad y eleve las rodillas y arme el tobillo.",
+      "full_transcript": "Por tanto, si yo quiero trabajar con estos deportistas, tengo que tener en cuenta los patrones de movimiento que me van a llevar a acelerar, producir y transmitir fuerza de manera adecuada. Hemos visto un análisis cinético y cinemático de lo que pasa durante esta fase de aceleración, producción y transmisión de fuerza, pero tengo que tener en cuenta tres principios cinemáticos básicos. Y es a lo que me refería anteriormente con esa necesidad de entrenar de manera adecuada en los deportes colectivos para maximizar esa capacidad acelerativa en breves periodos de tiempo o en breves distancias y que van a resultar en éxito deportivo. Por un lado, es la proyección, que es la magnitud y dirección de la producción de fuerza. Por otro lado, vamos a tener el ritmo, que es la interacción entre amplitud y frecuencia, tiempo que estoy en el aire, tiempo que estoy en el suelo, y luego la elevación, que es el cambio u oscilación del centro de masas durante el sprint. Empecemos con el primero, el patrón de proyección, que es la base del trabajo que tenemos que llevar a cabo, la capacidad de ejercer grandes magnitudes de fuerza en la dirección correcta. Vuelvo a remitirme al ejemplo que he puesto antes. Podemos tener halterófilos con muchísima fuerza, pero ejercen la mayor parte de su fuerza en el vector vertical. Por tanto, si quieren esprintar hacia adelante, es posible que en el primer, segundo paso sean muy rápidos, porque es evidente que tienen mucha fuerza y que al final ese exceso de fuerza va a ser beneficioso, pero a partir de ahí van a tener problemas, porque la aplicación de fuerza va a ser netamente vertical en vez de ser horizontal. ¿Esto qué va a provocar? Una deficiencia en esa capacidad de proyección va a provocar una frecuencia de zancada. Pensad, por ejemplo, cuando vosotros os tropezáis o os habéis tropezado en algún momento con un escalón, lo que hace automáticamente el cuerpo es dar dos o tres pasitos rápidos para poder compensar ese desequilibrio que habéis tenido. Es algo más o menos similar. ¿Qué conlleva? Cuantos más pasos tenga, más fatiga neuromuscular tendré y voy a tener una penalización de avance. Por tanto, no solamente voy a perder rendimiento en esos primeros instantes de mi acción deportiva, sino que si esto lo traslado a muchas acciones, que es lo que ocurre en un deporte colectivo, voy a experimentar fatiga neuromuscular mucho antes de lo que lo experimentan otros deportistas que sí sepan proyectar adecuadamente esta fuerza. Por tanto, el \"coaching cue\" o la instrucción que podemos darle nosotros a nuestros deportistas es que empujen el suelo con explosividad y eleve las rodillas y arme el tobillo.",
+      "keywords": [
+        "cinematica",
+        "proyeccion",
+        "ritmo",
+        "elevacion",
+        "fatiga-neuromuscular",
+        "coaching-cue"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué pasa si un deportista no tiene una buena proyección horizontal al acelerar?",
+        "¿Cuáles son las pautas técnicas (coaching cues) para mejorar la proyección de fuerza?"
+      ],
+      "related_terms": [
+        "principios",
+        "cinemáticos",
+        "básicos",
+        "compensar",
+        "desequilibrio",
+        "armar",
+        "el",
+        "tobillo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de las oscilaciones de fuerza vertical, anteroposterior y mediolateral.",
+      "context_after": "Se transiciona hacia la importancia del ritmo y la fluidez a través del concepto de 'sprint and relax'."
+    },
+    {
+      "id": "V_DIEGO_3-007",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:10:30",
+      "end_timestamp": "00:13:17",
+      "start_seconds": 630,
+      "end_seconds": 797,
+      "duration_seconds": 167,
+      "timestamp_url": "?t=630",
+      "title": "El ritmo en la carrera: Sprint and Relax",
+      "summary": "El ritmo depende de saber contraer y relajar la musculatura ('sprint and relax'). Jugadores poco habituados suelen tensar hombros o mandíbula, yendo en contra de la relajación y perdiendo fluidez. El ritmo varía radicalmente según la distancia (60m requiere acelerar al máximo inmediatamente frente a 200m o 400m).",
+      "literal_quote": "Uno de los principales problemas... es, sobre todo, ejercer fuerza, el encogerse, el contraer los hombros... Todo esto son fuerzas que van contrarias a la relajación y que evidentemente hacen que perdamos fluidez.",
+      "full_transcript": "Luego tenemos otro patrón, que es el ritmo, que implica ritmos de contracción y relajación. Seguramente habréis oído alguna vez la famosa frase de \"sprint and relax\", es decir, esprinta y relájate. Uno de los principales problemas que yo he visto, por ejemplo, en deportistas de deportes colectivos que no están habituados a este ritmo, es, sobre todo, ejercer fuerza, el encogerse, el contraer los hombros, las manos. Lo pongo así para que me veáis, estas manos así superrígidas, haciendo fuerza o los dientes apretados. Todo esto son fuerzas que van contrarias a la relajación y que evidentemente hacen que perdamos fluidez, que no tengamos ritmo a la hora de correr. Por tanto, es un grado el ritmo de la eficacia con la cual yo ejecuto movimientos. En la fase de aceleración hasta velocidad máxima, voy a ir aumentando la longitud de zancada y el tiempo en el aire de manera progresiva y el tiempo de contacto va a ir disminuyendo. En la figura de abajo, de Meats y colaboradores, tenéis cuáles serían los ocho momentos que tenemos a nivel cinemático de lo que es la carrera. Un momento en el que hay un despegue, consigo un máximo ángulo de mis caderas, mínimo ángulo de las rodillas, máximo. Máxima elevación de la rodilla, máximo ángulo de la rodilla, vuelvo a contactar, amortiguación o soporte, y vuelvo a iniciar ese take off o ese toe off de mi pie de impulso. De hecho, este ritmo, si nos vamos a las carreras puras de velocidad lineales, va a diferir en función de si soy corredor de 60, 100, 200 y 400. Y va a ser mucho más rápido ese ritmo cuanto menor sea la distancia. Si os fijáis, aunque sean carreras de velocidad, la carrera de 200 metros es muy rítmica. No puedes salir al 100% porque no llegas. En un 400, máximo si cabe. Sin embargo, en un 60, si no tienes un ritmo acelerado, en el momento en el que un corredor de 400 metros se va al 60 y quiere ponerse a máxima velocidad, se ha terminado la carrera. Esto cobra todavía mayor relevancia en nuestros deportistas. Por ejemplo, de colectivos donde los tiempos no van a ser ni muchísimo menos, como he dicho al principio, de 30, 40, 50 metros, sino que estas acciones se suelen resolver en dos, tres, cinco metros y, en ocasiones, en sprints un poco más largos, se puede ir a 20, 30 metros. Pero la mayoría, el 90 % de las acciones o 95 %, se van a resolver en distancias muy cortas. Por tanto, tenemos que tener en cuenta que hay niveles de incertidumbre que van a modificar ese ritmo: fintas, necesidades de cambiar de dirección, etcétera.",
+      "keywords": [
+        "ritmo",
+        "sprint-and-relax",
+        "relajacion",
+        "fluidez",
+        "tension-muscular",
+        "distancias"
+      ],
+      "entities": [
+        "Meats"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significa la frase 'sprint and relax' en el entrenamiento de velocidad?",
+        "¿Cómo afecta la tensión de la mandíbula o los hombros a la velocidad de un jugador?"
+      ],
+      "related_terms": [
+        "contracción",
+        "y",
+        "relajación",
+        "carreras",
+        "puras",
+        "de",
+        "velocidad",
+        "niveles",
+        "de",
+        "incertidumbre"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del componente de proyección en la biomecánica de carrera.",
+      "context_after": "Se detallan los parámetros de una carrera de 100 metros y el impacto directo que produce la fatiga."
+    },
+    {
+      "id": "V_DIEGO_3-008",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:13:19",
+      "end_timestamp": "00:16:56",
+      "start_seconds": 799,
+      "end_seconds": 1016,
+      "duration_seconds": 217,
+      "timestamp_url": "?t=799",
+      "title": "Impacto de la fatiga en los parámetros mecánicos",
+      "summary": "Un estudio sobre sprints sucesivos muestra que la fatiga aumenta el tiempo de contacto en un 15% y reduce tanto el stiffness como la frecuencia de zancada en un 8%. En deportes colectivos, no entrenar esto correctamente resulta en jugadores perdiendo capacidad de sprint para el final del partido, momento de mayores errores tácticos.",
+      "literal_quote": "El tiempo de contacto, vemos que va aumentando hasta un 15 %... es importante garantizar... la buena aceleración... a lo largo de un partido y vemos situaciones donde hay jugadores que en el minuto 80... ya empiezan a perder facultades de 'sprint'.",
+      "full_transcript": "Si vemos los parámetros mecánicos obtenidos durante diferentes partes de la carrera de 100 metros, vemos que hay diferencias entre las partes. Hablaríamos de una fase de aceleración de 20, 40 metros, una fase de máxima velocidad, 40, 60 metros, incluso 60, 80 metros, y luego una fase donde empezamos a disminuir a los 80, 100 metros. Esos últimos 20 metros suele haber una pequeña pérdida de velocidad. Luego tenemos una tabla, que es toda la distribución o la media que tenemos a lo largo de esa prueba de 100 metros. Y, por último, la ANOVA de medias repetidas, que va comparando los diferentes tramos. Se observan diferencias significativas, sobre todo en el VC, que es la velocidad de contacto a la cual entra el pie en los diferentes segmentos, siendo mucho más elevada entre los 40 y 60 metros, justo en esa fase de transición de aceleración a velocidad máxima, y siendo más reducida tanto en la fase de aceleración inicial de 20 a 40 metros como en esa fase de 80 a 100 metros. En todas las demás no existen diferencias muy significativas, pero sí que podéis apreciar ciertos detalles. Quizás no sea tan relevante en un deporte colectivo, pero en un deporte individual es evidente que una décima, como he dicho al principio en este seminario, puede suponer tener un oro, una medalla, entrar o no a una final, etcétera. Si vemos cuáles son los cambios que se pueden producir, y esto ya va más orientado a esos deportes más colectivos que hay con respecto a la fatiga. En este estudio lo que hicieron fue hacer diferentes series de 100 metros. Se ve que ya existen cambios significativos. Es decir, que la fatiga hace mella en las diferentes variables que podemos obtener. Tanto en el tiempo de contacto, vemos que va aumentando hasta un 15 % con respecto del primer 100 al último 100. Es decir, somos más lentos. Llevároslo a 30, 40 acciones de sprint que puede haber en un jugador de fútbol, en un jugador de baloncesto, en una competición. El tiempo de vuelo, que no hay diferencias significativas, pero aumenta ligeramente. La velocidad de contacto, que experimenta una reducción. El stiffness vertical, la resistencia que se ofrece, que también disminuye. La altura del centro de masas, que evidentemente puede aumentar en este caso. Disminuye la frecuencia hasta un 8 %. Disminuye la velocidad media hasta un 8 %. La velocidad máxima disminuye un 10 %. Y diferentes parámetros referidos a los tiempos, donde pueden disminuir del 25 al 38 %. Incluso la pérdida de velocidad puede experimentar hasta de un 41,5 %. Por tanto, son parámetros a tener en cuenta y ya podemos ver que no solamente es importante garantizar en estos deportes colectivos la buena aceleración, producción y transmisión de fuerza a unas pocas repeticiones, sino que esto, si no se hace adecuadamente, se puede trasladar a lo largo de un partido y vemos situaciones donde hay jugadores que en el minuto 80, minuto 70, ya empiezan a perder facultades de sprint y puede lastrar todo el trabajo realizado durante los primeros minutos. Se sabe por estadística que en los últimos minutos del partido hay muchos más errores y uno de los principales factores es la presencia de esta fatiga.",
+      "keywords": [
+        "fatiga",
+        "parametros-mecanicos",
+        "tiempo-contacto",
+        "stiffness",
+        "deportes-colectivos",
+        "rendimiento-final"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis de datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la repetición de sprints a las métricas biomecánicas por fatiga?",
+        "¿Por qué es vital mantener la resistencia a la velocidad en los últimos minutos de un partido?"
+      ],
+      "related_terms": [
+        "ANOVA",
+        "de",
+        "medias",
+        "repetidas",
+        "velocidad",
+        "de",
+        "contacto",
+        "pérdida",
+        "de",
+        "velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del ritmo 'sprint and relax' y las diferencias tácticas por distancia.",
+      "context_after": "Se presenta el estudio biomecánico sobre el rendimiento a velocidad máxima de superélites como Bolt, Gay y Powell."
+    },
+    {
+      "id": "V_DIEGO_3-009",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:16:58",
+      "end_timestamp": "00:19:00",
+      "start_seconds": 1018,
+      "end_seconds": 1140,
+      "duration_seconds": 122,
+      "timestamp_url": "?t=1018",
+      "title": "Stiffness vertical: la clave biomecánica de Usain Bolt",
+      "summary": "Al comparar a Bolt, Gay y Powell a máxima velocidad, Bolt registra mayores tiempos de contacto y menor frecuencia. Sin embargo, su enorme ventaja es poseer un stiffness vertical menor; requiere menos esfuerzo para vencer las fuerzas reactivas, ahorrando fatiga neuromuscular y ampliando su zancada progresivamente.",
+      "literal_quote": "Las fuerzas reactivas del suelo y la k vertical o stiffness vertical es menor. Es decir, no necesita ejercer tanta fuerza para vencer la fuerza reactiva contra el suelo... lo que le permite sobre todo es tener menor fatiga neuromuscular.",
+      "full_transcript": "Si nos vamos a la superélite y vemos qué sucede en ese periodo de máxima velocidad entre los 60 y 80 metros, un estudio de Taylor y colaboradores lo que hizo fue comparar a los tres grandes: Usain Bolt, Tyson Gay y Asafa Powell. Intentaron ver cuál es el factor más importante o que determina la máxima velocidad en los velocistas de élite. Apreciamos el tiempo de contacto, que tiene diferencias significativas entre los velocistas, siendo casualmente Usain Bolt el que tiene un tiempo de contacto mayor, de 0.091. Luego tenemos un tiempo de vuelo, time flight, que es similar: 0.132, 0.131 Asafa Powell. Pero empieza a haber diferencias un poquito más ostensibles, por ejemplo, en la velocidad de contacto, donde vemos que Usain Bolt tiene una mayor velocidad de contacto que sus otros dos rivales o compañeros. La fuerza es superior a la de Tyson Gay y similar a la de Asafa Powell. Por tanto, su impulso mecánico es un poquito mayor, pero la diferencia viene fundamentalmente en que las fuerzas reactivas del suelo y la k vertical o stiffness vertical es menor. Es decir, no necesita ejercer tanta fuerza para vencer la fuerza reactiva contra el suelo y, por tanto, es capaz de ampliar zancada mucho más rápido y llevar una progresión de la longitud de zancada mucho mayor que la de sus rivales, lo que hace que a partir del metro 30, metro 40, como veréis en los vídeos, empieza a tomar distancia y la carrera está prácticamente decidida. A todo esto, ¿qué se le suma? Que su frecuencia de zancada es menor. Podríamos decir: ¿esto es negativo? Lo mejor es tener cuanto mayor frecuencia de zancada, mejor, pero en su caso, lo que le permite sobre todo es tener menor fatiga neuromuscular, lo cual le permite tener también ventaja en pruebas de mayor distancia, como 200 metros, porque no acusa la fatiga tanto como la pueden acusar sus rivales o sus compañeros.",
+      "keywords": [
+        "stiffness-vertical",
+        "usain-bolt",
+        "tiempo-contacto",
+        "fatiga-neuromuscular",
+        "k-vertical",
+        "frecuencia-zancada"
+      ],
+      "entities": [
+        "Usain Bolt",
+        "Tyson Gay",
+        "Asafa Powell",
+        "Taylor"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de datos",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué el estilo de carrera de Usain Bolt ahorra fatiga neuromuscular?",
+        "¿Qué diferencia biomecánica tiene Usain Bolt frente a otros velocistas de élite?"
+      ],
+      "related_terms": [
+        "impulso",
+        "mecánico",
+        "progresión",
+        "de",
+        "la",
+        "longitud"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron las disminuciones de rendimiento que provoca el cansancio en parámetros mecánicos de 100m.",
+      "context_after": "Análisis del tercer patrón de movimiento indispensable para la carrera de velocidad: la elevación."
+    },
+    {
+      "id": "V_DIEGO_3-010",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:19:00",
+      "end_timestamp": "00:21:12",
+      "start_seconds": 1140,
+      "end_seconds": 1272,
+      "duration_seconds": 132,
+      "timestamp_url": "?t=1140",
+      "title": "Patrón de elevación progresiva del centro de masas",
+      "summary": "La elevación del centro de masas durante el sprint debe ser gradual, asemejándose a un avión despegando, sin subir bruscamente en los primeros metros. Es crucial equilibrar y unir correctamente la proyección, el ritmo y la elevación para maximizar la eficacia acelerativa.",
+      "literal_quote": "Tiene que ser suave hasta alcanzar una postura erguida. Se suele decir que siente como si estuvieras corriendo en unas escaleras o haz como si fueras un avión que va a despegar.",
+      "full_transcript": "Y por último, tenemos ese patrón de elevación. Trabajos de velocidad lineal, la elevación, cómo voy oscilando el centro de masas y cómo aumenta esa altura en base al aumento del ritmo y de la velocidad. Y sabemos que tiene que ser como un avión. Vemos a los velocistas cómo van manteniendo una altura de centro de masas que se incrementa de manera progresiva hasta los 40, 50 metros aproximadamente, depende de cada velocista, pero no suben de golpe. Tiene que ser suave hasta alcanzar una postura erguida. Se suele decir que siente como si estuvieras corriendo en unas escaleras o haz como si fueras un avión que va a despegar. Y una vez que tenemos todos estos parámetros, se trata de unirlos. Aquí tenemos una fotografía mía de hace ya unos años, en la cual es importante que estos patrones de movimiento estén bien equilibrados y estén unidos, porque la capacidad que tengan unos u otros deportistas, a pesar de que puede variar, es fundamental que exista un equilibrio. Yo, por ejemplo, era un velocista que se levantaba a lo mejor más rápido que otros, pero mi ritmo, una vez alcanzaba mi centro de masas a la altura máxima, era bastante más rápido, a lo mejor que otros compañeros que habían hecho una aceleración mucho más rápida. Por tanto, lo que tenemos que tener en cuenta es que para acelerar adecuadamente, los ángulos de proyección tienen que ser más reducidos en cada zancada, tiempo de contacto menor en cada zancada, siempre que permita ejercer una buena capacidad de fuerza. Si voy, como se dice en el argot atlético, pisando huevos, es decir, levantando el pie muy rápido, no te da tiempo a proyectar esa fuerza en ese vector horizontal. Longitud de zancada cada vez mayor y tiempo de vuelo mayor en cada zancada.",
+      "keywords": [
+        "patron-elevacion",
+        "centro-de-masas",
+        "progresividad",
+        "equilibrio",
+        "aceleracion"
+      ],
+      "entities": [
+        "Diego Alonso"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo debe elevarse el centro de masas en los primeros metros de un sprint?",
+        "¿Por qué 'pisar huevos' o levantar el pie muy rápido perjudica la aceleración?"
+      ],
+      "related_terms": [
+        "postura",
+        "erguida",
+        "ángulos",
+        "de",
+        "proyección",
+        "tiempo",
+        "de",
+        "contacto",
+        "menor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación en detalle sobre el K vertical que le brindaba a Bolt ventajas neuromusculares.",
+      "context_after": "Se plantea si los patrones técnicos descritos deben aplicarse exactamente igual en todo tipo de deportistas."
+    },
+    {
+      "id": "V_DIEGO_3-011",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:21:14",
+      "end_timestamp": "00:22:49",
+      "start_seconds": 1274,
+      "end_seconds": 1369,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=1274",
+      "title": "Mecánica de aceleración frente a velocidad absoluta",
+      "summary": "La mecánica varía según la fase. En la aceleración (velocidad lenta inicial), la fuerza propulsiva neta es altamente horizontal. En la velocidad absoluta (máxima rapidez), la transmisión debe ser forzosamente más vertical para estabilizar el centro de masas; de lo contrario, el atleta sufriría una caída.",
+      "literal_quote": "Cuanto más lentamente se desplace un deportista con respecto a su velocidad, más horizontal puede ser su aplicación de fuerza... Cuanto más rápidamente nos desplacemos, más vertical va a ser su transmisión de fuerza y mayor necesidad de mantener estable nuestro centro de masas.",
+      "full_transcript": "No obstante, cabe destacar una pregunta: ¿este tipo de patrones son los mismos en todos los deportistas? Tenemos que saber que la intencionalidad en el movimiento va a ser la misma, pero el resultado diferente en base a factores internos y externos. No es lo mismo un velocista de 100 metros que un jugador, un extremo izquierdo en fútbol o un alero en baloncesto. Tenemos que saber que existen dos tipos de proyecciones. La mecánica de aceleración, que es en esas primeras fases. Cuanto más lentamente se desplace un deportista con respecto a su velocidad, más horizontal puede ser su aplicación de fuerza, específica su masa. Y luego, mecánica de velocidad absoluta o erguida. Cuanto más rápidamente nos desplacemos, más vertical va a ser su transmisión de fuerza y mayor necesidad de mantener estable nuestro centro de masas para que no haya oscilaciones y podamos seguir manteniendo una aplicación de fuerzas lo más horizontal posible. Si intentáis, por ejemplo, ir a máxima velocidad e inclinaros hacia adelante, probablemente os tropezaréis y os iréis al suelo. De ahí que sea importante saber que esa mecánica de aceleración va muy asociada a esa aceleración y que la mecánica de velocidad está más asociada a esa máxima velocidad y a esa parte de resistencia a la velocidad. Por tanto, la cantidad de aceleración hacia adelante va a depender en gran medida del componente horizontal neto, es decir, de la diferencia que hay entre la fuerza propulsiva y la fuerza de frenado de un deportista.",
+      "keywords": [
+        "mecanica-aceleracion",
+        "velocidad-absoluta",
+        "fuerza-horizontal",
+        "estabilidad",
+        "fuerza-vertical"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias entre la mecánica de aceleración y la de velocidad absoluta?",
+        "¿Por qué es necesario aplicar fuerza vertical cuando se va a máxima velocidad?"
+      ],
+      "related_terms": [
+        "componente",
+        "horizontal",
+        "neto",
+        "fuerza",
+        "propulsiva",
+        "fuerza",
+        "de",
+        "frenado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación general sobre cómo integrar proyección, ritmo y elevación.",
+      "context_after": "Se compara la fuerza de reacción y aplicación horizontal entre velocistas profesionales y atletas amateur/futbolistas."
+    },
+    {
+      "id": "V_DIEGO_3-012",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:22:50",
+      "end_timestamp": "00:25:18",
+      "start_seconds": 1370,
+      "end_seconds": 1518,
+      "duration_seconds": 148,
+      "timestamp_url": "?t=1370",
+      "title": "Complejo pie-tobillo y la estabilidad del tronco en campo",
+      "summary": "Poseer un 'stiffness' altísimo en el complejo pie-tobillo permite soportar y transferir carga de forma hiper-reactiva (el tobillo se muestra paralelo al suelo, ej. Mbappé, Bolt). Estas características biomecánicas del atletismo otorgan enorme ventaja en deportes de equipo. Para que funcionen, el tronco y la pelvis deben mantenerse inmóviles como un sólido bloque estabilizador.",
+      "literal_quote": "Esa capacidad del complejo pie-tobillo de soportar mucha carga mecánica y transferirla al suelo de una manera muy reactiva... Por eso se dice que el velocista es un bloque: es un bloque que no se mueve y que permanece lo más estable posible.",
+      "full_transcript": "Y esta es una de las diferencias principales que hay entre un velocista de élite y un futbolista. Es decir, la capacidad de generar mayor fuerza reactiva contra el suelo por unidad de masa corporal y mejor orientación de esa fuerza total en base a una mayor fuerza horizontal. Recordad la imagen que os he puesto de Asafa Powell, donde se veía la flecha, donde su vector era muy horizontal, el vector resultante. Sin embargo, en un deportista amateur o incluso en un deportista más colectivo, seguramente ese vector sería mucho más vertical, ese vector total. Un aspecto fundamental también es la capacidad que tengamos de transmitir, y esto lo hacía especialmente Usain Bolt, como vimos en esa K vert que había anteriormente en la tabla. Esa capacidad del complejo pie-tobillo de soportar mucha carga mecánica y transferirla al suelo de una manera muy reactiva. Ese stiffness parece permitir esos tiempos de contacto breves y fuerzas reactivas contra el suelo mucho más elevadas. De hecho, si veis en la figura de la derecha, tenemos aquí a Mbappé y a Usain Bolt. Veis en el tobillo de la pierna adelantada cómo el de Usain Bolt es prácticamente horizontal, paralelo al suelo, y en el de Mbappé también. De hecho, Mbappé es considerado uno de los jugadores más veloces dentro del contexto del fútbol y, por tanto, esto supone una ventaja competitiva. Los más veteranos recordaréis, seguramente, por ejemplo, a Thierry Henry... que se caracterizaba por una estética a la hora de correr muy bonita y fluida, que se debía fundamentalmente a que había sido corredor de atletismo... También es el caso, por ejemplo, de la futbolista española Salma Paralluelo, que tiene una motricidad y una manera de correr muy fluida, bonita y con ritmo, y viene del atletismo... También, evidentemente, todo esto se transmite a todo el cuerpo, y de ahí que sea necesario que los diferentes segmentos del cuerpo, del tren superior, también controlen y estabilicen movimientos, especialmente el tronco y la pelvis. Por eso se dice que el velocista es un bloque: es un bloque que no se mueve y que permanece lo más estable posible para que ese centro de masas no oscile en exceso.",
+      "keywords": [
+        "pie-tobillo",
+        "stiffness",
+        "fuerza-reactiva",
+        "mbappe",
+        "estabilidad-tronco",
+        "bloque"
+      ],
+      "entities": [
+        "Mbappé",
+        "Usain Bolt",
+        "Thierry Henry",
+        "Salma Paralluelo",
+        "Asafa Powell"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el complejo pie-tobillo en un sprint?",
+        "¿Qué relación hay entre el atletismo y la técnica de carrera de futbolistas como Mbappé o Henry?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "reactiva",
+        "contra",
+        "el",
+        "suelo",
+        "ventaja",
+        "competitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Distinción de las proyecciones de fuerza mecánicas respecto de la velocidad en curso.",
+      "context_after": "Se abordan los principios metodológicos de entrenamiento de fuerza en gimnasio para velocistas."
+    },
+    {
+      "id": "V_DIEGO_3-013",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:25:20",
+      "end_timestamp": "00:30:28",
+      "start_seconds": 1520,
+      "end_seconds": 1828,
+      "duration_seconds": 308,
+      "timestamp_url": "?t=1520",
+      "title": "Especificidad del entrenamiento de fuerza y masa corporal",
+      "summary": "La fuerza útil es aquella producida en altas velocidades (90-150ms). Se ejemplifica con Peleteiro y Warholm (entrenando estabilizaciones ultra-específicas ignoradas por críticos). Además, ganancias de masa muscular mediante ejercicios hipertróficos lentos y no específicos disminuirán irremediablemente la aceleración, salvo en deportes donde la inercia para los choques compense (ej. rugby).",
+      "literal_quote": "Un aumento elevado de masa corporal con ejercicios inespecíficos y lentos repercutirá negativamente en nuestra capacidad acelerativa... Si la masa se incrementa más que la fuerza, la aceleración disminuye.",
+      "full_transcript": "Esprintar, por tanto, no consiste en la producción de fuerza máxima, sino en la producción dentro del espectro de la velocidad del movimiento, y tiene implicaciones en la especificidad del entrenamiento, es decir, en tiempos de aplicación de fuerza cortos, entre 90 y 150 milisegundos... Uno de ellos es el de Ana Peleteiro, donde aplica una fuerza, seguramente el 140 % sobre su 1 RM en sentadilla profunda, y realiza 1/16 de sentadilla... está trabajando específicamente ese penúltimo apoyo, donde hay un descenso del centro de masas y luego una elevación del mismo... ella está trabajando esa estabilidad del centro de masas cuando aplica la mayor cantidad de fuerza posible. En el caso de la derecha, vemos a Warholm, que es récordman mundial de 400 metros vallas. Este peso... lo lanza contra el suelo y lo va rebotando con un peso que, seguramente, no podría levantar en 1 RM en peso muerto... al apoyar de nuevo el pie en el suelo, lo que está intentando hacer con este ejercicio es simular esa oscilación del centro de masas para estar habituado a fuerzas muy elevadas y poder mantener esa oscilación lo más pequeña o mínima posible, a la vez que estable. Una forma de expresar la eficacia de la transmisión de fuerzas es emplear un ratio de fuerzas. Cuanto mayor sea este ratio de fuerzas, más orientación horizontal tendrá el vector... Por tanto, ¿cuál es el motivo por el cual una persona con mucha fuerza no es capaz de correr velozmente?... principio de correspondencia dinámica: no es capaz de aplicar fuerza en el vector horizontal... Sabemos que la aceleración, además, es inversamente proporcional a la masa corporal... Aquí, por ejemplo, vemos un extensor de rodilla en máquina, que evidentemente no es el mejor ejercicio para llevar a cabo, porque al final no me va a permitir realizar velocidades de ejecución altas con altas demandas de fuerza. Por otro lado, un aumento elevado de masa corporal con ejercicios inespecíficos y lentos repercutirá negativamente en nuestra capacidad acelerativa... Si la masa se incrementa más que la fuerza, la aceleración disminuye... Ahora bien... En ciertos deportes, la masa muscular puede estar asociada a mayor cantidad de fuerza y, además, a una mayor inercia y cantidad de movimiento... Al final, en rugby no es lo mismo pesar 150 kilos que pesar 110 kilos. Si pesas 150 kilos, será más difícil que te muevan y cada vez que des un golpe, tendrá muchísima mayor magnitud.",
+      "keywords": [
+        "fuerza-maxima",
+        "especificidad",
+        "ana-peleteiro",
+        "warholm",
+        "masa-corporal",
+        "hipertrofia"
+      ],
+      "entities": [
+        "Ana Peleteiro",
+        "Warholm"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué es perjudicial el aumento de masa muscular hipertrófica sin especificidad en velocistas?",
+        "¿Qué justifica los ejercicios de estabilización máxima o 'cortos' en atletas como Peleteiro y Warholm?"
+      ],
+      "related_terms": [
+        "ratio",
+        "de",
+        "fuerzas",
+        "correspondencia",
+        "dinámica",
+        "inversamente",
+        "proporcional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Identificación del tronco bloqueado y el tobillo rígido como bases biomecánicas del sprint.",
+      "context_after": "Finalización de los extractos analizados."
+    }
+  ]
+}
