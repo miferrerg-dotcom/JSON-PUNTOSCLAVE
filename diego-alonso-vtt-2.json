@@ -1,0 +1,489 @@
+{
+  "video": {
+    "video_id": "V_DIEGO_ALONSO_2",
+    "video_title": "Entrenamiento de la velocidad",
+    "speaker": "Diego Alonso",
+    "total_duration": "00:17:27",
+    "total_duration_seconds": 1047,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_DIEGO_2-001",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:04",
+      "start_seconds": 2,
+      "end_seconds": 64,
+      "duration_seconds": 62,
+      "timestamp_url": "?t=2",
+      "title": "Contextualización de la velocidad inicial según la disciplina deportiva",
+      "summary": "Las fases de la velocidad son comunes a todos los deportes, pero su aplicación difiere enormemente. En el atletismo, la velocidad inicial es siempre cero con salida estandarizada; sin embargo, en deportes de equipo, la aceleración puede arrancar desde el reposo, en movimiento o ejecutando otra acción táctica previa.",
+      "literal_quote": "En los deportes colectivos o individuales, esa velocidad puede ser cero porque estamos parados, pero puede ser en movimiento o puede ser realizando alguna acción deportiva mientras vamos a empezar a realizar una aceleración.",
+      "full_transcript": "Vamos a comenzar con el segundo epígrafe de las fases de la carrera de velocidad. En este sentido, como he comentado al principio, en esta primera parte, los componentes de la velocidad son transversales a cualquier actividad deportiva. Sin embargo, las diferencias se dan en la importancia que tienen cada una de ellas, cada una de las fases, el tiempo que dispone el deportista para estar en cada una de las fases. Va a depender de las distancias, el contexto, etcétera, y evidentemente, de las demandas de la actividad deportiva. En este sentido, hablaríamos de una velocidad inicial. Por ejemplo, si pensamos en los deportistas de atletismo de 100, 200, 400 metros lisos, la velocidad inicial sería cero y además las condiciones de salida están estandarizadas: con una salida de tacos, detrás de la línea, un pie en cada taco, etcétera. Sin embargo, en los deportes colectivos o individuales, esa velocidad puede ser cero porque estamos parados, pero puede ser en movimiento o puede ser realizando alguna acción deportiva mientras vamos a empezar a realizar una aceleración.",
+      "keywords": [
+        "fases-carrera",
+        "velocidad-inicial",
+        "atletismo",
+        "deportes-colectivos",
+        "aceleracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias de la velocidad inicial entre el atletismo y los deportes colectivos?",
+        "¿De qué depende la importancia de cada fase en la carrera de velocidad?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "inicial",
+        "condiciones",
+        "de",
+        "salida",
+        "transversales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la segunda parte del seminario sobre las fases de la carrera de velocidad.",
+      "context_after": "Análisis de las distancias habituales que tienen los deportistas para poder alcanzar su aceleración y velocidad máxima."
+    },
+    {
+      "id": "V_DIEGO_2-002",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:01:05",
+      "end_timestamp": "00:01:58",
+      "start_seconds": 65,
+      "end_seconds": 118,
+      "duration_seconds": 53,
+      "timestamp_url": "?t=65",
+      "title": "Tiempos de aceleración y la importancia de la velocidad máxima",
+      "summary": "Existe una marcada diferencia de distancias para acelerar. El atletismo permite tramos de 30 a 50 metros para llegar a la velocidad punta. En deportes colectivos rara vez se dispone de ese espacio, haciendo que la capacidad acelerativa inicial sea mucho más determinante para el éxito que la propia velocidad máxima.",
+      "literal_quote": "En muchas ocasiones no vas a tener tiempo para llegar a esa velocidad máxima. Por tanto, quizás esa parte acelerativa puede ser más interesante y, sobre todo, estar vinculada a algunas acciones deportivas.",
+      "full_transcript": "En este sentido, también tenemos que conocer que existen unos tiempos de aceleración. Si hablamos de una prueba de 100, 200 metros, a lo mejor esa aceleración puede estar en torno a los 30, 40 o incluso 50 metros. Sin embargo, en un deporte colectivo es muy poco probable que se produzcan aceleraciones de 30, 40 metros. Por tanto, esa aceleración va a tener que ser mucho más breve. Por otro lado, tenemos la máxima velocidad. Está claro que en el atletismo es un punto crítico. En deporte colectivo, es verdad que cuanto mayor margen tengas de velocidad máxima va a ser mejor, pero en muchas ocasiones no vas a tener tiempo para llegar a esa velocidad máxima. Por tanto, quizás esa parte acelerativa puede ser más interesante y, sobre todo, estar vinculada a algunas acciones deportivas que puedan ser más determinantes a la hora de conseguir ese éxito.",
+      "keywords": [
+        "tiempos-aceleracion",
+        "distancias",
+        "maxima-velocidad",
+        "deportes-equipo",
+        "exito"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es más corta la aceleración en deportes colectivos?",
+        "¿Es la velocidad máxima lo más importante en deportes de equipo?"
+      ],
+      "related_terms": [
+        "tiempos",
+        "de",
+        "aceleración",
+        "parte",
+        "acelerativa",
+        "acciones",
+        "deportivas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables y condiciones iniciales de las que parte un sprint.",
+      "context_after": "Se abordan los componentes clave (longitud y frecuencia) para estructurar correctamente una zancada veloz."
+    },
+    {
+      "id": "V_DIEGO_2-003",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:01:58",
+      "end_timestamp": "00:02:52",
+      "start_seconds": 118,
+      "end_seconds": 172,
+      "duration_seconds": 54,
+      "timestamp_url": "?t=118",
+      "title": "Componentes estructurales y resistencia a la velocidad",
+      "summary": "La velocidad máxima se obtiene mediante la correcta interacción entre la longitud y la frecuencia de zancada. En deportes colectivos, la resistencia a la velocidad implica repetir múltiples sprints evitando la fatiga; mientras que en pruebas lineales (100-400m), consiste en sostener la máxima velocidad alcanzada sin decaer.",
+      "literal_quote": "La resistencia a la velocidad, que en los deportes colectivos va más asociada a poder hacer muchas acciones de sprint de velocidad sin la presencia de fatiga que deteriore el rendimiento.",
+      "full_transcript": "De hecho, cuando hablamos de esa aceleración y esa máxima velocidad, tenemos que tener en cuenta unos componentes básicos. Por un lado, la longitud de zancada, que veremos cómo es la distribución de la misma a lo largo de las diferentes fases, qué pasa con la frecuencia de zancada y luego la determinación de esa velocidad final. Cómo la interacción tanto de la frecuencia como de la longitud de zancada, lo que nos lleva a esa máxima velocidad. Y por último, la resistencia a la velocidad, que en los deportes colectivos va más asociada a poder hacer muchas acciones de sprint de velocidad sin la presencia de fatiga que deteriore el rendimiento deportivo de ese deportista. O, por el otro lado, la capacidad que pueda tener el deportista de, una vez que está en máxima velocidad, mantener esa máxima velocidad sin que haya una pérdida ostensible durante el mayor tiempo posible. Algo que sucede fundamentalmente en pruebas de 100, 200, 400 metros.",
+      "keywords": [
+        "longitud-zancada",
+        "frecuencia-zancada",
+        "resistencia-velocidad",
+        "fatiga",
+        "sprint"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los componentes básicos de la velocidad máxima?",
+        "¿Cómo difiere la resistencia a la velocidad entre el atletismo y el fútbol?"
+      ],
+      "related_terms": [
+        "interacción",
+        "longitud",
+        "y",
+        "frecuencia",
+        "acciones",
+        "de",
+        "sprint"
+      ],
+      "relevance_score": 4,
+      "context_before": "Justificación de por qué la capacidad acelerativa es a menudo más útil que la velocidad absoluta en equipo.",
+      "context_after": "Se estudia detalladamente cómo se incrementa la velocidad de apoyo en cada una de las fases de carrera."
+    },
+    {
+      "id": "V_DIEGO_2-004",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:02:54",
+      "end_timestamp": "00:04:30",
+      "start_seconds": 174,
+      "end_seconds": 270,
+      "duration_seconds": 96,
+      "timestamp_url": "?t=174",
+      "title": "Evolución de la velocidad de apoyo como métrica de fatiga",
+      "summary": "La velocidad de zancada crece de forma exponencial durante la aceleración inicial y se estabiliza al alcanzar la máxima velocidad. Dado que la fatiga limita drásticamente la capacidad de aumentar el ritmo de pasos, esta variable se convierte en una excelente métrica objetiva para monitorizar las cargas del deportista.",
+      "literal_quote": "Cuando un deportista presenta fatiga, su capacidad acelerativa, su capacidad de aumentar la velocidad de paso no va a ser tan alta. Por tanto, puede ser una métrica que podríamos llegar a utilizar.",
+      "full_transcript": "En este sentido, si vamos a desgranar un poco la velocidad de zancada, se puede observar cómo la velocidad de apoyo, conforme pasa el número de apoyos, se va incrementando de manera más o menos exponencial durante las primeras fases de la carrera de velocidad y, posteriormente, se mantiene prácticamente invariable. Debido a que llega un momento donde esa frecuencia de paso no la vamos a poder aumentar y, por tanto, vamos a tener que mantenerlo en un ritmo concreto. Además, si intentamos ver cómo es el incremento de esta velocidad de paso que llevamos en las diferentes fases, vemos en la figura de la derecha una aceleración inicial, una fase de transición o final de la aceleración y una fase de máxima velocidad. Vemos cómo en esa fase de aceleración inicial la velocidad de zancada incrementa rápidamente. En esa fase de transición existen diferencias significativas con respecto a la primera, evidentemente, porque ya no soy capaz de seguir aumentando esa velocidad de paso. Y finalmente, cuando estoy a máxima velocidad, prácticamente permanece invariable. Por tanto, existen además diferencias significativas entre las tres fases y es una cuestión que tenemos que tener en cuenta también, sobre todo cuando un deportista presenta fatiga, su capacidad acelerativa, su capacidad de aumentar la velocidad de paso no va a ser tan alta. Por tanto, puede ser una métrica que podríamos llegar a utilizar para poder comparar diferentes momentos de fatiga, diferentes momentos de carga de nuestros deportistas a través de evaluaciones específicas.",
+      "keywords": [
+        "velocidad-apoyo",
+        "velocidad-zancada",
+        "fase-aceleracion",
+        "fase-transicion",
+        "fatiga",
+        "metrica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo cambia la velocidad de zancada durante las fases de un sprint?",
+        "¿Por qué se puede utilizar la velocidad de paso para medir la fatiga?"
+      ],
+      "related_terms": [
+        "fase",
+        "de",
+        "transición",
+        "velocidad",
+        "de",
+        "paso",
+        "evaluaciones",
+        "específicas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los componentes que interactúan para lograr la velocidad máxima.",
+      "context_after": "Se transiciona hacia el comportamiento específico de la longitud de zancada cuando aparece el cansancio."
+    },
+    {
+      "id": "V_DIEGO_2-005",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:04:31",
+      "end_timestamp": "00:05:50",
+      "start_seconds": 271,
+      "end_seconds": 350,
+      "duration_seconds": 79,
+      "timestamp_url": "?t=271",
+      "title": "Importancia de mantener la longitud de zancada bajo fatiga",
+      "summary": "La longitud de zancada aumenta progresivamente hasta estabilizarse en la fase de transición. Frente a la fatiga en distancias largas, es más eficiente instruir al atleta para que conserve la longitud en lugar de subir la frecuencia, ya que más apoyos generan mayor daño excéntrico y desgaste.",
+      "literal_quote": "Mantengan en la medida de lo posible esa longitud de zancada, porque va a ser mucho más fácil que mantener una elevada frecuencia, que al final implica muchos más apoyos, más fases excéntricas y, por tanto, mucha mayor fatiga.",
+      "full_transcript": "Por otro lado, tenemos la longitud de zancada, ¿qué sucede con ella? En los primeros apoyos es evidente que vamos a ir aumentando paulatinamente, no tan progresivo como la velocidad de zancada, pero sí que va a existir ese aumento de la longitud hasta un momento, más o menos en esa fase de transición, donde empieza a ser prácticamente invariable o imperceptible. Y una de las cuestiones más importantes, específicamente en carreras de velocidad, es que esa longitud de zancada tenemos que intentar mantenerla, habida cuenta de que la fatiga va a llegar cuando ya llevemos 70, 80 metros recorridos, especialmente después de esa fase de 30, 40, 50 metros a máxima velocidad, donde podemos tener una tendencia a disminuir esa longitud de zancada. Pero es importante que nuestros atletas, en el caso de atletismo, mantengan en la medida de lo posible esa longitud de zancada, porque va a ser mucho más fácil que mantener una elevada frecuencia, que al final implica muchos más apoyos, más fases excéntricas y, por tanto, mucha mayor fatiga. De hecho, si vemos el análisis que han hecho en el artículo de Von Lieres y colaboradores, vemos que existen diferencias significativas entre lo que es la longitud de zancada en esa aceleración inicial versus el incremento que hay en la fase de transición y también en la fase de máxima velocidad.",
+      "keywords": [
+        "longitud-zancada",
+        "fase-excentrica",
+        "mantenimiento",
+        "fatiga",
+        "von-lieres"
+      ],
+      "entities": [
+        "Von Lieres"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuándo se estabiliza la longitud de zancada en la carrera?",
+        "¿Por qué se prioriza mantener la longitud y no la frecuencia ante la fatiga?"
+      ],
+      "related_terms": [
+        "fases",
+        "excéntricas",
+        "aumento",
+        "de",
+        "la",
+        "longitud"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la métrica de velocidad de paso y su vinculación al cansancio.",
+      "context_after": "Análisis de un error metodológico común al entrenar la aceleración en deportes de equipo."
+    },
+    {
+      "id": "V_DIEGO_2-006",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:05:51",
+      "end_timestamp": "00:07:48",
+      "start_seconds": 351,
+      "end_seconds": 468,
+      "duration_seconds": 117,
+      "timestamp_url": "?t=351",
+      "title": "Equilibrio técnico y frecuencia en los primeros apoyos",
+      "summary": "Un error frecuente en deportes colectivos es enseñar la aceleración basándose excesivamente en la amplitud. La técnica ideal exige pasos más cortos y una frecuencia exponencial al inicio, concatenando bien los apoyos para ir levantando progresivamente el tronco en perfecto equilibrio mecánico.",
+      "literal_quote": "Saber concatenar apoyos de manera adecuada, elevando la frecuencia de zancada de una manera exponencial en los primeros apoyos, con pasos un poquito más cortos, para luego progresivamente ir levantando el tronco.",
+      "full_transcript": "Y luego tenemos la frecuencia de zancada, que aumenta exponencialmente en los primeros apoyos y luego se mantiene más o menos invariable el resto del tiempo. ¿Esto por qué es? Porque uno de los grandes errores que se cometen, específicamente en deportes colectivos, donde muchas veces se trabaja esto de una manera poco técnica, es que se intenta trabajar más sobre amplitud y no tanto sobre frecuencia. Antes hemos visto que la interacción, tanto de longitud como de frecuencia de zancada, es muy relevante, es importantísima para poder tener una buena velocidad. Pero para poder hacer esto tenemos que guardar un buen equilibrio. Y ese equilibrio resulta específicamente de saber concatenar apoyos de manera adecuada, elevando la frecuencia de zancada de una manera exponencial en los primeros apoyos, con pasos un poquito más cortos, para luego progresivamente ir levantando el tronco y de esa manera ir aumentando tanto esa frecuencia como esa longitud de zancada de una manera equilibrada. De hecho, se ve específicamente en la figura de la derecha cómo el cambio que hay en la frecuencia de zancada en los primeros apoyos, en esa aceleración inicial, es muy superior al que sucede en la fase de transición o en la fase de máxima velocidad. Y sin embargo, las diferencias que hay entre la fase de transición y la de máxima velocidad son pequeñas, son prácticamente poco significativas. Por tanto, es muy determinante que nosotros podamos enseñar técnicamente y de manera adecuada cómo se tienen que ejecutar estas primeras fases de la carrera de velocidad a nuestros deportistas, específicamente en esos deportes colectivos donde es tan importante poder hacer acciones rápidas, donde tengo un periodo de tiempo para ejecutarlas muy corto y donde esas acciones deportivas van a ser determinantes para poder conseguir el rendimiento deportivo que estamos buscando.",
+      "keywords": [
+        "frecuencia-zancada",
+        "error-tecnico",
+        "amplitud",
+        "aceleracion-inicial",
+        "apoyos",
+        "equilibrio"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué error común ocurre al enseñar aceleración en deportes colectivos?",
+        "¿Cómo se deben ejecutar técnicamente los primeros apoyos de un sprint?"
+      ],
+      "related_terms": [
+        "concatenar",
+        "apoyos",
+        "elevar",
+        "el",
+        "tronco",
+        "frecuencia",
+        "exponencial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Priorización de la conservación de zancada sobre la frecuencia ante estados de fatiga profunda.",
+      "context_after": "Se transiciona a los elementos tácticos, cognitivos y perceptuales necesarios para la agilidad real en pista."
+    },
+    {
+      "id": "V_DIEGO_2-007",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:07:49",
+      "end_timestamp": "00:09:22",
+      "start_seconds": 469,
+      "end_seconds": 562,
+      "duration_seconds": 93,
+      "timestamp_url": "?t=469",
+      "title": "Factores perceptuales y tácticos en la agilidad deportiva",
+      "summary": "La agilidad en pista no es meramente fuerza. Depende estrechamente de factores perceptivos (inteligencia táctica, lectura de rivales) y de un excelente ajuste posicional del cuerpo, desde colocar adecuadamente el pie (ej. reverso de baloncesto) hasta alinear correctamente los segmentos articulares.",
+      "literal_quote": "Tenemos factores perceptuales de decisión, que ponen de manifiesto también la inteligencia táctica... Y, por otro lado... Esa posición del cuerpo, cómo vamos a ajustar esos patrones de zancada, cómo vamos a colocar el pie.",
+      "full_transcript": "De hecho, cuando hablamos de esta aceleración, producción y transmisión de fuerza, tenemos que tener en cuenta que, por ejemplo, si hablamos en estos deportes colectivos de la agilidad, existen diferentes factores que nos pueden condicionar. Por un lado, tenemos factores perceptuales de decisión, que ponen de manifiesto también la inteligencia táctica que pueda tener un jugador, un deportista, sobre todo en el reconocimiento de patrones, saber qué tipo de acciones son más probables que hagan nuestros oponentes y, por tanto, podemos anticiparnos, podemos colocarnos de una mejor manera para poder obtener una ventaja competitiva. Y, por otro lado, tenemos factores que van ligados también a esos cambios de dirección. Desde el punto de vista táctico, hablaríamos de los movimientos que hacemos en el suelo o en el aire, que evidentemente van a condicionar en gran medida cómo vamos a poder ejecutar esas primeras acciones para producir y transmitir fuerza y obtener esa ventaja competitiva. Esa posición del cuerpo, cómo vamos a ajustar esos patrones de zancada, cómo vamos a colocar el pie. Evidentemente, por ejemplo, si un jugador de baloncesto va a hacer un reverso, es importante que tenga el pie bien colocado para facilitar ese giro, esa rotación que va a hacer del cuerpo. Saber que tenemos una alineación correcta y una buena segmentación, tanto de las diferentes articulaciones como del cuerpo, a la hora de realizar diferentes cambios de dirección.",
+      "keywords": [
+        "agilidad",
+        "factores-perceptuales",
+        "inteligencia-tactica",
+        "cambios-direccion",
+        "alineacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores perceptuales de la agilidad en los deportes colectivos?",
+        "¿Por qué es importante la correcta colocación del pie en los cambios de dirección?"
+      ],
+      "related_terms": [
+        "inteligencia",
+        "táctica",
+        "ventaja",
+        "competitiva",
+        "alineación",
+        "correcta"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del ajuste técnico óptimo de la zancada en los tramos iniciales de la aceleración.",
+      "context_after": "Se abordan las condiciones físicas y musculares (stiffness, tipología de fibras) que complementan la agilidad."
+    },
+    {
+      "id": "V_DIEGO_2-008",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:09:23",
+      "end_timestamp": "00:11:19",
+      "start_seconds": 563,
+      "end_seconds": 679,
+      "duration_seconds": 116,
+      "timestamp_url": "?t=563",
+      "title": "Componentes antropométricos y neuromusculares de la agilidad",
+      "summary": "Mecánicamente, la amortiguación sobre el metatarso convierte la energía excéntrica en reactividad pura. A nivel antropométrico, un centro de gravedad bajo es ventajoso. Neuromuscularmente, un alto 'stiffness' articular y el predominio de fibras blancas glucolíticas disparan la potencia relativa en los despegues.",
+      "literal_quote": "Deportistas más pequeños, más bajos, con el centro de masas más bajo, son mucho más rápidos en las primeras acciones... aquellos deportistas que tienen una mayor proporción de fibras blancas glucolíticas van a ser capaces de transmitir fuerza de una manera mucho más rápida.",
+      "full_transcript": "Y luego está claro que toda esa parte que tiene que ver con los despegues que hacemos contra el suelo, la frecuencia que yo voy a llevar entre los diferentes apoyos y cómo voy a aterrizar, esa parte de amortiguación con la colocación del pie en posición de metatarso, que me permita realizar una buena fase de reacción y, por tanto, convertir la energía que yo almaceno en esa fase excéntrica en una fase muy reactiva, en un tiempo muy reducido, poder ejercer esa fase concéntrica con la mayor fuerza y velocidad posibles. Y luego, existen otro tipo de componentes. Por ejemplo, componentes antropométricos que me pueden dificultar. Dependerá de la altura del centro de masas. Normalmente, deportistas muy altos, al tener el centro de masas mucho más arriba, es más difícil que realicen acciones de agilidad. Deportistas más pequeños, más bajos, con el centro de masas más bajo, son mucho más rápidos en las primeras acciones. Y luego, desde el punto de vista físico, y aquí hablaríamos ya de aspectos relacionados con la fuerza, la capacidad que tenga de transmitir esa fuerza a través de, por ejemplo, el \"stiffness\" que yo tenga en mis articulaciones, las cualidades del músculo. Sabemos, además, que aquellos deportistas que tienen una mayor proporción de fibras blancas glucolíticas van a ser capaces de transmitir fuerza de una manera mucho más rápida y, por tanto, van a generar potencia relativa y fuerza relativa con unos valores muchísimo más altos. Y, por otro lado, que no tengan problemas asimétricos, es decir, que sean capaces de transmitir una fuerza equivalente entre ambos miembros laterales, tanto pierna derecha como pierna izquierda. Y, por supuesto, como comentábamos anteriormente, que exista ese principio de correspondencia dinámica, que la aplicación de la fuerza sea correcta, o en el nivel vertical, o a nivel horizontal, o evidentemente en lateral, como podría ocurrir en deportes, por ejemplo, de raqueta.",
+      "keywords": [
+        "stiffness",
+        "fibras-blancas",
+        "centro-de-masas",
+        "fase-reactiva",
+        "metatarso",
+        "asimetria"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo influye el centro de gravedad y las fibras blancas en la agilidad de los deportistas?",
+        "¿Por qué es clave el aterrizaje en posición de metatarso?"
+      ],
+      "related_terms": [
+        "fase",
+        "excéntrica",
+        "fase",
+        "concéntrica",
+        "fibras",
+        "blancas",
+        "glucolíticas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo influyen los factores posicionales y cognitivos en la agilidad deportiva.",
+      "context_after": "Se analiza cómo las fuerzas mecánicas de frenado escalan según el grado del cambio de dirección."
+    },
+    {
+      "id": "V_DIEGO_2-009",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:11:21",
+      "end_timestamp": "00:14:04",
+      "start_seconds": 681,
+      "end_seconds": 844,
+      "duration_seconds": 163,
+      "timestamp_url": "?t=681",
+      "title": "Cinética y exigencia de fuerza según el ángulo de giro",
+      "summary": "El grado de giro en un cambio de dirección dictamina la severidad biomecánica. Ángulos superiores a 45º y 90º imponen gigantescas fuerzas de frenado ('braking'), requiriendo métricas de fuerza excéntrica (evaluables mediante RSI en plataformas). Asimismo, reclaman mayor inclinación del tronco y alta implicación abductora de la cadera.",
+      "literal_quote": "Cuando aplico cambios sobre 45 grados y hasta 90 grados y por encima de esos 90 grados, las fuerzas de frenado van a ser muy altas y, por tanto, voy a necesitar mucha más fuerza, tanto de frenada como propulsiva.",
+      "full_transcript": "En este sentido, tendríamos que mencionar también la importancia que tienen los ángulos si vamos a hacer determinados cambios de dirección en los deportes colectivos. Sabemos que dependiendo del ángulo en el que yo vaya a hacer, puedo hacer un giro o un cambio de dirección con más velocidad sobre fuerza. Por ejemplo, cuando aplico cambios sobre 45 grados y hasta 90 grados y por encima de esos 90 grados, las fuerzas de frenado van a ser muy altas y, por tanto, voy a necesitar mucha más fuerza, tanto de frenada como propulsiva, para hacer un cambio de dirección de una manera correcta. Por tanto, aquí también tendríamos que saber valorar específicamente esos niveles de fuerza de \"braking\", que se pueden medir a través de plataformas de fuerzas o incluso también ese \"reactive strength index\" que podríamos obtener de un salto con rebote, por ejemplo, de un \"drop jump\". En este sentido, sabemos que cuando hacemos este tipo de movimientos va a haber cambios en la cinética, en la cinemática, y no solamente van a ser única y exclusivamente del tren inferior, sino que también ese tren superior va a verse afectado, porque hay una inclinación del tronco, hay un momento, una cantidad de movimiento que va a depender también de la velocidad a la cual yo llegue, de la cantidad de frenado y la distancia de frenado que vaya a tener que llevar a cabo y del ángulo de salida que tenga que hacer. Y evidentemente hay una lateralidad, una abducción de caderas que va a estar muy implicada para que la producción de fuerza en otra dirección se haga de una manera correcta. De hecho, se han hecho comparativas, por ejemplo, en el estudio de Dos Santos y colaboradores ya en 2021, donde analizaron las diferencias que existen en diferentes parámetros en un cambio de dirección de 45 grados, un cambio de dirección a 90 grados o un cambio de dirección o prácticamente de sentido a 180 grados. Se ve que el tiempo de contacto en ese cambio de dirección, en ese punto de apoyo, va aumentando conforme aumenta el ángulo. La velocidad de aproximación se reduce conforme aumentamos el ángulo de salida. Esto es evidente. Intentas ajustar mucho mejor tu patrón de carrera, sobre todo para que no sea tan agresiva esa fase de \"braking\". La velocidad del pie final disminuye conforme aumenta el ángulo y ocurre exactamente lo mismo con la velocidad de salida. Por tanto, es muy importante, como hemos visto, saber posicionarnos segmentariamente con el cuerpo y poder producir fuerza de una manera eficaz en base a la determinación del ángulo que nosotros vayamos a tener para hacer la acción subsiguiente de velocidad.",
+      "keywords": [
+        "fuerzas-frenado",
+        "angulos",
+        "cambios-direccion",
+        "braking",
+        "rsi",
+        "cinetica"
+      ],
+      "entities": [
+        "Dos Santos"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Por qué los giros superiores a 90 grados demandan tanta fuerza de frenado?",
+        "¿Cómo se miden los niveles de 'braking' de los deportistas?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "de",
+        "frenada",
+        "reactive",
+        "strength",
+        "index",
+        "abducción",
+        "de",
+        "caderas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las cualidades musculares óptimas como el stiffness o el perfil de las fibras.",
+      "context_after": "Se detalla en profundidad el semáforo de los cambios de dirección (Dos Santos) para entrenar las estrategias correspondientes."
+    },
+    {
+      "id": "V_DIEGO_2-010",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:14:05",
+      "end_timestamp": "00:17:27",
+      "start_seconds": 845,
+      "end_seconds": 1047,
+      "duration_seconds": 202,
+      "timestamp_url": "?t=845",
+      "title": "Estrategias de cambio de dirección (Dos Santos) y prevención de lesiones",
+      "summary": "La clasificación de Dos Santos divide los cambios de dirección en tres niveles (rojo para 60-180º, ámbar para 45-60º y verde para 0-45º), requiriendo diferentes estrategias como el 'side step' o 'crossover cut'. Es fundamental controlar la aproximación y el penúltimo apoyo para evitar lesiones graves como la rotura de cruzado ante déficits de fuerza.",
+      "literal_quote": "Aquellas personas que llevan una velocidad que no pueden controlar y que además llevan asociados ciertos riesgos, como déficits de fuerza, pueden incurrir, por ejemplo, en un cambio de dirección en roturas de cruzado.",
+      "full_transcript": "En este artículo, específicamente, literatura asociada a Dos Santos y colaboradores, hablaban de tres tipos de cambios de dirección que pueden ser enormemente relevantes a la hora de hacer acciones de velocidad y entrenarlos específicamente. Colores en rojo, donde hay un frenado prácticamente en seco, cambios de dirección entre 60 y 180 grados. Hay una gran demanda de frenado durante el penúltimo contacto del pie y luego los potencialmente siguientes pasos previos que vamos a tener van a tener un tiempo de contacto mucho mayor y van a requerir mayor fuerza. De ahí que se recomiende hacer estrategias de cambios de dirección del \"side step\" o de pivote. Un color intermedio que llaman semáforo, el ámbar, donde tienes que reducir la velocidad, cambios de dirección, 45, 60 grados, donde el impulso mecánico que vas a tener va a ser intermedio y, por tanto, el frenado va a ser mucho más moderado, esa fase de \"braking\". Hay un papel, evidentemente importante, de ese penúltimo contacto que tiene el pie, porque va a determinar las capacidades o los tiempos que yo tengo para poder posicionar el pie de manera correcta para salir hacia el ángulo que yo quiero, que yo deseo. Se recomienda una estrategia de \"side step\". Y luego en verde, que dice B, es decir, puedes circular, cambios de dirección 0,45 grados, donde intento mantener la velocidad. Intento no reducirla, no perder, porque voy a tener una ventaja competitiva frente a mi oponente y voy a tener mayor éxito. Las demandas de frenado son mucho más limitadas, no hay un cambio de dirección agudo y, por tanto, no tengo esas partes de \"braking\" tan largas y con un impulso mecánico excéntrico demasiado elevado. Por tanto, tampoco voy a tener demasiada fatiga y las pérdidas de velocidad deberían ser mínimas. Y la estrategia podría ser un \"crossover cut\", mucho más rápida que el \"side step\", en el cual hago una finta y soy capaz de salir lo más rápido posible. Por tanto, tenemos que ser conscientes de que cuando yo estoy trabajando en estos ámbitos, tengo que aproximarme con apoyos precedentes, desarrollar la máxima velocidad controlable. Evidentemente, esto es entrenable y tendríamos que prescribir ejercicios específicamente orientados a controlar esas fases de frenado. A nivel de preparación, penúltimo apoyo, moderar la velocidad en función del tipo de cambio o ángulo que yo vaya a llevar a cabo. Ejecutar, plantar adecuadamente el último apoyo y realizar ese cambio de dirección de manera segura y eficaz. Sabemos, además, que aquellas personas que llevan una velocidad que no pueden controlar y que además llevan asociados ciertos riesgos, como déficits de fuerza, pueden incurrir, por ejemplo, en un cambio de dirección en roturas de cruzado o en algunas lesiones a nivel de la rodilla, cadera, que evidentemente les van a lastrar durante bastante tiempo el poder participar en su deporte. Y luego tener en cuenta esa reaceleración, esos pasos propulsivos, ese aumento progresivo de la frecuencia de zancada y reducción del tiempo de contacto para salir bien de ese cambio de dirección e ir aumentando la velocidad después de esa acción.",
+      "keywords": [
+        "dos-santos",
+        "clasificacion-semáforo",
+        "side-step",
+        "crossover-cut",
+        "lesiones",
+        "rotura-cruzado",
+        "prevencion"
+      ],
+      "entities": [
+        "Dos Santos"
+      ],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cómo funciona la clasificación del semáforo de Dos Santos para los cambios de dirección?",
+        "¿Por qué ocurren las roturas de ligamento cruzado durante un cambio de dirección agresivo?"
+      ],
+      "related_terms": [
+        "estrategias",
+        "de",
+        "cambios",
+        "de",
+        "dirección",
+        "velocidad",
+        "controlable",
+        "penúltimo",
+        "apoyo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis biomecánico sobre el aumento exponencial de la fuerza de frenado dependiendo del grado de salida.",
+      "context_after": "Finalización del fragmento correspondiente al video del seminario de Diego Alonso."
+    }
+  ]
+}
