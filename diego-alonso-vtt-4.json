@@ -1,0 +1,312 @@
+{
+  "video": {
+    "video_id": "V_DIEGO_ALONSO_4",
+    "video_title": "Entrenamiento de la velocidad",
+    "speaker": "Diego Alonso",
+    "total_duration": "00:19:50",
+    "total_duration_seconds": 1190,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_DIEGO_4-001",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:00:11",
+      "end_timestamp": "00:03:13",
+      "start_seconds": 11,
+      "end_seconds": 193,
+      "duration_seconds": 182,
+      "timestamp_url": "?t=11",
+      "title": "Mecánica postural e integración físico-técnica",
+      "summary": "La carrera de velocidad demanda patrones comunes: extensión total de la pierna de apoyo, muslo flexionado arriba y adelante, tobillo armado y brazos estabilizadores. Para optimizarla, es vital desarrollar cualidades físicas (fuerza y pliometría) e integrar el aprendizaje técnico directamente en las tareas específicas del deporte [1-10].",
+      "literal_quote": "Primero, una extensión completa de la pierna de apoyo... tobillo armado para anticipar contacto inicial y que sea reactivo... Y por último, aplicar estos dos conceptos, desarrollo técnico y físico, necesita de ser aplicados dentro de la tarea específica del deporte en cuestión.",
+      "full_transcript": "El primer aspecto que tenemos que tener en cuenta para trabajar la velocidad es la forma o manera de correr, que va a seguir siempre unos patrones comunes, pero con ligeras adaptaciones en base a nivel y técnica del deportista... Primero, una extensión completa de la pierna de apoyo. Como vemos, ese complejo pie-tobillo y ese gemelo están completamente extendidos, que el muslo de la pierna en vuelo se flexiona hacia arriba y hacia adelante, que el tobillo de la pierna se encuentra flexionado, tobillo armado... para anticipar contacto inicial y que sea reactivo. Y luego, que brazos se van a flexionar y se extienden para compensar las fuerzas que tenemos del tren inferior y que tengamos esa estabilidad. De hecho, cuando vayamos a entrenar a cualquier deportista que queramos que mejore su velocidad, tendremos que tener en cuenta unas cualidades físicas. Evidentemente, tendremos que enfocarnos sobre aspectos concretos que vayan a mejorar su capacidad de generar fuerza y de potencia, fuerza máxima, tasas de desarrollo de la fuerza y el ciclo estiramiento-acortamiento. Por tanto, ya podríamos empezar a pensar que ese trabajo pliométrico es esencial... Luego, cualidades técnicas, trabajo técnico, que va a ser fundamental para asegurarnos de que son capaces de desarrollar sus capacidades físicas al máximo y poder tener esas aptitudes para la generación de velocidad... Y por último, aplicar estos dos conceptos, desarrollo técnico y físico, necesita de ser aplicados dentro de la tarea específica del deporte en cuestión.",
+      "keywords": [
+        "patrones-carrera",
+        "postura",
+        "tobillo-armado",
+        "cualidades-fisicas",
+        "pliometria",
+        "tarea-especifica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son los patrones mecánicos básicos de la carrera de velocidad?",
+        "¿Cómo se integra el entrenamiento físico y técnico para mejorar la velocidad?"
+      ],
+      "related_terms": [
+        "extensión",
+        "completa",
+        "ciclo",
+        "estiramiento-acortamiento",
+        "tarea",
+        "específica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre metodología del entrenamiento de velocidad.",
+      "context_after": "Aplicación práctica de estos principios mediante ejercicios de técnica analítica."
+    },
+    {
+      "id": "V_DIEGO_4-002",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:03:13",
+      "end_timestamp": "00:06:02",
+      "start_seconds": 193,
+      "end_seconds": 362,
+      "duration_seconds": 169,
+      "timestamp_url": "?t=193",
+      "title": "Especificidad en ejercicios técnicos: Skipping y tijeras",
+      "summary": "Los ejercicios analíticos (skipping, tijeras) corrigen la aplicación de fuerza y aseguran que la amortiguación ocurra bajo el centro de masas. Se descarta rotundamente el ejercicio de 'talones al glúteo' en deportes colectivos por carecer de transferencia a la biomecánica de la carrera real [10-18].",
+      "literal_quote": "Futbolistas, jugadores de baloncesto, no llevéis el talón al glúteo, es irrelevante. No vais a correr nunca así... tijeras o impulsiones... la amortiguación, recae justo debajo de ese centro de masas.",
+      "full_transcript": "Vamos a ver algunos ejercicios, por ejemplo, de técnica básicos, elevación de rodillas o de skipping... Dadle pisada de metatarso, parte delantera de la planta del pie. Segunda instrucción... eleva las rodillas por delante a 90 grados con respecto al suelo y movimiento oscilante de arriba a abajo... tronco erguido perpendicular al suelo. Y luego movimiento de brazos con codos en 90 grados... Errores comunes que se suelen ver: llevar el tronco hacia atrás o hacia adelante, no mover los brazos... Siguiente ejercicio, talones al glúteo, por favor. Lo siento mucho. Futbolistas, jugadores de baloncesto, no llevéis el talón al glúteo, es irrelevante. No vais a correr nunca así y, por tanto, es importante seguir manteniendo una adecuada técnica y ser específicos al movimiento que luego vayamos a realizar... Siguiente, tijeras. Hay gente que lo llama marcha rusa o algo así. Yo lo llamo tijeras o impulsiones. Pisada de metatarso primero y... rodilla completamente estirada. Estamos trabajando esa parte de sostén, de impulso hacia adelante. Cuando el pie, cuando el apoyo, la amortiguación, recae justo debajo de ese centro de masas. Por tanto, tenemos que empujar desde atrás y avanzar con el cuerpo... ese centro de masas se proyectará en ese vector horizontal que siempre estamos buscando... Una vez que dominen estos ejercicios, se puede combinar que una pierna vaya haciendo skipping o rodillas elevadas y la otra tijeras. Podemos intentar mejorar ese tipo de coordinación a través de estos ejercicios.",
+      "keywords": [
+        "skipping",
+        "talones-gluteo",
+        "tijeras",
+        "centro-de-masas",
+        "metatarso",
+        "vector-horizontal"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué no se debe entrenar el ejercicio de talones al glúteo en fútbol?",
+        "¿Dónde debe recaer la amortiguación en el ejercicio de tijeras?"
+      ],
+      "related_terms": [
+        "pisada",
+        "de",
+        "metatarso",
+        "movimiento",
+        "oscilante",
+        "vector",
+        "horizontal"
+      ],
+      "relevance_score": 4,
+      "context_before": "Importancia de corregir deficiencias técnicas mediante el trabajo estructurado.",
+      "context_after": "Se contrasta la técnica de carrera circular correcta frente a la lesiva técnica pendular."
+    },
+    {
+      "id": "V_DIEGO_4-003",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:06:03",
+      "end_timestamp": "00:08:47",
+      "start_seconds": 363,
+      "end_seconds": 527,
+      "duration_seconds": 164,
+      "timestamp_url": "?t=363",
+      "title": "Prevención de lesiones y técnica de apoyo reactivo",
+      "summary": "Correr penduleando sobrecarga la cadena posterior y ocasiona graves lesiones de isquiotibiales. La técnica óptima es circular (apoyo exacto bajo el centro de masas). Además, el pie debe aterrizar en un 'zarpazo' paralelo al suelo para minimizar el tiempo de frenado y potenciar el impulso [18-25].",
+      "literal_quote": "Hay personas que corren de tipo pendular... que provoca mucho más trabajo de la cadena posterior... y en el medio y largo plazo puede generar lesiones... Llegada activa y en zarpazo del pie al suelo... minimizará el frenado en la fase de amortiguación.",
+      "full_transcript": "Luego, técnica circular... La descripción del tobillo lleva una descripción circular elíptica. Para ello, de nuevo, pisada de metatarso, elevación de rodilla y aquí la oscilación no es arriba abajo, sino que llevo el talón cerca del glúteo y paso la rodilla hacia adelante... Esto va a generar mucha inercia en el movimiento y que el apoyo se realice justo debajo del centro de masas. Hay personas que corren de tipo pendular, donde una vez que la rodilla está hacia arriba, en vez de llevar el tobillo hacia abajo, extienden rodilla y lo que hacen es una especie de péndulo, que provoca mucho más trabajo de la cadena posterior, porque se amortigua con la zona del talón y tiempos de contacto muy superiores, lo que genera mucha más fatiga y en el medio y largo plazo puede generar lesiones, puede haber roturas de fibras, que son muy comunes en personas que pendulean a nivel de isquiotibial o incluso de gemelo... Llegada activa y en zarpazo del pie al suelo, que va a permitir una tracción importante y minimizará el frenado en la fase de amortiguación y apoyo. Reactividad del pie y correcta transmisión de fuerzas de impulso. Como hemos visto, el pie tiene que estar prácticamente paralelo al suelo para que sea reactivo y poder transmitir fuerza de manera adecuada. Fase de impulso, extensión de la pierna, transmitirse eficazmente hacia la cadera, esa parte de stiffness, y que la pierna libre se eleve hacia arriba hasta la horizontal. Y luego incorporación del cuerpo de manera progresiva tras la salida y durante la aceleración. Y, sobre todo, fundamental, correr muy relajados.",
+      "keywords": [
+        "tecnica-circular",
+        "carrera-pendular",
+        "lesiones",
+        "isquiotibiales",
+        "zarpazo",
+        "reactividad"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué la técnica de carrera pendular genera lesiones en los isquiotibiales?",
+        "¿Cómo debe ser el apoyo del pie para asegurar una carrera reactiva y veloz?"
+      ],
+      "related_terms": [
+        "cadena",
+        "posterior",
+        "fase",
+        "de",
+        "amortiguación",
+        "fuerzas",
+        "de",
+        "impulso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de la técnica de las impulsiones/tijeras.",
+      "context_after": "Se transiciona hacia el perfil fisiológico y la medición de la capacidad de generar fuerza horizontal."
+    },
+    {
+      "id": "V_DIEGO_4-004",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:08:50",
+      "end_timestamp": "00:13:02",
+      "start_seconds": 530,
+      "end_seconds": 782,
+      "duration_seconds": 252,
+      "timestamp_url": "?t=530",
+      "title": "Evaluación del Perfil Fuerza-Velocidad y Ratio de Fuerza (RF)",
+      "summary": "Existe una relación lineal inversa: aplicar mayor fuerza horizontal resta velocidad punta y viceversa. Medir el Ratio de Fuerza (RF) con tecnología avanzada (como las plataformas Kanoya) permite diseñar entrenamientos muy específicos que corrijan el déficit individual (fuerza o velocidad) para maximizar la potencia [26-37].",
+      "literal_quote": "Cuanta mayor cantidad de aplicación de fuerza horizontal quiera llevar a cabo, menor velocidad voy a ser capaz de desarrollar... El RF o ratio de componente horizontal efectivo... describen la efectividad de aplicación de fuerza contra el suelo.",
+      "full_transcript": "De hecho, sabemos que correr rápido va a implicar tener la capacidad de producir y aplicar fuerza en esa dirección horizontal desde el suelo... De hecho, aquí tenemos ese perfil de fuerza-velocidad, que compara la velocidad con la fuerza horizontal que soy capaz de desarrollar. Y aquí vemos que evidentemente esa habilidad general para producir fuerza horizontal externa durante la carrera de velocidad se puede describir a través de una relación lineal. Es decir, cuanta mayor cantidad de aplicación de fuerza horizontal quiera llevar a cabo, menor velocidad voy a ser capaz de desarrollar y cuanto mayor velocidad vaya a querer llevar, menor capacidad de fuerza horizontal voy a tener... Por tanto, podemos empezar a pensar que uno de los aspectos más importantes va a ser prescribir entrenamientos que me generen unas repeticiones con los mayores niveles de potencia posibles... Y aquí deberíamos hacer un estudio concreto de cada uno de nuestros deportistas para enfocarnos en trabajos más asociados a fuerza, más asociados a velocidad pura o una combinación de ambas... existen diferentes centros de entrenamiento donde se compara la aplicación de fuerza... es el National Institute of Fitness and Sports en Kanoya... equipada con plataformas de fuerza que están incorporadas en la pista, que me permite hacer un análisis cinético de la carrera... Cuenta con 50 plataformas de 1 m que están instaladas en línea recta... Si escarbamos un poquito más en este perfil fuerza-velocidad, resulta importante conocer también dos variables que describen la efectividad de aplicación de fuerza contra el suelo. El RF o ratio de componente horizontal efectivo, que lo hemos visto anteriormente con ese cociente que veíamos entre la fuerza vertical y la fuerza horizontal... Y la disminución del ratio de fuerza, que tiene en consideración el descenso del RF a medida que la carrera de velocidad aumenta... También saber que en velocistas de élite está entre -0,06 y -0,10.",
+      "keywords": [
+        "perfil-fuerza-velocidad",
+        "fuerza-horizontal",
+        "ratio-fuerza",
+        "rf",
+        "plataformas-fuerza",
+        "kanoya"
+      ],
+      "entities": [
+        "National Institute of Fitness and Sports",
+        "Kanoya"
+      ],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo funciona la relación entre la fuerza horizontal y la velocidad?",
+        "¿Qué es el Ratio de Fuerza (RF) y para qué sirve medirlo en atletas?"
+      ],
+      "related_terms": [
+        "relación",
+        "lineal",
+        "análisis",
+        "cinético",
+        "componente",
+        "horizontal",
+        "efectivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Finalización de los tips técnicos neuromusculares para el sprint.",
+      "context_after": "Se detallan los métodos para entrenar de forma diferenciada cada fase de la aceleración."
+    },
+    {
+      "id": "V_DIEGO_4-005",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:13:02",
+      "end_timestamp": "00:16:38",
+      "start_seconds": 782,
+      "end_seconds": 998,
+      "duration_seconds": 216,
+      "timestamp_url": "?t=782",
+      "title": "Metodología de carga para aceleración inicial y media (10-40m)",
+      "summary": "Para la aceleración inicial se entrena fuerza máxima a velocidades bajas, o potencia máxima con resistencias moderadas (arrastres, Dynaspeed). En la aceleración media (10-40 metros) se trabaja la fuerza anteroposterior reduciendo el tiempo de contacto mediante arrastres controlados y sprints lanzados [37-48].",
+      "literal_quote": "Ejercicios enfocados en la aplicación de altos valores de fuerza máxima a velocidades bajas... Si hablamos de esa fase de aceleración larga, 10-40 metros... velocidad-fuerza con resistencias moderadas, 50 % de pérdida de velocidad.",
+      "full_transcript": "Si nosotros queremos estimular esa primera parte de ese perfil fuerza-velocidad, vemos que hay ejercicios enfocados en la aplicación de altos valores de fuerza máxima a velocidades bajas. Los clásicos que conocemos de siempre, con muchas cargas, con altos porcentajes de la 1 RM, que me permiten aplicar mucha fuerza, pero evidentemente esas velocidades van a ser mucho más bajas. Si queremos estimular la potencia máxima y sobre todo esa parte de disminución del ratio de fuerza... ejercicios enfocados en la aplicación de los mayores niveles de fuerza a velocidades moderadas. También aquí podrían entrar los derivados de halterofilia, trabajo de arrastre. Trabajos que tengan que ver también con el Dynaspeed o con el 1080... Según el artículo 'Speed and acceleration training' de Jiménez-Reyes y Morín... Si quiero trabajar fuerza anteroposterior horizontal... acciones musculares que tengan que ver con la extensión de caderas... con arrastres... o incluso hacer esa parte de cuestas hacia arriba para poder mejorar la fuerza concéntrica de los extensores. Si hablamos de esa fase de aceleración larga, 10-40 metros, donde intentamos mejorar la fuerza anteroposterior horizontal, fuerza máxima en un contexto de velocidad intermedia al 50 %, decrecimiento del ratio de fuerza, gran componente horizontal de las fuerzas reactivas contra el suelo o reducir el tiempo de contacto. Tenemos unas acciones musculares asociadas: flexoextensión de caderas, extensión de cadera y retracción antes del contacto... y podríamos entrenar con máxima velocidad... velocidad-fuerza con resistencias moderadas, 50 % de pérdida de velocidad, etcétera. Podemos trabajar también 'sprint' lanzados y cambios de velocidad, trabajando esa técnica de recobro, de empuje, fuerza reactiva, velocidad cíclica y, dependiendo del volumen, velocidad de resistencia.",
+      "keywords": [
+        "fuerza-maxima",
+        "arrastres",
+        "dynaspeed",
+        "aceleracion-larga",
+        "sprint-lanzado",
+        "potencia"
+      ],
+      "entities": [
+        "Dynaspeed",
+        "1080",
+        "Jiménez-Reyes",
+        "Morín"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se debe entrenar la fase inicial de aceleración corta?",
+        "¿Qué resistencia y ejercicios aplican para entrenar la aceleración entre los 10 y 40 metros?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "anteroposterior",
+        "horizontal",
+        "resistencias",
+        "moderadas",
+        "tiempo",
+        "de",
+        "contacto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Comprensión del ratio de fuerza horizontal efectivo para saber dónde enfatizar el entrenamiento.",
+      "context_after": "Transición al entrenamiento de velocidad pura por encima de los 40 metros."
+    },
+    {
+      "id": "V_DIEGO_4-006",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:16:39",
+      "end_timestamp": "00:19:50",
+      "start_seconds": 999,
+      "end_seconds": 1190,
+      "duration_seconds": 191,
+      "timestamp_url": "?t=999",
+      "title": "Máxima velocidad, pliometría y control del volumen en campo",
+      "summary": "Superados los 40 metros domina la fuerza vertical reactiva. El trabajo pliométrico (saltos en profundidad, CMJ) debe progresar rigurosamente acorde a la fuerza relativa (RM en sentadilla). Al programar esto en deportes colectivos, es crítico mantener volúmenes bajos y altísima intensidad para no transformar el estímulo en resistencia [49-58].",
+      "literal_quote": "Fase de máxima velocidad, más de 40 metros, donde hay una orientación general más vertical de la aplicación de fuerza reactiva... cuando realizamos un volumen más elevado... vamos a tener una pérdida de esa capacidad de velocidad.",
+      "full_transcript": "Y fase de máxima velocidad, más de 40 metros, donde hay una orientación general más vertical de la aplicación de fuerza reactiva contra el suelo, donde la fuerza máxima se da en un contexto de alta velocidad con un tiempo de contacto mínimo... Deberíamos trabajar velocidad-fuerza con arrastres, con máximo el 10 % de pérdida de velocidad, pliométricos verticales orientados a minimizar ese tiempo de contacto, salir rápido del suelo y carreras con vallas de baja altura cerca de esa velocidad máxima para mantener estable ese centro de masas. Aquí surge todo lo que conocemos sobre el entrenamiento pliométrico... pero como recomendación tenemos que existen diferentes intensidades o niveles de fuerza asociados a la fuerza que tiene el deportista con respecto a su peso corporal o su masa corporal. Aquí tenemos saltos pogo y CMJ repetidos. Una vez que superamos ese uno de peso corporal en sentadilla trasera, podemos hacer multisaltos y saltos repetidos. A partir de ahí, cuando levantamos más de 1,5, hacer 'boundings' y saltos en profundidad, y luego ya hacer saltos en profundidad o drop jump... Y por último, tenemos cómo trabajarlo desde el punto de vista más específico, de velocidad pura. Aquí tenemos una tabla que os he preparado con las distancias, intensidades, repeticiones y recuperaciones aproximadas que tenemos que tener en cuenta para poder conseguir mantener específicamente la intensidad. Tenemos que recordar que el trabajo de velocidad es importante que se realice con la mayor velocidad posible, más allá de que, evidentemente, cuando realizamos un volumen más elevado, tanto en distancias como en volumen de series y repeticiones, vamos a tener una pérdida de esa capacidad de velocidad. A lo mejor estamos trabajando más desde el punto de vista de resistencia a la velocidad... lo suyo es que si estamos en un deporte colectivo, intentamos ceñirnos a estas distancias de trabajo dentro de las tareas específicas que hacemos dentro de nuestros deportes. Por mi parte, nada más. Os doy las gracias por vuestra atención.",
+      "keywords": [
+        "velocidad-maxima",
+        "pliometria",
+        "fuerza-vertical",
+        "volumen",
+        "drop-jump",
+        "deportes-colectivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los requisitos de fuerza para hacer saltos pliométricos en profundidad (drop jump)?",
+        "¿Por qué es perjudicial un volumen elevado cuando se entrena la velocidad pura?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "reactiva",
+        "contra",
+        "el",
+        "suelo",
+        "saltos",
+        "en",
+        "profundidad",
+        "resistencia",
+        "a",
+        "la",
+        "velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estrategias de entrenamiento enfocadas en los tramos intermedios de aceleración.",
+      "context_after": "Despedida del seminario formativo."
+    }
+  ]
+}
