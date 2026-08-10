@@ -1,0 +1,105 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:02:59",
+    "total_duration_seconds": 179,
+    "source_file": "WEBVTT-5",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:21",
+      "start_seconds": 2,
+      "end_seconds": 81,
+      "duration_seconds": 79,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Limitaciones y fuentes de error en transductores de posición lineal e IMUs",
+      "summary": "Los transductores de posición lineal y los sistemas IMU son útiles y portátiles, pero presentan errores ligados al hardware y a la ubicación del sensor. Factores como desplazamientos no puramente verticales o artefactos de movimiento (tirones, encogimientos) aumentan artificialmente las métricas. Es fundamental que el profesional entienda que la velocidad de la barra no siempre equivale a la velocidad del centro de masa.",
+      "literal_quote": "For example, bar velocity, waist velocity, and center of mass velocity are not the same thing.",
+      "full_transcript": "Linear position transducers and IMU systems are also useful and portable, but they have their own sources of error. These include hardware limitations, sensor placement, and what exactly the sensor is measuring. There is also the issue of vertical displacement versus cable displacement. If the cable does not move exactly vertically, the movement may not reflect true vertical movement. For example, bar velocity, waist velocity, and center of mass velocity are not the same thing. In this figure, I show the velocity of the bar on the shoulders and the velocity of the center of mass. As the upper body extends, the vertical velocity of the shoulder and the bar can become higher than the velocity of the center of mass. Movement artifacts are also important. Jerking, shrugging, or using barbell path can artificially increase bar velocity. So again, the device may be useful, but the practitioner should understand what the device is actually measuring.",
+      "keywords": [
+        "linear-position-transducers",
+        "imu",
+        "bar-velocity",
+        "center-of-mass",
+        "errores-de-medicion",
+        "movement-artifacts"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fuentes de error de los transductores de posición lineal y sistemas IMU?",
+        "¿Por qué la velocidad de la barra no es igual a la velocidad del centro de masa?",
+        "¿Cómo afectan los artefactos de movimiento a las mediciones en el gimnasio?"
+      ],
+      "related_terms": [
+        "transductores de posición lineal",
+        "sistemas IMU",
+        "velocidad de la barra",
+        "velocidad del centro de masa"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha discutido el uso de plataformas de fuerza y la comparación con las alfombras de contacto.",
+      "context_after": "El ponente cambiará de tema para abordar la brecha de contexto entre los test de gimnasio y las exigencias del deporte real."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:01:25",
+      "end_timestamp": "00:02:59",
+      "start_seconds": 85,
+      "end_seconds": 179,
+      "duration_seconds": 94,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=85",
+      "title": "Brecha de contexto: relación entre el IMTP, el CMJ y el rendimiento deportivo",
+      "summary": "Existe una brecha entre las métricas de gimnasio y las demandas del campo. Un estudio en jugadoras de baloncesto de élite demostró que la fuerza máxima en el IMTP tiene una fuerte correlación con las fuerzas de reacción del suelo horizontales en tareas de cambio de dirección. En contraste, las variables del CMJ mostraron una relación mucho menos clara con estas demandas específicas del deporte.",
+      "literal_quote": "IMTP peak force showed meaningful relationship with horizontal ground reaction forces, while some CMJ variables were less clearly related.",
+      "full_transcript": "Before moving to detailed CMJ interpretation, I want to show an example of the context gap between gym-based testing and sport-specific demands. This example comes from our study with elite female basketball players. They performed two change of direction tasks, a lateral shuffle, and 180-degree turn. We examined the relationship between lower limb strength and power characteristics, assessing using CMJ and IMTP, and horizontal ground reaction force during these movements. The purpose was to understand how general force production qualities relate to more sport-specific movement demands. This table shows the correlation coefficients. The red values indicate significant correlations of 0.5 or higher. In this analysis, the CMJ force variables, IMTP force variables, and horizontal force variables were all normalized to body mass. As you can see, IMTP peak force was consistently associated with mean horizontal ground reaction force during both right and left plant foot turns. In this example, IMTP peak force showed meaningful relationship with horizontal ground reaction forces, while some CMJ variables were less clearly related.",
+      "keywords": [
+        "context-gap",
+        "imtp",
+        "cmj",
+        "change-of-direction",
+        "ground-reaction-force",
+        "basketball"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre la fuerza máxima en IMTP y los cambios de dirección?",
+        "¿Por qué el CMJ puede no estar tan relacionado con las fuerzas horizontales en el baloncesto?",
+        "¿Cuál es la brecha de contexto entre las pruebas de gimnasio y las demandas del deporte?"
+      ],
+      "related_terms": [
+        "brecha de contexto",
+        "IMTP",
+        "fuerzas de reacción horizontales",
+        "cambios de dirección"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las limitaciones en dispositivos de medición portátiles para medir velocidad y desplazamiento.",
+      "context_after": "Se espera que la sesión profundice ahora en la interpretación detallada del CMJ tras haber establecido la importancia del contexto."
+    }
+  ]
+}

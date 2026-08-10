@@ -1,0 +1,154 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:04:30",
+    "total_duration_seconds": 270,
+    "source_file": "WEBVTT-4",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:23",
+      "start_seconds": 3,
+      "end_seconds": 83,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Cambio de paradigma: el laboratorio se acerca al atleta",
+      "summary": "El uso de plataformas de fuerza portátiles e inalámbricas representa un cambio de paradigma. Antes, las evaluaciones se realizaban en laboratorios y estaban desconectadas del entrenamiento diario. Ahora, los S&C coaches pueden recoger datos directamente en el entorno de entrenamiento, lo que exige una mayor responsabilidad y comprensión de los protocolos, errores, fiabilidad e interpretación.",
+      "literal_quote": "But now, the laboratory goes to the athlete. Portable and gym-based force plates allow assessment to happen directly in the training environment.",
+      "full_transcript": "This slide shows an important paradigm shift. In 2019, I attended the NSCA National Conference and tried wireless portable force plates for the first time. This is the video from that time. At the same conference, I was strongly impressed by Dr. Jason Lake's presentation, 'Force Plate Assessment for S&C.' In the past, athletes had to come to the laboratory. Assessment was often controlled by scientists, and the process was separated from daily training. But now, the laboratory goes to the athlete. Portable and gym-based force plates allow assessment to happen directly in the training environment. S&C coaches can operate the systems, collect data, and use the results in daily practice. More people can now use force plates in daily practice. This is very positive, but it also brings more responsibility. If more people can collect data, more people should understand the protocol, potential errors, reliability, and interpretation.",
+      "keywords": [
+        "paradigma",
+        "plataformas-de-fuerza",
+        "laboratorio",
+        "strength-and-conditioning",
+        "responsabilidad",
+        "daily-practice"
+      ],
+      "entities": [
+        "NSCA National Conference",
+        "Jason Lake"
+      ],
+      "topics": [
+        "Evaluación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo ha cambiado el paradigma de la evaluación con plataformas de fuerza?",
+        "¿Qué responsabilidades implica llevar las plataformas de fuerza al entorno diario de entrenamiento?",
+        "¿Quién controla ahora las evaluaciones de fuerza en el gimnasio?"
+      ],
+      "related_terms": [
+        "plataformas de fuerza portátiles",
+        "evaluación en el gimnasio",
+        "S&C coaches",
+        "recolección de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis previo de la necesidad de adaptar la tecnología al entorno del atleta.",
+      "context_after": "Se profundizará en la eficiencia temporal que permiten estos sistemas integrados en la rutina diaria."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:02:27",
+      "start_seconds": 83,
+      "end_seconds": 147,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=83",
+      "title": "Eficiencia temporal y sostenibilidad de las evaluaciones en el gimnasio",
+      "summary": "Una de las principales ventajas de las plataformas de fuerza es su eficiencia temporal. Permiten organizar testeos de CMJ e IMTP de manera fluida y sin disrupciones. Un sistema de monitorización útil debe ser científicamente válido, práctico, rápido y sostenible para poder integrarse verdaderamente en la rutina diaria.",
+      "literal_quote": "A good monitoring system is not only scientifically valid, it also has to be practical and sustainable in daily operation.",
+      "full_transcript": "One practical advantage of the force plate testing is time efficiency. This slide shows an example of how CMJ and IMT/P testing can be organized with multiple athletes in our gym. While one athlete is testing, another athlete can be resting or preparing. This makes it possible to collect meaningful neuromuscular data with minimal disruption. In elite settings, this is extremely important. Athletes and coaches usually do not want long testing sessions during busy training periods. If the test is fast and useful, it is more likely to become part of the routine. In some cases, this type of testing can also be embedded into the training session itself. A good monitoring system is not only scientifically valid, it also has to be practical and sustainable in daily operation.",
+      "keywords": [
+        "time-efficiency",
+        "monitorizacion",
+        "cmj",
+        "imtp",
+        "rutina",
+        "sostenibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la eficiencia temporal al evaluar atletas de élite?",
+        "¿Qué características debe tener un buen sistema de monitorización?",
+        "¿Cómo se integran las pruebas CMJ e IMTP en una sesión de entrenamiento?"
+      ],
+      "related_terms": [
+        "eficiencia temporal",
+        "datos neuromusculares",
+        "sistema de monitorización",
+        "sostenibilidad práctica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del cambio de paradigma hacia las plataformas de fuerza portátiles y el rol del coach.",
+      "context_after": "Se realizará una comparación directa entre las plataformas de fuerza y otros métodos de evaluación como las alfombras de contacto."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:02:27",
+      "end_timestamp": "00:04:30",
+      "start_seconds": 147,
+      "end_seconds": 270,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=147",
+      "title": "Plataformas de fuerza vs. Alfombras de salto (Flight time method)",
+      "summary": "El método de tiempo de vuelo con alfombras estima la altura de salto asumiendo que la postura de despegue y aterrizaje es idéntica. Sin embargo, los atletas suelen alterar esta postura (por ejemplo, aterrizando con el pie plano), lo que provoca una sobreestimación media de 2.5 cm, llegando hasta 9 cm. Este método es útil para el seguimiento intra-sujeto, pero inadecuado para comparar entre diferentes deportistas con distintas estrategias.",
+      "literal_quote": "This means that flight time method may be useful for tracking changes within the same athlete. However, they are less suitable when comparing different athletes, especially if their takeoff and landing strategies are different.",
+      "full_transcript": "Okay, let us now compare force plates with other methods. The flight time method using jump mat is simple and common. The principle is that jump height is estimated from flight time and gravity. If the athlete stays in the air longer, the estimated jump height becomes larger. However, there is an important limitation. The method assumes that the athlete's body position at takeoff and landing is similar. In reality, athletes may change their posture between takeoff and landing. In our study, the flight time method overestimated jump height by about 2.5 centimeters on average. In some athletes, the overestimation was as large as about nine centimeters. A major reason is the difference from foot position. At the takeoff, athletes often push off with ankle plantar flexion, but at landing, they may land with a flatter foot position. This can increase flight time, and as a result, overestimate jump height. Of course, tucking the leg during the flight can also affect the result. Interestingly, the amount of overestimation was relatively consistent with the same athlete but varied between athletes. This suggests that the error depends partly on each athlete's individual takeoff and landing strategy. This means that flight time method may be useful for tracking changes within the same athlete. However, they are less suitable when comparing different athletes, especially if their takeoff and landing strategies are different.",
+      "keywords": [
+        "jump-mat",
+        "flight-time",
+        "overestimation",
+        "estrategia-de-salto",
+        "comparacion",
+        "postura"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones de medir el salto con el método de tiempo de vuelo?",
+        "¿Por qué el uso de alfombras de contacto puede sobreestimar la altura del salto?",
+        "¿Es fiable comparar los saltos de distintos atletas usando el método de flight time?"
+      ],
+      "related_terms": [
+        "alfombras de salto",
+        "método de tiempo de vuelo",
+        "sobreestimación de altura",
+        "estrategia de aterrizaje"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre la eficiencia y necesidad de sistemas de monitorización rápidos y útiles.",
+      "context_after": "Se continuará detallando más diferencias tecnológicas o interpretaciones derivadas de la recolección de datos biomecánicos."
+    }
+  ]
+}

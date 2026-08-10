@@ -1,0 +1,161 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+    "speaker": "Taichi Yamashita",
+    "total_duration": "00:06:56",
+    "total_duration_seconds": 416,
+    "source_file": "WEBVTT-2",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Taichi Yamashita",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:04:12",
+      "start_seconds": 1,
+      "end_seconds": 252,
+      "duration_seconds": 251,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Introducción, contexto multideporte y el rol del High Performance Gym",
+      "summary": "Taichi Yamashita presenta la agenda de la sesión y su experiencia como investigador senior de S&C en el Japan Institute of Sport Sciences. Describe el Japan High Performance Sports Center como un ecosistema multideporte para atletas olímpicos y paralímpicos. Destaca que el High Performance Gym funciona como un núcleo que conecta la investigación y la práctica, adaptando la interpretación de los datos a las demandas, calendarios e historiales específicos de cada deporte.",
+      "literal_quote": "We see the HPG as a hub that connects research and practice.",
+      "full_transcript": "Here is the outline of today's lecture. First, I will briefly introduce my background and workplace. Second, I will explain why assess CMJs using force plates. Third, I will discuss CMJ testing from three practical perspectives: accuracy, feasibility, and interpretation. In applied settings, the best method is not always the most advanced method. It depends on what we want to know, how much time and burden we can accept, and how we interpret the data. Finally, I will share key considerations for testing and interpretation, especially when working with elite athletes in a multi-sport, high-performance environment. Before we start the main topic, I would like to briefly introduce myself. I completed my master's degree and PhD at Kyoto University. Since 2014, I have worked at the Japan Institute of Sport Sciences. My role has evolved from biomechanics research to applied strength and conditioning support. Currently, I work as a senior researcher in strength and conditioning, supporting Olympic, Paralympic, and national team athletes. I also currently serve as a board member of the Japan Society of Training Science for Exercise and Sport and the Japan Society of Biomechanics. In terms of NSC certifications, I obtained my CSCS in 2011 and my CPSS in 2022. This is an overview of the Japan High Performance Sports Center. The Japan High Performance Sports Center is the general name for the area that includes the Japan Institute of Sport Sciences and the National Training Center. The Japan Institute of Sport Sciences was established in 2001. The National Training Center was established later, and additional facilities were developed before major international competitions such as Beijing and Tokyo Olympics and Paralympic Games. These facilities serve as the base of competitive sports in Japan. Athletes from many sports come here for training, rehabilitation, testing, and performance support. The important point is that this is not a single sport environment. We support athletes from many different sports, such as different physical demands, competition calendars, training backgrounds, and injury histories. This is why context becomes so important when we interpret test results. This is also an English introduction video for our facility on YouTube. Please take a look after this lecture. This slide shows the role of our high performance gym, or HPG, at JISS. Our staff includes three researchers and seven practitioners. The researchers, including myself, have backgrounds in biomechanics, physiology, and physiotherapy. We are mainly involved in testing protocol design, methodological standardization, and data interpretation. The practitioners have backgrounds in athletic training, physiotherapy, and strength and conditioning. They conduct the tests, communicate with athletes and coaches, and work with our S&C and rehabilitation departments to translate the results into exercise prescription. We see the HPG as a hub that connects research and practice. On one side, we collaborate with research and development. On the other side, we work closely with the strength and conditioning and rehabilitation.",
+      "keywords": [
+        "multi-sport",
+        "high-performance",
+        "japan-institute-of-sport-sciences",
+        "research",
+        "practice",
+        "contexto",
+        "taichi-yamashita"
+      ],
+      "entities": [
+        "Taichi Yamashita",
+        "Japan Institute of Sport Sciences",
+        "National Training Center",
+        "Japan High Performance Sports Center"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Introducción",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol del High Performance Gym en el Japan Institute of Sport Sciences?",
+        "¿Por qué es importante el contexto al interpretar datos en un entorno multideporte?"
+      ],
+      "related_terms": [
+        "high performance gym",
+        "multideporte",
+        "investigación y práctica",
+        "ciencia del deporte"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación principal y descripción de la agenda.",
+      "context_after": "El ponente continuará explicando los dominios de evaluación y la tecnología de plataformas de fuerza utilizada en el centro."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Taichi Yamashita",
+      "start_timestamp": "00:04:12",
+      "end_timestamp": "00:05:30",
+      "start_seconds": 252,
+      "end_seconds": 330,
+      "duration_seconds": 78,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=252",
+      "title": "Dominios de evaluación y entornos de plataformas de fuerza (Force Plates)",
+      "summary": "Las evaluaciones en el High Performance Gym se dividen en tres dominios: postura/movimiento, sistemas de energía y evaluación neuromuscular. En este último, utilizan plataformas de fuerza triaxiales integradas, sistemas combinados con captura de movimiento y plataformas uniaxiales portátiles, lo que permite desde estudios biomecánicos detallados hasta un monitoreo ágil en el gimnasio.",
+      "literal_quote": "These systems allow us to perform different types of assessment, from detailed biomechanical testing to easy gym-based monitoring.",
+      "full_transcript": "In the multi-sport high-performance environment, assessment is useful only when the method is appropriate, the protocol is standardized, and the interpretation fits the sport's and athlete's context. In our high-performance gym, we can roughly divide the assessments into three domains, posture or movement assessment, energy system assessment, and neuromuscular assessment. Today's lecture focuses mainly on the neuromuscular side, especially jump assessment using force plates. However, when we focus on force plates, we should remember that force plate data are only one part of the whole athlete support system. This slide shows some of our force plate environments. We have in-ground triaxial force plates, force plates combined with motion capture system, and portable uniaxial force plates. These systems allow us to perform different types of assessment, from detailed biomechanical testing to easy gym-based monitoring. This is where researchers play an important role, validating equipment, evaluating methodologies, and helping implement reliable assessment with elite athletes.",
+      "keywords": [
+        "evaluacion-neuromuscular",
+        "force-plates",
+        "plataformas-de-fuerza",
+        "biomechanics",
+        "monitoring",
+        "testing"
+      ],
+      "entities": [
+        "High Performance Gym"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres dominios de evaluación en el alto rendimiento según Yamashita?",
+        "¿Qué tipos de plataformas de fuerza se utilizan en el JISS?"
+      ],
+      "related_terms": [
+        "plataformas de fuerza",
+        "evaluación neuromuscular",
+        "biomecánica",
+        "protocolos de evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha establecido el contexto multideporte y la conexión entre investigadores y profesionales aplicados en el centro.",
+      "context_after": "A continuación, se exponen las tres razones principales por las cuales el salto CMJ es evaluado en los atletas."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Taichi Yamashita",
+      "start_timestamp": "00:05:32",
+      "end_timestamp": "00:06:56",
+      "start_seconds": 332,
+      "end_seconds": 416,
+      "duration_seconds": 84,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=332",
+      "title": "Tres perspectivas prácticas para evaluar el CMJ",
+      "summary": "Yamashita explica que evalúan el CMJ desde tres enfoques: 1) Potencial atlético, ya que la capacidad de salto refleja potencia, coordinación y cualidades neuromusculares claves; 2) Reducción del riesgo de lesiones, asociado a una mayor altura de salto en pretemporada; y 3) Monitoreo de readiness, permitiendo medir respuestas a corto plazo y adaptaciones a largo plazo frente a la carga y fatiga.",
+      "literal_quote": "By measuring CMJ performance over time, we can better understand how the athlete is responding to training, competition, fatigue, and recovery.",
+      "full_transcript": "Now that I have briefly introduced our facility and the multi-sport environment we work in, I would like to move into the main topic. The first question is, why do we assess CMJ? Jump performance provides practical information related to sports performance. We can think about this from three main perspectives. The first is athletic potential. Jumping ability reflects lower limb power, coordination, and neuromuscular qualities. In many sports, these qualities are related to acceleration, change of direction, repeated high-intensity actions, and explosive performance. The second perspective is injury risk reduction. Previous research has reported that higher pre-season jump height was associated with a lower risk of injury. The third perspective is readiness monitoring. Recent studies have suggested that force plate CMJ testing can be used to evaluate athletes' short-term responses and long-term adaptations to training load. By measuring CMJ performance over time, we can better understand how the athlete is responding to training, competition, fatigue, and recovery.",
+      "keywords": [
+        "cmj",
+        "athletic-potential",
+        "injury-risk-reduction",
+        "readiness",
+        "monitoring",
+        "force-plates",
+        "neuromuscular"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación",
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante evaluar el CMJ en atletas de alto rendimiento?",
+        "¿Cómo ayuda el salto con contramovimiento en la prevención de lesiones y monitoreo?"
+      ],
+      "related_terms": [
+        "potencial atlético",
+        "reducción de riesgo de lesión",
+        "readiness",
+        "monitoreo de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los tipos de tecnología de plataformas de fuerza disponibles en el High Performance Gym.",
+      "context_after": "El fragmento disponible termina tras la explicación de estas tres perspectivas; se anticipa que continuará profundizando en la interpretación de datos."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+    "speaker": "Taichi Yamashita",
+    "total_duration": "00:00:52",
+    "total_duration_seconds": 52,
+    "source_file": "WEBVTT-1",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Countermovement jump assessment in a multi-sport high-performance environment",
+      "speaker": "Taichi Yamashita",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:00:52",
+      "start_seconds": 0,
+      "end_seconds": 52,
+      "duration_seconds": 52,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción a la evaluación del salto con contramovimiento (CMJ) en entornos multideporte",
+      "summary": "Taichi Yamashita presenta su rol como investigador en el Japan Institute of Sports Sciences. Su objetivo es compartir consideraciones teóricas y basadas en evidencia sobre cómo utilizan el test CMJ en un entorno de alto rendimiento, apoyando a más de 1000 atletas olímpicos y paralímpicos de más de 50 deportes.",
+      "literal_quote": "Today, I will talk about countermovement jump assessment in a multi-sport high-performance environment.",
+      "full_transcript": "Hello everyone, and thank you very much for the opportunity to speak in this program. My name is Taichi Yamashita, and I work as a senior researcher at the Japan Institute of Sports Sciences within the Japan High Performance Sports Center in Japan. Today, I will talk about countermovement jump assessment in a multi-sport high-performance environment. In this lecture, I would like to share my perspective as a researcher working with Olympic and Paralympic athletes. My goal is to provide evidence-informed and theory-informed considerations. We support athletes, more than 50 sports, with more than 1,000 athletes each year. So I will also share how we actually use CMJ testing in this type of multi-sport applied setting.",
+      "keywords": [
+        "cmj",
+        "countermovement-jump",
+        "evaluacion",
+        "multi-sport",
+        "high-performance",
+        "evidence-informed",
+        "taichi-yamashita"
+      ],
+      "entities": [
+        "Taichi Yamashita",
+        "Japan Institute of Sports Sciences",
+        "Japan High Performance Sports Center"
+      ],
+      "topics": [
+        "Evaluación",
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué explica Taichi Yamashita sobre la evaluación CMJ en entornos multideporte?",
+        "¿Dónde se habla del rol del Japan Institute of Sports Sciences en el alto rendimiento?",
+        "¿Cómo se aplica la prueba CMJ en atletas olímpicos y paralímpicos?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "salto con contramovimiento",
+        "alto rendimiento",
+        "ciencia del deporte"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "El ponente continuará explicando la aplicación práctica y basada en evidencia del test CMJ en atletas de élite."
+    }
+  ]
+}

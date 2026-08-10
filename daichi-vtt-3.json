@@ -1,0 +1,162 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 3",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:05:44",
+    "total_duration_seconds": 344,
+    "source_file": "WEBVTT-3",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 3",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:26",
+      "start_seconds": 2,
+      "end_seconds": 86,
+      "duration_seconds": 84,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Ingeniería inversa y el contexto del CMJ según el deporte",
+      "summary": "El CMJ es una herramienta práctica para evaluar la potencia y velocidad de extensión de las extremidades inferiores mediante ingeniería inversa. Su impacto en el rendimiento varía; en baloncesto o voleibol es una conexión directa, mientras que en fútbol o esgrima es indirecta. Además, una mejora en el CMJ puede deberse a una mejor estrategia de movimiento y no necesariamente a un aumento en la capacidad física.",
+      "literal_quote": "Therefore, the same CMJ score may have different meanings depending on the sport.",
+      "full_transcript": "This concept is related to reverse engineering in strength and conditioning. We start from the performance task. What is required in competition? What are the relevant physical demands? What quality may support that performance? CMJ is a fundamental test because it can serve as a practical proxy for lower limb extension power and speed. But the overlap is not perfect. A high CMJ does not automatically mean excellent sport performance. It gives us one window into the athlete's physical qualities. For example, in basketball, volleyball, and diving, vertical jump ability may have a more direct connection to performance. In soccer, fencing, or speed skating, the connection may be more indirect. However, whether athletes jump vertically or move quickly sideways, rapid and powerful lower limb extension is still an important physical quality. Therefore, the same CMJ score may have different meanings depending on the sport. As I will explain later, it is also possible to improve jump performance by changing the movement strategy rather than by improving physical capacity itself.",
+      "keywords": [
+        "reverse-engineering",
+        "cmj",
+        "potencia",
+        "deportes",
+        "estrategia-de-movimiento",
+        "performance"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se aplica la ingeniería inversa en el entrenamiento de fuerza?",
+        "¿Qué relación tiene el CMJ con diferentes tipos de deportes?",
+        "¿Puede mejorarse el salto CMJ sin aumentar la capacidad física?"
+      ],
+      "related_terms": [
+        "ingeniería inversa",
+        "rendimiento deportivo",
+        "estrategia de movimiento",
+        "extensión de extremidades inferiores"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de los motivos principales para evaluar el salto CMJ en atletas de alto rendimiento.",
+      "context_after": "Se analiza cómo encaja esta evaluación dentro del ciclo olímpico y las diferentes fases a lo largo de una temporada."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 3",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:03:19",
+      "start_seconds": 89,
+      "end_seconds": 199,
+      "duration_seconds": 110,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=89",
+      "title": "Monitorización a largo plazo y toma de decisiones diarias",
+      "summary": "La evaluación deportiva debe apoyar el proceso a largo plazo del atleta, adaptándose a sus fases de entrenamiento, viajes, lesiones y competiciones. El significado de los datos de un CMJ depende completamente del momento (timing); una caída de rendimiento puede ser aceptable en fase de carga, pero alarmante previo a una competición. El objetivo final de estos datos es facilitar la toma de decisiones prácticas en el día a día.",
+      "literal_quote": "The goal is to use data to support practical decisions.",
+      "full_transcript": "This slide represents the big picture across the season or a multi-season Olympic cycle. Athletes do not train in a stable environment all year. They move through training phases, competitions, travel, injury, rehabilitation, qualification events, and the most important, competitions. Assessment should support this long-term process. Sometimes the goal is to monitor training adaptation. Sometimes it is to check readiness before a major competition. Sometimes it is to understand the effects of injury or detraining. So, the interpretation of the same CMJ result depends on timing. A small decrease during heavy training phase may be acceptable. The same decrease before a major competition may require attention. Again, context matters. Once we understand the big picture, the next step is daily decision-making. During a season or an Olympic cycle, the plan is always changing. Training phase, competition schedule, travel, fatigue, injury, and return to play all affect what we should do next. So we need tools that help us make better decisions in the field. CMJ testing is useful not just because it provides force time data, but because it can help us decide whether to push, reduce, adjust, or continue the training process. The goal is to use data to support practical decisions.",
+      "keywords": [
+        "monitorizacion",
+        "timing",
+        "decision-making",
+        "readiness",
+        "fatiga",
+        "contexto",
+        "cmj"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el momento de la temporada a la interpretación del CMJ?",
+        "¿Para qué se utilizan los datos del test CMJ en el día a día?",
+        "¿Por qué es importante el contexto temporal en las evaluaciones físicas?"
+      ],
+      "related_terms": [
+        "toma de decisiones",
+        "monitorización a largo plazo",
+        "ciclo olímpico",
+        "readiness"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo interpretar un mismo valor de CMJ dependiendo del deporte o estrategia de movimiento.",
+      "context_after": "El ponente expone cómo evaluar si la implementación de un sistema de test compensa el esfuerzo y costo."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 3",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:03:21",
+      "end_timestamp": "00:05:44",
+      "start_seconds": 201,
+      "end_seconds": 344,
+      "duration_seconds": 143,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=201",
+      "title": "Selección del método de evaluación: precisión, viabilidad y plataformas de fuerza",
+      "summary": "Al implementar un sistema de evaluación se debe balancear la precisión y la viabilidad, cuestionando si los beneficios superan los costos operativos y de tiempo. Mientras la captura 3D es precisa pero poco práctica, y las alfombras de contacto son simples pero limitadas, las plataformas de fuerza ofrecen el punto de equilibrio ideal para entornos de alto rendimiento.",
+      "literal_quote": "In practice, we have to balance accuracy, feasibility, and interpretation.",
+      "full_transcript": "So far, I have talked about why CMJ assessment can be useful. Now, let's move to how we choose the testing method. In practice, we have to balance accuracy, feasibility, and interpretation. Before implementing any assessment system, we need to consider both benefits and burdens. The benefits include clear goals, monitoring, shared understanding among staff, and better training planning, and so on. They are valuable, especially in a multidisciplinary team, but there are also burdens. Assessment requires staff, equipment costs, time, and the athlete effort. For example, for elite athletes, time is extremely valuable. If testing interrupts training too much, athletes and coaches may not accept it. So, I always ask one practical question, \"Is this assessment worth the burden?\" If the answer is yes, then we should implement it. If not, we should simplify it or choose another method. There are many ways to assess jump performance. At one end of the spectrum, we have laboratory-based three-dimensional motion capture. This can provide detailed information such as joint angles, joint torques, and joint work. It is close to the gold standard for detailed biomechanical analysis, but it is time-consuming and requires expertise. At the other end, we have field-based methods such as contact mats. They are simple and provide real-time feedback, but they usually estimate jump height and provide limited information. Force plates sit somewhere in between. They are more accurate than simple field methods, but they are more practical than full laboratory systems. This balance is one reason force plates have become common in high-performance settings.",
+      "keywords": [
+        "testing-methods",
+        "force-plates",
+        "motion-capture",
+        "contact-mats",
+        "viabilidad",
+        "accuracy",
+        "burdens"
+      ],
+      "entities": [
+        "Force plates"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué factores se deben considerar antes de implementar un sistema de evaluación deportiva?",
+        "¿Por qué se utilizan las plataformas de fuerza en lugar de captura de movimiento 3D?",
+        "¿Qué ventajas tienen las plataformas de fuerza frente a otros métodos de campo?"
+      ],
+      "related_terms": [
+        "plataformas de fuerza",
+        "costo-beneficio de evaluación",
+        "captura de movimiento 3D",
+        "alfombras de contacto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo utilizar los datos recogidos en la toma de decisiones diaria para planificar el entrenamiento.",
+      "context_after": "Se espera que continúe detallando el funcionamiento de las plataformas de fuerza y las métricas que recogen."
+    }
+  ]
+}
