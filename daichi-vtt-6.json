@@ -1,0 +1,193 @@
+{
+  "video": {
+    "video_id": "V06",
+    "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 6",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:07:02",
+    "total_duration_seconds": 422,
+    "source_file": "WEBVTT-6",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V06-001",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 6",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:00",
+      "start_seconds": 1,
+      "end_seconds": 60,
+      "duration_seconds": 59,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "El CMJ y el IMTP en la curva fuerza-velocidad",
+      "summary": "El IMTP evalúa la fuerza isométrica máxima (velocidad cero), generando entre 1.5 y 2.5 veces el peso corporal por pierna. En contraste, el CMJ implica producir fuerza mientras el cuerpo asciende, ubicándose en una zona de mayor velocidad y menor fuerza (1.0 a 1.5 veces el peso corporal). Ambos son útiles, pero evalúan regiones distintas del espectro.",
+      "literal_quote": "In contrast, during a body weight CMJ, the athlete produces force while moving upward, so the CMJ is located more toward the higher velocity and lower force side of the curve.",
+      "full_transcript": "The traditional force velocity curve helps explain the difference between IMTP and CMJ. In the IMTP, velocity is zero, so the IMTP mainly evaluates maximal isometric force. In contrast, during a body weight CMJ, the athlete produces force while moving upward, so the CMJ is located more toward the higher velocity and lower force side of the curve. In our data, peak force was approximately 1.5 to 2.5 times body weight per leg in the IMTP, whereas peak force during the CMJ was approximately 1.0 to 1.5 times body weight per leg. So both tests are useful, but they assess different regions of the force velocity spectrum.",
+      "keywords": [
+        "force-velocity",
+        "imtp",
+        "cmj",
+        "isometric-force",
+        "peso-corporal"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencias existen entre el IMTP y el CMJ en la curva fuerza-velocidad?",
+        "¿Cuánta fuerza relativa al peso corporal se produce en un test IMTP vs un CMJ?"
+      ],
+      "related_terms": [
+        "curva fuerza-velocidad",
+        "fuerza isométrica máxima",
+        "espectro de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento analizando las métricas de fuerza en diferentes evaluaciones.",
+      "context_after": "Comparación de estas métricas base con las demandas reales de los cambios de dirección en el deporte."
+    },
+    {
+      "id": "V06-002",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 6",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:01:03",
+      "end_timestamp": "00:02:07",
+      "start_seconds": 63,
+      "end_seconds": 127,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=63",
+      "title": "Demandas de fuerza: Cambios de dirección frente al CMJ",
+      "summary": "Durante los cambios de dirección, las fuerzas de reacción del suelo superan tres veces el peso corporal debido a la necesidad de frenar y acelerar la masa hacia una nueva dirección. Aunque el CMJ tiene relación con tareas de alta velocidad como el sprint, no representa todas las demandas del deporte y debe ser solo una parte de un sistema de evaluación mayor.",
+      "literal_quote": "This high force is required because the athlete has to break the momentum from the initial direction and then accelerate the body into a new direction.",
+      "full_transcript": "Now, let's compare this with change of direction tasks. During the change of direction tasks, peak ground reaction force was more than three times body weight. This measures that the athlete may experience larger force demands than during a CMJ, and even larger than the IMTP value in this per leg comparison. This high force is required because the athlete has to break the momentum from the initial direction and then accelerate the body into a new direction. Therefore, CMJ testing can be useful, but it does not represent all sports demands. This does not mean that CMJ is not variable. For example, CMJ variables often show good relationship with higher velocity tasks such as sprinting. The key point is that CMJ should be interpreted as one part of a larger assessment system.",
+      "keywords": [
+        "change-of-direction",
+        "ground-reaction-force",
+        "momentum",
+        "cmj",
+        "sprinting",
+        "assessment-system"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué los cambios de dirección demandan más fuerza que un CMJ?",
+        "¿Es suficiente el CMJ para evaluar el rendimiento deportivo general?"
+      ],
+      "related_terms": [
+        "cambios de dirección",
+        "fuerzas de reacción del suelo",
+        "sistema de evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Comparativa entre las fuerzas producidas en IMTP y CMJ.",
+      "context_after": "Se introducen las consideraciones clave para realizar los testeos, comenzando por las instrucciones."
+    },
+    {
+      "id": "V06-003",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 6",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:02:10",
+      "end_timestamp": "00:04:41",
+      "start_seconds": 130,
+      "end_seconds": 281,
+      "duration_seconds": 151,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=130",
+      "title": "Impacto de las instrucciones verbales en el protocolo del CMJ",
+      "summary": "Las instrucciones verbales alteran significativamente la estrategia de movimiento. Pedirle al atleta que salte 'lo más alto posible' frente a 'lo más rápido y alto posible' cambia la curva de fuerza-tiempo, afectando variables como la potencia y el RFD. Las instrucciones son parte fundamental del protocolo y deben estandarizarse para no confundir un cambio de estrategia con un cambio de capacidad física.",
+      "literal_quote": "Otherwise, we may interpret a change in movement strategy as a change in physical capacity.",
+      "full_transcript": "So far, I have discussed why CMJ testing is useful and how it fits within a broader assessment system. I would like to move to key considerations for testing and interpretation. The main topics here are instruction, standardization, sensitivity, movement strategy, and metric interpretation. Now, we move to the key considerations for CMJ testing and interpretation. The first consideration is instruction. This is a study by my colleague, Dr. Nishiumi. He showed that a change in instruction can change movement strategy and force time variables. In this study, athletes performed CMJs under three knee angle conditions, 60 degree, 90 degree, and 120 degrees. They also performed the jump with two different instructions, jump as high as possible, and the second one is jump as fast and as high as possible. In this figure, when the knee angle is around 60 degrees, both instructions show a single peak in the force time curve. However, when the counter movement becomes deeper than 90 degrees, the curve tends to show two peaks. Also, with the first instruction, the force rises more sharply and peak force becomes higher. So even when the task looks like the same CMJ, the instruction and movement depths can change the force time pattern. Both instructions are valid, but they are not the same task. Therefore, when we compare CMJ results across sessions, athletes, or studies, the instruction should be clearly standardized and reported. Otherwise, we may interpret a change in movement strategy as a change in physical capacity. This is especially important for variables such as power, rate of force development, movement durations, and RSI modified. So the practical message is simple. Instruction is not just a detail, it is part of the test protocol.",
+      "keywords": [
+        "instruction",
+        "movement-strategy",
+        "force-time-pattern",
+        "cmj",
+        "rfd",
+        "rsi-modified"
+      ],
+      "entities": [
+        "Dr. Nishiumi"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las instrucciones verbales a los resultados del test CMJ?",
+        "¿Por qué es un error no estandarizar las instrucciones de un salto vertical?"
+      ],
+      "related_terms": [
+        "estrategia de movimiento",
+        "curva fuerza-tiempo",
+        "protocolo de evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que el CMJ es una parte de un sistema de evaluación más grande.",
+      "context_after": "Se detallan otras estrategias de estandarización, como los apoyos visuales y el control de la profundidad del salto."
+    },
+    {
+      "id": "V06-004",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 6",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:04:44",
+      "end_timestamp": "00:07:02",
+      "start_seconds": 284,
+      "end_seconds": 422,
+      "duration_seconds": 138,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=284",
+      "title": "Estandarización metodológica para reducir la variabilidad",
+      "summary": "Para asegurar evaluaciones fiables se aplican protocolos estrictos, como pósteres visuales en el gimnasio. En el CMJ, se busca una profundidad de unos 90 grados, monitorizando cambios entre sesiones. En el IMTP, se asegura la barra con bandas elásticas y se utilizan plantillas estandarizadas (basadas en Paul Comfort) para fijar los ángulos articulares de cadera y rodilla con consistencia.",
+      "literal_quote": "In our gym, we use visual instructions and standardized protocols to reduce variability.",
+      "full_transcript": "The second consideration is methodological standardization. In our gym, we use visual instructions and standardized protocols to reduce variability. For example, we display instruction posters on the wall near the force plates. These posters help athletes and staff follow the same procedures every time. We define the instruction, error criteria, and acceptable movement strategy in advance. For CMJ, counter movement depth is an important factor. If an athlete changes depths, many variables will change even if physical capacity has not changed. We usually cue athletes to bend to approximately 90 degrees during the counter movement. The exact strategy may vary slightly by athlete and sport, but this cue helps us apply a consistent protocol across many sports because our clients are from 50 Olympic, Paralympic, winter, summer sports. We also monitor counter movement depth changes from the previous session because the depth change can affect the force time variables. Same logic applies to IMTP. This is another example of methodological standardization. In our setup, the bar is fixed with elastic bands. This helps keep the bar stable and reduces unnecessary movement before and during the pull. We also use a custom-made hip and knee joint angle range template, so we set the ranges according to Paul Comfort's paper in \"Strength and Conditioning Journal.\" This helps us set the athlete position more consistently. So far, I have discussed standardization. Next, I would like to move to variable selection and interpretation.",
+      "keywords": [
+        "standardization",
+        "variability",
+        "visual-instructions",
+        "cmj-depth",
+        "imtp",
+        "joint-angle"
+      ],
+      "entities": [
+        "Paul Comfort",
+        "Strength and Conditioning Journal"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué estrategias metodológicas se utilizan para reducir la variabilidad en testeos con plataformas de fuerza?",
+        "¿Cómo se estandariza la posición del atleta en la prueba IMTP?"
+      ],
+      "related_terms": [
+        "estandarización metodológica",
+        "profundidad del CMJ",
+        "ángulos articulares"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la importancia de mantener las mismas instrucciones verbales.",
+      "context_after": "El presentador pasará a explicar la selección de variables y cómo interpretar los datos extraídos de estas pruebas estandarizadas."
+    }
+  ]
+}

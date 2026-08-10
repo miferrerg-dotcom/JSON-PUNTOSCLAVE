@@ -1,0 +1,105 @@
+{
+  "video": {
+    "video_id": "V07",
+    "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 7",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:02:04",
+    "total_duration_seconds": 124,
+    "source_file": "WEBVTT-7",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V07-001",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 7",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:36",
+      "start_seconds": 1,
+      "end_seconds": 96,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Fiabilidad y sensibilidad de la altura del salto en la monitorización",
+      "summary": "La altura del salto es una métrica útil por ser simple e intuitiva para entrenadores y atletas. Sin embargo, carece de la sensibilidad necesaria para detectar cambios sutiles. En la monitorización práctica, es clave evaluar la fiabilidad de las mediciones, buscando un coeficiente de variación (CV) dentro del 5% al 10%. En un estudio con jugadores de hockey sobre hielo, el CV fue de 3% para la altura de salto y de 5% para el Braking RFD.",
+      "literal_quote": "Jump height is basic and very useful because it is simple, intuitive, and meaningful. [...] However, jump height is not always sensitive enough to detect suitable changes.",
+      "full_transcript": "The next consideration is sensitivity. Jump height is basic and very useful because it is simple, intuitive, and meaningful. Coaches and athletes understand it immediately. However, jump height is not always sensitive enough to detect suitable changes. This example comes from a study that I conducted with my colleague, Dr. Nishiumi, again, in elite ice hockey players. In this study, we examined the effects of a two-week training cessation period after the national tournament on lower limb neuromuscular function. Before interpreting the changes, I would like to first mention the reliability of the measurements. At baseline, we measured the athletes twice and calculated inter-day reliability. The coefficient of variation was 3% for jump height and 5% for braking RFD. In monitoring, practitioners often try to keep measurement variation within 5% or 10%. RFD type variables can sometimes show larger variability, so this is an important point. In this study, the athletes were familiar with the movement and they were elite athletes, so overall, the reproducibility was acceptable for monitoring.",
+      "keywords": [
+        "jump-height",
+        "sensitivity",
+        "reliability",
+        "braking-rfd",
+        "coefficient-of-variation",
+        "monitorizacion"
+      ],
+      "entities": [
+        "Dr. Nishiumi"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué la altura del salto no siempre es suficiente para monitorizar el rendimiento?",
+        "¿Qué coeficiente de variación se considera aceptable en el alto rendimiento?",
+        "¿Cuál es la diferencia de fiabilidad entre la altura de salto y el Braking RFD?"
+      ],
+      "related_terms": [
+        "altura de salto",
+        "fiabilidad de medidas",
+        "sensibilidad",
+        "coeficiente de variación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de estandarizar las evaluaciones y reducir la variabilidad metodológica en la prueba de salto.",
+      "context_after": "A continuación, se compara la respuesta de ambas métricas ante un periodo real de desentrenamiento en atletas."
+    },
+    {
+      "id": "V07-002",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 7",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:01:38",
+      "end_timestamp": "00:02:04",
+      "start_seconds": 98,
+      "end_seconds": 124,
+      "duration_seconds": 26,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=98",
+      "title": "Sensibilidad del Braking RFD frente al desentrenamiento",
+      "summary": "Tras un periodo de inactividad de dos semanas (desentrenamiento), la altura del salto de los atletas solo disminuyó en un 4%. Por el contrario, el Braking RFD cayó un 13%. Esto demuestra que las variables asociadas a la fase de frenado son significativamente más sensibles a los cambios en la función neuromuscular que la altura de salto aislada.",
+      "literal_quote": "So braking phase variables may be more sensitive to changes in neuromuscular function than jump height alone.",
+      "full_transcript": "In this example, after two weeks without training following a national tournament, jump height decreased by only about 4%. In contrast, braking RFD decreased by about 13%. So braking phase variables may be more sensitive to changes in neuromuscular function than jump height alone.",
+      "keywords": [
+        "braking-rfd",
+        "desentrenamiento",
+        "neuromuscular-function",
+        "jump-height",
+        "sensibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué variable del CMJ es más sensible a la pérdida de función neuromuscular?",
+        "¿Cómo afecta el desentrenamiento de dos semanas al Braking RFD y a la altura de salto?"
+      ],
+      "related_terms": [
+        "braking RFD",
+        "fase de frenado",
+        "función neuromuscular",
+        "desentrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló que el Braking RFD presentaba una variabilidad del 5% frente al 3% de la altura de salto, considerándose ambas aceptables.",
+      "context_after": "El presentador probablemente continuará analizando más métricas avanzadas y su aplicación práctica tras demostrar la sensibilidad del RFD."
+    }
+  ]
+}

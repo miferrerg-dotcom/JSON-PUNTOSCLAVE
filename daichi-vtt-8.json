@@ -1,0 +1,347 @@
+{
+  "video": {
+    "video_id": "V08",
+    "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+    "speaker": "Daichi Yamashita",
+    "total_duration": "00:19:01",
+    "total_duration_seconds": 1141,
+    "source_file": "WEBVTT-8",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V08-001",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:40",
+      "start_seconds": 1,
+      "end_seconds": 160,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Impacto del feedback en tiempo real en la estrategia del salto",
+      "summary": "El timing y formato del feedback alteran directamente el rendimiento. Proporcionar feedback numérico instantáneo junto con indicaciones técnicas del entrenador (cues) permite modificar en tiempo real la estrategia del atleta (Data-driven jump design), logrando mejoras en variables como el Braking RFD y la altura del salto.",
+      "literal_quote": "By combining real-time data with his coaching eye, the athlete developed a more dynamic countermovement strategy and achieved a higher jump.",
+      "full_transcript": "This slide shows an example of feedback modality using a loaded countermovement jump with a gym aware device. In this study, collegiate rugby players performed 30 kilograms loaded countermovement jumps over four weeks, two times a week, and different feedback conditions were compared among groups. The feedback was based on mean bar velocity. The practical message is that feedback can change behavior and training output. In this study, as you can see, only instant feedback group modified performance during loaded countermovement jumps. The other groups, such as visual feedback, average feedback after each set, and no feedback group, did not show the same effect. So the timing and format of feedback matter. This is an example of using countermovement jump data to guide coaching cues. We call this data-driven jump design. Based on the benefit of instant feedback, we provided numerical feedback and coaching cues during jump training in an elite female tennis player, how her jump performance changed within the session. At first, the coach gave cues related to knee flexion. As a result, breaking RFD gradually increased. After that, the response started to level off, so the coach changed the cue and focused more on the countermovement. With this cue, countermovement depths became slightly shallower, but breaking RFD increased further. Then the external focus cue was added. As you can see, jump height gradually increased during the session. The first author, Takayanagi, is an S&C coach. His coaching observation was very important here. By combining real-time data with his coaching eye, the athlete developed a more dynamic countermovement strategy and achieved a higher jump.",
+      "keywords": [
+        "feedback",
+        "real-time-data",
+        "coaching-cues",
+        "braking-rfd",
+        "jump-design",
+        "gym-aware"
+      ],
+      "entities": [
+        "Takayanagi"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el feedback en tiempo real al rendimiento del salto?",
+        "¿Qué es el diseño de salto basado en datos (data-driven jump design)?",
+        "¿Por qué es importante combinar los datos objetivos con la observación del entrenador?"
+      ],
+      "related_terms": [
+        "feedback numérico",
+        "diseño de salto basado en datos",
+        "coaching cues",
+        "Braking RFD"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin de la explicación sobre la sensibilidad de las métricas ante el desentrenamiento en la parte anterior del webinar.",
+      "context_after": "El presentador pasa a explicar los mecanismos biomecánicos detrás de la optimización de la altura de un salto."
+    },
+    {
+      "id": "V08-002",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:02:41",
+      "end_timestamp": "00:05:36",
+      "start_seconds": 161,
+      "end_seconds": 336,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=161",
+      "title": "Mecánica del CMJ: el trabajo de cadera y el aumento del impulso",
+      "summary": "Para saltar más alto, los atletas aumentan el impulso produciendo mayor fuerza durante más tiempo, usualmente adoptando un contramovimiento más profundo. Análisis cinemáticos revelan que los atletas con mayores alturas de salto destacan por un mayor trabajo en la articulación de la cadera, demostrando que la altura refleja tanto la capacidad física como la estrategia organizativa del movimiento.",
+      "literal_quote": "The ability to use the hip joint effectively was an important feature of high jump performance.",
+      "full_transcript": "Now, let's consider what it means to maximize jump height. From a mechanical perspective, jump height is mainly determined by take-off velocity, and take-off velocity is strongly related to the net vertical impulse. In simple terms, to jump higher, the athlete tried to produce a large force over a long time during the push-off. One common strategy is use a deeper countermovement. This makes sense because a deeper countermovement can increase the distance and time over which the athlete accelerates the body, and this can help increase impulse. Previous studies suggest that a slightly deeper than natural countermovement depth may help maximize jump height. Other studies also show that increased hip flexion and high hip extension power and work are associated with higher jump performance. So jump height is not only a measure of physical capacity, it is also influenced by how the athlete organizes the movement. In our gym, we also use two-dimensional motion capture analysis, combining a sagittal plane camera with Keesler force plates. Using this system, we collected data from around 60 male elite athletes and examined the characteristics of jump who could jump higher. What we found was that athletes with higher jump height showed greater hip joint work. In contrast, knee and ankle joint work were not clearly related to jump height. This suggests that, at least in this dataset, the ability to use the hip joint effectively was an important feature of high jump performance. Again, the practical message is that jump height is useful, but it should be interpreted together with movement strategy and joint level information. With portable force plates, we usually cannot directly see the joint level information such as hip, knee, or ankle work. So in daily practice, we have to infer part of the countermovement strategy from the force time card and visual observation. This is why coach observation remains important even when we use force plates.",
+      "keywords": [
+        "net-vertical-impulse",
+        "countermovement-depth",
+        "hip-joint-work",
+        "take-off-velocity",
+        "motion-capture"
+      ],
+      "entities": [
+        "Keesler"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué articulación tiene mayor impacto biomecánico en la altura de un salto vertical?",
+        "¿Por qué un contramovimiento más profundo ayuda a maximizar la altura del salto?",
+        "¿Cómo infieren los entrenadores la estrategia de movimiento sin captura 3D?"
+      ],
+      "related_terms": [
+        "impulso vertical neto",
+        "trabajo articular de cadera",
+        "profundidad de contramovimiento",
+        "velocidad de despegue"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo las instrucciones y el feedback alteran la estrategia de salto del atleta en tiempo real.",
+      "context_after": "Introducción de la métrica RSI Mod para añadir el componente temporal a la evaluación del salto."
+    },
+    {
+      "id": "V08-003",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:05:36",
+      "end_timestamp": "00:07:59",
+      "start_seconds": 336,
+      "end_seconds": 479,
+      "duration_seconds": 143,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=336",
+      "title": "El valor del RSI Mod frente a la medición exclusiva de altura",
+      "summary": "El RSI Mod (Reactive Strength Index Modified) combina la altura del salto con la duración del movimiento. Un estudio con jugadores de rugby mostró que la altura por sí sola no lograba diferenciar entre distintos niveles competitivos, pero el RSI Mod y el tiempo de movimiento sí, convirtiéndolo en un indicador clave de explosividad en deportes de campo.",
+      "literal_quote": "This suggests that jump height alone may miss important information. [...] So RSI mod can provide useful information beyond jump height.",
+      "full_transcript": "And recently, another CMJ variable has received a lot of attention. The reactive strength index modified, or RSI Mod. RSI Mod is calculated as jump height divided by movement duration. So it is often used to add a time component to CMJ assessment. This is a well-known study by Dr. McMahon and colleagues. This is rugby league example. Athletes from the Super League top tier and the championship, the sub top tier, performed CMJs with the instruction to jump as fast and as high as possible. When the two groups were compared, jump height did not distinguish performance levels. In other words, both groups jumped to a similar height. However, when we look at RSI mod, movement duration, and countermovement depths, we can see clear differences between the groups. This suggests that jump height alone may miss important information. RSI mod is attractive because it combines two components, how high the athlete jumps and how quickly the athlete completes the movement. In field and court settings, such as rugby, this type of ability can be very valuable because athletes often have to produce force quickly within a limited time window. So RSI mod can provide useful information beyond jump height. RSI mod is useful, but it requires careful interpretation.",
+      "keywords": [
+        "rsi-mod",
+        "reactive-strength-index",
+        "movement-duration",
+        "jump-height",
+        "rugby-league"
+      ],
+      "entities": [
+        "Dr. McMahon"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el RSI Mod y cómo se calcula?",
+        "¿Por qué es útil la métrica RSI Mod en deportes de campo?",
+        "¿Logró la altura del salto diferenciar a jugadores de rugby de élite y sub-élite en el estudio de McMahon?"
+      ],
+      "related_terms": [
+        "RSI modificado",
+        "duración del movimiento",
+        "índice de fuerza reactiva",
+        "producción rápida de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Conclusión de que la altura del salto depende de la capacidad física y de una correcta estrategia organizativa del movimiento.",
+      "context_after": "Se expondrán los riesgos que supone pedir a un atleta que optimice una métrica como el RSI Mod de manera aislada."
+    },
+    {
+      "id": "V08-004",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:07:59",
+      "end_timestamp": "00:11:07",
+      "start_seconds": 479,
+      "end_seconds": 667,
+      "duration_seconds": 188,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=479",
+      "title": "El riesgo de optimizar métricas: distorsión de la estrategia de movimiento",
+      "summary": "Optimizar el rendimiento en base a una métrica compuesta como el RSI Mod puede ser perjudicial si el atleta sacrifica la altura saltando muy rápido y corto para elevar el valor artificialmente. Para evitar distorsionar la intención explosiva real, el profesional debe monitorizar y estandarizar la profundidad del contramovimiento.",
+      "literal_quote": "Metric optimization can distort the intended quality. [...] they learned to make the movement smaller, very, very smaller and very, very faster, but not necessarily to jump higher.",
+      "full_transcript": "When one metric combines two components and those components compete with each other, athlete can improve the metrics through different strategies. For example, they may jump higher, reduce movement duration, or change countermovement depths, but these strategies are not equivalent. This brings us to an important pitfall from our own work. This video was taken when one of my graduate students and he was developing a prototype system. This was during the COVID pandemic. In this study, university students were instructed to perform CMJs as fast and as high as possible. They received real-time RSI mod feedback over eight sessions across four weeks. The goal was to maximize the displayed RSI mod value. The question was simple, how would athletes or students adapt when they tried to optimize this metric? Okay. The result was very interesting. Among six participants, four participants RSI mod improved so much from around 0.4 to 0.6. So this was a very abrupt increase in RSI mod because, as I mentioned, rugby league players, RSI mod was around 0.5, but in this university students, RSI mod values improved from 0.4 to 0.6. So in this case, they learned to make the movement smaller, very, very smaller and very, very faster, but not necessarily to jump higher. This illustrates a very important point, metric optimization can distort the intended quality. So they chose very small countermovement and very short time, sacrifice the jump height. Then, so they made a very high RSI mod value. If the intended quality is explosive jumping ability, we should be careful that athletes do not simply chase the number by changing the movement strategy beyond what we want. As I mentioned earlier, one effective strategy for increasing jump height is to use the deeper countermovement, push against the ground for a longer time, and generate larger impulse. So when height and duration compete, the trade-off must be managed. This is why depth standardization, joint angle cues, countermovement depths monitoring, and control of excessive strategy shifts are very important. But this does not mean RSI mod is bad. This means that any feedback metric can shape behavior, and we should understand that the behavior before using the metric for training decisions.",
+      "keywords": [
+        "metric-optimization",
+        "trade-off",
+        "movement-strategy",
+        "depth-standardization",
+        "rsi-mod",
+        "pitfall"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los riesgos de pedir a un atleta que optimice sus métricas de RSI Mod?",
+        "¿Por qué es importante estandarizar la profundidad del contramovimiento?",
+        "¿Cómo distorsionaron los estudiantes la prueba de RSI Mod en el estudio de Yamashita?"
+      ],
+      "related_terms": [
+        "optimización de métricas",
+        "distorsión cualitativa",
+        "profundidad del salto",
+        "estandarización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que el RSI Mod es útil para ver características neuromusculares que la altura no revela.",
+      "context_after": "Se discuten las limitaciones inherentes a los datos de plataformas de fuerza y la necesidad de combinarlos con análisis de movimiento."
+    },
+    {
+      "id": "V08-005",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:11:08",
+      "end_timestamp": "00:13:54",
+      "start_seconds": 668,
+      "end_seconds": 834,
+      "duration_seconds": 166,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=668",
+      "title": "Compensaciones articulares ocultas y los límites de las plataformas",
+      "summary": "Las plataformas de fuerza son un proxy útil, pero solo aportan alrededor del 70% de la imagen, ya que ocultan déficits articulares. Por ejemplo, en una readaptación post-LCA, un atleta puede tener un rendimiento global y simetría aparentemente normales en el CMJ, mientras la rodilla lesionada apenas contribuye un 67% respecto a la sana, requiriendo sistemas de análisis de movimiento para detectarlo.",
+      "literal_quote": "Overall performance or symmetry scores can sometimes hide joint-level compensation. This is one reason why motion analysis can provide useful information beyond force plate data alone.",
+      "full_transcript": "This slide summarizes a major caution. Countermovement jump tests using force plates are valuable, but test demands are not the same as sports demands. Also, as we saw earlier, movement strategy can change depending on the instruction. CMJ is a proxy measure. It gives us useful information about force production patterns, but it does not fully represent the performance qualities that practitioners want to assess. Force plates can clearly show vertical force-time patterns. However, some important aspects are less visible, such as joint loading, joint coordination, and sport-specific movement constraints. Therefore, force plate data should be interpreted together with sport context and practitioner observation. We should avoid over-reliance on force plate results. In my own practice I often say, \"Use the data strongly, but do not depend on it completely.\" I sometimes think of the data as providing about 70% of the picture. This slide shows a more advanced assessment approach using motion analysis. With motion analysis, we can look deeper into joint-level information, such as hip, knee, and ankle work. This example shows that even when overall performance looks similar, the joint contribution patterns can be different. In return to sports situation after ACL reconstruction, common tests may look almost symmetrical. In this example, quadriceps strength was 94%, and single-leg hop distance was 97%. However, when we look at joint contribution during a single-leg vertical jump, the knee contribution on the involved side was still much lower. It was only 67% of the uninvolved side. So overall performance or symmetry scores can sometimes hide joint-level compensation. This is one reason why motion analysis can provide useful information beyond force plate data alone.",
+      "keywords": [
+        "over-reliance",
+        "joint-level-compensation",
+        "acl-reconstruction",
+        "force-plates",
+        "motion-analysis",
+        "symmetry-scores"
+      ],
+      "entities": [
+        "ACL"
+      ],
+      "topics": [
+        "Evaluación",
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Por qué un puntaje de simetría normal en un test de salto no garantiza una recuperación completa?",
+        "¿Qué porcentaje de la imagen total representan los datos de la plataforma de fuerza según Daichi Yamashita?",
+        "¿Cómo ayuda el análisis de movimiento en la fase de Return to Play post lesión de LCA?"
+      ],
+      "related_terms": [
+        "compensación a nivel articular",
+        "simetría del salto",
+        "Return to Play",
+        "reconstrucción de LCA"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre los errores al buscar optimizar parámetros aislados como el RSI Mod alterando la estrategia del atleta.",
+      "context_after": "Se muestran los esfuerzos tecnológicos para llevar la captura de movimiento complejo hacia herramientas más ágiles e implementables en el gimnasio."
+    },
+    {
+      "id": "V08-006",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:13:54",
+      "end_timestamp": "00:17:25",
+      "start_seconds": 834,
+      "end_seconds": 1045,
+      "duration_seconds": 211,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=834",
+      "title": "Soluciones ágiles de cinemática deportiva (Markerless y 2D)",
+      "summary": "La captura 3D es lenta y costosa. Por eso, han desarrollado sistemas de machine learning 2D que devuelven perfiles cinemáticos completos y figuras de bastones (stick pictures) en 10 minutos. Además, están implementando sistemas 'markerless' integrados con fuerza que, usando potentes GPUs y validación rigurosa, eliminan el uso de marcadores, permitiendo la recogida rápida de datos en el día a día.",
+      "literal_quote": "The goal is to provide enough information, fast enough to support coaching decisions. This is an important philosophy in applied sport science.",
+      "full_transcript": "In our high-performance gym, we have explored ways to make motion analysis more practical. Traditional motion capture can be accurate, but it is time-consuming. For daily support, we need faster systems. We attached only six LED markers to each athlete, not 40 or 50 markers. This is why we developed a 2D motion capture using machine learning that can generate outputs such as height, power, force joint torque, joint angle, and movement duration in approximately 10 minutes. Within about 10 minutes, we can review a stick picture visualization and joint kinematic and kinetic data such as angle, torque, power, and movement type, and jump height. We also create percentile scores to profile each athlete. This allows us to understand not only how high the athlete jumps, but also how the athlete produced that jump. The goal is to provide enough information, fast enough to support coaching decisions. This is an important philosophy in applied sport science. More recently, markerless motion capture systems have become increasingly practical. This is a new assessment system that we have just started to implement in our gym. In this video, the athlete is actually me, or not athlete. The procedure is very simple. First, athlete steps onto the force plate and stands still. Then athlete performs a jump, steps off the plates, steps back on, stands still again, performs another jump, and the test is finished. After recording, the data can be processed through Sia and Visual3D, and then we use Python to generate videos with stick pictures and joint kinetic information. So in this workflow, we can move from recording to visual feedback and joint-level analysis with much less manual work. The setup burden is much lower than traditional marker-based motion capture. These systems allow us to capture movement in a more natural environment with less preparation time. So they don't need to attach any markers. So just step on the force plate and then jump for three times. Of course, we can also assess single-leg tasks. However, this type of analysis still requires a good GPU computer and processing can take several minutes. We also have to further validate the accuracy of small joint angle changes, such as knee valgus or hip internal rotation. So markerless systems can provide joint-level information and visual feedback, but careful validation, processing, and context-specific interpretations are still essential.",
+      "keywords": [
+        "motion-capture",
+        "machine-learning",
+        "markerless",
+        "visual3d",
+        "python",
+        "gpu"
+      ],
+      "entities": [
+        "Visual3D",
+        "Python"
+      ],
+      "topics": [
+        "Data Science",
+        "Metodología",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Innovación"
+      ],
+      "search_questions": [
+        "¿Qué alternativas ágiles a la captura 3D se aplican en el alto rendimiento?",
+        "¿Qué son los sistemas 'markerless' y cómo se integran con plataformas de fuerza?",
+        "¿Cuáles son los requerimientos técnicos y limitaciones actuales del sistema markerless?"
+      ],
+      "related_terms": [
+        "sistemas de análisis markerless",
+        "machine learning en deporte",
+        "cinemática articular",
+        "visual feedback"
+      ],
+      "relevance_score": 4,
+      "context_before": "Demostración de que las asimetrías articulares pasan desapercibidas en tests de plataformas sin apoyo visual/cinemático.",
+      "context_after": "El presentador resume su ponencia con las conclusiones clave antes de despedirse."
+    },
+    {
+      "id": "V08-007",
+      "video_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment - Parte 8",
+      "speaker": "Daichi Yamashita",
+      "start_timestamp": "00:17:25",
+      "end_timestamp": "00:19:01",
+      "start_seconds": 1045,
+      "end_seconds": 1141,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1045",
+      "title": "Conclusiones: el contexto, la estandarización y la intuición del entrenador",
+      "summary": "Yamashita resume los cinco pilares para la evaluación: 1) El contexto dicta la interpretación. 2) Las plataformas incrementan la precisión. 3) Estandarizar es no-negociable. 4) La altura del salto sola es insuficiente y 5) Las métricas deben guiar y no dominar. Las mejores decisiones nacen combinando pericia humana y datos objetivos.",
+      "literal_quote": "The best decision comes from combining objective data with practical expertise.",
+      "full_transcript": "Okay, let me finish with the main take-home messages. First, CMJ testing is useful, but context matters. The same result can mean different things in different sports, athletes, and training phases. Second, force plates improve accuracy and interpretation. They provide real-time, force-time data and allow us to look beyond jump height. Third, standardization is essential. Instruction, protocol, depth, error criteria, all influence the data. Fourth, jump height alone is not enough. It is useful and intuitive, but it may be sensitive enough, and it does not fully explain how the jump was performed. Fifth, metrics should guide decisions, not dominate them. If we ask athletes to optimize a number, they may change their strategy in ways we didn't intend. Finally, we should integrate force plate data with sport-specific demands and coach observation. The best decision comes from combining objective data with practical expertise. So, with these ideas in mind, let's get started the force plate testing. Thank you very much for watching the lecture.",
+      "keywords": [
+        "take-home-messages",
+        "contexto",
+        "standardization",
+        "decision-making",
+        "expertise",
+        "force-plates"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principales mensajes sobre la evaluación del salto con plataformas de fuerza?",
+        "¿Qué papel debe jugar una métrica a la hora de tomar decisiones deportivas?",
+        "¿Por qué es indispensable combinar los datos con el juicio humano en el entrenamiento de fuerza?"
+      ],
+      "related_terms": [
+        "toma de decisiones deportivas",
+        "estandarización de pruebas",
+        "pericia humana",
+        "contexto deportivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación tecnológica de los sistemas que permiten obtener datos cinemáticos en tiempo real de forma sostenible.",
+      "context_after": "Cierre del webinar y despedida del ponente."
+    }
+  ]
+}
