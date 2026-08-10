@@ -1,0 +1,200 @@
+{
+  "video": {
+    "video_id": "V_DIEGO_ALONSO",
+    "video_title": "Entrenamiento de la velocidad",
+    "speaker": "Diego Alonso",
+    "total_duration": "00:09:05",
+    "total_duration_seconds": 545,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_DIEGO-001",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:02:32",
+      "end_timestamp": "00:04:14",
+      "start_seconds": 152,
+      "end_seconds": 254,
+      "duration_seconds": 102,
+      "timestamp_url": "?t=152",
+      "title": "Diferencia conceptual entre velocidad y rapidez",
+      "summary": "Se diferencian los conceptos de velocidad y rapidez en el deporte. La velocidad se define como el ritmo para recorrer una distancia y es una magnitud vectorial (desplazamiento/tiempo). La rapidez se enfoca en gestos cortos y específicos realizados en un tiempo breve, siendo una magnitud escalar (distancia/tiempo).",
+      "literal_quote": "La velocidad es una magnitud vectorial que tiene una relación longitud/tiempo. [...] Y en la rapidez hablaríamos de distancia/tiempo, pero en vez de ser una magnitud vectorial, es una magnitud escalar.",
+      "full_transcript": "En primer lugar, tenemos que distinguir entre lo que es la velocidad, que es esa capacidad física entendida como el ritmo en el que un deportista es capaz de recorrer una determinada distancia. Se mide en metros por segundo y, en este sentido, existen deportistas donde la distancia está previamente definida. Esto ocurre específicamente en el caso del atletismo, como he comentado anteriormente, en pruebas de 100 metros, 200 metros, 400 metros, etcétera. Si bien es cierto que hay otros deportes en los que esto no ocurre así y que es diferente. Es decir, en el ámbito colectivo, las distancias pueden variar y veremos también que hay diferentes contextos que harán que esa velocidad no sea tan lineal, sino que incluya cambios de dirección, capacidades físicas resultantes como la agilidad y otro tipo de condicionantes de oposición que pueden variar el momento o la manera en la cual vamos a ejecutar estas acciones de velocidad. También otro concepto que se suele mencionar cuando hablamos de la velocidad es el de la rapidez, que expresa distancias cortas o gestos deportivos específicos que se realizan en un tiempo de ejecución muy breve. Como vemos en la imagen, por ejemplo, un puñetazo en boxeo. En este sentido, tenemos que saber que hay diferencias entre la velocidad y la rapidez. La velocidad es una magnitud vectorial que tiene una relación longitud/tiempo. Desplazamiento/tiempo sería la fórmula para obtener esa velocidad. Y en la rapidez hablaríamos de distancia/tiempo, pero en vez de ser una magnitud vectorial, es una magnitud escalar.",
+      "keywords": [
+        "velocidad",
+        "rapidez",
+        "magnitud-vectorial",
+        "magnitud-escalar",
+        "gestos-deportivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia exacta entre velocidad y rapidez?",
+        "¿Por qué la velocidad es una magnitud vectorial y la rapidez escalar?"
+      ],
+      "related_terms": [
+        "magnitud",
+        "vectorial",
+        "magnitud",
+        "escalar",
+        "gestos",
+        "deportivos",
+        "específicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación de los temas a tratar en el seminario, omitiendo la introducción personal del ponente.",
+      "context_after": "Análisis de si el objetivo de aumentar la velocidad tiene la misma relevancia en deportes individuales que colectivos."
+    },
+    {
+      "id": "V_DIEGO-002",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:04:15",
+      "end_timestamp": "00:06:51",
+      "start_seconds": 255,
+      "end_seconds": 411,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=255",
+      "title": "La velocidad según el contexto y disciplina deportiva",
+      "summary": "Se analiza cómo el impacto de la velocidad varía según el deporte. En atletismo o halterofilia, una décima de segundo o un kilo son decisivos para el éxito puro. Sin embargo, en deportes de equipo (como el baloncesto), el contexto y otras habilidades específicas determinan el éxito, y la velocidad aislada no es suficiente.",
+      "literal_quote": "A pesar de que los objetivos que tengamos sean que nuestros deportistas sean cada vez más veloces y más rápidos, el nivel de rendimiento puro va a depender de factores y contexto en el que se desarrollen estas tareas.",
+      "full_transcript": "En este sentido, cabría hacerse una pregunta: ¿el objetivo de aumentar la velocidad es el mismo en deportes individuales que en los de equipo? Si rescatamos conceptos básicos y nos fijamos en estas dos imágenes que estamos viendo, donde tenemos, por un lado, a Usain Bolt realizando una prueba de relevos, donde cualquier persona que haya visto una prueba de relevos sabe que recoge el testigo y recorre una distancia de aproximadamente 100 metros de manera lineal. Dista mucho de lo que sucede en el contexto, por ejemplo, del baloncesto. En este caso, vemos a Luka Dončić realizando una finta para ejecutar un tiro en suspensión. En este sentido, podríamos decir que ambos deportistas son veloces y rápidos ejecutando sus movimientos específicos, pero habría que determinar que hay diferentes objetivos. Es decir, a pesar de que los objetivos que tengamos sean que nuestros deportistas sean cada vez más veloces y más rápidos, el nivel de rendimiento puro va a depender de factores y contexto en el que se desarrollen estas tareas. Si pensamos en Usain Bolt realizando un tiro en suspensión después de una finta en baloncesto, seguramente no sería top mundial. Al igual sucedería con Luka Dončić. Podemos ver que es rápido, que es veloz corriendo de un lado a otro de la pista, pero si lo ponemos en otro contexto, por ejemplo, en el atletismo, no sería una estrella mundial ni alcanzaría seguramente las finales de los Juegos Olímpicos. En este sentido, hay que contextualizar cuáles son los parámetros de rendimiento que hacen que una persona sea campeón de algo o no lo sea. Si nos vamos, por ejemplo, al concepto del atletismo, está claro que en una prueba de 100 metros, una décima puede suponer ganar un oro o acceder o no a una final. Sucede en otros deportes. Un kilo o dos en halterofilia puede suponerte estar en una final olímpica o puede suponerte no pasar a la siguiente fase. Y quizás en un deporte colectivo Esa décima puede que no sea tan relevante. En ciertas situaciones sí, pero no a lo largo de un partido. Y quizás hay otras cuestiones que puedan ser igualmente importantes para que pueda alcanzar este éxito deportivo. Por tanto, a pesar de que es cierto que cuanto más rápidos y más veloces sean nuestros deportistas, tenemos que llegar a un punto en el cual también lo integremos dentro de su contexto específico y seamos capaces de programar entrenamiento adecuado, sin enfocarnos única y exclusivamente en una capacidad física, porque como bien sabemos, el éxito deportivo va a depender de diferentes cuestiones.",
+      "keywords": [
+        "deportes-individuales",
+        "deportes-colectivos",
+        "contexto",
+        "rendimiento",
+        "atletismo",
+        "baloncesto"
+      ],
+      "entities": [
+        "Usain Bolt",
+        "Luka Dončić"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es diferente el entrenamiento de velocidad en atletismo y en deportes de equipo?",
+        "¿Cómo influye el contexto en el rendimiento deportivo puro?"
+      ],
+      "related_terms": [
+        "rendimiento",
+        "puro",
+        "contexto",
+        "específico",
+        "capacidad",
+        "física"
+      ],
+      "relevance_score": 5,
+      "context_before": "Diferenciación conceptual entre velocidad y rapidez utilizando ejemplos de atletismo y boxeo.",
+      "context_after": "Se introduce el concepto de que las mejoras de velocidad deben trasladarse correctamente mediante la correspondencia dinámica."
+    },
+    {
+      "id": "V_DIEGO-003",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:06:52",
+      "end_timestamp": "00:08:10",
+      "start_seconds": 412,
+      "end_seconds": 490,
+      "duration_seconds": 78,
+      "timestamp_url": "?t=412",
+      "title": "Correspondencia dinámica y aplicación de vectores de fuerza",
+      "summary": "Si la mejora de velocidad no se traduce en mayor rendimiento, existe un fallo en la correspondencia dinámica. Es fundamental que las actividades de entrenamiento apliquen fuerza en los mismos vectores que demandan las habilidades específicas del deporte (ej. fuerza vertical para halterofilia).",
+      "literal_quote": "El concepto de correspondencia dinámica, que implica la realización de actividades en el entrenamiento que tengan una relación directa con los vectores de aplicación de fuerza de las habilidades específicas deportivas.",
+      "full_transcript": "En este sentido, si el deportista vemos que va mejorando prestaciones en velocidad, pero estas mejoras no se trasladan al rendimiento deportivo o ha empeorado, va a significar que ese trabajo de transferencia o de correspondencia dinámica no es el correcto. Y aquí haré referencia, por ejemplo, a lo que es el concepto de correspondencia dinámica, que implica la realización de actividades en el entrenamiento que tengan una relación directa con los vectores de aplicación de fuerza de las habilidades específicas deportivas, de cada deporte. Imaginemos, por ejemplo, poniendo el ejemplo de la halterofilia, un halterófilo siempre va a ejercer su fuerza de manera prioritaria en el vector vertical. Si nosotros empezamos a realizarle ejercicios única y exclusivamente en el vector horizontal e intentamos mejorar su aplicación de fuerza y su velocidad en el vector horizontal, probablemente no lo traslade adecuadamente en ese levantamiento de halterofilia. Por tanto, tenemos que ser muy conscientes del tipo de ejercicios que nosotros vamos a implementar para de alguna manera conseguir que la aplicación de esos ejercicios con una determinada fuerza a una determinada velocidad tenga una traslación a los gestos, habilidades y movimientos específicos del deporte, y con ello, consigamos el mejor rendimiento posible.",
+      "keywords": [
+        "correspondencia-dinamica",
+        "transferencia",
+        "vectores-fuerza",
+        "habilidades-especificas",
+        "halterofilia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es la correspondencia dinámica en el entrenamiento deportivo?",
+        "¿Por qué una mejora en velocidad no siempre se traslada al rendimiento en el campo?"
+      ],
+      "related_terms": [
+        "vectores",
+        "de",
+        "aplicación",
+        "de",
+        "fuerza",
+        "traslación",
+        "a",
+        "los",
+        "gestos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que el éxito deportivo no depende únicamente de la velocidad máxima, sino de múltiples cuestiones contextuales.",
+      "context_after": "Se concluye subrayando la necesidad de trabajar de forma intencional estas técnicas adaptándolas a la realidad de la competición."
+    },
+    {
+      "id": "V_DIEGO-004",
+      "video_title": "Entrenamiento de la velocidad",
+      "speaker": "Diego Alonso",
+      "start_timestamp": "00:08:12",
+      "end_timestamp": "00:09:05",
+      "start_seconds": 492,
+      "end_seconds": 545,
+      "duration_seconds": 53,
+      "timestamp_url": "?t=492",
+      "title": "Transferencia intencional de la velocidad al contexto",
+      "summary": "El trabajo de velocidad debe adaptarse a las destrezas específicas de cada deporte. Es necesario trasladar esos gestos a la mayor velocidad y fuerza posible de manera intencional dentro del contexto real, alcanzando así la verdadera competencia deportiva.",
+      "literal_quote": "Los deportistas deben de trabajar de manera intencional esas técnicas fundamentales en las que se va a basar la acción de rendimiento, adaptándolas a su realidad y contexto a través de destrezas y movimientos específicos del deporte.",
+      "full_transcript": "Además, los deportistas deben de trabajar de manera intencional esas técnicas fundamentales en las que se va a basar la acción de rendimiento, adaptándolas a su realidad y contexto a través de destrezas y movimientos específicos del deporte. Un poco lo que acabamos de mencionar. Intentar trasladar que todos esos gestos y movimientos se hagan a la mayor velocidad posible y con la mayor cantidad de fuerza posible. Por tanto, tendríamos en aquellos deportistas que consiguen alcanzar un rendimiento completo, esa habilidad o esa capacidad o esa competencia deportiva definitiva, en el cual nosotros conseguimos que nuestros deportistas puedan aplicar tanto el contenido que nosotros estamos prescribiendo, como así en el contexto en el cual ellos están desarrollando su tarea deportiva.",
+      "keywords": [
+        "trabajo-intencional",
+        "transferencia",
+        "contexto",
+        "competencia-deportiva",
+        "habilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se logra la competencia deportiva definitiva en relación a la velocidad?",
+        "¿Qué significa trabajar de manera intencional en el entrenamiento de velocidad?"
+      ],
+      "related_terms": [
+        "técnicas",
+        "fundamentales",
+        "competencia",
+        "deportiva",
+        "definitiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la importancia de elegir los vectores de fuerza correctos para el entrenamiento mediante la correspondencia dinámica.",
+      "context_after": "Fin del fragmento provisto."
+    }
+  ]
+}
