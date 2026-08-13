@@ -1,0 +1,244 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+    "speaker": "Jonathan Esteve",
+    "total_duration": "00:13:05",
+    "total_duration_seconds": 785,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:42",
+      "start_seconds": 1,
+      "end_seconds": 102,
+      "duration_seconds": 101,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Antecedentes históricos: El método de Naclerio (Volumen %)",
+      "summary": "Introducción a la cuantificación de la carga orientada a la fuerza mediante el método de Naclerio (volumen por ciento). Este método tradicional consiste en multiplicar el número total de repeticiones de un ejercicio por su porcentaje equivalente de 1RM, siendo útil en ejercicios clásicos de gimnasio pero limitado ante mecánicas más complejas.",
+      "literal_quote": "la propuesta de Naclerio, conocida como volumen por ciento, lo que hace es multiplicar el número total de repeticiones de un mismo ejercicio por el porcentaje de un RM equivalente.",
+      "full_transcript": "Saludos en esta formación del Performance Science Specialist. Soy Jonathan Esteve y estamos viendo el tema de la cuantificación de la carga. En esta tercera presentación les hablaré sobre el método de los equivalentes de carga objetiva aplicado al entrenamiento de fuerza. [...] Empecemos con antecedentes históricos de métodos de cuantificación de la carga, que no habíamos explicado respecto a la fuerza de manera más específica en la presentación de los métodos tradicionales, porque en este caso la propuesta de Naclerio, conocida como volumen por ciento, lo que hace es multiplicar el número total de repeticiones de un mismo ejercicio por el porcentaje de un RM equivalente. En este ejemplo de ejercicios auxiliares, sentadilla, press banca, peso muerto, dominadas, es bastante fácil de entender cómo si hago cuatro por seis, serían 24 repeticiones, como pueden ver abajo, por el 80 dividido entre 100, de 80 %, serían como unos 19 puntos. Y así sumamos, por ejemplo, esos cuatro ejercicios de la sesión, sería una sesión de 81,6 volúmenes por ciento, que se diría técnicamente. Esto tiene una utilidad muy clara, sobre todo si nos centramos en un tipo de mecánicas de ejercicio y de gimnasio, por decirlo así.",
+      "keywords": [
+        "cuantificacion",
+        "fuerza",
+        "naclerio",
+        "volumen-por-ciento",
+        "repeticiones",
+        "1rm"
+      ],
+      "entities": [
+        "Naclerio"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿En qué consiste el método de volumen por ciento de Naclerio?",
+        "¿Cómo se cuantifica el entrenamiento de fuerza con métodos tradicionales en gimnasio?"
+      ],
+      "related_terms": [
+        "volúmenes por ciento",
+        "porcentaje de un RM",
+        "mecánicas de ejercicio"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación sobre la aplicación de ECOs al entrenamiento de fuerza.",
+      "context_after": "Se plantea la necesidad de un método más avanzado (ECOs) que considere mecánicas de ejercicio más complejas, como saltos y lanzamientos."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:01:42",
+      "end_timestamp": "00:05:33",
+      "start_seconds": 102,
+      "end_seconds": 333,
+      "duration_seconds": 231,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=102",
+      "title": "El método ECOs aplicado a la fuerza y sus categorías",
+      "summary": "El método de Equivalentes de Carga Objetiva (ECOs) para fuerza supera a los tradicionales diferenciando entre levantamientos y saltos/lanzamientos. Los clasifica en 5 categorías de complejidad (desde técnica/prevención hasta potencia máxima de cuerpo completo) aplicando factores de intensidad específicos para equiparar la fuerza con otras disciplinas (como nadar o correr).",
+      "literal_quote": "el método de los equivalentes de carga objetiva para fuerza considera diferentes mecánicas de ejercicio. Concretamente, veremos que diferenciamos entre los levantamientos respecto a los saltos y los lanzamientos, que además diferenciamos en cada una de esas dos subcategorías cinco grupos de ejercicios en función de la complejidad.",
+      "full_transcript": "Ahora bien, esto se pone mucho más complejo con diferentes mecánicas de ejercicio. Es así que el método de los equivalentes de carga objetiva para fuerza considera diferentes mecánicas de ejercicio. Concretamente, veremos que diferenciamos entre los levantamientos respecto a los saltos y los lanzamientos, que además diferenciamos en cada una de esas dos subcategorías cinco grupos de ejercicios en función de la complejidad. Volvemos a utilizar el número total de repeticiones, una categoría de ejercicio. Aplicamos un factor de intensidad que tendrá que ver, evidentemente, con el nivel de resistencia que vamos a utilizar o de potencia generadas en esos ejercicios en diferentes grupos. Y tenemos que buscar un factor que nos permita hacer equivalente la actividad de la fuerza, así como veíamos en la pasada lección, las equivalencias entre, por ejemplo, nadar, correr o ir en bici. [...] Empezamos por ejercicios de levantamientos... Una categoría cinco sería donde utilizamos todo el cuerpo para generar máxima potencia. [...] Ejercicios de categoría tres suelen ser muchos ejercicios para el desarrollo de la fuerza máxima a una velocidad moderada... Y ejercicios de categoría uno podría ser cualquier ejercicio de fuerza de resistencia, de core, de prevención de lesiones... En saltos y lanzamientos hay una analogía similar... Ejercicio categoría cuatro sería cuando hay cambios de dirección o un freno brusco... Y una categoría cinco serían saltos a máxima altura, a máxima distancia o con frenos importantes rápidos... Con eso, en cada una de esas categorías, vamos a aplicar factores de intensidad...",
+      "keywords": [
+        "ecos",
+        "fuerza",
+        "mecanicas-ejercicio",
+        "levantamientos",
+        "saltos",
+        "lanzamientos",
+        "factor-intensidad",
+        "categorias"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo clasifica el método ECOs los ejercicios de fuerza?",
+        "¿Qué son las 5 categorías de complejidad en el método ECO para fuerza?",
+        "¿Cómo se logra equivalencia entre el entrenamiento de fuerza y la resistencia?"
+      ],
+      "related_terms": [
+        "equivalentes de carga objetiva para fuerza",
+        "factor de intensidad",
+        "categorías de complejidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las limitaciones del método de Naclerio ante mecánicas complejas.",
+      "context_after": "Se procede a mostrar un ejemplo práctico de cómo sumar las repeticiones usando los factores establecidos para calcular los ECOs totales."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:07:34",
+      "start_seconds": 333,
+      "end_seconds": 454,
+      "duration_seconds": 121,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=333",
+      "title": "Cálculo práctico de ECOs en circuitos integrados",
+      "summary": "Aplicación matemática del método, multiplicando repeticiones por factores preestablecidos para obtener ECOs totales. Se demuestra su eficacia calculando la carga de un circuito metabólico integrado que combina intervalos en bicicleta con ejercicios de fuerza reactiva, permitiendo al entrenador cuantificar y sumar ambos tipos de estímulos bajo la misma métrica.",
+      "literal_quote": "Podemos simplificarlo con esta tabla de referencia, de tal manera que ya solo tenemos que multiplicar cualquier ejercicio en categoría, por ejemplo, tres, por el número de repeticiones por 0,84... y lógicamente sumarlo todo a las demás actividades.",
+      "full_transcript": "De esa manera, aquí podemos ver ejemplos donde ya multiplicando repeticiones por todos esos factores, ya a su vez unidos en ese factor o en este producto, y podemos entonces... empezar a hacer cálculo. Si lo utilizamos de manera global es ese cálculo simplificado. Y si lo hacemos uno por uno con decimales, posiblemente nos dé un poquito más de carga de ECO. [...] Y podemos combinar cualquier tipo de ejercicio con otro. También el entrenador en esas categorías puede decidir si considera que alguno de sus ejercicios, aunque en estándar sería categoría tres, lo pone en cuatro o en dos. Depende de la orientación del entrenamiento, pero nos permite de alguna manera tener criterios para cuantificar y lógicamente sumarlo todo a las demás actividades. Aquí vemos un ejemplo, en este caso, donde utilizamos bici 30 segundos a máxima potencia aeróbica en un circuito metabólico integrado con ejercicios de fuerza de saltos o levantamientos ligeros. Por eso vemos el factor de ejercicio de la bici, que es 0,5, o el factor de ejercicio de los cuartos de saltos en sentadilla, que es dos, multiplicado por las repeticiones o por el tiempo, respectivamente, y por el factor de intensidad podemos ir sumando entre dos y seis ECOs en cada uno de esos ejercicios, que en un circuito serían 42 ECOs y, por tanto, si hiciéramos tres circuitos, serían 126 ECOs, que tiene bastante sentido con las equivalencias que podemos ver de otros formatos de sesión de entrenamiento de resistencia o de velocidad.",
+      "keywords": [
+        "ecos",
+        "calculo",
+        "circuito-metabolico",
+        "multiplicador",
+        "cuantificacion-integrada"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se calculan matemáticamente los ECOs en una sesión de fuerza?",
+        "¿Se pueden sumar las cargas de fuerza y resistencia en un mismo entrenamiento con los ECOs?"
+      ],
+      "related_terms": [
+        "circuito metabólico integrado",
+        "cálculo simplificado",
+        "criterios para cuantificar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las cinco categorías de ejercicios de fuerza y sus factores en ECOs.",
+      "context_after": "Se pasa a las aplicaciones prácticas utilizando plataformas de análisis para integrar datos en mesociclos completos."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:07:35",
+      "end_timestamp": "00:09:36",
+      "start_seconds": 455,
+      "end_seconds": 576,
+      "duration_seconds": 121,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=455",
+      "title": "Monitorización en plataformas y modelos de proyección de fatiga",
+      "summary": "Para operativizar el método, se recomienda el uso de plataformas que agilicen el cálculo en microciclos y mesociclos. Los ECOs sirven como variable de entrada ('input') para modelos matemáticos clásicos (como el de Morton) que proyectan la forma (fitness), fatiga y recuperación (Total Stress Balance) a lo largo de la temporada.",
+      "literal_quote": "Y todo eso lo podemos poner en modelos de proyección de forma, fatiga y recuperación que existen clásicos por un propio autor que habíamos citado en la primera lección, que es Morton... Y todo esto, la variable input, han sido los ECOs.",
+      "full_transcript": "Vámonos a aplicaciones prácticas. Por un lado, ¿cómo podemos programar para que esto sea más fácil, no tengamos que estar tirando de una hoja de cálculo o de una calculadora o de unas sumas tradicionales? Con una plataforma como las que nosotros hemos desarrollado, en las cuales ejercicio a ejercicio, en función de su categoría, una vez sean repeticiones, intensidad, etcétera, podemos ir sumando, haciendo de una manera ya más compacta circuitos de trabajo y verlo en nuestra aplicación de entrenamiento. A su vez, esto lo podemos comparar en un mesociclo o en un microciclo de entrenamiento, donde, por ejemplo, aquí vemos el caso de un triatleta, donde vemos natación, ciclismo, carrera y cada uno tiene sus ECOs de la semana, así como fuerza. [...] Podemos a su vez, no solo programar, sino calcular sobre lo realizado y comparar el trabajo programado respecto al realizado de una manera más objetiva. [...] Y todo eso lo podemos poner en modelos de proyección de forma, fatiga y recuperación que existen clásicos por un propio autor que habíamos citado en la primera lección, que es Morton, que aplica unas ecuaciones que en otras plataformas lo utilizan sobre otros índices... Utiliza esto mismo para proyectar lo que ellos le llaman carga de trabajo aguda o crónica, que viene a ser como el fitness y fatiga, y la recuperación. El total stress balance es la recuperación. Y aquí vemos un poquito cómo en una temporada... se van viendo cómo esos picos de forma, fatiga y recuperación se van dando. Y todo esto, la variable input, han sido los ECOs.",
+      "keywords": [
+        "plataformas",
+        "mesociclo",
+        "microciclo",
+        "morton",
+        "forma-fatiga-recuperacion",
+        "total-stress-balance",
+        "carga-aguda-cronica"
+      ],
+      "entities": [
+        "Morton"
+      ],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se visualiza la carga crónica y aguda a través de los ECOs?",
+        "¿Qué modelos matemáticos se utilizan para proyectar la forma y fatiga a lo largo de una temporada?"
+      ],
+      "related_terms": [
+        "total stress balance",
+        "modelos de proyección",
+        "carga de trabajo aguda o crónica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó cómo sumar la carga en una sesión individual utilizando el cálculo de los ECOs.",
+      "context_after": "El ponente introduce una métrica paralela: los equivalentes de carga subjetiva basados en percepción de esfuerzo."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Cuantificación de la carga: ECOs en Fuerza y Conclusiones",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:09:37",
+      "end_timestamp": "00:13:04",
+      "start_seconds": 577,
+      "end_seconds": 784,
+      "duration_seconds": 207,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=577",
+      "title": "Equivalentes de Carga Subjetiva y recomendaciones finales",
+      "summary": "Se complementan los ECOs con puntuaciones subjetivas de dureza del atleta (de 0 a 5). Analizar cómo la percepción de esfuerzo evoluciona frente al volumen objetivo ayuda a detectar si el entrenamiento se asimila correctamente. El ponente concluye recomendando elegir un único método (objetivo/subjetivo) que mejor se adapte y mantenerlo constantemente a lo largo de los programas.",
+      "literal_quote": "recomendaríamos que solo tengamos un método concreto de cuantificación... cuál es el que mejor les acomoda, como para que entonces utilicen ese método tanto para diseñar como para controlar, monitorear la carga de entrenamiento.",
+      "full_transcript": "¿Qué utilizamos nosotros también, además de los ECOs? Los equivalentes de carga subjetiva. Y voy a explicar un poquito qué son. Los ECOs son esos puntos sumados de trabajo aeróbico, de velocidad o de fuerza... Ahora bien, la puntuación subjetiva de la dureza que dice el atleta que percibe en el entrenamiento entre cero y cinco, siendo cinco máxima dureza y cero ninguna, la puntuación subjetiva acumulada nos permite comparar cuál es la evolución... respecto a la dureza que percibe el deportista. [...] Fíjense en la semana siete... cómo esa carga es equivalente de manera subjetiva a la que luego hice en las semanas 16, 17, incluso 20. Y sin embargo, ¿cuánto entrenamiento estoy acumulando de manera objetiva? Mucho más en la segunda parte de la temporada. Y esto es un muy buen índice. Es decir, que yo en las mismas sensaciones pueda acumular mucho más carga externa, obviamente, quiere decir que estoy asimilando el entrenamiento. [...] Si nos vamos a conclusiones ya generales de todo lo que es esta formación de cuantificación del entrenamiento, recomendaríamos que solo tengamos un método concreto de cuantificación, que ustedes decidan con los que han observado, ya sea los ECOs o ya sea cualquiera de los tradicionales, cuál es el que mejor les acomoda, como para que entonces utilicen ese método tanto para diseñar como para controlar, monitorear la carga de entrenamiento en sus programas. [...] En realidad, y por último, todos los métodos de cuantificación tienen debilidades. Simplemente, ustedes elijan cuál puede ser el más fácil para ustedes, les puede acomodar mejor. A lo mejor puede ser el de la carga subjetiva. Ahora bien, siempre tendría que complementarse para diferentes niveles de rendimiento con valores de carga objetiva.",
+      "keywords": [
+        "carga-subjetiva",
+        "dureza",
+        "percepcion-esfuerzo",
+        "asimilacion",
+        "conclusiones",
+        "monitoreo",
+        "metodo-unico"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Conclusión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué son los equivalentes de carga subjetiva y cómo se utilizan?",
+        "¿Cómo se puede comprobar si un deportista está asimilando el entrenamiento al comparar carga objetiva y subjetiva?",
+        "¿Qué recomendación da el ponente sobre qué método de cuantificación elegir?"
+      ],
+      "related_terms": [
+        "puntuación subjetiva de la dureza",
+        "asimilando el entrenamiento",
+        "carga externa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso de modelos clásicos de proyección de la fatiga con ECOs.",
+      "context_after": "Fin del webinar y despedida del ponente."
+    }
+  ]
+}

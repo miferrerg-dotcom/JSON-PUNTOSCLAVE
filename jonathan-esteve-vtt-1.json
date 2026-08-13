@@ -1,0 +1,383 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+    "speaker": "Dr. Jonathan Estévez Henao",
+    "total_duration": "00:18:05",
+    "total_duration_seconds": 1085,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:00:52",
+      "end_timestamp": "00:05:14",
+      "start_seconds": 52,
+      "end_seconds": 314,
+      "duration_seconds": 262,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=52",
+      "title": "Introducción a la cuantificación y la dosis de entrenamiento",
+      "summary": "Diferenciación entre métodos tradicionales (deportes de resistencia) y contemporáneos (equivalentes de carga objetiva que incluyen fuerza). Se destaca la importancia de medir la dosis real del entrenamiento y sus efectos en la preparación posterior, más allá de solo graficar volumen e intensidad de forma aislada.",
+      "literal_quote": "Nos interesaría no solo poder calcular, por ejemplo, la carga de un entrenamiento de fuerza y de uno de resistencia, sino poder entender la suma global que eso genera a efectos del estado de preparación posterior.",
+      "full_transcript": "Como introducción general, debemos diferenciar entre métodos tradicionales, que habitualmente vienen de los deportes de resistencia, y métodos más contemporáneos, como en el que nos vamos a centrar en esta formación, que es el método de los equivalentes de carga objetiva y que permite una ampliación de esas formas de cuantificar la carga, comparando diferentes actividades, incluyendo la fuerza, permitiendo una visión más integradora. [...] Nos interesaría no solo poder calcular, por ejemplo, la carga de un entrenamiento de fuerza y de uno de resistencia, sino poder entender la suma global que eso genera a efectos del estado de preparación posterior que pueda generar. [...] El conjunto de volumen, intensidad y probablemente otras variables como la densidad y el tipo de ejercicio, nos puede dar una idea de cuál es la carga de entrenamiento. Pero la simple graficación del volumen y la intensidad, quizá no nos da mucho significado.",
+      "keywords": [
+        "cuantificacion",
+        "dosis-entrenamiento",
+        "volumen",
+        "intensidad",
+        "metodos-tradicionales",
+        "carga-objetiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica el Dr. Jonathan Estévez sobre la dosis de entrenamiento?",
+        "¿Cuáles son las diferencias entre métodos tradicionales y contemporáneos de carga?",
+        "¿Por qué no es suficiente graficar solo volumen e intensidad?"
+      ],
+      "related_terms": [
+        "métodos tradicionales",
+        "equivalentes de carga objetiva",
+        "dosis real de un entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación y presentación del ponente.",
+      "context_after": "Se comienzan a revisar en detalle los métodos tradicionales de frecuencia cardíaca, empezando por el índice de Edwards."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:05:18",
+      "end_timestamp": "00:06:08",
+      "start_seconds": 318,
+      "end_seconds": 368,
+      "duration_seconds": 50,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=318",
+      "title": "Índice de Edwards: Zonas de frecuencia cardíaca sumadas",
+      "summary": "Explicación del método de Edwards (1995/2003), que consiste en clasificar el esfuerzo en cinco zonas de frecuencia cardíaca y multiplicar el tiempo de permanencia en cada rango por el valor nominal de dicha zona (del 1 al 5) para obtener un índice de carga.",
+      "literal_quote": "Multiplicaremos el tiempo que estemos en cada uno de esos rangos de referencia [...] de las pulsaciones máximas de un atleta, por ese mismo valor: 1, 2, 3, 4 o 5.",
+      "full_transcript": "En esta lección nos vamos a centrar en revisar los métodos tradicionales, como por ejemplo, este es de los más sencillos, el propuesto por Edwards en 1995 y en 2003. Viene a llamarse zonas de frecuencia cardíaca sumadas, donde vemos a la izquierda que cada una de esas zonas, de la 1 a la 5, tiene un valor precisamente del 1 al 5. Es decir, multiplicaremos el tiempo que estemos en cada uno de esos rangos que vemos de referencia, del 50 al 60%, del 60 al 70%, de las pulsaciones máximas de un atleta, por ese mismo valor: 1, 2, 3, 4 o 5. Por ejemplo, 20 minutos en zona 1 más 10 minutos en zona 2, sumarían 20 por 1 y 10 por 2. Por lo tanto, 20 más 20, 40 puntos del índice de Edwards.",
+      "keywords": [
+        "indice-edwards",
+        "frecuencia-cardiaca",
+        "zonas-entrenamiento",
+        "pulsaciones-maximas"
+      ],
+      "entities": [
+        "Edwards"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el método de Edwards para cuantificar la carga?",
+        "¿Qué son las zonas de frecuencia cardíaca sumadas?"
+      ],
+      "related_terms": [
+        "zonas de frecuencia cardíaca sumadas",
+        "pulsaciones máximas",
+        "índice de Edwards"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de entender la suma global de la carga de entrenamiento.",
+      "context_after": "Se analizan índices más antiguos y complejos como los impulsos de entrenamiento de Iliute, Dimitrescu y Bannister."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:06:08",
+      "end_timestamp": "00:07:30",
+      "start_seconds": 368,
+      "end_seconds": 450,
+      "duration_seconds": 82,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=368",
+      "title": "Índices globales e Impulsos de Entrenamiento (TRIMPs)",
+      "summary": "Revisión de métodos matemáticamente más complejos como el índice de demanda global de Iliute y Dimitrescu, y los Trims de Bannister (modificados por Morton), que calculan la carga ponderando la duración del esfuerzo por porcentajes de frecuencia cardíaca máxima o de reserva, aplicando factores exponenciales.",
+      "literal_quote": "Esta forma de calcular el esfuerzo también tiene que ver con la frecuencia cardíaca y está ponderando pulsación a pulsación cuál es el efecto de incrementar o reducir la intensidad del esfuerzo multiplicado por la duración.",
+      "full_transcript": "Vemos ahora otro índice más antiguo, pero un poquito más complejo, donde multiplicamos el tiempo también, pero por la media de la frecuencia cardíaca respecto al porcentaje de la máxima y, además, se divide por el tiempo total de ejercicio. [...] En esta forma de calcular la carga de Iliute y Dimitrescu sería de 72,5 el índice de demanda global. Un poquito más complejo y en parte más antiguo, la primera versión de Bannister y modificado luego por Morton en el año 90, nos habla y vemos un ejemplo con cómo sería la formulación en una hoja de cálculo de los impulsos de entrenamiento, donde multiplicamos la duración por un factor A, por el porcentaje de frecuencia cardíaca de reserva, por un exponente que tiene un factor B. En definitiva, esta forma de calcular el esfuerzo también tiene que ver con la frecuencia cardíaca y está ponderando pulsación a pulsación cuál es el efecto de incrementar o reducir la intensidad del esfuerzo multiplicado por la duración.",
+      "keywords": [
+        "iliute",
+        "dimitrescu",
+        "bannister",
+        "morton",
+        "trimp",
+        "frecuencia-cardiaca-reserva",
+        "impulsos-entrenamiento"
+      ],
+      "entities": [
+        "Iliute",
+        "Dimitrescu",
+        "Bannister",
+        "Morton"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se calculan los TRIMPs de Bannister y Morton?",
+        "¿Qué variables se utilizan en el índice de demanda global de Iliute y Dimitrescu?"
+      ],
+      "related_terms": [
+        "índice de demanda global",
+        "impulsos de entrenamiento",
+        "porcentaje de frecuencia cardíaca de reserva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del método de Edwards de zonas de frecuencia cardíaca sumadas.",
+      "context_after": "Se detallan las consideraciones y limitaciones prácticas del uso de la frecuencia cardíaca para monitorizar el entrenamiento."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:07:30",
+      "end_timestamp": "00:08:43",
+      "start_seconds": 450,
+      "end_seconds": 523,
+      "duration_seconds": 73,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=450",
+      "title": "Limitaciones de la monitorización por Frecuencia Cardíaca",
+      "summary": "Las herramientas basadas en frecuencia cardíaca presentan limitaciones importantes: el retraso en la cinética ante esfuerzos intensos (delay), la incapacidad para medir componentes de velocidad y fuerza, la influencia de condiciones ambientales, y el sesgo introducido al utilizar fórmulas de zonas estándar.",
+      "literal_quote": "Por ejemplo, si hacemos esfuerzos muy intensos, no está representando desde el principio la intensidad. A veces hay un delay, es decir, hay un retraso...",
+      "full_transcript": "Las consideraciones que hemos de tener de métodos como los anteriormente descritos, que tienen que ver con la frecuencia cardíaca, son varias. Por un lado, que conocemos la dinámica, es decir, la cinética de la frecuencia cardíaca, a veces lenta. Por ejemplo, si hacemos esfuerzos muy intensos, no está representando desde el principio la intensidad. A veces hay un delay, es decir, hay un retraso, hay un componente lento en lo que es la frecuencia cardíaca, y a veces es insuficiente porque la intensidad es muy elevada y, por tanto, no todo se puede reflejar con frecuencia cardíaca. No digamos ya otro tipo de habilidades que no tengan que ver con la resistencia, como pueden ser la velocidad o la fuerza. Además, sabemos que hay factores ambientales que pueden discrepar de lo que es la demanda metabólica real. Es decir, en un entorno de mucho calor y humedad, a veces el pulso estará elevado, pero no así el gasto energético. Y, por otro lado, el utilizar fórmulas estándar para estimar las zonas de entrenamiento, ya de entrada nos está poniendo un factor o un ruido que hace cuestionable la validez de aquello que estemos midiendo o monitoreando con la frecuencia cardíaca.",
+      "keywords": [
+        "cinetica-frecuencia-cardiaca",
+        "delay",
+        "factores-ambientales",
+        "fuerza",
+        "velocidad",
+        "limitaciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones de medir la carga con la frecuencia cardíaca?",
+        "¿Cómo afectan los factores ambientales a la monitorización de la frecuencia cardíaca?"
+      ],
+      "related_terms": [
+        "cinética de la frecuencia cardíaca",
+        "factores ambientales",
+        "fórmulas estándar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fórmulas de Iliute, Dimitrescu y los TRIMPs de Bannister.",
+      "context_after": "Se presentan alternativas para mitigar estas limitaciones utilizando lactato y umbrales ventilatorios para individualizar las zonas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:08:43",
+      "end_timestamp": "00:10:37",
+      "start_seconds": 523,
+      "end_seconds": 637,
+      "duration_seconds": 114,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=523",
+      "title": "Individualización de la carga mediante Lactato y Umbrales Ventilatorios",
+      "summary": "Para sortear las limitaciones de las zonas estándar, autores como Manzi propusieron individualizar los TRIMPs relacionando la frecuencia cardíaca con los niveles de lactato. Por su parte, Lucía desarrolló TRIMPs basados en umbrales ventilatorios (VT1, VT2) evaluados en ergoespirometría, muy útiles en el ciclismo profesional.",
+      "literal_quote": "Al final de lo que se trata es de obtener factores a través de los cuales calcular de una manera más individual los rangos de intensidad de cada atleta y integrando una variable complementaria como es el lactato.",
+      "full_transcript": "Dicho así, hubo otros autores que propusieron, Manzi y colaboradores, cómo modificar estos Trims de Bannister, pero con el lactato, aplicando una ecuación individual a lo que sería la fracción de la frecuencia cardíaca, es decir, el porcentaje de la frecuencia cardíaca máxima en relación a los niveles del lactato de los atletas. Esto es interesante porque al final de lo que se trata es de obtener factores a través de los cuales calcular de una manera más individual los rangos de intensidad de cada atleta y integrando una variable complementaria como es el lactato. Más sencillo que esto, aunque más personalizado en términos de zonas de entrenamiento, son los llamados Trims de Lucía, donde con ciclistas profesionales a los que les evaluaban con ergoespirometría, identificaban sus umbrales ventilatorios y entonces definían que igual o por debajo del VT1 era zona uno, por encima del VT1 y por debajo del VT2 era zona dos y en el VT2 o superior sería zona tres. Zonas, que son fases metabólicas según el modelo de Skinner y McClellan, de tal manera que se está dando un peso lineal al incremento lineal que tiene, en este caso, la frecuencia cardíaca [...] ¿Que era válido para ciclistas de vueltas por etapas? Sí, porque los esfuerzos de mucha mayor intensidad o muy cortos, quizá no son tan predominantes en el global, pero evidentemente se están perdiendo control de algunos esfuerzos.",
+      "keywords": [
+        "lactato",
+        "umbrales-ventilatorios",
+        "vt1",
+        "vt2",
+        "trims-lucia",
+        "ergoespirometria"
+      ],
+      "entities": [
+        "Manzi",
+        "Lucía",
+        "Skinner",
+        "McClellan"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se individualizan los TRIMPs utilizando lactato o umbrales ventilatorios?",
+        "¿Qué son los TRIMPs de Lucía y en qué deporte se utilizan más?"
+      ],
+      "related_terms": [
+        "niveles de lactato",
+        "Trims de Lucía",
+        "umbrales ventilatorios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre las limitaciones e inexactitudes de medir solo por frecuencia cardíaca estándar.",
+      "context_after": "El ponente introduce métodos subjetivos de control de carga a través de la percepción de esfuerzo (RPE)."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:10:38",
+      "end_timestamp": "00:13:18",
+      "start_seconds": 638,
+      "end_seconds": 798,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=638",
+      "title": "Cuantificación mediante la Percepción de Esfuerzo (RPE)",
+      "summary": "Análisis del método de RPE de Foster (percepción de sesión por duración) y el modelo del Comité Olímpico Noruego. Presenta limitaciones prácticas sustanciales, como la dificultad del atleta para recordar la percepción exacta en entrenamientos interválicos complejos y la incongruencia de intentar cuantificar entrenamientos de fuerza utilizando el tiempo.",
+      "literal_quote": "¿Cómo vamos, en el caso del entrenamiento de fuerza, a cuantificar mediante tiempo?",
+      "full_transcript": "Otra forma de verlo es a través de la percepción de esfuerzo. Foster en 2001 propone el llamado RPE, es decir, percepción del esfuerzo de sesión, donde tras la sesión de entrenamiento, 30 minutos después, se debería responder a la pregunta: ¿cómo estuvo tu entrenamiento? Viendo la escala de 0 a 10 y señalando, por tanto, un valor y multiplicándolo por la duración. [...] Siguiendo con la percepción del esfuerzo, ahora sí utilizada estrictamente como escala de intensidad, el Comité Olímpico Noruego propone multiplicar los minutos empleados en cada una de esas zonas de percepción de esfuerzo como intensidad por el propio valor de esa percepción de esfuerzo. [...] Analizando un poco el contexto real, ¿qué pasa cuando hacemos diferentes tipos de intervalos o diferentes fases en la sesión? [...] ¿Cómo nos vamos a poder acordar de a qué percepción estábamos en cada uno de esos cuatro esfuerzos iniciales, dos posteriores u ocho esfuerzos interválicos de la parte final...? Es muy complejo que podamos llevar un registro en tiempo real de todas las subfases de la sesión. Por último, y lo habíamos mencionado antes, el método de Foster plantea calcular la carga de entrenamiento o estimarla mediante la percepción y el tiempo. ¿Cómo vamos, en el caso del entrenamiento de fuerza, a cuantificar mediante tiempo?",
+      "keywords": [
+        "rpe",
+        "percepcion-esfuerzo",
+        "foster",
+        "entrenamiento-fuerza",
+        "intervalos",
+        "limitaciones"
+      ],
+      "entities": [
+        "Foster",
+        "Comité Olímpico Noruego"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué limitaciones tiene usar el RPE de sesión de Foster?",
+        "¿Por qué es difícil cuantificar la fuerza con el método de RPE por tiempo?"
+      ],
+      "related_terms": [
+        "percepción de esfuerzo de sesión",
+        "escala de intensidad",
+        "RPE"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de métodos de individualización por lactato y umbrales ventilatorios.",
+      "context_after": "Se presenta un método mecánico basado en potencia, propuesto por Coggan para ciclismo."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:13:19",
+      "end_timestamp": "00:15:10",
+      "start_seconds": 799,
+      "end_seconds": 910,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=799",
+      "title": "Training Stress Score (TSS) basado en potencia mecánica",
+      "summary": "Explicación del método de Coggan (2006) en ciclismo, que calcula la potencia normalizada frente al umbral funcional para obtener el factor de intensidad y la puntuación de estrés de entrenamiento (TSS). A pesar de su utilidad en ciclismo, resulta difícil extrapolarlo a la carrera o la natación por la falta de factores de equivalencia directos.",
+      "literal_quote": "¿Cómo se suman los watts de ciclismo con los de natación y los de carrera? Quién sabe. No hay factores de equivalencia.",
+      "full_transcript": "Coggan en 2006, en el ámbito del ciclismo, propone medir la potencia, que sabemos que es la multiplicación de la velocidad angular por el torque, es decir, por la fuerza en el movimiento angular. Esa potencia la normaliza filtrando los picos y se hace con un tratamiento estadístico de elevar a la cuarta potencia diferentes muestras y luego hacer la raíz cuarta. Luego, esto se divide por los vatios asociados al umbral de sostener una hora un esfuerzo, de tal manera que eso te daría 100 puntos y ese es el factor de intensidad. Luego lo multiplicamos por el tiempo y eso nos da la puntuación de estrés de entrenamiento o TSS. Esto es muy interesante para el ciclismo. Es un poquito cuestionable cómo lo llevamos eso a la carrera y a la natación. Entre otras cosas, porque en el ciclismo podemos medir la potencia tal cual. En la carrera solo la podemos estimar, ya que no es un sólido rígido. Y en la natación, últimamente, ya hay paletas con sensores, pero nuevamente, de alguna manera, al haber deformaciones, es una estimación. Entonces, ¿cómo se suman los watts de ciclismo con los de natación y los de carrera? Quién sabe. No hay factores de equivalencia.",
+      "keywords": [
+        "tss",
+        "potencia",
+        "ciclismo",
+        "watts",
+        "training-stress-score",
+        "coggan"
+      ],
+      "entities": [
+        "Coggan"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el TSS y cómo se calcula según Coggan?",
+        "¿Qué problemas hay para aplicar la medición de potencia mecánica en carrera o natación?"
+      ],
+      "related_terms": [
+        "potencia normalizada",
+        "factor de intensidad",
+        "puntuación de estrés de entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Discusión de métodos subjetivos de percepción de esfuerzo (RPE).",
+      "context_after": "Se elabora un resumen final de todas las limitaciones estructurales de los métodos tradicionales discutidos en el webinar."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Cuantificación de la carga: Métodos Tradicionales",
+      "speaker": "Dr. Jonathan Estévez Henao",
+      "start_timestamp": "00:15:10",
+      "end_timestamp": "00:18:05",
+      "start_seconds": 910,
+      "end_seconds": 1085,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=910",
+      "title": "Limitaciones estructurales de los métodos tradicionales de carga",
+      "summary": "Recopilación general de deficiencias en los métodos clásicos: dependencia excesiva de métricas aeróbicas, uso de estándares universales, nula consideración del trabajo de fuerza, incapacidad de cuantificar adecuadamente tiempos de pausa o la hibridación de deportes (triatlón). Resalta que monitorizar una variable no equivale a cuantificar la carga global.",
+      "literal_quote": "Si no cuantificamos todo, es muy cuestionable qué estamos cuantificando, porque si dejo de considerar algunos contenidos, ¿cuál es la carga total de nuestro entrenamiento y qué efectos posteriores eso puede tener en nuestro estado de forma?",
+      "full_transcript": "Si hacemos un análisis de qué limitaciones tienen estos métodos tradicionales [...] Algunos de esos métodos dependen de la frecuencia cardíaca, como vimos, otros dependen de medir watts. Algunos no consideran situaciones o esfuerzo por encima de lo que es la zona de máxima potencia aeróbica, VO2 max, y, por tanto, cómo hacemos con actividades de velocidad, por ejemplo. Muchas veces las zonas de entrenamiento se definen por estándares. [...] Y casi ninguno incluye cómo cuantificar el entrenamiento de fuerza o incorporarlo de una forma adecuada. [...] Ningún método considera cuantificar la pausa, por ejemplo, en entrenamientos por intervalos; distinguir el tipo de ejercicio, si es natación, ciclismo o carrera. [...] Y en disciplinas híbridas o de deporte combinado, como es el triatlón, ninguno está considerando efectos de ir a rueda o no, las transiciones entre los deportes, los incrementos o cambio de ritmo. [...] Sabemos que hoy día podemos controlar muy bien o monitorear muy bien el entrenamiento, pero eso no equivale a cuantificar el hecho de controlar muy bien una variable, como pudiera ser solo la intensidad o solo el volumen. Pero, por otro lado, si no cuantificamos todo, es muy cuestionable qué estamos cuantificando, porque si dejo de considerar algunos contenidos, ¿cuál es la carga total de nuestro entrenamiento y qué efectos posteriores eso puede tener en nuestro estado de forma?",
+      "keywords": [
+        "limitaciones-tradicionales",
+        "entrenamiento-fuerza",
+        "pausa",
+        "disciplinas-hibridas",
+        "carga-total",
+        "monitoreo-vs-cuantificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las principales debilidades de los métodos tradicionales de cuantificación?",
+        "¿Por qué monitorizar el entrenamiento no es lo mismo que cuantificar la carga?"
+      ],
+      "related_terms": [
+        "zona de máxima potencia aeróbica",
+        "disciplinas híbridas",
+        "carga total"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del método de Coggan basado en potencia para el ciclismo.",
+      "context_after": "El ponente da por concluida la primera lección introduciendo el método de equivalentes de carga objetiva para la siguiente clase."
+    }
+  ]
+}

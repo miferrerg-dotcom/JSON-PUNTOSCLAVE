@@ -1,0 +1,279 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+    "speaker": "Jonathan Esteve",
+    "total_duration": "00:15:18",
+    "total_duration_seconds": 918,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:29",
+      "start_seconds": 1,
+      "end_seconds": 89,
+      "duration_seconds": 88,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Orígenes y validación del método ECOs",
+      "summary": "Origen del método de Equivalentes de Carga Objetiva (ECOs) desarrollado para deportes de resistencia y velocidad. Se destaca su validación en triatletas de élite, donde la urea ha demostrado ser un biomarcador más representativo que la creatinfosfoquinasa (CK) para reflejar la carga calculada.",
+      "literal_quote": "precisamente la urea es más representativa de la carga de entrenamiento con este método de cálculo que la CK.",
+      "full_transcript": "Saludos en esta formación del Performance Science Specialist sobre cuantificación de la carga. Soy Jonathan Esteve, en esta segunda sesión sobre cuantificación de la carga, donde vamos a hablar de los métodos de equivalencia de carga objetiva y subjetiva para resistencia y velocidad. Les hablo primero de los orígenes de este método de cuantificación, desarrollado desde 2010 por el profesor Roberto Cecuela y por un servidor. [...] Nos vamos a centrar en el desarrollo de este método, el cual estamos tratando de validar. Si bien en la lección anterior decíamos que es muy difícil validar un método de cuantificación, aquí tenemos un trabajo reciente donde se ha hecho un seguimiento en triatletas de élite en variables como la creatinfosfoquinasa y la urea, donde veíamos que precisamente la urea es más representativa de la carga de entrenamiento con este método de cálculo que la CK.",
+      "keywords": [
+        "cuantificacion",
+        "ecos",
+        "carga-objetiva",
+        "urea",
+        "ck",
+        "validacion"
+      ],
+      "entities": [
+        "Roberto Cecuela",
+        "Unión Europea",
+        "World Triathlon"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el método ECO de cuantificación de carga?",
+        "¿Por qué la urea es un mejor marcador que la CK en el método ECO?"
+      ],
+      "related_terms": [
+        "equivalentes de carga objetiva",
+        "creatinfosfoquinasa",
+        "biomarcadores"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación de la segunda sesión del webinar.",
+      "context_after": "Se procede a explicar los factores iniciales de cálculo del método ECOs, comenzando por el tipo de actividad."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:03:33",
+      "start_seconds": 89,
+      "end_seconds": 213,
+      "duration_seconds": 124,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=89",
+      "title": "Ponderación por tipo de deporte y factores mecánicos",
+      "summary": "El cálculo inicial multiplica el tiempo y la intensidad por un factor según el tipo de deporte (ej. ciclismo 0,5 vs carrera 1). Este factor se asigna en base a diferencias de daño muscular, coste energético, técnica y existencia de micropausas naturales en cada disciplina.",
+      "literal_quote": "vamos a diferenciar el tipo de deporte con una serie de factores que multiplican la carga en función del mismo.",
+      "full_transcript": "Vamos a empezar viendo marcadores objetivos de carga, donde multiplicamos básicamente el tipo de actividad por el tiempo por un factor de intensidad. Es decir, punto número uno: vamos a diferenciar el tipo de deporte con una serie de factores que multiplican la carga en función del mismo. Por ejemplo, el ciclismo, basado en criterios que ahora explicaremos, vale 0,5 respecto a la carrera, que vale 1. Estos factores, que permiten ponderar el tipo de deporte, son los siguientes: por un lado, el daño muscular. Sabemos que el daño muscular varía en función del tipo de actividad. Por otro lado, el coste energético [...] También sabemos que existe una dificultad para mantener la técnica en sesiones habituales de desarrollo [...] Por ejemplo, la natación tiene micropausas por naturaleza, porque se suele hacer entrenamiento más bien intervalado y se suele entrenar en una piscina. Entonces, hay micropausas naturales de la actividad. También pasa eso en el ciclismo. [...] Por lo tanto, no hay una continuidad vital que, por ejemplo, sería en carrera, donde no puedes descansar salvo que te pares.",
+      "keywords": [
+        "factor-deporte",
+        "dano-muscular",
+        "coste-energetico",
+        "micropausas",
+        "densidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se pondera el tipo de deporte en el cálculo de carga?",
+        "¿Por qué el ciclismo tiene un factor multiplicador menor que la carrera?"
+      ],
+      "related_terms": [
+        "daño muscular",
+        "coste energético",
+        "micropausas naturales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del origen y validación biomarcadora del método.",
+      "context_after": "Se define el segundo factor del cálculo de carga: la intensidad a través de 10 zonas fisiológicas."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:03:33",
+      "end_timestamp": "00:04:36",
+      "start_seconds": 213,
+      "end_seconds": 276,
+      "duration_seconds": 63,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=213",
+      "title": "Definición del factor de intensidad en 10 zonas metabólicas",
+      "summary": "El método divide la intensidad en 10 zonas, abarcando desde esfuerzos por debajo del primer umbral (zona 1) hasta potencia aláctica (zona 10). A cada zona fisiológica se le asigna un factor multiplicador exponencial para reflejar el impacto real del esfuerzo.",
+      "literal_quote": "Por tanto, nos salen 10 zonas con una serie de factores de intensidad que, como ven, son más bien exponenciales entre las diferentes zonas.",
+      "full_transcript": "El factor de intensidad lo vamos a definir a través de los umbrales, que serán las zonas dos y cuatro, a través de la máxima potencia aeróbica, que será la zona seis, es decir, la velocidad o potencia del VO2 max, a través de lo que coloquialmente conocemos como potencia láctica o potencia máxima glucolítica, que serían esfuerzos de entre 30 y 60 segundos al máximo, eso lo conoceremos como zona ocho, y la zona 10 sería la zona de potencia aláctica. Tal es así que la nueve es capacidad aláctica, la siete es capacidad láctica, la cinco es entre VO2 max y segundo umbral, la tres es entre los dos umbrales, que pueden ser respiratorios o de lactato, y la uno sería por debajo del primer umbral. Por tanto, nos salen 10 zonas con una serie de factores de intensidad que, como ven, son más bien exponenciales entre las diferentes zonas.",
+      "keywords": [
+        "factor-intensidad",
+        "zonas-entrenamiento",
+        "umbrales",
+        "vo2-max",
+        "potencia-lactica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 10 zonas de intensidad del método ECOs?",
+        "¿Qué hitos fisiológicos se utilizan para definir las zonas de entrenamiento?"
+      ],
+      "related_terms": [
+        "potencia aeróbica máxima",
+        "capacidad láctica",
+        "umbrales respiratorios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de ponderar el tipo de deporte.",
+      "context_after": "Se incorpora al cálculo la variable de la densidad de entrenamiento y cómo las pausas modifican la carga."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:04:36",
+      "end_timestamp": "00:08:45",
+      "start_seconds": 276,
+      "end_seconds": 525,
+      "duration_seconds": 249,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=276",
+      "title": "Ajuste de la carga mediante la densidad del entrenamiento",
+      "summary": "La densidad (relación trabajo-descanso) modifica el cálculo final de carga. Entrenamientos con recuperaciones más cortas que el estándar de la zona reciben un premio en carga (hasta un tope dictado por la bajada de lactato), mientras que pausas amplias restan puntuación.",
+      "literal_quote": "sobre la densidad estándar, si tú tienes una sesión más densa, es decir, recuperas menos, se te va a premiar hasta un tope, que sería donde se interceptaría con la densidad extrema...",
+      "full_transcript": "Si, por ejemplo, hacemos métodos que tradicionalmente sean continuos [...] lo que vamos a hacer es restarle un porcentaje de la carga por el tiempo de pausa. También es verdad que luego hay tareas típicamente interválicas o fraccionadas. Entonces, vamos a aplicar en función de la zona de intensidad unos factores de densidad estándar. [...] Hay un extremo de densidad que consideramos viable para que se pueda acumular suficiente carga representativa para una sesión de desarrollo, es la llamada densidad extrema [...] Si yo consigo hacer un entrenamiento donde la densidad es superior a la estándar, va a haber un premio: un incremento de carga porcentual hasta un extremo, que es donde se intercepta la densidad extrema, que nos va a marcar el límite posible de incremento de carga. Es decir, más allá de la densidad extrema, ya no te puedo premiar más allá de ese porcentaje [...] Y si tú estás utilizando una densidad muy baja, es decir, que estás recuperando demasiado, al contrario [...] habrá una reducción de la carga calculada [...] ¿Y en qué nos basamos a partir de ahí para poder sacar esas ecuaciones? En el tiempo de recuperación que supone, en el lactato teóricamente muscular [...] Es así como vemos que sobre la densidad estándar, si tú tienes una sesión más densa, es decir, recuperas menos, se te va a premiar hasta un tope, que sería donde se interceptaría con la densidad extrema, en este caso, en la zona cuatro, el límite de incremento de carga es del 25 %.",
+      "keywords": [
+        "densidad-entrenamiento",
+        "pausa",
+        "lactato",
+        "incremento-carga",
+        "densidad-extrema",
+        "fraccionado"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la densidad o las pausas al cálculo de la carga de entrenamiento?",
+        "¿Qué es la densidad estándar y la densidad extrema en el método ECOs?"
+      ],
+      "related_terms": [
+        "densidad estándar",
+        "densidad extrema",
+        "aclaramiento de lactato"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los multiplicadores exponenciales por intensidad.",
+      "context_after": "Se suma al cálculo la ponderación por la duración específica de las repeticiones respecto al tiempo límite de cada zona."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:08:45",
+      "end_timestamp": "00:11:11",
+      "start_seconds": 525,
+      "end_seconds": 671,
+      "duration_seconds": 146,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=525",
+      "title": "Impacto de la duración de las repeticiones frente al tiempo límite",
+      "summary": "No es lo mismo fraccionar un volumen en series cortas que en largas. El método pondera la duración de la repetición relacionándola con el tiempo límite de la zona, incrementando la carga cuanto más se acerca al esfuerzo máximo. Esfuerzos prolongados reciben premios adicionales.",
+      "literal_quote": "la densidad puede parecerse, pero aunque se pareciera, la duración de la repetición es más larga, se pondera porque estamos más cerca del tiempo límite.",
+      "full_transcript": "Luego está la duración de los esfuerzos, no solo considerar la duración de las pausas, porque no es lo mismo hacer, por ejemplo, cinco veces un kilómetro que hacer 10 veces 500 metros. Son cinco kilómetros también, la densidad puede parecerse, pero aunque se pareciera, la duración de la repetición es más larga, se pondera porque estamos más cerca del tiempo límite. Y aquí vemos un ejemplo de cuál sería la relación con nuestros criterios basados en la bibliografía para este modelo entre zona metabólica y tiempo límite que consideramos que se puede sostener en un nivel medio de rendimiento. [...] multiplicamos tiempo de repetición dividido entre tiempo límite criterio, multiplicado por ese incremento máximo en cada una de las zonas de cuatro a ocho. En las zonas uno, dos y tres, a partir de haber hecho esfuerzos de más de la mitad del tiempo límite [...] si llegas a más del 50 %, automáticamente se le da un 10 % de incremento. [...] vamos a centrarnos ahora en un mismo deportista otra vez, pero cómo haciendo una progresión, en este caso sobre el mismo volumen de 4.000 metros, reduciendo la pausa [...] se incrementa la carga de una manera bastante lógica.",
+      "keywords": [
+        "duracion-repeticion",
+        "tiempo-limite",
+        "volumen",
+        "fraccionado"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la duración de cada repetición en el cálculo de carga?",
+        "¿Cómo se relaciona el tiempo de repetición con el tiempo límite fisiológico?"
+      ],
+      "related_terms": [
+        "tiempo límite",
+        "duración de los esfuerzos",
+        "tiempo de repetición"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis del uso de la densidad (trabajo-descanso) para calcular incrementos de carga.",
+      "context_after": "Se abordan las excepciones para el entrenamiento de sprint y otras configuraciones específicas como las transiciones."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Cuantificación de la carga: Equivalentes de Carga Objetiva (ECOs)",
+      "speaker": "Jonathan Esteve",
+      "start_timestamp": "00:11:11",
+      "end_timestamp": "00:15:18",
+      "start_seconds": 671,
+      "end_seconds": 918,
+      "duration_seconds": 247,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=671",
+      "title": "Configuraciones específicas: Sprint, transiciones y rodillo",
+      "summary": "Para zonas de sprint (9 y 10), las pausas no restan carga debido a la necesidad real de recuperación del sistema nervioso. El modelo incluye ajustes extra: +10-15% por transiciones de triatlón, +20% por realizar esfuerzos progresivos y equiparación al 80% al entrenar ciclismo en rodillo.",
+      "literal_quote": "En rodillo se considera que el 80 % del tiempo equivalente afuera es suficiente por el pedaleo constante que se tiene en el rodillo.",
+      "full_transcript": "Luego todo tiene sentido. ¿Cómo sería esto en tareas de muy alta intensidad, de sprint o casi? Como habíamos comentado, consideramos la zona 10 como la de la potencia fosfagenolítica, la zona nueve como la de la capacidad entre un 95 y 97 %. En este caso, el tiempo de descanso sabemos que tiene que ser amplio, dos, tres minutos para recuperar esos fosfágenos, a veces incluso más para recuperar el sistema nervioso. Por lo tanto, aquí consideramos básicamente el tipo de ejercicio, el tiempo y la intensidad. [...] Hay otras consideraciones, configuraciones específicas, como pueden ser las transiciones del triatlón, y ahí vemos cómo se incrementa la carga un 10 o un 15 % en función del tipo de transición. Si, por ejemplo, hablamos de ciclismo, no es lo mismo hacer rodillo que trabajar afuera. En rodillo se considera que el 80 % del tiempo equivalente afuera es suficiente por el pedaleo constante que se tiene en el rodillo. Cuando haces esfuerzos progresivos [...] Cada incremento del ritmo se puede ponderar hasta un 20 %. El entrenamiento específico de fuerza también se puede considerar y hablaremos en la siguiente presentación [...] En conclusión de este segundo bloque, la cuantificación de la carga por medio del método de los equivalentes de carga objetiva considera diferentes tipos de ejercicio: la densidad, la duración de las repeticiones y otros.",
+      "keywords": [
+        "sprint",
+        "alta-intensidad",
+        "transiciones",
+        "rodillo",
+        "esfuerzos-progresivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se cuantifican las tareas de velocidad o sprint en los ECOs?",
+        "¿Qué equivalencia de carga tiene el entrenamiento en rodillo respecto al exterior?"
+      ],
+      "related_terms": [
+        "transiciones del triatlón",
+        "potencia fosfagenolítica",
+        "entrenamiento en rodillo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del premio en carga al acercarse al tiempo límite de las repeticiones.",
+      "context_after": "El ponente da por finalizada la sesión teórica para dar paso, en el siguiente módulo, al entrenamiento de fuerza."
+    }
+  ]
+}
