@@ -1,0 +1,926 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+    "speaker": "Javier Peña",
+    "total_duration": "00:58:10",
+    "total_duration_seconds": 3490,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "00:00",
+      "end_timestamp": "05:18",
+      "start_seconds": 0,
+      "end_seconds": 318,
+      "duration_seconds": 318,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y el doble perfil del preparador físico",
+      "summary": "Javier Peña introduce el módulo destacando su perfil dual: investigador académico y preparador físico en activo (voleibol). Muestra cómo esta combinación genera un impacto positivo tanto en publicaciones científicas como en resultados deportivos de alto nivel.",
+      "literal_quote": "mantener esta característica de estar con un pie en la academia y otro pie en la práctica genera también resultados particulares.",
+      "full_transcript": "Hola a todo el mundo, mi nombre es Javier Peña y voy a estar impartiendo este módulo de estrategias de aproximación a la competición... Yo, en mi caso, soy licenciado en Educación Física, máster en Alto Rendimiento Deportivo, doctor en Ciencias de la Actividad Física del Deporte y también certificado CSCS con distinción. Llevo a cabo mi actividad profesional, por un lado, en la academia... y por otro lado, también soy una persona ligada a la práctica. Trabajo como preparador físico con el primer equipo del Club Voleibol Barcelona Barça... y con la Selección Absoluta Masculina de Voleibol... Debido un poco a este doble perfil, yo os quería poner mi último año en datos, porque creo que mantener esta característica de estar con un pie en la academia y otro pie en la práctica genera también resultados particulares.",
+      "keywords": [
+        "doble-perfil",
+        "academia",
+        "practica",
+        "preparador-fisico",
+        "rendimiento"
+      ],
+      "entities": [
+        "Javier Peña",
+        "NSCA España",
+        "Universitat de Vic",
+        "Club Voleibol Barcelona Barça",
+        "Selección Absoluta Masculina de Voleibol"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué ventajas tiene un doble perfil académico y práctico en el deporte?",
+        "¿Quién es Javier Peña y cuál es su experiencia?",
+        "¿Cómo impacta la investigación académica en el rendimiento deportivo real?"
+      ],
+      "related_terms": [
+        "doble",
+        "perfil",
+        "preparador",
+        "físico",
+        "investigación",
+        "academia"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se expone la problemática central de los deportes colectivos y la gran densidad competitiva que limita el tiempo de entrenamiento."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "05:18",
+      "end_timestamp": "09:23",
+      "start_seconds": 318,
+      "end_seconds": 563,
+      "duration_seconds": 245,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=318",
+      "title": "El problema de la congestión competitiva",
+      "summary": "Se detalla el desafío principal en deportes de equipo: calendarios muy densos que reducen las ventanas de entrenamiento, priorizan el rendimiento inmediato sobre la adaptación a medio plazo y generan fatiga acumulada.",
+      "literal_quote": "hay una gran congestión competitiva que nos reduce las ventanas reales de entrenamiento... vamos a priorizar siempre que el deportista juegue en buenas condiciones sobre que entrene.",
+      "full_transcript": "Sí que es importante entender que en los deportes colectivos es muy fácil que se entienda el rendimiento como algo que es un resultado directo del volumen de trabajo que se acumula... Sin embargo, sabemos que esta visión es totalmente incompleta en el deporte contemporáneo... en la competición nunca vamos a evaluar el proceso de adaptación... Hay una gran congestión competitiva que nos reduce las ventanas reales de entrenamiento, porque no tenemos mucho tiempo para entrenar... Vamos a priorizar siempre que el deportista juegue en buenas condiciones sobre que entrene. Eso nos va a generar una fatiga acumulada... con una imposibilidad de priorizar adaptaciones a medio plazo... y con una idea de que vamos a tener que apostar más por la disponibilidad del jugador que por su mejora.",
+      "keywords": [
+        "congestion-competitiva",
+        "fatiga-acumulada",
+        "rendimiento-inmediato",
+        "disponibilidad",
+        "calendario"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Problema",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las principales limitaciones al planificar en deportes colectivos?",
+        "¿Por qué se prioriza la disponibilidad sobre la mejora física del jugador?",
+        "¿Qué impacto tiene la congestión competitiva en el entrenamiento?"
+      ],
+      "related_terms": [
+        "congestión",
+        "competitiva",
+        "fatiga",
+        "residual",
+        "disponibilidad",
+        "del",
+        "jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Javier Peña introduce el módulo destacando su perfil dual: investigador académico y preparador físico en activo (voleibol). Muestra cómo esta combinación genera un impacto positivo tanto en publicaciones científicas como en resultados deportivos de alto nivel.",
+      "context_after": "Se definen las distintas escalas temporales de preparación (largo, medio y corto plazo) dentro del diseño de la temporada."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "09:24",
+      "end_timestamp": "13:00",
+      "start_seconds": 564,
+      "end_seconds": 780,
+      "duration_seconds": 216,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=564",
+      "title": "Las tres escalas temporales de preparación",
+      "summary": "La preparación del rendimiento ocurre en tres escalas: largo plazo (adaptaciones crónicas, limitadas a pretemporada y transición), medio plazo (dosificación semanal) y corto plazo (estrategias precompetición).",
+      "literal_quote": "la preparación para el rendimiento va a ocurrir en múltiples escalas temporales y cada una de ellas va a tener una influencia diferente",
+      "full_transcript": "En todo este entramado, lo que se llama la aproximación a la competición es muy importante. ¿Por qué? Porque teóricamente la preparación para el rendimiento va a ocurrir en múltiples escalas temporales... Aquí nos vamos a encontrar con estrategias de aproximación a largo plazo, que lo que van a buscar son las adaptaciones crónicas, estrategias a medio plazo, que lo que van a buscar es una dosificación de carga dentro de la estructura semanal y estrategias a corto plazo, que van a ser estrategias precompetición... La búsqueda de adaptaciones crónicas tiene momentos muy claros... que el más claro siempre es la pretemporada. Pero hoy en día los deportistas saben que también los periodos de transición previos a las pretemporadas son relevantes... Con lo cual, si dentro de la semana colocar momentos de alta entrenabilidad cada vez es más difícil, cobra mucha importancia... introducir algunos elementos que nos puedan generar mejoras dentro de las estrategias de precompetición.",
+      "keywords": [
+        "escalas-temporales",
+        "largo-plazo",
+        "medio-plazo",
+        "corto-plazo",
+        "precompeticion",
+        "pretemporada"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Marco teórico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las escalas temporales de la preparación deportiva?",
+        "¿Por qué es difícil lograr adaptaciones crónicas en temporada?",
+        "¿Qué papel juegan las estrategias a corto plazo en el deporte moderno?"
+      ],
+      "related_terms": [
+        "escalas",
+        "temporales",
+        "adaptaciones",
+        "crónicas",
+        "precompetición"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalla el desafío principal en deportes de equipo: calendarios muy densos que reducen las ventanas de entrenamiento, priorizan el rendimiento inmediato sobre la adaptación a medio plazo y generan fatiga acumulada.",
+      "context_after": "Se contrastan los modelos de planificación clásica y contemporánea frente a la realidad actual del deporte con alta densidad de partidos."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "13:01",
+      "end_timestamp": "16:24",
+      "start_seconds": 781,
+      "end_seconds": 984,
+      "duration_seconds": 203,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=781",
+      "title": "Limitaciones de la planificación clásica y contemporánea",
+      "summary": "Los modelos clásicos (tapering, Matveyev) y contemporáneos (microciclo estructurado, periodización táctica) presentan serias limitaciones hoy en día, ya que asumen picos únicos de rendimiento que no encajan en semanas con tres o cuatro partidos.",
+      "literal_quote": "la densidad competitiva actual ya no permite la aplicación ni siquiera de aquellas planificaciones que consideramos más contemporáneas",
+      "full_transcript": "Con lo cual, las estrategias clásicas, como por ejemplo el afinamiento o el picking de las planificaciones más clásicas, Matveyev, Verkhoshansky, o incluso los planteamientos de tapering... son cada vez de más dudosa aplicación dentro de un entorno de deportes colectivos, porque básicamente no tenemos tiempo para establecerlas... A partir de ahí salieron toda una serie de planificaciones contemporáneas... el microciclo estructurado de Paco Seirulo o de la periodización táctica de Víctor Frade. Son modelos que se ajustan mejor... pero tienen algunas limitaciones, porque están diseñadas para competiciones con picos muy claros en los que el rendimiento debe ser máximo... Y por ello no responden plenamente a la realidad semanal actual de los deportes de equipo de alta demanda... en los que ya no hay una competición semanal... sino que en algunos periodos nos encontramos con tres e incluso con cuatro competiciones en una única semana.",
+      "keywords": [
+        "planificacion-clasica",
+        "planificacion-contemporanea",
+        "tapering",
+        "microciclo-estructurado",
+        "periodizacion-tactica"
+      ],
+      "entities": [
+        "Matveyev",
+        "Verkhoshansky",
+        "Mújica",
+        "Paco Seirulo",
+        "Víctor Frade"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué el tapering clásico ya no se aplica en deportes de equipo?",
+        "¿Qué limitaciones tiene la periodización táctica con calendarios densos?",
+        "¿Cómo afecta la frecuencia de partidos a los modelos de planificación?"
+      ],
+      "related_terms": [
+        "planificación",
+        "contemporánea",
+        "tapering",
+        "microciclo",
+        "estructurado"
+      ],
+      "relevance_score": 4,
+      "context_before": "La preparación del rendimiento ocurre en tres escalas: largo plazo (adaptaciones crónicas, limitadas a pretemporada y transición), medio plazo (dosificación semanal) y corto plazo (estrategias precompetición).",
+      "context_after": "El autor expone soluciones prácticas usadas en el baloncesto de élite para manejar estas semanas tan exigentes, como la sesión condicional inmediata tras jugar."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "16:25",
+      "end_timestamp": "21:45",
+      "start_seconds": 985,
+      "end_seconds": 1305,
+      "duration_seconds": 320,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=985",
+      "title": "Nuevas formas de gestión de carga y sesiones post-partido",
+      "summary": "Ante la incapacidad de entrenar entre partidos con menos de 48 horas de diferencia, los equipos aplican sesiones condicionales breves y de alta intensidad justo después del encuentro para los titulares, liberando el día siguiente para la recuperación total.",
+      "literal_quote": "con los jugadores que han sido titulares... colocar un estímulo condicional justo después de la competición... para que el día después... se pueda dedicar básicamente a recuperación.",
+      "full_transcript": "Esto genera que se tengan que desarrollar nuevas formas de gestión. Y aquí, por ejemplo, voy a citar al Barça de baloncesto... vemos aquí que el viernes 17 de abril hay un partido de Euroliga... pero el domingo 19 de abril se juega un partido de ACB... entre medio de esos dos partidos es inviable colocar una carga de entrenamiento físico... Una de las soluciones es, con los jugadores que han sido titulares... colocar un estímulo condicional justo después de la competición, justo después del partido... para que el día después... se pueda dedicar básicamente a recuperación... La sesión tipo que se suele utilizar hoy en día en el baloncesto Euroliga... suele ser una sesión tipo con tres ejercicios, uno de tren superior, uno de tren inferior y uno de carácter abdominal, con un tipo de estímulo de alta intensidad... Si hay jugadores que no han estado convocados... con estos sí que se puede hacer una sesión de mayor demanda.",
+      "keywords": [
+        "gestion-carga",
+        "sesion-post-partido",
+        "recuperacion",
+        "estimulo-condicional",
+        "euroliga"
+      ],
+      "entities": [
+        "Barça",
+        "Euroliga",
+        "ACB"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo entrenan los equipos que juegan viernes y domingo?",
+        "¿Qué es una sesión post-partido en baloncesto de élite?",
+        "¿Cómo se compensa la carga de los jugadores titulares frente a los suplentes?"
+      ],
+      "related_terms": [
+        "sesión",
+        "post-partido",
+        "estímulo",
+        "condicional",
+        "recuperación",
+        "jugadores",
+        "titulares"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los modelos clásicos (tapering, Matveyev) y contemporáneos (microciclo estructurado, periodización táctica) presentan serias limitaciones hoy en día, ya que asumen picos únicos de rendimiento que no encajan en semanas con tres o cuatro partidos.",
+      "context_after": "Se reflexiona sobre el concepto del ratio agudo-crónico de carga y los riesgos de cuidar demasiado al deportista reduciendo excesivamente su entrenamiento."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "21:46",
+      "end_timestamp": "24:08",
+      "start_seconds": 1306,
+      "end_seconds": 1448,
+      "duration_seconds": 142,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1306",
+      "title": "El peligro del Load Management excesivo",
+      "summary": "Reducir excesivamente la carga (Load Management) no evita lesiones; de hecho, puede aumentarlas al disminuir la entrenabilidad. Se debe encontrar el 'sweet spot' de carga según la teoría de Gabbett.",
+      "literal_quote": "cuidar demasiado al jugador tampoco es bueno... la gestión de la carga de entrenamiento en la NBA... no está disminuyendo el riesgo de lesión.",
+      "full_transcript": "Esto nos obliga a intentar encontrar una carga óptima. Y aquí vamos a hacer referencia a una propuesta muy conocida... la Acute Chronic Work Ratio del profesor Gabbett... es importante evitar... los picos de carga, así como también momentos de carga en los que hay una disminución muy importante de la entrenabilidad. Es decir, que cuidar demasiado al jugador tampoco es bueno. ¿Por qué? ... si disminuimos la carga externa de los deportistas, en este caso de la NBA, lo que se genera es más posibilidad de lesiones... De hecho, el artículo que está justo debajo... nos dice exactamente lo mismo: que la gestión de la carga de entrenamiento en la NBA, es decir, el load management... no está disminuyendo el riesgo de lesión en la NBA... Con lo cual la clave parece ser... en encontrar el sweet spot, el punto adecuado de entrenamiento.",
+      "keywords": [
+        "load-management",
+        "acute-chronic-work-ratio",
+        "sweet-spot",
+        "riesgo-lesion",
+        "entrenabilidad"
+      ],
+      "entities": [
+        "Gabbett",
+        "NBA"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Es efectivo el load management en la NBA para reducir lesiones?",
+        "¿Qué pasa cuando se disminuye demasiado la carga de entrenamiento?",
+        "¿Qué es el sweet spot en la gestión de cargas?"
+      ],
+      "related_terms": [
+        "load",
+        "management",
+        "acute",
+        "chronic",
+        "work",
+        "ratio",
+        "sweet",
+        "spot"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ante la incapacidad de entrenar entre partidos con menos de 48 horas de diferencia, los equipos aplican sesiones condicionales breves y de alta intensidad justo después del encuentro para los titulares, liberando el día siguiente para la recuperación total.",
+      "context_after": "Como solución a esta paradoja, los equipos buscan estabilizar la carga de trabajo semanal. Se muestra un ejemplo práctico con los datos del equipo nacional de voleibol."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "24:09",
+      "end_timestamp": "26:48",
+      "start_seconds": 1449,
+      "end_seconds": 1608,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1449",
+      "title": "Homogeneización de la carga semanal en competición",
+      "summary": "Para mantenerse en la carga óptima, se busca homogeneizar la carga de entrenamiento durante toda la fase competitiva, evitando alteraciones ostensibles. Se ilustra con datos reales de la Selección de Voleibol.",
+      "literal_quote": "estamos buscando un nivel de carga que sea muy homogéneo, intentar buscar ese switch del cual estábamos hablando, sin alteraciones muy ostensibles de la carga",
+      "full_transcript": "lo que están empezando a hacer los equipos es intentar mantener un nivel de entrenamiento que sea relativamente homogéneo... La cuantificación de cargas que hemos llevado a cabo durante las cinco semanas de la Liga Europea con la Selección Absoluta Masculina de España... Lo que encontramos es que al final hay una cierta homogeneización entre el volumen de carga en todas las semanas... nos movimos entre 2.000 y máximo 3.300... unidades arbitrarias... Parecido a si cuantificamos la carga de entrenamiento utilizando el promedio de saltos por sesión... estamos alrededor de los 60, 80 saltos de alta intensidad de promedio durante todas las situaciones, sean partidos o sean entrenamientos. Con lo cual, de nuevo, estamos buscando un nivel de carga que sea muy homogéneo... sin alteraciones muy ostensibles de la carga de entrenamiento.",
+      "keywords": [
+        "homogeneizacion",
+        "carga-entrenamiento",
+        "unidades-arbitrarias",
+        "saltos",
+        "voleibol"
+      ],
+      "entities": [
+        "Liga Europea",
+        "Selección Absoluta Masculina de España"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Datos"
+      ],
+      "search_questions": [
+        "¿Cómo se mantiene la carga de entrenamiento en el voleibol de élite?",
+        "¿Qué significa homogeneizar la carga semanal?",
+        "¿Cuántos saltos de alta intensidad se recomiendan por sesión en voleibol?"
+      ],
+      "related_terms": [
+        "homogeneización",
+        "carga",
+        "unidades",
+        "arbitrarias",
+        "promedio",
+        "de",
+        "saltos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Reducir excesivamente la carga (Load Management) no evita lesiones; de hecho, puede aumentarlas al disminuir la entrenabilidad. Se debe encontrar el 'sweet spot' de carga según la teoría de Gabbett.",
+      "context_after": "Se define formalmente el concepto de Priming y las diferentes interpretaciones metodológicas que se agrupan bajo este término."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "26:49",
+      "end_timestamp": "30:19",
+      "start_seconds": 1609,
+      "end_seconds": 1819,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1609",
+      "title": "Concepto de Priming y su objetivo pre-competición",
+      "summary": "El priming consiste en aplicar estímulos de entrenamiento para generar una respuesta aguda positiva, típicamente en una ventana de 0 a 12 horas previas a la competición. Su fin es facilitar y mejorar el estado del atleta (afinamiento).",
+      "literal_quote": "Priming son estímulos de entrenamiento cuyo objetivo es generar una respuesta aguda posterior y que se aplican en una ventana de entre cero y 12 horas previas a la competición",
+      "full_transcript": "Y aquí es donde van a emerger todas esas estrategias de priming... buscar unas ciertas oscilaciones y organización a nivel semanal, que pasa por mantener un nivel bastante homogéneo de entrenamiento... pero también buscando algunas estrategias que muy cercanas al momento de la competición nos puedan acabar dando ese toque de calidad, ese, entre comillas, afinamiento... Cuando se habla del priming... la primera pregunta que mucha gente se hace es si realmente podemos mejorar el rendimiento el mismo día de partido... Hoy en día, ya estamos viendo que esto se está generalizando mucho en todos los deportes colectivos... vamos a definir priming. Priming son estímulos de entrenamiento cuyo objetivo es generar una respuesta aguda posterior y que se aplican en una ventana de entre cero y 12 horas previas a la competición y habitualmente el mismo día... Y una idea muy importante es que el priming es temporal. Puede pretender mejorar, pero también facilitar el rendimiento. Por lo tanto, es un afinamiento.",
+      "keywords": [
+        "priming",
+        "afinamiento",
+        "respuesta-aguda",
+        "pre-competicion",
+        "estimulos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el priming en el deporte?",
+        "¿Cuál es el marco temporal para aplicar estrategias de priming?",
+        "¿Se puede entrenar la fuerza el mismo día del partido?"
+      ],
+      "related_terms": [
+        "priming",
+        "afinamiento",
+        "respuesta",
+        "aguda",
+        "precompetición"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para mantenerse en la carga óptima, se busca homogeneizar la carga de entrenamiento durante toda la fase competitiva, evitando alteraciones ostensibles. Se ilustra con datos reales de la Selección de Voleibol.",
+      "context_after": "Se establecen las distinciones teóricas entre Priming, PAP (fisiológico puro), PAPe y estrategias de precondicionamiento."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "30:20",
+      "end_timestamp": "32:59",
+      "start_seconds": 1820,
+      "end_seconds": 1979,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1820",
+      "title": "Diferencias entre PAP, PAPe y estrategias de precondicionamiento",
+      "summary": "Se distingue PAP (mecanismo fisiológico medido con estímulo eléctrico), PAPe (orientado al rendimiento mediante factores más globales) y estrategias de precondicionamiento (usando residuos del entrenamiento normal a más largo plazo).",
+      "literal_quote": "la potenciación postactivación difícilmente va a tener transración a los deportes de equipo, porque el mecanismo... difícilmente es un mecanismo reproducible en deportes colectivos.",
+      "full_transcript": "En cambio, cuando hablamos de la PAP, post-activation potentiation, hablamos de un fenómeno agudo que es de carácter fisiológico únicamente... y que se mide clásicamente mediante la respuesta mecánica... a un estímulo eléctrico único... Con lo cual, la potenciación postactivación difícilmente va a tener transración a los deportes de equipo, porque el mecanismo... difícilmente es un mecanismo reproducible en deportes colectivos. Luego tenemos las estrategias de precondicionamiento, que serían actividades de acondicionamiento que se realizan antes de la competición... dentro del propio proceso ordinario de entrenamiento, y que va a aprovechar los residuos de entrenamiento... Luego tenemos el concepto de PAPe, post-activation potentiation enhancement, que es un concepto menos fisiológico y mucho más mecanicista que se aplica y se orienta al rendimiento.",
+      "keywords": [
+        "pap",
+        "pape",
+        "precondicionamiento",
+        "potenciacion-postactivacion",
+        "residuos-entrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Definición",
+        "Marco teórico"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre PAP y PAPe?",
+        "¿Por qué la Potenciación Postactivación pura no sirve en deportes colectivos?",
+        "¿Qué son las estrategias de precondicionamiento?"
+      ],
+      "related_terms": [
+        "pap",
+        "pape",
+        "precondicionamiento",
+        "potenciación",
+        "postactivación"
+      ],
+      "relevance_score": 4,
+      "context_before": "El priming consiste en aplicar estímulos de entrenamiento para generar una respuesta aguda positiva, típicamente en una ventana de 0 a 12 horas previas a la competición. Su fin es facilitar y mejorar el estado del atleta (afinamiento).",
+      "context_after": "A continuación, se aclaran las ventanas de tiempo específicas (corto vs medio plazo) en las que ocurren estas potenciaciones."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "33:00",
+      "end_timestamp": "35:56",
+      "start_seconds": 1980,
+      "end_seconds": 2156,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1980",
+      "title": "Ventanas temporales: corto y medio plazo en el Priming",
+      "summary": "El PAP/PAPe actúa a corto plazo (aprox. 20-30 min), ideal justo antes de calentar. La potenciación retardada (Delayed Potentiation) tiene un efecto a medio plazo (4 a 6 horas), idónea para la sesión matinal en día de partido.",
+      "literal_quote": "cuando buscamos una potenciación retardada, esa ventana será de cuatro a seis horas, y ahí buscaremos un efecto a medio plazo. Y es el tipo de trabajo que nosotros colocamos en la sesión de entrenamiento que hacemos a la mañana.",
+      "full_transcript": "La idea principal es que ese PAP o PAPe... va a tener un efecto a corto plazo. Es decir, se va a producir esa mejora a unos 20 minutos aproximadamente... En cambio, cuando buscamos una potenciación retardada, colocamos una serie de contenidos que pretendemos que generen una mejor predisposición del deportista de 20 minutos a 12 horas después... Con lo cual aquí, cuando estamos buscando con el PAP o el PAPe una actividad que se coloca, por ejemplo, justo antes del calentamiento... vamos a buscar una ventana muy cortita de 30 minutos... En cambio, cuando buscamos una potenciación retardada, esa ventana será de cuatro a seis horas, y ahí buscaremos un efecto a medio plazo. Y es el tipo de trabajo que nosotros colocamos en la sesión de entrenamiento que hacemos a la mañana... para que el deportista se encuentre más activado durante todo el día.",
+      "keywords": [
+        "ventanas-temporales",
+        "corto-plazo",
+        "medio-plazo",
+        "potenciacion-retardada",
+        "sesion-matinal"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuándo se debe aplicar la potenciación a corto plazo?",
+        "¿Qué es la potenciación retardada o delayed potentiation?",
+        "¿Con cuánta antelación se hace la sesión de activación matinal en día de partido?"
+      ],
+      "related_terms": [
+        "potenciación",
+        "retardada",
+        "corto",
+        "plazo",
+        "medio",
+        "plazo",
+        "sesión",
+        "matinal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se distingue PAP (mecanismo fisiológico medido con estímulo eléctrico), PAPe (orientado al rendimiento mediante factores más globales) y estrategias de precondicionamiento (usando residuos del entrenamiento normal a más largo plazo).",
+      "context_after": "Se detalla cómo se diseña una sesión a 24 horas del partido, que aunque se aleje del priming puro de día de partido, ayuda al estado de forma."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "35:56",
+      "end_timestamp": "37:43",
+      "start_seconds": 2156,
+      "end_seconds": 2263,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2156",
+      "title": "Diseño de la sesión de precondicionamiento a 24 horas",
+      "summary": "Una sesión 24-48 horas previas al partido es parte del microciclo (precondicionamiento), no priming per se. El objetivo es potencia explosiva o fuerza-velocidad con volumen bajo y porcentajes de carga altos relativos al deporte.",
+      "literal_quote": "Deben ser ejercicios que demanden potencia de carácter, entre comillas, explosivo, de fuerza rápida, de fuerza-velocidad... buscando volumen de repeticiones muy bajo, porcentajes de carga relativamente altos.",
+      "full_transcript": "En cambio, cuando hablamos de las estrategias de precondicionamiento que utilizan los residuos de entrenamiento, cuando hablamos de un estímulo 48 horas antes, para mí personalmente eso no es priming... Esa actividad pertenece a la planificación del microciclo... ¿Cuál es el objetivo? ... Deben ser ejercicios que demanden potencia de carácter, entre comillas, explosivo, de fuerza rápida, de fuerza-velocidad... buscando volumen de repeticiones muy bajo, porcentajes de carga relativamente altos. Todo esto siempre se debe entender en función de cada deporte... hay que encontrar un nivel de carga óptimo, pero cada uno debe encontrar el suyo y, por lo tanto, hay que entender muy bien el tipo de contenidos que colocamos en estas sesiones.",
+      "keywords": [
+        "precondicionamiento",
+        "24-horas",
+        "potencia-explosiva",
+        "fuerza-velocidad",
+        "microciclo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe ser la sesión de pesas un día antes del partido?",
+        "¿Es la sesión a 24 horas considerada priming?",
+        "¿Qué características tiene el precondicionamiento 24h antes?"
+      ],
+      "related_terms": [
+        "precondicionamiento",
+        "24",
+        "horas",
+        "volumen",
+        "bajo",
+        "potencia",
+        "explosiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "El PAP/PAPe actúa a corto plazo (aprox. 20-30 min), ideal justo antes de calentar. La potenciación retardada (Delayed Potentiation) tiene un efecto a medio plazo (4 a 6 horas), idónea para la sesión matinal en día de partido.",
+      "context_after": "Se analiza una teoría clave de por qué funcionan estas activaciones: el efecto de protección de esfuerzos repetidos (Repeated Bout Effect)."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "37:44",
+      "end_timestamp": "38:59",
+      "start_seconds": 2264,
+      "end_seconds": 2339,
+      "duration_seconds": 75,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2264",
+      "title": "El Repeated Bout Effect como escudo ante la fatiga",
+      "summary": "El Repeated Bout Effect (RBE) explica que la sesión matinal de priming crea una adaptación aguda que atenúa la fatiga y protege contra el daño muscular en el partido posterior.",
+      "literal_quote": "una sesión de ejercicio protege contra el daño muscular asociado a sesiones posteriores... el priming funciona es porque está atenuando la fatiga de la sesión anterior",
+      "full_transcript": "Dentro de todas estas ideas que tienen que ver con el priming, hay un elemento muy importante que es el repeated bout effect. En el estudio de McHugh, por ejemplo, nos hablaban de que es una adaptación mediante la cual una sesión de ejercicio protege contra el daño muscular asociado a sesiones posteriores... Y la idea sería: yo coloco esa sesión, que me genera una cierta fatiga, por la mañana, yo hago esa sesión de adaptación y por la tarde hago el partido. Seguramente, la sesión de la mañana... una de las explicaciones por las cuales el priming funciona es porque está atenuando la fatiga de la sesión anterior, predisponiendo al deportista mejor para la competición, porque de alguna manera lo está escudando ante la fatiga que hemos generado en el primer estímulo.",
+      "keywords": [
+        "repeated-bout-effect",
+        "dano-muscular",
+        "atenuacion-fatiga",
+        "escudo-protector"
+      ],
+      "entities": [
+        "McHugh"
+      ],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el repeated bout effect en el deporte?",
+        "¿Cómo protege la sesión de la mañana frente al partido de la tarde?",
+        "¿Por qué hacer pesas el día de partido puede reducir el daño muscular?"
+      ],
+      "related_terms": [
+        "repeated",
+        "bout",
+        "effect",
+        "daño",
+        "muscular",
+        "atenuación",
+        "de",
+        "fatiga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Una sesión 24-48 horas previas al partido es parte del microciclo (precondicionamiento), no priming per se. El objetivo es potencia explosiva o fuerza-velocidad con volumen bajo y porcentajes de carga altos relativos al deporte.",
+      "context_after": "Además del RBE, se detallan otros mecanismos neuromusculares y sistémicos que explican las mejoras."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "39:01",
+      "end_timestamp": "41:26",
+      "start_seconds": 2341,
+      "end_seconds": 2486,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2341",
+      "title": "Mecanismos neuromusculares, musculares y hormonales del Priming",
+      "summary": "El priming funciona mediante el reclutamiento de unidades motoras de alto umbral, un aumento del 'stiffness' y la temperatura muscular (que mejora la transmisión de fuerza), y factores sistémicos como los ritmos circadianos y la testosterona.",
+      "literal_quote": "hay un incremento en frecuencias de disparo y sincronización de motoneuronas... una mayor sensibilidad al calcio, un aumento de la stiffness y... un aumento de la temperatura a medio plazo.",
+      "full_transcript": "Cuando estamos hablando de los mecanismos por los cuales funciona el priming, hay muchas explicaciones. Una sería de carácter neuromuscular... aumentamos el reclutamiento de unidades motrices de alto umbral... hay un incremento en frecuencias de disparo y sincronización de motoneuronas, que facilita una mayor producción de fuerza rápida... También hay una serie de mecanismos musculares. Hay una mayor sensibilidad al calcio, un aumento de la stiffness y, sobre todo... un aumento de la temperatura a medio plazo... que va a optimizar la transferencia de fuerza desde el músculo hacia el tendón... Luego hay otra serie de mecanismos hormonales y sistémicos... se ha detectado un aumento, sobre todo en la saliva, de la testosterona circundante. Sabemos que hay una gran alteración de los ritmos circadianos... Y, por lo tanto, realizar este tipo de estrategias por la mañana tiene este efecto de potenciación retardada.",
+      "keywords": [
+        "mecanismos-neuromusculares",
+        "stiffness",
+        "temperatura-muscular",
+        "ritmos-circadianos",
+        "frecuencia-disparo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Marco teórico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los mecanismos fisiológicos que explican el priming?",
+        "¿Cómo afecta el aumento de temperatura y stiffness a la transmisión de fuerza?",
+        "¿Qué rol juegan las hormonas y los ritmos circadianos en la activación pre-partido?"
+      ],
+      "related_terms": [
+        "stiffness",
+        "muscular",
+        "temperatura",
+        "ritmos",
+        "circadianos",
+        "frecuencia",
+        "de",
+        "disparo"
+      ],
+      "relevance_score": 5,
+      "context_before": "El Repeated Bout Effect (RBE) explica que la sesión matinal de priming crea una adaptación aguda que atenúa la fatiga y protege contra el daño muscular en el partido posterior.",
+      "context_after": "La explicación puramente fisiológica tiene límites; la creencia mental y el contexto del jugador resultan vitales en el resultado."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "41:27",
+      "end_timestamp": "43:47",
+      "start_seconds": 2487,
+      "end_seconds": 2627,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2487",
+      "title": "La influencia del contexto y las creencias del deportista",
+      "summary": "El éxito del priming no es puramente fisiológico, sino altamente dependiente del contexto. La creencia (efecto placebo) del atleta, sus expectativas y confianza en la estrategia amplifican o limitan los resultados físicos reales.",
+      "literal_quote": "Lo que el deportista cree, espera y comparte con su entorno puede llegar a amplificar o limitar el efecto de cualquier intervención que nosotros impongamos sobre él.",
+      "full_transcript": "Con lo cual es muy importante que entendamos que el contexto determina la respuesta. ¿Hay elementos que son de carácter fisiológico que nos explican el priming? Sí, los hay. Pero también hay una parte muy importante... que tiene que ver con el contexto. Lo que el deportista cree, espera y comparte con su entorno puede llegar a amplificar o limitar el efecto de cualquier intervención que nosotros impongamos sobre él. Con lo cual, con las estrategias de priming, para mí es muy importante que busquemos momentos que el deportista escoja para utilizarlas e incluso que sea elección del deportista si las utiliza o no. Si no cree en ellas, probablemente vamos a tener algunos problemas después con el efecto que se produzca, porque este efecto es muy contextual y tiene que ver con la reputación de la persona que lo propone, con experiencias previas del deportista y con su percepción de la fatiga... ese convencimiento va a amplificar la respuesta de estas estrategias.",
+      "keywords": [
+        "creencias",
+        "contexto",
+        "efecto-placebo",
+        "convencimiento",
+        "expectativas"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante que el deportista crea en la sesión de activación?",
+        "¿Qué impacto tiene el componente psicológico en el priming?",
+        "¿Se debe forzar al atleta a realizar priming si no confía en ello?"
+      ],
+      "related_terms": [
+        "creencia",
+        "del",
+        "deportista",
+        "contexto",
+        "efecto",
+        "placebo"
+      ],
+      "relevance_score": 4,
+      "context_before": "El priming funciona mediante el reclutamiento de unidades motoras de alto umbral, un aumento del 'stiffness' y la temperatura muscular (que mejora la transmisión de fuerza), y factores sistémicos como los ritmos circadianos y la testosterona.",
+      "context_after": "Más allá del contexto psicológico, es clave que el estímulo físico propuesto tenga transferencia biomecánica directa al deporte (especificidad)."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "43:48",
+      "end_timestamp": "45:15",
+      "start_seconds": 2628,
+      "end_seconds": 2715,
+      "duration_seconds": 87,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2628",
+      "title": "Especificidad del estímulo y transferencia primaria",
+      "summary": "Para que el priming sea efectivo, el ejercicio utilizado debe ser específico a las demandas biomecánicas del deporte (ej. sentadilla para potenciar el salto). Actúa sobre la transferencia primaria de la habilidad a competir.",
+      "literal_quote": "La potenciación o la activación va a depender de la similitud que tiene esa tarea con lo que nosotros intentamos potenciar o activar.",
+      "full_transcript": "Cosas importantes que sí que nos dice la literatura y que nos explica por qué funcionan o no funcionan estas estrategias. Primero, tiene que haber una especificidad del estímulo. El priming debe ser específico de la tarea. La potenciación o la activación va a depender de la similitud que tiene esa tarea con lo que nosotros intentamos potenciar o activar. Por lo tanto, un squat con un salto van a tener coherencia, pero a lo mejor una bicicleta con un sprint, no. Hay que buscar estrategias que realmente tengan coherencia... Hay que tener en cuenta que el priming actúa principalmente en lo que se denomina la transferencia primaria, porque la activación se va a expresar directamente en el deporte. Es decir, si un jugador de voleibol salta más alto, se espera que su rendimiento mejore.",
+      "keywords": [
+        "especificidad",
+        "transferencia-primaria",
+        "similitud-tarea",
+        "biomecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es la transferencia primaria en el entrenamiento de fuerza?",
+        "¿Por qué hacer bicicleta no potencia adecuadamente un sprint?",
+        "¿Cómo se asegura la especificidad del estímulo en una sesión pre-partido?"
+      ],
+      "related_terms": [
+        "especificidad",
+        "del",
+        "estímulo",
+        "transferencia",
+        "primaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "El éxito del priming no es puramente fisiológico, sino altamente dependiente del contexto. La creencia (efecto placebo) del atleta, sus expectativas y confianza en la estrategia amplifican o limitan los resultados físicos reales.",
+      "context_after": "Se presentan ejemplos concretos de estímulos y parámetros para diseñar estas sesiones de activación basadas en la especificidad."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "45:16",
+      "end_timestamp": "49:22",
+      "start_seconds": 2716,
+      "end_seconds": 2962,
+      "duration_seconds": 246,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2716",
+      "title": "Tipos de estímulos y selección de ejercicios para Priming",
+      "summary": "Se repasan distintos métodos comprobados para la activación aguda: pesas pesadas (85-95% 1RM), movimientos balísticos, isometría superando el 70% de fuerza, bandas elásticas, plataformas vibratorias y levantamientos olímpicos.",
+      "literal_quote": "estímulos con carga pesada, con intensidades del 85, 95 % de la 1 RM, con entre una y tres series, tres y seis repeticiones... Pero también estamos colocando ejercicios balísticos.",
+      "full_transcript": "¿Y qué tipo de estímulos se están colocando para que tengan esa coherencia...? Fijaros: estímulos con carga pesada, con intensidades del 85, 95 % de la 1 RM, con entre una y tres series, tres y seis repeticiones, con velocidades de ejecución potencialmente máximas... y con unas pausas interesantes entre tres y cinco minutos. Pero también estamos colocando ejercicios balísticos. Ahí vamos a buscar valores distintos: entre 0 y 40 % de la 1 RM... aumentamos mucho más el número de repeticiones... Luego se están incorporando... isometrías, por ejemplo... 4 segundos a 70 % mínimo de la fuerza isométrica máxima... Trabajos con bandas elásticas, con tres series de cuatro repeticiones demandando el 85 %... O trabajos con estimulación de cuerpo completo... a 45 hercios y con una oscilación de 2 milímetros... Tenemos otro tipo de estudios en los que se utilizan levantamientos olímpicos... y por ejemplo, drop jam... En deportes colectivos estaríamos hablando de cargada de fuerza, de cargada de potencia.",
+      "keywords": [
+        "cargas-pesadas",
+        "balisticos",
+        "isometria",
+        "bandas-elasticas",
+        "levantamientos-olimpicos"
+      ],
+      "entities": [
+        "Cochrane"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje del RM se usa para potenciar con cargas pesadas?",
+        "¿Qué opciones de ejercicios existen para hacer priming?",
+        "¿Se pueden usar isométricos para activar antes de un partido?"
+      ],
+      "related_terms": [
+        "carga",
+        "pesada",
+        "ejercicios",
+        "balísticos",
+        "isometría",
+        "bandas",
+        "elásticas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para que el priming sea efectivo, el ejercicio utilizado debe ser específico a las demandas biomecánicas del deporte (ej. sentadilla para potenciar el salto). Actúa sobre la transferencia primaria de la habilidad a competir.",
+      "context_after": "A partir de estos estímulos aislados se explica cómo unirlos en un diseño de sesión con una cuantificación específica y un marcado componente de individualización."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "49:23",
+      "end_timestamp": "52:53",
+      "start_seconds": 2963,
+      "end_seconds": 3173,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2963",
+      "title": "Diseño de la sesión, volumen e individualización",
+      "summary": "Una sesión de priming requiere bajo volumen (450-1000 unidades arbitrarias frente a las 3000 habituales) pero alta intención de movimiento. Es vital permitir autonomía al jugador (escoger variantes) y atender a perfiles de fibra rápida.",
+      "literal_quote": "son sesiones que tienen que tener un bajo volumen, una alta intención en cuanto a los movimientos que nosotros planteamos y una recuperación adecuada.",
+      "full_transcript": "Cuando hablamos del diseño de la sesión... son sesiones que tienen que tener un bajo volumen, una alta intención en cuanto a los movimientos que nosotros planteamos y una recuperación adecuada... nos estaríamos colocando entre 450 y unas más de 1.000 (unidades arbitrarias). Una sesión ordinaria... se situaría alrededor de 3.000, 3.500... Luego, es muy importante que entendamos que tiene que haber un nivel de individualización... que tienen que ver con el nivel de fuerza, con la experiencia y con el tipo de fibra... sabemos que los deportistas de fibra rápida se benefician más de las estrategias de priming que los deportistas de fibra lenta... planteamos una serie de rutinas... y disponiendo de gimnasio completo en el que hay un calentamiento y luego, en el priming, hay unos bloques en los que incluso dejamos escoger a los deportistas. Por ejemplo, en el bloque A habría un iso push squat y después el deportista debería escoger entre un cuarto de squat... o un salto con barra hexagonal.",
+      "keywords": [
+        "bajo-volumen",
+        "alta-intencion",
+        "individualizacion",
+        "fibra-rapida",
+        "unidades-arbitrarias",
+        "autonomia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué volumen de carga debe tener una sesión pre-partido?",
+        "¿Por qué beneficia más el priming a los jugadores rápidos?",
+        "¿Se debe permitir a los jugadores elegir sus ejercicios de activación?"
+      ],
+      "related_terms": [
+        "bajo",
+        "volumen",
+        "alta",
+        "intención",
+        "fibra",
+        "rápida",
+        "individualización"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se repasan distintos métodos comprobados para la activación aguda: pesas pesadas (85-95% 1RM), movimientos balísticos, isometría superando el 70% de fuerza, bandas elásticas, plataformas vibratorias y levantamientos olímpicos.",
+      "context_after": "Se aborda un problema común: ¿cómo implementar estas sesiones cuando se juega fuera de casa y no hay acceso al gimnasio habitual?"
+    },
+    {
+      "id": "V02-018",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "52:54",
+      "end_timestamp": "55:49",
+      "start_seconds": 3174,
+      "end_seconds": 3349,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3174",
+      "title": "Adaptación logística y rutinas de Priming en campo",
+      "summary": "Ante la falta de instalaciones, especialmente en los partidos como visitante, el equipo viaja con rutinas de 'bolsillo' implementadas directamente en el campo con pelotas medicinales, elásticos y algún peso ligero (kettlebells).",
+      "literal_quote": "viajamos con un material que nos permite, en esa sesión de activación de la mañana, hacer una versión de bolsillo de la estrategia de priming",
+      "full_transcript": "Es muy importante el aspecto logístico cuando estamos hablando de las estrategias de priming, de si tengo gimnasio, no tengo gimnasio o si mi deporte se realiza en una pista que puede estar pegada al gimnasio, se realiza en un campo. Con lo cual, ahí hay que buscar alternativas. Y nosotros... planteamos una rutina de priming... que se utiliza directamente en el campo y que utiliza muy poco material. Básicamente, p*****s medicinales, elásticos y cajones... Sí que hay una kettlebell... pero es material que se puede llevar muy fácilmente al campo. Este tipo de estrategias también las utilizamos nosotros cuando estamos en campo contrario y no tenemos disponibilidad de gimnasio y, por lo tanto, viajamos con un material que nos permite... hacer una versión de bolsillo de la estrategia de priming que tenemos cuando sí que tenemos disponibilidad al gimnasio.",
+      "keywords": [
+        "logistica",
+        "campo-contrario",
+        "rutina-bolsillo",
+        "material-portable",
+        "activacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo hacer priming si no se dispone de gimnasio?",
+        "¿Qué materiales portátiles son ideales para activar al equipo fuera de casa?",
+        "¿Qué es una rutina de activación de bolsillo?"
+      ],
+      "related_terms": [
+        "rutina",
+        "de",
+        "bolsillo",
+        "material",
+        "portable",
+        "campo",
+        "contrario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Una sesión de priming requiere bajo volumen (450-1000 unidades arbitrarias frente a las 3000 habituales) pero alta intención de movimiento. Es vital permitir autonomía al jugador (escoger variantes) y atender a perfiles de fibra rápida.",
+      "context_after": "Finalmente, se exponen los retos a la hora de demostrar estadísticamente los beneficios del priming y los miedos comunes en la profesión que frenan su adopción."
+    },
+    {
+      "id": "V02-019",
+      "video_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+      "speaker": "Javier Peña",
+      "start_timestamp": "55:51",
+      "end_timestamp": "58:10",
+      "start_seconds": 3351,
+      "end_seconds": 3490,
+      "duration_seconds": 139,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3351",
+      "title": "Reflexión crítica y adopción de la práctica",
+      "summary": "Pese a las buenas sensaciones subjetivas, el priming carece de estudios rigurosos que prueben su beneficio real en competición. El miedo a inducir fatiga o lesiones causa que solo un 50% de los preparadores utilicen estas estrategias hoy en día.",
+      "literal_quote": "todavía hay una evidencia limitada en competición de cuál es el efecto real... Es muy difícil establecer grupos control, establecer grupos experimentales y medirlo.",
+      "full_transcript": "Para concluir, yo creo que es importante primero que hagamos una reflexión crítica sobre todas estas estrategias... todavía hay una evidencia limitada en competición de cuál es el efecto real en competición. ¿Por qué? Porque no lo hemos medido... en entornos de alto rendimiento es muy difícil medirlo. Es muy difícil establecer grupos control... Con lo cual creemos que funciona, las sensaciones de los deportistas son buenas, pero no tenemos medidas reales... Sabemos que son estrategias que están muy divulgadas, pero que hoy en día solo un 50 % de los entrenadores preparadores físicos las están implementando... También puede generar mayor fatiga, puede generar interferencias, potencialmente puede generar lesiones. De hecho, estas son algunas de las barreras de por qué hay un 50 % de los entrenadores... que no las adoptan... Todo esto es hipotético. No sabemos si realmente generan más lesiones o menos, porque no se ha probado en estudios longitudinales... el impacto sobre el rendimiento va a depender de una correcta individualización, de la integración con el resto de la planificación.",
+      "keywords": [
+        "evidencia-limitada",
+        "estudios-longitudinales",
+        "barreras-adopcion",
+        "fatiga",
+        "interferencias"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Está científicamente comprobado el efecto del priming en competición oficial?",
+        "¿Por qué muchos preparadores físicos no quieren usar el priming?",
+        "¿Cuáles son los supuestos riesgos de entrenar la fuerza antes del partido?"
+      ],
+      "related_terms": [
+        "evidencia",
+        "limitada",
+        "barreras",
+        "de",
+        "adopción",
+        "miedo",
+        "a",
+        "la",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ante la falta de instalaciones, especialmente en los partidos como visitante, el equipo viaja con rutinas de 'bolsillo' implementadas directamente en el campo con pelotas medicinales, elásticos y algún peso ligero (kettlebells).",
+      "context_after": "El presentador despide el webinar agradeciendo la atención y facilitando sus redes de contacto."
+    }
+  ]
+}
