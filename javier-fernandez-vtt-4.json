@@ -1,0 +1,204 @@
+{
+  "video": {
+    "video_id": "WEBVTT-4",
+    "video_title": "Selección de test, métricas y toma de decisiones en readaptación",
+    "speaker": "Ponente",
+    "total_duration": "00:11:37",
+    "total_duration_seconds": 697,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-4-001",
+      "video_title": "Selección de test, métricas y toma de decisiones en readaptación",
+      "speaker": "Ponente",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:46",
+      "start_seconds": 3,
+      "end_seconds": 106,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=3",
+      "title": "El test como vehículo y la selección basada en métricas",
+      "summary": "El ponente critica la búsqueda de un 'número mágico' para determinar si un jugador está listo para volver a competir. Destaca que la evaluación debe ser tanto cuantitativa como cualitativa, entendiendo el test como un vehículo y no como el destino final. La metodología correcta implica definir primero qué métrica interesa evaluar y, a partir de ahí, seleccionar la prueba idónea.",
+      "literal_quote": "Tiene que ser cuantitativo más cualitativo, y que el test va a ser un vehículo y no el destino... lo que deberemos hacer es buscar esas métricas que son de nuestro interés, a través de ellas decidir cuál es el test.",
+      "full_transcript": "Para terminar la presentación, me gustaría desarrollar de forma más específica esta parte de selección de test y de métricas, ya que muchas veces en el proceso de readaptación buscamos cuál es el número concreto que me va a decir si el jugador está listo para correr o no, cuál es el número en concreto que el jugador me va a decir que no se va a volver a lesionar de esa misma lesión una vez que vuelva a la competición. Y es aquí donde vengo a mencionaros que no es solo de forma cuantitativa, sino que tiene que ser cuantitativo más cualitativo, y que el test va a ser un vehículo y no el destino. Al final no tenemos que buscar un test específico para que nos diga exactamente lo que va a suceder. Por ello, cuando realicemos la selección de los mismos, en vez de hacer la selección de test, de ahí buscar las métricas que nos interesan y hacer la interpretación de las mismas, lo que deberemos hacer es buscar esas métricas que son de nuestro interés, a través de ellas decidir cuál es el test o prueba que voy a realizar y una vez esto se haya realizado, buscar la interpretación. Es decir, si sé que mi foco va a ser sobre la capacidad de producir fuerza concéntrica de forma rápida, un salto desde posición de media sentadilla, un squat jump, puede ser uno de ellos, porque al final ese es mi objetivo, quiero valorar esto.",
+      "keywords": [
+        "selección-test",
+        "métricas",
+        "cuantitativo",
+        "cualitativo",
+        "vehículo",
+        "squat-jump"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no se debe buscar un número exacto en los test de readaptación?",
+        "¿Cuál es el orden correcto al seleccionar un test y una métrica?",
+        "¿Qué significa que el test es un vehículo y no un destino?"
+      ],
+      "related_terms": [
+        "selección de test",
+        "proceso de readaptación",
+        "fuerza concéntrica",
+        "número concreto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento enfocado en la selección de pruebas, dejando atrás las explicaciones generales del proceso.",
+      "context_after": "Se explica cómo integrar esta mentalidad de selección de métricas en las diferentes fases prácticas de la readaptación."
+    },
+    {
+      "id": "WEBVTT-4-002",
+      "video_title": "Selección de test, métricas y toma de decisiones en readaptación",
+      "speaker": "Ponente",
+      "start_timestamp": "00:01:46",
+      "end_timestamp": "00:04:44",
+      "start_seconds": 106,
+      "end_seconds": 284,
+      "duration_seconds": 178,
+      "timestamp_url": "?t=106",
+      "title": "Progresión de los test según la fase de readaptación",
+      "summary": "Se detalla cómo los test deben evolucionar en paralelo a los estímulos de readaptación. En fases iniciales, se priorizan posiciones sin perturbaciones tensiles (evaluando capacidad isométrica o rangos de movimiento). Posteriormente, se avanza hacia cambios en la capacidad elástica, demandas excéntricas, planos multidireccionales y tareas re-acelerativas, sirviendo todo ello para monitorizar longitudinalmente al deportista.",
+      "literal_quote": "Tenemos que, de forma inicial, en lo que sería el proceso de readaptación, los objetivos principales serán sobre la capacidad isométrica... Pasando posteriormente a esas situaciones donde hay un cambio en la capacidad tensil o elástica del tejido.",
+      "full_transcript": "Esto, integrándolo con el proceso de readaptación que veíamos, con las diferentes selecciones de estímulos que íbamos a realizar y buscando cómo son estos estímulos correlacionados con esas pruebas y cómo van a ser estas métricas u objetivos correlacionados con esas pruebas. Tenemos que, de forma inicial, en lo que sería el proceso de readaptación, los objetivos principales serán sobre la capacidad isométrica, tanto máxima como arcid. Posiciones donde a la hora de realizar el movimiento, no haya una situación de cambio a nivel tensil en esa fase excéntrica, concéntrica de forma rápida, como puede ser en este caso un squat jump desde posición de parado y valoraciones de rango de movimiento. Pasando posteriormente a esas situaciones donde hay un cambio en la capacidad tensil o elástica del tejido, de esa fase excéntrica, concéntrica o por órdenes de deceleración y reacceleración. Situaciones más dominantes, en este caso para una de las estructuras, como puede ser la capacidad de realizar 10 hop consecutivos más dominantes, en este caso de tobillo... Saltos laterales, por cambiar también, como he mencionado, los diferentes vectores y en este caso planos de movimiento... Situaciones de salto desde caída, aumentando esta parte de carga excéntrica desde una situación elevada. Un semistep rebound... Box jump, buscando esos patrones más de fuerza también horizontales... y situaciones de triple hop, ya no solo en esta forma bilateral y única, sino también de forma consecutiva y unilateral. Todos estos test no nos van a servir solo para realizarlos una vez... sino que los vamos a utilizar también como base a nivel de tener información del deportista y durante el proceso de monitorización del mismo.",
+      "keywords": [
+        "progresión",
+        "fase-excéntrica",
+        "isometría",
+        "monitorización",
+        "triple-hop",
+        "capacidad-elástica"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipo de test se priorizan en la fase inicial de una readaptación?",
+        "¿Cuándo se introducen las pruebas de tolerancia elástica y excéntrica?",
+        "¿Para qué se utilizan los test de salto de forma longitudinal en el deportista?"
+      ],
+      "related_terms": [
+        "capacidad isométrica",
+        "capacidad tensil",
+        "carga excéntrica",
+        "patrones reaccelerativos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que los test deben seleccionarse en base a la métrica que se desea obtener.",
+      "context_after": "Se expone la necesidad de analizar las curvas de fuerza y tiempo generadas por estas pruebas, así como la calidad técnica del gesto."
+    },
+    {
+      "id": "WEBVTT-4-003",
+      "video_title": "Selección de test, métricas y toma de decisiones en readaptación",
+      "speaker": "Ponente",
+      "start_timestamp": "00:04:46",
+      "end_timestamp": "00:07:43",
+      "start_seconds": 286,
+      "end_seconds": 463,
+      "duration_seconds": 177,
+      "timestamp_url": "?t=286",
+      "title": "Análisis de calidad, curvas de fuerza-tiempo y especificidad",
+      "summary": "Para ir más allá del simple dato cuantitativo, se debe evaluar la calidad de ejecución (estabilización, dorsiflexión, control). Además, se enfatiza que entender las curvas de fuerza-tiempo de cada prueba ayuda a discernir si medimos fatiga, fuerza máxima o reactividad. Finalmente, la elección del test varía según la patología; no se testea igual una tendinopatía rotuliana que una lesión de sóleo.",
+      "literal_quote": "Y es que es interesante no ir solo a datos, sino también entender cómo los diferentes test o pruebas... van a tener diferentes demandas a través de lo que sería, en este caso, las curvas de fuerza y de tiempo. Vemos que los test isométricos... puedo correlacionarlas más con situaciones de trabajo bajo fatiga.",
+      "full_transcript": "Y es que es interesante no ir solo a datos, sino también entender cómo los diferentes test o pruebas que vamos a realizar van a tener diferentes demandas a través de lo que sería, en este caso, las curvas de fuerza y de tiempo. Vemos que los test isométricos, al final la producción de fuerza va a ser mucho más lenta, pero sin embargo, puedo buscar situaciones más mantenidas en el tiempo. Por lo tanto, puedo correlacionarlas más con situaciones de trabajo bajo fatiga, en este caso de forma mantenida, situaciones de fuerza máxima, porque normalmente son situaciones donde puedo aislar más el movimiento y trabajar en ángulos concretos... Situaciones, como decíamos, de squat jump, donde no hay una fase de preload previa, sino que es una fase de parado... no solo evaluando lo que es la cantidad de fuerza generada, sino también la calidad de los mismos... la contribución o, en este caso, el énfasis que van a tener las diferentes articulaciones o estructuras en función del salto... Entonces, a lo mejor cuando yo tenga, por ejemplo, una tendinopatía rotuliana, voy a tener que trabajar de forma diferente a si tengo una lesión sobre el gastrocnemio y el sóleo en cuanto a la selección de pruebas... Y lo que veíamos, no solo valorando esta parte más cuantitativa, donde si hacemos, por ejemplo, un triple hop... podemos valorar en este caso la distancia total del atleta, sino también cómo se comporta a nivel estabilizador, si realiza la fase de apoyos de tobillo, si hay rangos de dorsiflexión deseados, si hay una situación de STIC de tobillo...",
+      "keywords": [
+        "calidad-movimiento",
+        "curvas-fuerza",
+        "fatiga",
+        "isometría",
+        "especificidad-lesional",
+        "dorsiflexión"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis de datos"
+      ],
+      "search_questions": [
+        "¿Por qué es importante evaluar la calidad de un test de salto y no solo la distancia?",
+        "¿Qué información nos aportan las curvas de fuerza-tiempo en los test isométricos?",
+        "¿De qué manera afecta el tipo de lesión a la selección de las pruebas físicas?"
+      ],
+      "related_terms": [
+        "curvas de fuerza",
+        "fuerza máxima",
+        "calidad de ejecución",
+        "tendinopatía rotuliana"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso progresivo de test para medir distintas capacidades a lo largo de la recuperación.",
+      "context_after": "Se afronta el problema de no tener datos previos (baseline) del jugador lesionado y cómo generar comparativas válidas."
+    },
+    {
+      "id": "WEBVTT-4-004",
+      "video_title": "Selección de test, métricas y toma de decisiones en readaptación",
+      "speaker": "Ponente",
+      "start_timestamp": "00:07:43",
+      "end_timestamp": "00:11:37",
+      "start_seconds": 463,
+      "end_seconds": 697,
+      "duration_seconds": 234,
+      "timestamp_url": "?t=463",
+      "title": "Comparativa de datos, individualización y alta consensuada",
+      "summary": "Ante la ausencia de datos previos (baseline), se recomienda comparar con bases de datos estandarizadas o con el miembro sano (asumiendo asimetrías normales del 5-10%). Advierte del riesgo de comparar jugadores basándose solo en su posición, debido a exigencias tácticas distintas. Concluye que la decisión del alta deportiva no recae sobre un único profesional ni métrica, sino que requiere consenso interdisciplinar (staff médico, técnico, preparador) y la confianza psicológica del jugador.",
+      "literal_quote": "Recalcar que esto no es una decisión de forma unilateral, que no vamos a ser los únicos que tomamos la decisión de que el jugador está listo... que todo va a ser de forma conjunta con el propio deportista, en este caso el staff médico, el staff que comprenda el club y el propio staff del entrenador.",
+      "full_transcript": "Cuando nos llegan deportistas nuevos, que no podemos compararlos con test suyos previos a la estructura que no ha sido lesionada, normalmente yo recomiendo dos opciones: uno, poderlo comparar con nuestra base de datos, que gracias a la investigación se están produciendo bases de datos muy interesantes, como en este caso el Novo Jump... o compararlo, si es un test unilateral, con el lado sano, sabiendo que a veces también puede sufrir ciertas alteraciones y que esos valores que se otorgaban antes de aproximadamente un 5 % o 10 % respecto al lado contralateral en personas sanas... no se van a cumplir. Por lo tanto, no podemos decir que son 100 % determinantes a la hora de tomar nuestras decisiones. En este caso, cuando hacemos la comparativa intersujetos, lo primero que tenemos es discriminar el tipo de deportista que tenemos. En este caso, tenemos dos jugadores cuya demarcación es la misma, los dos juegan como extremos, pero como vemos, son jugadores completamente diferentes. Si nos vamos a las demandas que la competición... también les puede solicitar, son también muy distintas... Y como hablábamos, valorar que no es solo el apartado numérico... sino también esa parte clínica, esa parte psicológica de que el deportista se vea dispuesto a volver a la competición con un menor riesgo de recaída... Finalmente, como he mencionado al final durante la presentación, recalcar que esto no es una decisión de forma unilateral, que no vamos a ser los únicos que tomamos la decisión de que el jugador está listo o no está listo para volver al entrenamiento... que todo va a ser de forma conjunta con el propio deportista, en este caso el staff médico, el staff que comprenda el club y el propio staff del entrenador, que al final tiene que ser una decisión compartida y es la forma de realizarlo de forma más segura.",
+      "keywords": [
+        "baseline",
+        "asimetría",
+        "toma-decisiones",
+        "individualización",
+        "consenso",
+        "staff-médico",
+        "psicología"
+      ],
+      "entities": [
+        "Novo Jump"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué hacer si un deportista se lesiona y no tenemos datos previos a su lesión?",
+        "¿Por qué comparar a dos jugadores de la misma posición puede llevar a errores de evaluación?",
+        "¿Quiénes deben estar involucrados en la decisión final del alta deportiva (return to play)?"
+      ],
+      "related_terms": [
+        "base de datos",
+        "lado contralateral",
+        "toma de decisiones",
+        "alta deportiva",
+        "staff médico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las valoraciones de calidad de movimiento tras entender la biomecánica y métricas de fuerza.",
+      "context_after": "Despedida formal del ponente, finalizando la presentación sobre métricas y readaptación y ofreciendo vías de contacto."
+    }
+  ]
+}

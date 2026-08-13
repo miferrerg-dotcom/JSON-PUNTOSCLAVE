@@ -1,0 +1,340 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+    "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+    "total_duration": "00:21:49",
+    "total_duration_seconds": 1309,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:04:36",
+      "start_seconds": 2,
+      "end_seconds": 276,
+      "duration_seconds": 274,
+      "timestamp_url": "?t=2",
+      "title": "Arquitectura muscular del sóleo y gastrocnemio",
+      "summary": "Se analiza la anatomía funcional del tríceps sural, diferenciando la estructura del sóleo y el gastrocnemio. El gastrocnemio presenta una estructura bipeñada que favorece acciones rápidas, mientras que el sóleo es un músculo multipeaneado con gran área de sección transversal, diseñado para producir alta fuerza en rangos cortos y contracciones lentas.",
+      "literal_quote": "En este caso, el gastrocnemio tiene una estructura bipeñada... Por otro lado, el sóleo es un músculo multipeaneado, donde lo que nos encontramos es cómo esas fibras se orientan en diferentes disposiciones.",
+      "full_transcript": "En la siguiente parte de la presentación vamos a ver qué es la anatomía funcional, donde vamos a entender las diferentes estructuras que conforman el tríceps sural, su arquitectura muscular y su importancia en las demandas que deben de controlar estas estructuras... En la parte más distal está el tendón de Aquiles... En la parte superior encontraríamos el gastrocnemio medial y el gastrocnemio lateral... el sóleo y el gastrocnemio. Es algo que muchas veces no ponemos tanto énfasis... va a ser importante, porque en función de cómo estén predispuestas las fibras... va a entrenar un tipo de capacidades u otras. La musculatura de alta producción de fuerza y de alta capacidad, con contracciones lentas, como es el sóleo, va a tener un ángulo de peneación más alto. En este caso, el gastrocnemio tiene una estructura bipeñada... Por otro lado, el sóleo es un músculo multipeaneado... va a hacer que sean productores de alta fuerza en rangos cortos de movimiento.",
+      "keywords": [
+        "tríceps-sural",
+        "arquitectura-muscular",
+        "sóleo",
+        "gastrocnemio",
+        "bipeñada",
+        "multipeaneado",
+        "fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Teoría"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias anatómicas entre el sóleo y el gastrocnemio?",
+        "¿Por qué es importante conocer la arquitectura muscular del tríceps sural?",
+        "¿Qué características tiene un músculo multipeaneado como el sóleo?"
+      ],
+      "related_terms": [
+        "arquitectura muscular",
+        "anatomía funcional",
+        "producción de fuerza",
+        "área de sección transversal"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del bloque sobre anatomía funcional del tríceps sural.",
+      "context_after": "Tras explicar la disposición de las fibras, se profundiza en cómo estas estructuras se unen en la aponeurosis y el tendón de Aquiles."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:04:36",
+      "end_timestamp": "00:06:09",
+      "start_seconds": 276,
+      "end_seconds": 369,
+      "duration_seconds": 93,
+      "timestamp_url": "?t=276",
+      "title": "Función de la aponeurosis y rigidez tendinosa",
+      "summary": "Se destaca el rol de la aponeurosis como punto de fusión entre el sóleo, el gemelo y el tendón de Aquiles. Su función principal es distribuir la fuerza para evitar picos de carga lesionales, mejorando la eficiencia mecánica y actuando como un sistema elástico cuya rigidez se optimiza con el entrenamiento.",
+      "literal_quote": "Su principal función es mejorar la eficiencia mecánica y también el control motor... nos ayudan a tener un sistema elástico que transmita fuerza de forma eficiente.",
+      "full_transcript": "Viendo la aponeurosis y su importancia, que tiene un nivel insercional al final de las estructuras... es a través de esta fusión aponeurótica, la que se une la acción del sóleo y del gemelo en esta parte del tendón común de Aquiles. La transmisión de las fuerzas hace que se distribuyan y que no haya picos de carga en una zona de la estructura en concreto, evitando así el posible riesgo lesional y la eficiencia a nivel de transmisión de fuerzas a nivel mecánico. Su principal función es mejorar la eficiencia mecánica y también el control motor. ¿Qué pasa con esta aponeurosis más ese tendón central? Que nos ayudan a tener un sistema elástico que transmita fuerza de forma eficiente. A través de la contracción muscular, lo que sucede es que esas fibras se acortan. Y esto hace que la aponeurosis se estire y que tenga una mayor rigidez. Esa sensación de stiff... Cuando sucede una lesión, lo que se produce es una reducción de estas capacidades elásticas... mientras que a través del entrenamiento somos capaces de mejorarlas.",
+      "keywords": [
+        "aponeurosis",
+        "tendón-de-aquiles",
+        "eficiencia-mecánica",
+        "stiffness",
+        "rigidez",
+        "sistema-elástico"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué función cumple la aponeurosis en el tríceps sural?",
+        "¿Cómo ayuda el tendón de Aquiles a prevenir lesiones?",
+        "¿De qué manera el entrenamiento afecta la rigidez del tendón?"
+      ],
+      "related_terms": [
+        "transmisión de fuerzas",
+        "eficiencia mecánica",
+        "sistema elástico",
+        "rigidez tendinosa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha definido la arquitectura muscular diferenciada del sóleo y el gastrocnemio.",
+      "context_after": "La explicación fisiológica da paso a cómo la afectación de estas estructuras se categoriza en diferentes tipos de lesiones."
+    },
+    {
+      "id": "WEBVTT-2-003",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:06:09",
+      "end_timestamp": "00:10:29",
+      "start_seconds": 369,
+      "end_seconds": 629,
+      "duration_seconds": 260,
+      "timestamp_url": "?t=369",
+      "title": "Diagnóstico y comparativa fisiológica de las lesiones",
+      "summary": "Se categorizan las lesiones en miofasciales (A), miotendinosas (B) e intratendinosas (C). Además, se comparan fisiológicamente ambas estructuras: el gastrocnemio tiene fibras rápidas y es superficial, por lo que la ecografía es útil; el sóleo posee fibras lentas, es profundo y requiere resonancia magnética como técnica de elección. Conocer esto dicta las variables del entrenamiento.",
+      "literal_quote": "En el caso del sóleo, al ser una musculatura más profunda, la literatura nos selecciona como gol estándar o técnica de elección principal la resonancia magnética.",
+      "full_transcript": "En cuanto a las lesiones, en función de la parte de la estructura dañada... podemos catalogar la lesión de diferentes formas. Tendremos lesiones de carácter miofascial, lesiones de la unión miotendinosa... o lesiones intratendinosas o perioléoticas. A través de diferentes consensos se ha determinado denominarlas con la letra A, B o C... En el sóleo tendrán un carácter más de tipo lento o tipo uno, mientras que en el gastrocnemio serán de tipo rápidas o tipo dos... La capacidad de generar fuerza... En el sóleo será mucho más alta y más sostenida, mientras que en el gastrocnemio será más alta y normalmente una aplicación más rápida... Por eso también cuando seleccionemos las diferentes variables del entrenamiento... va a ser importante tener este conocimiento de dónde se encuentra la lesión. C sería la parte final tendinosa afectada, B sería carácter miotendinoso y la A sería carácter miofascial. Para el caso del gastrocnemio, es verdad que el diagnóstico por imagen, como es la ecografía, puede sernos útil... Sin embargo, en el caso del sóleo, al ser una musculatura más profunda, la literatura nos selecciona como gol estándar o técnica de elección principal la resonancia magnética.",
+      "keywords": [
+        "lesiones",
+        "miofascial",
+        "miotendinosa",
+        "fibras-rápidas",
+        "fibras-lentas",
+        "ecografía",
+        "resonancia-magnética"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se clasifican las lesiones del tríceps sural según el tejido afectado?",
+        "¿Qué prueba de imagen es mejor para diagnosticar una lesión de sóleo?",
+        "¿Qué diferencias fisiológicas existen entre las fibras del sóleo y del gastrocnemio?"
+      ],
+      "related_terms": [
+        "diagnóstico por imagen",
+        "unión miotendinosa",
+        "resonancia magnética",
+        "variables del entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las capacidades elásticas del complejo músculo-tendinoso.",
+      "context_after": "Una vez entendida el área lesional y su diagnóstico, se analizan los factores de riesgo que predisponen al deportista a sufrirlas."
+    },
+    {
+      "id": "WEBVTT-2-004",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:10:30",
+      "end_timestamp": "00:13:12",
+      "start_seconds": 630,
+      "end_seconds": 792,
+      "duration_seconds": 162,
+      "timestamp_url": "?t=630",
+      "title": "Factores de riesgo intrínsecos y extrínsecos",
+      "summary": "Se enumeran los factores que predisponen a lesiones. Los intrínsecos incluyen baja dorsiflexión de tobillo, genética, lesiones previas y edad (siendo esta última el factor estadísticamente más determinante). Los extrínsecos abarcan picos agudos de carga, tiempos cortos de recuperación, cambios de superficie y condiciones ambientales.",
+      "literal_quote": "A través del coeficiente de correlación de Pearson, la edad es posiblemente el mayor factor de riesgo que podemos tener en este tipo de lesiones.",
+      "full_transcript": "En el porqué, como hemos hablado, vamos a hablar principalmente de los factores de riesgo... tenemos los factores intrínsecos y los factores extrínsecos. En cuanto a los factores intrínsecos, tenemos una baja o un rango de movimiento en lo que es la dosiflexión de tobillo... arquitectura muscular... lesiones previas sobre la misma estructura, edades elevadas y bajos niveles de fuerza. En cuanto a los factores extrínsecos del deportista, encontraremos los spikes de cargas, esos aumentos de carga de forma aguda... Menores tiempos de recuperación entre competición o entre sesiones, el cambio de calzado, la superficie de juego... jugar en césped natural, césped artificial o en la carrera, correr sobre césped, un terreno mucho más blando que luego salir a asfalto... Sabemos que uno de los factores de riesgo más importantes es haber tenido previamente una lesión en esa estructura... Uno de los papers o investigaciones... menciona que, a través del coeficiente de correlación de Pearson, la edad es posiblemente el mayor factor de riesgo que podemos tener en este tipo de lesiones.",
+      "keywords": [
+        "factores-riesgo",
+        "intrínsecos",
+        "extrínsecos",
+        "dorsiflexión",
+        "spikes-carga",
+        "edad",
+        "lesión-previa"
+      ],
+      "entities": [
+        "Pearson"
+      ],
+      "topics": [
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Datos"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores de riesgo intrínsecos para sufrir lesiones de tríceps sural?",
+        "¿Cómo afectan los cambios de superficie al riesgo de lesión?",
+        "¿Cuál es el mayor factor de riesgo estadístico para lesionarse el sóleo o gastrocnemio?"
+      ],
+      "related_terms": [
+        "factores de riesgo",
+        "spikes de carga",
+        "dorsiflexión de tobillo",
+        "lesiones previas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Clasificación de las lesiones y métodos de diagnóstico por imagen.",
+      "context_after": "Se procede a vincular estos factores de riesgo con los mecanismos lesionales específicos de cada músculo."
+    },
+    {
+      "id": "WEBVTT-2-005",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:13:16",
+      "end_timestamp": "00:15:25",
+      "start_seconds": 796,
+      "end_seconds": 925,
+      "duration_seconds": 129,
+      "timestamp_url": "?t=796",
+      "title": "Mecanismos lesionales en el tríceps sural",
+      "summary": "El gastrocnemio suele lesionarse en acciones acelerativas que combinan alta dorsiflexión de tobillo con extensión de rodilla (generando sensación de 'pedrada'). En contraste, el sóleo se lesiona por sobrecarga crónica en acciones continuas de baja intensidad, ya que su tejido fascial no varía fácilmente su longitud ante la demanda.",
+      "literal_quote": "En el caso del sóleo, normalmente las lesiones están más correlacionadas con el sobreentrenamiento o aumento de la carga de forma crónica... Algo que es muy curioso del sóleo es cómo... la capacidad tensil del tejido, no es muy variable.",
+      "full_transcript": "En este caso, por un lado, veremos el gastrocnemio, donde normalmente sucede cuando hay una alta dorsiflexión de tobillo con extensión de rodilla de forma simultánea y una claudicación del tobillo... podemos ver un patrón acelerativo de first step... También está muy correlacionada con acciones de reaceleración... y acciones de salto. Normalmente, la sintomatología que tiene el deportista o el atleta es una sensación de pedrada. En el caso del sóleo, normalmente las lesiones están más correlacionadas con el sobreentrenamiento o aumento de la carga de forma crónica y tener esa sensación de sobrecarga o no ser capaces de tolerarla. Normalmente suelen suceder más en acciones dinámicas continuas, como puede ser la carrera de baja intensidad o en acciones posturales. Algo que es muy curioso del sóleo es cómo, en este caso, la fascie de Leng, la capacidad tensil del tejido, no es muy variable en función del tipo de demanda que se solicite. Es decir, va a ser un tejido que va a mantener prácticamente de forma continua la longitud, independientemente de la fuerza que tenga que producir.",
+      "keywords": [
+        "mecanismo-lesional",
+        "dorsiflexión",
+        "pedrada",
+        "sobreentrenamiento",
+        "fuerza-tensil",
+        "carrera-continua"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Cómo ocurre típicamente una lesión de gastrocnemio?",
+        "¿Por qué el sóleo es más propenso a lesiones por sobrecarga crónica?",
+        "¿Qué sensación describe habitualmente un deportista al lesionarse el gastrocnemio?"
+      ],
+      "related_terms": [
+        "mecanismos lesionales",
+        "dorsiflexión de tobillo",
+        "capacidad tensil",
+        "acciones dinámicas continuas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los factores extrínsecos e intrínsecos que predisponen a la lesión.",
+      "context_after": "Se analiza cómo diferentes intensidades de carrera y velocidades afectan la activación electromiográfica de estos músculos."
+    },
+    {
+      "id": "WEBVTT-2-006",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:15:28",
+      "end_timestamp": "00:18:24",
+      "start_seconds": 928,
+      "end_seconds": 1104,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=928",
+      "title": "Impacto de la velocidad en la fuerza tensil y activación",
+      "summary": "Existe una relación directa entre la velocidad de carga y la fuerza tensil sobre el tendón de Aquiles. Un hallazgo contraintuitivo es que correr a 7 m/s resulta mucho más demandante para el sóleo que hacerlo a velocidades superiores como 9 m/s, lo que obliga a seleccionar cuidadosamente los ejercicios y ritmos durante la readaptación.",
+      "literal_quote": "Podemos ver cómo la aplicación de velocidades de 7 m/s, aproximadamente, serán mucho más demandantes para la estructura del sóleo que velocidades más altas, de entre 9 y 9 m/s.",
+      "full_transcript": "En cuanto a la actividad electromiográfica... lo podemos correlacionar con las aceleraciones de carácter más vertical... y en la parte de abajo suelen ser aceleraciones más anteroposteriores, es decir, más de frena y propulsión... En cuanto a lo que estábamos hablando de esta parte de fuerza tensil... harán que exista una relación positiva entre la carga tensil del tendón de Aquiles y las velocidades de la carga. Es decir, a mayor velocidad de la carga, también será una mayor acción tensil sobre el mismo... Movimientos lentos y controlados, como puede ser en este caso el calf raises, tendrán una menor aplicación... Movimientos más dinámicos, como puede ser caminar, un salto vertical, carreras a cinco metros por segundo, patrones acelerativos o carreras a nueve metros por segundo, irán aumentando de forma progresiva. Normalmente pensamos que velocidades más elevadas pueden generar mayores demandas sobre la estructura. Pero como vemos... cómo la aplicación de velocidades de 7 m/s, aproximadamente, serán mucho más demandantes para la estructura del sóleo que velocidades más altas, de entre 9 y 9 m/s.",
+      "keywords": [
+        "electromiografía",
+        "velocidad",
+        "fuerza-tensil",
+        "sóleo",
+        "readaptación",
+        "carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de datos",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué relación hay entre la velocidad de carrera y la demanda sobre el sóleo?",
+        "¿Por qué es importante controlar la velocidad en ejercicios para el tendón de Aquiles?",
+        "¿Qué velocidad de sprint resulta más exigente específicamente para el sóleo?"
+      ],
+      "related_terms": [
+        "fuerza tensil",
+        "actividad electromiográfica",
+        "velocidades de carga",
+        "patrones acelerativos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los mecanismos y situaciones en los que el gastrocnemio y el sóleo sufren daño.",
+      "context_after": "Tras analizar las velocidades, se resumen las tareas globales de conservación y absorción de energía del complejo."
+    },
+    {
+      "id": "WEBVTT-2-007",
+      "video_title": "Masterclass: Anatomía, biomecánica y lesiones del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:18:25",
+      "end_timestamp": "00:21:49",
+      "start_seconds": 1105,
+      "end_seconds": 1309,
+      "duration_seconds": 204,
+      "timestamp_url": "?t=1105",
+      "title": "Tareas funcionales principales del tríceps sural",
+      "summary": "El tríceps sural ejecuta tres tareas integradas: conservación de la energía (ciclo cuerpo-tendón-cuerpo para eficiencia en la carrera), amplificación de la potencia (ciclo cuerpo-tendón-músculo para fases propulsivas y saltos) y atenuación de la potencia (ciclo músculo-tendón-cuerpo para absorber energía en frenadas y aterrizajes). Todo el complejo actúa como una unidad inseparable.",
+      "literal_quote": "Las principales tareas que tiene que realizar es esta parte de conservación de la energía, amplificación de la potencia y atenuación de la misma en patrones decelerativos o de frenado.",
+      "full_transcript": "A modo de resumen, en cuanto a las diferentes tareas que tienen que realizar las estructuras, en este caso del tríceps sural de forma conjunta, vamos a ver que las principales tareas que tiene que realizar es esta parte de conservación de la energía, amplificación de la potencia y atenuación de la misma en patrones decelerativos o de frenado. En cuanto a la conservación de la energía, al final, el flow que vamos a realizar o el ciclo que se va a obtener es una parte de cuerpo-tendón-cuerpo, donde lo que estamos buscando es la economía a nivel metabólico y funcional. Actividades como la carrera, los hops o el caminar. En la parte de amplificación de la fuerza, lo que pasará es un poco más este ciclo, en vez de la parte cuerpo-tendón-cuerpo, será cuerpo-tendón-músculo o tejido blando, donde lo que se producirá es una producción de la potencia y serán normalmente en esas fases más propulsivas o acelerativas, como puede ser el salto, aceleración... Y esta parte de atenuación de la potencia será esa parte más de músculo-tendón-cuerpo a nivel de ciclo. El objetivo principal será la absorción de la energía. Se otorgará principalmente en actividades como puede ser la carrera declinada, patrones decelerativos o patrones de landing. El tendón actúa, en este caso, como un amortiguador. Toda esta parte que hemos estado viendo, tenemos que pensar que al final es algo que se va a realizar siempre de forma conjunta y que es muy difícil tener la capacidad de aislar una estructura de la otra.",
+      "keywords": [
+        "conservación-energía",
+        "amplificación-potencia",
+        "atenuación-potencia",
+        "absorción",
+        "ciclo",
+        "amortiguador"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Resumen",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres tareas funcionales principales del tríceps sural?",
+        "¿Cómo funciona el ciclo de conservación de energía durante la carrera?",
+        "¿En qué acciones el tendón de Aquiles actúa como amortiguador para atenuar potencia?"
+      ],
+      "related_terms": [
+        "conservación de la energía",
+        "amplificación de la potencia",
+        "atenuación de la potencia",
+        "absorción de energía"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la influencia de distintas velocidades en las demandas mecánicas del tejido.",
+      "context_after": "Se presentan unas tablas finales a modo de revisión clínica integrando la zona anatómica, el mecanismo lesional y la sintomatología."
+    }
+  ]
+}

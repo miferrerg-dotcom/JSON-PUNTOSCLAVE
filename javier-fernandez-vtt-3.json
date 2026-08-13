@@ -1,0 +1,623 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+    "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+    "total_duration": "00:33:20",
+    "total_duration_seconds": 2000,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:00:42",
+      "end_timestamp": "00:01:33",
+      "start_seconds": 42,
+      "end_seconds": 93,
+      "duration_seconds": 51,
+      "timestamp_url": "?t=42",
+      "title": "Fases del proceso de readaptación y seguimiento",
+      "summary": "El ponente estructura el proceso de readaptación en fases claras: early stage, la vuelta a la participación deportiva, la reincorporación total al equipo y la competición. Además, resalta la importancia de la fase de seguimiento (follow-up) para monitorear la patología una vez que el jugador compite.",
+      "literal_quote": "A mí me gusta trabajar con tres muy sencillos: el early stage... y luego la vuelta a la práctica deportiva total... Sin olvidarnos de la parte de follow-up.",
+      "full_transcript": "A nivel de establecer los objetivos, vamos a encontrar multitud de investigaciones, papers y researches, que nos van a indicar diferentes fases y formas de organizar nuestro proceso de readaptación. A mí me gusta trabajar con tres muy sencillos: el early stage, esa vuelta a la participación o a la práctica del deporte, y luego la vuelta a la práctica deportiva total, primero con el equipo y luego con la competición. Sin olvidarnos de la parte de follow-up, que es muy común al realizar el proceso de readaptación. Una vez que el jugador ha vuelto a competir, debemos recordar que tuvo una patología anterior y que posiblemente haya que seguir trabajando en ella y monitorizarla.",
+      "keywords": [
+        "readaptación",
+        "early-stage",
+        "return-to-play",
+        "follow-up",
+        "fases",
+        "competición"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases principales de un proceso de readaptación?",
+        "¿Qué importancia tiene la fase de follow-up tras una lesión?",
+        "¿Cómo se organiza la vuelta a la competición de un deportista?"
+      ],
+      "related_terms": [
+        "proceso de readaptación",
+        "early stage",
+        "práctica deportiva total",
+        "vuelta a la competición"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se da paso a la parte más práctica de la sesión, dejando atrás la anatomía del tríceps sural para centrarse en el plan de actuación.",
+      "context_after": "Tras definir las fases, se detallan los beneficios fisiológicos y estructurales de intervenir en los momentos más tempranos de la lesión."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:01:44",
+      "end_timestamp": "00:02:48",
+      "start_seconds": 104,
+      "end_seconds": 168,
+      "duration_seconds": 64,
+      "timestamp_url": "?t=104",
+      "title": "Beneficios del abordaje temprano en la cicatrización",
+      "summary": "Se destierra la idea antigua del reposo absoluto tras la lesión. Involucrar la estructura afectada en etapas tempranas acelera la cicatrización, previene la atrofia, restaura las propiedades contráctiles y ayuda al desarrollo de la fuerza en la unión miotendinosa, siendo clave para evitar largos procesos de remodelación tisular.",
+      "literal_quote": "No esperemos a la atrofia muscular, que es algo muy común, y que antes se practicaba más. El hecho de estar lesionado llevaba a no moverse.",
+      "full_transcript": "No esperemos a la atrofia muscular, que es algo muy común, y que antes se practicaba más. El hecho de estar lesionado llevaba a no moverse, no hacer nada y tampoco trabajar sobre la estructura. Sabemos que hay diferentes investigaciones que nos dicen que el abordaje en fase temprana e involucrar la estructura puede tener beneficios a corto y largo plazo en el proceso de readaptación. La restauración de las propiedades contractiles del músculo, el desarrollo de las capacidades de producción de fuerza de la unión miotendinosa y el desarrollo de las propiedades mecánicas del tendón. Hemos visto la importancia que tiene, en este caso, tanto el de Aquiles como el tendón común, así como las aponeurosis en nuestra estructura. El desarrollo de esa sensación de estignés... es realmente importante para nosotros. La remodelación tisular de algunas lesiones severas puede llegar a tardar hasta los seis meses.",
+      "keywords": [
+        "cicatrización",
+        "atrofia",
+        "fase-temprana",
+        "unión-miotendinosa",
+        "propiedades-mecánicas",
+        "stiffness"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Por qué no se recomienda el reposo absoluto tras una lesión?",
+        "¿Cuáles son los beneficios de un abordaje de readaptación en fase temprana?",
+        "¿Cuánto puede llegar a tardar la remodelación tisular de una lesión severa?"
+      ],
+      "related_terms": [
+        "atrofia muscular",
+        "fase temprana",
+        "propiedades contractiles",
+        "unión miotendinosa",
+        "remodelación tisular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases globales del retorno deportivo, indicando que el primer paso es guiar la cicatrización tisular.",
+      "context_after": "Se avanza hacia cómo contextualizar esta teoría de recuperación temprana en un modelo basado en el rendimiento del deporte."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:03:10",
+      "end_timestamp": "00:04:18",
+      "start_seconds": 190,
+      "end_seconds": 258,
+      "duration_seconds": 68,
+      "timestamp_url": "?t=190",
+      "title": "Contextualización de la lesión y demandas del deporte",
+      "summary": "Se presenta un modelo basado en el rendimiento, subrayando que la readaptación difiere totalmente si el sujeto es atleta de élite o persona de a pie. Para los deportes colectivos, es vital exponer al jugador al 'caos abierto', escenarios impredecibles y patrones multidireccionales antes del retorno completo.",
+      "literal_quote": "Tenemos que entender que el contexto al que nos exponemos no va a ser lo mismo readaptar a un deportista profesional que a una persona de a pie simplemente para realizar su vida diaria.",
+      "full_transcript": "a mí me gusta orientarlo con un modelo adaptado por el profesor Julio Estévez. Es un modelo basado en el rendimiento deportivo. Tenemos que entender que el contexto al que nos exponemos no va a ser lo mismo readaptar a un deportista profesional que a una persona de a pie simplemente para realizar su vida diaria, como caminar o subir escaleras. Buscar esa parte tanto biomecánica como de anatomía funcional, como he mencionado, y reducir el riesgo de recidiva. Para ello, lo que vamos a hacer es exponer al deportista a las demandas que va a encontrar en la propia competición y en el entrenamiento de su deporte. En este ejemplo, al estar actualmente en un club de fútbol... vamos a orientarnos un poco por ahí, pero lo que vamos a hacer es orientarlo principalmente a deportes colectivos, donde sabemos que normalmente en la mayoría de ellos hay un caos abierto, un entorno cambiante, que nos va a determinar a nosotros también en la fase de readaptación, en esa fase final, el tener que exponerlos a esos caos antes de volver a entrenar o competir.",
+      "keywords": [
+        "rendimiento",
+        "contexto",
+        "deportes-colectivos",
+        "caos-abierto",
+        "demandas",
+        "recidiva"
+      ],
+      "entities": [
+        "Julio Estévez"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es diferente readaptar a un atleta frente a una persona sedentaria?",
+        "¿Qué factores caracterizan el entorno de los deportes colectivos?",
+        "¿Qué es necesario hacer antes de devolver a un jugador al entrenamiento grupal en deportes de equipo?"
+      ],
+      "related_terms": [
+        "rendimiento deportivo",
+        "deportista profesional",
+        "riesgo de recidiva",
+        "entorno cambiante",
+        "caos abierto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de equilibrar la biología del tejido con la funcionalidad mecánica a la hora del retorno.",
+      "context_after": "Se analiza cómo, además de considerar el tipo de deporte, hay que bajar el análisis al nivel posicional e individual del jugador."
+    },
+    {
+      "id": "WEBVTT-3-004",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:05:10",
+      "end_timestamp": "00:06:05",
+      "start_seconds": 310,
+      "end_seconds": 365,
+      "duration_seconds": 55,
+      "timestamp_url": "?t=310",
+      "title": "Individualización del tratamiento según el perfil del jugador",
+      "summary": "Una misma lesión tiene tiempos de baja y manejos muy distintos en base al perfil del deportista. Las exigencias para un sprinter, un baloncestista o, dentro del fútbol, un mediocentro frente a un extremo (con más carreras curvilíneas y sprints lineales) dictaminan procesos de recuperación totalmente diferentes.",
+      "literal_quote": "Posiblemente no pueda readaptar a un mismo deportista o jugador de la misma forma, por mucho que la estructura lesionada sea la misma.",
+      "full_transcript": "Una lesión tiene diferentes respuestas ante diferentes jugadores y ante diferentes deportes o demandas que se le vayan a otorgar. Una misma lesión para un jugador de baloncesto puede ser de una semana, para un sprinter pueden ser siete semanas. Va a depender de lo que hemos hablado. Muchas cosas, como el historial clínico previo, las demandas del propio deportista en la competición. Tenemos una imagen de dos deportistas, un mediocentro, cuyo ritmo competitivo suele ser muy diferente a un extremo o un lateral, donde las demandas de metros en alta intensidad, situaciones de sprint, carreras curvilíneas y sprints lineales van a ser mucho más predominantes que en el otro jugador. En función de ello tendré que realizar mi abordaje y posiblemente no pueda readaptar a un mismo deportista o jugador de la misma forma, por mucho que la estructura lesionada sea la misma.",
+      "keywords": [
+        "individualización",
+        "ritmo-competitivo",
+        "extremo",
+        "mediocentro",
+        "sprint",
+        "lesión"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué dos jugadores con la misma lesión tienen tiempos de recuperación diferentes?",
+        "¿Cómo afectan las diferencias de posición en fútbol a la readaptación deportiva?",
+        "¿Qué variables importan a la hora de individualizar la recuperación de una lesión?"
+      ],
+      "related_terms": [
+        "historial clínico",
+        "ritmo competitivo",
+        "metros en alta intensidad",
+        "carreras curvilíneas",
+        "sprints lineales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del modelo centrado en exponer al jugador al caos abierto de los deportes colectivos.",
+      "context_after": "El ponente aborda cómo llevar estas demandas al gimnasio mediante la selección de ejercicios específicos de fuerza y musculación."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:07:21",
+      "end_timestamp": "00:08:09",
+      "start_seconds": 441,
+      "end_seconds": 489,
+      "duration_seconds": 48,
+      "timestamp_url": "?t=441",
+      "title": "Tipos e intencionalidad del trabajo isométrico",
+      "summary": "Se detalla que los isométricos mejoran la rigidez tendinosa, hipertrofia y fuerza fascicular. Sin embargo, recalca que la intencionalidad es vital: no es lo mismo un 'iso-hold' (progresivo) que un 'iso-push' pidiendo al jugador la máxima velocidad de reclutamiento desde el inicio.",
+      "literal_quote": "No todos los isométricos son iguales. No es lo mismo un iso-hold que un iso-push... En función de cómo manejemos los mensajes o cuáles sean los objetivos... podemos buscar unos beneficios u otros.",
+      "full_transcript": "Sabemos que aumentan la rigidez del tendón, la hipertrofia muscular, esta parte cross-seccionaria, la fuerza a nivel de la longitud mayor de las fibras de los fascículos musculares y la arcidi. Para ello, siempre trabajando desde un punto de vista diferente, no todos los isométricos son iguales. No es lo mismo un iso-hold que un iso-push. No es lo mismo que la intencionalidad. A la hora de trabajar un iso-push sea más mantenida y progresiva que realizar, por ejemplo, un ejercicio donde nuestro mensaje al deportista sea: 'Realízalo tan rápido como puedas', esa fase de contracción isométrica. En función de cómo manejemos los mensajes o cuáles sean los objetivos de los isométricos, podemos buscar unos beneficios u otros, o hacer más hincapié o énfasis en un área u otra.",
+      "keywords": [
+        "isométricos",
+        "iso-hold",
+        "iso-push",
+        "intencionalidad",
+        "rigidez-tendón",
+        "hipertrofia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios del trabajo isométrico en el tríceps sural?",
+        "¿Qué diferencia hay entre un iso-hold y un iso-push?",
+        "¿Cómo influye la intencionalidad o el comando verbal en un ejercicio isométrico?"
+      ],
+      "related_terms": [
+        "rigidez del tendón",
+        "hipertrofia muscular",
+        "contracción isométrica",
+        "iso-hold",
+        "iso-push"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe la diferencia anatómica entre las estructuras bipeneadas y multipeneadas para entender las opciones de ejercicio.",
+      "context_after": "La explicación se extiende hacia los beneficios fisiológicos del trabajo de fuerza en fases concéntricas y excéntricas."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:08:13",
+      "end_timestamp": "00:09:08",
+      "start_seconds": 493,
+      "end_seconds": 548,
+      "duration_seconds": 55,
+      "timestamp_url": "?t=493",
+      "title": "Adaptaciones del trabajo concéntrico, excéntrico y BFR",
+      "summary": "El trabajo concéntrico explosivo mejora el ángulo de peneación, mientras que el excéntrico aumenta la longitud de los fascículos y la rigidez tendinosa. Además, se destaca el uso del Blood Flow Restriction (BFR) en fases tempranas para ganar hipertrofia cuando no se toleran cargas externas altas.",
+      "literal_quote": "El trabajo de blood flow restriction... se ha visto que para fases iniciales, donde a lo mejor... no puedo empezar a introducir cargas externas elevadas, puede tener un objetivo de hipertrofia con cargas más bajas.",
+      "full_transcript": "En el apartado concéntrico, sabemos que nos aumentan ese ángulo de peneación, esa fase cross-seccionaria y la parte del arcidi. Esa intención explosiva, esa intención de levantar tan rápido como el deportista pueda, tiene que estar presente en el movimiento. Carácter excéntrico, los ejercicios, la selección de estímulos con mayor hincapié sobre la fase excéntrica del movimiento, nos produjeron un aumento de la longitud de los fascículos musculares, de la rigidez del tendón y de las adaptaciones en la matriz extracelular. Por último, algo que me gustaría también mencionar por la utilidad que yo le veo y el uso que realizo con el mismo durante el proceso de readaptación, es el trabajo de blood flow restriction, el cual se ha visto que para fases iniciales, donde a lo mejor, sobre todo en lesiones donde no puedo empezar a introducir cargas externas elevadas, puede tener un objetivo de hipertrofia con cargas más bajas.",
+      "keywords": [
+        "concéntrico",
+        "excéntrico",
+        "blood-flow-restriction",
+        "bfr",
+        "fascículos",
+        "hipertrofia",
+        "ángulo-peneación"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué adaptaciones estructurales produce el trabajo excéntrico en el músculo?",
+        "¿Para qué sirve el trabajo concéntrico explosivo?",
+        "¿Por qué es útil el Blood Flow Restriction (BFR) en la readaptación temprana?"
+      ],
+      "related_terms": [
+        "ángulo de peneación",
+        "fase excéntrica del movimiento",
+        "matriz extracelular",
+        "blood flow restriction",
+        "cargas externas elevadas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del uso de los isométricos y la intencionalidad del deportista durante la ejecución.",
+      "context_after": "El ponente muestra diferentes videoclips y gráficos ejemplificando la ejecución técnica de ejercicios con el enfoque descrito."
+    },
+    {
+      "id": "WEBVTT-3-007",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:11:52",
+      "end_timestamp": "00:12:30",
+      "start_seconds": 712,
+      "end_seconds": 750,
+      "duration_seconds": 38,
+      "timestamp_url": "?t=712",
+      "title": "Manifestaciones de la fuerza y la importancia del tiempo",
+      "summary": "Se categorizan las manifestaciones de fuerza, indicando que en deportes colectivos la fuerza absoluta no es el único factor relevante. El tiempo disponible para desarrollar esa fuerza es crítico, porque reaccionar un segundo tarde implica perder el balón o la ventaja competitiva.",
+      "literal_quote": "El tiempo disponible para desarrollar la fuerza será un factor clave, y no solo la fuerza absoluta. ¿Por qué? Porque en la mayoría de deportes... si yo llego un segundo más tarde, el rival golpea el balón.",
+      "full_transcript": "El tiempo disponible para desarrollar la fuerza será un factor clave, y no solo la fuerza absoluta. ¿Por qué? Porque en la mayoría de deportes, en este caso de equipos, el factor tiempo es determinante. Si yo llego un segundo más tarde, el rival golpea el balón o si llego un segundo más tarde, no alcanzo ese objetivo deseado. Entonces, no nos debemos fijar solo en valores absolutos, sino también en esa parte de ARC y DI que hemos desarrollado anteriormente y darle la importancia que le corresponde.",
+      "keywords": [
+        "fuerza-absoluta",
+        "tiempo",
+        "deportes-equipo",
+        "arcidi",
+        "producción-fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la fuerza absoluta no lo es todo en el deporte de equipo?",
+        "¿Qué papel juega el tiempo en la manifestación de la fuerza deportiva?",
+        "¿Por qué es importante medir la rapidez de generación de fuerza (RFD/ARC)?"
+      ],
+      "related_terms": [
+        "fuerza absoluta",
+        "factor tiempo",
+        "deportes de equipo",
+        "valores absolutos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Enumera los tipos de fuerza: rápida, reactiva, explosiva, isométrica máxima y dinámica pesada.",
+      "context_after": "Se presenta la valoración en plataforma de fuerzas mediante una curva de fuerza-tiempo para ver las diferencias de estas manifestaciones."
+    },
+    {
+      "id": "WEBVTT-3-008",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:13:32",
+      "end_timestamp": "00:14:14",
+      "start_seconds": 812,
+      "end_seconds": 854,
+      "duration_seconds": 42,
+      "timestamp_url": "?t=812",
+      "title": "Diferenciación de la carga entre sóleo y gastrocnemio",
+      "summary": "En cuanto a selección de ejercicios, el sóleo tolera mayor volumen, repeticiones y demandas pliométricas excéntricas por su resistencia a la fatiga. El gastrocnemio, por el contrario, requiere tiempos de ejecución más rápidos e impactos con extensión de rodilla, en coherencia con su mecanismo de lesión habitual.",
+      "literal_quote": "El sóleo, de forma general, va a ser capaz de tolerar mayores volúmenes, mayor número de repeticiones... mientras que el gastrocnemio será mucho más presente en trabajos donde el tiempo de ejecución tenga que ser más rápido.",
+      "full_transcript": "Sabemos que el sóleo, de forma general, va a ser capaz de tolerar mayores volúmenes, mayor número de repeticiones, una tolerancia excéntrica un poquito más elevada y mayor número de contactos a nivel pliométrico, por esta capacidad de ser capaz de tolerar más fatiga, mientras que el gastrocnemio será mucho más presente en trabajos donde el tiempo de ejecución tenga que ser más rápido. Esa alta ARC y DI, esos impactos rápidos con extensión de rodilla, donde en este caso será más dominante la implicación del gastrocnemio respecto al sóleo por los mecanismos lesionales que describíamos anteriormente y será la exposición que tenemos que buscar del mismo.",
+      "keywords": [
+        "sóleo",
+        "gastrocnemio",
+        "volumen",
+        "fatiga",
+        "impactos-rápidos",
+        "extensión-rodilla",
+        "pliometría"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Qué músculo tolera más volumen y fatiga, el sóleo o el gastrocnemio?",
+        "¿Cómo se debe entrenar el gastrocnemio para prepararlo para la competición?",
+        "¿Por qué la selección de ejercicios difiere dependiendo de si la lesión es de sóleo o de gemelo?"
+      ],
+      "related_terms": [
+        "tolerancia excéntrica",
+        "tiempo de ejecución",
+        "impactos rápidos",
+        "extensión de rodilla",
+        "mecanismos lesionales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de una curva de fuerza-tiempo en plataforma y cómo las diferentes instrucciones alteran el perfil del ejercicio.",
+      "context_after": "Paso hacia la programación progresiva y el diseño de las sesiones dentro del modelo del 'early stage'."
+    },
+    {
+      "id": "WEBVTT-3-009",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:15:19",
+      "end_timestamp": "00:15:42",
+      "start_seconds": 919,
+      "end_seconds": 942,
+      "duration_seconds": 23,
+      "timestamp_url": "?t=919",
+      "title": "La lesión como ventana de oportunidad psicológica y física",
+      "summary": "Durante el early stage, si el atleta se mantiene inactivo, sufre psicológicamente. El ponente insta a utilizar la lesión como ventana de oportunidad para entrenar otras áreas del cuerpo que normalmente no se trabajan por falta de tiempo debido al calendario competitivo.",
+      "literal_quote": "Tenemos que ver la lesión muchas veces como una ventana de oportunidades de trabajar otras cosas que luego por las demandas de la propia competición y el calendario, no podemos realizar.",
+      "full_transcript": "Tenemos que entender que la alerta es mucho más grande que normalmente la estructura que ha sido lesionada y que tenemos que ver la lesión muchas veces como una ventana de oportunidades de trabajar otras cosas que luego por las demandas de la propia competición y el calendario, no podemos realizar. Entonces, hacerle también entender esto al atleta va a ser un punto muy importante en el proceso de readaptación en las fases tempranas.",
+      "keywords": [
+        "ventana-oportunidad",
+        "psicología",
+        "fase-temprana",
+        "entrenamiento-complementario",
+        "calendario"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Por qué es importante mantener activo al deportista en las fases iniciales de la lesión?",
+        "¿Qué significa usar la lesión deportiva como ventana de oportunidad?",
+        "¿Cómo beneficia psicológicamente al jugador lesionado mantener una rutina de entrenamiento?"
+      ],
+      "related_terms": [
+        "fases tempranas",
+        "proceso de readaptación",
+        "ventana de oportunidades",
+        "demandas de la competición"
+      ],
+      "relevance_score": 4,
+      "context_before": "Crítica al error común de que el 'early stage' implique inactividad por miedo a empeorar la lesión local.",
+      "context_after": "Se establecen los criterios clínicos concretos (como el rango de movilidad y el dolor) que se usan para progresar desde esta fase."
+    },
+    {
+      "id": "WEBVTT-3-010",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:15:52",
+      "end_timestamp": "00:16:27",
+      "start_seconds": 952,
+      "end_seconds": 987,
+      "duration_seconds": 35,
+      "timestamp_url": "?t=952",
+      "title": "Criterios clínicos y mecánicos para la progresión",
+      "summary": "Para progresar desde la fase inicial de readaptación del tríceps sural, se requieren criterios como ausencia de dolor, sensibilidad reducida, dorsiflexión simétrica al lado sano, slump sin dolor y flexión plantar isométrica exitosa, evaluando no solo la cantidad sino la calidad de ejecución.",
+      "literal_quote": "Podríamos catalogar algunos de ellos, como lo que sería una ausencia de dolor, menor sensibilidad a lo que es la palpación, dorsiflexión de tobillo controlado... elevaciones de talones sin dolor, no solo fijándonos en lo que sería la capacidad... sino también en la calidad.",
+      "full_transcript": "podríamos catalogar algunos de ellos, como lo que sería una ausencia de dolor, menor sensibilidad a lo que es la palpación, dorsiflexión de tobillo controlado de forma contralateral, la comparativa. Slump sin dolor, flexibilidad... comparativa, en este caso también contra el miembro opuesto, elevaciones de talones sin dolor, no solo fijándonos en lo que sería la capacidad, el número de repeticiones realizadas, sino también en la calidad, que lo veremos posteriormente en el gráfico de la derecha... y flexión plantar isométrica.",
+      "keywords": [
+        "criterios-progresión",
+        "dorsiflexión",
+        "slump",
+        "ausencia-dolor",
+        "simetría",
+        "calidad-movimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Listado"
+      ],
+      "search_questions": [
+        "¿Qué criterios clínicos indican que un jugador está listo para progresar de fase en la readaptación?",
+        "¿Qué parámetros se comparan entre la pierna sana y la lesionada en el tríceps sural?",
+        "¿Por qué es importante valorar la calidad y no solo la cantidad en las elevaciones de talón?"
+      ],
+      "related_terms": [
+        "ausencia de dolor",
+        "dorsiflexión de tobillo",
+        "flexión plantar isométrica",
+        "criterios de progresión",
+        "elevaciones de talones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del impacto psicológico del early stage y la necesidad de usarlo como ventaja deportiva.",
+      "context_after": "Se detalla cómo las distintas angulaciones de la rodilla ayudan a diferenciar entre déficit del gemelo y del sóleo durante estas evaluaciones."
+    },
+    {
+      "id": "WEBVTT-3-011",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:23:03",
+      "end_timestamp": "00:23:40",
+      "start_seconds": 1383,
+      "end_seconds": 1420,
+      "duration_seconds": 37,
+      "timestamp_url": "?t=1383",
+      "title": "Integración de la monitorización en el entrenamiento diario",
+      "summary": "Se aboga por un enfoque fluido donde el proceso de monitorización ocurra de forma inherente durante la sesión. Superar tareas específicas durante el propio entrenamiento sirve para 'testar sin testar', integrando la evaluación en la dinámica diaria en lugar de como elementos aislados.",
+      "literal_quote": "El propio entrenamiento y la superación de tareas también nos va a dar esa parte de testar players sin testarlos... hacer esa monitorización en el día a día... valorar el test como una parte del entrenamiento y no como algo aislado.",
+      "full_transcript": "Muchas veces estamos hablando de si este test me va a dar esa toma de decisiones de si el jugador está listo o no. Yo soy muy partidario de utilizar test de forma más específica, como un propio test isométrico. Pero el propio entrenamiento y la superación de tareas también nos va a dar esa parte de testar players sin testarlos. Es decir, hacer ese seguimiento, esa monitorización en el día a día de forma continuada, a través de la selección de ejercicios o de valorar el test como una parte del entrenamiento y no como algo aislado.",
+      "keywords": [
+        "testar-sin-testar",
+        "monitorización",
+        "toma-decisiones",
+        "día-a-día",
+        "integración"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué significa testar a un jugador sin testarlo de manera formal?",
+        "¿Por qué es beneficioso integrar las pruebas de evaluación en la rutina diaria de entrenamiento?",
+        "¿Cómo ayuda la superación de tareas en la toma de decisiones para el alta médica?"
+      ],
+      "related_terms": [
+        "toma de decisiones",
+        "test isométrico",
+        "monitorización en el día a día",
+        "selección de ejercicios"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se describe el abanico de ejercicios en campo para la reintroducción a la carrera con cambios de direcciones y perfiles metabólicos.",
+      "context_after": "Se da una lista de variables que deben considerarse al dosificar la carga: superficie, ciclo de estiramiento acortamiento, carga externa, edad y fatiga."
+    },
+    {
+      "id": "WEBVTT-3-012",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:28:42",
+      "end_timestamp": "00:29:24",
+      "start_seconds": 1722,
+      "end_seconds": 1764,
+      "duration_seconds": 42,
+      "timestamp_url": "?t=1722",
+      "title": "El concepto de repetición sin repetición en retornos",
+      "summary": "Al reintegrar a un jugador, se debe simular el caos propio de la competición real mediante tareas abiertas, obligándole a usar el escaneo del espacio y la toma de decisiones impredecibles. A este fenómeno de adaptar habilidades motrices ante incertidumbre se le llama 'repetición sin repetición'.",
+      "literal_quote": "Algo que sucede en nuestro deporte por este caos cambiante es que... la capacidad de escanear el espacio de movimiento, la capacidad de utilizar diferentes medios para conseguir los objetivos en un entorno tan cambiante y tan abierto... va a hacer que tengamos que exponer al deportista a estas situaciones.",
+      "full_transcript": "Y en este caso, algo que vamos a tener que entender es esa repetición sin repetición. Algo que sucede en nuestro deporte por este caos cambiante es que, aunque el objetivo sea el de conducir entre los diferentes defensores y tener que moverlos y orientarlos en las diferentes situaciones de los conos, utilizándolos como porterías, la capacidad de escanear el espacio de movimiento, la capacidad de utilizar diferentes medios para conseguir los objetivos en un entorno tan cambiante y tan abierto como es en este caso, normalmente los deportes de equipo, va a hacer que tengamos que exponer al deportista estas situaciones de forma previa a lo que sería la vuelta al entrenamiento con el equipo y la vuelta a la competición.",
+      "keywords": [
+        "repetición-sin-repetición",
+        "caos",
+        "incertidumbre",
+        "escaneo",
+        "toma-decisiones",
+        "entorno-cambiante"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es la repetición sin repetición en el proceso de readaptación?",
+        "¿Cómo se simula el caos de la competición en el entrenamiento de un lesionado?",
+        "¿Por qué es fundamental entrenar el escaneo espacial y la toma de decisiones en tareas abiertas?"
+      ],
+      "related_terms": [
+        "repetición sin repetición",
+        "caos cambiante",
+        "escanear el espacio de movimiento",
+        "deportes de equipo",
+        "vuelta a la competición"
+      ],
+      "relevance_score": 5,
+      "context_before": "Subraya que el gimnasio no puede replicar las demandas totales ni el caos de usar zapatillas deportivas de tacos y tocar el balón en la hierba.",
+      "context_after": "Muestra ejemplos visuales de duelos de dos contra dos como estrategia para limitar ligeramente el caos (respecto a 11 vs 11) aumentando intensidad condicional."
+    },
+    {
+      "id": "WEBVTT-3-013",
+      "video_title": "Plan de actuación y verificación en la readaptación deportiva",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:30:55",
+      "end_timestamp": "00:32:35",
+      "start_seconds": 1855,
+      "end_seconds": 1955,
+      "duration_seconds": 100,
+      "timestamp_url": "?t=1855",
+      "title": "Preparación para el worst case scenario y densidad competitiva",
+      "summary": "Más allá de conseguir altos picos de fuerza puntual, la readaptación debe focalizarse en la densidad y frecuencia de las acciones, preparando al jugador para el peor escenario del juego (worst case scenario). No sirve que el jugador descanse artificialmente entre repeticiones cuando en el partido debe sostener esfuerzos en ventanas cerradas de 45 minutos seguidos.",
+      "literal_quote": "Será esta parte de ventanas de trabajo y worst case scenario que muchas veces suceden en los encuentros... si la intensidad es muy elevada durante ese periodo de tiempo, nos vamos a enfrentar a esa capacidad de repetir esfuerzos de forma repetida con muy poco descanso.",
+      "full_transcript": "Algo importante que deberemos desarrollar durante el proceso de readaptación es, igual que hablábamos en el caso de los test isométricos, de esos valores de fuerza máxima o fuerza absoluta de forma aislada y no valorar la como algo importante, será esta parte de ventanas de trabajo y worst case scenario que muchas veces suceden en los encuentros. ¿Cómo? Trabajando a través de la densidad y la frecuencia, de la frecuencia entre sesiones y la densidad en cuanto a capacidad de repetir acciones intrasesión... lo que vamos a ver es que en ventanas de tiempo de trabajo muy corto, si la intensidad es muy elevada durante ese periodo de tiempo, nos vamos a enfrentar a esa capacidad de repetir esfuerzos de forma repetida con muy poco descanso entre acciones. Si nos fijamos en lo que sería un entrenamiento... lo que buscamos es que entre esos bloques tenga aumentos de carga, pero si os fijáis, hay una situación de descanso o de parada entre cada uno de ellos. Situación que no se va a realizar de forma específica en la competición, ya que en el caso del deporte, como es el fútbol, sabemos que son 45 minutos a ritmo corrido. Sabemos que el tiempo de que un balón salga fuera me puede dar pequeñas micropausas de descanso entre medias, pero es de forma continua y no me permite tener esos tiempos de recuperación intrasesión.",
+      "keywords": [
+        "worst-case-scenario",
+        "densidad",
+        "frecuencia",
+        "resistencia",
+        "micropausas",
+        "ritmo-continuo"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es el worst case scenario en el rendimiento deportivo y cómo se entrena?",
+        "¿Por qué es un error permitir micropausas de descanso largas en la fase final de la readaptación?",
+        "¿Qué diferencia existe entre la densidad intrasesión del entrenamiento y la competición?"
+      ],
+      "related_terms": [
+        "worst case scenario",
+        "ventanas de trabajo",
+        "densidad y la frecuencia",
+        "repetir esfuerzos",
+        "tiempos de recuperación intrasesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo integrar progresivamente al jugador en las tareas del grupo utilizando el formato de comodín en bandas laterales.",
+      "context_after": "Despedida del ponente remarcando el objetivo final: devolver al jugador sano reduciendo los riesgos ante el entorno impredecible."
+    }
+  ]
+}
