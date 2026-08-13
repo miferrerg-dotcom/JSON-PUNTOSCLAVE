@@ -1,0 +1,360 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+    "speaker": "Julio Caballero López",
+    "total_duration": "00:14:41",
+    "total_duration_seconds": 881,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:23",
+      "start_seconds": 1,
+      "end_seconds": 83,
+      "duration_seconds": 82,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "El gap entre la rehabilitación y el rendimiento",
+      "summary": "Recuperar la movilidad y la activación muscular no garantiza una recuperación funcional completa. Existe un 'gap' o ventana crítica entre la rehabilitación clínica y la vuelta a la competición donde se producen la mayoría de las recaídas si no se transfiere la mejoría al entrenamiento y demandas del deporte.",
+      "literal_quote": "Existe una ventana, un gap, que está muy bien descrito en la literatura entre la rehabilitación y la vuelta a la competición. Precisamente en ese gap es donde ocurre mucha recaída...",
+      "full_transcript": "Vamos a dar comienzo a esta tercera y última parte del webinar, denominada \"De la activación a la fuerza, la vuelta a la competición\". En clínica, muchas veces damos por finalizada esa recuperación cuando el deportista ya activa el músculo o recupera esa movilidad. Pero la evidencia es clara: la activación muscular no garantiza que haya una recuperación funcional ni un buen rendimiento. Existe una ventana, un gap, que está muy bien descrito en la literatura entre la rehabilitación y la vuelta a la competición. Precisamente en ese gap es donde ocurre mucha recaída, mucha recidiva. Por lo tanto, hay que controlarlo bastante bien. El gran problema no es únicamente recuperar el músculo, sino transferir esa recuperación a la fuerza, a la potencia y a la capacidad específica de cada deporte. Aquí es donde cambia completamente el enfoque. Dejamos de hablar solo de la rehabilitación y empezamos a hablar de entrenamiento y rendimiento.",
+      "keywords": [
+        "gap",
+        "recuperacion-funcional",
+        "recaida",
+        "transferencia",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es el gap entre la rehabilitación y la vuelta a la competición?",
+        "¿Por qué la activación muscular no garantiza el rendimiento deportivo?",
+        "¿Dónde suelen ocurrir las recaídas en el proceso de rehabilitación?"
+      ],
+      "related_terms": [
+        "ventana",
+        "gap",
+        "rehabilitación",
+        "rendimiento",
+        "recaída"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la tercera parte del webinar.",
+      "context_after": "Se detallan los cuatro factores biológicos y biomecánicos que explican por qué se produce este gap entre la curación clínica y el rendimiento deportivo."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:01:33",
+      "end_timestamp": "00:04:42",
+      "start_seconds": 93,
+      "end_seconds": 282,
+      "duration_seconds": 189,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=93",
+      "title": "Los 4 factores que explican el gap de rendimiento",
+      "summary": "La curación biológica de un tejido no prepara al sistema para el deporte. El gap se explica por 4 factores: adaptación neural incompleta, falta de especificidad en la carga de rehabilitación, ausencia de velocidad/potencia en los ejercicios, y falta de exposición a tareas complejas con fatiga y toma de decisiones.",
+      "literal_quote": "La mayoría de los protocolos no alcanza esa alta velocidad ni esa alta tasa de desarrollo de fuerza... falta trabajo, sobre todo en la toma de decisiones de vuelta al deportista, la fatiga...",
+      "full_transcript": "Una de las grandes preguntas en la rehabilitación es: ¿por qué existe esa ventana, ese gap entre la rehabilitación y el rendimiento? Como pone aquí la diapositiva. Porque muchas veces conseguimos la curación biológica del tejido. El tejido pasa todas sus fases y hay un proceso de maduración, pero eso no significa que el sistema esté preparado para tolerar esa demanda y esa carga para la vuelta al deporte. Aquí es donde aparece el problema. La rehabilitación tradicional suele enfocarse o centrarse mucho en el dolor, en el rango articular, en la fuerza, pero muy básica, o incluso en la simetría. Pero ya sabemos que el rendimiento, sobre todo el rendimiento deportivo de alto nivel, requiere muchísimo más. ¿Cuáles son estos factores que explican el gap? El primero es que hay una adaptación neural incompleta. Todavía persisten esos déficits en el reclutamiento motor, en esa activación y en la coordinación intermuscular. Segundo, falta de especificidad de carga. Los ejercicios de rehabilitación no son lo mismo que los ejercicios que demanda el deporte, los gestos y los cambios de ritmo. El deportista mejora en el entorno clínico, pero luego el juego le exige esos cambios de direcciones y aceleraciones. Esto hay que tenerlo en cuenta. Luego, la ausencia de velocidad y potencia. El punto tres. Esto es muy frecuente. Muchos protocolos llegan a cargas relativamente altas, pero no alcanzan mucha velocidad de ejecución del ejercicio, ni tampoco llegan a ese desarrollo total de fuerza. Y en el deporte ocurre rápido. Ya sabemos que en el deporte no gana quien produzca esa fuerza de manera lenta, sino quien pueda producir fuerza de manera muy rápida. Por lo tanto, ese es el número tres. La mayoría de los protocolos no alcanza esa alta velocidad ni esa alta tasa de desarrollo de fuerza. Y por último, tenemos el déficit de exposición a tareas complejas. Muchas veces falta trabajo, sobre todo en la toma de decisiones de vuelta al deportista, la fatiga que lleva ese jugador durante esa temporada, los estímulos reactivos y la incertidumbre. Ahí es donde aparecen muchos problemas, como cuando el deportista quiere volver a competir. Hay que tener en cuenta estos factores que explican esa ventana entre la carga y la curación del tejido.",
+      "keywords": [
+        "adaptacion-neural",
+        "especificidad-carga",
+        "velocidad",
+        "toma-decisiones",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores que explican el gap entre rehabilitación y rendimiento?",
+        "¿Por qué es un problema entrenar la fuerza de manera lenta en rehabilitación?",
+        "¿Qué componentes faltan en la exposición a tareas complejas durante la recuperación?"
+      ],
+      "related_terms": [
+        "adaptación",
+        "neural",
+        "especificidad",
+        "velocidad",
+        "tasa",
+        "desarrollo",
+        "fuerza",
+        "toma",
+        "decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha definido el gap como el espacio crítico entre que el paciente recupera la activación aislada y vuelve realmente a competir.",
+      "context_after": "Se plantea la solución estructurada a este problema, dividiendo la readaptación en una progresión secuencial de cuatro fases."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:04:59",
+      "end_timestamp": "00:06:06",
+      "start_seconds": 299,
+      "end_seconds": 366,
+      "duration_seconds": 67,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=299",
+      "title": "Las cuatro fases de la rehabilitación moderna",
+      "summary": "La rehabilitación moderna se organiza en una progresión de cargas y capacidades: 1) Recuperar activación neuromuscular, 2) Construir fuerza real y tensión mecánica, 3) Introducir potencia y velocidad, 4) Vuelta integral al rendimiento deportivo.",
+      "literal_quote": "La rehabilitación moderna no solo se basa en síntomas, sino sobre todo en la progresión de carga y de capacidades.",
+      "full_transcript": "Una vez que entendemos el problema de esta ventana, necesitamos ordenar la solución, de la activación al rendimiento. La rehabilitación moderna no solo se basa en síntomas, sino sobre todo en la progresión de carga y de capacidades. Esto es superimportante. Primero, lo que hacemos es recuperar esa activación neuromuscular con las herramientas que he comentado anteriormente. Luego, construimos una fuerza real, es decir, la capacidad de producir tensión mecánica. Fuerza temprana y fuerza funcional. Después, introducimos el trabajo de potencia y de velocidad, donde el foco es la rapidez de esa producción de fuerza y la tolerancia a esas altas demandas, sobre todo de manera mecánica. Finalmente, el objetivo es que el paciente o ese deportista vuelva al rendimiento. Es decir, no solo volver con actividad, sino volver al rendimiento a tope, incluso mejor que cuando competía antes.",
+      "keywords": [
+        "rehabilitacion-moderna",
+        "progresion-carga",
+        "fuerza-real",
+        "potencia",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran las fases de la rehabilitación deportiva moderna?",
+        "¿En qué orden se deben progresar las capacidades físicas tras una lesión?",
+        "¿Qué sigue después de recuperar la activación neuromuscular?"
+      ],
+      "related_terms": [
+        "progresión",
+        "carga",
+        "activación",
+        "fuerza",
+        "real",
+        "potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los 4 factores que explican el gap de rendimiento (adaptación neural, especificidad, velocidad y tareas complejas).",
+      "context_after": "Se detalla cómo ejecutar la segunda fase del modelo: la construcción de la fuerza real mediante tensión mecánica."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:06:23",
+      "end_timestamp": "00:07:44",
+      "start_seconds": 383,
+      "end_seconds": 464,
+      "duration_seconds": 81,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=383",
+      "title": "Estrategias para la construcción de fuerza real",
+      "summary": "Tras activar el músculo, se debe generar fuerza real aumentando la tensión mecánica. El objetivo es maximizar el reclutamiento motor y crear adaptaciones estructurales (rigidez tendinosa) usando Heavy Slow Resistance (HSR), isometría pesada y trabajo unilateral.",
+      "literal_quote": "El objetivo no es solo mover el músculo, sino obligarlo a generar fuerza real y sobre todo adaptarse a la estructura... aumentar esa rigidez del sistema para que esa fuerza se pueda transmitir y transferir de una forma eficaz.",
+      "full_transcript": "Una vez recuperamos esa activación neuromuscular, el siguiente paso no es meter velocidad ni potencia, sino construir esa fuerza real. ¿Cómo se consigue? Principalmente, aumentando esa tensión mecánica de manera muy progresiva. Ya lo habéis estudiado en SCA, cómo construir la fuerza, pero vamos a hacer un pequeño repaso. Sobre todo, cuáles son los objetivos en esta fase de construir la fuerza. Primero, necesitamos un aumento de tensión mecánica, un aumento de reclutamiento de unidades motoras, aumento de capacidad de producción de fuerza y aumento de adaptación tendinosa y estructural. Aquí entran herramientas como el heavy slow resistance, isometría pesada, trabajo unilateral. El objetivo no es solo mover el músculo, sino obligarlo a generar fuerza real y sobre todo adaptarse a la estructura. Es más, incluso a nivel tendinoso necesitamos aumentar esa rigidez del sistema para que esa fuerza se pueda transmitir y transferir de una forma eficaz.",
+      "keywords": [
+        "fuerza-real",
+        "tension-mecanica",
+        "heavy-slow-resistance",
+        "isometria-pesada",
+        "rigidez-tendinosa"
+      ],
+      "entities": [
+        "Heavy Slow Resistance"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las herramientas para construir fuerza real en rehabilitación?",
+        "¿Qué busca el entrenamiento de Heavy Slow Resistance e isometría pesada?",
+        "¿Por qué es importante aumentar la rigidez del tendón en la readaptación?"
+      ],
+      "related_terms": [
+        "tensión",
+        "mecánica",
+        "isometría",
+        "pesada",
+        "adaptación",
+        "tendinosa",
+        "rigidez"
+      ],
+      "relevance_score": 5,
+      "context_before": "La rehabilitación moderna se organiza en una progresión de cargas y capacidades en cuatro fases.",
+      "context_after": "Se aborda la siguiente fase: cómo convertir esta fuerza estructural base en potencia y velocidad aplicable al deporte."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:07:46",
+      "end_timestamp": "00:08:42",
+      "start_seconds": 466,
+      "end_seconds": 522,
+      "duration_seconds": 56,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=466",
+      "title": "Conversión de fuerza base a potencia y velocidad",
+      "summary": "Para transformar la fuerza en potencia, se persigue aumentar la velocidad de reclutamiento motor y la capacidad elástico-reactiva. Se utilizan ejercicios de pliometría, cambios de dirección y herramientas como el Velocity Based Training (VBT) para cuantificar la transición a la velocidad.",
+      "literal_quote": "Herramientas como el velocity based training nos permiten cuantificar y demostrar esa transición hacia la velocidad, porque ya sabemos que en el alto rendimiento en el deporte el tiempo es todo.",
+      "full_transcript": "Una vez que tenemos fuerza, ¿cómo la convertimos en potencia? Aquí el objetivo fisiológico es aumentar la velocidad de reclutamiento motor, aumentar la capacidad elástico-reactiva, el aumento de presión de la fuerza en un intervalo de poco tiempo y aumentar la transferencia a acciones deportivas explosivas. ¿Cuáles son las estrategias principales desde la fuerza a potencia? Aquí introducimos el trabajo de pliometría, cambio de dirección y entrenamiento un poco más reactivo. Herramientas como el velocity based training nos permiten cuantificar y demostrar esa transición hacia la velocidad, porque ya sabemos que en el alto rendimiento en el deporte el tiempo es todo. Por lo tanto, hay que enfocarse mucho en estas estrategias para convertir la fuerza en potencia.",
+      "keywords": [
+        "potencia",
+        "velocidad-reclutamiento",
+        "pliometria",
+        "velocity-based-training",
+        "vbt"
+      ],
+      "entities": [
+        "Velocity Based Training"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se convierte la fuerza en potencia durante la readaptación?",
+        "¿Qué es el Velocity Based Training y para qué se usa?",
+        "¿Qué estrategias mejoran la capacidad elástico-reactiva en deportistas lesionados?"
+      ],
+      "related_terms": [
+        "potencia",
+        "capacidad",
+        "elástico-reactiva",
+        "pliometría",
+        "cambio",
+        "de",
+        "dirección",
+        "velocidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Tras activar el músculo, se debe generar fuerza real aumentando la tensión mecánica con isometría pesada y HSR.",
+      "context_after": "La última fase es el \"Return to Performance\", abordando la complejidad del alta deportiva integral."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:08:46",
+      "end_timestamp": "00:12:05",
+      "start_seconds": 526,
+      "end_seconds": 725,
+      "duration_seconds": 199,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=526",
+      "title": "Criterios complejos para el Return to Performance",
+      "summary": "El retorno al deporte no consiste en superar un test aislado o medir la simetría. Exige integrar fuerza y control motor para rendir bajo fatiga física, cognitiva y contacto físico. La decisión de vuelta debe cruzar la calidad de movimiento, tolerancia a la carga y cuestionarios psicológicos (ansiedad, kinesiofobia).",
+      "literal_quote": "la evidencia nos muestra que la simetría por sí sola no es lo que refleja esa recuperación final... Es una capacidad muy compleja, que lo que integra es la carga, el movimiento, la fatiga y sobre todo los factores a nivel psicológico.",
+      "full_transcript": "Vuelta al deporte, return to performance. Este ya es el último paso del proceso, y aquí es donde muchos programas de rehabilitación fallan, porque el retorno al deporte no es probar un test, hacer una sentadilla o un salto, ni cumplir un número. Me he encontrado muchos casos de que llegan a este punto y ya preparados para salir a jugar, y luego vuelven a romperse, por lo que vuelven otra vez a la fase uno y a mis manos. Por lo tanto, aquí el trabajo multidisciplinar es clave junto al readaptador deportivo. Esa comunicación desde el minuto uno es fundamental. Volver al rendimiento siempre lo comunico como que es rendir bajo fatiga, con mucha velocidad, con contacto y con toma de decisiones. Por lo tanto, el objetivo final aquí es integrar esa fuerza, esa potencia y ese control motor, todo lo que hemos trabajado previamente. Además, soportar demanda física y cognitiva en el deporte, y reducir el riesgo de recaída en este contexto. Para ello, ¿qué es lo que necesitamos? Necesitamos una exposición progresiva al contexto real del deporte, ya sea tenis, fútbol, etcétera. Solo cuando integramos todas esas capacidades anteriores, como esa fuerza, esa potencia y ese control neuromuscular, podemos hablar de un retorno al deporte y de vuelta al rendimiento de una forma eficiente. Ahora ya sabemos qué es lo que significa realmente volver a competir. Ahora, ¿cuál es la toma de decisiones? ¿Cómo decidimos si el jugador está listo para jugar? Aquí vemos a Riqui Puig con la camiseta de los Ángeles Galaxy de vuelta al terreno de juego. ¿Cuál es el problema aquí? Que muchas veces intentamos tomar esas decisiones con criterios que son demasiado simples. Durante años hemos utilizado la simetría como referencia principal, pero la evidencia nos muestra que la simetría por sí sola no es lo que refleja esa recuperación final, sino siempre digo que la recuperación no se basa en un número. Es una capacidad muy compleja, que lo que integra es la carga, el movimiento, la fatiga y sobre todo los factores a nivel psicológico. Aquí entra otra vez la clave del psicólogo en la vuelta al rendimiento. Aquí vemos la capacidad de carga, calidad de movimiento, la tolerancia a esa fatiga y esa carga. Y por último, esos factores psicológicos. Como trabajo con la psicóloga, estos cuestionarios, desde que el paciente o que el deportista se lesiona y cómo evoluciona mediante cuestionarios de kinesiofobia, de ansiedad, etcétera, y objetivarlo. Esto también es muy importante.",
+      "keywords": [
+        "return-to-performance",
+        "toma-decisiones",
+        "simetria",
+        "fatiga-cognitiva",
+        "kinesiofobia",
+        "cuestionarios-psicologicos"
+      ],
+      "entities": [
+        "Ricky Puig",
+        "Los Ángeles Galaxy"
+      ],
+      "topics": [
+        "Return to Play",
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Criterios de alta"
+      ],
+      "search_questions": [
+        "¿Cuáles son los criterios correctos para dar el alta deportiva?",
+        "¿Por qué la simetría no es suficiente para la vuelta a la competición?",
+        "¿Qué papel juegan los cuestionarios psicológicos y la kinesiofobia en el RTP?"
+      ],
+      "related_terms": [
+        "return",
+        "to",
+        "performance",
+        "fatiga",
+        "toma",
+        "de",
+        "decisiones",
+        "simetría",
+        "kinesiofobia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para transformar la fuerza en potencia, se persigue aumentar la velocidad de reclutamiento motor y la capacidad elástico-reactiva usando pliometría y VBT.",
+      "context_after": "Se concluye el webinar con un resumen de 7 ideas clave o pilares teóricos sobre la rehabilitación neuromuscular."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:12:05",
+      "end_timestamp": "00:14:41",
+      "start_seconds": 725,
+      "end_seconds": 881,
+      "duration_seconds": 156,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=725",
+      "title": "7 claves finales de la rehabilitación neuromuscular",
+      "summary": "Resumen del webinar en 7 pilares: 1) la activación es el inicio, no el fin, 2) la inhibición suele ser neurológica, no estructural, 3) activar no es recuperar función, 4) rehabilitar exige progresión lineal, 5) transferir requiere especificidad y velocidad real, 6) el RTP exige criterios integrales, 7) el fin último es rendir en el deporte, no curar un tejido aislado.",
+      "literal_quote": "la séptima y la idea final, que probablemente para mí es la más importante, y es que el objetivo no es recuperar un tejido, sino restaurar toda esa capacidad de rendir en un deporte real.",
+      "full_transcript": "Para cerrar este webinar, me gustaría quedarme con varias ideas clave que recordaréis y que espero que haya sido funcional esta formación y que os sirva en un futuro para emplearlo con vuestros deportistas. La primera es que la activación neuromuscular es el punto de partida, no es el objetivo final. Superimportante. Recuperar la capacidad de activación de un músculo no significa que el paciente esté listo otra vez para jugar. La segunda es que tras una lesión o una cirugía, mayoritariamente existe una inhibición muscular, que es protectora. Muchas veces el problema no es estructural, no es en el músculo en sí, sino en el sistema nervioso. Superimportante. Tercera idea: recuperar activación no es recuperar función. Un músculo que responde no quiere decir que es un músculo que produzca fuerza, que controla el movimiento o que puede soportar demasiada demanda en el deporte. Cuarta idea: la rehabilitación es una progresión. Es decir, empezamos con una activación, luego hay fuerza temprana, fuerza funcional, potencia y llegamos al rendimiento. La rehabilitación no es una activación y me salto estos pasos y llegamos al rendimiento. La quinta es que la transferencia al deporte solo ocurre cuando introducimos especificidad, es decir, velocidad, carga progresiva, tareas funcionales y contexto real de competición. La sexta es que el return to play, la vuelta al deporte, no puede basarse en criterios simples o aislados, como he comentado anteriormente, en asimetrías. Necesitamos una visión más general, más global, que incluya ese control motor, esa fatiga, los factores psicológicos, justo lo que he hablado hace unos minutos. Y la número siete, y la idea final, que probablemente para mí es la más importante, y es que el objetivo no es recuperar un tejido, sino restaurar toda esa capacidad de rendir en un deporte real.",
+      "keywords": [
+        "conclusiones",
+        "activacion-neuromuscular",
+        "inhibicion-muscular",
+        "especificidad",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Resumen",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 7 ideas clave de la activación neuromuscular?",
+        "¿Cuál es el objetivo final de la rehabilitación deportiva según Julio Caballero?",
+        "¿Por qué la activación no es igual a la recuperación de la función?"
+      ],
+      "related_terms": [
+        "activación",
+        "neuromuscular",
+        "función",
+        "progresión",
+        "especificidad",
+        "return",
+        "to",
+        "play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que el retorno al deporte exige integrar control motor, resistencia a la carga, calidad de movimiento y factores psicológicos.",
+      "context_after": "Final del webinar."
+    }
+  ]
+}

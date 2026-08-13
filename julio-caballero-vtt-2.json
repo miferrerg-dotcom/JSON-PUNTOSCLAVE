@@ -1,0 +1,588 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+    "speaker": "Julio Caballero López",
+    "total_duration": "00:26:32",
+    "total_duration_seconds": 1592,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:29",
+      "start_seconds": 3,
+      "end_seconds": 89,
+      "duration_seconds": 86,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Valoración clínica de la Inhibición Muscular Artrogénica",
+      "summary": "La IMA se valora combinando observación clínica y pruebas objetivas. Clínicamente, el paciente no puede activar el cuádriceps o manguito rotador pese al esfuerzo voluntario, siendo evidente un déficit en la elevación de la pierna recta (straight leg raise) y en la extensión terminal.",
+      "literal_quote": "los pacientes son incapaces de activar correctamente la musculatura que se les pide... Hay una contracción débil pese al esfuerzo voluntario.",
+      "full_transcript": "¿Cómo se valora esta inhibición muscular artrogénica? Esta condición no se diagnostica con una única prueba, sino que se valora a través de una combinación de observación clínica, valoración objetiva y factores asociados. En primer lugar, a nivel clínico, lo más importante y frecuente es que los pacientes son incapaces de activar correctamente la musculatura que se les pide, sobre todo en el cuádriceps y en la musculatura del manguito rotador del hombro. Hay una contracción débil pese al esfuerzo voluntario. Es decir, el paciente sabe cómo hay que hacer el ejercicio, pero prácticamente no contrae nada. Esto es muy común, sobre todo cuando se le pide el straight leg raise, la elevación de la pierna recta. Se observa que suben la pierna, pero la activación muscular es nula o inexistente. Además, suele aparecer un déficit de extensión terminal, sobre todo en el caso de la rodilla, por lo que esta inhibición muscular artrogénica limita esos últimos grados de extensión de la rodilla. En cuanto a la valoración objetiva, hay que tener en cuenta que la observación clínica por sí sola no es suficiente para cuantificar una inhibición muscular artrogénica. Por lo tanto, la evidencia científica",
+      "keywords": [
+        "valoracion-clinica",
+        "straight-leg-raise",
+        "cuadriceps",
+        "manguito-rotador",
+        "extension-terminal"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Casos clínicos"
+      ],
+      "search_questions": [
+        "¿Cómo se valora clínicamente la inhibición muscular artrogénica?",
+        "¿Qué ocurre durante la elevación de la pierna recta en pacientes con IMA?",
+        "¿Dónde se habla del déficit de extensión terminal de la rodilla?"
+      ],
+      "related_terms": [
+        "valoración",
+        "clínica",
+        "activación",
+        "muscular",
+        "esfuerzo",
+        "voluntario"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se finaliza la explicación de las consecuencias de la inhibición muscular y se introduce la forma de evaluarla.",
+      "context_after": "Se presenta el Central Activation Ratio (CAR) como el método de referencia en investigación para cuantificar la inhibición de manera objetiva."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:03:08",
+      "start_seconds": 89,
+      "end_seconds": 188,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=89",
+      "title": "Central Activation Ratio (CAR) como medida objetiva",
+      "summary": "El CAR es el estándar de investigación para estimar el grado de activación voluntaria. Compara la fuerza máxima voluntaria (MVC) con la fuerza adicional generada mediante una estimulación eléctrica supramáxima. A menor CAR, mayor inhibición.",
+      "literal_quote": "Esta fórmula permite estimar el grado de activación voluntaria del músculo... contra menos CAR, mayor inhibición neuromuscular.",
+      "full_transcript": "recomienda utilizar métodos más objetivos, como esta fórmula, que es el CAR, central activation ratio, que es referencia en investigación. ¿En qué consiste esta fórmula? El MVC es la fuerza voluntaria máxima más la fuerza adicional inducida por estímulo. Lo explico más detalladamente. Por lo tanto, ¿qué se consigue con esta fórmula? Esta fórmula permite estimar el grado de activación voluntaria del músculo. Se basa en comparar la fuerza que el deportista o el paciente genera de forma voluntaria con la fuerza total que puede generar cuando se añade una estimulación eléctrica supramáxima durante una contracción máxima. Si al aplicar esta estimulación eléctrica, el músculo es capaz de producir aún más fuerza, significa que no estaba siendo completamente activado por el sistema nervioso de forma voluntaria, sino que refleja esa inhibición. Es decir, contra menos CAR, mayor inhibición neuromuscular, porque el sistema nervioso no activa correctamente.",
+      "keywords": [
+        "central-activation-ratio",
+        "car",
+        "fuerza-voluntaria-maxima",
+        "estimulacion-supramaxima",
+        "inhibicion-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el Central Activation Ratio (CAR) y cómo funciona?",
+        "¿Cómo se mide objetivamente la inhibición muscular artrogénica?",
+        "¿Qué relación hay entre el estímulo eléctrico y el cálculo del CAR?"
+      ],
+      "related_terms": [
+        "central",
+        "activation",
+        "ratio",
+        "estimulación",
+        "eléctrica",
+        "fuerza",
+        "voluntaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "La IMA se valora combinando observación clínica y pruebas objetivas. Clínicamente destaca la incapacidad de activar la musculatura.",
+      "context_after": "Se detallan otras herramientas complementarias de evaluación clínica, como la dinamometría isométrica y la electromiografía (EMG)."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:03:08",
+      "end_timestamp": "00:05:08",
+      "start_seconds": 188,
+      "end_seconds": 308,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=188",
+      "title": "Dinamometría, EMG y el impacto de los factores periféricos",
+      "summary": "La dinamometría detecta déficit de fuerza y la EMG muestra patrones de reclutamiento alterados. Sin embargo, la inhibición responde directamente a factores como dolor e inflamación; incrementos prematuros de carga (ej: caminar en fase subaguda) pueden reavivar derrames articulares y reactivar la inhibición.",
+      "literal_quote": "Esta inhibición no depende exclusivamente del daño estructural, sino que también afecta a factores como el dolor, el derrame articular y la inflamación.",
+      "full_transcript": "Otro caso a nivel clínico que ya es más accesible es la dinamometría isométrica, que nos permite detectar déficit de fuerza, aunque por sí sola no distingue entre la debilidad muscular y la inhibición neural. La electromiografía también es una herramienta que se puede utilizar para valorar esa inhibición muscular artrogénica, ya que aporta información sobre el reclutamiento a nivel muscular y sobre todo el timing de activación, en los que se pueden observar patrones alterados en estos pacientes o en estos clientes. Un punto clave que se repite de forma muy consistente en la literatura es que esta inhibición no depende exclusivamente del daño estructural, sino que también afecta a factores como el dolor, el derrame articular y la inflamación. De hecho, incluso pequeños derrames pueden aumentar significativamente esta inhibición muscular artrogénica. Esto se ve también muy típico en consulta, que el paciente va mejorando de esa inhibición, pero si metemos más carga durante esa fase inicial, sobre todo en pacientes con prótesis de rodilla o que ya están en una fase subaguda de ligamento cruzado anterior, cuatro o seis semanas, dicen: \"Me he ido a dar una vuelta con mi mujer y se me ha inflamado la rodilla\". Ese derrame articular, esa inflamación, hace que vayamos un pasito hacia atrás y que esa inhibición muscular artrogénica tarde un poco más en resolverse. Entonces, hay que tenerlo en cuenta, que cuando hay inflamación, dolor y derrame articular, hay que jugar también con la carga, que luego lo explicaré más detalladamente.",
+      "keywords": [
+        "dinamometria-isometrica",
+        "electromiografia",
+        "derrame-articular",
+        "inflamacion",
+        "dosificacion-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Casos clínicos"
+      ],
+      "search_questions": [
+        "¿Qué aportan la dinamometría y la EMG en la evaluación de la IMA?",
+        "¿Cómo afectan el dolor y el derrame articular a la inhibición muscular?",
+        "¿Por qué es importante controlar la carga cuando hay un derrame articular?"
+      ],
+      "related_terms": [
+        "dinamometría",
+        "electromiografía",
+        "derrame",
+        "articular",
+        "inflamación",
+        "carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "El CAR es el estándar de investigación para estimar el grado de activación voluntaria.",
+      "context_after": "Inicia la presentación de los tres bloques secuenciales del abordaje de la inhibición muscular, empezando por el control de factores periféricos."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:05:08",
+      "end_timestamp": "00:06:24",
+      "start_seconds": 308,
+      "end_seconds": 384,
+      "duration_seconds": 76,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=308",
+      "title": "Fase 1 del abordaje: Control de factores periféricos",
+      "summary": "El primer bloque de intervención requiere controlar los factores periféricos que perpetúan la inhibición (dolor y derrame). Estrategias como la crioterapia, compresión, dosificación de carga y la educación del paciente son fundamentales desde el inicio.",
+      "literal_quote": "debemos controlar todos los factores periféricos que perpetúan esa inhibición muscular... educar al paciente sobre lo que puede pasar y explicarle todo el proceso.",
+      "full_transcript": "Aquí ya entramos dentro del abordaje de esta inhibición muscular artrogénica. Para el abordaje de esta inhibición muscular artrogénica, podemos organizar la intervención en tres bloques fundamentales, de forma secuencial. En primer lugar, debemos controlar todos los factores periféricos que perpetúan esa inhibición muscular. Como he comentado anteriormente, el dolor y el derrame articular son de los principales mecanismos que mantienen esa inhibición muscular, sobre todo del cuádriceps, del manguito rotador y de los peroneos. Por lo que estrategias como la crioterapia, la comprensión, la educación del paciente y la dosificación de carga son fundamentales desde el principio de la lesión. Es decir, educar al paciente sobre lo que puede pasar y explicarle todo el proceso de inhibición para que lo entienda es superimportante.",
+      "keywords": [
+        "factores-perifericos",
+        "derrame-articular",
+        "crioterapia",
+        "compresion",
+        "educacion-paciente"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres bloques de abordaje de la inhibición muscular?",
+        "¿Qué incluye el primer bloque para tratar la IMA?",
+        "¿Por qué es vital la educación del paciente en fases tempranas de lesión?"
+      ],
+      "related_terms": [
+        "factores",
+        "periféricos",
+        "crioterapia",
+        "educación",
+        "del",
+        "paciente",
+        "carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "La inhibición responde directamente a factores como dolor e inflamación; incrementos prematuros de carga pueden reactivar el derrame.",
+      "context_after": "Se abordan los niveles 2 y 3 del tratamiento: mejora del input sensorial al sistema nervioso y el entrenamiento del drive motor a través de isometría."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:06:24",
+      "end_timestamp": "00:08:28",
+      "start_seconds": 384,
+      "end_seconds": 508,
+      "duration_seconds": 124,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=384",
+      "title": "Fases 2 y 3: Input sensorial y restauración del Drive Motor",
+      "summary": "Tras el control periférico, el segundo nivel busca aumentar la excitabilidad sensorio-motora usando tacto, vibración, biofeedback o terapia espejo. El tercer nivel busca restaurar la contracción voluntaria (drive motor) mediante isometría en rango medio y progresiones de carga.",
+      "literal_quote": "el siguiente paso es mejorar el input sensorial hacia el sistema nervioso... Finalmente, el tercer nivel es la contracción voluntaria, especialmente mediante isometría en rango medio.",
+      "full_transcript": "Una vez que controlamos este terreno, el siguiente paso es mejorar el input sensorial hacia el sistema nervioso. Aquí entran herramientas como el tacto, la vibración, biofeedback, que luego explicaré más detalladamente, terapia espejo y estimulación visual del movimiento. Esto es superimportante y funciona muy bien. El objetivo de esto es aumentar la excitabilidad del sistema sensorio-motor y, sobre todo, facilitar la activación muscular. Finalmente, el tercer nivel es la contracción voluntaria, especialmente mediante isometría en rango medio. En esta fase buscamos aumentar el drive motor, ese drive que desconectamos al principio de las diapositivas. Buscamos reentrenar la capacidad del sistema nervioso para reclutar unidades motoras de una forma eficaz. Entonces, isométrico en rango medio, foco en intentar contracción máxima intencionada y progresiones de carga. En conjunto, estos tres bloques no son lineales, pero nos ayudan a estructurar la intervención sobre los tres niveles clave: reducir la inhibición periférica, aumentar el input sensorial y restaurar la activación motora.",
+      "keywords": [
+        "input-sensorial",
+        "biofeedback",
+        "terapia-espejo",
+        "contraccion-voluntaria",
+        "isometria",
+        "drive-motor"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo se mejora el input sensorial en la readaptación neuromuscular?",
+        "¿Qué herramientas aumentan la excitabilidad del sistema sensorio-motor?",
+        "¿Cuál es el rol de la isometría en rango medio en la IMA?"
+      ],
+      "related_terms": [
+        "input",
+        "sensorial",
+        "drive",
+        "motor",
+        "isometría",
+        "biofeedback"
+      ],
+      "relevance_score": 5,
+      "context_before": "El primer bloque de intervención requiere controlar los factores periféricos que perpetúan la inhibición mediante crioterapia y educación.",
+      "context_after": "Se profundiza en el uso específico de la crioterapia y la electroestimulación (NMES) en fases de postoperatorio."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:08:28",
+      "end_timestamp": "00:10:07",
+      "start_seconds": 508,
+      "end_seconds": 607,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=508",
+      "title": "Uso de Crioterapia y Electroestimulación (NMES)",
+      "summary": "El objetivo inicial no es hipertrofiar, sino conectar el músculo. La crioterapia reduce agudamente el dolor y la inhibición refleja. El NMES permite reclutar unidades motoras directamente, siendo clave en postoperatorios de LCA cuando el deportista no puede contraer voluntariamente, funcionando como un 'puntero' del músculo diana.",
+      "literal_quote": "el objetivo en sí no es fortalecer el músculo, sino reducir la inhibición... la estimulación eléctrica neuromuscular... ayuda a puntuar el músculo que queremos activar.",
+      "full_transcript": "Cuando hablamos de estrategias de activación en la inhibición muscular, el objetivo en sí no es fortalecer el músculo, sino reducir la inhibición neuromuscular y restaurar la capacidad del sistema nervioso para activar esa musculatura de una forma eficaz. Por lo tanto, ¿cuáles son las mejores estrategias y lo que respalda a nivel científico? En primer lugar, la crioterapia. El frío puede tener un efecto agudo, sobre todo va a reducir el dolor y así lo que va a disminuir es la parte de inhibición refleja, que limita esa activación a nivel muscular en las fases tempranas. En segundo lugar, una de las herramientas con mayor soporte en la literatura es la estimulación eléctrica neuromuscular, lo que es el NEMS. En contextos como el postoperatorio, por ejemplo, una prótesis de rodilla o del ligamento cruzado anterior, se ha visto que puede ayudar a reclutar un montón de fibras de unidades motoras y de forma directa, especialmente cuando el paciente o el deportista es incapaz de generar esa contracción voluntaria efectiva. Yo siempre digo que ayuda a puntuar el músculo que queremos activar. Incluso aquí en el manguito, en el infraespinoso, a la hora de hacer esa retracción escapular, ayuda a puntear cuál es el músculo diana. Superimportante.",
+      "keywords": [
+        "crioterapia",
+        "electroestimulacion",
+        "nmes",
+        "reclutamiento-motor",
+        "postoperatorio"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué se usa la electroestimulación (NMES) en postoperatorios?",
+        "¿Qué efecto tiene la crioterapia sobre la inhibición muscular?",
+        "¿Cuál es el objetivo principal al tratar la inhibición neuromuscular en fases iniciales?"
+      ],
+      "related_terms": [
+        "crioterapia",
+        "electroestimulación",
+        "NEMS",
+        "reclutamiento",
+        "inhibición",
+        "refleja"
+      ],
+      "relevance_score": 5,
+      "context_before": "Tras el control periférico, el segundo nivel busca aumentar la excitabilidad sensorio-motora usando tacto, vibración o biofeedback.",
+      "context_after": "Se detallan otras estrategias avanzadas como el uso de restricción de flujo sanguíneo (BFR), imaginería motora y biofeedback visual."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:10:07",
+      "end_timestamp": "00:12:00",
+      "start_seconds": 607,
+      "end_seconds": 720,
+      "duration_seconds": 113,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=607",
+      "title": "Restricción de Flujo Sanguíneo (BFR) e Imaginería Motora",
+      "summary": "El BFR genera gran estrés metabólico con carga mecánica mínima, lo que facilita el reclutamiento motor temprano. Además, las estrategias centrales como la imaginería motora (visualización) aumentan la excitabilidad cortical, y combinadas con el biofeedback logran una activación funcional muy superior.",
+      "literal_quote": "Esta herramienta [BFR] lo que permite es generar adaptaciones de fuerza y activación con cargas prácticamente muy bajas... la imaginería motora... aumenta esa excitabilidad a nivel cortical.",
+      "full_transcript": "Otra estrategia con creciente evidencia es el entrenamiento por restricción del flujo sanguíneo, el BFR. Esta herramienta lo que permite es generar adaptaciones de fuerza y activación con cargas prácticamente muy bajas o nulas. Lo cual es útil en fase muy temprana, donde no podemos jugar bien con esa gran descarga. Y, sobre todo, ¿qué es lo que pasa a nivel fisiológico con esta BFR? Lo que hace es aumentar el estrés metabólico y así facilita un mayor reclutamiento de unidades motoras. A esto, si se le suma el ejercicio de baja carga de control, que es sobre todo foco en el control motor y el objetivo es reeducar ese patrón de movimiento, esa extensión, esa retracción escapular o esa eversión del tobillo. Es importante. Además, también hay estrategias a nivel central, como es la imaginería motora. Supercurioso. Lo que hace es aumentar esa excitabilidad a nivel cortical, a nivel central, cuando la activación está muy limitada. Esto es útil en fases iniciales, sobre todo cuando el paciente intenta apretar, pero no puede. Tiene que conseguir esa activación del músculo, de manera muy progresiva y enfocarse. Imagínate que tienes ahí esa musculatura. Enfócate para intentar activar. Importante. Finalmente, un punto que no podemos olvidar es el biofeedback, otra herramienta que está en auge y que a mí particularmente me gusta mucho. En resumen, el abordaje de la inhibición muscular no es una única intervención de imaginería motora, de crioterapia o de BFR, sino una combinación de estas estrategias que actúan a diferentes niveles, como comentaba anteriormente: periférico, espinal y cortical. ¿Con qué objetivo? Sobre todo, restaurar esa función muscular importantísima, que sea funcional.",
+      "keywords": [
+        "bfr",
+        "restriccion-flujo-sanguineo",
+        "estres-metabolico",
+        "imagineria-motora",
+        "excitabilidad-cortical"
+      ],
+      "entities": [
+        "BFR"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el BFR (restricción de flujo sanguíneo) en fases iniciales de lesión?",
+        "¿Qué es la imaginería motora y por qué es útil en rehabilitación?",
+        "¿Cómo se incrementa la excitabilidad cortical cuando el paciente no puede apretar el músculo?"
+      ],
+      "related_terms": [
+        "BFR",
+        "estrés",
+        "metabólico",
+        "imaginería",
+        "motora",
+        "biofeedback"
+      ],
+      "relevance_score": 5,
+      "context_before": "El NMES permite reclutar unidades motoras directamente, siendo clave en postoperatorios de LCA.",
+      "context_after": "Comienza la exposición de un caso clínico práctico: intervención aguda tras reconstrucción de ligamento cruzado anterior (LCA)."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:12:00",
+      "end_timestamp": "00:16:00",
+      "start_seconds": 720,
+      "end_seconds": 960,
+      "duration_seconds": 240,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=720",
+      "title": "Caso Clínico: Fase aguda tras reconstrucción de LCA",
+      "summary": "En la primera semana postcirugía de LCA existe derrame, dolor e inhibición refleja extrema del vasto medial. La estrategia a los 10 días consiste en educación, control motor e isometría domiciliaria asistida por estímulos táctiles (ej: presionar una toalla como si fuera un 'botón' bajo la rodilla).",
+      "literal_quote": "yo siempre pongo una toalla debajo de la rodilla para que haya un estímulo táctil... Es como si fuera un botón entre la rótula y el cuádriceps.",
+      "full_transcript": "Vamos a poner unos ejemplos clínicos, donde utilizo estas estrategias para diferentes patologías y situaciones. En primer lugar, la más común, que es cuando se produce esta inhibición muscular artrogénica, es en el ligamento cruzado anterior. Además, en casi todas las publicaciones y evidencias se estudia en estos casos. En esta reconstrucción de ligamento cruzado anterior, lo que se produce es una inhibición marcada principalmente del vasto medial del cuádriceps. Es decir, para el paciente es prácticamente imposible activar esa musculatura la primera semana, ese vasto interno, esa parte medial de la zona de la rótula. Además, suelen tener dificultad a la hora de hacer la extensión de la pierna de manera activa o levantar la pierna de forma recta, porque para el paciente es prácticamente imposible. Por lo tanto, en estas fases agudas, ¿qué es lo que produce esa inhibición muscular artrogénica y cómo se desarrolla este paciente? ¿Qué sintomatologías tienen? Principalmente, derrame y una gran inflamación a nivel de la rodilla por esa cirugía. Y los pacientes tienen dolor. Esos nociceptores mandan información al sistema nervioso central de que hay dolor. Por lo tanto, se produce esa inhibición refleja de la musculatura del cuádriceps. A nivel clínico, ¿cuál es el objetivo? Primero, restaurar la activación antes de fuerza. No se puede construir la casa por el tejado. Superimportante. Y por mi experiencia clínica, ¿cómo trabajamos esto? Lo que solemos utilizar en las dos primeras semanas es lo siguiente: el paciente suele venir al día 10 de la cirugía. ¿Qué hacemos? Educación de por qué se produce o por qué se puede producir esa inhibición muscular artrogénica. Isométrico, trabajo en casa. Una vez que el paciente entiende cómo hay que activar la musculatura, después de que haya una educación en camilla y en sala de que tiene que activar esta musculatura con este ejercicio isométrico, yo siempre pongo una toalla debajo de la rodilla para que haya un estímulo táctil. Además, juego mucho con el tacto, como he dicho anteriormente, enseñarle y que vaya reclutando esas fibras motoras con el tacto le va a venir bastante bien. También le pongo un ejemplo. Es como si fuera un botón entre la rótula y el cuádriceps. Hay un espacio que lo señalo bastante y le doy ese estímulo táctil. Tiene que intentar activar esta zona. Por lo tanto, una vez que el paciente se va de la terapia, le enseño y le recomiendo ese isométrico en casa.",
+      "keywords": [
+        "lca",
+        "ligamento-cruzado",
+        "vasto-medial",
+        "estimulo-tactil",
+        "isometria",
+        "educacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se interviene en la fase aguda tras una reconstrucción del LCA?",
+        "¿Por qué se usa el estímulo táctil (toalla) en ejercicios isométricos de rodilla?",
+        "¿Qué musculatura se inhibe principalmente en el LCA durante la primera semana?"
+      ],
+      "related_terms": [
+        "ligamento",
+        "cruzado",
+        "vasto",
+        "medial",
+        "isometría",
+        "estímulo",
+        "táctil"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron el BFR, imaginería motora y biofeedback como abordajes centrales de la rehabilitación.",
+      "context_after": "La explicación del abordaje en el LCA continúa detallando cómo implementar el BFR con porcentajes exactos."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:16:00",
+      "end_timestamp": "00:19:16",
+      "start_seconds": 960,
+      "end_seconds": 1156,
+      "duration_seconds": 196,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=960",
+      "title": "Protocolo específico de BFR en rehabilitación de rodilla",
+      "summary": "Para activar el cuádriceps, se usa BFR a baja carga (20-30% RM) con un 40% de oclusión arterial total evaluada con Doppler. El protocolo es: 1 serie de 30 isométricos, seguida de 3 series de 15 repeticiones de extensión activa, descansando 30-60 segundos manteniendo el manguito inflado para inducir máximo estrés metabólico.",
+      "literal_quote": "solemos utilizar un 40 % de restricción... La primera serie, 30 repeticiones isométricas... luego, tres series adicionales de 15 repeticiones... manteniendo el manguito inflado.",
+      "full_transcript": "Además, ¿qué es lo que utilizo en consulta? BFR de baja carga y biofeedback. ¿Cómo empleamos esto? BFR, ¿cómo lo aplicamos? Como he comentado anteriormente, es un entrenamiento con bajas cargas, entre un 20 y un 30 % del RM. Y esto lo combinamos con una restricción parcial del flujo sanguíneo, sobre todo de un manguito a nivel proximal, cerca del cruzado, cerca de la cadera. En clínica, solemos utilizar un 40 % de restricción en el miembro inferior. Hay máquinas que ya te lo hacen, como la que tenemos nosotros de BFR, pero lo ideal es individualizado, siempre con el Doppler, que sea un 40 % de restricción de oclusión arterial total. ¿Cómo lo utilizamos? La primera serie, 30 repeticiones isométricas. Es decir, el paciente va a intentar hacer el isométrico que le hemos enseñado previamente en consulta. Y luego, tres series adicionales de 15 repeticiones cada una. Descanso entre serie entre 30 y 60 segundos, pero superimportante, manteniendo el manguito inflado. Es decir, el manguito se mantiene inflado mientras descansa entre series. En total, un total de cuatro series. Esto ayuda a generar más estrés metabólico a nivel muscular y más reclutamiento de fibras motoras, como he comentado. Aquí vamos a poner un ejemplo de cómo lo utilizo cuando el paciente está en una semana tres, que ya tiene flexión de rodilla por 90 grados y el objetivo de por qué aplicamos esta BFR. En este vídeo observamos cómo un manguito está a nivel proximal, con el 40% de oclusión. Ahí lo que estamos haciendo es esas 15 repeticiones, pero está haciendo una extensión de rodilla activa. Aquí, previamente hemos enseñado al paciente a encender ese botón y reclutar esas fibras musculares a nivel del vasto medial. Ahora, en una fase dos, cuando el paciente tiene más movilidad y llega a 90 grados de flexión de rodilla, utilizamos esta herramienta. ¿Por qué funciona la inhibición muscular artrogénica? Aumenta el estrés metabólico, aumenta el reclutamiento de unidades motoras y, sobre todo, no necesitas una alta carga mecánica, un gran apoyo. Por lo tanto, es una herramienta que suele estar funcionando muy bien a nivel clínico y el apoyo científico también se está estudiando y está bastante reconocido.",
+      "keywords": [
+        "protocolo-bfr",
+        "restriccion-arterial",
+        "doppler",
+        "estres-metabolico",
+        "cuadriceps"
+      ],
+      "entities": [
+        "BFR",
+        "Doppler"
+      ],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es el protocolo exacto de repeticiones y descanso para el uso clínico de BFR?",
+        "¿Qué porcentaje de oclusión y de RM se recomienda al usar BFR en rodilla?",
+        "¿Se debe desinflar el manguito de BFR entre series durante la rehabilitación?"
+      ],
+      "related_terms": [
+        "BFR",
+        "oclusión",
+        "arterial",
+        "estrés",
+        "metabólico",
+        "Doppler",
+        "isometría"
+      ],
+      "relevance_score": 5,
+      "context_before": "La estrategia a los 10 días consiste en educación, control motor e isometría domiciliaria asistida por estímulos táctiles.",
+      "context_after": "Para complementar el uso de BFR, se detalla cómo incorporar biofeedback visual mediante gafas de realidad conectadas a electrodos de EMG."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:19:16",
+      "end_timestamp": "00:21:12",
+      "start_seconds": 1156,
+      "end_seconds": 1272,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1156",
+      "title": "Biofeedback EMG y activación por neuronas espejo",
+      "summary": "Se emplean gafas conectadas a electrodos de electromiografía. Al contraer el músculo, el paciente ve una pelota ascender en la pantalla, aumentando el drive motor. Además, contraer la pierna sana activa la musculatura de la operada por el efecto de las neuronas espejo.",
+      "literal_quote": "el hecho de activar la pierna sana hace que la pelota suba... por las neuronas espejos, va a activar también esa musculatura.",
+      "full_transcript": "Luego, otra técnica que me gusta mucho utilizar también es el biofeedback. El biofeedback. Además, siempre lo combinamos con estos electrodos de electromiografía. ¿Cómo trabajamos? El paciente se pone unas gafas, que ahora lo enseñaré en el vídeo, pero esto lo que hace es que cuando el paciente activa la musculatura del cuádriceps, manda información al electrodo y se ve reflejado en una pantalla donde una pelota sube hacia arriba. Por lo tanto, esto lo que va a hacer es reducir el déficit de activación voluntaria, aumenta ese drive de motor cortical a nivel central de: esto es lo que quiero activar, me enfoco aquí y además mejora el reclutamiento de unidades motoras. Mira, pongo el vídeo. Esta es la pierna operada. Y vemos aquí cómo sube esa pelota hacia arriba cuando activa la musculatura. Es decir, la pierna operada, el hecho de activar la pierna sana hace que la pelota suba hacia arriba y aquí, en esta musculatura de la pierna afecta por las neuronas espejos, va a activar también esa musculatura. Entonces, el hecho de activar la pierna sana va a ayudar a que la pierna intervenida reclute esas fibras motoras. Además, también se puede utilizar la electromiografía en la pierna operada, pero no en una fase aguda, sino en una fase un poco más a posteriori, cuando el paciente sepa activar esa musculatura y que no tenga problema de contraerla. Por lo tanto, es una herramienta que es superútil.",
+      "keywords": [
+        "biofeedback",
+        "emg",
+        "neuronas-espejo",
+        "drive-motor-cortical",
+        "electromiografia"
+      ],
+      "entities": [
+        "EMG"
+      ],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el biofeedback visual con electrodos de EMG?",
+        "¿Qué papel juegan las neuronas espejo en la readaptación neuromuscular?",
+        "¿Por qué es útil contraer la pierna sana para ayudar a la pierna operada?"
+      ],
+      "related_terms": [
+        "biofeedback",
+        "electromiografía",
+        "neuronas",
+        "espejo",
+        "drive",
+        "motor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Aplicación de BFR a baja carga con oclusión del 40% evaluada con Doppler.",
+      "context_after": "El seminario pasa del caso de rodilla a explicar un segundo caso clínico, centrado en esguinces de tobillo."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:21:12",
+      "end_timestamp": "00:23:51",
+      "start_seconds": 1272,
+      "end_seconds": 1431,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1272",
+      "title": "Caso Clínico 2: Inhibición en esguinces de tobillo",
+      "summary": "En esguinces grado 2 o 3, el peroneo lateral corto y largo sufren inhibición refleja, generando inestabilidad y riesgo de recaída. La crioterapia aguda reduce el edema permitiendo la eversión, y la electroestimulación restaura el patrón motor y el reclutamiento voluntario.",
+      "literal_quote": "La crioterapia disminuye el dolor... baja el edema y... permite una mejor activación de esa musculatura a la hora de hacer la eversión del tobillo.",
+      "full_transcript": "Otro caso que solemos ver en consulta: jugadores de baloncesto, de pádel, que tienen un esguince de tobillo, sobre todo ya un poco más avanzado, grado dos, grado tres, y que presentan inflamación importante, dolor, esa dificultad para apoyar el pie, sensación también de inestabilidad. ¿Cuál es la musculatura que se ve más afectada? Principalmente, el peroneo corto y el largo. Ahí es donde se produce esa inhibición muscular artrogénica. Es decir, el sistema nervioso disminuye de forma refleja esa activación. Por lo tanto, ¿qué es lo que va a pasar? Contracción muscular pobre, no se va a activar correctamente. Retraso en la activación de la musculatura de los peroneos. Cuando manda la información, esa musculatura no se activa correctamente. Déficit de control neuromuscular, equilibrio, sensación de inestabilidad cuando los pacientes van caminando. Si no se trata bien esa inhibición muscular artrogénica, a los dos meses los pacientes y esos deportistas suelen tener todavía esa sensación de inestabilidad y mayor riesgo de recaída. Si no hay un fortalecimiento correcto desde el principio de esa musculatura, luego vamos a tener más riesgo de recaída. ¿Qué herramientas utilizamos para ese esguince de tobillo? Aquí, aparte de todas las que hemos comentado anteriormente que se pueden utilizar, desde mi experiencia clínica, lo que funciona muy bien es la crioterapia de forma aguda y además la electroestimulación. La crioterapia disminuye el dolor, disminuye la aferencia nociceptiva, es decir, esa información que manda al sistema nervioso de que aquí está doliendo algo, disminuye, baja el edema y además lo que hace es aumentar esa activación motora, es decir, permite una mejor activación de esa musculatura a la hora de hacer la eversión del tobillo, cuando el tobillo se va hacia afuera. Además, la electroestimulación aumenta el reclutamiento motor, facilita la contracción voluntaria, mejora ese input a nivel neuromuscular de esta es la musculatura que queremos activar y restaura también los patrones motores. Esto va a hacer que luego vaya a generar menos sensación de inestabilidad, de equilibrio.",
+      "keywords": [
+        "esguince-tobillo",
+        "peroneo-lateral",
+        "inestabilidad",
+        "crioterapia",
+        "electroestimulacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué músculos se inhiben tras un esguince de tobillo grado dos o tres?",
+        "¿Por qué los pacientes con esguince de tobillo desarrollan inestabilidad crónica?",
+        "¿Cómo ayuda la electroestimulación en el tratamiento de los peroneos?"
+      ],
+      "related_terms": [
+        "esguince",
+        "tobillo",
+        "peroneo",
+        "crioterapia",
+        "electroestimulación",
+        "inestabilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Finaliza la intervención de LCA utilizando biofeedback visual con electrodos de EMG.",
+      "context_after": "El último bloque de la charla aborda el caso práctico número 3, sobre las lesiones de hombro."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:23:51",
+      "end_timestamp": "00:26:32",
+      "start_seconds": 1431,
+      "end_seconds": 1592,
+      "duration_seconds": 161,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1431",
+      "title": "Caso Clínico 3: Abordaje de la inhibición escapulohumeral",
+      "summary": "En bursitis o roturas del manguito rotador (ej: supraespinoso) aparece debilidad funcional y compensaciones (ascenso de la glena). El abordaje exige terapia manual para relajar tejido blando, isometría global de rotadores y reeducación del serrato anterior y retractores escapulares.",
+      "literal_quote": "es superimportante en el trabajo de hombro que haya una buena condición de activación en toda la musculatura, sobre todo del serrato anterior... con trabajo de W.",
+      "full_transcript": "Y por último, tenemos el caso de la lesión del hombro. Hay varias condiciones por las que se puede producir esta inhibición muscular artrogénica, pero principalmente cuando hay una lesión del manguito rotador, de ese tendón del supraespinoso, o hay una sutura, una bursitis llamativa e importante. Esta presentación de lesión suele ser con un dolor mecánico, es decir, que suele doler al movimiento. Además, suelen presentar debilidad a nivel de funcionalidad para las tareas. Por ejemplo, el hecho de peinarse, de secarse el pelo. Pérdida de rango de movimiento, va a haber compensaciones a la hora de levantar, van a tirar con la zona con un ascenso de la glena, de la cabeza humeral y va a hacer esa compensación, por lo que va a haber una alteración también del control motor y sobre todo, el hombro tiene muchísimos propioceptores y lo que va a generar esa sensación de inestabilidad si no se trata correctamente. Desde mi experiencia clínica y que tenga respaldo científico, lo que funciona muy bien es la terapia manual, relajación de tejido blando en el hombro, infraespinoso, otra zona del trapecio, para relajar esa musculatura. Luego, trabajo de isometría, todos los rotadores. Isometría en separación de hombro, abducción de hombro, aducción, rotación interna, rotación externa. Todo lo que es el trabajo de isometría a nivel agudo funciona muy bien. Y por último, tenemos la reeducación postural. Aquí es superimportante en el trabajo de hombro que haya una buena condición de activación en toda la musculatura, sobre todo del serrato anterior. Serrato anterior, toda la musculatura de retracción escapular con trabajo de W, trabajo de romboide, de infraespinoso, toda esa musculatura estabilizadora a nivel de escapular y sobre todo la glenohumeral también. Por lo tanto, es superimportante cuando tengamos esta lesión de hombro, cogerlo desde el principio para que no se produzca esa inhibición muscular y sobre todo, en el caso de que el paciente la desarrolle, que con este trabajo de terapia manual y trabajo de isometría de una forma aguda y reeducación postural es muy difícil que desarrolle esa condición. Pero en el caso de que la tenga, trabajándolo poco a poco, son muy buenas herramientas para conseguir ese buen reclutamiento motor y esa buena activación a nivel de la musculatura de la glenohumeral y de la escapulohumeral.",
+      "keywords": [
+        "hombro",
+        "manguito-rotador",
+        "terapia-manual",
+        "reeducacion-postural",
+        "serrato-anterior",
+        "isometria"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la inhibición muscular artrogénica al hombro y al manguito rotador?",
+        "¿Por qué es importante el serrato anterior en la rehabilitación de hombro?",
+        "¿Qué estrategias se utilizan para abordar la debilidad funcional en lesiones de hombro?"
+      ],
+      "related_terms": [
+        "hombro",
+        "manguito",
+        "rotador",
+        "terapia",
+        "manual",
+        "isometría",
+        "serrato",
+        "anterior"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del abordaje para la inestabilidad derivada de esguinces de tobillo.",
+      "context_after": "Fin del bloque de casos prácticos."
+    }
+  ]
+}
