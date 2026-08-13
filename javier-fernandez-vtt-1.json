@@ -1,0 +1,108 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Masterclass: Lesión del tríceps sural",
+    "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+    "total_duration": "00:04:11",
+    "total_duration_seconds": 251,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Masterclass: Lesión del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:01:20",
+      "end_timestamp": "00:02:48",
+      "start_seconds": 80,
+      "end_seconds": 168,
+      "duration_seconds": 88,
+      "timestamp_url": "?t=80",
+      "title": "Limitaciones de las guías genéricas en la readaptación",
+      "summary": "El ponente critica el uso de guías de ejercicios estandarizadas extraídas de internet para procesos de readaptación, ya que carecen del contexto específico sobre el punto de partida y el propio atleta. Subraya que el profesional debe contar con una caja de herramientas que le permita ser flexible y tomar decisiones adaptativas durante todo el proceso.",
+      "literal_quote": "Normalmente, estas guías carecen de un contexto; no ponen en contexto ni dónde nos encontramos, ni al propio atleta muchas veces.",
+      "full_transcript": "Como introducción, me gustaría dar mi punto de vista y esa parte más crítica a nivel de cómo muchas veces hoy realizamos las cosas. Es relativamente sencillo ir a cualquier buscador y poner el nombre de la estructura que queremos trabajar o los objetivos que queremos realizar, y a partir de ahí buscar infinitas guías o incluso archivos que nos pueden mencionar cuáles son las series, cuáles son las repeticiones, cuáles son los ejercicios que tenemos que seleccionar para el proceso de readaptación de cualquier estructura... y nosotros seguir esta guía al pie de la letra. ¿Qué pasa? Normalmente, estas guías carecen de un contexto; no ponen en contexto ni dónde nos encontramos, ni al propio atleta muchas veces. Y no solo desde el punto de partida, sino también en ese proceso de readaptación, tener esa capacidad de ser flexible, irse adaptando al propio proceso y ir tomando decisiones en el mismo.",
+      "keywords": [
+        "readaptación",
+        "guías-genéricas",
+        "contexto",
+        "toma-decisiones",
+        "flexibilidad",
+        "tríceps-sural"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el ponente critica las guías genéricas de readaptación?",
+        "¿Cuál es el problema de buscar ejercicios de rehabilitación en internet?",
+        "¿Qué importancia tiene el contexto del atleta en el proceso de readaptación?"
+      ],
+      "related_terms": [
+        "proceso de readaptación",
+        "toma de decisiones",
+        "contexto del atleta",
+        "guías genéricas",
+        "caja de herramientas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Breve presentación del ponente detallando su formación en Ciencias del Deporte, Fisioterapia y su investigación doctoral sobre el tríceps sural.",
+      "context_after": "Se presenta el índice de la masterclass y cómo estructurar el plan de actuación para llevar esta visión crítica a la práctica."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Masterclass: Lesión del tríceps sural",
+      "speaker": "Ponente (Readaptador/Fisioterapeuta)",
+      "start_timestamp": "00:02:49",
+      "end_timestamp": "00:04:11",
+      "start_seconds": 169,
+      "end_seconds": 251,
+      "duration_seconds": 82,
+      "timestamp_url": "?t=169",
+      "title": "Estructura de abordaje lesional y verificación de resultados",
+      "summary": "Se detalla el enfoque de la masterclass basado en responder qué, por qué, cómo y cuándo ocurre la lesión, para desembocar en un plan de actuación. Se enfatiza que diseñar un plan o seleccionar ejercicios no tiene ninguna utilidad si no se evalúan rigurosamente los resultados obtenidos.",
+      "literal_quote": "Al final, no sirve de nada llevar a cabo selección de ejercicios, llevar a cabo un plan en concreto, si luego no estoy evaluando el resultado que ha tenido este plan.",
+      "full_transcript": "Como índice, vamos a utilizar las preguntas de qué, por qué, cómo, cuándo y luego, sobre todo, ese plan de actuación. Porque al final está muy bien que busquemos información... pero tenemos que intentar llevarlo a práctica, ver qué sucede y luego tener la capacidad también de... adaptarnos durante este proceso... En ese qué, vamos a entender por qué es importante esa parte de base teórica inicial. Posteriormente, en ese por qué, veremos más esos factores de riesgo... En el cómo y en el cuándo, tenemos diferentes mecanismos lesionales... Y por último, veremos ese plan de actuación y verificación del mismo. Al final, no sirve de nada llevar a cabo selección de ejercicios, llevar a cabo un plan en concreto, si luego no estoy evaluando el resultado que ha tenido este plan.",
+      "keywords": [
+        "plan-actuación",
+        "evaluación",
+        "factores-riesgo",
+        "mecanismos-lesionales",
+        "verificación"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo se debe estructurar el estudio y abordaje de una lesión deportiva?",
+        "¿Por qué es fundamental la evaluación dentro del plan de actuación?",
+        "¿Qué factores se analizan al estudiar una lesión de tríceps sural?"
+      ],
+      "related_terms": [
+        "plan de actuación",
+        "verificación de resultados",
+        "mecanismos lesionales",
+        "factores de riesgo",
+        "evaluación de resultados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que el objetivo del curso es dotar a los profesionales de una caja de herramientas con visión crítica.",
+      "context_after": "El fragmento del VTT finaliza justo al establecer la importancia de evaluar el plan de readaptación, antes de profundizar en la teoría del tríceps sural."
+    }
+  ]
+}
