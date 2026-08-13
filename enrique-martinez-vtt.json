@@ -1,0 +1,1450 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Organización del entrenamiento en el fútbol profesional",
+    "speaker": "Enrique Martínez",
+    "total_duration": "01:07:18",
+    "total_duration_seconds": 4038,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:00:44",
+      "end_timestamp": "00:02:00",
+      "start_seconds": 44,
+      "end_seconds": 120,
+      "duration_seconds": 76,
+      "timestamp_url": "?t=44",
+      "title": "Perfil profesional y áreas de investigación",
+      "summary": "Enrique Martínez presenta su currículum, incluyendo su paso por Liga MX y MLS, sus certificaciones (CSCS, CPSS) y sus tres líneas principales de investigación en ciencias del deporte.",
+      "literal_quote": "Mis principales líneas de investigación se centran en la evaluación y desarrollo de capacidades físicas, la monitorización y control de carga, y la readaptación y retorno a la competición.",
+      "full_transcript": "Me presento brevemente. Soy Enrique Martínez, actualmente director de fuerza y condicionamiento de Inter Miami. Previamente trabajé en Minnesota United y, antes de dar el salto a la MLS, estuve en México, en la Liga MX... Actualmente cuento con tres maestrías. La primera que realicé fue en Rendimiento Deportivo. Después busqué especializarme más en el fútbol, por lo que hice la maestría en Preparación Física y Prevención y Readaptación de Lesiones. Estoy certificado... como especialista en fuerza y condicionamiento, el CSCS, y como especialista en rendimiento deportivo, el CPSS. Mis principales líneas de investigación se centran en la evaluación y desarrollo de capacidades físicas, la monitorización y control de carga, y la readaptación y retorno a la competición.",
+      "keywords": [
+        "inter-miami",
+        "liga-mx",
+        "mls",
+        "maestrias",
+        "cscs",
+        "cpss",
+        "investigacion",
+        "control-de-carga"
+      ],
+      "entities": [
+        "Inter Miami",
+        "Minnesota United",
+        "Liga MX",
+        "Chivas",
+        "Lobos BUAP"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuáles son las líneas de investigación de Enrique Martínez?",
+        "¿Qué experiencia previa tiene Enrique Martínez antes de Inter Miami?"
+      ],
+      "related_terms": [
+        "preparación física",
+        "readaptación de lesiones",
+        "monitorización",
+        "control de carga"
+      ],
+      "relevance_score": 3,
+      "context_before": "Agradecimientos iniciales e introducción a los conceptos de planificación, periodización y programación.",
+      "context_after": "Descripción de los apartados y el orden de los temas a tratar en la ponencia."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:02:45",
+      "end_timestamp": "00:03:31",
+      "start_seconds": 165,
+      "end_seconds": 211,
+      "duration_seconds": 46,
+      "timestamp_url": "?t=165",
+      "title": "Las exigencias del calendario en la MLS",
+      "summary": "El contexto actual de ligas como la MLS presenta un calendario altamente congestionado y con viajes largos, lo cual limita el desarrollo integral del futbolista y aumenta el riesgo de perder disponibilidad por lesiones.",
+      "literal_quote": "Todo esto se traduce en que el margen para el desarrollo integral del futbolista... es limitado, mientras que el riesgo de tener lesiones o perder disponibilidad es alto.",
+      "full_transcript": "Cuando hablamos de la organización del entrenamiento en el fútbol actual, sabemos que no estamos hablando de un calendario perfecto o ideal. ¿Por qué pasa esto? Porque el fútbol actual y el alto rendimiento son un entorno altamente exigente, competitivo, cambiante y dinámico, sobre todo en aquellas ligas altamente congestionadas con muchos partidos, como la MLS, con sus viajes largos y constantes. Todo esto se traduce en que el margen para el desarrollo integral del futbolista, ya no solo desde un concepto de desarrollo físico, sino integral y la optimización del rendimiento colectivo, es limitado, mientras que el riesgo de tener lesiones o perder disponibilidad es alto.",
+      "keywords": [
+        "calendario",
+        "exigencia",
+        "mls",
+        "congestión",
+        "desarrollo-integral",
+        "disponibilidad",
+        "lesiones"
+      ],
+      "entities": [
+        "MLS"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el calendario de la MLS al desarrollo del jugador?",
+        "¿Qué impacto tienen los viajes largos en el rendimiento del futbolista?"
+      ],
+      "related_terms": [
+        "alto rendimiento",
+        "ligas congestionadas",
+        "riesgo de lesiones",
+        "optimización del rendimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la agenda del webinar.",
+      "context_after": "Presentación de las principales corrientes metodológicas actuales en el fútbol."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:04:28",
+      "end_timestamp": "00:06:16",
+      "start_seconds": 268,
+      "end_seconds": 376,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=268",
+      "title": "El Modelo Estructurado de Paco Seirulo",
+      "summary": "Se detalla el Modelo Estructurado, que entiende al jugador como un sistema complejo donde múltiples estructuras (condicional, cognitiva, socioafectiva, etc.) interactúan. Divide el trabajo en coadyuvante (preparar al jugador) y optimizador (competir).",
+      "literal_quote": "Profundizamos sobre el modelo estructurado, donde vemos que pone en el centro al jugador como un sistema complejo, en donde el rendimiento no depende solo de una estructura o capacidad, sino de la interacción de múltiples estructuras interrelacionadas.",
+      "full_transcript": "Profundizamos sobre el modelo estructurado, donde vemos que pone en el centro al jugador como un sistema complejo, en donde el rendimiento no depende solo de una estructura o capacidad, sino de la interacción de múltiples estructuras interrelacionadas. Describo muy brevemente cada una de ellas. El condicional, relacionado con las capacidades físicas. La cognitiva, todo el tema de percepción y toma de decisiones. Coordinativa, el control y eficiencia del movimiento. La creativo-expresiva... Socioafectiva... Emotivo-volitiva... Bioenergética... Y la mental. Además, vemos que este modelo habla de dos tipos de entrenamiento. El trabajo coadyuvante, orientado a preparar al jugador, clasificándolo en trabajos preventivos, restauración estructural y cualidades específicas. Y el trabajo optimizador, orientado a competir... También aquí importante se introduce un concepto claro que es la especificidad, en donde se describe que estas tareas o estos comportamientos tienen que respetar la lógica y las demandas del fútbol.",
+      "keywords": [
+        "modelo-estructurado",
+        "sistema-complejo",
+        "estructuras",
+        "coadyuvante",
+        "optimizador",
+        "especificidad"
+      ],
+      "entities": [
+        "Paco Seirulo"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las estructuras del Modelo Estructurado?",
+        "¿Qué diferencia hay entre trabajo coadyuvante y optimizador?"
+      ],
+      "related_terms": [
+        "estructura condicional",
+        "estructura cognitiva",
+        "entrenamiento coadyuvante",
+        "entrenamiento optimizador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Mención a las escuelas metodológicas portuguesa y española.",
+      "context_after": "Transición hacia la explicación de la Periodización Táctica."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:06:20",
+      "end_timestamp": "00:07:48",
+      "start_seconds": 380,
+      "end_seconds": 468,
+      "duration_seconds": 88,
+      "timestamp_url": "?t=380",
+      "title": "La Periodización Táctica y el Modelo de Juego",
+      "summary": "La Periodización Táctica subordina todas las dimensiones (física, técnica, psicológica) al modelo de juego de forma integrada. Emplea la especificidad de las situaciones de juego y la alternancia horizontal para variar exigencias sin fragmentar dimensiones.",
+      "literal_quote": "Pone en el centro el modelo de juego como el principal organizador del entrenamiento. Desde esta perspectiva, las diferentes dimensiones... no se entrenan de forma aislada, sino integradas a través de las situaciones de juego.",
+      "full_transcript": "Ahora vemos la periodización táctica, en donde pone en el centro el modelo de juego como el principal organizador del entrenamiento. Desde esta perspectiva, las diferentes dimensiones que se observan en la imagen, la técnica, la física y la psicológica, no se entrenan de forma aislada, sino integradas a través de las situaciones de juego. El trabajo se estructura a partir de principios, subprincipios y existe un tercer nivel, sub-subprincipios, que guían el comportamiento del equipo en las diferentes fases del juego, introduciendo dos conceptos importantes. El primero, también la especificidad, pero no solo con la relación a nivel contextual del deporte o con la similitud del deporte, sino lo llevan un paso más allá con relación al modelo de juego. Es decir, conservar un problema y la información del juego sobre elementos tácticos. Y otro concepto que manejan, la alternancia horizontal, que habla sobre esta regulación en la variación de las exigencias del juego o esta variación de la especificidad dentro del macrociclo... regulando esta especificidad.",
+      "keywords": [
+        "periodizacion-tactica",
+        "modelo-de-juego",
+        "integrado",
+        "principios",
+        "especificidad",
+        "alternancia-horizontal"
+      ],
+      "entities": [
+        "Víctor Frade"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué es la alternancia horizontal en la periodización táctica?",
+        "¿Cómo integra la periodización táctica la dimensión física?"
+      ],
+      "related_terms": [
+        "principios tácticos",
+        "subprincipios",
+        "alternancia horizontal",
+        "dimensiones integradas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del Modelo Estructurado.",
+      "context_after": "Unión de ambas metodologías a través del Enfoque Sistémico del Rendimiento."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:07:52",
+      "end_timestamp": "00:09:07",
+      "start_seconds": 472,
+      "end_seconds": 547,
+      "duration_seconds": 75,
+      "timestamp_url": "?t=472",
+      "title": "Fundamentos del Enfoque Sistémico del Rendimiento",
+      "summary": "El enfoque sistémico entiende el rendimiento como una emergencia de la interacción entre jugador, juego y modelo de juego. Define tres niveles de intervención de entrenamiento: analítica, contextual y organizada.",
+      "literal_quote": "El rendimiento debe entenderse como un fenómeno que emerge de la interacción entre múltiples sistemas y no solo como la suma de componentes aislados.",
+      "full_transcript": "Ambos modelos han aportado un marco valioso... Sin embargo, desde una perspectiva sistémica, hablando de la teoría de los sistemas, el rendimiento debe entenderse como un fenómeno que emerge de la interacción entre múltiples sistemas y no solo como la suma de componentes aislados. A partir de esta base surge el enfoque sistémico del rendimiento... Punto número uno, entender que el rendimiento emerge de la interacción de los tres sistemas: el jugador, el juego y el modelo de juego. Punto número dos, brindar una intervención de entrenamiento que facilite la expresión de cada uno de estos sistemas con sus predominios en diferentes estructuras. Vemos que la intervención analítica tendría un predominio en la estructura condicional bioenergética, la intervención contextual, predominio en la coordinativa hacia lo técnico y la intervención organizada, un predominio de lo cognitivo hacia lo táctico.",
+      "keywords": [
+        "enfoque-sistemico",
+        "rendimiento",
+        "teoria-de-sistemas",
+        "intervencion-analitica",
+        "intervencion-contextual",
+        "intervencion-organizada"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres intervenciones del enfoque sistémico?",
+        "¿Cómo define el enfoque sistémico el rendimiento en el fútbol?"
+      ],
+      "related_terms": [
+        "perspectiva sistémica",
+        "estructura condicional",
+        "estructura coordinativa",
+        "estructura cognitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la alternancia horizontal y la especificidad táctica.",
+      "context_after": "Análisis de las fortalezas y debilidades operativas de cada metodología clásica."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:09:42",
+      "end_timestamp": "00:10:40",
+      "start_seconds": 582,
+      "end_seconds": 640,
+      "duration_seconds": 58,
+      "timestamp_url": "?t=582",
+      "title": "Limitaciones operativas de los modelos clásicos",
+      "summary": "El modelo estructurado puede limitar la transferencia directa al juego al enfocarse en desarrollar capacidades, mientras que la periodización táctica carece de estructura clara para el trabajo descontextualizado, pudiendo comprometer el desarrollo físico óptimo.",
+      "literal_quote": "Sobre el modelo estructurado... Lo que yo he podido observar... puede limitar su transferencia directa al juego. [...] Y sobre la periodización táctica... no cuenta con esta estructura u organización tan clara sobre el trabajo descontextualizado, en donde puede no ocurrir de forma suficiente el desarrollo físico.",
+      "full_transcript": "Entonces, ¿cómo se aprovechan las fortalezas y se compensan estas limitaciones operativas mediante esta integración? ¿Qué observamos sobre el modelo estructurado? Es un modelo orientado para fortalecer el desarrollo de las capacidades... Lo que yo he podido observar y percibir en mi experiencia puede limitar su transferencia directa al juego, en donde se puede realizar más desarrollo del trabajo contextual. Y sobre la periodización táctica, ¿qué podemos observar? Que esto es el lado opuesto, ya que todo está subordinado por el modelo de juego y no cuenta con esta estructura u organización tan clara sobre el trabajo descontextualizado, en donde puede no ocurrir de forma suficiente el desarrollo físico.",
+      "keywords": [
+        "limitaciones-operativas",
+        "modelo-estructurado",
+        "periodizacion-tactica",
+        "transferencia",
+        "desarrollo-fisico",
+        "trabajo-descontextualizado"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué problema físico puede generar la periodización táctica estricta?",
+        "¿Por qué el modelo estructurado puede fallar en la transferencia al juego?"
+      ],
+      "related_terms": [
+        "transferencia directa",
+        "trabajo contextual",
+        "trabajo descontextualizado",
+        "limitaciones metodológicas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Justificación del Enfoque Sistémico y de la evolución del rol del preparador físico.",
+      "context_after": "Llamado a la necesidad de planificar de forma conjunta con los entrenadores."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:11:15",
+      "end_timestamp": "00:12:06",
+      "start_seconds": 675,
+      "end_seconds": 726,
+      "duration_seconds": 51,
+      "timestamp_url": "?t=675",
+      "title": "La Progresión Sistémica dentro de la sesión",
+      "summary": "La progresión sistémica consiste en organizar los estímulos de la sesión pasando fluidamente desde niveles analíticos a contextuales, y finalmente a niveles organizados (modelo de juego), manteniendo coherencia en todo el proceso.",
+      "literal_quote": "Las activaciones o trabajos analíticos no se realicen de forma aislada, sino con una intención clara de preparar al jugador para las siguientes demandas del entrenamiento.",
+      "full_transcript": "Ahora abordaremos un concepto importante que es la progresión sistémica, el cual hace referencia a que en la organización de la intervención dentro de la sesión se deben desarrollar estos estímulos organizados desde niveles más analíticos hacia niveles más contextuales y organizados, manteniendo siempre coherencia entre ellos. Entonces, en la práctica, esto implica que las activaciones o trabajos analíticos no se realicen de forma aislada, sino con una intención clara de preparar al jugador para las siguientes demandas del entrenamiento. Es decir, lo que se trabaja en el nivel analítico debe tener continuidad en el nivel contextual y después integrarse en las tareas organizadas orientadas al modelo de juego.",
+      "keywords": [
+        "progresion-sistemica",
+        "sesion",
+        "coherencia",
+        "activacion",
+        "nivel-analitico",
+        "nivel-contextual"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué es la progresión sistémica en el entrenamiento de fútbol?",
+        "¿Cómo se debe estructurar una sesión integrando los niveles analítico y contextual?"
+      ],
+      "related_terms": [
+        "trabajo analítico",
+        "continuidad del estímulo",
+        "tareas organizadas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Importancia de la planificación y comunicación con el cuerpo técnico.",
+      "context_after": "Profundización en la intervención analítica y sus pilares."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:12:14",
+      "end_timestamp": "00:13:20",
+      "start_seconds": 734,
+      "end_seconds": 800,
+      "duration_seconds": 66,
+      "timestamp_url": "?t=734",
+      "title": "Pilares y organización funcional de la intervención analítica",
+      "summary": "La intervención analítica se compone de trabajo estructural, resistencia, preventivo, fuerza-potencia y restauración. Existe una jerarquía funcional donde el trabajo estructural es la prioridad inicial para jóvenes, pretemporadas o readaptaciones.",
+      "literal_quote": "En contextos de procesos de readaptación, de desarrollo de jugadores jóvenes o incluso en la pretemporada, suele existir una prioridad inicial: el trabajo estructural como base sobre la cual se desarrollan el resto de capacidades.",
+      "full_transcript": "Ahora podemos observar dentro de la intervención analítica los pilares del rendimiento: trabajo estructural, resistencia, trabajo preventivo, fuerza-potencia y restauración. Y ahora hablamos de esta organización funcional de intervención, el cual, como están acomodados, no es aleatorio, sino que responde a una lógica funcional de intervención. Es decir, en contextos de procesos de readaptación, de desarrollo de jugadores jóvenes o incluso en la pretemporada, suele existir una prioridad inicial: el trabajo estructural como base sobre la cual se desarrollan el resto de capacidades. A partir de ahí se integran progresivamente componentes como la resistencia, el trabajo preventivo y la fuerza-potencia, mientras que la restauración aparece como un elemento transversal.",
+      "keywords": [
+        "intervencion-analitica",
+        "trabajo-estructural",
+        "pilares-rendimiento",
+        "jerarquia-funcional",
+        "readaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pilares de la intervención analítica?",
+        "¿Por qué el trabajo estructural es la prioridad inicial en pretemporada?"
+      ],
+      "related_terms": [
+        "trabajo preventivo",
+        "fuerza-potencia",
+        "restauración",
+        "lógica funcional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la progresión sistémica dentro de la sesión.",
+      "context_after": "Mención a la importancia específica de la capacidad de fuerza."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:14:03",
+      "end_timestamp": "00:14:54",
+      "start_seconds": 843,
+      "end_seconds": 894,
+      "duration_seconds": 51,
+      "timestamp_url": "?t=843",
+      "title": "Configuración del trabajo de Hipertrofia",
+      "summary": "El trabajo de hipertrofia se organiza con un volumen moderado a alto (60-80% RM), siendo muy práctico utilizar Repeticiones en Reserva (RIR 2-3). Se aplican sesiones de cuerpo completo o se dividen en días de empuje y tracción.",
+      "literal_quote": "El trabajo de hipertrofia es de volumen moderado a alto... un 60-80 %. A mí, en lo personal, me parece más práctico y fácil utilizar las repeticiones en reserva, dos a tres repeticiones en reserva.",
+      "full_transcript": "El trabajo de hipertrofia es de volumen moderado a alto, donde se habla por regla general en cuanto a porcentajes de repetición máxima, un 60-80 %. A mí, en lo personal, me parece más práctico y fácil utilizar las repeticiones en reserva, dos a tres repeticiones en reserva. Y en función del contexto, se pueden aplicar sesiones de hipertrofia de cuerpo completo o, si estamos hablando del tren superior, que incluyan empuje y tracción con grupos musculares accesorios, o dividiendo en la semana alguna sesión específica de empuje y otro día de tracción.",
+      "keywords": [
+        "hipertrofia",
+        "volumen",
+        "1rm",
+        "repeticiones-en-reserva",
+        "rir",
+        "empuje",
+        "traccion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se programa la intensidad en sesiones de hipertrofia para futbolistas?",
+        "¿Qué división muscular se puede utilizar en la semana para hipertrofia?"
+      ],
+      "related_terms": [
+        "repetición máxima",
+        "repeticiones en reserva",
+        "sesiones full body",
+        "tren superior"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las subcategorías del trabajo estructural: adaptación anatómica.",
+      "context_after": "Descripción del trabajo estructural metabólico en intervalos cortos."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:14:57",
+      "end_timestamp": "00:15:26",
+      "start_seconds": 897,
+      "end_seconds": 926,
+      "duration_seconds": 29,
+      "timestamp_url": "?t=897",
+      "title": "Trabajo estructural metabólico intermitente",
+      "summary": "Para la clasificación metabólica dentro del trabajo estructural, se recomiendan esfuerzos intermitentes de baja a moderada intensidad de 20 a 30 segundos, manteniendo un ratio trabajo-descanso de 1:1.",
+      "literal_quote": "A mí, en lo personal, me gusta trabajar mucho sobre segundos de 20 a 30 s... con un ratio de trabajo-descanso de uno a uno, es decir, un intermitente de 25 s de trabajo por 25 s de pausa.",
+      "full_transcript": "En la clasificación metabólica, ejercicios de intensidad baja a moderada sobre esfuerzos intermitentes. A mí, en lo personal, me gusta trabajar mucho sobre segundos de 20 a 30 s, encontrar aquellos ejercicios que permitan mantener esta intensidad sobre esta gestión en el tiempo con un ratio de trabajo-descanso de uno a uno, es decir, un intermitente de 25 s de trabajo por 25 s de pausa.",
+      "keywords": [
+        "metabolico",
+        "esfuerzos-intermitentes",
+        "ratio-1:1",
+        "intensidad-moderada"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuál es el ratio ideal de descanso en trabajos metabólicos estructurales?",
+        "¿Cuánto debe durar un esfuerzo intermitente de baja-moderada intensidad?"
+      ],
+      "related_terms": [
+        "clasificación metabólica",
+        "ratio trabajo-descanso"
+      ],
+      "relevance_score": 3,
+      "context_before": "Finalización de la explicación del bloque de hipertrofia.",
+      "context_after": "Muestra de ejemplos visuales y adaptaciones de ejercicios para postoperados."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:16:31",
+      "end_timestamp": "00:17:36",
+      "start_seconds": 991,
+      "end_seconds": 1056,
+      "duration_seconds": 65,
+      "timestamp_url": "?t=991",
+      "title": "Clasificación general del trabajo de Resistencia",
+      "summary": "La resistencia se divide en: trabajo continuo (base aeróbica), intermitente (predominio aeróbico como VAM o HIIT 30/15 con modulación mecánica) y sprints repetidos (extensivos e intensivos).",
+      "literal_quote": "Clasificándola en tres: el trabajo continuo de baja a moderada intensidad... El trabajo intermitente... Y por último, el sprint repetido.",
+      "full_transcript": "Ahora, sobre la resistencia, clasificándola en tres: el trabajo continuo de baja a moderada intensidad, orientada a esta base aeróbica para el objetivo de la eficiencia y la recuperación. El trabajo intermitente, principalmente dividido en dos, el aeróbico dominante como la velocidad máxima aeróbica, el maximal aerobic speed, o el trabajo mixto, incluyendo aeróbico-anaeróbico. A mí, en lo personal, me gusta trabajar mucho sobre los tipos de HIIT, en base al BIFT al 30/15. Con este componente de modulación mecánica, que sería diferenciar el trabajo ya sea lineal o con un incremento en la carga mecánica a través de los cambios de dirección. Y por último, el sprint repetido, ya sea extensivo como una progresión mayor volumen, menor intensidad, hacia el trabajo de sprint repetido intensivo con menor volumen, mayor intensidad.",
+      "keywords": [
+        "resistencia",
+        "trabajo-continuo",
+        "trabajo-intermitente",
+        "vam",
+        "hiit-30/15",
+        "sprint-repetido",
+        "modulacion-mecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se clasifica el entrenamiento de resistencia en fútbol?",
+        "¿Qué es la modulación mecánica en el entrenamiento HIIT?"
+      ],
+      "related_terms": [
+        "velocidad máxima aeróbica",
+        "trabajo mixto",
+        "sprint repetido extensivo",
+        "sprint repetido intensivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplo práctico de adaptación de trabajo metabólico para jugador post-operatorio.",
+      "context_after": "Ejemplo detallado de cómo se aplica y se individualiza un test 30/15 con cambios de dirección."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:17:38",
+      "end_timestamp": "00:18:53",
+      "start_seconds": 1058,
+      "end_seconds": 1133,
+      "duration_seconds": 75,
+      "timestamp_url": "?t=1058",
+      "title": "Individualización basada en test 30/15",
+      "summary": "Para hacer el HIIT 30/15 individualizado, se utilizan los resultados del test para organizar a los jugadores en grupos de velocidad y asignarles distancias de retorno diferentes (ej. 77m, 70m, 63m) asegurando que todos mantengan su intensidad objetivo en los mismos tiempos.",
+      "literal_quote": "Cada grupo tendría diferente distancia asignada para regresar y para encontrar en los 30 segundos esa fase. Es decir, el grupo uno estaría regresando 77 metros... permitiéndonos que sea un trabajo individualizado.",
+      "full_transcript": "Aquí muestro un ejemplo de un trabajo intermitente, el cual se basaría en un trabajo de 30 s de trabajo por 15 s de descanso con un cambio de dirección. Vemos que una vez se realiza el test de 30/15... se pueden clasificar. Realizo los grupos, describo el volumen de trabajo, ocho repeticiones. El trabajo sería con un cambio de dirección, por lo que implicaría que estos tres grupos, como se ve en la imagen, realicen los 80 m de carrera con un regreso, un cambio de dirección y cada grupo tendría diferente distancia asignada para regresar y para encontrar en los 30 segundos esa fase. Es decir, el grupo uno estaría regresando 77 metros, que sería el grupo con mayor, el otro 70, el otro 63, por lo que esto implicaría en esta modificación de la velocidad, ajustada claramente a su resultado y permitiéndonos que sea un trabajo individualizado.",
+      "keywords": [
+        "test-30/15",
+        "individualizacion",
+        "hiit",
+        "cambio-de-direccion",
+        "distancia-asignada"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se individualizan los trabajos intermitentes en grupo?",
+        "¿Cómo utilizar los resultados del test 30/15 para diseñar entrenamientos?"
+      ],
+      "related_terms": [
+        "test intermitente",
+        "modificación de velocidad",
+        "grupos de rendimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación teórica de los tipos de resistencia y el HIIT.",
+      "context_after": "Transición hacia el pilar de Trabajo Preventivo."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:18:57",
+      "end_timestamp": "00:19:49",
+      "start_seconds": 1137,
+      "end_seconds": 1189,
+      "duration_seconds": 52,
+      "timestamp_url": "?t=1137",
+      "title": "Trabajo preventivo grupal basado en incidencia lesional",
+      "summary": "El preventivo grupal se fundamenta en la epidemiología del deporte. Al ser los isquiosurales (especialmente la cabeza larga del bíceps femoral) la zona de mayor demanda y riesgo, se integran ejercicios diferenciados para cadera y rodilla.",
+      "literal_quote": "En cuanto a la clasificación grupal, basado en la incidencia lesional del deporte... vemos que los isquiosurales son los que presentan mayor demanda en cuanto a lesiones.",
+      "full_transcript": "Y ahora del trabajo preventivo, vemos que se clasifica en dos: el grupal y el individual. En cuanto a la clasificación grupal, basado en la incidencia lesional del deporte, lo que hemos visto de acuerdo a la literatura, vemos que los isquiosurales son los que presentan mayor demanda en cuanto a lesiones, sobre todo a nivel de dominantes de cadera. Se ha hablado mucho sobre el bíceps femoral, la cabeza larga. Entonces, empezar a distinguir, a diferenciar, agregar ejercicios dominantes de rodilla, de cadera, cuádriceps, abductores, aductores, flexor de cadera, extrenueños, tibial, tobillo. Entonces, importante tener esta intervención, este enfoque al grupo, protegerlos a través de diferentes estímulos.",
+      "keywords": [
+        "preventivo-grupal",
+        "incidencia-lesional",
+        "isquiosurales",
+        "biceps-femoral",
+        "dominantes-cadera"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿En qué se basa el trabajo preventivo grupal en fútbol?",
+        "¿Cuáles son los músculos con mayor incidencia lesional en fútbol?"
+      ],
+      "related_terms": [
+        "incidencia lesional",
+        "cabeza larga bíceps femoral",
+        "dominante de rodilla"
+      ],
+      "relevance_score": 4,
+      "context_before": "Finalización de la explicación del pilar de resistencia.",
+      "context_after": "Se abordan los criterios para el trabajo preventivo a nivel individual."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:19:50",
+      "end_timestamp": "00:20:28",
+      "start_seconds": 1190,
+      "end_seconds": 1228,
+      "duration_seconds": 38,
+      "timestamp_url": "?t=1190",
+      "title": "Criterios para el trabajo preventivo individual",
+      "summary": "Se establecen tres criterios para el preventivo individual: microdosis para el historial de lesiones recientes, trabajo compensatorio para asimetrías de fuerza mayores al 10-15%, y mejora de movilidad general para jugadores en el percentil 30 inferior.",
+      "literal_quote": "El trabajo individual, yo lo clasifico principalmente en tres aspectos. Primero... las lesiones más recientes... el componente de asimetrías, identificar aquellos que superen 10 o 15 % y en el trabajo de movilidad general... percentil 30.",
+      "full_transcript": "Y el trabajo individual, yo lo clasifico principalmente en tres aspectos. Primero, el literalismo, es decir, las lesiones más recientes, seguir dando esos microdosis, esos estímulos de refuerzos preventivos en el componente de asimetrías, identificar aquellos que superen 10 o 15 % y en el trabajo de movilidad general, es decir, un percentil 30, identificar aquellos jugadores que se encuentran por debajo y que requieren de componentes adicionales de fuerza.",
+      "keywords": [
+        "preventivo-individual",
+        "microdosis",
+        "historial-lesivo",
+        "asimetrias",
+        "movilidad",
+        "percentil-30"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje de asimetría exige intervención preventiva individual?",
+        "¿Cómo se clasifica el trabajo preventivo individual de un futbolista?"
+      ],
+      "related_terms": [
+        "refuerzos preventivos",
+        "asimetrías de fuerza",
+        "percentil de movilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del trabajo preventivo grupal.",
+      "context_after": "Explicación de la diferencia operativa (fases excéntricas, control) del trabajo grupal vs individual."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:21:49",
+      "end_timestamp": "00:22:17",
+      "start_seconds": 1309,
+      "end_seconds": 1337,
+      "duration_seconds": 28,
+      "timestamp_url": "?t=1309",
+      "title": "Los tres vectores del trabajo de Fuerza-Potencia",
+      "summary": "El trabajo neuromuscular de fuerza-potencia se categoriza en vector vertical (salto), vector horizontal (desplazamiento, aceleración, sprint) y vector rotacional-lateral (cambios de dirección, fuerza de lucha).",
+      "literal_quote": "El trabajo de fuerza-potencia, el cual yo lo clasifico en tres vectores: el vector vertical... el vector horizontal... y el vector rotacional lateral.",
+      "full_transcript": "Y ahora aquí vemos el trabajo de fuerza-potencia, el cual yo lo clasifico en tres vectores: el vector vertical, con relación a la fuerza de salto, el vector horizontal, con la fuerza de desplazamiento, aceleraciones, \"sprints\", y el vector rotacional lateral, relacionado con la fuerza de lucha, estos son los cambios de dirección.",
+      "keywords": [
+        "fuerza-potencia",
+        "vectores",
+        "vector-vertical",
+        "vector-horizontal",
+        "vector-rotacional-lateral"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Clasificación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los 3 vectores para trabajar la fuerza en el fútbol?",
+        "¿A qué acciones corresponde el vector rotacional lateral?"
+      ],
+      "related_terms": [
+        "fuerza de salto",
+        "fuerza de desplazamiento",
+        "cambios de dirección"
+      ],
+      "relevance_score": 4,
+      "context_before": "Muestra de ejemplos visuales del trabajo preventivo excéntrico e isométrico.",
+      "context_after": "Explicación de la dosis y progresión típica de ejercicios dentro de una sesión de fuerza."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:22:56",
+      "end_timestamp": "00:23:41",
+      "start_seconds": 1376,
+      "end_seconds": 1421,
+      "duration_seconds": 45,
+      "timestamp_url": "?t=1376",
+      "title": "Espectro Fuerza-Velocidad e Isometrías Máximas",
+      "summary": "Para optimizar el rendimiento neuromuscular es vital considerar toda la curva fuerza-velocidad. En la parte de máxima fuerza, Martínez prioriza las isometrías máximas (bilaterales y unilaterales) porque permiten mover mayores cargas con más seguridad.",
+      "literal_quote": "En cuanto a los trabajos de fuerza máxima, aplico isometrías máximas, tanto bilaterales como unilaterales. Esto porque me permite tener más seguridad en cuanto a ejercicios con mayores pesos.",
+      "full_transcript": "De acuerdo a la curva teórica de la fuerza-velocidad, se habla de que el desarrollo del rendimiento neuromuscular es muy importante y requiere la consideración de todo el espectro de fuerza-velocidad. Entonces, ¿cómo es que yo trabajo este espectro? En cuanto a los trabajos de fuerza máxima, aplico isometrías máximas, tanto bilaterales como unilaterales. Esto porque me permite tener más seguridad en cuanto a ejercicios con mayores pesos. Obviamente, estamos hablando de isometrías, ejercicios estáticos.",
+      "keywords": [
+        "fuerza-velocidad",
+        "fuerza-maxima",
+        "isometrias-maximas",
+        "rendimiento-neuromuscular",
+        "seguridad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué se utilizan isometrías máximas para entrenar la fuerza máxima?",
+        "¿Qué importancia tiene la curva fuerza-velocidad en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "espectro de fuerza-velocidad",
+        "ejercicios estáticos",
+        "isometría bilateral y unilateral"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la estructura de 5-6 ejercicios por sesión basándose en los vectores.",
+      "context_after": "Se detalla cómo usar el encoder para el entrenamiento basado en la velocidad."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:23:41",
+      "end_timestamp": "00:24:45",
+      "start_seconds": 1421,
+      "end_seconds": 1485,
+      "duration_seconds": 64,
+      "timestamp_url": "?t=1421",
+      "title": "Entrenamiento de Potencia con VBT y Método Cluster",
+      "summary": "Para la zona de potencia (0.30 - 0.50 m/s con encoder), aplica el entrenamiento basado en la velocidad (VBT) y el método cluster (minidescansos intra-serie, ej. 1 rep / 10s pausa / 1 rep) para alcanzar el máximo reclutamiento de velocidad evitando la acumulación de fatiga.",
+      "literal_quote": "El método \"cluster\", debido a estos pequeños descansos, permite potenciar y encontrar mayor reclutamiento de velocidad sin tanta fatiga.",
+      "full_transcript": "Para la potencia y fuerza exclusiva, utilizo mucho el encoder, el entrenamiento basado en la velocidad, en donde puede existir diferentes dosificaciones. Esto depende de la gestión de carga y de cómo se predice la fuerza. En donde yo, por ejemplo, hablando sobre la fuerza de rangos de 0.30 a 0.50, aplico estrategias como \"cluster\". Es decir, en vez de hacer una serie de cuatro repeticiones, permito hacer una repetición, descanso de 10 segundos, otra repetición... o hacer dos repeticiones, descanso de 15... ¿Esto por qué? Porque se ha visto que si se comparan estas dos series, una tradicional y una con el método \"cluster\", el cual es dividido, el método \"cluster\", debido a estos pequeños descansos, permite potenciar y encontrar mayor reclutamiento de velocidad sin tanta fatiga.",
+      "keywords": [
+        "vbt",
+        "encoder",
+        "metodo-cluster",
+        "potencia",
+        "velocidad",
+        "fatiga",
+        "descansos-intra-serie"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el método cluster en el entrenamiento de potencia?",
+        "¿A qué rango de velocidad se entrena la potencia en el fútbol usando un encoder?"
+      ],
+      "related_terms": [
+        "entrenamiento basado en velocidad",
+        "reclutamiento de velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso de isometrías máximas.",
+      "context_after": "Se explica el trabajo concéntrico puro dejando caer la carga en fases de alta exigencia."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:26:41",
+      "end_timestamp": "00:27:31",
+      "start_seconds": 1601,
+      "end_seconds": 1651,
+      "duration_seconds": 50,
+      "timestamp_url": "?t=1601",
+      "title": "Ejercicios Fundamentales vs. Aplicación",
+      "summary": "Dentro del entrenamiento neuromuscular, distingue dos conceptos: los ejercicios fundamentales buscan maximizar el reclutamiento de unidades motoras (fuerza máxima/potencia multiarticular), mientras que los de aplicación transfieren esa fuerza a la velocidad, movimiento y coordinación funcional.",
+      "literal_quote": "Los ejercicios fundamentales, serían aquellos que permitan desarrollar la capacidad neuromuscular... orientados a maximizar el reclutamiento de unidades motoras... Y vemos que en la aplicación son ejercicios que se orientan... hacia patrones de movimientos más específicos y funcionales.",
+      "full_transcript": "Entonces, aquí de forma muy simple, la forma en la que yo aplico los trabajos, los ejercicios fundamentales, serían aquellos que permitan desarrollar la capacidad neuromuscular mediante estos ejercicios de predominio multiarticular, orientados a maximizar el reclutamiento de unidades motoras y la activación del sistema nervioso central, porque tenemos fuerza máxima, potencia 0.80 a un metro sobre segundo. Y vemos que en la aplicación son ejercicios que se orientan más hacia el espectro bajo de la curva fuerza-velocidad, más orientados a la velocidad. Transferencia de la capacidad y desarrollo hacia patrones de movimientos más específicos y funcionales, combinando dirección y coordinación",
+      "keywords": [
+        "ejercicios-fundamentales",
+        "aplicacion",
+        "reclutamiento-motor",
+        "transferencia",
+        "multiarticular",
+        "coordinacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Clasificación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre un ejercicio fundamental y uno de aplicación en fuerza?",
+        "¿Por qué es importante maximizar el reclutamiento de unidades motoras?"
+      ],
+      "related_terms": [
+        "ejercicio multiarticular",
+        "espectro bajo curva fuerza-velocidad",
+        "patrones funcionales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se finaliza el desglose de métodos de fuerza explosiva y pliometría asistida/resistida.",
+      "context_after": "Se muestran ejemplos en video de saltos excéntricos e isometrías combinadas."
+    },
+    {
+      "id": "V02-019",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:32:19",
+      "end_timestamp": "00:33:02",
+      "start_seconds": 1939,
+      "end_seconds": 1982,
+      "duration_seconds": 43,
+      "timestamp_url": "?t=1939",
+      "title": "El pilar de Restauración Analítica y la reactivación muscular",
+      "summary": "La restauración engloba la activación aeróbica (15 min de bici/trote), movilidad/neurodinámica y la reactivación muscular. Esta última recupera elementos del trabajo preventivo (core, isometría) e incluye restricciones de flujo sanguíneo (BFR).",
+      "literal_quote": "La reactivación muscular, un componente importante para la recuperación, tomando componentes del trabajo preventivo como las isometrías, la propiocepción, el trabajo del core, incluyendo estrategias de restricción de flujo sanguíneo.",
+      "full_transcript": "Y por último, este pilar de restauración con cuatro clasificaciones: la activación aeróbica como trote continuo, bicicleta, dos de 15 minutos; la movilidad, mucho énfasis en articulaciones de cadera, rodilla, tobillo, incluyendo la movilización de nervios, la neurodinámica; la reactivación muscular, un componente importante para la recuperación, tomando componentes del trabajo preventivo como las isometrías, la propiocepción, el trabajo del core, incluyendo estrategias de restricción de flujo sanguíneo, y también sumando diferentes pilares...",
+      "keywords": [
+        "restauracion",
+        "activacion-aerobica",
+        "movilidad",
+        "neurodinamica",
+        "reactivacion-muscular",
+        "bfr"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los métodos de reactivación muscular post-esfuerzo?",
+        "¿Qué componentes conforman el pilar de restauración en el futbolista?"
+      ],
+      "related_terms": [
+        "neurodinámica",
+        "restricción de flujo sanguíneo",
+        "movilización de nervios"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exhibición de vídeos sobre polea cónica y desaceleraciones.",
+      "context_after": "Se listan diversos métodos contextuales y accesorios de recuperación pasiva (cámaras, compresión)."
+    },
+    {
+      "id": "V02-020",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:34:40",
+      "end_timestamp": "00:35:25",
+      "start_seconds": 2080,
+      "end_seconds": 2125,
+      "duration_seconds": 45,
+      "timestamp_url": "?t=2080",
+      "title": "La pirámide de recuperación basada en evidencia",
+      "summary": "Se subraya que la base irremplazable de la recuperación son el sueño y la nutrición. A continuación están la inmersión, compresión y estiramientos, dejando en la cima (con evidencia más limitada) tendencias modernas como crioterapia y cámaras hiperbáricas.",
+      "literal_quote": "El sueño y el descanso es la prioridad para poder recuperarnos, seguida de la nutrición e hidratación. [...] Y por último, y con evidencia más limitada, las cámaras de crioterapia, vibración y las modas que están saliendo actualmente.",
+      "full_transcript": "Esta es una pirámide que ya se ha descrito bastante y nos muestra de forma clara la prioridad y la importancia en cuanto a las estrategias de recuperación, donde vemos que el sueño y el descanso es la prioridad para poder recuperarnos, seguida de la nutrición e hidratación. Después, elementos como la inmersión en agua, frío, caliente, contrastes. Vemos la compresión, recuperación activa, estiramiento, estrategias de soporte. Después vemos la modulación neuromuscular, como el masaje. Y por último, y con evidencia más limitada, las cámaras de crioterapia, vibración y las modas que están saliendo actualmente.",
+      "keywords": [
+        "piramide-recuperacion",
+        "sueno",
+        "nutricion",
+        "crioterapia",
+        "evidencia-limitada",
+        "prioridades"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las prioridades reales en la recuperación del deportista?",
+        "¿Qué evidencia existe sobre las cámaras hiperbáricas en recuperación?"
+      ],
+      "related_terms": [
+        "estrategias de recuperación",
+        "modulación neuromuscular",
+        "inmersión en agua"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exhibición visual de ejercicios de movilidad en suelo (neurodinámica, rotadores).",
+      "context_after": "Análisis de las diferentes dimensiones de la especificidad aplicadas al entrenamiento."
+    },
+    {
+      "id": "V02-021",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:35:35",
+      "end_timestamp": "00:37:10",
+      "start_seconds": 2135,
+      "end_seconds": 2230,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=2135",
+      "title": "Niveles de Especificidad: Tarea vs. Modelo de Juego",
+      "summary": "Se diferencian dos tipos de especificidad: la de la tarea (relación con balón, espacio, tiempo e interacción para calcular la unidad de carga específica y RPE) frente a la del modelo de juego (alineada con principios tácticos y reglas de provocación).",
+      "literal_quote": "Existen dos definiciones clave. La primera es el nivel de especificidad de las tareas... variables como la duración... y la carga interna con la variable de percepción del esfuerzo... El otro concepto, la especificidad al modelo de juego... sería este grado de alineación de las tareas basado en los principios, en la organización, en estas reglas de provocación.",
+      "full_transcript": "Hablando sobre las dimensiones de la especificidad, ¿qué podemos observar aquí? Existen dos definiciones clave. La primera es el nivel de especificidad de las tareas... Es decir, aquí pudieron identificar en base a la relación del deporte diferentes niveles en cuanto a la relación entre jugadores, la relación con el balón, el espacio y el tiempo... para poder obtener la unidad de carga específica, es decir, contemplando variables como la duración de cada tarea... y la carga interna con la variable de percepción del esfuerzo. El otro concepto, la especificidad al modelo de juego, que es algo completamente diferente, pero claramente alineado, sería este grado de alineación de las tareas basado en los principios, en la organización, en estas reglas de provocación que podemos inducir en los jugadores para generar ciertos comportamientos. Claramente, el nivel de especificidad de la tarea está vinculado con la intervención contextual y la especificidad del modelo de juego con la intervención organizada.",
+      "keywords": [
+        "especificidad",
+        "especificidad-tarea",
+        "especificidad-modelo",
+        "carga-especifica",
+        "rpe",
+        "reglas-de-provocacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre la especificidad de tarea y la del modelo de juego?",
+        "¿Cómo se miden las reglas de provocación en el entrenamiento?"
+      ],
+      "related_terms": [
+        "unidad de carga específica",
+        "percepción del esfuerzo",
+        "intervención organizada"
+      ],
+      "relevance_score": 4,
+      "context_before": "Final de la pirámide de recuperación.",
+      "context_after": "Se inicia la sección sobre arquitectura de la periodización a nivel de macrociclo."
+    },
+    {
+      "id": "V02-022",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:37:14",
+      "end_timestamp": "00:39:08",
+      "start_seconds": 2234,
+      "end_seconds": 2348,
+      "duration_seconds": 114,
+      "timestamp_url": "?t=2234",
+      "title": "Arquitectura y planificación del Macrociclo",
+      "summary": "Tener una visión completa del calendario de partidos (horizontal) permite ondular la carga anticipadamente. Identificar parones (fechas FIFA) autoriza cargar más previamente, mientras que semanas congestionadas demandan priorizar totalmente la recuperación.",
+      "literal_quote": "Conociendo los partidos ya permite gestionar, priorizar y ondular la carga. [...] Sabes que antes de dar estos días [sin competición o fechas FIFA] puedes permitirte generar días de carga para que posteriormente tengan esos días de recuperación. Cuándo se necesita dar énfasis en la recuperación, es decir, cuándo existen periodos de alta congestión.",
+      "full_transcript": "Ahora, sobre la arquitectura en la periodización. ¿Qué podemos observar? Una vez teniendo el calendario competitivo, todos los partidos, es muy importante tener la imagen completa... Conociendo los partidos ya permite gestionar, priorizar y ondular la carga. Entonces vemos el macrociclo, la división de mesociclos, cada microciclo y las sesiones de entrenamiento... Es un calendario horizontal... ¿Qué permite identificar una vez identificado cada partido, cada dinámica del día? Permite encontrar cuándo dar énfasis en estos días o semanas de carga, es decir, cuándo existen fechas sin competición, sin partido... porque en el calendario no había partidos o porque hay fechas FIFA. Entonces, sabes que antes de dar estos días puedes permitirte generar días de carga para que posteriormente tengan esos días de recuperación. Cuándo se necesita dar énfasis en la recuperación, es decir, cuándo existen periodos de alta congestión... Porque aquí la prioridad claramente es recuperar, teniendo dos partidos por semana. Y una vez entendidos todos estos conceptos de carga y de descarga... ya se puede comenzar a dar esta orientación a los tipos de microciclo que permitiría esta ondulación.",
+      "keywords": [
+        "macrociclo",
+        "calendario",
+        "ondulacion-carga",
+        "fechas-fifa",
+        "congestión-partidos",
+        "recuperacion"
+      ],
+      "entities": [
+        "FIFA"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Decisión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica el macrociclo según la congestión de partidos?",
+        "¿Qué hacer con la carga antes de un parón por fecha FIFA?"
+      ],
+      "related_terms": [
+        "calendario horizontal",
+        "periodos de alta congestión",
+        "microciclo de mantenimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Diferenciación de las especificidades de entrenamiento.",
+      "context_after": "Se entra en detalle en las dinámicas diarias dentro de un microciclo estándar de 1 partido."
+    },
+    {
+      "id": "V02-023",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:39:21",
+      "end_timestamp": "00:41:04",
+      "start_seconds": 2361,
+      "end_seconds": 2464,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=2361",
+      "title": "Organización clásica del Microciclo (1 partido/semana)",
+      "summary": "Describe la dinámica semanal con un partido: el Match Day -4 y -3 son días de adquisición (fuerza y resistencia, respectivamente). A partir de MD-2 inicia el tapering (descarga de volumen pero manteniendo intensidad) y MD-1 es puramente activación.",
+      "literal_quote": "Se distinguirían dos fases, dos días de adquisición, es decir, los días de mayor carga, orientado menos cuatro a fuerza y el menos tres a la resistencia. En el menos dos... la fase de tapering o de descarga, permitiendo mantener intensidad en el menos dos, pero reduciendo este volumen.",
+      "full_transcript": "A nivel general y con un partido por semana, vemos que en cuanto a las dinámicas menos cuatro... me gusta dar un enfoque en cuanto a la fuerza y estamos hablando ya específicamente de la sesión de campo, en donde se distinguirían dos fases, dos días de adquisición, es decir, los días de mayor carga, orientado menos cuatro a fuerza y el menos tres a la resistencia. En el menos dos, que vemos que comparte junto con el menos uno, la fase de tapering o de descarga... permitiendo mantener intensidad en el menos dos, pero reduciendo este volumen. Pueden ser, por ejemplo, ejercicios o tareas de transición donde tal vez ya no están controladas por el tiempo, sino por acciones. Y el menos uno, una activación, donde claramente es el día de menor carga previo al partido, la fase de competición con su compensatorio importante... y dos días orientados a la restauración, el día de recuperación completo o el día libre y recuperación activa.",
+      "keywords": [
+        "microciclo",
+        "dinamica-semanal",
+        "adquisicion",
+        "tapering",
+        "md-4",
+        "md-3",
+        "md-2",
+        "md-1"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los días de adquisición de carga en un microciclo de fútbol?",
+        "¿Cómo se aplica el tapering en el MD-2 en fútbol?"
+      ],
+      "related_terms": [
+        "días de mayor carga",
+        "fase de descarga",
+        "compensatorio post partido"
+      ],
+      "relevance_score": 5,
+      "context_before": "Planificación del macrociclo y gestión de fechas.",
+      "context_after": "Cómo se distribuye la prevención y la fuerza analítica a lo largo de esos días."
+    },
+    {
+      "id": "V02-024",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:41:55",
+      "end_timestamp": "00:44:13",
+      "start_seconds": 2515,
+      "end_seconds": 2653,
+      "duration_seconds": 138,
+      "timestamp_url": "?t=2515",
+      "title": "Predominios físicos según las dimensiones del espacio",
+      "summary": "El tamaño de las tareas dicta la adaptación: espacios de ~60 m2/jugador (ej. 5v5 en 25x25) tienen predominio de fuerza; espacios de ~180 m2 (ej. 6v6 en 55x40) orientan a velocidad y transiciones; y más de ~290 m2 (cancha completa) exigen resistencia.",
+      "literal_quote": "Vemos un juego reducido, que sería el predominio de fuerza. Un ejemplo sería 25 metros por 25... cinco contra cinco... La fórmula nos daría 62 metros cuadrados. [...] Un juego de transición con predominio en la velocidad... La fórmula daría 183 metros cuadrados. [...] Un partido amistoso, cancha completa, predominio de resistencia... 292 metros cuadrados.",
+      "full_transcript": "En función del número de jugadores y del espacio, se puede orientar a la capacidad de fuerza. Por ejemplo, vemos en el lado superior aquellos grupos que sean entre equipos de cuatro contra cuatro, cinco contra cinco... siempre y cuando se manejen en rangos de distancia de 50 metros cuadrados por jugador o 100 metros cuadrados por jugador, estaría orientado en la fuerza. De la misma forma, tomando las mismas dimensiones con mayores jugadores... la resistencia y la orientación de velocidad. Y aquí describo, aterrizamos ejemplos. Vemos un juego reducido, que sería el predominio de fuerza. Un ejemplo sería 25 metros por 25, un cuadrado, un trabajo de cinco contra cinco, son 10 jugadores. Esta fórmula nos daría 62 metros cuadrados. Entonces, el énfasis estaría en el predominio en el trabajo de fuerza. Un juego de transición con predominio en la velocidad. Un espacio, una tarea con 55 metros por 40 metros, donde se realiza un seis contra seis con porteros. Estamos hablando de 12 jugadores. La fórmula daría 183 metros cuadrados. Entonces, claramente vemos que entra dentro del predominio de la velocidad. Y otro último ejemplo, un partido amistoso, cancha completa, predominio de resistencia, 90 por 65 metros, 10 contra 10, 20 jugadores, 292 metros cuadrados, predominio de resistencia.",
+      "keywords": [
+        "juegos-reducidos",
+        "espacios",
+        "metros-cuadrados",
+        "fuerza",
+        "velocidad",
+        "resistencia",
+        "ssg"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuántos metros cuadrados por jugador se recomiendan para trabajar la fuerza?",
+        "¿Qué capacidad física se prioriza en espacios grandes (más de 250 m2 por jugador)?"
+      ],
+      "related_terms": [
+        "predominio de fuerza",
+        "juego de transición",
+        "partido amistoso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de qué hacer analíticamente cada día del microciclo.",
+      "context_after": "Se aborda una advertencia clave (la paradoja) sobre la carga neuromuscular real de los espacios grandes."
+    },
+    {
+      "id": "V02-025",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:44:17",
+      "end_timestamp": "00:46:00",
+      "start_seconds": 2657,
+      "end_seconds": 2760,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=2657",
+      "title": "Gestión de aceleraciones en todos los formatos",
+      "summary": "Se demuestra que aunque las distancias y sprints crecen con el espacio, las tareas de espacios amplios también generan alta carga neuromuscular (aceleraciones/desaceleraciones) de forma paradójica. Es vital no repetir días consecutivos con alta carga neuromuscular.",
+      "literal_quote": "También en los ejercicios con espacios grandes se reproduce alta carga neuromuscular. Por eso, generalmente, estos espacios pequeños... tienen intervalos de trabajo menores.",
+      "full_transcript": "Que conforme incrementa el espacio, incrementa la distancia, el número de sprints. Y, por el contrario, del lado derecho, vemos que inclusive en las tareas más pequeñas ya se ven picos altos de aceleraciones y desaceleraciones. Entonces aquí nos permite identificar que se pueden alcanzar sesiones con una carga neuromuscular alta cuando se manejan espacios pequeños, pero también en espacios amplios, por lo que sería importante diferenciar los días para tener un día orientado al predominio de sprint, de velocidad, y no repetir esta secuencia, porque vemos que también en los ejercicios con espacios grandes se reproduce alta carga neuromuscular. Por eso, generalmente, estos espacios pequeños, estas tareas de espacios pequeños, tienen intervalos de trabajo menores. Suelen ser en promedio... trabajos de tres, cuatro o cinco minutos con bloques de recuperación entre uno o dos minutos Y vemos que el trabajo de espacios amplios es diferente, suele ser mayor.",
+      "keywords": [
+        "carga-neuromuscular",
+        "aceleraciones",
+        "desaceleraciones",
+        "espacios-amplios",
+        "espacios-pequenos",
+        "intervalos"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Tienen los espacios grandes de entrenamiento alta carga de aceleraciones?",
+        "¿Por qué los juegos reducidos deben tener tiempos de trabajo cortos?"
+      ],
+      "related_terms": [
+        "carga neuromuscular alta",
+        "picos altos de aceleraciones",
+        "bloques de recuperación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la fórmula matemática para asignar enfoques físicos por área a cada tarea.",
+      "context_after": "Se inicia la sección final enfocada totalmente en las características de la MLS."
+    },
+    {
+      "id": "V02-026",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:46:02",
+      "end_timestamp": "00:48:05",
+      "start_seconds": 2762,
+      "end_seconds": 2885,
+      "duration_seconds": 123,
+      "timestamp_url": "?t=2762",
+      "title": "El exigente y atípico contexto logístico de la MLS",
+      "summary": "La MLS se diferencia brutalmente de las ligas europeas: presenta alta diversidad climática (frío, humedad, altura, calor en la misma semana), franjas horarias y desplazamientos muy superiores (promedios de 1000 a 2400 km frente a los <500 km europeos).",
+      "literal_quote": "El viaje promedio en Estados Unidos va de 1000 a 2400 kilómetros y vemos la diferencia importante en cuanto a los viajes promedios. Premier League de 160 a 320. LaLiga 320... Esto implica un impacto muy importante en cómo se gestiona el trabajo, la planificación de microciclos, en la recuperación.",
+      "full_transcript": "Ahora hablando sobre las demandas del fútbol en la MLS. Empezamos con las características. Podemos observar que Estados Unidos es el tercer país más grande... Esto va a implicar que existe una alta diversidad climática, diferentes zonas o franjas horarias y, dentro del calendario competitivo, te encuentras con altura. En equipos como Colorado te encuentras jugando una semana en lugares fríos como Minnesota, pasas al calor, como en Houston, la humedad, por ejemplo, aquí en Florida, lugares secos como Salt Lake... Entonces, inclusive en una misma semana puedes tener diferente clima con diferentes zonas horarias. Otra tabla que compara la liga MLS con diferentes ligas, Premier League, LaLiga española y Bundesliga, en donde vemos que el viaje promedio en Estados Unidos va de 1000 a 2400 kilómetros y vemos la diferencia importante en cuanto a los viajes promedios. Premier League de 160 a 320. LaLiga 320, Bundesliga 400, 480. Donde el viaje máximo en la MLS sería de Vancouver a Atlanta, con 4300 kilómetros. Y claramente hay una diferencia en cuanto al territorio. ¿Esto qué implica? Implica un impacto muy importante en cómo se gestiona el trabajo, la planificación de microciclos, en la recuperación.",
+      "keywords": [
+        "mls",
+        "logistica",
+        "viajes",
+        "clima",
+        "franjas-horarias",
+        "kilometros",
+        "recuperacion"
+      ],
+      "entities": [
+        "MLS",
+        "Estados Unidos",
+        "Colorado",
+        "Minnesota",
+        "Houston",
+        "Florida",
+        "Salt Lake",
+        "Premier League",
+        "LaLiga española",
+        "Bundesliga",
+        "Vancouver",
+        "Atlanta"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuántos kilómetros se viajan de media en la MLS vs ligas europeas?",
+        "¿Cuáles son los principales desafíos logísticos de jugar en la MLS?"
+      ],
+      "related_terms": [
+        "diversidad climática",
+        "zonas horarias",
+        "planificación de microciclos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Final del análisis de tareas en espacios reducidos vs grandes.",
+      "context_after": "Explicación de la estrategia de rotación de jugadores en partido para mitigar esta fatiga."
+    },
+    {
+      "id": "V02-027",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:48:08",
+      "end_timestamp": "00:50:14",
+      "start_seconds": 2888,
+      "end_seconds": 3014,
+      "duration_seconds": 126,
+      "timestamp_url": "?t=2888",
+      "title": "Rotaciones al detectar caída de HMLD y fatiga en partido",
+      "summary": "Ante el agotamiento acumulado, se implementó una estrategia de rotación de jugadores entre el minuto 60 y 70, justificada por análisis internos que mostraban caídas fisiológicas (insulina) y de intensidad (caída de Metabolic Load Distance, HMLD) en ese margen temporal.",
+      "literal_quote": "Vimos en la variable de metabolic load distance, HMLD, sobre minuto, cómo existía una tendencia también a que esta intensidad cayera, por lo que identificamos que era importante en el minuto, aproximadamente 60, 70, tener esta rotación de jugadores.",
+      "full_transcript": "Algunas de las estrategias más importantes en cuanto a estas características sería la rotación de jugadores, es decir, la distribución de minutos... Aquí al lado derecho vemos un artículo que describe de forma muy simple cómo en el partido, en diferentes momentos, encontramos un pico de insulina, aproximadamente entre el 60 y 70 %, con una caída tanto de insulina como glucosa. Y del lado izquierdo vemos un análisis interno que desarrollamos en el club. Vimos en la variable de metabolic load distance, HMLD, sobre minuto, cómo existía una tendencia también a que esta intensidad cayera, por lo que identificamos que era importante en el minuto, aproximadamente 60, 70, tener esta rotación de jugadores. Entonces, identificar momentos clave de cambio de jugadores que permiten o pueden permitir mantener o incrementar la intensidad de los partidos y claramente protegiendo más a los jugadores, identificando si dentro del promedio tiene una fatiga o una caída más importante y de esta forma previniendo lesiones.",
+      "keywords": [
+        "rotaciones",
+        "minuto-60",
+        "hmld",
+        "metabolic-load-distance",
+        "insulina",
+        "fatiga-en-partido"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Decisión",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿En qué minuto es óptimo rotar jugadores según los datos de HMLD?",
+        "¿Por qué caen los niveles de insulina y glucosa hacia el minuto 60 en un partido?"
+      ],
+      "related_terms": [
+        "distribución de minutos",
+        "metabolic load distance",
+        "caída de insulina"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del duro contexto de viajes y clima en la MLS.",
+      "context_after": "Se presenta otra estrategia para compensar la fatiga en la MLS: el día libre intermedio."
+    },
+    {
+      "id": "V02-028",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:50:18",
+      "end_timestamp": "00:52:26",
+      "start_seconds": 3018,
+      "end_seconds": 3146,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=3018",
+      "title": "Modificación del Microciclo: Cortar la semana en MLS",
+      "summary": "Dadas las exigencias de viaje, una práctica habitual en la MLS es modificar el microciclo estándar dando el día MD-3 libre para titulares, e intensificando el trabajo en el MD-4 para simular dinámicas de semanas con doble partido. Los suplentes, sin embargo, deben seguir entrenando.",
+      "literal_quote": "Existen diferentes cuerpos técnicos y preparadores físicos que comparten esta idea... el cual es tener un día libre entre semana o cortar la semana. [...] Algunas veces se corta la semana en el menos tres, es decir, se trabaja menos cuatro, menos tres libre.",
+      "full_transcript": "Como otra estrategia, la planificación de microciclos. Vemos el microciclo uno, que es un microciclo muy normal... Algo que yo he notado mucho en mi experiencia aquí en la MLS. Existen diferentes cuerpos técnicos y preparadores físicos que comparten esta idea, principalmente aquí en Estados Unidos, el cual es tener un día libre entre semana o cortar la semana. Menciono esto, muy importante, depende en función del contexto, cuerpo técnico, ideología, metodología, pero es algo que yo he notado bastante. Algunas veces se corta la semana en el menos tres, es decir, se trabaja menos cuatro, menos tres libre. Libre para los jugadores que vienen participando en los partidos regularmente y los otros jugadores vienen a hacer un trabajo opcional o en función de cada contexto. O el microciclo tercero, que sería trabajar e iniciar la semana menos cuatro, menos tres. Los menos tres suelen ser más altos de lo que sería una semana normal... simulando más o acercándose más a lo que se puede presentar en una semana con dos partidos. Entonces, tienen un incremento de carga, pero gestionándolo con una recuperación posterior, el siguiente día dando libre... Muchas veces de estos días libres... los que no vienen jugando tendrían que trabajar, sobre todo aquellos jugadores jóvenes.",
+      "keywords": [
+        "dia-libre",
+        "cortar-semana",
+        "mls",
+        "md-3",
+        "titulares",
+        "suplentes",
+        "microciclo-modificado"
+      ],
+      "entities": [
+        "MLS",
+        "Estados Unidos"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Decisión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué en la MLS se suele dar un día libre a mitad de semana?",
+        "¿Qué deben hacer los suplentes en el día libre otorgado a los titulares?"
+      ],
+      "related_terms": [
+        "planificación de microciclos",
+        "jugadores jóvenes",
+        "simulación doble partido"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las rotaciones durante los partidos basándose en métricas.",
+      "context_after": "Se detalla cómo lograr que los suplentes alcancen la carga física requerida."
+    },
+    {
+      "id": "V02-029",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:52:27",
+      "end_timestamp": "00:54:27",
+      "start_seconds": 3147,
+      "end_seconds": 3267,
+      "duration_seconds": 120,
+      "timestamp_url": "?t=3147",
+      "title": "Compensación indispensable en jugadores no titulares",
+      "summary": "Es crítico someter a los jugadores de pocos minutos a trabajo compensatorio pospartido o en hotel (microdosis), enfocado a variables de alta intensidad (High Speed Running y Sprint). Estas sesiones analíticas cortas de 10-15 mins pueden replicar el 60% de la carga del partido y proteger frente a lesiones.",
+      "literal_quote": "Tomando en cuenta que el sprint es uno de los ejercicios más importantes para prevenir lesiones... Toma más relevancia esta gestión de poder compensar estímulos de alta intensidad... en donde aproximadamente entre 10 a 15 minutos se puede alcanzar un 60 % de lo que se realiza en partido.",
+      "full_transcript": "También dentro de la planificación de microciclos podemos observar los trabajos compensatorios tanto de fuerza como en cancha a nivel de microdosis, trabajos en el hotel, por esta gestión de la logística de los viajes, del calendario, incluyendo el trabajo compensatorio pospartido, el cual es muy importante. Entonces, aquí en esta semana, en esta pequeña gráfica, vemos dos partidos por semana y en este artículo se identifica en un color gris suave los jugadores que vienen jugando regularmente y una comparativa contra aquellos que no participan mucho con el equipo suplente... Aquí vemos que las variables de mayor diferencia serían las variables de alta intensidad, por lo que estas variables se convertirían en las variables más importantes para compensar. Tomando en cuenta que el sprint es uno de los ejercicios más importantes para prevenir lesiones por esta alta activación del bíceps femoral... Toma más relevancia esta gestión de poder compensar estímulos de alta intensidad. Aquí muestro diferentes propuestas, el cual nos permite entender que a nivel analítico se puede compensar estas variables de alta intensidad, estos sprints, estas variables de HSR, de high speed running, en donde aproximadamente entre 10 a 15 minutos se puede alcanzar un 60 % de lo que se realiza en partido. Obviamente entendemos que esto es a nivel analítico, pero esto no le quita importancia.",
+      "keywords": [
+        "trabajo-compensatorio",
+        "suplentes",
+        "microdosis",
+        "hsr",
+        "high-speed-running",
+        "sprint",
+        "pospartido"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué es clave el sprint para los jugadores suplentes después del partido?",
+        "¿Qué porcentaje del esfuerzo de un partido se puede simular en 15 minutos compensatorios?"
+      ],
+      "related_terms": [
+        "equipo suplente",
+        "variables de alta intensidad",
+        "activación bíceps femoral"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los retos logísticos en los días libres para suplentes.",
+      "context_after": "Más ejemplos de microdosis durante viajes y pretemporadas."
+    },
+    {
+      "id": "V02-030",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:57:33",
+      "end_timestamp": "00:59:31",
+      "start_seconds": 3453,
+      "end_seconds": 3571,
+      "duration_seconds": 118,
+      "timestamp_url": "?t=3453",
+      "title": "Return to Play: Fase basal, Función y Entrenamiento Individual",
+      "summary": "El modelo Return to Play inicia con el baseline monitoring sano. Tras la lesión, la primera fase es el Return to Function (aislado, focalizado en caminar, mover sin dolor). Le sigue el Return to Training, que es el alta para entrenar pero de manera individual y limitada por restricciones clínicas.",
+      "literal_quote": "Cuando ocurre la lesión, encontramos posterior a la lesión cuatro fases... La primera sería el return to function, retorno a la funcionalidad. Es decir, el jugador está diferenciado del grupo... La prioridad aquí es tener esta función básica de poder mover... Cuando el jugador tiene esta alta, vemos que tiene el alta para el entrenamiento individual. Aquí ya vemos el retorno al entrenamiento, return to training.",
+      "full_transcript": "Hablando sobre el retorno a la competición de forma muy general. Este es un artículo que publicamos recientemente, el cual describe diferentes fases funcionales... Vemos desde el lado izquierdo antes de la lesión esta fase de baseline monitoring, es decir, se encuentra sano el jugador con participación completa, sin restricciones, se encuentra registrando un basal continuo, es decir, se monitoriza su carga... Cuando ocurre la lesión, encontramos posterior a la lesión cuatro fases... La primera sería el return to function, retorno a la funcionalidad. Es decir, el jugador está diferenciado del grupo, completamente separado. La prioridad aquí es tener esta función básica de poder mover, movilizarse, caminar, estirar, no tener dolor... sin entrar en este enfoque de entrenamiento con integración. Cuando el jugador tiene esta alta, vemos que tiene el alta para el entrenamiento individual. Aquí ya vemos el retorno al entrenamiento, return to training, con un estado limitado, claramente porque tiene ciertas restricciones que debe ir cumpliendo.",
+      "keywords": [
+        "rtp",
+        "return-to-play",
+        "baseline",
+        "return-to-function",
+        "return-to-training",
+        "restricciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las primeras fases tras una lesión en el fútbol profesional?",
+        "¿Qué diferencia hay entre Return to Function y Return to Training?"
+      ],
+      "related_terms": [
+        "retorno a la funcionalidad",
+        "entrenamiento individual",
+        "estado limitado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estrategias de pretemporada y cohesión de grupo en MLS.",
+      "context_after": "Se abordan las fases donde el jugador vuelve al grupo gradualmente."
+    },
+    {
+      "id": "V02-031",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "00:59:34",
+      "end_timestamp": "01:03:09",
+      "start_seconds": 3574,
+      "end_seconds": 3789,
+      "duration_seconds": 215,
+      "timestamp_url": "?t=3574",
+      "title": "Return to Play: Return to Sport, Carga Crónica y Competición",
+      "summary": "El Return to Sport reintroduce al jugador al grupo con progresión de tareas cognitivas y tácticas (desde circuitos de pase hasta rondos), buscando acumular carga crónica. Finalmente entra a la fase de Participación Completa y alta competitiva progresando en minutos de juego.",
+      "literal_quote": "Cuando el jugador tiene la alta para la reintegración al grupo... pasa al retorno al deporte... Empieza con tareas desde nivel menor específico a mayor especificidad... Después, la siguiente fase sería la fase de la participación completa... Y una vez supera o se considera que tiene esta carga crónica adecuada, pasa a lo que sería el alta para el entrenamiento completo con el grupo.",
+      "full_transcript": "Cuando el jugador tiene la alta para la reintegración al grupo, es decir, pasa al retorno al deporte... Creo que es importante darle esta gestión de carga y sobre todo de poder generar una carga crónica. Encontramos que a nivel de jugador, él se encuentra en una fase del estado especial... Empieza con tareas desde nivel menor específico a mayor especificidad. Un ejemplo muy simple sería introduciéndolo desde trabajo de circuito de balón, circuito de pases, que son ejercicios sin contacto, sin impacto. Allá ejercicios de mayor decisión, como rondos, como la progresión de juegos reducidos... Después, la siguiente fase sería la fase de la participación completa, es decir, ya puede realizar todas las tareas, pero con un volumen reducido... Estructuras como la carga mental, la carga cognitiva, la carga técnica, coordinativa. Aquí es importante darle al jugador ese espacio, ese tiempo, para que permita construir la especificidad y básicamente tener una adaptación a esta especificidad... Y una vez supera o se considera que tiene esta carga crónica adecuada, pasa a lo que sería el alta para el entrenamiento completo con el grupo, sin restricciones... Una vez que el jugador ya está participando en todas las tareas sin restricciones, tiene el alta para la progresión competitiva, la exposición con una progresión competitiva, es decir, va realizando diferente gestión de minutos de menor a mayor.",
+      "keywords": [
+        "return-to-sport",
+        "reintegracion",
+        "carga-cronica",
+        "participacion-completa",
+        "progresion-competitiva",
+        "carga-cognitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play"
+      ],
+      "content_type": [
+        "Proceso",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo se maneja el volumen y la carga cognitiva en la vuelta al grupo post lesión?",
+        "¿Qué es la progresión competitiva en el proceso de Return to Play?"
+      ],
+      "related_terms": [
+        "retorno al deporte",
+        "juegos reducidos progresivos",
+        "gestión de minutos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases de retorno a la funcionalidad y al entrenamiento.",
+      "context_after": "Se resume cómo la progresión sistémica se acopla a estas etapas."
+    },
+    {
+      "id": "V02-032",
+      "video_title": "Organización del entrenamiento en el fútbol profesional",
+      "speaker": "Enrique Martínez",
+      "start_timestamp": "01:06:06",
+      "end_timestamp": "01:07:00",
+      "start_seconds": 3966,
+      "end_seconds": 4020,
+      "duration_seconds": 54,
+      "timestamp_url": "?t=3966",
+      "title": "La brecha entre la ciencia deportiva y la realidad contextual",
+      "summary": "El alto rendimiento no siempre permite aplicar fielmente el manual. A menudo, las barreras económicas u organizativas exigen que los profesionales combinen su base científica con altísimas dosis de creatividad y adaptación para optimizar su entorno real.",
+      "literal_quote": "Sabemos que el alto rendimiento está condicionado por un contexto organizativo, un contexto económico... Muchas veces uno se encuentra con cosas que tal vez difieren dentro de lo que uno estudia en las ciencias del deporte... Ahí es donde entra mucho tanto la adaptación como la creatividad.",
+      "full_transcript": "Un segundo punto es hablando sobre los intereses en el alto rendimiento, muchas veces llamado la triste realidad. ¿Por qué? Porque sabemos que el alto rendimiento está condicionado por un contexto organizativo, un contexto económico, que forma parte de esta sostenibilidad. Muchas veces uno se encuentra con cosas que tal vez difieren dentro de lo que uno estudia en las ciencias del deporte, de los libros, del manual. Ahí es donde entra mucho tanto la adaptación como la creatividad, donde a partir de esta base del conocimiento, de entender cuáles son las diferentes estrategias y herramientas que se pueden utilizar, cómo aplicar esas estrategias en la mejor forma posible dentro del contexto en el que uno se encuentra.",
+      "keywords": [
+        "realidad",
+        "teoria",
+        "contexto",
+        "adaptacion",
+        "creatividad",
+        "ciencias-del-deporte"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la adaptabilidad para el preparador físico moderno?",
+        "¿Cómo afectan los factores económicos a la aplicación de la ciencia deportiva?"
+      ],
+      "related_terms": [
+        "alto rendimiento",
+        "contexto organizativo",
+        "sostenibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Recomendación de mantenerse en constante actualización y educación.",
+      "context_after": "Despedida final y cierre del webinar."
+    }
+  ]
+}
