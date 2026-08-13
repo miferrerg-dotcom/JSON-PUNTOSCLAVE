@@ -1,0 +1,600 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+    "speaker": "Joan Pérez",
+    "total_duration": "00:42:01",
+    "total_duration_seconds": 2521,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "00:00",
+      "end_timestamp": "04:19",
+      "start_seconds": 0,
+      "end_seconds": 259,
+      "duration_seconds": 259,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y el problema de los datos aislados",
+      "summary": "Joan Pérez presenta el objetivo de ir más allá de los datos para entender al atleta [1, 2]. A pesar de contar con múltiples tecnologías como placas de fuerza y GPS, surge la necesidad de interpretar cómo se produce el movimiento, ya que atletas con métricas idénticas responden distinto al entrenamiento [3-5].",
+      "literal_quote": "Porque tener datos es bueno, necesario y valioso, pero entender al atleta son dos cosas muy diferentes [1, 2].",
+      "full_transcript": "Hola a todos, mi nombre es Joan Pérez [6]. Actualmente trabajo como director latinoamericano de rendimiento y salud de los jugadores para los New York Yankees [6]. Durante los últimos años he tenido la oportunidad de trabajar diariamente con una amplia variedad de recursos para ayudar a los atletas profesionales de béisbol, utilizando múltiples tecnologías de evaluación, como placas de fuerza, GPS, VVT y otros sistemas [3, 6]. Esta pregunta era: ¿cómo interpretamos realmente el movimiento humano? [1]. Porque tener datos es bueno, necesario y valioso, pero entender al atleta son dos cosas muy diferentes [1, 2]. Atletas con métricas muy similares respondían de forma completamente distinta al entrenamiento [4, 5].",
+      "keywords": [
+        "datos",
+        "evaluacion",
+        "placas-de-fuerza",
+        "gps",
+        "movimiento-humano"
+      ],
+      "entities": [
+        "Joan Pérez",
+        "New York Yankees"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Joan Pérez sobre el problema de basarse solo en datos?",
+        "¿Por qué atletas con métricas similares responden distinto al entrenamiento?",
+        "¿Qué tecnologías se mencionan para la evaluación del atleta?"
+      ],
+      "related_terms": [
+        "evaluación con placas de fuerza",
+        "interpretación del movimiento",
+        "recolección de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Explicación de las tres dimensiones fundamentales del movimiento: estructura, función y contexto."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "04:19",
+      "end_timestamp": "09:00",
+      "start_seconds": 259,
+      "end_seconds": 540,
+      "duration_seconds": 281,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=259",
+      "title": "Tres dimensiones del movimiento: Estructura, Función y Contexto",
+      "summary": "El rendimiento no se define por una sola evaluación, sino por la integración de tres dimensiones [7-9]. La estructura incluye el ángulo infraesternal y el historial de lesiones [10-12]. La función evalúa la expresión del movimiento mediante plataformas de fuerza y velocidad [13-15]. El contexto abarca las demandas deportivas, la edad de entrenamiento y la recuperación [15-17].",
+      "literal_quote": "Uno de los errores más comunes en el alto rendimiento es intentar explicar al atleta desde una sola fuente de información, desde ese dato [8].",
+      "full_transcript": "Porque ninguna evaluación por sí sola define al atleta [7]. Uno de los errores más comunes en el alto rendimiento es intentar explicar al atleta desde una sola fuente de información, desde ese dato [8]. Por eso empecé a pensar en tres dimensiones: la estructura, la función y el contexto [9, 10]. Aquí integro elementos como el ángulo infraesternal, que básicamente nos dice cómo la estructura está constituida biomecánicamente [10, 11]. El historial de lesiones es muy importante [12]. La función nos muestra básicamente cómo expresa ese movimiento [13]. Dentro de la función, nosotros valoramos a través de las plataformas de fuerza muchos indicadores relacionados con la velocidad y la fuerza [14]. El contexto nos ayuda a entender básicamente por qué se comporta de esa manera, cuáles son las demandas deportivas [15]. La edad de entrenamiento y la capacidad de aprendizaje son sumamente importantes [16].",
+      "keywords": [
+        "estructura",
+        "funcion",
+        "contexto",
+        "angulo-infraesternal",
+        "evaluacion"
+      ],
+      "entities": [
+        "Ángulo infraesternal",
+        "Plataformas de fuerza"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres dimensiones del movimiento humano?",
+        "¿Qué incluye la dimensión de estructura en el perfil del atleta?",
+        "¿Por qué es importante el contexto al evaluar a un deportista?"
+      ],
+      "related_terms": [
+        "dimensiones del atleta",
+        "ángulo infraesternal",
+        "historial de lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Identificación de que el dato aislado no explica la respuesta del atleta al entrenamiento.",
+      "context_after": "Se define cómo la integración de estas tres dimensiones da origen a la firma del movimiento."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "09:00",
+      "end_timestamp": "11:15",
+      "start_seconds": 540,
+      "end_seconds": 675,
+      "duration_seconds": 135,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=540",
+      "title": "La firma del movimiento (Movement Signature)",
+      "summary": "La integración de las dimensiones crea una firma de movimiento única para cada atleta [18]. Se cita evidencia científica para afirmar que los datos aislados son insuficientes, promoviendo un cambio de paradigma hacia entender cómo el sistema organiza la producción de fuerza [19-21].",
+      "literal_quote": "Los datos no generan comprensión, la integración sí [22].",
+      "full_transcript": "Cuando integramos estas tres dimensiones de la estructura, de la función y del contexto, aparece algo nuevo, que es una firma del movimiento o lo que yo llamo el 'movement signature' [18]. Los datos no generan comprensión, la integración sí [22]. Si nosotros logramos integrar estos tres aspectos fundamentales, vamos a lograr tener un entendimiento más claro de la serie de fotografías que conforman la película entera del atleta [19, 22]. Suchomel y colaboradores en 2016 ya planteaban la necesidad de interpretar el rendimiento más allá de variables aisladas [19, 20]. Hoy tenemos más capacidad de medición que nunca, pero la comprensión sigue dependiendo de la interpretación [20, 23]. Yo quiero proponer otra pregunta: ¿cómo organiza su sistema para producir esa fuerza? [21].",
+      "keywords": [
+        "movement-signature",
+        "firma-de-movimiento",
+        "integracion",
+        "paradigma"
+      ],
+      "entities": [
+        "Suchomel",
+        "Comfort"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es la firma del movimiento según Joan Pérez?",
+        "¿Cómo se logra una comprensión real del rendimiento del atleta?",
+        "¿Qué proponen los estudios científicos sobre las métricas aisladas?"
+      ],
+      "related_terms": [
+        "integración de datos",
+        "organización del sistema neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las tres dimensiones fundamentales del movimiento: estructura, función y contexto.",
+      "context_after": "Profundización en la diferencia entre el resultado de la fuerza y la estrategia de movimiento mediante la curva de fuerza y tiempo."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "11:15",
+      "end_timestamp": "15:20",
+      "start_seconds": 675,
+      "end_seconds": 920,
+      "duration_seconds": 245,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=675",
+      "title": "Estrategia vs Resultado en la Curva de Fuerza-Tiempo",
+      "summary": "La fuerza es una consecuencia, mientras que el movimiento es la estrategia elegida por el cuerpo [21]. Analizar la curva de fuerza-tiempo permite observar el comportamiento, ritmo y sincronización durante las diferentes fases de un salto en contramovimiento (CMJ) [24-26].",
+      "literal_quote": "Porque la fuerza es una consecuencia y el movimiento es la estrategia [21].",
+      "full_transcript": "Porque la fuerza es una consecuencia y el movimiento es la estrategia [21]. Cuando observamos únicamente el resultado final, perdemos información crítica sobre esa solución que se está utilizando [27]. Una firma de movimiento es la forma única en que un atleta organiza y expresa a lo largo del tiempo ese movimiento [24]. No es una métrica, es un comportamiento [24]. Por eso dos atletas pueden compartir resultados similares y poseer firmas completamente diferentes [25]. Corney et al. en 2011, McMahon et al. en el 2018 y Garric Col et al. en 2015 describieron muy bien y básicamente nos plantean que dejemos de observar números y empecemos a observar comportamiento [28, 29]. La curva nos permite observar la estrategia [26]. Básicamente, aquí podemos observar cómo las curvas nos van dando información fase por fase del salto en contramovimiento [26].",
+      "keywords": [
+        "curva-fuerza-tiempo",
+        "estrategia",
+        "resultado",
+        "comportamiento",
+        "contramovimiento"
+      ],
+      "entities": [
+        "Corney et al.",
+        "McMahon et al.",
+        "Garric Col et al."
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué es importante analizar la curva de fuerza-tiempo?",
+        "¿Cuál es la diferencia entre el resultado y la estrategia de movimiento?",
+        "¿Qué revela un salto en contramovimiento (CMJ) analizado por fases?"
+      ],
+      "related_terms": [
+        "salto en contramovimiento",
+        "estrategia neuromuscular",
+        "análisis de curvas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se define cómo la integración de estas tres dimensiones da origen a la firma del movimiento.",
+      "context_after": "Se presenta un ejemplo visual comparando dos atletas con resultados iguales pero estrategias diferentes."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "15:20",
+      "end_timestamp": "18:40",
+      "start_seconds": 920,
+      "end_seconds": 1120,
+      "duration_seconds": 200,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=920",
+      "title": "Mismo resultado, diferente estrategia de movimiento",
+      "summary": "Dos atletas pueden presentar métricas casi idénticas en altura de salto, velocidad pico y RSI, pero mostrar curvas completamente distintas [30-32]. Debido a que la estrategia de estabilización y generación de fuerza difiere significativamente, la prescripción de entrenamiento no puede ser la misma para ambos [33-35].",
+      "literal_quote": "El resultado es similar, pero la solución no [30].",
+      "full_transcript": "Un mismo resultado, diferente estrategia [36]. Resultados similares no implican soluciones de movimiento similares [36]. Si nosotros utilizamos la altura del salto para comparar el atleta A con el atleta B, vemos que la diferencia es de 0.01, casi nada [30]. El 'peak velocity' o la velocidad pico del atleta A en comparación con el atleta B es de -0.03 [30, 31]. La conclusión sería muy fácil de observar: son prácticamente iguales [31]. Pero cuando observamos la curva, vemos algo completamente diferente [31, 32]. El atleta A depende más de una estrategia, el atleta B depende de otra [33]. El resultado, como ya lo vimos, es muy parecido [33]. Y si la solución es diferente, entonces la intervención también debería de ser diferente y es por eso que no podemos entrenar a dos atletas que tienen resultados similares bajo la misma programación [33, 34]. Si nosotros observamos en la fase de descarga, un atleta tiene mayor profundidad o DEP en la preparación de su salto, en la fase de frenado, que es la absorción de fuerza y el control de la desaceleración [34, 35].",
+      "keywords": [
+        "estrategia-diferente",
+        "intervencion",
+        "programacion",
+        "asimetrias",
+        "frenado"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo dos atletas con la misma altura de salto pueden requerir entrenamientos diferentes?",
+        "¿Qué información aporta la fase de descarga y frenado en el análisis?",
+        "¿Por qué es peligroso programar basándose solo en los resultados finales?"
+      ],
+      "related_terms": [
+        "individualización del entrenamiento",
+        "fase de propulsión",
+        "absorción de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Profundización en la diferencia entre el resultado de la fuerza y la estrategia de movimiento mediante la curva de fuerza y tiempo.",
+      "context_after": "Se categorizan las diferentes estrategias de movimiento en cuatro perfiles principales."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "18:40",
+      "end_timestamp": "23:57",
+      "start_seconds": 1120,
+      "end_seconds": 1437,
+      "duration_seconds": 317,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1120",
+      "title": "Clasificación: Los 4 perfiles de movimiento",
+      "summary": "Se identifican cuatro tendencias temporales de movimiento: adaptativo, estable, compensatorio y caótico [37-39]. Los perfiles adaptativos y estables manejan mejor tareas complejas [40, 41]. Los perfiles compensatorios ocultan asimetrías y riesgos, mientras que los caóticos tienen alta variabilidad ineficiente, por lo que ambos requieren mayor atención y estabilización previa [42-45].",
+      "literal_quote": "Estos perfiles no son diagnósticos, no son categorías rígidas, son tendencias que he observado a través del tiempo [38, 39].",
+      "full_transcript": "Los perfiles de movimiento que nos arroja esta interpretación son cuatro y pueden variar de uno a otro [37]. No son etiquetas permanentes. Se espera que estos perfiles, a través del tiempo, cambien con las intervenciones [38]. Estos perfiles no son diagnósticos, no son categorías rígidas, son tendencias que he observado a través del tiempo [38, 39]. Un individuo puede, en un momento, mostrar un perfil adaptativo, estable, compensatorio o caótico [39]. En el perfil adaptativo, la variabilidad es muy eficiente, se adapta a las exigencias [40]. En el perfil estable, este marco nos dice que es un atleta bien consistente y predecible para las tareas [41, 46]. Por su parte, en la parte inferior o baja, vemos patrones compensatorios, son patrones de ineficiencia [42]. Asimetrías ocultas en este individuo [42]. El caótico es la parte más baja de nuestro eje, donde la alta variabilidad es algo constante, el control del movimiento es muy bajo [44]. Debemos estar atentos es en los individuos con perfiles compensatorios y caóticos, dado que son los perfiles que tienen más riesgo debido a las exposiciones en su tarea deportiva [45, 47].",
+      "keywords": [
+        "perfiles-de-movimiento",
+        "adaptativo",
+        "estable",
+        "compensatorio",
+        "caotico"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Clasificación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cuatro perfiles de movimiento sugeridos?",
+        "¿Por qué los perfiles compensatorio y caótico tienen un mayor riesgo de lesión?",
+        "¿Son fijos o modificables los perfiles de movimiento de un atleta?"
+      ],
+      "related_terms": [
+        "estabilidad neuromuscular",
+        "perfil compensatorio",
+        "prevención de lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presenta un ejemplo visual comparando dos atletas con resultados iguales pero estrategias diferentes.",
+      "context_after": "Se describe cómo construir un sistema que conecte las evaluaciones con la programación de entrenamientos adaptados a cada perfil."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "23:57",
+      "end_timestamp": "27:54",
+      "start_seconds": 1437,
+      "end_seconds": 1674,
+      "duration_seconds": 237,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1437",
+      "title": "Intervenciones para perfiles Adaptativo y Estable",
+      "summary": "Para los atletas con perfiles adaptativos o estables se construyen estrategias específicas [48, 49]. El adaptativo (ISA dinámico, buen aprendizaje) se beneficia de tareas complejas, variabilidad, contrastes y pliometría [50, 51]. El estable (ISA comprimido, tendencia a plató) requiere añadir contexto y exploración, como sprints inestables y estímulos multiplanares [52-54].",
+      "literal_quote": "Un perfil adaptativo o un mover adaptativo generalmente se correlaciona con un ISA dinámico que puede variar entre wide o narrow [49, 50].",
+      "full_transcript": "En la construcción del sistema tenemos en una columna todos nuestros pilares que estamos observando [48]. Un perfil adaptativo o un mover adaptativo generalmente se correlaciona con un ISA dinámico que puede variar entre wide o narrow [49, 50]. Este individuo aprende rápido y es estable bajo variabilidad [50, 51]. Las decisiones de entrenamiento van orientadas a la variabilidad y velocidad de la fuerza. Por ejemplo, saltos en contraste, lanzamientos pliométricos y ejercicios reactivos [51]. Un stable mover o un perfil estable generalmente se correlaciona con un ángulo infraesternal comprimido, neutral o estrecho [52]. Generalmente, su tendencia es plató o en alza [53]. Una mecánica de movimiento en general sólida, pero con poca exploración [53]. A este individuo, dentro de la estrategia de movimiento, se le puede añadir más contexto enfatizando en la coordinación [53, 54]. Podemos arrancar desde sprints inestables o trabajos en diferentes planos de movimiento [54].",
+      "keywords": [
+        "isa",
+        "angulo-infraesternal",
+        "entrenamiento-complejo",
+        "pliometria",
+        "perfil-adaptativo"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Proceso",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se debe entrenar a un atleta con perfil adaptativo?",
+        "¿Qué estrategias funcionan mejor para un atleta estable con tendencia al estancamiento?",
+        "¿Qué relación tiene el ángulo infraesternal con la selección de ejercicios?"
+      ],
+      "related_terms": [
+        "saltos en contraste",
+        "sprints inestables",
+        "ángulo infraesternal dinámico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se categorizan las diferentes estrategias de movimiento en cuatro perfiles principales.",
+      "context_after": "Se detallan las intervenciones correctivas necesarias para los perfiles compensador y caótico."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "27:54",
+      "end_timestamp": "29:26",
+      "start_seconds": 1674,
+      "end_seconds": 1766,
+      "duration_seconds": 92,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1674",
+      "title": "Estrategias de reconstrucción para perfiles Compensador y Caótico",
+      "summary": "Estos perfiles pueden mostrar resultados altos (high output) pero esconden una baja organización interna y déficits de fuerza excéntrica/frenado [55, 56]. Las intervenciones buscan reconstruir estrategias respiratorias, posturales y de control motor mediante ejercicios como sentadillas en tempo, trabajo bajo tensión (TUT) y aterrizajes de baja amplitud [56-58].",
+      "literal_quote": "Para este individuo, reconstruir la estrategia, por ejemplo, respiratoria, postural y de control motor... son los objetivos a tomar en nuestras decisiones [56, 57].",
+      "full_transcript": "Un perfil compensador o caótico tiene un ISA amplio que puede variar de wide a narrow a neutral [55]. Puede que tenga o no un RSI bajo de alta asimetría, y puede que tenga una gran caída, muy probablemente en el RFD, en sus fuerzas de frenado, pero con alta salida, con una baja organización interna [56]. Para este individuo, reconstruir la estrategia, por ejemplo, respiratoria, postural y de control motor, como sentadillas en tempo, Romanian deadlift en tempo o entrenamiento bajo tensión, son los objetivos a tomar en nuestras decisiones [56, 57]. Cuando viene la selección de ejercicios, debemos seleccionar ejercicios que impacten esta modalidad de entrenamiento y que los aterrizajes sean de baja amplitud o de baja intensidad, ayudando a que este atleta se organice mucho mejor [57, 58].",
+      "keywords": [
+        "perfil-compensatorio",
+        "control-motor",
+        "rfd",
+        "fuerza-de-frenado",
+        "tempo-training"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Decisión",
+        "Intervención"
+      ],
+      "search_questions": [
+        "¿Qué tipo de entrenamiento se recomienda para un atleta con perfil compensatorio?",
+        "¿Cómo abordar la baja organización interna en el salto?",
+        "¿Por qué se recomiendan los aterrizajes de baja amplitud para perfiles caóticos?"
+      ],
+      "related_terms": [
+        "entrenamiento bajo tensión",
+        "sentadillas en tempo",
+        "fuerzas excéntricas de frenado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan las intervenciones correctivas necesarias para los perfiles compensador y caótico.",
+      "context_after": "Presentación de un caso real de un jugador de béisbol para ilustrar la evaluación y corrección del perfil."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "29:26",
+      "end_timestamp": "32:08",
+      "start_seconds": 1766,
+      "end_seconds": 1928,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1766",
+      "title": "Caso Real: Perfil inicial de un jugador de béisbol",
+      "summary": "Se expone el caso de un atleta profesional en transición (onboarding) que presenta un perfil compensatorio con alto 'output' [59-61]. Su evaluación detectó limitaciones biomecánicas, rotación restringida y una alta dependencia de las caderas en la transferencia de fuerzas [62-64].",
+      "literal_quote": "Produce resultados elevados, utiliza compensaciones para lograrlo, tiene excelente capacidad competitiva y movimientos menos eficientes de lo que sugieren sus métricas [60, 61].",
+      "full_transcript": "Esto es un caso real. Hablaremos de este individuo, un atleta de béisbol profesional con un perfil compensatorio con un high output [58, 59]. En su perfil inicial encontramos que es un arquetipo estrecho del ángulo infraesternal con una estrategia compensatoria y un high output [59, 60]. Produce resultados elevados, utiliza compensaciones para lograrlo, tiene excelente capacidad competitiva y movimientos menos eficientes de lo que sugieren sus métricas [60, 61]. Está en una fase de 'onboarding'; es su primer año de transición profesional [61]. Encontramos que es un Narrow ASA... con una dorsiflexión limitada dentro del rango de movimiento y una rotación torácica restringida [62, 63]. Sabremos lo importante que la dorsiflexión y la rotación torácica son para un lanzador [63]. Sin embargo, su dependencia es completamente de las caderas [64]. Su rendimiento es de 47 centímetros de jump height, una peak velocity de 3.11 metros sobre segundo [64].",
+      "keywords": [
+        "caso-real",
+        "beisbol",
+        "alta-produccion",
+        "restricciones-movilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cómo identificar un perfil compensatorio con alto rendimiento?",
+        "¿Qué limitaciones específicas presentó el lanzador de béisbol del caso real?",
+        "¿De qué manera las restricciones torácicas afectan a la estrategia de movimiento?"
+      ],
+      "related_terms": [
+        "ángulo infraesternal estrecho",
+        "restricción de dorsiflexión",
+        "transferencia de fuerza desde la cadera"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación de las intervenciones teóricas para los perfiles de movimiento.",
+      "context_after": "Se muestran visualmente las curvas de la firma de movimiento inicial del atleta del caso."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "32:08",
+      "end_timestamp": "33:50",
+      "start_seconds": 1928,
+      "end_seconds": 2030,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1928",
+      "title": "Caso Real: Análisis de la firma de movimiento inicial",
+      "summary": "Las gráficas del salto inicial muestran marcadas deficiencias mecánicas, transferencia lenta de fuerza y asimetrías acentuadas entre ambas piernas [65, 66]. Se reitera que el objetivo no es cambiar quién es el atleta, sino comprender su comportamiento para mejorar la eficiencia del movimiento [67].",
+      "literal_quote": "Lo que estamos intentando hacer es entender cómo se comporta ese perfil y cómo él genera ese movimiento [67].",
+      "full_transcript": "Aquí podemos observar en la fase del salto en contramovimiento, comparando su pierna izquierda con la derecha [68]. Aquí podemos ver cómo en el antes hay una estrategia compensatoria [65]. Hay restricciones elevadas debido a la generación que está ocasionando las restricciones de la dorsiflexión y la rotación torácica [65]. Sin embargo, podemos observar cómo sí tiene su 'high output' presente, pero con una deficiencia mecánica en el movimiento, donde él transfiere de una forma más lenta la fuerza y la velocidad [65, 66]. Aquí podemos observar también cómo las líneas nos dicen la diferenciación de cuánta fuerza ejerce a nivel de simetría con la pierna izquierda en comparación con la pierna derecha, lo cual puede ser una característica de dominancia o una estrategia que él utiliza para generar este salto [66, 67]. Recuerden, nosotros no estamos intentando cambiar perfiles [67]. Lo que estamos intentando hacer es entender cómo se comporta ese perfil y cómo él genera ese movimiento [67].",
+      "keywords": [
+        "curvas-de-fuerza",
+        "asimetrias",
+        "estrategia-compensatoria",
+        "deficiencia-mecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué revelan las gráficas de fuerza-tiempo iniciales del jugador del caso?",
+        "¿Cómo se visualiza una estrategia compensatoria en una prueba bilateral?",
+        "¿Cuál es el objetivo real al analizar el perfil de movimiento de un atleta?"
+      ],
+      "related_terms": [
+        "déficit de transferencia",
+        "análisis de asimetrías inter-pierna"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se exponen los datos y el contexto del atleta compensatorio.",
+      "context_after": "Se detalla el programa de entrenamiento de 12 semanas aplicado para mejorar esta firma de movimiento."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "33:50",
+      "end_timestamp": "35:50",
+      "start_seconds": 2030,
+      "end_seconds": 2150,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2030",
+      "title": "Caso Real: Intervención de 12 semanas y reevaluación",
+      "summary": "El programa se orientó a la movilidad torácica, control en plano frontal y reposicionamiento respiratorio, sin buscar aumentar el output de forma forzada [69, 70]. Tras 12 semanas, la nueva firma evidenció menor asimetría gráfica, menos fuerzas de frenado, transferencias veloces y, como consecuencia, una mejora resiliente de sus métricas de rendimiento [71-73].",
+      "literal_quote": "La estrategia cambió primero, el rendimiento fue la consecuencia [73].",
+      "full_transcript": "La estrategia de intervención en un programa de 12 semanas estaba dirigida a tener movimientos intencionados, a mejorar la movilidad torácica y la movilidad del tobillo, ejercicios respiratorios para ayudarlo al reposicionamiento, ejercicios orientados a mejorar el control en el plano frontal, ejercicios de transferencia de fuerza y un programa de fuerza basado en el perfil compensatorio con un objetivo no de aumentar el 'output', sino más bien de mejorar la estrategia que genera ese 'output' [69, 70]. 12 semanas después, en el mismo salto en contramovimiento, cómo las líneas de movimiento o su estrategia fueron achicándose y fueron mejorándose [71]. En su nueva firma tiene menores fuerzas de frenado, tiene mayores transferencias y de forma más rápida, su producción de fuerza es más eficiente y tiene mejor distribución de los esfuerzos [71]. Las métricas clave que estábamos siguiendo eran la altura del salto. Pudimos ver cómo mejoraron en niveles de porcentaje las fuerzas propulsivas, la peak velocity y el MRCI [72]. En conclusión, el atleta mantuvo su alto rendimiento, pero con una estrategia de movimiento más eficiente y resiliente que se traduce en salud [72, 73]. La estrategia cambió primero, el rendimiento fue la consecuencia [73].",
+      "keywords": [
+        "intervencion",
+        "movilidad-toracica",
+        "fuerza-propulsiva",
+        "resiliencia",
+        "resultados"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Resultados"
+      ],
+      "search_questions": [
+        "¿En qué se enfocó el programa de 12 semanas aplicado al jugador de béisbol?",
+        "¿Cuáles fueron los resultados mecánicos tras la intervención en el perfil compensatorio?",
+        "¿Cómo afecta el control del plano frontal a la estrategia de rendimiento?"
+      ],
+      "related_terms": [
+        "disminución de fuerzas de frenado",
+        "reposicionamiento respiratorio",
+        "mejoras del MRCI"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan los problemas hallados en la firma de movimiento inicial del jugador.",
+      "context_after": "Se resume la importancia de pasar del dato a la acción en la planificación general."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "35:50",
+      "end_timestamp": "39:35",
+      "start_seconds": 2150,
+      "end_seconds": 2375,
+      "duration_seconds": 225,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2150",
+      "title": "De los datos a la acción: Plan y construcción de sistemas",
+      "summary": "Toda evaluación debe influir en las decisiones de programación; si no, es solo un dato interesante [74]. Se propone organizar a los atletas en canastas o categorías ('buckets') para asegurar transiciones progresivas desde patrones compensatorios hasta lograr el control [75, 76]. El alto rendimiento exige dejar de leer únicamente las métricas para pasar a interpretar los comportamientos complejos subyacentes [77-79].",
+      "literal_quote": "Si una evaluación no modifica una decisión de entrenamiento, pensamos que solamente es una información interesante [74].",
+      "full_transcript": "Vamos de los datos a la acción. Y la pregunta es: ¿qué hago mañana? [74]. Si una evaluación no modifica una decisión de entrenamiento, pensamos que solamente es una información interesante [74]. Es bueno recordar que cuando nosotros valoramos... es importante que tengamos una clasificación o lo que se conoce como canastas o 'buckets', donde tengamos perfiles de movimiento y cuáles son esas tendencias a lo largo del tiempo [75]. Lo que nos va a llevar a tener una programación donde haya variabilidad adaptativa, tengamos opciones estables, expansión y reequilibrios, donde vayamos de compensatorio a control y no a caótico [76]. Lo que propongo es algo mucho más simple: comenzar a observar el movimiento antes que las métricas [77]. Las métricas son datos valiosos, cuantificables y utilizables, pero no son la respuesta final [78]. Debemos tener claro que en el alto rendimiento dos más dos no siempre es cuatro [78]. Los resultados no siempre son lineales [78]. Una de las ventajas que he encontrado en la interpretación con el uso de las plataformas de fuerza es que nos proveen de la habilidad de leer e interpretar de una manera confiable, segura y lógica cómo es este comportamiento [79, 80].",
+      "keywords": [
+        "plan-de-accion",
+        "decisiones",
+        "clasificacion",
+        "canastas",
+        "buckets"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo se considera que una evaluación carece de utilidad real?",
+        "¿Por qué se propone agrupar a los deportistas en perfiles o 'buckets'?",
+        "¿Cuál es el valor real de las plataformas de fuerza en la programación?"
+      ],
+      "related_terms": [
+        "transición de compensatorio a control",
+        "sistemas de clasificación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Fin de la exposición de un caso práctico completo.",
+      "context_after": "Se contrastan las estrategias exitosas y los errores comunes en el análisis de deportistas."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+      "speaker": "Joan Pérez",
+      "start_timestamp": "39:35",
+      "end_timestamp": "42:01",
+      "start_seconds": 2375,
+      "end_seconds": 2521,
+      "duration_seconds": 146,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2375",
+      "title": "Conclusiones: Lo que funcionó y lo que no",
+      "summary": "Integrar el perfilado de movimiento, conectar datos con observaciones técnicas y comunicarse de forma sencilla fue efectivo [81, 82]. En contraparte, basarse excesivamente en métricas aisladas y tratar a todos los atletas por igual representó un error clave [83]. Se concluye recordando que las herramientas de evaluación no miden al atleta, sino que muestran cómo este resuelve un desafío motriz [84, 85].",
+      "literal_quote": "La curva de fuerza y tiempo no mide al atleta, revela cómo resuelve el problema [84].",
+      "full_transcript": "Dentro de las cosas que sucedieron o que funcionaron... utilizar curvas de fuerza y tiempo para entender la estrategia, no solo la salida, clasificar a los atletas según sus perfiles de movimiento, integrar los datos con la observación del coaching y comunicar los hallazgos en un lenguaje sencillo y práctico [81, 82]. Hay un refrán en inglés que me gusta bastante, que es: 'Keep the main thing, the main thing' [82]. Lo que no funcionó, como un buen estudio observacional, la dependencia excesiva de métricas aisladas, por ejemplo, la altura del salto o la fuerza máxima, tratar a todos los deportistas igual a pesar de diferentes estrategias, ignorando la variabilidad y el contexto [82, 83]. Nuestros entrenadores quieren información sobre el rendimiento del atleta y mientras nosotros podamos simplificar más la información que les entregamos, será más beneficioso para el atleta [86]. Es importante formar al personal y alinear el lenguaje entre los departamentos [87]. Muchas gracias. Quería recordarles algo bien importante. La curva de fuerza y tiempo no mide al atleta, revela cómo resuelve el problema [84]. Dejamos de entrenar números, dejamos de entrenar datos y empezamos a desarrollar seres humanos y atletas de alto rendimiento [85].",
+      "keywords": [
+        "conclusiones",
+        "lenguaje-sencillo",
+        "resolucion-de-problemas",
+        "metricas-aisladas"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendaciones"
+      ],
+      "search_questions": [
+        "¿Cuáles son las prácticas exitosas en la interpretación del movimiento?",
+        "¿Qué fallos comunes deben evitarse en la evaluación deportiva?",
+        "¿Cuál es el propósito final de analizar curvas de fuerza-tiempo?"
+      ],
+      "related_terms": [
+        "comunicación interdepartamental",
+        "alineación del lenguaje técnico",
+        "desarrollo del atleta de alto rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalla la importancia de convertir datos en una verdadera programación adaptativa.",
+      "context_after": "Finalización de la exposición del webinar."
+    }
+  ]
+}
