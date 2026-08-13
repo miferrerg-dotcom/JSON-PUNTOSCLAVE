@@ -1,0 +1,243 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+    "speaker": "Francisco José Rivas",
+    "total_duration": "00:12:52",
+    "total_duration_seconds": 772,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:01:26",
+      "start_seconds": 5,
+      "end_seconds": 86,
+      "duration_seconds": 81,
+      "timestamp_url": "?t=5",
+      "title": "Progresión pliométrica y protección de la secuencia cinemática",
+      "summary": "El retorno al lanzamiento debe seguir una progresión estricta de pliometría: de cadena cerrada (dos a una mano, ej. explosive push up) a cadena abierta (ej. rebounders), finalizando en simulación deportiva. Esto prepara los tejidos y evita alteraciones perjudiciales en la mecánica natural del brazo.",
+      "literal_quote": "No queremos que la primera intención de lanzar una pelota del jugador sea con maña o ineficaz, que no simule la secuencia kinemática del brazo.",
+      "full_transcript": "El programa de retorno al lanzamiento debería incluir... pliométricos de cadena cerrada con dos manos, pliométricos de cadena cerrada con una mano, pliométricos de cadena abierta con dos manos y pliométricos de cadena abierta con una mano, terminando con una simulación deportiva... asegurarnos de ejercicios como el explosive push up, que es un ejercicio de cadena cerrada pliométrica con dos manos, progresar a un ejercicio de plyometric de cadena abierta, que es el standing one arm medicine ball rebounders. Como vemos aquí, estamos creando rotación externa y también estrés de valgus cuando la pelota regresa... Terminamos con una simulación del ejercicio, asegurándonos que sea restringido lo suficiente para crear una acción de brazo natural. No queremos que la primera intención de lanzar una pelota del jugador sea con maña o ineficaz, que no simule la secuencia kinemática del brazo.",
+      "keywords": [
+        "pliometria",
+        "cadena-cerrada",
+        "cadena-abierta",
+        "secuencia-kinematica",
+        "estres-valgus"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se deben progresar los ejercicios pliométricos antes de lanzar?",
+        "¿Por qué es importante restringir la simulación deportiva inicial del lanzamiento?",
+        "¿Qué estrés genera el uso de balones medicinales a una mano?"
+      ],
+      "related_terms": [
+        "pliométricos",
+        "cadena",
+        "cinemática",
+        "valgus",
+        "simulación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento WEBVTT-4. Continuación directa del plan de retorno con pliometría.",
+      "context_after": "Transición hacia el uso del enfoque basado en restricciones para regular las intensidades bajas y moderadas de pitcheo."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:01:27",
+      "end_timestamp": "00:05:01",
+      "start_seconds": 87,
+      "end_seconds": 301,
+      "duration_seconds": 214,
+      "timestamp_url": "?t=87",
+      "title": "Gestión de intensidades y enfoque basado en restricciones",
+      "summary": "Lanzar a baja intensidad (50%) desde el montículo arruina la mecánica. Se deben usar ejercicios que fuercen mecánicas apropiadas a esas velocidades. Si no hay radar, la intensidad se prescribe mediante distancia (60-90, 120-180, 180+ pies) y RPE, cuidando siempre que la dificultad del 'drill' coincida con el objetivo.",
+      "literal_quote": "Solo un recordatorio: considera la dificultad del drill que estamos seleccionando. No va a ser lo mismo lanzar 90 millas con una rodilla abajo, que lanzar 90 millas con un step behind.",
+      "full_transcript": "Consideraciones... usar el porcentaje de intensidad basada en velocidad máxima, teniendo en cuenta que es imposible lanzar con una buena secuencia kinemática a 50 %. Ahí es cuando empezamos a trabajar en el enfoque basado en restricciones... Cuando hablamos de intensidades... baja intensidad, entre 50 y 60 %; moderada, sería de 60 a 85 %; alta intensidad, sería entre 85 y 100 %. Solo un recordatorio: considera la dificultad del drill que estamos seleccionando... Si... no tienes acceso a un radar... hay una progresión subjetiva... Intensidades bajas serían entre 60 y 90 pies, intensidad moderada sería entre 120 y 180, e intensidad alta sería más de 180 pies. Igual que la progresión objetiva, tenemos que asegurarnos de que la dificultad del drill seleccionado imite la intensidad que estamos buscando... Si estamos buscando intensidad baja, sentarnos en el piso, lanzar arrodillado... Pero si tú le pides a un jugador lanzar desde el piso o arrodillado a 180 pies, quizás sea una intensidad muy alta... Tener esa conversación con el jugador donde él entiende el rate of perceived exertion... mantenerlo entre seis y siete para actividad moderada y cuatro a cinco para intensidad baja.",
+      "keywords": [
+        "intensidad",
+        "restricciones",
+        "distancia",
+        "rpe",
+        "drills"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cómo se mide la intensidad de lanzamiento sin un radar?",
+        "¿Por qué se modifica el tipo de drill según la intensidad de lanzamiento?",
+        "¿Qué distancias representan intensidades bajas y altas en rehabilitación?"
+      ],
+      "related_terms": [
+        "radar",
+        "distancia",
+        "rpe",
+        "esfuerzo",
+        "intensidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la progresión pliométrica desde cadenas cerradas a abiertas.",
+      "context_after": "Se detalla cómo el control de las restricciones (ej. lanzar de rodillas) ayuda a independizar el trabajo de diferentes segmentos corporales."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:05:32",
+      "end_timestamp": "00:07:20",
+      "start_seconds": 332,
+      "end_seconds": 440,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=332",
+      "title": "El reloj interno del lanzador y la progresión cinética",
+      "summary": "Aunque el radar ofrece feedback objetivo útil, su uso excesivo crea dependencia; el lanzador debe desarrollar un 'reloj interno' para percibir su intensidad (RPE). Físicamente, se progresa desde aislar el brazo limitando la rotación (kneeling throws) hasta integrar el cuerpo completo (step behind) para movimientos eficientes.",
+      "literal_quote": "Usar el radar mucho puede crear una dependencia del jugador en siempre tener algún tipo de feedback, que una vez cuando estén en el juego no lo van a tener. Ellos tienen que tener internamente un reloj de intensidad.",
+      "full_transcript": "El radar hace un buen cambio porque podemos en verdad controlar la intensidad... pero también usar el radar mucho puede crear una dependencia del jugador en siempre tener algún tipo de feedback, que una vez cuando estén en el juego no lo van a tener. Ellos tienen que tener internamente un reloj de intensidad... Un ejemplo de ejercicio que podemos usar basado en las restricciones: podemos empezar con un kneeling throws, en el cual el jugador restringe la parte de abajo, pero el torso tiene la capacidad de dirigir cierta parte... Después, podríamos progresar al jugador a hacer un Largo hop, que sería un poquito más dinámico... causando menos estrés en el brazo si estamos usando distancia entre 120 y 180 pies... Últimamente, queremos un ejercicio que nos ayude a sobrepasar el nivel de intensidad que vemos en el montículo. Uno de esos ejercicios puede ser el step behind, en el cual el jugador tiene más energía detrás de ello y le permite crear más velocidad en el brazo.",
+      "keywords": [
+        "radar",
+        "reloj-interno",
+        "feedback",
+        "kneeling-throws",
+        "step-behind"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué es malo depender excesivamente del radar en la rehabilitación?",
+        "¿Qué es el reloj de intensidad interno en béisbol?",
+        "¿Para qué sirve el ejercicio 'step behind' en pitchers?"
+      ],
+      "related_terms": [
+        "feedback",
+        "reloj",
+        "intensidad",
+        "kneeling",
+        "dinámico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Importancia de adecuar las distancias y los ejercicios (drills) al nivel de esfuerzo (RPE) exigido.",
+      "context_after": "Se avanza al plan definitivo de retorno a la competencia en el montículo y juegos simulados."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:07:21",
+      "end_timestamp": "00:10:22",
+      "start_seconds": 441,
+      "end_seconds": 622,
+      "duration_seconds": 181,
+      "timestamp_url": "?t=441",
+      "title": "Plan de retorno a competencia y sobrecarga de estrés tisular",
+      "summary": "Para asegurar la tolerancia tisular antes de subir al montículo de forma oficial, se utilizan ejercicios de alta energía (pull downs, turn and burns) que exceden el estrés convencional. Además, es obligatorio integrar el volumen de lanzamientos quebrados, que hoy en día tienen el mismo uso estadístico que la recta.",
+      "literal_quote": "Hay una variedad de ejercicios que podemos usar para exceder el estrés y la velocidad del brazo en el montículo, para asegurarnos de que los tejidos son capaces de aguantar el nivel de intensidad necesario.",
+      "full_transcript": "Ahí es cuando empezamos a introducir el plan de retorno a competencia. ¿Cuáles son los requerimientos físicos? Asegurarnos de que haya tocado el montículo con una fase de familiarización... Cuando el esfuerzo y el estrés han sobrepasado la velocidad en el montículo, se llaman fases de pull down, shuffle throws, drop step o turn and burns. Hay una variedad de ejercicios que podemos usar para exceder el estrés y la velocidad del brazo en el montículo, para asegurarnos de que los tejidos son capaces de aguantar el nivel de intensidad necesario... Asegurarnos de que tengan suficiente volumen con pitcheos secundarios. Como sabemos ahora, con analítica, el uso de pitcheos quebrados está casi al mismo nivel que la recta... asegurarse que los jugadores practiquen ese volumen... para que los tejidos estén preparados... La progresión es muy sencilla... progresión de intensidad o una progresión de volumen de bullpens basado en el rol del jugador, si es abridor o cerrador... es importante que esta progresión sea objetiva con sus respectivos deload o semanas de descarga... Y empezamos a integrarlos en los live BP... e incluso juegos simulados.",
+      "keywords": [
+        "pull-downs",
+        "estres-tisular",
+        "pitcheos-quebrados",
+        "juegos-simulados",
+        "deload"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se preparan los tejidos para las fuerzas del montículo de béisbol?",
+        "¿Por qué es importante lanzar pitcheos quebrados durante la rehabilitación?",
+        "¿Qué son las fases de pull down en el béisbol?"
+      ],
+      "related_terms": [
+        "montículo",
+        "estrés",
+        "velocidad",
+        "pitcheos",
+        "simulados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los ejercicios de progresión dinámica como el 'step behind' para exceder las intensidades convencionales.",
+      "context_after": "Conclusiones finales sobre el desfase entre las demandas reales del béisbol moderno y la literatura existente."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "Programa de retorno de lanzamientos y actualización de programas rehabilitativos",
+      "speaker": "Francisco José Rivas",
+      "start_timestamp": "00:10:23",
+      "end_timestamp": "00:12:52",
+      "start_seconds": 623,
+      "end_seconds": 772,
+      "duration_seconds": 149,
+      "timestamp_url": "?t=623",
+      "title": "Desfase evolutivo y necesidad de equipos multidisciplinares",
+      "summary": "El rendimiento en el béisbol ha superado a la literatura científica: los jóvenes lanzan mucho más fuerte a edades tempranas. Se requiere actualizar los protocolos y regulaciones deportivas (rosters, cargas), lo cual exige el soporte integrado de psicólogos, biomecánicos, nutricionistas y preparadores físicos.",
+      "literal_quote": "El rendimiento físico ha aumentado cada año... Sin embargo, lo que es la literatura y la práctica tienden a no estar a la par con la evolución del rendimiento. Los jugadores están lanzando más duro a muy temprana edad.",
+      "full_transcript": "En esta conclusión, empezamos a entender que el rendimiento físico ha aumentado cada año... Sin embargo, lo que es la literatura y la práctica tienden a no estar a la par con la evolución del rendimiento. Los jugadores están lanzando más duro a muy temprana edad. La revisión y actualización de estos protocolos es necesaria para que nosotros podamos diseñar mejores programas... colaborar a hacer cambios en regulaciones deportivas, cuánto un jugador de menor edad puede ser usado en un juego... más oportunidades de descanso, más abridores tienen que ser usados... expansión de los rosters... Por lo menos, en cualquier parte de rehabilitación siempre vamos a necesitar el soporte de un psicólogo, de un biomecánico y una nutricionista... En muchos casos, mayormente el strength coach toma el rol de todas estas áreas o el fisioterapeuta... pero es importante entender que cada persona tiene su rol en el aspecto de la rehabilitación... Gracias por asistir a esta sesión.",
+      "keywords": [
+        "literatura-cientifica",
+        "regulaciones-deportivas",
+        "multidisciplinar",
+        "desarrollo-temprano",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Por qué están desactualizados los protocolos de lesiones en béisbol?",
+        "¿Qué cambios normativos son necesarios para proteger a los lanzadores jóvenes?",
+        "¿Qué profesionales deben integrar un equipo de rehabilitación deportiva?"
+      ],
+      "related_terms": [
+        "rendimiento",
+        "literatura",
+        "regulaciones",
+        "multidisciplinar",
+        "biomecánico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación final de la reintegración a los juegos simulados y la monitorización de las cargas de lanzamientos.",
+      "context_after": "Cierre del webinar, agradecimientos a la organización y entrega de datos de contacto."
+    }
+  ]
+}
