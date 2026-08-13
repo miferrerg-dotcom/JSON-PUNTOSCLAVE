@@ -1,0 +1,467 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+    "speaker": "Fernando Guerrero",
+    "total_duration": "00:29:27",
+    "total_duration_seconds": 1767,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:00:25",
+      "end_timestamp": "00:01:49",
+      "start_seconds": 25,
+      "end_seconds": 109,
+      "duration_seconds": 84,
+      "timestamp_url": "?t=25",
+      "title": "Lanzamiento de DT Coach para el control de carga",
+      "summary": "Presentación de la aplicación DT Coach, que automatiza el control y cuantificación de la carga del entrenamiento de fuerza. Permite gestionar grandes bases de datos de deportistas con distintos niveles y objetivos.",
+      "literal_quote": "He podido integrar todo ese conocimiento de control y cuantificación de la carga, de forma que todo sea automático.",
+      "full_transcript": "Este verano, muy recientemente, he lanzado esta aplicación, por supuesto, con la ayuda de mi equipo, donde por fin he podido integrar todo ese conocimiento de control y cuantificación de la carga, de forma que todo sea automático. Me gustaría enseñaros la herramienta... Cuando entras en el panel de entrenador, lo primero que tienes es un desplegable con todos tus atletas. En este caso, yo tengo 117 entre mis jugadores profesionales y la gente que tengo online. Puedes filtrar por los diferentes niveles que yo comenté.",
+      "keywords": [
+        "aplicacion",
+        "dt-coach",
+        "cuantificacion",
+        "automatizacion",
+        "atletas"
+      ],
+      "entities": [
+        "DT Coach",
+        "The Coach"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué herramienta utiliza Fernando Guerrero para automatizar el control de la fuerza?",
+        "¿Cómo gestiona la base de datos de deportistas en la aplicación?"
+      ],
+      "related_terms": [
+        "aplicación",
+        "cuantificación",
+        "automático",
+        "panel",
+        "entrenador"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la segunda parte del webinar, recapitulando las dificultades teóricas del control de la carga.",
+      "context_after": "Se detalla la inmensa base de datos de ejercicios de la herramienta y sus filtros."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:02:37",
+      "end_timestamp": "00:03:15",
+      "start_seconds": 157,
+      "end_seconds": 195,
+      "duration_seconds": 38,
+      "timestamp_url": "?t=157",
+      "title": "Cálculo automático del Valor de Carga del Ejercicio (VCE)",
+      "summary": "La plataforma calcula automáticamente el VCE basándose en la parametrización exhaustiva de cada ejercicio: músculos y articulaciones implicadas, estabilidad, lateralidad, vector y material usado.",
+      "literal_quote": "Ese VCE 10 es el valor de carga individual de ejercicio y, automáticamente, con la información que nosotros le hemos puesto previamente... de todos los materiales, el hemisferio, el vector...",
+      "full_transcript": "Ese VCE 10 es el valor de carga individual de ejercicio y, automáticamente, con la información que nosotros le hemos puesto previamente, que cuando vamos haciendo los ejercicios, es un trabajo bastante tedioso, de todos los materiales, el hemisferio, el vector, la característica del movimiento, los datos para el VCE, que son las musculares implicadas, las articulaciones implicadas, la estabilidad, la lateralidad y la lateralidad. Todo eso de cada uno de los ejercicios con sus diferentes grupos musculares que participen o que sean más bien agonistas.",
+      "keywords": [
+        "vce",
+        "valor-carga",
+        "parametrizacion",
+        "articulaciones",
+        "estabilidad",
+        "lateralidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué significa VCE y cómo se calcula?",
+        "¿Qué variables se consideran para determinar el valor de carga de un ejercicio?"
+      ],
+      "related_terms": [
+        "valor",
+        "carga",
+        "individual",
+        "variables",
+        "musculares"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la biblioteca de ejercicios y cómo se filtran por objetivo o material (ej. pliometría con mancuernas).",
+      "context_after": "Se visualiza cómo se muestra esta información en la interfaz con fotos y vídeos para el atleta."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:07:30",
+      "end_timestamp": "00:08:43",
+      "start_seconds": 450,
+      "end_seconds": 523,
+      "duration_seconds": 73,
+      "timestamp_url": "?t=450",
+      "title": "Adaptación de sesiones y el uso del Carácter del Esfuerzo",
+      "summary": "Muestra cómo adaptar una sesión avanzada duplicándola y eliminando series o bloques para un atleta intermedio. Destaca el uso del 'carácter del esfuerzo' (repeticiones realizables frente a realizadas) en lugar del RPE clásico.",
+      "literal_quote": "El carácter del esfuerzo... es el número de repeticiones que tengo que hacer y el número de repeticiones realizables que con ese peso el atleta podría hacer.",
+      "full_transcript": "Puedo hacer una copia, automáticamente me sale aquí como copia, le doy a editar, le cambio el nombre, le pongo intermedio y ahora directamente voy a quitar. Le voy a reducir una serie y le voy a quitar un bloque entero... El carácter del esfuerzo, para quien no lo sepa, es el número de repeticiones que tengo que hacer y el número de repeticiones realizables que con ese peso el atleta podría hacer. En este caso sería, por ejemplo, como poner un RP prácticamente de dos. Pero para este tipo de prescripción sí que me gusta más el carácter del esfuerzo, creo que es más aceptable.",
+      "keywords": [
+        "caracter-del-esfuerzo",
+        "adaptacion-sesion",
+        "repeticiones-realizables",
+        "rpe",
+        "progresion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué es el carácter del esfuerzo según Fernando Guerrero?",
+        "¿Cómo se adapta una sesión de fuerza avanzada para un atleta intermedio?"
+      ],
+      "related_terms": [
+        "carácter",
+        "esfuerzo",
+        "repeticiones",
+        "reserva",
+        "reutilización"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de una sesión avanzada de contrastes que mezcla ejercicios vectoriales horizontales, verticales y pliometría.",
+      "context_after": "Se compara la drástica reducción de carga (de 301 a 93 unidades) al realizar esta adaptación."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:08:54",
+      "end_timestamp": "00:10:20",
+      "start_seconds": 534,
+      "end_seconds": 620,
+      "duration_seconds": 86,
+      "timestamp_url": "?t=534",
+      "title": "Creación y reaprovechamiento de bloques (Mesociclos)",
+      "summary": "Explica la posibilidad de diseñar estructuras completas de varias semanas (ej. pretemporada) alternando días de optimización y complementarios, y guardar dicho bloque entero para reaprovecharlo en otros deportistas.",
+      "literal_quote": "Este bloque yo directamente lo puedo guardar en favoritos y lo puedo reaprovechar en otro atleta.",
+      "full_transcript": "Igual que creo sesiones, también puedo crear bloques de entrenamiento. Por ejemplo, vamos a poner una pretemporada para un equipo de sub-20. Si abro el bloque, me va a salir como he planteado una semana de uno, dos, tres, cuatro y cinco semanas... Este bloque yo directamente lo puedo guardar en favoritos y lo puedo reaprovechar en otro atleta... Si yo quiero hacer domingo una sesión de optimización de miembro inferior, el lunes una estructural de miembro superior, el martes un complementario de core... si esa estructura me vale... yo puedo guardar el bloque y lo puedo reaprovechar.",
+      "keywords": [
+        "bloques-entrenamiento",
+        "mesociclo",
+        "pretemporada",
+        "reaprovechamiento",
+        "estructura-semanal"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo se organiza un bloque de entrenamiento de varias semanas?",
+        "¿Qué ventaja ofrece guardar un mesociclo completo en la plataforma?"
+      ],
+      "related_terms": [
+        "bloque",
+        "entrenamiento",
+        "semanas",
+        "optimización",
+        "estructural"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha mostrado cómo modificar una sesión única y la diferencia que hace en la carga.",
+      "context_after": "Pasa a mostrar el caso real de la pretemporada de un futbolista profesional."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:11:44",
+      "end_timestamp": "00:13:00",
+      "start_seconds": 704,
+      "end_seconds": 780,
+      "duration_seconds": 76,
+      "timestamp_url": "?t=704",
+      "title": "Análisis comparativo de la Carga Propuesta vs. Real",
+      "summary": "Visualiza la gráfica de volumen planificado frente al ejecutado. Permite identificar patrones individuales, como un deportista que se excede sistemáticamente en sesiones de resistencia aeróbica, pero no alcanza la carga en los trabajos de fuerza.",
+      "literal_quote": "Este jugador normalmente tiende a no llegar a la carga propuesta en la fuerza, pero en la resistencia, en la mayoría de sesiones intensas, se pasa.",
+      "full_transcript": "Aquí hay días donde se ve cómo la carga real, cuando hay tres líneas discontinuas, la carga real es superior A la carga propuesta. Aquí, por ejemplo, al revés. Fijaos que no está rellena del todo, la carga real está un poco por debajo... Fijaos qué curioso. Por ejemplo, este jugador normalmente tiende a no llegar a la carga propuesta en la fuerza, pero en la resistencia, en la mayoría de sesiones intensas, se pasa. Siempre se pasa. Son cosas que tenemos que tener en cuenta y controlar... Mira que todas las semanas se pasa, fijaos la línea de puntos.",
+      "keywords": [
+        "carga-propuesta",
+        "carga-real",
+        "discrepancia",
+        "fuerza",
+        "resistencia",
+        "monitorizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Análisis",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo se visualiza la diferencia entre carga real y propuesta en un jugador?",
+        "¿Qué patrones se pueden detectar analizando la carga real de los entrenamientos?"
+      ],
+      "related_terms": [
+        "carga",
+        "real",
+        "propuesta",
+        "diferencias",
+        "patrón"
+      ],
+      "relevance_score": 5,
+      "context_before": "Lectura de los datos iniciales y el perfil médico de un futbolista para su pretemporada.",
+      "context_after": "Se analiza el porcentaje de trabajo entre miembro superior, inferior y estabilización."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:13:45",
+      "end_timestamp": "00:15:26",
+      "start_seconds": 825,
+      "end_seconds": 926,
+      "duration_seconds": 101,
+      "timestamp_url": "?t=825",
+      "title": "Ajuste dinámico de umbrales adaptativos por grupo muscular",
+      "summary": "El sistema mide el volumen de carga por grupo muscular específico respecto al mínimo adaptativo y máximo tolerable. Estos umbrales pueden modificarse manualmente en función del feedback (ensayo y error) y la tolerancia individual.",
+      "literal_quote": "Es ensayo y error... preguntando, con ensayo y error, al deportista prácticamente cada semana, cada día cómo está, puedo jugar muy bien con esto.",
+      "full_transcript": "Aquí os sale automáticamente el volumen óptimo por cada grupo muscular, pero para los próximos siete días... si he llegado al umbral mínimo adaptativo o me he pasado del umbral máximo tolerable... ¿Qué puede pasar también? Que aunque estos datos estén hechos por defecto con esa categorización... puede ser que un jugador, por su perfil, a nivel de glúteo, no se aguante mucho. Entonces, yo puedo poner ese mínimo volumen adaptativo o el máximo tolerable donde yo quiera... preguntando, con ensayo y error, al deportista prácticamente cada semana, cada día cómo está, puedo jugar muy bien con esto. Porque la ciencia nos puede decir que esto es un número... Pero si todavía el jugador nos está diciendo que ese entrenamiento es demasiado duro para él... a lo mejor es que este umbral él lo tiene más abajo y yo puedo ir... ajustando ese umbral.",
+      "keywords": [
+        "umbral-adaptativo",
+        "volumen-optimo",
+        "grupo-muscular",
+        "ensayo-error",
+        "individualizacion",
+        "feedback"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se ajustan los umbrales de entrenamiento según el grupo muscular?",
+        "¿Por qué es importante el feedback del deportista frente a la ciencia teórica?"
+      ],
+      "related_terms": [
+        "volumen",
+        "óptimo",
+        "umbral",
+        "mínimo",
+        "adaptativo",
+        "máximo",
+        "tolerable"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la carga real del futbolista en sus primeras semanas de entrenamiento.",
+      "context_after": "Se presenta el calendario de eventos semanales, incluyendo pruebas de carga-velocidad y cuestionarios Wellness."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:19:10",
+      "end_timestamp": "00:20:12",
+      "start_seconds": 1150,
+      "end_seconds": 1212,
+      "duration_seconds": 62,
+      "timestamp_url": "?t=1150",
+      "title": "Integración del trabajo aeróbico específico en el futbolista",
+      "summary": "Compagina las rutinas de fuerza con trabajo aeróbico. Incluye entrenamientos continuos de umbral anaeróbico y sesiones interválicas intensas (ej. series a consumo máximo de oxígeno, potencia aeróbica y sprints).",
+      "literal_quote": "Todo esto lo fui compaginando con un trabajo aeróbico... propuse dos series de cuatro minutos a consumo máximo oxígeno... Es un trabajo ya más completo, más específico para el fútbol.",
+      "full_transcript": "Todo esto lo fui compaginando con un trabajo aeróbico, al principio con una sesión de 25 minutos de umbral anaeróbico, porque a él le gustaba hacer una ruta... Los sábados le metía un trabajo más interválico, más de series... de forma que en este caso, por ejemplo, propuse dos series de cuatro minutos a consumo máximo oxígeno, 150 segundos y 30 segundos. Es decir, cuatro minutos, un minuto y medio y 30 segundos de umbral de consumo máximo oxígeno, de potencia aeróbica y de sprint puro y duro. Es un trabajo donde ya sí que trabajamos diferentes parámetros. Es un trabajo ya más completo, más específico para el fútbol y que sí o sí tiene que entrar.",
+      "keywords": [
+        "trabajo-aerobico",
+        "consumo-maximo-oxigeno",
+        "potencia-aerobica",
+        "sprint",
+        "entrenamiento-concurrente"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo integra Guerrero el trabajo de resistencia y aeróbico en la pretemporada?",
+        "¿Qué intervalos de resistencia son específicos para el futbolista?"
+      ],
+      "related_terms": [
+        "aeróbico",
+        "umbral",
+        "interválico",
+        "vo2",
+        "máx"
+      ],
+      "relevance_score": 4,
+      "context_before": "Resumen de las sesiones estructurales, preventivas y de optimización de la semana de ejemplo.",
+      "context_after": "Se detalla el protocolo para soltar piernas (bici y paseos) y la transición al siguiente bloque de optimización."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:23:08",
+      "end_timestamp": "00:23:44",
+      "start_seconds": 1388,
+      "end_seconds": 1424,
+      "duration_seconds": 36,
+      "timestamp_url": "?t=1388",
+      "title": "Test de Perfil Carga-Velocidad integrado",
+      "summary": "Evalúa el estado del deportista utilizando el método de los dos puntos (ej. 50 kg y 85 kg) encubierto dentro del propio calentamiento de la sesión de optimización, evitando añadir fatiga o restar tiempo.",
+      "literal_quote": "Utilizo normalmente el método dos puntos, porque aprovecho el día que vamos a hacer el día optimización, hago el trabajo de calentamiento y antes de hacer el bloque de fuerza le meto el test, que realmente para él es como un entrenamiento.",
+      "full_transcript": "En este caso, hago dos cargas: 50 y 85 kilos. Seleccionas el ejercicio, muy sencillo, y yo utilizo normalmente el método dos puntos, porque aprovecho el día que vamos a hacer el día optimización, hago el trabajo de calentamiento y antes de hacer el bloque de fuerza le meto el test, que realmente para él es como un entrenamiento, pero yo lo meto como test. Es una forma que yo tengo para ganar el tiempo. Lógicamente, para comparar los tres días, metí las mismas cargas: 50, 85 kilos.",
+      "keywords": [
+        "perfil-carga-velocidad",
+        "metodo-dos-puntos",
+        "calentamiento",
+        "evaluacion-integrada",
+        "optimizacion-tiempo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo realiza Fernando Guerrero los tests sin perder tiempo de entrenamiento?",
+        "¿Qué cargas utiliza en el método de dos puntos para el perfil carga velocidad?"
+      ],
+      "related_terms": [
+        "test",
+        "carga-velocidad",
+        "método",
+        "dos",
+        "puntos",
+        "evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe cómo la programación y estructuración semanal da paso a la necesidad de evaluar el rendimiento.",
+      "context_after": "Se observan las mejoras obtenidas en los tests CMJ realizados con plataforma de contacto."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:25:17",
+      "end_timestamp": "00:26:10",
+      "start_seconds": 1517,
+      "end_seconds": 1570,
+      "duration_seconds": 53,
+      "timestamp_url": "?t=1517",
+      "title": "Estimación automática del 1RM diario",
+      "summary": "La herramienta estima el 1RM (Repetición Máxima) diariamente en función del peso levantado, las repeticiones ejecutadas y el RIR. Esto genera una curva de progreso automática sin someter al atleta a tests máximos constantes.",
+      "literal_quote": "Cada ejercicio que yo rellene va a tener, en función de los kilos que yo mueva, las repeticiones que yo haga y las repeticiones de recámara que me deje, una estimación del 1RM.",
+      "full_transcript": "En las sentadillas multipower, fijaros que la aplicación nos está dando el 1RM estimado de cada ejercicio. Cada ejercicio que yo rellene va a tener, en función de los kilos que yo mueva, las repeticiones que yo haga y las repeticiones de recámara que me deje, una estimación del 1RM. Es muy sencillo de calcular y hay aplicaciones gratuitas para eso, pero lo integra el programa, de forma que tú puedes ir intuyendo, por ejemplo, con cada ejercicio, cómo vas. Hay una progresión... En cualquier ejercicio que yo quiera ir viendo mi estimación de 1RM, lo voy a tener aquí.",
+      "keywords": [
+        "1rm",
+        "estimacion-automatica",
+        "repeticiones-recamara",
+        "rir",
+        "progresion-fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo se estima el 1RM sin hacer pruebas máximas?",
+        "¿Qué variables usa el sistema de Guerrero para calcular el 1RM estimado?"
+      ],
+      "related_terms": [
+        "1rm",
+        "estimado",
+        "repeticiones",
+        "recámara",
+        "kilos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de los resultados reales de una mejora en el perfil de carga y velocidad a lo largo de 6 semanas.",
+      "context_after": "Se presenta brevemente la visualización de datos del cuestionario de bienestar (Wellness) a lo largo de la semana."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga (Parte 2)",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:28:35",
+      "end_timestamp": "00:29:05",
+      "start_seconds": 1715,
+      "end_seconds": 1745,
+      "duration_seconds": 30,
+      "timestamp_url": "?t=1715",
+      "title": "El futuro de la cuantificación: IA y Machine Learning",
+      "summary": "Reflexiona sobre el enorme atraso del control de carga en fuerza en comparación con el trabajo de campo, señalando a la inteligencia artificial y el machine learning como las claves para perfeccionar la gestión de umbrales.",
+      "literal_quote": "La llegada del machine learning o la inteligencia artificial nos va a afinar todo esto, todos los umbrales, todo el tema de la gestión de cargas mucho más.",
+      "full_transcript": "Es una maravilla el momento en el que nos hemos encontrado, porque todo está en auge. También la llegada del machine learning o la inteligencia artificial nos va a afinar todo esto, todos los umbrales, todo el tema de la gestión de cargas mucho más. Nos espera un futuro muy esperanzador, pero que por desgracia, el entrenamiento de fuerza está a años luz, negativamente hablando, de la cuantificación y control de carga en el campo. Por ello, también opté por hablar sobre esto y darle un poquito de visibilidad.",
+      "keywords": [
+        "machine-learning",
+        "inteligencia-artificial",
+        "futuro",
+        "gestion-cargas",
+        "control-fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué rol jugará la Inteligencia Artificial en el entrenamiento de fuerza?",
+        "¿Cómo ve Fernando Guerrero el estado actual del control de carga en fuerza vs. campo?"
+      ],
+      "related_terms": [
+        "machine",
+        "learning",
+        "inteligencia",
+        "artificial",
+        "umbrales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Cierre de la herramienta y agradecimientos formales a NSCA España y asistentes.",
+      "context_after": "Fin del webinar y cierre de la presentación."
+    }
+  ]
+}

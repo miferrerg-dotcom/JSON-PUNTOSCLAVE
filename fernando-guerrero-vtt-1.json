@@ -1,0 +1,606 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+    "speaker": "Fernando Guerrero",
+    "total_duration": "00:32:59",
+    "total_duration_seconds": 1979,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:03:36",
+      "start_seconds": 183,
+      "end_seconds": 216,
+      "duration_seconds": 33,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=183",
+      "title": "Herramientas para el control de la carga",
+      "summary": "Utiliza Excel para la cuantificación mediante RPE, Power BI para analizar datos de GPS, y su propia aplicación (DT Coach) para prescribir y controlar el entrenamiento de fuerza.",
+      "literal_quote": "Excel sería para preparadores físicos que trabajen con RP y Power BI para preparadores físicos que trabajen con GPS.",
+      "full_transcript": "Por eso pone ahí un iconito de un Excel, un Power BI y el logo de la última aplicación que acabo de sacar. Para preparadores físicos son aplicaciones, tanto Excel como Power BI, para cuantificar y controlar la carga de un equipo, independientemente de cuál sea la disciplina. Excel sería para preparadores físicos que trabajen con RP y Power BI para preparadores físicos que trabajen con GPS. Básicamente esa es la diferencia. Y DT Coach es una aplicación para entrenadores que quieran prescribir y controlar el entrenamiento de la fuerza.",
+      "keywords": [
+        "herramientas",
+        "excel",
+        "power-bi",
+        "dt-coach",
+        "rpe",
+        "gps",
+        "cuantificacion"
+      ],
+      "entities": [
+        "Excel",
+        "Power BI",
+        "DT Coach",
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué herramientas utiliza Fernando Guerrero para controlar la carga?",
+        "¿Para qué sirve la aplicación DT Coach?"
+      ],
+      "related_terms": [
+        "rpe",
+        "gps",
+        "cuantificación",
+        "aplicaciones",
+        "de",
+        "rendimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación personal y justificación de su perfil práctico frente al puramente académico.",
+      "context_after": "Presenta el índice del módulo teórico sobre metodología, estructura de sesión y control de carga."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:05:49",
+      "end_timestamp": "00:07:14",
+      "start_seconds": 349,
+      "end_seconds": 434,
+      "duration_seconds": 85,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=349",
+      "title": "Clasificación del deportista y creación de confianza",
+      "summary": "Identifica el nivel del deportista (iniciación, intermedio, avanzado) basándose en cuestionarios, experiencia, edad y preferencias individuales para ganar su confianza sin abandonar los principios metodológicos.",
+      "literal_quote": "Ganarnos la confianza de un atleta o un deportista es clave... Es muchísimo más importante convencer que saber.",
+      "full_transcript": "Los contextos de equipo siempre son algo diferentes, porque cada uno es diferente y cada uno tiene sus particularidades, pero me gusta desde el primer momento identificar el nivel de deportista. Lo divido en tres: iniciación, intermedio y avanzado, y donde yo ubico a ese deportista va a venir determinado, sobre todo, por el cuestionario... por lo que yo perciba de cómo él entiende el entrenamiento... la edad y otros aspectos un poquito más personales, subjetivos... en función de sus gustos, que al final no le damos como entrenadores muchas veces la importancia a las preferencias individuales... y yo le doy mucho valor, porque es una forma de ganarnos su confianza sin salirnos de nuestra metodología o nuestros principios. Ganarnos la confianza de un atleta o un deportista es clave.",
+      "keywords": [
+        "nivel-deportista",
+        "preferencias-individuales",
+        "confianza",
+        "cuestionario",
+        "metodologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo clasifica Fernando Guerrero el nivel de los deportistas?",
+        "¿Por qué son importantes las preferencias del atleta en la programación?"
+      ],
+      "related_terms": [
+        "nivel",
+        "iniciación",
+        "intermedio",
+        "avanzado",
+        "preferencias",
+        "confianza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Termina la introducción y explica que su metodología se aplica tanto presencial, online como en equipos.",
+      "context_after": "Se detalla cómo realiza la valoración funcional y neuromuscular del deportista."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:07:18",
+      "end_timestamp": "00:08:24",
+      "start_seconds": 438,
+      "end_seconds": 504,
+      "duration_seconds": 66,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=438",
+      "title": "Valoración inicial y perfil neuromuscular",
+      "summary": "Realiza una valoración funcional adaptada (como un FMS), medición de la composición corporal, y un perfil neuromuscular profundo que incluye saltos CMJ y perfil de carga/velocidad.",
+      "literal_quote": "Por último, le dedico un poquito más de tiempo y cariño al perfil neuromuscular, donde siempre incluyo un salto CMJ y un perfil de carga y velocidad.",
+      "full_transcript": "La segunda parte de esta metodología está basada en una valoración individual, donde siempre hago una valoración funcional. Normalmente adaptada, sobre todo si trabajo en un entorno de equipo, la adapto para que sea más rápida y más fácil... Una cosa que también hago obligatoriamente es la medición de la composición corporal. Dependiendo también del perfil, puedo hacer cirantrometría, bioimpedancia o simplemente un control de peso, perímetro y diámetros. Por último, le dedico un poquito más de tiempo y cariño al perfil neuromuscular, donde siempre incluyo un salto CMJ y un perfil de carga y velocidad.",
+      "keywords": [
+        "valoracion-funcional",
+        "fms",
+        "perfil-neuromuscular",
+        "composicion-corporal",
+        "cmj",
+        "perfil-carga-velocidad"
+      ],
+      "entities": [
+        "FMS",
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué pruebas incluye en la valoración inicial del deportista?",
+        "¿Dónde se habla de la valoración funcional y neuromuscular?"
+      ],
+      "related_terms": [
+        "valoración",
+        "física",
+        "salto",
+        "cmj",
+        "composición",
+        "corporal"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre la categorización de los atletas y la creación de confianza.",
+      "context_after": "Pasa a la parte de programación y la división de tipos de sesiones de entrenamiento."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:08:24",
+      "end_timestamp": "00:09:29",
+      "start_seconds": 504,
+      "end_seconds": 569,
+      "duration_seconds": 65,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=504",
+      "title": "Categorización de las sesiones de entrenamiento",
+      "summary": "Divide la programación en tres tipos de sesiones: optimización (mejora del rendimiento), preventivas (corrección de debilidades) y complementarias (trabajo aeróbico, estructural, core y movilidad).",
+      "literal_quote": "Yo divido todos mis entrenos en tres tipos de sesiones. Sesiones de optimización, preventivas y complementarias.",
+      "full_transcript": "Yo divido todos mis entrenos en tres tipos de sesiones. Sesiones de optimización, donde claramente tiene el objetivo de mejorar el rendimiento. Dos, las sesiones preventivas, que tienen claramente el objetivo de corregir pequeñas debilidades individuales que nos puedan llevar a exponernos a un mayor riesgo de lesión. Y tres, todo lo demás, que sean las complementarias. Ahí he puesto el trabajo estructural, las sesiones aeróbicas, donde pueden estar los HIIT, las tiradas largas en algunos deportes... Y la movilidad, cuando es normalmente un perfil más general o incluso el trabajo de core. Todo eso para mí son sesiones complementarias.",
+      "keywords": [
+        "optimizacion",
+        "sesiones-preventivas",
+        "sesiones-complementarias",
+        "programacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres tipos de sesiones de entrenamiento según Guerrero?",
+        "¿Qué diferencia hay entre una sesión de optimización y una preventiva?"
+      ],
+      "related_terms": [
+        "sesiones",
+        "de",
+        "optimización",
+        "preventivas",
+        "complementarias"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se describe el proceso de evaluación y perfilado del deportista.",
+      "context_after": "Se detalla la estructura interna específica de las sesiones de optimización y el orden lógico de los bloques."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:09:29",
+      "end_timestamp": "00:13:08",
+      "start_seconds": 569,
+      "end_seconds": 788,
+      "duration_seconds": 219,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=569",
+      "title": "Estructura de la sesión de optimización y el orden lógico",
+      "summary": "Organiza la sesión en activación, integración, fuerza y transferencia. En fútbol, programa la fuerza antes que la transferencia para que el jugador libere la carga neural antes de salir al campo.",
+      "literal_quote": "En el fútbol trabajo primero siempre la fuerza y después la transferencia... por darle esa sensación de limpiar un poquito esa carga.",
+      "full_transcript": "Para mí, las tres tipos de sesiones tienen que seguir un orden lógico, que es desde la parte de menor intensidad o la parte más de calentamiento, hasta la parte principal. Yo siempre divido en esos bloques: activación, integración, fuerza y transferencia. Como veis, hay un icono donde la parte de fuerza y transferencia puede rotar... si trabajo de forma online o presencial... siempre me gusta hacer la transferencia antes de la fuerza. Porque... puede generar cierta interferencia ese bloque de transferencia... Pero os digo que para los que estéis en deportes colectivos como el fútbol... trabajo primero siempre la fuerza y después la transferencia. ¿Por qué? Porque muchas veces tengo que utilizar el entrenamiento de fuerza y después saltar al campo... no es lo mismo salir después de esa serie al campo, donde el jugador se va a encontrar muy pesado, con una fatiga neural muy alta, que hacer ese trabajo previo, después hacer el de transferencia, donde de alguna forma la sensación siempre, como ellos manifiestan, es de limpiar un poquito esa carga y ya hacer el trabajo de campo.",
+      "keywords": [
+        "activacion",
+        "integracion",
+        "fuerza",
+        "transferencia",
+        "fatiga-neural",
+        "orden-sesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se estructura una sesión de optimización?",
+        "¿Por qué invertir el orden de fuerza y transferencia en fútbol?"
+      ],
+      "related_terms": [
+        "bloques",
+        "de",
+        "entrenamiento",
+        "fatiga",
+        "neural",
+        "interferencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clasificación de tipos de sesiones (optimización, preventivas, complementarias).",
+      "context_after": "Justificación de por qué usa la palabra transferencia y paso a desglosar los bloques iniciales."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:13:08",
+      "end_timestamp": "00:14:53",
+      "start_seconds": 788,
+      "end_seconds": 893,
+      "duration_seconds": 105,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=788",
+      "title": "El bloque de Activación",
+      "summary": "Propone de 4 a 8 ejercicios sencillos, con baja intensidad, simétricos y sin requerimiento de estabilidad. El objetivo es una activación general trabajando en formato circuito.",
+      "literal_quote": "Son ejercicios sencillos, de poca activación de forma general, con un porcentaje de esfuerzo bastante bajo.",
+      "full_transcript": "Al final, lo que quiero es hacer una propuesta progresiva dentro de la sesión, de forma que al principio hago ese bloque de activación. Normalmente, lo puedo hacer de cuatro a ocho ejercicios. Normalmente, hago una o dos series, normalmente 12 repeticiones... Normalmente, son ejercicios simétricos con una dificultad técnica prácticamente nula, con un nivel de estabilidad prácticamente nulo... Son ejercicios sencillos, de poca activación de forma general, con un porcentaje de esfuerzo bastante bajo... Normalmente, son ejercicios isométricos, normalmente son ejercicios bilaterales, sencillos, como puentes de glúteo, flexiones de cadera en fitball...",
+      "keywords": [
+        "activacion",
+        "baja-intensidad",
+        "circuito",
+        "calentamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se desarrolla el bloque de activación en la sesión?"
+      ],
+      "related_terms": [
+        "ejercicios",
+        "sencillos",
+        "calentamiento",
+        "circuito"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del orden lógico de los bloques en una sesión.",
+      "context_after": "Continúa detallando el siguiente nivel en la progresión del calentamiento: la integración."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:14:53",
+      "end_timestamp": "00:16:05",
+      "start_seconds": 893,
+      "end_seconds": 965,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=893",
+      "title": "El bloque de Integración",
+      "summary": "Reto intermedio que eleva la intensidad y dificultad técnica reduciendo las repeticiones. Se introducen ejercicios asimétricos o unilaterales (ej. zancadas, hip thrust unilateral) en circuito.",
+      "literal_quote": "El siguiente bloque, que yo llamo integración, es un bloque intermedio... donde ya retamos un poquito más al deportista con ejercicios ligeramente de mayor dificultad técnica.",
+      "full_transcript": "El siguiente bloque, que yo llamo integración, es un bloque intermedio entre la activación y el trabajo de fuerza, donde ya retamos un poquito más al deportista con ejercicios ligeramente de mayor dificultad técnica, con menor estabilidad, donde aquí ya meto ejercicios simétricos o unilaterales... Aquí normalmente reduzco el número de ejercicios, pero no el número de series, de forma que voy a incidir un poquito más en el estímulo que quiero dar con un poquito más de intensidad, pero con menos volumen... Bajo el número de repetición, normalmente de 12 a 10, pero aumento la intensidad y sigo trabajando en circuito... Aquí puedo hacer ejercicios como... zancadas con mancuernas, 'hip thrust' unilateral en banco...",
+      "keywords": [
+        "integracion",
+        "ejercicios-unilaterales",
+        "progresion",
+        "intensidad",
+        "dificultad-tecnica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia la activación de la integración?"
+      ],
+      "related_terms": [
+        "bloque",
+        "intermedio",
+        "estímulo",
+        "ejercicios",
+        "unilaterales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del bloque de activación de baja intensidad.",
+      "context_after": "Se detalla el núcleo de la sesión: el bloque principal de fuerza pura."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:16:05",
+      "end_timestamp": "00:18:01",
+      "start_seconds": 965,
+      "end_seconds": 1081,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=965",
+      "title": "El bloque de Fuerza como eje de progresión",
+      "summary": "Es la parte principal constituida por 2 a 4 ejercicios básicos (sentadillas, pesos muertos) de alta intensidad. Se controla la fase excéntrica y se busca máxima velocidad concéntrica con descansos completos de 2 a 3 minutos.",
+      "literal_quote": "Cuando yo tengo que progresar con el deportista, voy a progresar primero en esta parte. Esta es la parte que realmente hace que el jugador mejore.",
+      "full_transcript": "Voy primero a explicar un poquito el bloque de fuerza... Aquí vamos a trabajar la parte principal... elijo entre dos y cuatro [ejercicios], hago de dos a cuatro series y prácticamente el principio de progresión... va aquí. Es la parte donde todo lo demás va a girar. Cuando yo tengo que progresar con el deportista, voy a progresar primero en esta parte. Esta es la parte que realmente hace que el jugador, el atleta, mejore... La intensidad va a ser un poquito más alta. No tiene por qué ser un RPE 8... Aquí la velocidad de ejecución va a ser controlada durante la fase excéntrica y máxima durante la fase concéntrica... los descansos son completos. Aunque pongo tres minutos como referencia... un avanzado puede descansar dos, pero un iniciado o intermedio siempre descansan tres... Los ejercicios básicos que conocemos. Puede ser una sentadilla, puede ser un 'hip thrust', puede ser un peso muerto...",
+      "keywords": [
+        "fuerza",
+        "progresion",
+        "velocidad-ejecucion",
+        "fase-excentrica",
+        "descansos-completos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica el bloque de fuerza?",
+        "¿Qué tiempos de descanso se recomiendan en los ejercicios de fuerza pura?"
+      ],
+      "related_terms": [
+        "bloque",
+        "de",
+        "fuerza",
+        "progresión",
+        "ejercicios",
+        "básicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose de los bloques de calentamiento (activación e integración).",
+      "context_after": "Pasa a definir el bloque de transferencia para cerrar la estructura de la sesión."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:18:01",
+      "end_timestamp": "00:18:41",
+      "start_seconds": 1081,
+      "end_seconds": 1121,
+      "duration_seconds": 40,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1081",
+      "title": "El bloque de Transferencia",
+      "summary": "Añade un componente de velocidad al patrón trabajado previamente en fuerza, priorizando la máxima velocidad en fases concéntricas y excéntricas usando ejercicios como pliometría y movimientos olímpicos.",
+      "literal_quote": "Buscar cómo le puedo dar un componente de velocidad a ese patrón que vengo haciendo en el bloque de fuerza.",
+      "full_transcript": "Por último, transferencia. Buscar cómo le puedo dar un componente de velocidad a ese patrón que vengo haciendo en el bloque de fuerza. Aquí priorizo la velocidad, normalmente suele ser máxima durante la fase concéntrica y excéntrica. Aquí puede haber un poquito menos de descanso porque la intensidad es un poquito menor... Sentadillas con salto, hip thrust explosivos, saltos laterales con med ball, movimientos olímpicos, derivados de movimientos olímpicos, etcétera. Esta es la forma en la que yo establezco la sesión de optimización.",
+      "keywords": [
+        "transferencia",
+        "velocidad",
+        "pliometria",
+        "potencia",
+        "movimientos-olimpicos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el bloque de transferencia y qué ejercicios incluye?"
+      ],
+      "related_terms": [
+        "transferencia",
+        "velocidad",
+        "potencia",
+        "saltos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del bloque de fuerza, el núcleo principal de la sesión.",
+      "context_after": "Cambio de tema hacia los métodos de cuantificación y control de la carga."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:18:41",
+      "end_timestamp": "00:21:16",
+      "start_seconds": 1121,
+      "end_seconds": 1276,
+      "duration_seconds": 155,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1121",
+      "title": "Limitaciones de los métodos tradicionales de cuantificación",
+      "summary": "El volumen total y el tonelaje ignoran el componente individual de la intensidad. El RPE mejora esta medición, y el Stress Index clásico añade precisión por ejercicio, pero sigue sin contemplar las variables biomécanicas específicas.",
+      "literal_quote": "Si yo solamente multiplico series por repeticiones, no tengo ningún valor que considere la intensidad.",
+      "full_transcript": "Hay varios [métodos]... Uno es el clásico volumen total, donde multiplicamos series por repeticiones... y no considera la intensidad... El segundo método... es el tonelaje... multiplicamos series, repeticiones y kilos... Sigue siendo fácil de calcular... [Tercero] sería la famosa RPE... multiplicamos el tiempo o el volumen por el RP... solo tenemos un dato muy general de la sesión... se popularizó después el stress index, que es la forma de agregar un valor, pero a cada ejercicio. De forma que si yo establezco un RIR o un RP a cada serie... Sigue no teniendo en cuenta las variables individuales del ejercicio... No puede ser que los dos ejercicios [extensión de cuádriceps y clean] generen la misma carga cuando hay mucha diferencia.",
+      "keywords": [
+        "cuantificacion",
+        "volumen-total",
+        "tonelaje",
+        "rpe",
+        "stress-index",
+        "carga-entrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones de los métodos tradicionales de control de carga?",
+        "¿Por qué falla el tonelaje o el Stress Index clásico?"
+      ],
+      "related_terms": [
+        "volumen",
+        "tonelaje",
+        "rpe",
+        "stress",
+        "index",
+        "cuantificación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Finalización de la explicación sobre la estructura y bloques de la sesión.",
+      "context_after": "Se presenta el DT-Stress Index como la solución propuesta a este problema."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:21:16",
+      "end_timestamp": "00:25:56",
+      "start_seconds": 1276,
+      "end_seconds": 1556,
+      "duration_seconds": 280,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1276",
+      "title": "El modelo DT-Stress Index",
+      "summary": "Método de cuantificación avanzado que asigna un valor de esfuerzo y fatiga a cada ejercicio considerando masa muscular, articulaciones implicadas, lateralidad, tipo de movimiento y estabilidad.",
+      "literal_quote": "El objetivo de este método es el de dar un valor de fatiga generada a cada ejercicio, teniendo en cuenta las características individuales de los ejercicios.",
+      "full_transcript": "Por ello, en su momento nosotros desarrollamos este DT-stress index... asignamos un valor de esfuerzo a cada serie, cada repetición... teniendo en cuenta las características individuales de los ejercicios... El objetivo de este método es el de dar un valor de fatiga generada a cada ejercicio, teniendo en cuenta el número de repeticiones, el porcentaje de esfuerzo y las características individuales de cada ejercicio. Por un lado, la cantidad de masa muscular, por otro lado, las articulaciones implicadas, lateralidad, tipo de movimiento y nivel de estabilidad. Cada una de esas estrellitas suma el número de puntos correspondiente... Si sumo el valor de carga específico de ese ejercicio... Con ese dato, si después prescribo número de series y número de repeticiones, voy a tener un valor de carga individual de ese ejercicio.",
+      "keywords": [
+        "dt-stress-index",
+        "fatiga",
+        "masa-muscular",
+        "articulaciones",
+        "cuantificacion-precisa"
+      ],
+      "entities": [
+        "DT-Stress Index"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué variables tiene en cuenta el DT-Stress Index?",
+        "¿Cómo se asigna el valor de fatiga individual a un ejercicio?"
+      ],
+      "related_terms": [
+        "dt-stress",
+        "index",
+        "categorización",
+        "fatiga",
+        "biomecánica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los fallos de usar RPE o tonelaje para cuantificar la carga en distintos ejercicios.",
+      "context_after": "Con el índice creado, se aborda la diferencia que ocurre al llevar la propuesta al entrenamiento real."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:25:56",
+      "end_timestamp": "00:28:11",
+      "start_seconds": 1556,
+      "end_seconds": 1691,
+      "duration_seconds": 135,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1556",
+      "title": "Diferencia entre la carga propuesta y la carga real",
+      "summary": "Existe una brecha significativa entre lo prescrito (carga propuesta) y lo ejecutado por el atleta (carga real). Pequeñas variaciones en repeticiones afectan enormemente al impacto real del entrenamiento.",
+      "literal_quote": "La carga que proponemos es una, la carga real que hace el deportista es otra. Aquí está realmente la magia del entrenamiento.",
+      "full_transcript": "Si sumo todos estos ejercicios con sus series, sus repeticiones y su intensidad, voy a tener una carga propuesta de la sesión. Cuando digo propuesta es lo que yo le prescribo al deportista, pero a lo mejor lo que el deportista hace es diferente. Ahí es donde está la parte más tediosa... La carga que proponemos es una, la carga real que hace el deportista es otra. Yo aquí puedo prescribir 12 repeticiones sobre 24, pero la realidad es que fallar aquí es muy fácil... Si el deportista me hace tres series, ocho repeticiones sobre 10, ya el RP es bastante mayor, pasa de ser seis a ser ocho, y por lo tanto la multiplicación va a ser mucho mayor. Aquí está realmente la magia del entrenamiento... es por lo que los preparadores físicos somos tan pesados diciendo que tenemos que adaptar el entrenamiento día a día.",
+      "keywords": [
+        "carga-propuesta",
+        "carga-real",
+        "rpe",
+        "adaptacion",
+        "brecha"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante medir la carga real vs la carga propuesta?",
+        "¿Cómo afectan las variaciones en las repeticiones al RP real de la sesión?"
+      ],
+      "related_terms": [
+        "carga",
+        "propuesta",
+        "carga",
+        "real",
+        "adaptación",
+        "diaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del cálculo matemático de la carga teórica (DT-Stress Index).",
+      "context_after": "Se presenta el concepto de dosis-adaptación para manejar esta carga."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Entrenamiento de fuerza y cuantificación de carga",
+      "speaker": "Fernando Guerrero",
+      "start_timestamp": "00:28:11",
+      "end_timestamp": "00:32:59",
+      "start_seconds": 1691,
+      "end_seconds": 1979,
+      "duration_seconds": 288,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1691",
+      "title": "Relación dosis-adaptación y ajuste de umbrales",
+      "summary": "Establece umbrales de trabajo (mínimo y máximo volumen adaptativo) según el nivel del deportista (iniciación, intermedio, avanzado). La clave es calibrar estos umbrales basándose en la respuesta y sensaciones del atleta.",
+      "literal_quote": "Aquí tenéis lo que realmente es la clave, que es la dosis. Siempre la clave es la dosis... Igual, ensayo y error. Preguntarle al deportista, ver cómo se siente y a partir de ahí decidir dónde está o ubicar mejor esos umbrales.",
+      "full_transcript": "Aquí tenéis lo que realmente es la clave, que es la dosis. Siempre la clave es la dosis. La dosis de entrenamiento, volumen e intensidad por frecuencia... yo de alguna forma categorizo esos deportistas en iniciación, intermedio y avanzado... si tengo en cuenta solamente las series efectivas... establecí estos tres marcos de iniciación, intermedio y avanzado en los diferentes umbrales... Normalmente, un máximo volumen adaptativo y un mínimo volumen adaptativo tengo que estar por aquí. Yo intento siempre empezar por aquí... y le digo: '¿Cómo te sientes?' Si me dice: 'Me he sentido bien... ya puedo saltar a este bloque'... Y de repente me dice: 'No, agujetas mortales'... yo ya sé que ese umbral no es el que corresponde... Es ensayo y error en ese sentido... Igual, ensayo y error. Preguntarle al deportista, ver cómo se siente y a partir de ahí decidir dónde está o ubicar mejor esos umbrales.",
+      "keywords": [
+        "dosis-adaptacion",
+        "umbrales",
+        "volumen-adaptativo",
+        "series-efectivas",
+        "ensayo-error"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo ajusta Fernando Guerrero los umbrales de dosis-adaptación?",
+        "¿Qué importancia tiene la respuesta del atleta para establecer el volumen de entrenamiento?"
+      ],
+      "related_terms": [
+        "dosis",
+        "adaptación",
+        "volumen",
+        "efectivo",
+        "umbrales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del problema de la diferencia entre carga planificada y la efectivamente realizada.",
+      "context_after": "Se cierra el bloque teórico y se invita a ver la aplicación práctica en la segunda parte del webinar."
+    }
+  ]
+}
