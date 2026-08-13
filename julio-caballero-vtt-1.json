@@ -1,0 +1,348 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+    "speaker": "Julio Caballero López",
+    "total_duration": "00:18:36",
+    "total_duration_seconds": 1116,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "00:00",
+      "end_timestamp": "04:09",
+      "start_seconds": 0,
+      "end_seconds": 249,
+      "duration_seconds": 249,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y estructura del webinar",
+      "summary": "Julio Caballero presenta el webinar sobre activación neuromuscular, detalla su trayectoria profesional (doctor en Biomedicina, experiencia clínica en Madrid y Miami) y expone la estructura de la sesión: desde la inhibición muscular hasta la transferencia de fuerza y rendimiento.",
+      "literal_quote": "uno de los grandes errores es intentar avanzar demasiado rápido hacia la carga, hacia la fuerza, sin haber restaurado previamente una buena capacidad de activación neuromuscular.",
+      "full_transcript": "Hola a todos. Soy Julio Caballero López y os doy la bienvenida a este webinar, que se titula \"De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento\". En esta sesión, me gustaría compartir con ustedes una idea que considero que es fundamental y muy importante y que a veces no se le da la importancia que merece, que es el papel de la activación neuromuscular en fases muy agudas o en fases tempranas, cuando hay una lesión o después de una cirugía, y cómo esto puede condicionar a posteriori al entrenamiento de fuerza y al rendimiento del deportista. Muchas veces vemos pacientes deportistas que, aun teniendo una evolución estructural correcta, son incapaces de activar esa musculatura. Sienten que la musculatura está desconectada. Es decir, el músculo no responde o que ha perdido completamente la fuerza. Y aquí es donde entra en juego el sistema nervioso, que luego lo vamos a detallar de manera muy lenta y para que lo entendáis. Desde mi experiencia clínica, uno de los grandes errores es intentar avanzar demasiado rápido hacia la carga, hacia la fuerza, sin haber restaurado previamente una buena capacidad de activación neuromuscular. Antes de entrar en materia, me presento de una forma muy breve para los que no me conozcáis. Como he comentado, soy Julio Caballero López, soy fisioterapeuta y doctor en Biomedicina y Ciencias de la Salud y estoy formado en fisioterapia traumatológica. A nivel clínico, he estado trabajando en la clínica Centro de Madrid y además en Estados Unidos, en una clínica en Miami. Durante estos últimos años, estuve en Centro, una clínica especializada en Madrid, de traumatología y deporte, donde trabajaba con varios compañeros, como son readaptadores deportivos, psicólogos, nutricionistas, un equipo multidisciplinar. Posteriormente, me mudé a Miami, donde combiné la práctica clínica con la dirección de un departamento de investigación y desarrollo en una clínica de \"biohacking\", longevidad, fisioterapia y rendimiento. Antes de entrar en contenido, quiero enseñaros brevemente cuál va a ser la estructura de este webinar y los puntos principales que vamos a llevar a cabo. Primero haré una pequeña introducción para entender por qué la activación neuromuscular tiene un papel tan importante en rehabilitación, en fuerza y en rendimiento. Después, hablaré sobre la inhibición muscular artrogénica y cómo está relacionado con el sistema nervioso. Veremos qué ocurre, qué le pasa realmente a un paciente o a un deportista que siente que el músculo no responde o que ha perdido completamente esa fuerza muscular. A continuación, entraremos en evaluación y en las principales estrategias de activación a nivel neuromuscular. Explicaré algunas herramientas y abordajes prácticos que podemos utilizar en consulta o con el deportista para mejorar esa capacidad de activación. Posteriormente, veremos cómo pasar de esa activación muscular a producción de fuerza y hasta llegar a un rendimiento. Cómo es toda la fase y cómo transferirla hasta llegar al rendimiento. Y terminaremos con una serie de conclusiones y mensajes que considero importantes y fundamentales en este proceso de rehabilitación y de readaptación deportiva.",
+      "keywords": [
+        "activacion-neuromuscular",
+        "rehabilitacion",
+        "introduccion",
+        "biohacking",
+        "rendimiento"
+      ],
+      "entities": [
+        "Julio Caballero López",
+        "Clínica CEMTRO",
+        "Miami"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué explica Julio Caballero sobre la estructura del webinar?",
+        "¿Dónde se habla de introducción y estructura del webinar?",
+        "¿Cuál es la experiencia profesional de Julio Caballero López?"
+      ],
+      "related_terms": [
+        "activación",
+        "neuromuscular",
+        "rehabilitación",
+        "rendimiento"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se aborda el concepto de inhibición muscular artrogénica usando el caso práctico de Ricky Puig."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "04:12",
+      "end_timestamp": "06:15",
+      "start_seconds": 252,
+      "end_seconds": 375,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=252",
+      "title": "Concepto de Inhibición Muscular Artrogénica (IMA)",
+      "summary": "Utilizando el ejemplo del futbolista Ricky Puig, se define la inhibición muscular artrogénica como una alteración en la comunicación entre el sistema nervioso y el músculo tras una lesión articular, sin que exista un daño estructural primario en el músculo.",
+      "literal_quote": "Este fenómeno no implica que el músculo esté dañado en sí... sino que lo que existe es una alteración entre la comunicación del sistema nervioso y el músculo.",
+      "full_transcript": "Así que, si os parece, vamos a entrar ya en materia y vamos a empezar con una pregunta que es supercomún escuchar en consulta y es: ¿qué le ha pasado a mi cuádriceps tras una lesión o tras una cirugía? Aquí pongo una foto donde aparece el jugador de fútbol Ricky Puig, que la subió a su Instagram, sus redes sociales, donde vemos que tuvo una cirugía del ligamento cruzado anterior en la pierna derecha. Y si lo comparamos con la pierna izquierda, vemos que en la pierna derecha hay una gran atrofia muscular. Aquí es donde entra un concepto clave, que es la inhibición muscular artrogénica. Este fenómeno no implica que el músculo esté dañado en sí, que no haya un problema en el músculo, sino que lo que existe es una alteración entre la comunicación del sistema nervioso y el músculo. Yo siempre explico que podemos imaginarlo como un sistema de control donde la señal no se transmite con normalidad. Es decir, el músculo está ahí, está presente, la estructura del músculo está bien, pero el sistema nervioso reduce esa capacidad de activación. Y esto, obviamente, tiene una implicación directa en todo lo que es el proceso de rehabilitación y en cómo entendemos la recuperación de la fuerza del deportista. Entonces, la pregunta: ¿qué le ha pasado a mi cuádriceps tras la cirugía y la lesión?, viene relacionada con esta inhibición muscular artrogénica. ¿Cómo se define esta inhibición muscular artrogénica? La evidencia científica la define como una disminución refleja de la activación muscular voluntaria tras una lesión o una disfunción articular sin que haya lesión estructural del músculo, como he comentado anteriormente. Actualmente, la literatura, la evidencia, describe esta inhibición muscular artrogénica como un fenómeno multifactorial, de varios factores, cuyo origen es principalmente neurofisiológico.",
+      "keywords": [
+        "inhibicion-muscular-artrogenica",
+        "atrofia",
+        "sistema-nervioso",
+        "cirugia",
+        "ligamento-cruzado"
+      ],
+      "entities": [
+        "Ricky Puig"
+      ],
+      "topics": [
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué explica Julio Caballero sobre inhibición muscular artrogénica?",
+        "¿Dónde se habla de atrofia tras lesión del ligamento cruzado?",
+        "¿Cómo afecta el sistema nervioso al cuádriceps tras una cirugía?"
+      ],
+      "related_terms": [
+        "inhibición",
+        "muscular",
+        "artrogénica",
+        "atrofia",
+        "sistema",
+        "nervioso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Julio Caballero presenta el webinar sobre activación neuromuscular, detalla su trayectoria profesional y expone la estructura de la sesión.",
+      "context_after": "Se detallan los tres niveles neurofisiológicos que explican la inhibición muscular artrogénica, empezando por la alteración sensorial en la articulación."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "06:15",
+      "end_timestamp": "08:48",
+      "start_seconds": 375,
+      "end_seconds": 528,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=375",
+      "title": "Nivel 1 de IMA: Alteración del input sensorial articular",
+      "summary": "El problema de la inhibición empieza en la articulación, no en el músculo. Tras una lesión, la inflamación y el dolor alteran la información de los mecanorreceptores que la articulación envía al sistema nervioso, creando una señal ruidosa.",
+      "literal_quote": "Tras una lesión, tras una cirugía, aparece inflamación, derrame articular, dolor y todo esto cambia la información sensorial que el hombro envía al sistema nervioso.",
+      "full_transcript": "Podemos entenderlo en tres niveles principales. Como bien pongo, es input sensorial alterado, modulación espinal refleja y reducción de activación voluntaria. Voy a explicar todo esto más detallado. Cuando hablamos de inhibición muscular artrogénica, muchas veces pensamos que es únicamente el cuádriceps el que está dañado, pero realmente el problema empieza mucho antes que el músculo. Empieza en la propia articulación. Aquí vemos, por ejemplo, una lesión del hombro, aquí es cuando empieza la inflamación. ¿Por qué? Porque hay un trauma, hay un golpe en la glenohumeral, por ejemplo. Esto es un ejemplo, en la foto donde hay inflamación, puede haber una rotura del manguito. Tras una lesión, tras una cirugía, aparece inflamación, derrame articular, dolor y todo esto cambia la información sensorial que el hombro envía al sistema nervioso. Es decir, la articulación deja de mandar una información al sistema nervioso con una señal normal. La señal está un poco alterada. Esto es importante entenderlo, porque, por ejemplo, la rodilla también, no solo tiene una función mecánica, es decir, la rodilla no solo flexiona, estira y hace rotaciones, sino que tiene muchos mecanorreceptores, nociceptores y estructuras que están continuamente enviando información al sistema nervioso, sobre todo sobre posición, la carga, la propiocepción. Por lo tanto, cuando esta información se altera por una lesión, el sistema nervioso empieza a recibir una señal ruidosa, menos precisa desde la articulación lesionada. Esto es importante entenderlo.",
+      "keywords": [
+        "input-sensorial",
+        "inflamacion",
+        "mecanorreceptores",
+        "propiocepcion",
+        "articulacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Julio Caballero sobre el input sensorial tras una lesión?",
+        "¿Dónde se habla de alteración de mecanorreceptores y propiocepción?",
+        "¿Cómo afecta la inflamación articular al sistema nervioso?"
+      ],
+      "related_terms": [
+        "input",
+        "sensorial",
+        "inflamación",
+        "mecanorreceptores",
+        "propiocepción"
+      ],
+      "relevance_score": 4,
+      "context_before": "Utilizando el ejemplo del futbolista Ricky Puig, se define la inhibición muscular artrogénica como una alteración en la comunicación entre el sistema nervioso y el músculo.",
+      "context_after": "Se explica el impacto de esta señal ruidosa en la médula espinal y a nivel de la corteza cerebral."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "08:48",
+      "end_timestamp": "11:21",
+      "start_seconds": 528,
+      "end_seconds": 681,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=528",
+      "title": "Niveles 2 y 3 de IMA: Modulación espinal y reducción del 'voluntary drive'",
+      "summary": "La señal alterada de la articulación llega a la médula espinal creando un entorno inhibitorio que bloquea parte del impulso nervioso hacia el músculo. Además, se produce una disminución del control motor cortical (voluntary drive), impidiendo una contracción muscular eficiente por parte del cerebro.",
+      "literal_quote": "Básicamente, aumenta lo que es el entorno inhibitorio a nivel espinal y disminuye la excitabilidad de la motoneurona alfa... parte de esta señal se queda frenada antes de llegar al músculo.",
+      "full_transcript": "Pero el problema no se queda ahí, sino esa información que llega alterada, ese ruido, llega a la médula espinal. Aquí observamos la médula espinal y modifica cómo se procesa esa información y esa señal motora, esa señal de movimiento. Aquí aparece lo que se denomina la inhibición refleja o modulación espinal. Este es el segundo punto. Básicamente, aumenta lo que es el entorno inhibitorio a nivel espinal y disminuye la excitabilidad de la motoneurona alfa. Esto, clínicamente, ¿qué quiere decir? Que aunque el cerebro intente activar la musculatura, por ejemplo, del manguito rotador o del cuádriceps, parte de esta señal se queda frenada antes de llegar al músculo. Es como si existiera una sensación de bloqueo de seguridad del sistema nervioso. Pero todavía hay un nivel más, que es la reducción de activación voluntaria, que viene directamente del cerebro. Porque hoy en día sabemos que no ocurre solo en la médula espinal, sino también a nivel central. Existen cambios a nivel cerebral. Por lo tanto, aquí, ¿qué es lo que ocurre en el último punto? Que la evidencia muestra alteraciones en el control motor cortical a nivel cerebral y una disminución del voluntary drive. Y esto lo que quiere decir es que el problema no es únicamente esa transmisión de la señal, sino que también lo que ocurre es que la capacidad del cerebro para generar una activación muscular completa y eficiente. Por eso los pacientes muchas veces te dicen: \"Es que no puedo, intento contraer fuerte el cuádriceps, pero el músculo no responde\". Y es realmente por esto. No es solo una sensación subjetiva del propio paciente, sino que hay una base neurofisiológica detrás. Por esto tres principales factores.",
+      "keywords": [
+        "modulacion-espinal",
+        "motoneurona",
+        "control-motor-cortical",
+        "voluntary-drive",
+        "sistema-nervioso-central"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Teoría"
+      ],
+      "search_questions": [
+        "¿Qué explica Julio Caballero sobre modulación espinal y control motor cortical?",
+        "¿Dónde se habla de la incapacidad voluntaria para contraer el músculo?",
+        "¿Cómo funciona la excitabilidad de la motoneurona alfa tras una lesión?"
+      ],
+      "related_terms": [
+        "médula",
+        "espinal",
+        "inhibición",
+        "refleja",
+        "control",
+        "motor",
+        "cortical"
+      ],
+      "relevance_score": 5,
+      "context_before": "El problema de la inhibición empieza en la articulación, no en el músculo. Tras una lesión, la inflamación y el dolor alteran la información de los mecanorreceptores.",
+      "context_after": "Se mencionan ejemplos de lesiones comunes que presentan inhibición muscular artrogénica, como LCA, prótesis de rodilla o esguinces de tobillo."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "11:26",
+      "end_timestamp": "13:12",
+      "start_seconds": 686,
+      "end_seconds": 792,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=686",
+      "title": "Lesiones comunes asociadas a la IMA",
+      "summary": "La inhibición muscular artrogénica aparece de forma secundaria a lesiones articulares frecuentes. Es común verla en roturas de ligamento cruzado anterior, artrosis de rodilla, lesiones de tobillo (esguinces que afectan a los peroneos) y patologías de hombro (bursitis, roturas del manguito).",
+      "literal_quote": "La inhibición muscular artrogénica es un fenómeno multifactorial... y neurofisiológico secundario siempre a una patología articular, no a una lesión primaria.",
+      "full_transcript": "La inhibición muscular artrogénica es un fenómeno multifactorial, como he comentado, y neurofisiológico secundario siempre a una patología articular, no a una lesión primaria. Es decir, cuando hay una lesión articular, puede que ocurra esta inhibición muscular artrogénica. Sobre todo por mi experiencia, yo he visto muchos casos cuando hay una rotura de ligamento cruzado anterior, cuando hay una cirugía donde se ve esa inhibición muscular artrogénica en el vasto medial, vasto lateral, en prótesis total de rodilla también. Existen muchos casos de inhibición muscular, osteoartritis y lesiones meniscales. Aquí se afecta principalmente todo el cuádriceps. En el tobillo también es bastante común, por ejemplo, cuando hay un esguince del ligamento peroneo astragalino anterior o alguna rotura del peroneo, sobre todo el peroneo lateral corto y el largo se ven afectados y la musculatura no responde igual, con un mecanismo de vibración y de inestabilidad en el tobillo. Y por último, el hombro, que también vemos casos de inhibición muscular artrogénica, que la musculatura no se activa correctamente. Cuando hay una inflamación de una bursitis o alguna rotura del tendón del supraespinoso, la musculatura de alrededor se ve bastante afectada, sobre todo la musculatura escapular, infraespinoso y romboide. Todo ese complejo a nivel muscular articular se ve afectado.",
+      "keywords": [
+        "patologia-articular",
+        "ligamento-cruzado",
+        "menisco",
+        "esguince-tobillo",
+        "manguito-rotador"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Casos clínicos"
+      ],
+      "search_questions": [
+        "¿Qué lesiones provocan inhibición muscular artrogénica?",
+        "¿Dónde se habla de esguinces de tobillo e inhibición muscular?",
+        "¿Cómo afecta una bursitis a la musculatura escapular?"
+      ],
+      "related_terms": [
+        "patología",
+        "articular",
+        "LCA",
+        "prótesis",
+        "hombro",
+        "tobillo"
+      ],
+      "relevance_score": 4,
+      "context_before": "La señal alterada de la articulación llega a la médula espinal creando un entorno inhibitorio y causando una disminución del control motor cortical.",
+      "context_after": "Se abordan las consecuencias clínicas de la IMA, como la pérdida de fuerza, la atrofia secundaria y las alteraciones de patrones de movimiento."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "13:15",
+      "end_timestamp": "17:08",
+      "start_seconds": 795,
+      "end_seconds": 1028,
+      "duration_seconds": 233,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=795",
+      "title": "Consecuencias clínicas de la IMA y kinesiofobia",
+      "summary": "Clínicamente, la IMA provoca pérdida de fuerza inicial por componentes neurales, atrofia secundaria por falta de carga, alteraciones biomecánicas (compensaciones y rigidez protectora) y cambios psicológicos como la pérdida de confianza y conductas de evitación (kinesiofobia).",
+      "literal_quote": "Es decir, inicialmente, el problema suele ser neural, pero a posterior termina convirtiéndose también en un problema más a nivel estructural... Además, aparecen cambios conductuales y perceptivos.",
+      "full_transcript": "Una vez que hemos entendido qué ocurre a nivel neurofisiológico, la siguiente pregunta es: ¿cómo afecta esto a nivel clínico? ¿Cómo le afecta esto a mi deportista? Y aquí es donde empiezan muchas de las limitaciones funcionales que vemos en la rehabilitación hoy en día. El primero, como bien pongo aquí, es la pérdida de fuerza, que es la más importante. Hay que destacar que, sobre todo en fases iniciales, esa pérdida de fuerza no puede explicarse por la atrofia muscular, sino que existe ese componente neural, como he comentado anteriormente, que es muy importante y está relacionado con la disminución de la activación voluntaria del deportista, de ese intentar activar, pero no puedo. Luego, atrofia secundaria, como hemos visto en la primera foto de Ricky Puig. Aquí existe una falta de fuerza y sobre todo una atrofia muscular dos meses después de la lesión. Esta foto fue dos meses a posteriori, después de la reconstrucción de su ligamento cruzado anterior de la pierna derecha. Por lo tanto, con el tiempo, si esa musculatura no se activa ni se carga correctamente, aparece una atrofia secundaria, que es el caso de Ricky Puig. Es decir, inicialmente, el problema suele ser neural, pero a posterior termina convirtiéndose también en un problema más a nivel estructural. Una inhibición mantenida acaba favoreciendo esa atrofia muscular. El punto tres es la alteración de patrones de movimientos. El sistema nervioso intenta seguir produciendo siempre movimiento, aunque esa musculatura no esté funcionando correctamente. Y esto genera principalmente compensaciones cuando se le pide al cliente o al paciente una extensión de cuádriceps, por ejemplo, en isometría, que intenta apretar contra una tabla o contra la camilla, hay una compensación a nivel de la cadera con una anteriorización de la cadera o rigidez protectora, cambios en estrategia de aterrizaje, con esa inhibición muscular artrogénica durante un proceso largo. Cuando se está trabajando, si eso no se trata bien desde el principio, a nivel de aterrizaje el paciente tiembla un poquito más. Eso hay que tenerlo en cuenta. Luego, por último punto, es la pérdida de confianza. No todo es biomecánico, sino que también aparecen cambios conductuales y perceptivos. Por mi experiencia, muchos pacientes pierden la confianza en la extremidad lesionada y sienten inseguridad y desarrollan conductas de evitación. Por ejemplo, si duele, no lo hago. Entonces, sobre todo cuando sigue apareciendo dolor o sensación de inestabilidad, es superimportante tenerlo en cuenta como consecuencia clínica. Además, yo he estado trabajando con psicología y me gustaba trabajar mucho con ello, porque aquí es un punto clave trabajar con ello por el hecho de manejar esas variables psicológicas como la kinesiofobia y poder así llevar una mejor recuperación, sobre todo en un proceso agudo después de la cirugía.",
+      "keywords": [
+        "consecuencias-clinicas",
+        "atrofia-secundaria",
+        "patrones-movimiento",
+        "kinesiofobia",
+        "compensaciones"
+      ],
+      "entities": [
+        "Ricky Puig"
+      ],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Casos clínicos"
+      ],
+      "search_questions": [
+        "¿Cuáles son las consecuencias clínicas de la inhibición muscular artrogénica?",
+        "¿Dónde se habla de kinesiofobia y psicología en la readaptación?",
+        "¿Cómo altera la IMA los patrones de movimiento del deportista?"
+      ],
+      "related_terms": [
+        "pérdida",
+        "fuerza",
+        "atrofia",
+        "secundaria",
+        "compensación",
+        "kinesiofobia"
+      ],
+      "relevance_score": 5,
+      "context_before": "La inhibición muscular artrogénica aparece de forma secundaria a lesiones articulares frecuentes como roturas de ligamento cruzado anterior, artrosis o lesiones de hombro.",
+      "context_after": "Se detalla la diferencia entre la fuerza muscular pasiva, la capacidad de activación neurológica y la producción de fuerza funcional."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+      "speaker": "Julio Caballero López",
+      "start_timestamp": "17:08",
+      "end_timestamp": "18:36",
+      "start_seconds": 1028,
+      "end_seconds": 1116,
+      "duration_seconds": 88,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1028",
+      "title": "Fuerza muscular vs. Capacidad de activación vs. Fuerza funcional",
+      "summary": "Es vital diferenciar entre la fuerza muscular (potencial de generar tensión del tejido), la capacidad de activación (cuánto músculo recluta el sistema nervioso) y la fuerza funcional (aplicar esa fuerza eficientemente en tareas reales).",
+      "literal_quote": "El objetivo no es solo recuperar el músculo en sí, sino restaurar esa capacidad del sistema para producir una fuerza útil y eficiente.",
+      "full_transcript": "Aquí os pongo esta diapositiva. Volvemos a los primeros años de grado y lo pongo porque me parece superimportante, que hay veces que pasamos por encima de ella y son conceptos que hay que tener super en cuenta. No debemos confundir entre la fuerza muscular, la capacidad de activación y la producción de fuerza funcional. Esto parece una tontería, pero es superimportante. Es decir, la fuerza muscular hace referencia a la capacidad potencial del tejido muscular para generar tensión. Por otro lado, la capacidad de activación depende de cuánto músculo es capaz de reclutar el sistema nervioso. Es decir, puedes tener mucho músculo, pero no ser capaz de utilizarlo correctamente. Y finalmente, la producción de fuerza funcional, que implica aplicar esa fuerza que he comentado anteriormente de manera eficiente en tareas reales, como es el correr, el cambiar de dirección y el aterrizaje. Entonces, ¿cuál es el objetivo de todo esto? El objetivo no es solo recuperar el músculo en sí, sino restaurar esa capacidad del sistema para producir una fuerza útil y eficiente.",
+      "keywords": [
+        "fuerza-muscular",
+        "capacidad-activacion",
+        "fuerza-funcional",
+        "reclutamiento-motor",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué explica Julio Caballero sobre fuerza muscular vs capacidad de activación?",
+        "¿Dónde se define la producción de fuerza funcional?",
+        "¿Por qué el tamaño del músculo no equivale siempre a su correcta activación?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "muscular",
+        "activación",
+        "neuromuscular",
+        "fuerza",
+        "funcional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clínicamente, la IMA provoca pérdida de fuerza inicial por componentes neurales, atrofia secundaria, alteraciones biomecánicas y cambios psicológicos.",
+      "context_after": "El fragmento finaliza estableciendo que el objetivo último de la readaptación es recuperar un sistema capaz de producir fuerza útil (nota: la idea de las estrategias prácticas queda indicada como contenido posterior)."
+    }
+  ]
+}
