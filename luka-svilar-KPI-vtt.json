@@ -1,0 +1,1068 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Key Performance Indicators",
+    "speaker": "Luka Svilar",
+    "total_duration": "00:51:03",
+    "total_duration_seconds": 3063,
+    "source_file": "WEBVTT-KPI.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:45",
+      "start_seconds": 0,
+      "end_seconds": 165,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y experiencia con NSCA",
+      "summary": "Luka Svilar inicia la presentación recordando su experiencia al obtener la certificación CSCS de la NSCA en España, destacando los retos logísticos durante la pandemia de COVID-19 y la burbuja de Valencia.",
+      "literal_quote": "I have to say, whenever I hear NSCA Spain, I always think of my CSCS certification that I did back when I was still living in Spain in 2019-2020 season.",
+      "full_transcript": "Hello to everyone. Welcome to this great course by the NSCA Spain. I have to say, whenever I hear NSCA Spain, I always think of my CSCS certification that I did back when I was still living in Spain in 2019-2020 season. I decided to start studying for the exam, and my goal was to do my CSCS exam at the end of the basketball season. But as you most likely remember, it was the COVID shutdown season. So during the lockout, I was still studying at home thinking that I will be able to go to the exam in June... But then we played a bubble tournament in Valencia... I was not able to do my CSCS. But lucky enough, I continued to work in Russia... And I took advantage of one of our road games in Spain when we played Badalona... I went to the center to do the exam... and I was lucky enough to pass the exam and get my CSCS certificate.",
+      "keywords": [
+        "nsca",
+        "cscs",
+        "spain",
+        "certification",
+        "experience",
+        "covid"
+      ],
+      "entities": [
+        "Luka Svilar",
+        "NSCA Spain",
+        "Valencia",
+        "Badalona"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué experiencia relata Luka Svilar sobre su certificación CSCS?",
+        "¿Dónde menciona Luka Svilar que realizó su examen de la NSCA?"
+      ],
+      "related_terms": [
+        "certificación",
+        "nsca",
+        "experiencia",
+        "cscs"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Tras la anécdota, el ponente introduce formalmente el tema central de la charla: los Indicadores Clave de Rendimiento (KPIs)."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "02:45",
+      "end_timestamp": "04:07",
+      "start_seconds": 165,
+      "end_seconds": 247,
+      "duration_seconds": 82,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=165",
+      "title": "Las cuatro categorías principales de KPIs",
+      "summary": "Se presenta el marco de trabajo para la selección de KPIs, dividiéndolos en cuatro grandes pilares para simplificar su gestión: Salud, Rendimiento Físico, Rendimiento en Juego y Evaluación Perceptual.",
+      "literal_quote": "To simplify it, I cut it down to four different sections or categories. One is health, second one is physical performance, third one is game performance, and then the very last one is athletes' and coaches' perceptual assessment.",
+      "full_transcript": "And today, I will be talking about key performance indicators. I think it's always a nice topic, especially if it can be a debate around coaches, because key performance indicators guide us in our daily decision-making process. And today, I'm just going to present a little bit a framework for selection and application of KPIs. My background is in basketball, but I think it can work well for majority of the team sports and also some individual sports. When we talk about key performance indicators, we have definitely different categories or silos or different pillars. And to simplify it, I cut it down to four different sections or categories. One is health, second one is physical performance, third one is game performance, and then the very last one is athletes' and coaches' perceptual assessment.",
+      "keywords": [
+        "kpis",
+        "health",
+        "physical-performance",
+        "game-performance",
+        "perceptual-assessment",
+        "framework"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro categorías principales de KPIs que propone Luka Svilar?",
+        "¿Por qué son importantes los Key Performance Indicators en el día a día?"
+      ],
+      "related_terms": [
+        "kpi",
+        "indicadores clave de rendimiento",
+        "salud",
+        "rendimiento físico",
+        "rendimiento en juego"
+      ],
+      "relevance_score": 5,
+      "context_before": "Finaliza la introducción personal.",
+      "context_after": "Se detalla cómo estas cuatro categorías no operan de forma aislada, sino que se solapan en la práctica diaria."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "04:07",
+      "end_timestamp": "05:40",
+      "start_seconds": 247,
+      "end_seconds": 340,
+      "duration_seconds": 93,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=247",
+      "title": "Interconexión y solapamiento de los pilares",
+      "summary": "Svilar aclara que en la vida real, los cuatro pilares de KPIs no son silos aislados. Constantemente se superponen, dependiendo del tipo de indicador y del momento de la temporada (ej. el rendimiento en juego se solapa con la evaluación perceptual).",
+      "literal_quote": "All those four pillars come together, and they, on a daily basis, they overlap to a certain extent.",
+      "full_transcript": "Now, we can say that those four categories are unique, and they are because they represent a specific quality or a thing. But in real life, when we deal with athletes on a daily basis and we go through training days and game days and rest days, all those four pillars come together, and they, on a daily basis, they overlap to a certain extent. Sometimes they overlap significantly, sometimes they overlap a little bit. But there is always a connection between those four pillars. So I would prefer to see a scheme or a figure that looks a little bit more like this, where all those four rings, so to speak, are somehow connected. And as I said, sometimes a game performance will significantly overlap with perceptual assessment, and sometimes physical performance and health will be basically over each other. So, it depends also on the KPI and also on the moment of the season and some other factors that we will touch later on.",
+      "keywords": [
+        "pillars",
+        "overlap",
+        "connection",
+        "daily-basis",
+        "kpis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se dice que los cuatro pilares de KPIs no son categorías aisladas?",
+        "¿De qué depende el nivel de superposición entre diferentes categorías de KPIs?"
+      ],
+      "related_terms": [
+        "solapamiento",
+        "interconexión",
+        "pilares de rendimiento",
+        "contexto diario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se definieron las 4 áreas temáticas de los KPIs.",
+      "context_after": "Se presenta la hoja de ruta de la conferencia y los subtemas que se abordarán a continuación."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "05:40",
+      "end_timestamp": "08:08",
+      "start_seconds": 340,
+      "end_seconds": 488,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=340",
+      "title": "Hoja de ruta y toma de decisiones compartida",
+      "summary": "Se presenta el índice de la sesión: lista de indicadores, selección, recolección de datos y toma de decisiones. Svilar recalca que recopilar datos no hace al analista el único responsable de tomar decisiones; la información debe compartirse con otros departamentos para acciones conjuntas.",
+      "literal_quote": "If we are collecting KPIs... it doesn't mean that just because we are collecting all of the data, we are the only user of those data, and we are the only person to make decisions.",
+      "full_transcript": "I would like to give you a little overview of what you can expect. In the next 45 minutes to one hour, we will be talking about the list of indicators, obviously following those four main categories. Then we will talk about the selection of indicators. And then how to collect data and how to organize our decision-making process. Because if we are collecting KPIs and we are main responsible for collecting it, it doesn't mean that just because we are collecting all of the data, we are the only user of those data, and we are the only person to make decisions. Maybe we will provide, and hopefully we will provide some data to other shareholders, and they will be able to make decisions in their training and game process. We will talk a little bit about data analysis... and how it differs from the data science... and then we will talk about player dashboards and how to make one type of report... individualization is a priority in team sports. And that's why at the end, we will be talking about player dashboard because we want to individualize KPIs as much as possible.",
+      "keywords": [
+        "data-collection",
+        "decision-making",
+        "shareholders",
+        "dashboards",
+        "individualization"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol del analista o preparador respecto a los datos recolectados?",
+        "¿Por qué es importante compartir los datos con otros 'shareholders' o departamentos?"
+      ],
+      "related_terms": [
+        "toma de decisiones",
+        "recolección de datos",
+        "reportes",
+        "individualización"
+      ],
+      "relevance_score": 4,
+      "context_before": "La introducción teórica establece que los KPIs se solapan.",
+      "context_after": "Se inicia la revisión exhaustiva de la primera categoría de KPIs: la salud."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "08:08",
+      "end_timestamp": "09:54",
+      "start_seconds": 488,
+      "end_seconds": 594,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=488",
+      "title": "KPIs de Salud: Escaneo de Tendones",
+      "summary": "Iniciando con la categoría de Salud, Svilar destaca el uso de tecnología emergente, como los escáneres de tendones (Aquiles y Rotuliano), siendo métricas críticas para prevenir lesiones en deportes de alto impacto, saltos y cambios de dirección (como baloncesto y voleibol).",
+      "literal_quote": "One of the things that we can do is to scan tendons. It is a relatively new technology.",
+      "full_transcript": "The list of indicators. First, we will start with the category of health... So when it comes to health, one of the things that we can do is to scan tendons. It is a relatively new technology. Pretty popular in high-level sports with good economical background in USA. I think it is very useful, especially when we talk about Achilles tendon scans and patellar tendon scans, especially in jumping sports, change of direction sports like basketball and volleyball.",
+      "keywords": [
+        "health",
+        "tendons",
+        "achilles",
+        "patellar",
+        "technology",
+        "jumping-sports"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué nueva tecnología se menciona para la monitorización de salud en deportes de alto nivel?",
+        "¿En qué tipo de deportes es especialmente útil el escaneo del tendón rotuliano y de Aquiles?"
+      ],
+      "related_terms": [
+        "escaneo de tendones",
+        "tendón de aquiles",
+        "tendón rotuliano",
+        "salud"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que el objetivo final de los datos es la individualización mediante dashboards.",
+      "context_after": "Se continúa listando más pruebas físicas relacionadas con la prevención y evaluación de salud."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "09:54",
+      "end_timestamp": "11:54",
+      "start_seconds": 594,
+      "end_seconds": 714,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=594",
+      "title": "KPIs de Salud: Movilidad y Estabilidad",
+      "summary": "Se listan pruebas clásicas de salud estructural: rango de movimiento (ROM) en dorsiflexión de tobillo y cadera (o de hombro en béisbol). Para la estabilidad, se pueden usar tests de equilibrio a una pierna (con ojos abiertos o cerrados), Star Excursion Test o el sistema Delos.",
+      "literal_quote": "What I would choose as a top priority when it comes to basketball, it would definitely be an ankle dorsiflexion range of motion.",
+      "full_transcript": "Then an indicator for health can be a mobility test. It can be a dorsiflexion range of motion. It can be hip range of motion. Maybe in baseball, a mobility KPI will be shoulder range of motion... just to give you a little insight, what I would choose as a top priority when it comes to basketball, it would definitely be an ankle dorsiflexion range of motion. Then stability. Single leg balance hold, whether it is single leg hold with eyes open or eyes closed. Then we can have different tests like star excursion test or doing single leg balance on a machine like Delos. Here, the list is also endless, like it was for the mobility. But if we are trying to assess a little bit single leg balance, we can measure it in different ways. Whether it comes from some kind of forced platform or whatever the platform is, or just a simple single leg balance hold and a stopwatch.",
+      "keywords": [
+        "mobility",
+        "dorsiflexion",
+        "stability",
+        "single-leg-balance",
+        "star-excursion",
+        "delos"
+      ],
+      "entities": [
+        "Delos"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es el test de movilidad de máxima prioridad para Luka Svilar en baloncesto?",
+        "¿Qué pruebas menciona Svilar para evaluar la estabilidad monopodal?"
+      ],
+      "related_terms": [
+        "movilidad",
+        "dorsiflexión de tobillo",
+        "estabilidad",
+        "equilibrio monopodal"
+      ],
+      "relevance_score": 4,
+      "context_before": "El escáner de tendones se expuso como una tecnología avanzada y costosa.",
+      "context_after": "Se avanza hacia la evaluación de la resistencia y fuerza muscular con enfoque en salud."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "11:54",
+      "end_timestamp": "12:51",
+      "start_seconds": 714,
+      "end_seconds": 771,
+      "duration_seconds": 57,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=714",
+      "title": "KPIs de Salud: Fuerza Muscular Isométrica",
+      "summary": "Para evaluar la resistencia y fuerza isométrica orientada a la salud (y no tanto al rendimiento), sugiere el uso de planchas (plank holds), extensiones lumbares y planchas laterales. También recomienda plataformas de fuerza para isometría de sóleo y sistemas como ForceFrame para aductores/abductores.",
+      "literal_quote": "When it comes to muscle strength and endurance, that is connected more to the health rather than the performance side.",
+      "full_transcript": "Then when it comes to muscle strength and endurance, that is connected more to the health rather than the performance side. I think plank holds, back extension holds, side plank holds A great way to assess isometric strength and endurance. Soleus isometrics, especially on force platforms where we can get measurements like force production, relative force production in newtons per kilo. Then if you have a force frame to measure adductors isometric strength, abductors isometric strength, and then obviously you can relate that to adduction/abduction ratios in force production. Those things are pretty, pretty important.",
+      "keywords": [
+        "muscle-strength",
+        "endurance",
+        "isometric",
+        "planks",
+        "soleus",
+        "force-frame",
+        "adductors"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué Luka Svilar categoriza la resistencia muscular isométrica dentro de 'Salud' y no 'Rendimiento'?",
+        "¿Qué pruebas de fuerza isométrica específica menciona para la extremidad inferior?"
+      ],
+      "related_terms": [
+        "fuerza isométrica",
+        "planchas",
+        "sóleo",
+        "abductores",
+        "aductores"
+      ],
+      "relevance_score": 5,
+      "context_before": "La evaluación del rango de movimiento y el equilibrio proveen datos estructurales básicos.",
+      "context_after": "El análisis de fuerza bilateral genera datos sobre asimetrías, abriendo un debate conceptual importante."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "12:51",
+      "end_timestamp": "14:35",
+      "start_seconds": 771,
+      "end_seconds": 875,
+      "duration_seconds": 104,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=771",
+      "title": "KPIs de Salud: Cambio de paradigma en las Asimetrías",
+      "summary": "Svilar aborda el debate sobre las asimetrías. Históricamente se buscaba corregirlas para que no superaran el 3-5%. Actualmente, la evidencia sugiere que los atletas pueden rendir sin lesiones con asimetrías funcionales del 15% al 25%. Lo importante es saber dónde está la asimetría y cómo se adapta el entrenamiento.",
+      "literal_quote": "Nowadays, a lot of practitioners and a lot of researchers are more supportive of the fact that asymmetries are very often functional, and players can perform injury-free with asymmetries of 15% or 20% and 25%.",
+      "full_transcript": "Then all of this, most likely all of the tests that you do will provide you information on the asymmetries, and this can be another layer of KPIs... Asymmetries were and still are a pretty significant debate in the world of athletic performance. Maybe 10, 15, 20 years ago, everyone was talking about corrective programs and the negative side of the asymmetries that we have to get rid of. We have to look to develop a balanced athlete, and there cannot be more than 3% to 5% difference between left and right side of the body. While nowadays, a lot of practitioners and a lot of researchers are more supportive of the fact that asymmetries are very often functional, and players can perform injury-free with asymmetries of 15% or 20% and 25%. The only question is where the asymmetry is in the body and how are we dealing with strength program and the development of certain qualities.",
+      "keywords": [
+        "asymmetries",
+        "functional",
+        "corrective-programs",
+        "injury-free",
+        "balance"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo ha cambiado el enfoque de los preparadores físicos sobre las asimetrías en los últimos años?",
+        "¿Qué porcentaje de asimetría se considera hoy en día funcional y libre de lesiones según Svilar?"
+      ],
+      "related_terms": [
+        "asimetrías",
+        "asimetría funcional",
+        "equilibrio muscular",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las métricas de fuerza con sistemas como ForceFrame o plataformas de fuerza revelan diferencias laterales.",
+      "context_after": "Se transita de los test musculoesqueléticos a los parámetros internos de recuperación y fatiga (sueño, analíticas)."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "14:35",
+      "end_timestamp": "16:47",
+      "start_seconds": 875,
+      "end_seconds": 1007,
+      "duration_seconds": 132,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=875",
+      "title": "KPIs de Salud: Sueño, VFC y Analíticas de Sangre",
+      "summary": "Para cerrar los KPIs de salud, menciona la monitorización del sueño (calidad y duración mediante anillos Oura o bandas WHOOP), la evaluación del estado de ánimo con cuestionarios, el control de la Frecuencia Cardíaca en Reposo y VFC (HRV), y analíticas de sangre periódicas (Creatina Quinasa, testosterona, cortisol, hierro y Vitamina D).",
+      "literal_quote": "Another important piece of the puzzle is blood work. And in blood work, we can focus on different parameters, whether it is CK levels, testosterone levels, maybe ratio between testosterone, cortisol, iron and iron deficiencies, and vitamin D.",
+      "full_transcript": "Then health KPIs, sleep, tracking sleep through different technologies, whether it is a WHOOP band, Oura Ring, some kind of sleeping mattresses that have certain technologies and sensors inside, where we will assess quality of sleep, deep sleep time, and total time of sleep. Definitely an important health KPI, especially in high-performance sports where players compete on daily basis... Then assessing mood, especially through some kind of questionnaires, is a great KPI. Heart rate monitoring, especially when we focus on resting heart rate and heart rate variability. That can be tracked through the rings and wristbands, but it can also be done with straps that we use during training sessions... And I think another important piece of the puzzle is blood work. And in blood work, we can focus on different parameters, whether it is CK levels, testosterone levels, maybe ratio between testosterone, cortisol, iron and iron deficiencies, and vitamin D.",
+      "keywords": [
+        "sleep",
+        "whoop",
+        "oura",
+        "hrv",
+        "blood-work",
+        "testosterone",
+        "cortisol",
+        "ck-levels"
+      ],
+      "entities": [
+        "WHOOP",
+        "Oura Ring"
+      ],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué tecnologías menciona Svilar para la monitorización de la calidad del sueño?",
+        "¿Qué biomarcadores específicos recomienda analizar en las pruebas de sangre?"
+      ],
+      "related_terms": [
+        "calidad del sueño",
+        "variabilidad de la frecuencia cardíaca",
+        "analítica de sangre",
+        "biomarcadores"
+      ],
+      "relevance_score": 4,
+      "context_before": "El debate sobre asimetrías concluía la parte de evaluación estructural y neuromuscular de salud.",
+      "context_after": "Concluye el pilar de Salud y da paso al segundo bloque: KPIs de Rendimiento Físico (fuerza y potencia)."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "16:47",
+      "end_timestamp": "18:24",
+      "start_seconds": 1007,
+      "end_seconds": 1104,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1007",
+      "title": "KPIs de Rendimiento Físico: Fuerza y Potencia (CMJ)",
+      "summary": "Dentro del rendimiento físico, los KPIs primarios son los valores de fuerza submáxima/máxima (1-3 RM en sentadillas, peso muerto) y los de potencia a través de plataformas de salto (CMJ). Es fundamental ser selectivo: de las cientos de métricas posibles en un CMJ, basta con elegir 1 o 2 (ej. altura, potencia pico, RSI modificado, impulso o RFD excéntrico).",
+      "literal_quote": "The most important thing is that you are selective. You choose something that makes sense and really describes a certain quality that you are trying to analyze and follow.",
+      "full_transcript": "Now, when we talk about physical performance KPIs, couple of categories here. First one, the most known, strength, especially if we can get that one, two, or three rep values for different movements, whether it is a deadlift, bench press, pull-ups, single leg squats. Whether we are focusing on force production during, let's say, Nordic hamstring exercise or isometric squat... Then power KPIs that often come from measuring counter movement jump, especially if we have latest technology like jumping platforms... Usually, for performance, we will lean more towards jump height, peak power production, modified RSI impulse... Eccentric rate of force development... Some even say that if you really want to push it to the limits, you can get from the system more than 200 metrics on physical performance during a CMJ. The most important thing is that you are selective. You choose something that makes sense and really describes a certain quality that you are trying to analyze and follow.",
+      "keywords": [
+        "physical-performance",
+        "strength",
+        "power",
+        "cmj",
+        "force-platforms",
+        "rsi-modified",
+        "selective"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las métricas más útiles a extraer de un Countermovement Jump (CMJ)?",
+        "¿Por qué es importante ser selectivo con las métricas de las plataformas de fuerza?"
+      ],
+      "related_terms": [
+        "fuerza máxima",
+        "potencia",
+        "cmj",
+        "rsi modificado",
+        "rfd excéntrico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se terminaron de listar los indicadores orientados a la salud.",
+      "context_after": "Al bloque de fuerza y potencia se le suman los indicadores dinámicos de velocidad y cambios de dirección."
+    },
+    {
+      "id": "V03-011",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "18:24",
+      "end_timestamp": "21:06",
+      "start_seconds": 1104,
+      "end_seconds": 1266,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1104",
+      "title": "KPIs de Rendimiento Físico: Velocidad y Desaceleración",
+      "summary": "El tercer componente del rendimiento físico es la velocidad, aceleración y cambios de dirección. Se pueden utilizar sistemas como timing gates, 1080 Sprint (para distancia/tiempo de desaceleración), LPS (Local Positioning Systems) o tecnologías ópticas instaladas en los estadios (Second Spectrum, Hawk-Eye) para obtener datos en juego real.",
+      "literal_quote": "We can use tracking systems in the arenas to get max speed in-game values for all players that participated in the game.",
+      "full_transcript": "And then when it comes to speed, deceleration, change of direction. Okay. We have, again, as I said, accelerations. We can use different tests, and then we can assess deceleration time deficit in a change of direction test. Maybe deceleration distance is another KPI that, for example, you can get in 1080 Sprint system. And then maybe without direct measurement and installation of specific testing equipment, maybe we can use the LPS system in basketball training, and we can get max speed values, or we can use tracking systems in the arenas to get max speed in-game values for all players that participated in the game. And those systems are pretty popular in indoor high-level sports around the world. And a lot of these arenas have systems like Second Spectrum or Hawk-Eye technology. So, these are three main buckets when it comes to physical performance. I believe that strength, power, and speed are the three main buckets.",
+      "keywords": [
+        "speed",
+        "deceleration",
+        "change-of-direction",
+        "1080-sprint",
+        "lps",
+        "second-spectrum",
+        "hawk-eye"
+      ],
+      "entities": [
+        "1080 Sprint",
+        "Second Spectrum",
+        "Hawk-Eye"
+      ],
+      "topics": [
+        "Evaluación",
+        "Tecnología Deportiva"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué sistemas ópticos se utilizan en los estadios para obtener datos de velocidad en tiempo real?",
+        "¿Qué herramienta menciona Svilar para medir distancias de desaceleración?"
+      ],
+      "related_terms": [
+        "velocidad máxima",
+        "desaceleración",
+        "sistemas lps",
+        "tracking óptico"
+      ],
+      "relevance_score": 4,
+      "context_before": "La fuerza y la potencia son el primer paso en la evaluación de rendimiento físico.",
+      "context_after": "Se cambia al tercer pilar de la ponencia: la recolección de métricas derivadas puramente del juego (Game Performance)."
+    },
+    {
+      "id": "V03-012",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "21:06",
+      "end_timestamp": "22:26",
+      "start_seconds": 1266,
+      "end_seconds": 1346,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1266",
+      "title": "KPIs de Rendimiento de Juego (Game Performance)",
+      "summary": "Las estadísticas de los partidos son útiles siempre y cuando el jugador tenga minutos consistentes (ej. 20-25 min/partido). Es vital contextualizar según la posición: rebotes por minuto para un ala-pívot, o pérdidas por minuto para un base, o bien utilizar el ratio de eficiencia general por minuto.",
+      "literal_quote": "A guard might play completely different from a power forward who takes more rebounds. So you have to also be selective in what you are looking for in the game stats.",
+      "full_transcript": "Game performance, then game statistics can always say something. I would not blindly follow it, but it always goes well, especially with players who play continuously over 20, 25 minutes every game. I think if you have a consistent playing time and consistent availability and appearance at the games, game stats can tell you something, especially when you know what your player does specifically. For example, a guard might play completely different from a power forward who takes more rebounds. So you have to also be selective in what you are looking for in the game stats. So for some players, it can be total rebounds per minute of play, or a guard who controls the ball a lot, it can be turnovers per minute of play, or it can just be a game rating, efficiency rating, as they call it in some leagues. Game rating or efficiency rating per minute of play.",
+      "keywords": [
+        "game-performance",
+        "statistics",
+        "playing-time",
+        "efficiency-rating",
+        "positional-demands"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante considerar los minutos jugados al analizar las estadísticas de partido?",
+        "¿Cómo varían las métricas de interés según la posición del jugador en baloncesto?"
+      ],
+      "related_terms": [
+        "estadísticas de juego",
+        "ratio de eficiencia",
+        "demandas posicionales",
+        "minutos jugados"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los sistemas ópticos permiten recoger datos del partido, conectando con el rendimiento técnico-táctico.",
+      "context_after": "Se presenta el cuarto y último pilar de KPIs: la evaluación subjetiva o perceptual."
+    },
+    {
+      "id": "V03-013",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "22:26",
+      "end_timestamp": "25:16",
+      "start_seconds": 1346,
+      "end_seconds": 1516,
+      "duration_seconds": 170,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1346",
+      "title": "KPIs de Evaluación Perceptual (Subjetiva)",
+      "summary": "A pesar del sesgo subjetivo, Svilar confía enormemente en el instinto de los entrenadores veteranos y en las sensaciones del atleta. Propone que los jugadores se autoevalúen (escala 1 a 5) para prevenir testeos inútiles si reportan malestar, y que los entrenadores evalúen a los jugadores usando un sistema simplificado de semáforo (1=rojo/mal, 2=amarillo/normal, 3=verde/muy bien) para minimizar errores.",
+      "literal_quote": "For coaches, since they talk about the others, maybe we can simplify the scale and avoid error on one to five scale and just simplify things on one to three scale.",
+      "full_transcript": "And then we come to the very last, sometimes underestimated category. And just because it's subjective, a lot of people have something against it. I embrace it in my daily work with athletes and whenever I'm around coaches who have been in the field for a long time because their feel for team practice, their feel for the team energy, their feel for individual performance is just outstanding... we can always ask athletes how they feel physically on a scale of one to five. And with that, we can know more about their health, about their physical performance, and what is really bothering them. So, sometimes you will know the main reason why the results on jumping platforms are off. And before you even test, you might know these things. So you might not even do the test knowing that player is having a certain issue... Then the coaching side... coaches can always evaluate how players look physically in practice... we can also evaluate the attitude... And for coaches, since they talk about the others, maybe we can simplify the scale and avoid error on one to five scale and just simplify things on one to three scale. Three, everything looks really good. One, things look really bad. And two is things seem under control... So it's just a simple system of traffic lights. Three is green, two is yellow, and one is red.",
+      "keywords": [
+        "perceptual-assessment",
+        "subjective",
+        "coach-evaluation",
+        "athlete-feedback",
+        "traffic-light-system",
+        "scale"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué defiende Svilar el uso de evaluaciones subjetivas en el deporte de élite?",
+        "¿Qué escala sugiere utilizar para que los entrenadores evalúen a sus jugadores de forma sencilla?"
+      ],
+      "related_terms": [
+        "evaluación subjetiva",
+        "feedback del atleta",
+        "escala de semáforo",
+        "intuición del entrenador"
+      ],
+      "relevance_score": 5,
+      "context_before": "La frialdad de las estadísticas de partido contrasta con la naturaleza humana y perceptiva del día a día.",
+      "context_after": "Se revisan ejemplos concretos de cómo estas cuatro áreas temáticas convergen en la práctica diaria."
+    },
+    {
+      "id": "V03-014",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "25:16",
+      "end_timestamp": "27:16",
+      "start_seconds": 1516,
+      "end_seconds": 1636,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1516",
+      "title": "Intersección de KPIs: Composición Corporal y Disponibilidad",
+      "summary": "Svilar ejemplifica la intersección entre pilares. La Composición Corporal (medida semanal o mensual) cruza 'Salud' y 'Rendimiento Físico', ya que un aumento de grasa afecta la recuperación y la agilidad en pista. La 'Disponibilidad de Juego' (partidos jugados divididos entre el total) cruza 'Salud' con 'Rendimiento de Juego'.",
+      "literal_quote": "One thing that is tremendously important, where health and physical performance overlap, is the body composition.",
+      "full_transcript": "Then, as I said, some of the things overlap on a daily basis, and one thing that is tremendously important, where health and physical performance overlap, is the body composition. Body weight measurements on a daily, weekly basis, body fat measurements on the weekly or monthly basis, and percentage of muscle mass, together with body fat percentages on a weekly or monthly basis is a huge piece of the puzzle when we are assessing and selecting right KPIs that can tell us both about health and physical performance. We know that players who tend to gain weight, especially not lean body mass, but body fat throughout the season, will potentially suffer health wise, but they will definitely have poorer physical performance on the court and poor recovery. Another part where health overlaps with another category is game performance. And here we are talking about game availability. So players who are healthy, they are available for games, and a simple calculation is games played divided by total games. So a simple calculation can be player who was able to play 70 games out of 82 games has game availability of 85%.",
+      "keywords": [
+        "overlap",
+        "body-composition",
+        "body-fat",
+        "muscle-mass",
+        "game-availability"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el aumento de masa grasa a los diferentes pilares de rendimiento deportivo?",
+        "¿Cómo se calcula la métrica de 'disponibilidad de juego'?"
+      ],
+      "related_terms": [
+        "composición corporal",
+        "disponibilidad de juego",
+        "masa muscular",
+        "masa grasa"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detallaron exhaustivamente cada una de las cuatro categorías de KPIs.",
+      "context_after": "Se pasa a la segunda fase de la charla: cómo seleccionar los indicadores correctos para la plantilla."
+    },
+    {
+      "id": "V03-015",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "27:16",
+      "end_timestamp": "30:00",
+      "start_seconds": 1636,
+      "end_seconds": 1800,
+      "duration_seconds": 164,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1636",
+      "title": "Selección de KPIs: Estándares de Equipo",
+      "summary": "Existen dos enfoques al seleccionar KPIs. El primero son los 'Team Standards': pruebas obligatorias para todos independientemente de su edad o rol. Ejemplos incluyen pesajes semanales, test de CMJ dos veces por semana en pre-partido (extrayendo RSI modificado y duración excéntrica) y analíticas de sangre estratégicas (septiembre, diciembre, febrero y mayo).",
+      "literal_quote": "There are usually two approaches when it comes to selection of KPIs. One is a team standard, where regardless of who you are, how old you are... you will always do these tests because they are a team standard.",
+      "full_transcript": "Now, the next part of the lecture is devoted to selection of indicators, and I think this is probably the most valuable part of the lecture because it's very practical... There are usually two approaches when it comes to selection of KPIs. One is a team standard, where regardless of who you are, how old you are, how long you have been with the team, you will always do these tests because they are a team standard. And an example can be body weight and body fat. On our team, body weight once per week, body fat will be taken every six to eight weeks. On our team, we have force platforms, so when it comes to counter movement jump, we will use it two times per week with all of the players before we play games as a part of the pre-game preparation. And then metrics that we will take from that measurement are modified RSI for physical performance, and then to measure health, in a sense, to assess chronic fatigue, we will focus on the eccentric duration. Okay. And then blood work, we will do four times a year right before the season starts, so in September. Two times during the competitive season, December and February. And then in the postseason, during the playoff period, we will do the final blood test.",
+      "keywords": [
+        "selection",
+        "team-standards",
+        "cmj",
+        "blood-work",
+        "rsi",
+        "eccentric-duration"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué son los 'Team Standards' en la recolección de métricas de rendimiento?",
+        "¿En qué meses se recomienda realizar las analíticas de sangre en una temporada estándar europea?"
+      ],
+      "related_terms": [
+        "estándares de equipo",
+        "pruebas obligatorias",
+        "calendarización de pruebas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las métricas se entrelazan de forma compleja, por lo que es necesario ordenarlas sistémicamente.",
+      "context_after": "El segundo enfoque es la personalización absoluta de las pruebas para cada jugador, en base a su historial y metas."
+    },
+    {
+      "id": "V03-016",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "30:00",
+      "end_timestamp": "31:13",
+      "start_seconds": 1800,
+      "end_seconds": 1873,
+      "duration_seconds": 73,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1800",
+      "title": "Selección de KPIs: Criterios de Individualización",
+      "summary": "El segundo enfoque en la selección de KPIs es la individualización. Esta se basa en revisar el historial lesional del atleta (jugadores lesionados requieren más KPIs de movilidad y asimetría) y en su edad de entrenamiento (jugadores jóvenes se centran en metas de rendimiento; veteranos en el monitoreo de la salud general).",
+      "literal_quote": "First, we have to look into injury history of our players. And players with an extensive injury history might have more KPIs that are based on health.",
+      "full_transcript": "On the other side, when we talk about the individualization of indicators, first, we have to look into injury history of our players. And players with an extensive injury history might have more KPIs that are based on health. Okay, so we're talking about maybe more mobility KPIs, stability KPIs Compared to maybe some other players, maybe some asymmetry KPIs and so on and so forth. When it comes to the age, especially training age, young players might have more KPIs that are oriented towards performance because we want to improve their performance and their program is tailored towards performance enhancement, while some veteran players might have more health-based KPIs.",
+      "keywords": [
+        "individualization",
+        "injury-history",
+        "training-age",
+        "young-players",
+        "veteran-players"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué criterios se utilizan para individualizar los KPIs de un jugador?",
+        "¿Cómo difiere la selección de KPIs entre jugadores jóvenes y veteranos?"
+      ],
+      "related_terms": [
+        "individualización",
+        "historial de lesiones",
+        "edad de entrenamiento",
+        "veteranos vs jóvenes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los estándares de equipo se aplican a toda la plantilla por igual.",
+      "context_after": "Se ilustra este concepto teórico con un caso práctico comparando dos perfiles de jugadores totalmente opuestos."
+    },
+    {
+      "id": "V03-017",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "31:13",
+      "end_timestamp": "34:39",
+      "start_seconds": 1873,
+      "end_seconds": 2079,
+      "duration_seconds": 206,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1873",
+      "title": "Caso Práctico: Perfil joven vs. Perfil veterano",
+      "summary": "Se presenta el caso de John (21 años, esguinces previos, necesita ganar masa y frenada) frente a Marcus (33 años, LCA previo, dolores de espalda y tendencia a ganar grasa). El programa de John se enfoca en métricas de rendimiento (3RM de fuerza, deceleración y saltos unilaterales), mientras que el de Marcus se orienta puramente a la salud (planchas, escáner de tendones, composición corporal frecuente y sentadillas isométricas para proteger la rodilla).",
+      "literal_quote": "John, maybe on the health side, we want to focus more on ankle mobility and single leg balance... On the side of Marcus, when it comes to health, knowing that he has chronic low back pain problems... maybe we want to do once a month plank and side plank hold tests.",
+      "full_transcript": "And then an example can be these two players, John and Marcus, with different backgrounds. John is 21 years old. He had right ankle sprain two times in the past. He needs to gain muscle mass and he needs to improve deceleration qualities. On the other side, you have Marcus, who is 33 years old. He had the surgery on his right leg due to ACL tear eight years ago. He tends to have some chronic low back pains, and he has a tendency to gain fat. Now, what are we going to do with John and Marcus and their individual KPIs? Well, John, maybe on the health side, we want to focus more on ankle mobility and single leg balance on Delos that he's going to do once in two weeks. When it comes to the muscle mass thing, we want to assess that once a month and lower body asymmetries like single leg hops, we want to assess once in two weeks. On the physical performance side, we want to track once a month 3RM bench press and trap bar deadlifts. We want to assess two times per week counter movement jump height, and then once a month deceleration time. And then on the perceptual assessment, we will just take one to three ratings from the coach... On the side of Marcus, when it comes to health, knowing that he has chronic low back pain problems with the right knee, maybe we want to do once a month plank and side plank hold tests, then tendon scans every two months, and then definitely more often, which means once a month, body weight and body fat measurements. Okay. When it comes to health and physical performance, single leg isometric bell squat once a month. Health and performance because of his ACL... And then perceptual assessment. He's a veteran player. He knows his body well, and we will ask him about how he feels physically once a week.",
+      "keywords": [
+        "case-study",
+        "individual-kpis",
+        "injury-history",
+        "performance-goals",
+        "health-kpis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se adaptan las pruebas físicas en el caso de un jugador joven propenso a esguinces?",
+        "¿Qué pruebas de seguimiento se priorizan en un jugador veterano con antecedentes de rotura de LCA y dolores lumbares?"
+      ],
+      "related_terms": [
+        "caso práctico",
+        "adaptación de kpis",
+        "perfiles opuestos",
+        "lesiones crónicas"
+      ],
+      "relevance_score": 5,
+      "context_before": "La teoría indica que la edad y las lesiones dictaminan las métricas a monitorizar.",
+      "context_after": "Una vez definidos los KPIs, Svilar aborda el proceso logístico y metodológico para recolectar esa información."
+    },
+    {
+      "id": "V03-018",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "34:39",
+      "end_timestamp": "38:40",
+      "start_seconds": 2079,
+      "end_seconds": 2320,
+      "duration_seconds": 241,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2079",
+      "title": "Tres pasos para la Recolección de Datos y Toma de Decisiones",
+      "summary": "Svilar propone 3 reuniones clave del staff: 1) Al inicio de pretemporada: para justificar el 'por qué' de cada prueba con todos los involucrados. 2) Al final de la pretemporada: para definir 'cuándo y cómo' se realizarán y almacenarán los test en temporada regular. 3) A inicio de temporada: para definir qué métrica se considera 'normal' y cuál 'alarmante', permitiendo activar intervenciones rápidas (recuperación extra, alterar rutinas) al detectar anomalías.",
+      "literal_quote": "Three steps are pretty important... First, early in the training camp... sit with everyone who is involved in data collection and talk about every test that you will do to answer why you want to do a specific test... At the end of the preseason... to talk about the testing procedures... And then early in season, there is a third meeting... to decide what is normal and what is alarming.",
+      "full_transcript": "Now, when it comes to data collection and decision making process, three steps are pretty important... First, early in the training camp or the preseason, I think it is important to sit with everyone who is involved in data collection and talk about every test that you will do to answer why you want to do a specific test and how this test will solve your problem, or how it will answer you a specific question. And once all of the people in the room talk, I think you can find common ground... At the end of the preseason, at the end of the training camp, I think you have to sit again to talk about the testing procedures and discuss what and how the things will be done... we have to be very clear on What will be done during the in-season period and how some of the tests will be done on the game days, some of the tests will be done on training days... And we will decide how to input data into a team's database... And then early in season, there is a third meeting to sit down and talk about the decision-making process and to decide what is normal and what is alarming. And alarming means that some changes need to be made in the program... here I'm talking also about delivering more recovery strategies, skipping one part of team practice, doing an additional lifting session or an additional treatment session.",
+      "keywords": [
+        "data-collection",
+        "decision-making",
+        "meetings",
+        "normal",
+        "alarming",
+        "interventions"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres reuniones fundamentales que debe realizar el cuerpo técnico para la gestión de datos?",
+        "¿Por qué es necesario definir qué es un dato 'normal' y qué es 'alarmante' a principios de temporada?"
+      ],
+      "related_terms": [
+        "recolección de datos",
+        "reuniones de staff",
+        "protocolos de intervención",
+        "normal vs alarmante"
+      ],
+      "relevance_score": 5,
+      "context_before": "La selección individual y colectiva de test ha quedado resuelta.",
+      "context_after": "Se resume la línea de tiempo de los tests (pretemporada vs temporada regular)."
+    },
+    {
+      "id": "V03-019",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "38:40",
+      "end_timestamp": "40:19",
+      "start_seconds": 2320,
+      "end_seconds": 2419,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2320",
+      "title": "Línea de tiempo de los KPIs: Pretemporada vs. Temporada",
+      "summary": "Durante el off-season y la pretemporada se realiza una recolección masiva de información y tests directos para establecer líneas base. Durante la temporada (in-season), predominan las evaluaciones y tecnologías indirectas (ej. trackers durante juegos o prácticas) para evitar añadir fatiga mediante testeos agresivos.",
+      "literal_quote": "During the off-season and during the training camp... we are collecting a lot of information... And then during the in-season period, we have the application of all those direct and indirect tests... where the goal of the session is not to test, but to play basketball.",
+      "full_transcript": "So when we think of the KPIs and their timeline, I think during the off-season and during the training camp, during that pre-season, we are collecting a lot of information, whether through direct conversation with players about their injury history... whether it is through specific tests in the preseason, like mobility tests, 3RM deadlift tests, jumping on force platforms, and so on. Then during that training camp, from the start until the end, we will make the final selection of the KPIs that make the most sense, especially those that will be used during the in-season period. And then during the in-season period, we have the application of all those direct and indirect tests that will give you KPIs. Direct tests could be testing on force frames or force platforms, while indirect tests can be an optical system and a movement tracking system in games or training sessions, where the goal of the session is not to test, but to play basketball, train or play a real game. But then we are using a technology around to collect data like highest movement speed, accelerations, decelerations, you name it.",
+      "keywords": [
+        "timeline",
+        "off-season",
+        "in-season",
+        "direct-tests",
+        "indirect-tests",
+        "baseline"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo difiere la recolección de métricas entre la pretemporada y la temporada regular?",
+        "¿Qué son los test indirectos durante la temporada competitiva?"
+      ],
+      "related_terms": [
+        "línea de tiempo",
+        "fase de competición",
+        "tests directos e indirectos"
+      ],
+      "relevance_score": 4,
+      "context_before": "La estructuración de reuniones sienta las bases operativas de recolección.",
+      "context_after": "Se hace una reflexión técnica sobre el papel del analista (procesamiento de datos)."
+    },
+    {
+      "id": "V03-020",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "40:19",
+      "end_timestamp": "43:36",
+      "start_seconds": 2419,
+      "end_seconds": 2616,
+      "duration_seconds": 197,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2419",
+      "title": "Sports Science vs. Data Science",
+      "summary": "Svilar diferencia ambos roles: el Científico Deportivo dicta el 'por qué' y entiende el contexto del juego y la sala de pesas; el Científico de Datos limpia y cruza números. El preparador físico no necesita programar, pero debe comprender conceptos estadísticos fundamentales como promedios, Z-scores, percentiles y el 'Cambio Mínimo Significativo' (Smallest Worthwhile Change) para detectar mejoras reales vs ruidos estadísticos.",
+      "literal_quote": "A sports scientist needs to know terms like mean or average, range, Z-scores, T-scores, 10 scores, percentiles, or smallest worthwhile change.",
+      "full_transcript": "I think sports science is always on top of the data science because as a data scientist usually does not need to know much about how things are done and organized and what really makes sense in the weight room and on the basketball court while a sports scientist needs to know those things, and then he's using data science and numbers to withdraw certain conclusions. Now, when it comes to terminology, I think every sports scientist doesn't need to know how to crunch data, how to analyze data... you can always give numbers to the data scientist who will give you feedback, and clear the data and tell you what is really meaningful. But a sports scientist needs to know terms like mean or average, range, Z-scores, T-scores, 10 scores, percentiles, or smallest worthwhile change. When it comes to standardized scores, we want to have standardized scores so that different qualities can be compared on the same scale, and sometimes we will use Z-scores, and sometimes we'll use T-scores... Percentiles are usually very intuitive... When we are comparing the results to previous tests and to evaluate players' readiness... we want to make sure that that change is meaningful. And then knowing and using concepts like the smallest worthwhile change is always very useful for all strength coaches... you can always give your numbers to a data scientist or even nowadays to a trusted AI tool, and you can create great reports.",
+      "keywords": [
+        "sports-science",
+        "data-science",
+        "z-scores",
+        "percentiles",
+        "smallest-worthwhile-change",
+        "standardized-scores"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre un científico deportivo y un científico de datos?",
+        "¿Qué conceptos estadísticos mínimos debe dominar un preparador físico según Svilar?",
+        "¿Por qué es importante el 'Smallest Worthwhile Change' en las evaluaciones físicas?"
+      ],
+      "related_terms": [
+        "ciencia del deporte",
+        "ciencia de datos",
+        "z-score",
+        "cambio mínimo significativo",
+        "puntuaciones estandarizadas"
+      ],
+      "relevance_score": 5,
+      "context_before": "La gran cantidad de datos obtenidos de forma directa e indirecta genera ruido que debe limpiarse.",
+      "context_after": "Toda esta estadística se plasma de manera visual en los Dashboards de los jugadores."
+    },
+    {
+      "id": "V03-021",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "43:36",
+      "end_timestamp": "47:34",
+      "start_seconds": 2616,
+      "end_seconds": 2854,
+      "duration_seconds": 238,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2616",
+      "title": "Diseño del Dashboard Individual: Integrando Carga y KPIs",
+      "summary": "Para que los datos sean accionables, se crean 'Dashboards' visuales. Estos deben mezclar datos de carga de trabajo (ratio agudo-crónico, distancias de alta velocidad de los últimos 5 juegos, minutos jugados) junto a los KPIs de salud y rendimiento de esa semana, para darle al equipo técnico una imagen holística del jugador de un solo vistazo.",
+      "literal_quote": "On his dashboard during the in-season, we are not focusing only on the KPIs. We are always having an overview of the workload data, which is important for basketball coaches, strength coaches, physical therapists, and medical staff.",
+      "full_transcript": "Now we're talking about creating players' dashboard. Obviously, individual dashboard that can go into two directions. Some of the things can be same for many players, and some of the things can be very individual... So we have an example of Mark, where we have his dashboard in, let's say, Excel or Power BI or on the Mess cloud... On his dashboard during the in-season, we are not focusing only on the KPIs. We are always having an overview of the workload data, which is important for basketball coaches, strength coaches, physical therapists, and medical staff. And then we have KPIs that will tell us a little bit more about health, physical performance, game performance, and his overall well-being. When we are creating that kind of dashboard, maybe we want to have couple of graphics. One can be week-to-week acute chronic ratio. Then we can have a chronic last five games report on in-game high speed distance, and then graph three on the minutes played in the last 10 games... On the left side, workload data in graphs, week-to-week acute chronic ratio. We can see that they are in some kind of sweet spot zone between 0.8 and 1.3. High speed distance is relatively stable... And then minutes played, we can see that this player plays on every three to four minutes, so things are pretty much under control.",
+      "keywords": [
+        "dashboard",
+        "workload",
+        "acute-chronic-ratio",
+        "high-speed-distance",
+        "minutes-played",
+        "holistic-view"
+      ],
+      "entities": [
+        "Power BI",
+        "Excel"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué elementos deben componer un dashboard efectivo para el cuerpo técnico?",
+        "¿Qué rango considera Svilar como el 'punto dulce' en la ratio de carga aguda-crónica?"
+      ],
+      "related_terms": [
+        "dashboard individual",
+        "ratio agudo-crónico",
+        "carga de trabajo",
+        "visualización de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "La limpieza estadística y la IA ayudan a generar los informes finales.",
+      "context_after": "Se detalla la mitad del dashboard que le corresponde estrictamente a los KPIs del jugador."
+    },
+    {
+      "id": "V03-022",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "47:34",
+      "end_timestamp": "48:05",
+      "start_seconds": 2854,
+      "end_seconds": 2885,
+      "duration_seconds": 31,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2854",
+      "title": "Gráficos de Radar y el Histórico del Jugador",
+      "summary": "En el apartado de KPIs del Dashboard, recomienda usar Gráficos de Radar (Spider charts) que contrasten la puntuación actual de las métricas seleccionadas de ese atleta frente a los mejores valores históricos que él mismo ha registrado (ej. dorsiflexión al 100% de su capacidad vs porcentaje de grasa alterado).",
+      "literal_quote": "On the KPI side, we want to prepare radar chart with body fat of that player in that week compared to his previous best ankle dorsiflexion, core endurance, CMJ height, isometric bell squat, and resting heart rate.",
+      "full_transcript": "On the KPI side, we want to prepare radar chart with body fat of that player in that week compared to his previous best ankle dorsiflexion, core endurance, CMJ height, isometric bell squat, and resting heart rate... And then on the KPI side, we can see from player's best during that season. We can see that his ankle dorsiflexion on the right ankle is at his full potential, same as his left. Okay. His body fat is not at his best, and so on and so forth. You can see the percentages. So the player is compared to his historical best. Okay.",
+      "keywords": [
+        "radar-chart",
+        "historical-best",
+        "kpis",
+        "comparison",
+        "individualization"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se visualizan los KPIs actuales de un jugador respecto a su pico de forma en el dashboard?",
+        "¿Por qué se comparan las métricas contra el mejor valor histórico del propio atleta?"
+      ],
+      "related_terms": [
+        "gráfico de radar",
+        "mejor valor histórico",
+        "spider chart",
+        "visualización"
+      ],
+      "relevance_score": 4,
+      "context_before": "La primera mitad del reporte cubría los volúmenes de carga y esfuerzo del atleta.",
+      "context_after": "La ponencia llega a su fin, ofreciendo los tres principios fundamentales a modo de conclusión."
+    },
+    {
+      "id": "V03-023",
+      "video_title": "Key Performance Indicators",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "48:05",
+      "end_timestamp": "51:03",
+      "start_seconds": 2885,
+      "end_seconds": 3063,
+      "duration_seconds": 178,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2885",
+      "title": "Conclusión: Los tres principios clave en la gestión de KPIs",
+      "summary": "Svilar cierra resumiendo tres leyes de oro: 1) Los KPIs no van de acumular tecnología, sino de elegir pruebas que guíen activamente las decisiones. Testear sin actuar es inútil. 2) Diseña los tests en base a las dudas reales que tengas sobre el equipo. 3) El proceso debe ser un trabajo colaborativo en el staff para pintar un cuadro completo y evitar fallos sistémicos.",
+      "literal_quote": "Because you can have so much technology, but if you're doing tests just to collect data, and then at the end of the day, you don't make decisions based on the data that you have collected, I think it's a useless data collection and a waste of time for the player and for the coach.",
+      "full_transcript": "Now, to finish this presentation, I will just leave you with three simple key principles that I like to follow and that are a summary of what I have been talking about in the last hour or so. I think selection of KPIs is definitely not about the technology that you have. It is always about thinking with your own head and selecting the test that will guide you in decision-making process. Because you can have so much technology, but if you're doing tests just to collect data, and then at the end of the day, you don't make decisions based on the data that you have collected, I think it's a useless data collection and a waste of time for the player and for the coach. Based on what you have available, think specifically how certain tests help you solve certain doubts that you have... And let those tests help you in making decisions. And then last but not least... make the selection and collection of KPIs a teamwork. I think this is the best thing you can do because it will paint a big picture, it will paint a better picture, and it will definitely bring more strength and stability to the decision-making process and to the training and game schedule. Thank you so much.",
+      "keywords": [
+        "principles",
+        "decision-making",
+        "technology",
+        "teamwork",
+        "useless-data",
+        "conclusion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres principios de oro en la gestión de KPIs según Luka Svilar?",
+        "¿Por qué afirma Svilar que testear por testear es una pérdida de tiempo?"
+      ],
+      "related_terms": [
+        "conclusión",
+        "toma de decisiones",
+        "tecnología",
+        "trabajo en equipo",
+        "principios clave"
+      ],
+      "relevance_score": 5,
+      "context_before": "La presentación práctica de paneles analíticos muestra el punto final del sistema.",
+      "context_after": "Despedida y fin de la clase magistral."
+    }
+  ]
+}
