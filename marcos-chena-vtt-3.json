@@ -1,0 +1,418 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del preparador físico del fútbol en la actualidad",
+    "speaker": "Marcos Chena",
+    "total_duration": "00:24:24",
+    "total_duration_seconds": 1464,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-019",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:02:12",
+      "start_seconds": 3,
+      "end_seconds": 132,
+      "duration_seconds": 129,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Evolución metodológica y adaptación al contexto",
+      "summary": "La evolución del fútbol exige una constante adaptación metodológica. Es crucial entender diferentes contextos y culturas deportivas, ya que las tendencias que parecen obsoletas pueden ser útiles nuevamente para solucionar problemas específicos.",
+      "literal_quote": "Como siempre digo, la clave está en la pregunta, no en la respuesta... creo que es interesante que entendamos cuál ha sido la evolución metodológica, porque es importante que seamos expertos en la capacidad de adaptarnos a diferentes contextos, culturas y entornos.",
+      "full_transcript": "Después de haber analizado esa evolución de las exigencias físicas del juego, creo que necesitamos hablar sobre la evolución metodológica en el fútbol. Lógicamente, el fútbol ha cambiado. Por supuesto, todos los entrenadores, todos los técnicos y todas las personas que nos dedicamos al fútbol tenemos un mayor conocimiento del juego, porque tenemos herramientas para poder estudiarlo mucho mejor. Es verdad que hemos evolucionado como profesionales y esto ha dado lugar a que haya una evolución también en la propuesta o en la intervención metodológica. Por supuesto, ha habido un recorrido. Como en todo, hay cambio y seguirá habiendo cambios. No sabemos dónde estará el límite, pero esto está en continuo cambio. Tendencias que parecían obsoletas hoy en día vuelven a rescatarse porque se entiende que en determinados contextos nos pueden ayudar a solucionar problemas o a responder ciertas preguntas que nosotros nos hacíamos. Como siempre digo, la clave está en la pregunta, no en la respuesta. Hacerse buenas preguntas nos permite generar un procedimiento de búsqueda mucho más exhaustivo, limitando creencias limitantes. En este caso, creo que es interesante que entendamos cuál ha sido la evolución metodológica, porque es importante que seamos expertos en la capacidad de adaptarnos a diferentes contextos, culturas y entornos, a través de los cuales se va a determinar o va a terminar de definirse el modelo más requerido en ese aspecto. Lo digo muchas veces. Tengo compañeros que han ido a trabajar a ciertos países donde, si no se entrenaba de una determinada manera, parecía que no se estaba entrenando. Eso estaba muy arraigado a la propia cultura del país y condicionaba totalmente las propuestas que se tenían que hacer. En este caso, creo que es interesante que seamos capaces de ver un poco cuál ha sido la evolución.",
+      "keywords": [
+        "evolucion-metodologica",
+        "adaptacion",
+        "contexto",
+        "cultura-deportiva",
+        "preguntas"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante adaptarse a las culturas y contextos al aplicar la metodología?",
+        "¿Qué menciona Marcos Chena sobre rescatar tendencias obsoletas?",
+        "¿Cuál es el rol de hacerse buenas preguntas en la metodología del entrenamiento?"
+      ],
+      "related_terms": [
+        "evolución",
+        "metodológica",
+        "cultura",
+        "del",
+        "país",
+        "creencias",
+        "limitantes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Fin del análisis de las exigencias de alta intensidad y escenarios competitivos (VTT anterior).",
+      "context_after": "Se inicia un repaso histórico detallado por las diferentes etapas de la preparación física."
+    },
+    {
+      "id": "V02-020",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:02:18",
+      "end_timestamp": "00:06:03",
+      "start_seconds": 138,
+      "end_seconds": 363,
+      "duration_seconds": 225,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=138",
+      "title": "Evolución histórica de la preparación física",
+      "summary": "Se detalla la transición desde una preparación física de inspiración militar y puramente atlética (aislada del juego), pasando por la introducción de circuitos físico-técnicos y juegos reducidos, hasta llegar a los modelos altamente contextualizados de la actualidad.",
+      "literal_quote": "Hemos pasado de una preparación física muy general, totalmente aislada y apartada del juego, donde había una inspiración militar y una sensibilidad por el trabajo analítico puramente condicional... a modelos de preparación física mucho más contextualizados.",
+      "full_transcript": "A través de esta infografía creo que nos podemos hacer prácticamente una idea de qué es lo que ha sucedido. De repente tenemos muchos más materiales y recursos. Además, tenemos mayor conocimiento y mayor nivel de especialización. Somos capaces de tener un entorno que nos ayuda a generar ciertas sinergias entre diferentes áreas, que nos permiten tener un acceso a oportunidades de intervención mucho más adaptadas a las necesidades del contexto. Creo que el conocimiento ha ido avanzando y, por ejemplo, cursos de formación como este nos permiten estar actualizados y renovarnos en aquellas estrategias que nos permitan sacar mucha mayor información y mucho mayor rendimiento de todo aquello que utilizamos y con lo que nos sentimos cómodos. En este caso, vemos que desde el siglo XIX hasta la actualidad ha habido diferentes tipos de escenarios... Hemos pasado de una preparación física muy general, totalmente aislada y apartada del juego, donde había una inspiración militar y una sensibilidad por el trabajo analítico puramente condicional de atletismo. Se entrenaba a atletas y luego se les ponía a jugar al fútbol, entendiendo que había un principio de transferencia... Luego empezaron a introducirse los primeros circuitos, que podrían ser incluso físico-técnicos. Empezaban a meterse de vez en cuando tareas con balón... Luego llegó el entrenamiento integrado con situaciones de juego en entrenamiento: los juegos reducidos, los small-sided games, los juegos de posesión o los juegos de mantenimiento... En la actualidad entendemos que hay modelos de preparación física mucho más contextualizados, donde existe muchísima más información y somos capaces de generar incluso métodos de entrenamiento que nos permitan satisfacer las necesidades reales del presente y anticiparnos a posibles problemas que puedan surgir en el futuro.",
+      "keywords": [
+        "evolucion",
+        "preparacion-fisica",
+        "entrenamiento-aislado",
+        "entrenamiento-integrado",
+        "juegos-reducidos",
+        "modelos-contextualizados"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Evolución",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo ha evolucionado históricamente la preparación física en el fútbol?",
+        "¿Qué características tenía la preparación física tradicional de inspiración militar?",
+        "¿Cuándo se introdujeron los juegos reducidos y el entrenamiento integrado?"
+      ],
+      "related_terms": [
+        "inspiración",
+        "militar",
+        "entrenamiento",
+        "atlético",
+        "circuitos",
+        "físico-técnicos",
+        "small-sided",
+        "games"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se expone la necesidad metodológica de adaptarse al contexto y a la cultura deportiva del lugar.",
+      "context_after": "Se destaca la relevancia de contar con múltiples especialistas y lograr micro-objetivos para el éxito."
+    },
+    {
+      "id": "V02-021",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:06:05",
+      "end_timestamp": "00:07:42",
+      "start_seconds": 365,
+      "end_seconds": 462,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=365",
+      "title": "Especialización, sinergias y micro-objetivos",
+      "summary": "El fútbol actual cuenta con una gran cantidad de especialistas. Para alcanzar los grandes objetivos macro (ganar partidos y tener menos lesiones), es indispensable establecer y cumplir objetivos 'micro' mediante el trabajo coordinado de los diferentes departamentos.",
+      "literal_quote": "Por supuesto que el objetivo siempre es ganar, el objetivo siempre es que haya menos lesiones, pero para llegar a esos grandes objetivos existen objetivos micro a través de los cuales somos capaces de generar el camino adecuado.",
+      "full_transcript": "Llega la actualidad, llega una cosa que es fundamental: la cantidad de especialistas que trabajan sobre los propios jugadores. Hoy sabemos que existen muchísimas personas que están trabajando, que están interviniendo para que el objetivo que se haya marcado se pueda cumplir. Y los objetivos son un gran número. Por supuesto que el objetivo siempre es ganar, el objetivo siempre es que haya menos lesiones, pero para llegar a esos grandes objetivos existen objetivos micro a través de los cuales somos capaces de generar el camino adecuado para intentar obtener ese gran objetivo que nos habíamos planteado. Y para eso necesitamos cada vez a más personas, más departamentos que puedan de alguna manera ayudarnos a satisfacer todo esto.",
+      "keywords": [
+        "especialistas",
+        "objetivos-micro",
+        "objetivos-macro",
+        "departamentos",
+        "sinergias",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante establecer objetivos micro en la preparación de un equipo?",
+        "¿Cuál es el rol de los diferentes departamentos y especialistas en el fútbol moderno?"
+      ],
+      "related_terms": [
+        "especialistas",
+        "objetivos",
+        "micro",
+        "gran",
+        "objetivo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Repaso a la historia de la metodología del entrenamiento desde modelos analíticos a modelos contextualizados.",
+      "context_after": "Se desglosan los tres grandes métodos de entrenamiento que conviven en la actualidad: tradicional, integrado y sistémico."
+    },
+    {
+      "id": "V02-022",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:07:46",
+      "end_timestamp": "00:12:51",
+      "start_seconds": 466,
+      "end_seconds": 771,
+      "duration_seconds": 305,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=466",
+      "title": "Métodos de entrenamiento: Tradicional, Integrado y Sistémico",
+      "summary": "Se analizan los tres métodos principales: el 'Tradicional' aísla factores para asegurar adaptaciones físicas concretas sin interferencias; el 'Integrado' combina lo condicional con el juego mediante arrastre; y el 'Sistémico' subordina todo desarrollo al modelo de juego. La clave es saber interpretar el contexto para aplicar el idóneo.",
+      "literal_quote": "La clave está en saber qué me da cada método y en generar nosotros un sistema de trabajo que nos permita... articular todo eso de la mejor manera posible para sacar rendimiento eficaz.",
+      "full_transcript": "Haciendo un resumen, en cuanto a los métodos, podemos hablar del método tradicional del entrenamiento, donde la prioridad es desarrollar aquellos factores de forma aislada. El factor físico, el factor técnico, el factor táctico se hace de manera aislada... hemos vuelto a rescatar ciertos métodos tradicionales que nos interesan para cubrir aspectos diferenciales de algunos jugadores... Porque nos interesa desarrollar ciertos aspectos concretos sin que intervengan otros factores que puedan de alguna manera ensuciar el camino hacia la adaptación concreta que yo estoy buscando. Luego tendríamos el método integrado del entrenamiento, que nos permite desarrollar factores de forma integrada. Es decir, se generan situaciones de juego donde lo físico, lo técnico y lo táctico está de forma integrada. No se le da más importancia a una cosa que a otra, sino que a través del propio juego, a través del jugar, nos permita, por arrastre, mejorar aquel comportamiento condicional. Y luego tenemos el método más sistémico del entrenamiento, que es desarrollar los factores de acuerdo a un modelo de juego. Es decir, por delante de todo está el modelo de juego y tras ese modelo de juego tienen que desarrollarse de manera integrada y contextualizada los aspectos físicos, los técnicos y los tácticos. Aquí ya hay una intención táctica primordial... Cada uno de estos modelos tiene sus peculiaridades, tiene sus matices y hay algunos que tienen aspectos interesantes y otros aspectos menos interesantes. Aquí la clave está en saber qué me da cada método y en generar nosotros un sistema de trabajo que nos permita de alguna manera no vincularnos a una cosa u otra si no es necesario... Si nos hemos planteado unos objetivos y el contexto que tenemos es el que es, tendremos que generar un sistema que nos permita articular todo eso de la mejor manera posible para sacar rendimiento eficaz a la propuesta de trabajo... En este caso, por ejemplo, los métodos tradicionales, si queremos trabajar nosotros el aspecto físico, no hay ninguna duda... no hay nada que ensucie o que haga ruido para que se generen esas adaptaciones. Lógicamente, encontrar especificidad en el juego... no se va a dar a través de este modelo. El modelo integrado, por lo menos, nos permite trabajar aquellos escenarios condicionales específicos... Y luego tenemos el entrenamiento sistémico, que por supuesto me ayuda mucho a mejorar la especificidad del juego... pero pone en duda si el apartado condicional a nivel individualizado... esto me lo puede dar. La clave está en generar esas preguntas que me van a marcar de alguna manera cuál es mi objetivo prioritario y qué método tendría que utilizar.",
+      "keywords": [
+        "metodo-tradicional",
+        "metodo-integrado",
+        "metodo-sistemico",
+        "aislado",
+        "modelo-de-juego",
+        "adaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias entre el método tradicional, integrado y sistémico?",
+        "¿Cuándo es preferible utilizar el método de entrenamiento tradicional en el fútbol?",
+        "¿Qué limitaciones condicionales puede presentar el método sistémico?"
+      ],
+      "related_terms": [
+        "método",
+        "tradicional",
+        "método",
+        "integrado",
+        "método",
+        "sistémico",
+        "modelo",
+        "de",
+        "juego"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia de crear sinergias entre especialistas para lograr micro-objetivos.",
+      "context_after": "Se aplica esta misma visión evolutiva de métodos tradicionales a las nuevas tendencias en el entrenamiento de fuerza."
+    },
+    {
+      "id": "V02-023",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:12:51",
+      "end_timestamp": "00:15:02",
+      "start_seconds": 771,
+      "end_seconds": 902,
+      "duration_seconds": 131,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=771",
+      "title": "Nuevas corrientes en el entrenamiento de fuerza",
+      "summary": "Superando los modelos tradicionales de fuerza enfocados en ejercicios monoaxiales, las nuevas tendencias (lideradas por referentes como Julio Tous) plantean que en la fuerza está la génesis de la motricidad. Estas priorizan la unilateralidad, multivectorialidad y variabilidad para mayor transferencia al juego.",
+      "literal_quote": "Julio Toubes... en 2017 decía que en la fuerza está la génesis de la motricidad y, por lo tanto, en su optimización está la de los movimientos... surgen dos aspectos muy a tener en cuenta, que son la unilateralidad y la multivectorialidad.",
+      "full_transcript": "Con el entrenamiento de fuerza pasa un poco lo mismo. Hemos pasado de un modelo tradicional del entrenamiento de fuerza, donde lo que me interesa es trabajar esa fuerza útil a través de ejercicios monoaxiales, donde hay un énfasis muy grande en la fase propulsiva, donde se hablaba un poco del RFD... Sin embargo, han venido nuevas corrientes y tendencias en el entrenamiento de fuerza. Yo quiero marcar aquí a un referente muy grande en estos sistemas, que es Julio Toubes, que en 2017 decía que en la fuerza está la génesis de la motricidad y, por lo tanto, en su optimización está la de los movimientos. Es decir, existen modelos convencionales del entrenamiento de fuerza que se basan en el movimiento, en la mecánica. A partir de aquí surgen dos aspectos muy a tener en cuenta, que son la unilateralidad y la multivectorialidad. Y luego, la variabilidad de las acciones. Es decir, cómo somos capaces, como preparadores físicos, de generar escenarios donde podamos desafiar los diferentes movimientos que puedan tener una transferencia directa a esa especificidad del juego, con resistencias en diferentes planos y vectores y, a partir de ahí, aplicar la dosis de fuerza que entendamos que sea conveniente. Lógicamente, esto rompe con el modelo tradicional, pero de alguna forma nos permite acercarnos mucho más a aquellas exigencias del juego y nos permite que este principio de transferencia tenga mucho más sentido y coherencia con los propios movimientos y desplazamientos que se nos van a exigir en fútbol.",
+      "keywords": [
+        "entrenamiento-fuerza",
+        "motricidad",
+        "unilateralidad",
+        "multivectorialidad",
+        "transferencia",
+        "Julio-Tous"
+      ],
+      "entities": [
+        "Julio Toubes"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo ha evolucionado el entrenamiento de fuerza en el fútbol según Marcos Chena?",
+        "¿Qué importancia tienen la unilateralidad y multivectorialidad en la fuerza para el fútbol?",
+        "¿Qué relación hay entre el entrenamiento de fuerza y la motricidad según Julio Tous?"
+      ],
+      "related_terms": [
+        "génesis",
+        "de",
+        "la",
+        "motricidad",
+        "unilateralidad",
+        "multivectorialidad",
+        "fase",
+        "propulsiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de los marcos metodológicos globales para el equipo (tradicional, integrado, sistémico).",
+      "context_after": "Se da un giro hacia la gestión del staff y el lado humano, argumentando que el dato debe convertirse en decisión y el club en un sistema complejo."
+    },
+    {
+      "id": "V02-024",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:15:02",
+      "end_timestamp": "00:18:46",
+      "start_seconds": 902,
+      "end_seconds": 1126,
+      "duration_seconds": 224,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=902",
+      "title": "Gestión de sistemas complejos y comunicación interna",
+      "summary": "El entrenamiento ha evolucionado de 'desarrollar capacidades' a gestionar sistemas complejos, requiriendo un líder de rendimiento que sincronice áreas especializadas. Diversos estudios demuestran que la calidad de la comunicación interna en el staff correlaciona directamente con menores tasas de lesiones.",
+      "literal_quote": "Hemos pasado de entrenar capacidades a gestionar sistemas complejos donde el dato solo tiene valor si se convierte en decisión... La calidad de la comunicación interna... se ha correlacionado con la tasa de lesiones.",
+      "full_transcript": "Quiero remarcar con esta frase todo esto que vamos diciendo, porque la evolución del entrenamiento en fútbol no ha sido solo metodológica, sino conceptual. Hemos pasado de entrenar capacidades a gestionar sistemas complejos donde el dato solo tiene valor si se convierte en decisión. A partir de aquí, los clubes... cada vez se han hecho más grandes, han generado más departamentos, han traído a más especialistas... cada profesional ve la realidad con las gafas que tiene. Esto nos exige a los jefes de performance poner de acuerdo y en sintonía y de forma coordinada a todas estas áreas para que entiendan que lo más importante sigue siendo... los jugadores y los objetivos colectivos. Esto no es una cuestión sencilla... solemos darle importancia a lo que nosotros conocemos o manejamos... es importante destacar artículos científicos que ya empiezan a hablar de la necesidad de integrar todos estos marcos teóricos... de tal forma que haya un líder, un coordinador, un cabeza visible de rendimiento que tenga la capacidad de poner en sintonía todas las áreas que tienen intervención directa sobre el rendimiento del deportista y sobre la epidemiología lesional... Aquí surgen estudios como este, que a mí me llamó mucho la atención, que empiezan a estudiar cómo las diferentes relaciones entre el preparador físico... fisioterapeutas, el doctor, el entrenador... pueden tener una relación directa con la epidemiología lesional. La calidad de la comunicación interna... se ha correlacionado con la tasa de lesiones, con la asistencia a los entrenamientos, con la disponibilidad de los jugadores en los partidos. Esto es muy importante tenerlo en cuenta, porque ya no estamos hablando del conocimiento que se da por hecho... Sino que además tenemos que ser capaces de entender que ciertos profesionales de un altísimo nivel son capaces de generar sinergias positivas con otros.",
+      "keywords": [
+        "sistemas-complejos",
+        "jefe-performance",
+        "comunicacion-interna",
+        "tasa-lesiones",
+        "sinergias",
+        "staff"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la figura de un jefe de performance en el fútbol moderno?",
+        "¿Qué relación existe entre la comunicación del cuerpo técnico y las lesiones de los jugadores?",
+        "¿Qué significa pasar de entrenar capacidades a gestionar sistemas complejos?"
+      ],
+      "related_terms": [
+        "sistemas",
+        "complejos",
+        "comunicación",
+        "interna",
+        "epidemiología",
+        "lesional",
+        "sinergias",
+        "positivas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis sobre las nuevas corrientes del entrenamiento de fuerza en planos vectoriales.",
+      "context_after": "Descripción de las habilidades 'blandas' o soft skills que un profesional necesita para gestionar este sistema complejo."
+    },
+    {
+      "id": "V02-025",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:18:49",
+      "end_timestamp": "00:22:23",
+      "start_seconds": 1129,
+      "end_seconds": 1343,
+      "duration_seconds": 214,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1129",
+      "title": "Importancia de las Soft Skills en el Staff de rendimiento",
+      "summary": "Más allá de las habilidades técnicas (hard skills), el éxito del especialista depende de las 'soft skills': inteligencia emocional, empatía, gestión de tiempo y capacidad de colaborar con otros departamentos (médicos, utilleros) valorando su conocimiento del contexto.",
+      "literal_quote": "Lo que no puede faltar son las soft skills, es decir, la capacidad de priorizar, de tener una buena organización... inteligencia emocional... comprender el deporte, el contexto... escucharles, dedicarles tiempo.",
+      "full_transcript": "Dicho esto, y metiéndonos un poco más en materia, creo que los especialistas en datos tenemos que tener ciertas capacidades y habilidades. Hay algunos que las llaman las hard skills, que se dan por hecho, y las formaciones nos ayudan a que todo esto lo podamos tener de una manera estructurada y ordenada, los datos, la interpretación, etcétera. Pero sobre todo, lo que no puede faltar son las soft skills, es decir, la capacidad de priorizar, de tener una buena organización, una buena gestión del tiempo, de comunicar y convencer, de tener una inteligencia emocional, de hacernos buenas preguntas... Esto lo ha adaptado Miguel Ángel Campos, un gran amigo y un gran preparador físico... que nos decía: 'Oye, lo que tendremos que hacernos son las siguientes preguntas: ¿qué pasa con el contexto? ¿Qué pasa con los jugadores y la confianza...? ¿Qué podemos hacer para mejorar la colaboración entre los diferentes departamentos? ¿Con qué habilidades o con qué recursos tecnológicos puedo hacer todo esto?'. Por ejemplo, en el contexto necesitamos tener empatía, comprender el deporte... En cuanto a los jugadores, debemos escucharles, dedicarles tiempo, proporcionarles información individualizada... Mejorar la colaboración entre los departamentos. Tenemos que compartir información, favorecer la integración, ser capaces de ganarnos a otros compañeros... aprender de la experiencia y del conocimiento que pueden tener otros, porque aunque no sepan más que tú de tu área, son capaces de saber mucho más del contexto de lo que sabes tú... Tienes al típico utillero de turno o típico médico que lleva allí mucho tiempo y te dice: 'Oye, yo creo que esto no lo haría porque esto'. Son cosas que nosotros muchas veces no tenemos en cuenta o no sabemos hasta que no nos chocamos con ellas. Luego, ¿qué habilidades o qué recursos tecnológicos? De alguna forma tendríamos que centralizar la información... Creo que tenemos que dedicarnos tiempo a nosotros y a nuestra profesión y, sobre todo, a la gente que nos rodea, porque solo dedicándonos tiempo y generando esas relaciones de confianza, vamos a ser capaces de entender cuál es el sistema más adecuado para desarrollar el contexto que tenemos.",
+      "keywords": [
+        "soft-skills",
+        "inteligencia-emocional",
+        "empatia",
+        "colaboracion",
+        "confianza",
+        "contexto",
+        "especialista-datos"
+      ],
+      "entities": [
+        "Miguel Ángel Campos"
+      ],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Professional Experience",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué soft skills son esenciales para un preparador físico y especialista en datos?",
+        "¿Por qué es importante escuchar a profesionales con más experiencia contextual en el club (ej. médicos, utilleros)?",
+        "¿Cómo se puede mejorar la colaboración entre departamentos en el fútbol?"
+      ],
+      "related_terms": [
+        "soft",
+        "skills",
+        "inteligencia",
+        "emocional",
+        "relaciones",
+        "de",
+        "confianza",
+        "colaboración"
+      ],
+      "relevance_score": 5,
+      "context_before": "La comunicación como eje central para la reducción de la tasa de lesiones.",
+      "context_after": "Se presenta un estudio científico (KPIs) que avala que el comportamiento es más valorado que las victorias o la disponibilidad de los jugadores."
+    },
+    {
+      "id": "V02-026",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:22:28",
+      "end_timestamp": "00:24:24",
+      "start_seconds": 1348,
+      "end_seconds": 1464,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1348",
+      "title": "El carácter del preparador físico como principal KPI",
+      "summary": "Estudios científicos sobre KPIs revelan que, si bien el porcentaje de victorias o la disponibilidad de jugadores son aspectos importantes, el criterio más valorado por los miembros del club para definir la calidad de un preparador físico es su carácter, su trato humano y sus soft skills.",
+      "literal_quote": "Lo que más determinaba la calidad del preparador físico, del departamento de preparación física, era el carácter, el comportamiento, la forma de relacionarse, era esa parte humana, esas soft skills de las que no nos hablan los libros.",
+      "full_transcript": "Nada más lejos de todo esto, me gustaría terminar este punto mostrándoos este artículo científico, que me gusta mucho, donde lo que hicieron es establecer una serie de criterios, una serie de KPIs, para que aquellos especialistas o aquellas personas que trabajaban en el fútbol profesional pudieran votar de alguna manera... qué era prioritario y fundamental de un preparador físico. Lo que se estableció es que el tener al equipo, que el equipo ganara, el porcentaje de victorias y que el equipo estuviera bien era importante, que la capacidad para que los jugadores estuvieran disponibles en el entrenamiento y en los partidos era muy valorado también, pero lo más importante era el carácter y el comportamiento que tenía el preparador físico. Es decir, era el principal criterio que todos los expertos valoraban de diferentes áreas: los médicos, los fisioterapeutas, los nutricionistas, los jugadores, los entrenadores. Lo que más determinaba la calidad del preparador físico, del departamento de preparación física, era el carácter, el comportamiento, la forma de relacionarse, era esa parte humana, esas soft skills de las que no nos hablan los libros de formación, de las que no nos hablan las propuestas formativas hoy en día y que son fundamentales para identificar qué necesitan de nosotros otras áreas. A partir de aquí, que entendamos que, por supuesto, una vez que nosotros hayamos conectado, tenemos que ser capaces de tener una buena capacidad de análisis y, sobre todo, tener una capacidad trascendental de ese análisis, bajarlo a tierra y poder desarrollarlo de la mejor manera posible para poder satisfacer tanto los objetivos individuales como los colectivos.",
+      "keywords": [
+        "kpi",
+        "caracter",
+        "comportamiento",
+        "soft-skills",
+        "valoracion-profesional",
+        "preparador-fisico"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Comunicación",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué criterio es el más valorado por los expertos al evaluar a un preparador físico según el artículo científico mencionado?",
+        "¿Qué importancia tienen las victorias o la disponibilidad del jugador frente al carácter del profesional?",
+        "¿Por qué son importantes las soft skills frente a la capacidad de análisis de datos?"
+      ],
+      "related_terms": [
+        "KPIs",
+        "carácter",
+        "comportamiento",
+        "forma",
+        "de",
+        "relacionarse",
+        "parte",
+        "humana"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose de las habilidades blandas necesarias para conectar con el contexto y los compañeros de trabajo.",
+      "context_after": "Conclusión de este bloque metodológico en el webinar."
+    }
+  ]
+}

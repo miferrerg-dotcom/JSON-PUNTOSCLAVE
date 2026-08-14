@@ -1,0 +1,455 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del preparador físico del fútbol en la actualidad",
+    "speaker": "Marcos Chena",
+    "total_duration": "00:27:45",
+    "total_duration_seconds": 1665,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-027",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:04:05",
+      "start_seconds": 4,
+      "end_seconds": 245,
+      "duration_seconds": 241,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4",
+      "title": "La era de los datos y el riesgo de infoxicación",
+      "summary": "En la actualidad, los preparadores físicos enfrentan una sobreabundancia de dispositivos y datos. El reto principal es evitar la 'infoxicación' mediante herramientas que filtren la información, la transformen en conocimiento y permitan tomar decisiones visuales y contundentes.",
+      "literal_quote": "La clave aquí sería que, de alguna manera, no entremos en esa infoxicación de datos y que tengamos una herramienta que nos permita cribar toda esta información, que esta información se transforme en un conocimiento...",
+      "full_transcript": "Tras haber analizado en el punto anterior los diferentes métodos de entrenamiento, las metodologías o aproximaciones que tenemos en cuanto a la intervención sobre nuestros futbolistas, vamos a hablar ahora del rol del preparador físico de fútbol en la actualidad. Quiero que no se nos olviden aquellos soft skills y aquellos hard skills, que será por supuesto que los tenemos, a la hora de poder trabajar con un grupo de personas, a la hora de poder intervenir y sobre todo coordinarnos, generar sinergias positivas en base a unos objetivos comunes. Creo que eso no se os puede olvidar. Ahora vamos con esto. Hoy en día estamos en la era de los datos. Hoy tenemos información por todos los sitios, dispositivos por todos los lados. De hecho, ahora incluso se nos complica la vida en qué tipo de dispositivo elegir para que me den un tipo de información, ya que hay muchas marcas, muchas posibilidades para que me den exactamente lo mismo, prácticamente lo mismo. La clave aquí sería que, de alguna manera, no entremos en esa infoxicación de datos y que tengamos una herramienta que nos permita cribar toda esta información, que esta información se transforme en un conocimiento y que este conocimiento nos permita, de alguna forma, generar unas conclusiones con las que crear o construir un sistema de trabajo fiable y, sobre todo, perdurable en el tiempo, duradero. A partir de aquí, entrando un poquito en materia, como especialistas en el análisis del rendimiento, de alguna manera tenemos que establecer un camino hacia ese crecimiento, ese incremento de la eficacia. Entonces, nosotros lo primero que tenemos que tener es alguna herramienta que nos permita capturar datos, que estos datos podamos almacenarlos, transformarlos, limpiarlos, generar análisis estadísticos que nos permitan ver diferencias significativas, correlaciones, tendencias, y que estos datos, una vez analizados, podamos presentarlos para poder hacer una comunicación y que sea entendible por todos aquellos a los que nos vamos a referir de una forma visual, atractiva y contundente, y que seamos capaces de convencer o de interpretar aquellas situaciones. Y por último, que con estos datos, ya con estas conclusiones sacadas, seamos capaces de tomar decisiones.",
+      "keywords": [
+        "era-de-los-datos",
+        "infoxicacion",
+        "analisis-estadistico",
+        "conocimiento",
+        "toma-de-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué menciona Marcos Chena sobre la infoxicación de datos en el fútbol?",
+        "¿Cuál es el proceso correcto para transformar datos en decisiones según el autor?",
+        "¿Por qué es importante presentar los datos de forma visual y atractiva?"
+      ],
+      "related_terms": [
+        "infoxicación",
+        "de",
+        "datos",
+        "análisis",
+        "estadísticos",
+        "toma",
+        "de",
+        "decisiones",
+        "comunicación",
+        "visual"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis finalizado sobre las metodologías de entrenamiento tradicionales, integradas y sistémicas.",
+      "context_after": "Se presenta la evolución histórica de la medición de carga en el fútbol, desde las percepciones subjetivas hasta el uso de algoritmos complejos."
+    },
+    {
+      "id": "V02-028",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:04:06",
+      "end_timestamp": "00:07:31",
+      "start_seconds": 246,
+      "end_seconds": 451,
+      "duration_seconds": 205,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=246",
+      "title": "Evolución de la monitorización: de lo subjetivo a lo complejo",
+      "summary": "El análisis de carga ha evolucionado desde el 'ojímetro' y percepciones subjetivas hasta el cruce avanzado de métricas. Actualmente se normalizan perfiles, se correlaciona la carga interna con la externa y se integran variables neuromusculares (acelerometría) para anticipar respuestas condicionales.",
+      "literal_quote": "Pasamos de no hacer nada, como os digo, o simplemente de basarnos en las sensaciones, basarnos en lo subjetivo, a basarnos en cosas objetivas... Empezamos a analizar o a integrar variables que tengan que ver con la capacidad de fuerza, con la carga de fuerza...",
+      "full_transcript": "El recorrido que nosotros hemos tenido a la hora de trabajar con datos está evidenciado en la literatura científica. Como nos dicen aquí los autores: hay muchos caminos de llegar a Roma. Hemos pasado de no hacer nada y con el ojímetro ser capaz de analizar cuánto necesito, cuánto no necesito, o incluso a través de las sensaciones que tú tenías como preparador físico y de las sensaciones que tenían los jugadores. Y se empezaban a registrar las sensaciones. Todavía seguimos registrando muchas veces con herramientas de percepción subjetiva cuál es la sensibilidad o cuál es la sensación que tienen los jugadores de eso que han hecho. Pasamos de no hacer nada, como os digo, o simplemente de basarnos en las sensaciones, basarnos en lo subjetivo, a basarnos en cosas objetivas. Ya teníamos herramientas que nos permitían analizar en ese primer nivel una o dos métricas. Pasamos a un siguiente nivel que nos permitía trabajar una o dos métricas y además contextualizarlas, es decir, comparar entre demarcación, comparar entre lo que hemos hecho en una sesión menos cuatro con una sesión menos dos o con respecto al partido. Luego pasamos a analizar varias métricas y, de alguna forma, analizar tendencias, es decir, qué es lo que he hecho yo ahora con respecto a lo que venimos haciendo tiempo atrás. Identificar cuál es el estado de forma en relación a esas variables o a ese rendimiento que está teniendo de forma aguda en relación al estado de forma con el que viene. Ese estado de forma venía indicado o asociado al promedio de lo que venías haciendo en las últimas semanas. A partir de aquí, empezamos a analizar más variables todavía y aparte de las tendencias, la contextualización, etcétera, empezamos a normalizar equipos, empezamos a generar perfiles, perfiles individuales, grupales y colectivos. Además, empezamos, por otro lado, el siguiente nivel era correlacionar variables de carga interna y carga externa y generar ratios que nos permitiera identificar cuál es la dosis que estamos dando y cuál es la respuesta que tienen nuestros jugadores. Después, aparte de la dosis y la respuesta... qué respuesta estás teniendo a esta dosis que le estamos dando teniendo en cuenta que su perfil venía siendo este. Y estamos ya viendo aspectos relacionados con el 'readiness': estará preparado intentando anticipar diferentes situaciones. Otro nivel más superior era: analizamos más variables todavía y metemos variables de acelerometría, es decir, relacionamos aquellas variables que tienen que ver con la especificidad de los desplazamientos según el perfil del jugador, los 'imbalance' o desequilibrios que pueden tener. Empezamos a analizar o a integrar variables que tengan que ver con la capacidad de fuerza, con la carga de fuerza, con la potencia mecánica. Claro, ¿el siguiente paso cuál es? Tenemos muchísima información, podemos cruzarla de muchas maneras, podemos sacar diferentes correlaciones.",
+      "keywords": [
+        "evolucion",
+        "monitorizacion",
+        "carga-interna",
+        "carga-externa",
+        "ratios",
+        "acelerometria",
+        "readiness"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Evolución",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo ha evolucionado la recolección de datos desde el ojímetro hasta la actualidad?",
+        "¿Qué significa correlacionar la carga interna con la carga externa en el fútbol?",
+        "¿Qué variables nuevas se integran en los niveles superiores de análisis de datos?"
+      ],
+      "related_terms": [
+        "carga",
+        "interna",
+        "y",
+        "carga",
+        "externa",
+        "ratios",
+        "readiness",
+        "acelerometría"
+      ],
+      "relevance_score": 4,
+      "context_before": "Introducción a la era de los datos y el riesgo de saturación informativa.",
+      "context_after": "Explicación de cómo las acciones del juego impactan directamente sobre los tejidos del jugador integrando distintas variables físicas."
+    },
+    {
+      "id": "V02-029",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:07:32",
+      "end_timestamp": "00:10:12",
+      "start_seconds": 452,
+      "end_seconds": 612,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=452",
+      "title": "El impacto de las variables complejas en los tejidos",
+      "summary": "Evaluar métricas tradicionales de forma aislada (distancia total, metros a alta velocidad) es insuficiente. Para comprender el verdadero impacto condicional sobre ligamentos, tendones y músculos, deben cruzarse demandas metabólicas y mecánicas como saltos, cambios de dirección y golpeos.",
+      "literal_quote": "El tejido no solo se ve afectado por los 1.000 metros que hago a alta intensidad... sino haciendo 1.000 metros, además de no sé cuántos saltos, no sé cuántos golpeos, no sé cuántos cambios de dirección...",
+      "full_transcript": "Aquí la clave es hasta dónde va a llegar esto. El siguiente paso no lo sabemos, pero posiblemente está relacionado casi con el juego. Es decir, qué situaciones de juego han sido capaces de generar escenarios mucho más dramáticos para los tejidos del deportista, porque ya no es lo que haces, sino cómo responde tu cuerpo a eso que estás haciendo. Y lógicamente, los jugadores son distintos y cada uno responde de diferentes maneras. Pero es que dentro de esa respuesta, hay respuestas que hoy en día las estamos analizando de manera mucho más parcelada. Es decir, cuál es la respuesta del ligamento, cuál es la respuesta del tendón, cuál es la respuesta del complejo muscular, cuál es la respuesta del sistema nervioso. En función de esto, sí que estamos abordando estrategias que nos permitan establecer pautas de entrenamiento donde no se sobresoliciten ciertos tejidos que todavía no han dejado de estar recuperados del todo y a lo mejor otros tejidos sí están recuperados. Y a partir de aquí generamos nuestros dashboards... Y aquí os he puesto un ejemplo muy concreto de un jugador que ha jugado un partido en esa semana... se ha expuesto a un 98,6 % de lo que ese jugador viene exponiéndose en partidos anteriores. Además, con esa métrica que me da ese valor de carga compleja, teniendo en cuenta muchas métricas tradicionales aisladas, porque esta es otra de las cosas que tenemos que tener en cuenta. Se ha investigado mucho sobre las variables que nos dan información en cuanto a la manifestación o la exposición física del deportista. Pero es verdad que estas variables tradicionales nos han permitido tener un conocimiento muy aislado de la realidad. Te ha hecho 10 kilómetros y más 1.000 metros que ha hecho en alta intensidad... Analizar de forma tan parcelada nos permite saber... que la suma de las partes no define con exactitud el resultado del producto... En este caso, creo que es interesante que tengamos en cuenta variables donde se relacionen, variables más de carácter metabólico, variables más de carácter neuromuscular, mecánico, que de alguna manera nos relacione la exigencia compleja del propio juego, donde hay distancias totales, hay distancias de alta intensidad, hay cambios de dirección, hay aceleraciones, hay deceleraciones... El tejido no solo se ve afectado por los 1.000 metros que hago a alta intensidad, porque haciendo 1.000 metros sin jugar al fútbol no tengo el mismo efecto sobre el tejido. Sin embargo, haciendo 1.000 metros, además de no sé cuántos saltos, no sé cuántos golpeos, no sé cuántos cambios de dirección, esto sí nos da más información del efecto o del impacto que puede tener esa exigencia condicional sobre los tejidos solicitados.",
+      "keywords": [
+        "tejidos",
+        "variables-complejas",
+        "carga-mecanica",
+        "carga-metabolica",
+        "fatiga",
+        "aislado"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es insuficiente analizar la distancia total o los metros a alta intensidad de forma aislada?",
+        "¿Qué variables complejas impactan sobre los tejidos del futbolista?",
+        "¿Cómo afecta combinar carrera de alta intensidad con saltos y cambios de dirección?"
+      ],
+      "related_terms": [
+        "exigencia",
+        "condicional",
+        "tejidos",
+        "variables",
+        "complejas",
+        "metabólico",
+        "mecánico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases de evolución en la lectura e interpretación de las variables físicas.",
+      "context_after": "Se presenta un dashboard automatizado (Big Data) que ubica a los jugadores en cuadrantes para tomar decisiones de carga."
+    },
+    {
+      "id": "V02-030",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:10:13",
+      "end_timestamp": "00:13:36",
+      "start_seconds": 613,
+      "end_seconds": 816,
+      "duration_seconds": 203,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=613",
+      "title": "Cuadrantes de relación entre carga interna y externa",
+      "summary": "Mediante herramientas de Big Data, se automatiza la relación entre variables complejas de exigencia (High Metabolic Load Distance, Player Load) y la respuesta subjetiva (RPE). Ubicar al jugador en un cuadrante permite identificar visualmente si su nivel de fatiga tiene una respuesta lógica y anticipar riesgos.",
+      "literal_quote": "Si relaciono estas variables de carga interna, en este caso, por ejemplo, la percepción subjetiva del esfuerzo, con la carga externa en dos variables complejas... vemos que el jugador se encuentra en ese cuadrante. Es decir, tiene una respuesta lógica con respecto a lo que ha hecho...",
+      "full_transcript": "En este caso, vuelvo al tema. Teniendo en cuenta estas variables complejas, sabemos que en la primera parte se ha expuesto en un 45,5 % y en la segunda parte a un 52,5 %. Es decir, la segunda parte ha tenido un poquito más de exigencia que la primera parte. Además, si relaciono estas variables de carga interna, en este caso, por ejemplo, la percepción subjetiva del esfuerzo, con la carga externa en dos variables complejas, en el primer cuadrante vemos el High Metabolic Load Distance y en el segundo cuadrante vemos el Player Load, vemos que el jugador se encuentra en ese cuadrante. Es decir, tiene una respuesta lógica con respecto a lo que ha hecho, porque metabólicamente hablando y mecánicamente hablando, tanto con el High Metabolic Load Distance como con el Player Load, vemos que ha hecho mucho, le ha exigido mucho el partido y su respuesta condicional, su respuesta subjetiva es: «Oye, estoy muy cansado». Por lo tanto, tiene una respuesta lógica. Si eligiéramos otro jugador y se encontrara en otro tipo de cuadrantes, ya tenemos automatizado a través de una herramienta de big data, respuestas que nos pueda dar. Hay una excesiva respuesta, hay una respuesta lógica o hay una respuesta excelente. Ha hecho mucho y se encuentra muy bien. Dicho esto y este cuadrante muy visual, lo que hago es identificar qué tipo de fatiga puede tener, intentar anticiparme qué tipo de fatiga puede tener debido a las demandas solicitadas. Como veis, justo en la parte de abajo, en este cuadrado que os pongo aquí, vemos que ese jugador se ha expuesto a un 98,6 % de lo que suele hacer en High Metabolic Load Distance con respecto a su máxima, ha hecho un 100 % de distancia máxima... un 89,7 % de distancia recorrida por encima de 21 kilómetros por hora... un 95 % con respecto al sprint, un 92 % con respecto a la aceleración máxima, un 68 % con respecto a la deceleración máxima... Aquí vemos que la fatiga que puede tener este jugador es debido tanto a las demandas metabólicas como locomotoras como mecánicas. Es decir, ha tenido una afectación en todos los sistemas por la exposición que le ha exigido el juego.",
+      "keywords": [
+        "carga-interna",
+        "carga-externa",
+        "high-metabolic-load-distance",
+        "player-load",
+        "cuadrantes",
+        "rpe",
+        "fatiga",
+        "big-data"
+      ],
+      "entities": [
+        "High Metabolic Load Distance",
+        "Player Load"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se relacionan la carga interna y externa mediante cuadrantes?",
+        "¿Qué indica que un jugador tenga una respuesta 'lógica' en el cuadrante de fatiga?",
+        "¿Qué variables complejas utiliza Marcos Chena para cruzar con la percepción subjetiva del esfuerzo?"
+      ],
+      "related_terms": [
+        "percepción",
+        "subjetiva",
+        "del",
+        "esfuerzo",
+        "carga",
+        "externa",
+        "High",
+        "Metabolic",
+        "Load",
+        "Distance",
+        "Player",
+        "Load"
+      ],
+      "relevance_score": 5,
+      "context_before": "La necesidad de leer las métricas cruzando los impactos metabólicos con los mecánicos para proteger los tejidos.",
+      "context_after": "Análisis de dos casos prácticos de jugadores que reportan alto riesgo, pero sus índices de wellness posteriores exigen intervenciones opuestas."
+    },
+    {
+      "id": "V02-031",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:13:36",
+      "end_timestamp": "00:18:52",
+      "start_seconds": 816,
+      "end_seconds": 1132,
+      "duration_seconds": 316,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=816",
+      "title": "Algoritmos de riesgo y adaptación del entrenamiento post-partido",
+      "summary": "Se presentan casos prácticos donde algoritmos evalúan el riesgo de lesión tras un partido. Aunque dos jugadores presenten una carga extrema similar, el análisis de su 'Wellness' (Readiness) al día siguiente determinará si pueden reintroducirse en tareas de campo con el grupo o si necesitan regeneración total sin impacto.",
+      "literal_quote": "Este chico se encuentra en un riesgo alto... al día siguiente... vemos que ha tenido una recuperación incompleta... la respuesta que me dice el sistema es distinta: valorar la disponibilidad primero y luego disminuir la carga de trabajo...",
+      "full_transcript": "Entendemos que a través de un algoritmo, ese jugador tiene un riesgo alto, porque aquí, en este algoritmo, esto viene determinado por un algoritmo que he creado yo en función de determinadas variables, en función de la dinámica de entrenamientos... Este chico se encuentra en un riesgo alto con respecto a otros escenarios. Por lo tanto, lo que me dice el sistema es valorar facilitar la regeneración a través de estrategias de recuperación... Al día siguiente podemos coger otras variables relacionadas con el wellness, otras variables de readiness, lo que vosotros queráis. Y entonces volvemos a generar un informe donde, a través de este sistema de cuadrantes, podemos ver que la respuesta del deportista ha sido muy buena. Es decir, ha tenido una excelente recuperación... Vemos que este jugador se encuentra en este cuadrante, se encuentra con una excelente recuperación. Y a la izquierda podemos ver que ha tenido una buena tolerancia a la carga, es decir, su estado de wellness está en un 40 % con respecto a su peor wellness. Por lo tanto, entendemos que ha tenido una buena tolerancia a la carga... Deberíamos de mantener los niveles y/o valorar el trabajo según los objetivos individuales. Vamos a ver la misma herramienta con otro compañero y este jugador que está en un escenario muy parecido. Vemos que tiene relacionando la carga interna con la carga externa después del partido, vemos que tiene una respuesta lógica también, que tiene un riesgo muy alto... El riesgo es muy alto. Tenemos que valorar, facilitar la recuperación y al día siguiente, con las pruebas de readiness, en este caso el wellness... Vemos que ha tenido una recuperación incompleta. Ese jugador se encuentra al 80 % de su peor wellness con respecto a situaciones anteriores. Por lo tanto... La recuperación no ha sido todo lo excelente que podría ser comparándolo con el jugador anterior. Y en este caso, la respuesta que me dice el sistema es distinta: valorar la disponibilidad primero y luego disminuir la carga de trabajo, facilitar los procesos de recuperación. Es decir, si tuviéramos que plantearnos un escenario en una sesión más uno con estos jugadores... con uno puedo hacer un poquito más. Igual tengo que sacar a campo a unas carreritas, me puedo hacer el rond con el equipo. Puedo valorar que haga una tarea introductoria como comodín... Y sin embargo, con esta lo mejor que me planteo es que ni baje a campo, es decir, que tenga una buena valoración, una buena intervención a nivel de servicios médicos y luego facilitar los procesos de mucho menos impacto. Esta sería la manera en la que os puedo presentar una herramienta... para intentar valorar en qué situación se encuentra e intentar anticipar cómo esos datos los interpretamos...",
+      "keywords": [
+        "algoritmo-de-riesgo",
+        "wellness",
+        "readiness",
+        "recuperacion",
+        "toma-de-decisiones",
+        "sesion-post-partido",
+        "tolerancia-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se decide si un jugador puede entrenar en campo el día post-partido basándose en datos?",
+        "¿Qué diferencia práctica existe entre un jugador con excelente recuperación de wellness frente a uno con recuperación incompleta?",
+        "¿Cómo utiliza Marcos Chena los algoritmos para detectar riesgo alto de fatiga o lesión?"
+      ],
+      "related_terms": [
+        "algoritmo",
+        "estado",
+        "de",
+        "wellness",
+        "readiness",
+        "tolerancia",
+        "a",
+        "la",
+        "carga",
+        "estrategias",
+        "de",
+        "recuperación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de cómo se distribuyen los cuadrantes correlacionando percepción de fatiga e impactos físicos.",
+      "context_after": "Presentación del 'Sistema Dinámico de Cuadrantes', un framework formal para establecer prioridades y volumen en el microciclo."
+    },
+    {
+      "id": "V02-032",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:18:52",
+      "end_timestamp": "00:22:20",
+      "start_seconds": 1132,
+      "end_seconds": 1340,
+      "duration_seconds": 208,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1132",
+      "title": "Sistema dinámico de cuadrantes para la planificación",
+      "summary": "Se expone un 'sistema dinámico de cuadrantes' para organizar la intervención del preparador. Se cruza la exigencia o complejidad del partido anterior, el nivel actual de fatiga y los días disponibles hasta el siguiente encuentro. Estas variables dictan si la prioridad debe ser recuperar, optimizar o estimular, definiendo así los límites de volumen e intensidad.",
+      "literal_quote": "Yo lo he llamado un sistema dinámico de cuadrantes... Teniendo en cuenta que yo voy de competición a competición... si están muy fatigados y tengo poco tiempo. Ya está, solo me cabe recuperar. Todos mis esfuerzos tienen que ir a revertir esa situación de fatiga.",
+      "full_transcript": "Y a partir de aquí, me gustaría presentaros este artículo que publiqué hace relativamente poco, con el que creo que se puede organizar el proceso de intervención a la hora de trabajar con datos. En este caso, yo lo he llamado un sistema dinámico de cuadrantes, porque es un sistema que va cambiando constantemente... Yo creo que un sistema de cuadrantes nos permite de manera muy visual ver qué es lo que sucede, ver en qué escenario estamos y a partir de ahí ir tomando decisiones... Teniendo en cuenta que yo voy de competición a competición y que dentro de la competición, entre competición y competición, tengo un proceso de entrenamiento con el que yo puedo manipular el estado de mis deportistas para llegar en las mejores condiciones a la siguiente competición, tengo que tener en cuenta, primero, cuáles son mis demandas, cuáles son mis objetivos, mis prioridades, el perfil de la sesión o el perfil del trabajo que voy a utilizar... Sería lo primero ver cuál es la cantidad de trabajo que he tenido en ese partido y lo complejo que ha sido relacionar esto. Hay partidos que son muy complejos, es decir, me he quedado con uno menos... he tenido un viaje que ha sido agotador... A partir de ahí, puedo sacar si son partidos demandantes, si son partidos de alto impacto, si son partidos de bajo impacto o si son retos. A partir de aquí, con este resultado, me voy al siguiente cuadrante. ¿Cuál es el nivel de fatiga? Es un nivel de fatiga alto, es un nivel de fatiga bajo y cuánto tiempo tengo para recuperarme hasta el siguiente partido. Entonces, a partir de aquí surgen objetivos, surgen prioridades. Están muy fatigados y tengo poco tiempo. Ya está, solo me cabe recuperar. Todos mis esfuerzos tienen que ir a revertir esa situación de fatiga. Están muy fatigados y tengo mucho tiempo. Vamos a poder estructurar principios que me permitan generar adaptaciones pertinentes. Puedo trabajar o no puedo trabajar. Con este resultado, llego al siguiente. Voy a establecer el volumen, ya que tengo tiempo o no tengo tiempo, ¿cómo establezco el volumen y la intensidad? Si tengo tiempo, puedo aplicar volumen y puedo aplicar intensidad. Si no tengo tiempo, no tendré volumen y tendré que aplicar la intensidad que necesito. Entonces, en función de estos cuadrantes... puedo establecer: tengo sesiones que me van a permitir estimular, me va a permitir encajar sesiones que solo me van a permitir recuperar, sesiones que me van a permitir optimizar o sesiones que me van a permitir asimilar ciertos trabajos.",
+      "keywords": [
+        "sistema-dinamico",
+        "cuadrantes",
+        "planificacion",
+        "tiempo-recuperacion",
+        "volumen",
+        "intensidad",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿En qué consiste el sistema dinámico de cuadrantes propuesto por Marcos Chena?",
+        "¿Cómo influyen el nivel de fatiga y el tiempo disponible en la planificación del próximo partido?",
+        "¿Qué variables determinan si una sesión debe enfocarse en recuperación u optimización?"
+      ],
+      "related_terms": [
+        "sistema",
+        "dinámico",
+        "de",
+        "cuadrantes",
+        "nivel",
+        "de",
+        "fatiga",
+        "volumen",
+        "e",
+        "intensidad",
+        "optimizar",
+        "o",
+        "asimilar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Aplicación de toma de decisiones en campo a través del software cruzando readiness y fatiga.",
+      "context_after": "Traducción de estas prioridades de volumen e intensidad en tareas de campo ajustando metros y número de futbolistas."
+    },
+    {
+      "id": "V02-033",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:22:20",
+      "end_timestamp": "00:24:26",
+      "start_seconds": 1340,
+      "end_seconds": 1466,
+      "duration_seconds": 126,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1340",
+      "title": "Modulación de tareas según dimensiones y número de jugadores",
+      "summary": "Una vez definidos los objetivos de la sesión, se modula el estímulo físico ajustando los espacios y el número de jugadores. Espacios amplios y muchos jugadores fomentan distancias a alta intensidad; espacios reducidos elevan la densidad de aceleraciones y deceleraciones sin alcanzar altas velocidades.",
+      "literal_quote": "Dimensiones muy grandes y muchos jugadores... va a ser muy demandante a nivel de distancias a alta intensidad... espacios reducidos. Aquí sé que se va a dar más aceleraciones y deceleraciones...",
+      "full_transcript": "A partir de aquí, una vez que ya tengo planteados los tipos de sesiones, ¿estas sesiones de qué van a estar construidas? ¿Cómo lo voy a construir? Puedo trabajar con variables como las dimensiones y el número de jugadores. Dimensiones muy grandes y muchos jugadores, voy a utilizar tareas donde se basan en velocidad. Es decir, va a haber aceleraciones y deceleraciones, la frecuencia cardíaca, a nivel metabólico, va a ser exigente, pero sobre todo va a ser muy demandante a nivel de distancias a alta intensidad, porque voy a tener espacio para poder trabajar. O dentro de estas sesiones de estimulación, como tengo tiempo, una va a ser más enfocada a grandes espacios y gran número de jugadores, otros a pocos jugadores y espacios reducidos. Aquí sé que se va a dar más aceleraciones y deceleraciones, más densidad de esfuerzos, no voy a alcanzar altas velocidades porque no me lo permite el espacio, etcétera. Dicho esto, establezco el siguiente punto: la carga que se me ha dado en ese entrenamiento que yo he establecido, porque tengo un tiempo determinado y vengo de una fatiga determinada y el partido que he trabajado ha sido de esta determinada manera, y ahora esto es lo que se ha realizado y esto es lo que yo tenía planificado. ¿Compenso, no compenso, me espero a compensar? ¿Qué es lo que hago?",
+      "keywords": [
+        "dimensiones-tareas",
+        "espacios-reducidos",
+        "espacios-grandes",
+        "aceleraciones",
+        "alta-intensidad",
+        "numero-jugadores"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el tamaño del espacio a las demandas físicas de una tarea de entrenamiento?",
+        "¿Por qué se producen más aceleraciones en espacios reducidos frente a espacios grandes?",
+        "¿Qué variables se manipulan para construir las sesiones tras determinar la fatiga del equipo?"
+      ],
+      "related_terms": [
+        "dimensiones",
+        "y",
+        "el",
+        "número",
+        "de",
+        "jugadores",
+        "aceleraciones",
+        "y",
+        "deceleraciones",
+        "distancias",
+        "a",
+        "alta",
+        "intensidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Establecimiento de las prioridades del día en base al modelo de cuadrantes post-partido.",
+      "context_after": "Fase final del proceso: revisión de la carga ejecutada vs planificada y su efecto en la adaptación a largo plazo."
+    },
+    {
+      "id": "V02-034",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:24:26",
+      "end_timestamp": "00:27:45",
+      "start_seconds": 1466,
+      "end_seconds": 1665,
+      "duration_seconds": 199,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1466",
+      "title": "Control de variabilidad, disponibilidad y adaptaciones a largo plazo",
+      "summary": "Es fundamental comparar la carga ejecutada con la planificada y monitorizar la variabilidad respecto al perfil base del jugador para detectar alarmas. El objetivo último es la comunicación interdepartamental para anticipar riesgos y confirmar que el efecto del entrenamiento produce adaptaciones positivas a largo plazo.",
+      "literal_quote": "Si yo he hecho algo que me ha exigido mucho y además es muy diferente, tendríamos que poner un sistema de alarma aquí... necesito conocer el efecto del entrenamiento y tener esa timeline de adquisición, ver si ese jugador se está de alguna manera adaptando...",
+      "full_transcript": "El siguiente punto sería relacionar la carga interna con la carga externa, es decir, qué me ha exigido, qué dosis he tenido, qué me ha exigido el entrenamiento, si esto se relaciona con lo que yo estaba planificado y además la respuesta que hemos tenido, porque a lo mejor no se relaciona con lo que estaba planificado, pero la respuesta es excesiva. Tendré que investigar aquellos aspectos externos que puedan estar condicionando la respuesta de mi deportista. A partir de aquí, entender que la carga que he tenido en el entrenamiento y la variabilidad con respecto a lo anterior, porque si yo he hecho algo nuevo o he hecho algo muy diferente a lo que vengo haciendo, puede ser un problema. Si yo he hecho algo de poco valor, pero muy diferente, el impacto es menor. Pero si he hecho algo que me ha exigido mucho y además es muy diferente, tendríamos que poner un sistema de alarma aquí. El siguiente punto sería relacionar todas aquellas variables que tienen que ver con el bienestar, con la cantidad de carga que hemos tenido y la variabilidad con respecto al perfil base que hemos tenido o que llevamos teniendo. Entonces, a partir de aquí, lo que determino o lo que intento anticipar es situaciones en las que el jugador ha tenido una respuesta excelente, una respuesta inadecuada, etcétera. Y por último, con todo esto, no solo la respuesta que tiene el deportista, sino aquellas variables que me permitan conocer la disponibilidad del jugador. El jugador puede decir misa, pero tengo datos aquí que no me gustan. Y además, lo que viene haciendo no me gusta. Entonces, puedo anticipar ciertas circunstancias, una conversación con el jugador, una conversación con los servicios médicos, una conversación con el entrenador, para poder ajustar en la medida de lo posible aquellos estímulos de entrenamiento con el objetivo de que ese jugador esté bien atendido. No correr riesgos innecesarios. Y por último, ya pensando un poco en medio y largo plazo, necesito conocer el efecto del entrenamiento y tener esa timeline de adquisición, ver si ese jugador se está de alguna manera adaptando al efecto del entrenamiento. Es decir, ¿el efecto del entrenamiento está siendo positivo o no está siendo positivo?... Construir todo esto es bastante complejo... pero creo que es la mejor manera de poder tener un conocimiento adecuado de la información que me están dando todos los dispositivos y a partir de ahí poder tomar decisiones. Si leéis el artículo, seguramente en vuestro contexto a lo mejor tenéis que saltaros algunos pasos. Hay gente que no pueda tener información de todos estos recursos que podemos tener nosotros, pero sí que es cierto que de alguna manera tienes organizado el sistema de trabajo.",
+      "keywords": [
+        "variabilidad",
+        "perfil-base",
+        "sistema-de-alarma",
+        "disponibilidad",
+        "comunicacion",
+        "efecto-entrenamiento",
+        "largo-plazo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es un problema si el entrenamiento ejecutado es muy diferente al perfil base del jugador?",
+        "¿Cómo interviene el preparador físico si los datos objetivos contradicen la sensación subjetiva del jugador?",
+        "¿Por qué es importante analizar el efecto del entrenamiento a medio y largo plazo?"
+      ],
+      "related_terms": [
+        "variabilidad",
+        "con",
+        "respecto",
+        "al",
+        "perfil",
+        "base",
+        "sistema",
+        "de",
+        "alarma",
+        "disponibilidad",
+        "del",
+        "jugador",
+        "timeline",
+        "de",
+        "adquisición"
+      ],
+      "relevance_score": 5,
+      "context_before": "Cierre sobre cómo los espacios condicionan los objetivos condicionales en campo.",
+      "context_after": "Fin del webinar de Marcos Chena."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del preparador físico del fútbol en la actualidad",
+    "speaker": "Marcos Chena",
+    "total_duration": "00:16:37",
+    "total_duration_seconds": 997,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-035",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:02:08",
+      "start_seconds": 3,
+      "end_seconds": 128,
+      "duration_seconds": 125,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "El Head of Performance y la importancia de la comunicación interna",
+      "summary": "El futuro de la preparación física pasa por la figura del 'Head of Performance'. Su objetivo principal es integrar información, sistematizar procesos y fomentar una comunicación interna de máxima calidad en el cuerpo técnico para maximizar la disponibilidad de los jugadores y reducir el impacto negativo de las lesiones.",
+      "literal_quote": "Este artículo habla de la buena comunicación o de la calidad interna en la comunicación para que el jugador tenga una buena disponibilidad... Los equipos con mayor disponibilidad tienen mejores resultados deportivos.",
+      "full_transcript": "Vamos con la última parte de esta formación, donde la pregunta que nos planteamos es: ¿hacia dónde vamos? Una vez analizado el rol del preparador físico y las diferentes herramientas... la siguiente pregunta es: ¿hacia dónde vamos después de esto? Me gustaría destacar este artículo científico porque habla de la importancia de la disponibilidad, de tener ese preparador físico especialista en la disponibilidad de los jugadores, que sí tendría que ser el head of performance, que tenga un conocimiento muy grande de casi todas las áreas, que sea muy bueno a nivel de sistematizar procesos, de hacerse preguntas y que sea resolutivo, de tal forma que tenga competencias sobre cómo relacionar las diferentes áreas que ya hemos hablado y que todo desemboque en que el rendimiento de los jugadores a nivel individual sea cada vez mejor, que el rendimiento colectivo del equipo sea cada vez mejor y, sobre todo, que la epidemiología lesional no sea un factor que condicione negativamente los objetivos... Este artículo habla de la buena comunicación o de la calidad interna en la comunicación para que el jugador tenga una buena disponibilidad... Los equipos con mayor disponibilidad tienen mejores resultados deportivos.",
+      "keywords": [
+        "head-of-performance",
+        "comunicacion-interna",
+        "disponibilidad",
+        "epidemiologia-lesional",
+        "sistematizar-procesos"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol del Head of Performance según Marcos Chena?",
+        "¿Cómo afecta la comunicación interna a la disponibilidad del jugador?",
+        "¿Por qué los equipos con mayor disponibilidad tienen mejores resultados deportivos?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "interna",
+        "disponibilidad",
+        "rendimiento",
+        "colectivo",
+        "epidemiología",
+        "lesional"
+      ],
+      "relevance_score": 4,
+      "context_before": "Fin de la sección sobre la monitorización y ajuste de carga post-partido (VTT anterior).",
+      "context_after": "Se analiza cómo el impacto de la carga no reside en el volumen en sí, sino en la respuesta individual del deportista."
+    },
+    {
+      "id": "V02-036",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:02:09",
+      "end_timestamp": "00:04:26",
+      "start_seconds": 129,
+      "end_seconds": 266,
+      "duration_seconds": 137,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=129",
+      "title": "Dosis vs. Respuesta y la fatiga como herramienta informativa",
+      "summary": "Ante una misma dosis de carga, cada jugador genera una respuesta distinta según sus adaptaciones previas. La fatiga, a menudo eludida, es considerada uno de los mejores inventos, ya que proporciona información objetiva sobre el estado del proceso y guía las decisiones de recuperación.",
+      "literal_quote": "El problema no está en la carga, el problema está en la respuesta a esa carga... La fatiga para mí es uno de los mejores inventos que hay... nos da información de cuáles son nuestros siguientes pasos.",
+      "full_transcript": "Tenemos que tener una atención a la carga del entrenamiento... pero esto va a generar y va a condicionar las respuestas del deportista, que desde luego la clave está en la respuesta. Es decir, ante la misma dosis, yo no consigo las mismas adaptaciones en mis deportistas. ¿Por qué? Porque va a depender de la respuesta del deportista. Es decir, si yo corro cinco kilómetros y mi compañero corre cinco kilómetros, ante la misma dosis, puede que cinco kilómetros supongan un mundo para mí porque no corro nunca y mi compañero cinco kilómetros sea para calentar... Entonces, el problema no está en la carga, el problema está en la respuesta a esa carga. Pero desde luego, la carga, la dosis de trabajo condiciona la respuesta... Tenemos que analizar si hay un exceso de carga que puede dar lugar a un tipo de fatiga y esa fatiga puede conducir a una lesión. Y si hay un defecto de la carga, puede haber una desadaptación... Debemos de atender a la fatiga y a la recuperación. Es decir, una fatiga acumulada no es un problema, pero mal gestionada sí lo es... ¿Por qué digo que la fatiga? La fatiga para mí es uno de los mejores inventos que hay. Hay mucha gente que elude la fatiga, pero realmente para mí es uno de los mejores inventos que hay. Es decir, nos da mucha información de cómo está siendo nuestro proceso y nos da información de cuáles son nuestros siguientes pasos. Sin esto estaríamos totalmente ciegos. Y la fatiga es multifactorial.",
+      "keywords": [
+        "dosis",
+        "respuesta",
+        "fatiga",
+        "carga-entrenamiento",
+        "desadaptacion",
+        "multifactorial"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué Marcos Chena considera que la fatiga es un buen invento?",
+        "¿Cuál es la diferencia entre la dosis de entrenamiento y la respuesta del deportista?",
+        "¿Qué riesgos existen tanto por un exceso como por un defecto de carga?"
+      ],
+      "related_terms": [
+        "dosis",
+        "de",
+        "trabajo",
+        "respuesta",
+        "a",
+        "esa",
+        "carga",
+        "fatiga",
+        "acumulada",
+        "desadaptación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de la comunicación interna y el rol del Head of Performance en la prevención de lesiones.",
+      "context_after": "Planteamiento sobre cómo centralizar la información generada por la fatiga en un sistema de rendimiento 360 grados."
+    },
+    {
+      "id": "V02-037",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:04:28",
+      "end_timestamp": "00:07:08",
+      "start_seconds": 268,
+      "end_seconds": 428,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=268",
+      "title": "Sistema 360º y el traje a medida para cada jugador",
+      "summary": "El entrenamiento moderno exige sistemas de rendimiento de 360 grados que centralicen múltiples fuentes de información. El Head of Performance utiliza algoritmos para sincronizar áreas y aplicar intervenciones individuales precisas, diseñando un 'traje a medida' que minimice los efectos negativos de la competición.",
+      "literal_quote": "Cada vez más los sistemas de trabajo tienden a esto, son sistemas de rendimiento 360 grados... Ser conscientes de que cada jugador necesita un traje a medida... cómo a través de un head of performance... somos capaces de interpretar en qué situación estamos.",
+      "full_transcript": "Cada vez más los sistemas de trabajo tienden a esto, son sistemas de rendimiento 360 grados. Quiere decir que tienen en cuenta muchos ámbitos del deportista y esto da lugar a que tengamos que tener cada vez más información y más recursos para registrar esa información, porque esa información luego hay que centralizarla y no solo almacenarla, sino centralizarla. Y una vez centralizada, hay que gestionarla. Hay que, como decíamos anteriormente, a través de algoritmos, identificar qué tipo de puntos pueden ser más importantes y en qué momento. Entonces, a partir de aquí, con toda esta información... ser conscientes de que cada jugador necesita un traje a medida... Todo el mundo tiene que entender que, por supuesto, la prioridad es ganar, pero ganar implica una serie de procedimientos que hacen que los jugadores estén en sus mejores condiciones posibles, que hayamos erradicado, disminuido o minimizado el efecto negativo del entrenamiento o el efecto negativo de la competición... Entonces, a partir de aquí surgen los grandes equipos de trabajo que permiten... gestionar la información y aplicar métodos en momentos puntuales, de tal forma que este sistema de rendimiento de chaqueta personalizada 360 tiene en cuenta la sincronización de los diferentes profesionales que intervienen en ese proceso. Ahí está la clave: cómo a través de un head of performance, en este caso, una cabeza visible, somos capaces de interpretar en qué situación estamos y cómo tenemos que ir manipulando las diferentes áreas para que le llegue a ese jugador lo que le tiene que llegar y no otra cosa.",
+      "keywords": [
+        "sistema-360",
+        "traje-a-medida",
+        "centralizar-informacion",
+        "head-of-performance",
+        "individualizacion",
+        "algoritmos"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué significa el concepto de sistema de rendimiento 360 grados en el fútbol?",
+        "¿Por qué afirma Marcos Chena que cada futbolista necesita un 'traje a medida'?",
+        "¿Qué papel juegan los algoritmos y la centralización de datos en el rendimiento individual?"
+      ],
+      "related_terms": [
+        "traje",
+        "a",
+        "medida",
+        "sistema",
+        "de",
+        "rendimiento",
+        "360",
+        "sincronización",
+        "de",
+        "los",
+        "diferentes",
+        "profesionales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación teórica sobre la relación dosis-respuesta y la multifactorialidad de la fatiga.",
+      "context_after": "Se detalla una rutina real y cronológica de las reuniones y toma de decisiones diarias del cuerpo técnico."
+    },
+    {
+      "id": "V02-038",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:07:09",
+      "end_timestamp": "00:11:49",
+      "start_seconds": 429,
+      "end_seconds": 709,
+      "duration_seconds": 280,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=429",
+      "title": "Flujo de trabajo y reuniones diarias del Staff Técnico",
+      "summary": "Se detalla la cronología diaria del staff para garantizar la individualización del entrenamiento: llegada temprana, recolección de wellness, reunión técnica, reunión médica cruzando datos, y finalmente reuniones 'pre-performance' para ajustar la carga de cada jugador en campo, culminando con el trabajo extra o 'post-performance'.",
+      "literal_quote": "60 minutos antes tenemos una reunión el staff de cómo va a ir la sesión... luego tenemos que tener una reunión con otros miembros del staff: la fisioterapia, los médicos... Míster, tenemos planteado esto, pero después de hablar con el médico, cuidado con este.",
+      "full_transcript": "A partir de aquí, lo que nosotros establecemos y que ya está evidenciado en otros artículos científicos, es una línea de trabajo: vamos a ver qué responsabilidades tenemos cada uno y qué actividad vamos a hacer día a día. Entonces, ¿nosotros llegamos cuánto? El artículo dice una hora y media antes llegamos a la zona de entrenamiento. 85 minutos antes pasamos el wellness y hacen el peso, y luego 75 minutos antes se van a desayunar, 60 minutos antes tenemos una reunión el staff de cómo va a ir la sesión, que la sesión, entiendo que ya está más o menos planificada... Luego tenemos que tener una reunión con otros miembros del staff: la fisioterapia, los médicos. ¿Ha venido alguno con algún problema?... ¿Hay algún jugador que con el tratamiento de ayer o con la información que tengáis de ayer habría que ajustarle la carga?... Con estos datos, tenemos que ir a una reunión individual con los miembros del staff, un pre-performance, donde digamos: 'Míster, tenemos planteado esto, pero después de hablar con el médico, cuidado con este. Yo a este le pondría de comodín. Este, la última parte del entrenamiento es mejor que no la haga'... Después del entrenamiento tendremos que hacer el post-performance, ese trabajo individualizado de compensación, de complemento, de suplemento... Ser capaz de gestionar la información a nivel subjetivo, ser capaz de organizar toda esa interpretación... Tendríamos un mapa con cada uno de los jugadores. El jugador uno tiene que hacer esto... El jugador dos o el jugador tres va a hacer solo el 80 % de la sesión. ¿Por qué? Porque antes va a hacer una activación de glúteo... Es ir intentando encontrar la mejor manera de cuadrar el puzzle sin romper la dinámica del equipo sobre el terreno de juego... Ahora bien, sin interrumpir esto o tocando lo menos posible, interfiriendo lo menos posible en la dinámica normal y coherente del entrenamiento colectivo, tenemos que ver la manera de cómo encajar aquellos estímulos a través de la microdosificación.",
+      "keywords": [
+        "flujo-de-trabajo",
+        "reuniones-staff",
+        "pre-performance",
+        "post-performance",
+        "wellness",
+        "microdosificacion",
+        "individualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo es la rutina y las reuniones del staff técnico previas a un entrenamiento de fútbol?",
+        "¿Cómo se cruza la información médica para adaptar el trabajo individual de un jugador en campo?",
+        "¿Qué diferencia hay entre el trabajo de pre-performance y post-performance?"
+      ],
+      "related_terms": [
+        "pre-performance",
+        "post-performance",
+        "reunión",
+        "el",
+        "staff",
+        "cuadrar",
+        "el",
+        "puzzle",
+        "microdosificación"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia de tener un head of performance para aplicar intervenciones milimétricas a cada jugador.",
+      "context_after": "Se resume este flujo de trabajo como el 'arte de entrenar' y se exponen las habilidades blandas necesarias."
+    },
+    {
+      "id": "V02-039",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:11:49",
+      "end_timestamp": "00:16:37",
+      "start_seconds": 709,
+      "end_seconds": 997,
+      "duration_seconds": 288,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=709",
+      "title": "El futuro del Sport Science: Integración de la información",
+      "summary": "Pese al crecimiento exponencial de las publicaciones científicas, no existe un 'santo grial' aplicable universalmente. El futuro del Sport Scientist no reside en ser experto en recolectar más datos (GPS, radares), sino en ser especialista en integrar toda la información para tomar decisiones eficaces.",
+      "literal_quote": "El futuro del sport science... ya no sea el de recoger y almacenar más datos, sino el de integrar toda la información para generar decisiones que mejoren el rendimiento y reduzcan las lesiones.",
+      "full_transcript": "Y en eso surgen una serie de condicionantes que tenemos que tener claros. Tenemos que conocer qué dice la ciencia en relación a nuestras necesidades... Tenemos que planificar y diseñar los diferentes caminos... Comprender un poco el contexto... y luego invertir mucho en nuestro conocimiento, nuestro desarrollo personal y nuestra inteligencia emocional... Y eso es el arte de entrenar. A partir de ahí, hay otras cosas que son fundamentales. Tenemos que mantenernos actualizados, tenemos que observar, tenemos que escuchar, tenemos que ser flexibles... Y me gustaría acabar con este artículo, reciente del 2025... donde vemos que hay un crecimiento exponencial de la cantidad de artículos publicados en la literatura científica en relación a todo lo que tiene que ver con el performance analysis del fútbol. Es exponencial. A partir del 2017, todo lo que se ha publicado es una locura... Creo que si fuéramos capaces de encontrar la herramienta que nos dijera: 'Oye, el resultado que vas a tener en tu equipo va a depender de las relaciones que se establezcan entre este tipo de factores', creo que daríamos con el santo grial. Pero creo que de esto estamos muy lejos, porque además esas relaciones y ese resultado va a ser totalmente distinto en función del contexto en el que nos encontramos... Lo que está claro es que el futuro del sport science, en este caso, ya no sea el de recoger y almacenar más datos, sino el de integrar toda la información para generar decisiones que mejoren el rendimiento y reduzcan las lesiones. Esta es un poco mi reflexión. Y desde luego, lo que creo que tenemos que conseguir con este tipo de formaciones es que la siguiente generación de sport scientists no sean simplemente especialistas en GPS o especialistas en las plataformas de fuerza o especialistas en los radares... sino que de alguna manera tienen que ser especialistas en la integración de la información. Creo que eso es el siguiente paso.",
+      "keywords": [
+        "futuro",
+        "sport-science",
+        "integracion-informacion",
+        "toma-decisiones",
+        "literatura-cientifica",
+        "gps",
+        "rendimiento"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es el futuro del Sport Science según Marcos Chena?",
+        "¿Por qué la integración de información es el siguiente paso por encima de la recolección masiva de datos?",
+        "¿Existe una herramienta o 'santo grial' aplicable por igual a todos los contextos futbolísticos?"
+      ],
+      "related_terms": [
+        "futuro",
+        "del",
+        "sport",
+        "science",
+        "integrar",
+        "toda",
+        "la",
+        "información",
+        "generar",
+        "decisiones",
+        "crecimiento",
+        "exponencial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del flujo de trabajo de microdosificación diaria cruzando reuniones de médicos, preparadores y cuerpo técnico.",
+      "context_after": "Agradecimientos, finalización del webinar y estímulo al alumnado a desarrollar su propio criterio y método."
+    }
+  ]
+}
