@@ -1,0 +1,464 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+    "speaker": "Ezequiel Rosario Mateo",
+    "total_duration": "00:21:13",
+    "total_duration_seconds": 1273,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:32",
+      "start_seconds": 1,
+      "end_seconds": 152,
+      "duration_seconds": 151,
+      "timestamp_url": "?t=1",
+      "title": "Entrenabilidad y adaptación a la fatiga mediante sprints repetidos",
+      "summary": "La fatiga puede modificarse a través del entrenamiento. Un estudio con futbolistas demostró que un bloque de ocho semanas de sprints repetidos no solo mejoró los tiempos, sino que remodeló el propio patrón biomecánico bajo fatiga, reduciendo compensaciones como la flexión de tronco o la sobresancada.",
+      "literal_quote": "...el entrenamiento mejoró los tiempos de 'sprints' y remodeló el propio patrón de 'sprint' fatigado. Los jugadores presentaron menos flexión de tronco, menos sobresancada y un mecanismo de 'kickback' reducido bajo fatiga.",
+      "full_transcript": "Después de haber visto que la fatiga en los músculos isquiotibiales no se absorbe de la misma manera... pasamos a ver que las señales de la fatiga no son fijas. Esto lo vemos dentro del apartado de entrenabilidad. Aquí queremos resaltar el artículo publicado en el 2024 por Romero y asociados... Tomaron 14 jugadores semiprofesionales, los pusieron a que completaran un bloque de entrenamiento de sprints repetido de ocho semanas. Se perfiló el rendimiento en sprint y la mecánica del sprint fatigado antes y después... Que el entrenamiento mejoró los tiempos de sprints y remodeló el propio patrón de sprint fatigado. Los jugadores presentaron menos flexión de tronco, menos sobresancada y un mecanismo de 'kickback' reducido bajo fatiga. Esto lo que nos deja saber... es que aunque se presente la fatiga, aún así podemos hacer una intervención de la manera que sea apropiada y se puede garantizar que el atleta se siga desarrollando...",
+      "keywords": [
+        "entrenabilidad",
+        "sprints",
+        "fatiga",
+        "biomecanica",
+        "adaptacion"
+      ],
+      "entities": [
+        "Revista de Biomecánica Aplicada"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ezequiel Rosario sobre la entrenabilidad y adaptación a la fatiga?",
+        "¿Dónde se habla del estudio de sprints repetidos en fútbol?",
+        "¿Cómo se altera el patrón biomecánico del sprint tras el entrenamiento repetitivo?"
+      ],
+      "related_terms": [
+        "entrenamiento de sprints",
+        "patrón biomecánico fatigado",
+        "flexión de tronco",
+        "sobresancada"
+      ],
+      "relevance_score": 5,
+      "context_before": "Sección anterior donde se detalló que la cabeza larga del bíceps femoral recibe desproporcionadamente mayor tensión bajo fatiga.",
+      "context_after": "Transición hacia cómo la fatiga y los cambios biomecánicos se enmascaran bajo rendimientos aparentemente estables."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:02:33",
+      "end_timestamp": "00:04:38",
+      "start_seconds": 153,
+      "end_seconds": 278,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=153",
+      "title": "Enmascaramiento mecánico y distribución de carga en la cadena cinética",
+      "summary": "Un rendimiento estable suele ocultar alteraciones biomecánicas profundas. En futbolistas fatigados, la velocidad de remate se mantuvo intacta, pero la mecánica de la secuencia proximal-distal cambió drásticamente. El éxito del gesto no recae solo en la extremidad ejecutora, sino que la tensión y el control se distribuyen por toda la cadena cinética, incluida la pierna de apoyo.",
+      "literal_quote": "La mecánica fue cambiante por debajo... Que el cómo no se limita al miembro que produce el resultado visible. Es decir, que la contribución se disminuye y se distribuye a lo largo de toda la cadena cinética, incluida la pierna de apoyo.",
+      "full_transcript": "Después pasamos a la próxima fase, que es el enmascaramiento y distribución. Aquí es resaltable que este patrón no solamente se puede observar mientras el atleta está sprintsando... En el primer artículo, ellos tomaron 10 jugadores profesionales de soccer y quisieron imitar el tiempo que dura el partido... Se evaluó un remate de velocidad máxima cada 15 minutos... ¿Qué encontraron los autores? Que la velocidad del pie al golpear se mantuvo estable alrededor de 119 millas por hora durante todo el protocolo, pero la secuencia proximal-distal cambió. Tuvo más rotación de muslo, menos rotación de pierna, sin disminución de fuerza de rodilla y el rendimiento fue estable. La mecánica fue cambiante por debajo. En el otro artículo captaron a 22 jugadores universitarios de fútbol con análisis de movimiento de tres dimensiones para probar si la rigidez de la pierna de apoyo, no la pierna que golpea, determina la cinemática del tronco y el rendimiento de remate... Que el cómo no se limita al miembro que produce el resultado visible. Es decir, que la contribución se disminuye y se distribuye a lo largo de toda la cadena cinética, incluida la pierna de apoyo.",
+      "keywords": [
+        "enmascaramiento",
+        "cadena-cinetica",
+        "biomecanica",
+        "rendimiento-estable",
+        "pierna-apoyo"
+      ],
+      "entities": [
+        "Revista de Biomecánica Aplicada"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el enmascaramiento de la fatiga en deportistas?",
+        "¿Cómo cambia la mecánica proximal-distal bajo fatiga sin afectar el rendimiento?",
+        "¿Por qué es importante analizar la pierna de apoyo en acciones de remate?"
+      ],
+      "related_terms": [
+        "enmascaramiento y distribución",
+        "secuencia proximal-distal",
+        "cadena cinética",
+        "rendimiento estable"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo el entrenamiento puede modificar el patrón de fatiga y proteger al atleta.",
+      "context_after": "Análisis de la falta de aplicabilidad de la biomecánica en otras disciplinas deportivas a pesar de la tecnología."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:04:39",
+      "end_timestamp": "00:06:38",
+      "start_seconds": 279,
+      "end_seconds": 398,
+      "duration_seconds": 119,
+      "timestamp_url": "?t=279",
+      "title": "La brecha tecnológica y la aplicabilidad deportiva",
+      "summary": "La desconexión entre el monitoreo y su aplicación existe en numerosos deportes, como la gimnasia artística. Una revisión de 15 años reveló que, aunque el uso de tecnología abunda, hay un gran vacío metodológico en analizar cadenas cinemáticas con unidades inerciales, dificultando prevenir pérdidas de disponibilidad.",
+      "literal_quote": "Es decir, que aunque tantos años con tanto avance científico, con tanta implementación y tecnológica, aún así se tiene una brecha muy grande de la aplicabilidad que se tiene de esas tecnologías en el deporte en sí...",
+      "full_transcript": "Dicho esto, pasamos a que esta brecha, aunque venimos hablando de deporte en conjunto, no solamente se ve evidenciada en esto. También se ve evidenciada en aquellos deportes que son de gimnasia artística, por ejemplo... Revisaron 15 años de estudios publicados. ¿Qué encontraron los autores? Que solo 16 estudios calificaron. Las plataformas de fuerza siguen dominando, aunque las unidades de inercia de movimiento son más ecológicamente válidas para el entrenamiento y ningún estudio examinó las barras cineméticas. Es decir, que aunque tantos años con tanto avance científico, con tanta implementación y tecnológica, aún así se tiene una brecha muy grande de la aplicabilidad que se tiene de esas tecnologías en el deporte en sí y en deportes donde la cadena cinemática, donde la biomecánica presenta un rol muy importante, aún así la brecha sigue creciendo. Ahí es donde como expertos... tenemos que seguir trabajando para seguir brindando la información pertinente que requiere todo el equipo interdisciplinario para que pueda brindar lo mejor de cada uno de ellos... queremos que el atleta esté disponible y que eso se traduzca en ganar el partido.",
+      "keywords": [
+        "brecha-tecnologica",
+        "gimnasia-artistica",
+        "biomecanica",
+        "aplicabilidad",
+        "disponibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Qué revela la revisión de 15 años sobre el monitoreo biomecánico en gimnasia?",
+        "¿Por qué existe una brecha tecnológica en la aplicabilidad de los datos deportivos?",
+        "¿Cuál es el objetivo final de proveer información biomecánica pertinente al equipo?"
+      ],
+      "related_terms": [
+        "brecha tecnológica",
+        "unidades de inercia de movimiento",
+        "cadena cinemática",
+        "equipo interdisciplinario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del enmascaramiento mecánico del cuerpo para mantener el rendimiento deportivo estable.",
+      "context_after": "Introducción de la evidencia específica en el béisbol, relacionando la fatiga con cinemática y lesiones en el lanzamiento."
+    },
+    {
+      "id": "WEBVTT-3-004",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:06:42",
+      "end_timestamp": "00:08:12",
+      "start_seconds": 402,
+      "end_seconds": 492,
+      "duration_seconds": 90,
+      "timestamp_url": "?t=402",
+      "title": "Evidencia en el béisbol: relación inversa entre riesgo y rendimiento",
+      "summary": "En el béisbol, un deporte rotacional, la fatiga de los lanzadores impulsa tres resultados: cambios cinemáticos, caídas de rendimiento y aumentos de lesión. Estos factores guardan una relación inversamente proporcional: cuando el riesgo de lesión aumenta, el rendimiento visual disminuye.",
+      "literal_quote": "Que con el tiempo, rendimiento y riesgo, que van de la mano, pero estos con el tiempo o a medida que la fatiga se presenta, estos presentan una relación proporcionalmente inversa.",
+      "full_transcript": "Pasando ya a la sesión número cuatro, que es la parte central de nuestra presentación, es la evidencia en el béisbol. Aquí el béisbol, por lo general, es un deporte rotacional y es basado en gran parte en lo que es el lanzamiento y esta componente necesita su propia literatura. Aquí la parte que quiero enfatizar bastante en este artículo, que lo he tomado como referencia, que fue publicado en el 2019. Los autores presentaron las manifestaciones de la fatiga muscular en lanzadores en el béisbol y fue una revisión sistemática... ¿Qué encontraron? Que con el tiempo, rendimiento y riesgo, que van de la mano, pero estos con el tiempo o a medida que la fatiga se presenta, estos presentan una relación proporcionalmente inversa. ¿Qué quiere decir con eso? Que mientras uno aumenta, otro disminuye. Dígase que si el riesgo aumenta, el rendimiento baja, y si el rendimiento aumenta, entonces el riesgo baja. En este artículo, en esta revisión sistemática, sintetizaron 25 estudios... La fatiga impulsa tres resultados vinculados. ¿Cuáles son esos? Los cambios cinemáticos, disminución de rendimiento y un mayor riesgo de lesión.",
+      "keywords": [
+        "beisbol",
+        "riesgo-lesion",
+        "rendimiento",
+        "fatiga",
+        "deporte-rotacional"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre riesgo de lesión y rendimiento deportivo bajo fatiga?",
+        "¿Cuáles son los tres resultados vinculados a la fatiga en lanzadores de béisbol?"
+      ],
+      "related_terms": [
+        "deporte rotacional",
+        "relación proporcionalmente inversa",
+        "fatiga muscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición sobre la brecha que hay en la aplicabilidad del análisis biomecánico a través de todos los deportes.",
+      "context_after": "Análisis de por qué el cambio cinemático es la primera señal de alerta antes de que el rendimiento caiga."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:08:12",
+      "end_timestamp": "00:09:46",
+      "start_seconds": 492,
+      "end_seconds": 586,
+      "duration_seconds": 94,
+      "timestamp_url": "?t=492",
+      "title": "Cambios cinemáticos como alertas tempranas de fatiga",
+      "summary": "La principal señal de alerta son los cambios de mecánica que aparecen antes que cualquier pérdida de rendimiento. Por ejemplo, en una prueba de CMJ, un atleta puede mantener su altura de salto, pero la biomecánica o estrategia para lograrlo cambia, aumentando silenciosamente la carga articular.",
+      "literal_quote": "El cambio cinemático suele aparecer primero como una compensación que aumenta silenciosamente la carga articular mientras el rendimiento se mantiene brevemente.",
+      "full_transcript": "El cambio cinemático suele aparecer primero, que eso fue lo que le comenté al principio de cuando empezamos con esta exposición, que el cambio cinemático suele aparecer primero como una compensación que aumenta silenciosamente la carga articular mientras el rendimiento se mantiene brevemente. Esto lo podemos ver con una prueba de salto contramovimiento, que le decimos a un atleta que realice la prueba. Puede que se mantenga su salto alto vertical, pero la estrategia que utiliza este atleta para mantener el mismo desempeño va a cambiar bastante. Y eso se puede ver haciendo un análisis sistemático, y ahí es donde la biomecánica entra en cuestión. La capa habilitadora es el conjunto de herramientas y la solución alternativa. Aquí aparece la señal mucho antes que los síntomas y es lo que nos une a lo que nosotros proponemos en el día de hoy.",
+      "keywords": [
+        "cambios-cinematicos",
+        "compensacion",
+        "carga-articular",
+        "cmj",
+        "biomecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué altera la fatiga en un salto contramovimiento si no se modifica la altura?",
+        "¿Por qué se dice que el cambio cinemático aumenta la carga articular silenciosamente?"
+      ],
+      "related_terms": [
+        "cambio cinemático",
+        "compensación",
+        "prueba de salto contramovimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la relación inversa entre el aumento del riesgo y la disminución de rendimiento por fatiga.",
+      "context_after": "Presentación del sistema de cuatro fases (colección, procesamiento, reporte y decisión) que aplican en su estructura."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:09:46",
+      "end_timestamp": "00:11:53",
+      "start_seconds": 586,
+      "end_seconds": 713,
+      "duration_seconds": 127,
+      "timestamp_url": "?t=586",
+      "title": "Fase de colección de datos y el valor del Off-season",
+      "summary": "El monitoreo se estructura en cuatro fases (colección, procesamiento, reporte y decisión). La frecuencia de recolección varía según el momento del año. El off-season es clave para estandarizar modelos de movimiento sin fatiga y controlar el volumen antes del inicio competitivo.",
+      "literal_quote": "...en el 'off-season' es donde hacemos más monitoreo, porque tratamos de establecer el modelo de cómo el atleta se mueve cuando no está fatigado...",
+      "full_transcript": "Proponemos un sistema que va desde la evidencia, analizando todos los artículos... y de cómo la implementamos nosotros en el béisbol. Esto, por lo general, lo dividimos en cuatro fases: tenemos una fase de colección, una fase de procesamiento de los datos, una parte de reporte y otra parte de decisión, que se ve afectada por cómo el departamento interdisciplinario lo va a considerar. Entramos en la parte práctica, en la parte de colección. Aquí son varios factores que consideramos. El primero: en qué momento estamos en la temporada de entrenamiento. Si estamos en el \"off-season\", si estamos en la pretemporada, si estamos en temporada, y por ende, la frecuencia de cómo hacemos el monitoreo biomecánico varía. Por lo general, en el \"off-season\" es donde hacemos más monitoreo, porque tratamos de establecer el modelo de cómo el atleta se mueve cuando no está fatigado, ya que en el \"off-season\" es ese momento donde nosotros podemos controlar el volumen a mayor escala. Ya en la temporada, el juego o los juegos son quienes determinan el volumen o qué tanto el atleta va a estar haciendo en el juego. Pero en el \"off-season\" y en la pretemporada, eso nosotros como profesionales lo podemos controlar. Por eso es que lo hacemos más periódico el perfil del atleta durante ese periodo de tiempo, con el objetivo de estandarizar esa parte, cosa de que cuando ya entramos en temporada y hagamos el análisis durante ese periodo de tiempo, nosotros podamos determinar y describir con más facilidad dónde es que se está rompiendo la cadena cinética.",
+      "keywords": [
+        "coleccion-datos",
+        "off-season",
+        "perfilado-atleta",
+        "pretemporada",
+        "beisbol"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro fases del sistema propuesto para monitorear el béisbol?",
+        "¿Por qué se realiza mayor monitoreo biomecánico durante el off-season?"
+      ],
+      "related_terms": [
+        "fase de colección",
+        "fase de procesamiento",
+        "reporte",
+        "decisión",
+        "off-season"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo el cambio cinemático actúa como alerta temprana silenciosa antes de la caída del rendimiento.",
+      "context_after": "El detalle de la tecnología física utilizada dentro del laboratorio en la etapa de colección de datos."
+    },
+    {
+      "id": "WEBVTT-3-007",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:11:53",
+      "end_timestamp": "00:13:28",
+      "start_seconds": 713,
+      "end_seconds": 808,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=713",
+      "title": "Tecnología no invasiva para la recolección de datos",
+      "summary": "Para evitar alterar la mecánica del deportista, el laboratorio se apoya en tecnología limpia: sistemas de cámaras sin marcadores corporales. Esto se complementa con plataformas de fuerza (force plates) instaladas en el montículo para medir las fuerzas de reacción del suelo en las piernas líder y trasera, y pruebas CMJ.",
+      "literal_quote": "Tenemos el sistema de cámaras que no lleva marcadores en el cuerpo del atleta, que esto nos garantiza que nada que lleve el atleta va a afectar su mecánica de movimiento en sí.",
+      "full_transcript": "Aquí, en la fase de colección, nosotros nos apoyamos de los demás compañeros que están en el laboratorio. Tenemos el sistema de cámaras que no lleva marcadores en el cuerpo del atleta, que esto nos garantiza que nada que lleve el atleta va a afectar su mecánica de movimiento en sí. Y así garantizamos que lo que estamos colectando es enteramente de cómo el atleta se mueve durante el deporte. Tenemos el montículo, que tiene un par de \"force plates\", y así nosotros podemos medir la cantidad de fuerza que el atleta ejerce tanto de la pierna líder como de la pierna trasera. Así también podemos medir la \"ground reaction force\", que es la fuerza ejercida de reacción contra el suelo mientras se está lanzando. Y también hacemos la prueba de contramovimiento o \"countermovement jump\", mejor conocida como CMJ.",
+      "keywords": [
+        "camaras-sin-marcadores",
+        "force-plates",
+        "ground-reaction-force",
+        "cmj",
+        "laboratorio"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Data Science",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué tecnologías se usan para la colección de datos biomecánicos en el montículo?",
+        "¿Qué beneficio aportan las cámaras sin marcadores?"
+      ],
+      "related_terms": [
+        "cámaras sin marcadores",
+        "force plates",
+        "ground reaction force",
+        "countermovement jump"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del valor del off-season para estandarizar el perfil de movimiento sin fatiga del jugador.",
+      "context_after": "El paso a la etapa de procesamiento de los datos recolectados utilizando software estadístico."
+    },
+    {
+      "id": "WEBVTT-3-008",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:13:32",
+      "end_timestamp": "00:15:45",
+      "start_seconds": 812,
+      "end_seconds": 945,
+      "duration_seconds": 133,
+      "timestamp_url": "?t=812",
+      "title": "Fase de procesamiento: Modelado en R y MATLAB",
+      "summary": "En la segunda fase, la data limpia se procesa mediante programación: scripts en R para el swing y MATLAB para el lanzamiento. Se evalúan y cruzan métricas como los ángulos de flexión de codo segmentados en fases (carga de peso, apoyo de pierna delantera y contacto de bola).",
+      "literal_quote": "Si estoy haciendo el swing en el béisbol, por lo general utilizo R y si estoy realizando el lanzamiento utilizo MATLAB.",
+      "full_transcript": "Después, en procesamiento, tenemos dos sistemas que utilizamos. Si estoy haciendo el swing en el béisbol, por lo general utilizo R y si estoy realizando el lanzamiento utilizo MATLAB. Lo hago así porque ya me he acostumbrado y considero que a mí se me hace más fácil hacerlo de esa forma. Y aquí les puedo presentar más o menos cómo luce el \"script\"... Aquí está el \"script\" y uno de los gráficos de lo que utilizo para analizar la data una vez ya la tengo limpia, procesada y cargo todo en el \"script\" que he desarrollado. Aquí en esta figura que les muestro, estoy analizando los ángulos de flexión del codo durante el swing en el béisbol de un bateador. Las tres rayas que pueden ver cortadas con diferentes colores establecen diferentes puntos del swing que ya han sido marcados y reportados en la literatura científica... El primero es cuando el atleta empieza a cargar, que es cuando todo el peso corporal se pasa para la pierna trasera. Después, cuando hace contacto con el suelo, que es cuando el 50 o el 60 % de su peso corporal se traslada a la pierna delantera, y ya la otra es cuando hace contacto con la pelota. Esos son los tres tiempos que determinamos y que tratamos de analizar. Y en base a eso vemos cómo la flexión del codo varía durante todo el trayecto...",
+      "keywords": [
+        "procesamiento-datos",
+        "r",
+        "matlab",
+        "script",
+        "flexion-codo"
+      ],
+      "entities": [
+        "MATLAB"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Data Science"
+      ],
+      "content_type": [
+        "Proceso",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué programas informáticos utiliza Ezequiel Rosario para el procesamiento del lanzamiento y swing?",
+        "¿Cuáles son los tres tiempos principales analizados en el swing de béisbol?"
+      ],
+      "related_terms": [
+        "R",
+        "MATLAB",
+        "script",
+        "flexión del codo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las herramientas sin marcadores instaladas en el laboratorio.",
+      "context_after": "Explicación de cómo esa información procesada es convertida en reportes gráficos para distintas áreas."
+    },
+    {
+      "id": "WEBVTT-3-009",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:15:45",
+      "end_timestamp": "00:17:40",
+      "start_seconds": 945,
+      "end_seconds": 1060,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=945",
+      "title": "Fase de reporte: Comunicación interdisciplinar y planes de acción",
+      "summary": "En la tercera fase, la información se democratiza a través de reportes (ej. Dairy Motion). El mensaje varía según el área: el departamento técnico ubica debilidades deportivas, y el equipo de fuerza/preparación recibe los datos visuales de articulaciones afectadas (en rojo) para priorizar correctivos.",
+      "literal_quote": "Esos tres reportes indican que cada departamento del mismo atleta recibe la misma información, pero cómo la recibe varía... compartimos la información de la manera de que cada uno de los departamentos lo pueda entender y que pueda crear un plan de acción...",
+      "full_transcript": "Aquí tienen un ejemplo. Nosotros utilizamos el sistema que se llama Dairy Motion... Esos tres reportes indican que cada departamento del mismo atleta recibe la misma información, pero cómo la recibe varía. Aquí el equipo técnico solamente quiere saber la información de dónde están las debilidades, pero el \"strength and conditioning\" necesita saber en qué área y qué priorizar durante el entrenamiento para garantizar que el atleta esté fuerte en toda la cadena cinética que tiene. Por ejemplo, aquí esta área es roja en el reporte. Eso significa que ahí es donde tiene más debilidad, donde está baja en las articulaciones que tenemos más bajas... Entonces, compartimos la información de la manera de que cada uno de los departamentos lo pueda entender y que pueda crear un plan de acción para que pueda abordar esas áreas donde se muestra mayor debilidad. Y ya a partir de ahí priorizamos esas que el sistema ya nos está marcando... Pero después se da el caso de que haya un atleta que no presenta ninguna debilidad extremista... pasamos a otra donde consideramos que es la que podría a la larga afectar el rendimiento... Y una vez que terminamos eso, como equipo creamos todo el plan de acción, de cómo lo vamos a hacer, el plan de ataque y lo ponemos en marcha.",
+      "keywords": [
+        "reporte-interdisciplinario",
+        "dairy-motion",
+        "staff-tecnico",
+        "strength-conditioning",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo varía el reporte biomecánico entre el equipo técnico y el preparador físico?",
+        "¿Qué indican las áreas rojas en los reportes de Dairy Motion?"
+      ],
+      "related_terms": [
+        "Dairy Motion",
+        "strength and conditioning",
+        "plan de acción"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del procesamiento de la data del swing utilizando R y MATLAB.",
+      "context_after": "El resumen y las conclusiones finales sobre la falacia de promedios."
+    },
+    {
+      "id": "WEBVTT-3-010",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Ezequiel Rosario Mateo",
+      "start_timestamp": "00:17:43",
+      "end_timestamp": "00:21:13",
+      "start_seconds": 1063,
+      "end_seconds": 1273,
+      "duration_seconds": 210,
+      "timestamp_url": "?t=1063",
+      "title": "Conclusiones: La falacia ecológica y los compensadores de élite",
+      "summary": "A modo de cierre, se enfatiza que la carga biomecánica cambia antes que el estrés interno (RPE). Usar promedios grupales (falacia ecológica) impide proteger al individuo, ya que los deportistas de élite son perfeccionistas que enmascaran el deterioro de su cadena cinética detrás de rendimientos visualmente perfectos.",
+      "literal_quote": "Los promedios grupales pueden ser una falacia ecológica. La variabilidad individual se oculta entre ellos... y un rendimiento estable puede mascarar una mecánica que ya está cambiando por debajo.",
+      "full_transcript": "Finalmente, aquí les tengo algunas conclusiones en base a todo lo que hemos hablado. Lo primero es que la carga fisiológica y la biomecánica siguen vías separadas... Los promedios grupales pueden ser una falacia ecológica. La variabilidad individual se oculta entre ellos. Recuerden, cuando hacemos este tipo de monitoreo, no podemos utilizar la información colectada de todo el grupo. Tenemos que hacerlo uno por uno... Esos marcadores cambian antes de que los marcadores que hacen referencia a la carga interna, dígase el RPE, la excepción de fuerza máxima o la frecuencia cardíaca, y son internables, no son fijos... Y la última es que un rendimiento estable puede mascarar una mecánica que ya está cambiando por debajo. Lo que quiero decir con esto es que como trabajamos con la élite, con atletas que son los mejores compensando movimientos durante su deporte, son tan perfeccionistas y exigentes en lo que hacen que su mecánica en cierto momento varía, aunque se mantengan con el mismo desempeño. Es decir, un lanzador se puede mantener lanzando las 100 millas por hora, pero su mecánica está cambiando y en ocasiones el ojo del entrenador llega un punto que quizá no lo vea, pero nosotros con este sistema que tenemos implementado podemos determinar si esta cadena cinemática se está viendo afectada y lo podemos atacar mucho antes... de que haya una lesión... Eso ha sido todo de mi parte. Como dije, mi nombre es Ezequiel Rosario Mateo... Muchas gracias.",
+      "keywords": [
+        "falacia-ecologica",
+        "variabilidad-individual",
+        "carga-interna",
+        "compensacion",
+        "rpe"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son las principales conclusiones sobre el monitoreo de carga?",
+        "¿Por qué es un error usar promedios grupales en el deporte de alto rendimiento?",
+        "¿Por qué un lanzador mantiene su velocidad a pesar de la alteración mecánica?"
+      ],
+      "related_terms": [
+        "falacia ecológica",
+        "carga interna",
+        "RPE",
+        "enmascaramiento",
+        "cadena cinemática"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose de cómo los reportes apoyan la formación del plan de ataque preventivo de la lesión.",
+      "context_after": "Cierre final de la transmisión."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+    "speaker": "Jesekiel Rosario Mateo",
+    "total_duration": "00:06:52",
+    "total_duration_seconds": 412,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-1-001",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:02:23",
+      "end_timestamp": "00:03:52",
+      "start_seconds": 143,
+      "end_seconds": 232,
+      "duration_seconds": 89,
+      "timestamp_url": "?t=143",
+      "title": "El paradigma actual del monitoreo: el 'cuánto' vs el 'cómo'",
+      "summary": "La tecnología actual (GPS, medición de velocidad) permite cuantificar con precisión la cantidad de carga ('el cuánto'). Sin embargo, existe un vacío en entender 'el cómo': cómo se expresa esa carga en el cuerpo y cómo altera la mecánica y la fatiga del deportista.",
+      "literal_quote": "El cuánto podemos decir que está resuelto. Ahora bien, la parte donde sí hay una brecha bien grande es en el cómo.",
+      "full_transcript": "Si analizamos cómo está el marco en el deporte de hoy en día, sin importar qué deporte, gracias al avance de la tecnología, podemos saber el cuánto de la cantidad de carga que el atleta está realizando. Tenemos bastante información sobre ella. Tenemos GPS, que como ustedes sabrán, podemos medir la intensidad con la que el jugador está realizando sus prácticas o sus entrenamientos. En el gimnasio podemos medir a qué velocidad se está moviendo la barra, podemos medir el peso que está levantando... Es decir, que el cuánto podemos decir que está resuelto. Ahora bien, la parte donde sí hay una brecha bien grande es en el cómo. El monitoreo de la carga ha madurado bastante en base a lo que el atleta ha hecho. Nunca ha respondido del todo cómo se expresa esa carga en el cuerpo, ni cómo se cambia, ni cómo eso cambia la fatiga.",
+      "keywords": [
+        "monitoreo-carga",
+        "gps",
+        "cuantificacion",
+        "fatiga",
+        "tecnologia-deportiva"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Jesekiel Rosario sobre el paradigma actual del monitoreo?",
+        "¿Dónde se habla de la brecha en el monitoreo de carga?",
+        "¿Cómo se diferencia el 'cuánto' del 'cómo' en el deporte?"
+      ],
+      "related_terms": [
+        "el cuánto",
+        "el cómo",
+        "monitoreo de carga",
+        "GPS",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción del ponente, Jesekiel Rosario, y su trayectoria profesional en universidades y equipos de élite.",
+      "context_after": "Explicación sobre el impacto de los calendarios congestionados en deportes de equipo a nivel mundial."
+    },
+    {
+      "id": "WEBVTT-1-002",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:03:54",
+      "end_timestamp": "00:05:11",
+      "start_seconds": 234,
+      "end_seconds": 311,
+      "duration_seconds": 77,
+      "timestamp_url": "?t=234",
+      "title": "Calendarios congestionados y riesgo de lesión",
+      "summary": "En deportes de equipo mundiales (fútbol, MLB, NBA), el tiempo de recuperación entre partidos es mínimo (a veces menor a 24 horas). Esta densidad competitiva incrementa significativamente la fatiga neuromuscular y el riesgo de lesiones.",
+      "literal_quote": "En calendarios congestionados es exactamente la ventana en la que la fatiga neuromuscular y el riesgo de lesión aumentan.",
+      "full_transcript": "Si analizamos la estructura de los deportes de equipos, principalmente en el mundo, dígase soccer, MLB y NBA, nos vamos a dar cuenta de que el tiempo que hay entre un partido y otro es muy poco. Puede variar entre menos de 24 horas, entre 24 y 72 horas, y cuidado si es menos, porque en el caso de la MLB hay días que se tienen dos partidos en un día y son los mismos jugadores. Por ende, la fatiga neuromuscular y el riesgo de una lesión aumentan. Y eso es algo que como profesionales tenemos que considerar. Cuando trabajamos en esto de performance science, optimización de rendimiento, monitoreo de la carga y mitigación de lesiones, son cosas que tenemos que considerar. En calendarios congestionados es exactamente la ventana en la que la fatiga neuromuscular y el riesgo de lesión aumentan.",
+      "keywords": [
+        "calendarios-congestionados",
+        "fatiga-neuromuscular",
+        "riesgo-lesion",
+        "deportes-equipo",
+        "mitigacion-lesiones"
+      ],
+      "entities": [
+        "MLB",
+        "NBA"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Jesekiel Rosario sobre los calendarios congestionados?",
+        "¿Dónde se habla del impacto del calendario en la fatiga?",
+        "¿Cómo afectan los calendarios densos al riesgo de lesión?"
+      ],
+      "related_terms": [
+        "calendarios congestionados",
+        "fatiga neuromuscular",
+        "riesgo de lesión",
+        "deportes de equipo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la brecha teórica entre cuantificar la carga ('el cuánto') y entender cómo afecta mecánicamente al cuerpo ('el cómo').",
+      "context_after": "Explicación de por qué el volumen de carga pierde validez como indicador único en estos contextos y la necesidad de una perspectiva biomecánica."
+    },
+    {
+      "id": "WEBVTT-1-003",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:05:12",
+      "end_timestamp": "00:06:00",
+      "start_seconds": 312,
+      "end_seconds": 360,
+      "duration_seconds": 48,
+      "timestamp_url": "?t=312",
+      "title": "Limitaciones del volumen y la perspectiva biomecánica",
+      "summary": "Los atletas de élite son grandes compensadores, por lo que, en calendarios densos, el volumen de carga no es un indicador suficiente de fatiga. Analizar 'el cómo' mediante una perspectiva biomecánica permite identificar alteraciones reales en la mecánica.",
+      "literal_quote": "Las métricas de carga basadas en volumen son menos capaces de indicar lo que realmente está cambiando en la mecánica de un atleta.",
+      "full_transcript": "Por lo general, estos van de la mano, y donde las métricas de carga basadas en volumen son menos capaces de indicar lo que realmente está cambiando en la mecánica de un atleta. Y ahí es donde entra lo que es el cómo el jugador o el atleta está realizando dichas actividades que son pertinentes del deporte en sí. Porque algo que vas a escuchar bastante en el terreno de hoy en día es que los atletas de alto rendimiento son los mejores compensadores. Y llega un punto en que el volumen no es un indicativo per se en calendarios congestionados de qué tanta fatiga neuromuscular o qué tanto riesgo de una lesión podría tener un jugador. Pero analizando el cómo a través de una perspectiva biomecánica, podemos conocer tal información y es algo que vamos a ver más adelante.",
+      "keywords": [
+        "volumen",
+        "biomecanica",
+        "compensacion",
+        "atletas-elite",
+        "evaluacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Jesekiel Rosario sobre las limitaciones del volumen?",
+        "¿Dónde se habla de la perspectiva biomecánica?",
+        "¿Por qué los atletas de alto rendimiento son considerados grandes compensadores?"
+      ],
+      "related_terms": [
+        "métricas basadas en volumen",
+        "perspectiva biomecánica",
+        "compensadores",
+        "mecánica de un atleta"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del aumento de riesgo de lesión y fatiga neuromuscular debido a la alta densidad competitiva en deportes de equipo.",
+      "context_after": "Presentación de la ruta o índice de temas que se abordarán en el resto del módulo de la clase."
+    }
+  ]
+}

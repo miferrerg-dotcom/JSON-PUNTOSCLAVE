@@ -1,0 +1,285 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+    "speaker": "Jesekiel Rosario Mateo",
+    "total_duration": "00:12:50",
+    "total_duration_seconds": 770,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:02:45",
+      "start_seconds": 0,
+      "end_seconds": 165,
+      "duration_seconds": 165,
+      "timestamp_url": "?t=0",
+      "title": "Carga externa e interna: perfiles fisiológicos y biomecánicos",
+      "summary": "Tratar la carga como un solo número pierde información esencial. La carga externa (volumen) y la interna (respuesta metabólica/intensidad) se dividen a su vez en perfiles fisiológicos y biomecánicos. Ambos siguen líneas de tiempo y puntos de falla distintos; combinarlos oscurece detalles claves para prevenir lesiones. El perfil biomecánico se altera antes que el fisiológico.",
+      "literal_quote": "Siguen líneas de tiempo distintas con diferentes puntos de falla, y combinar ambas oscurece justamente la información más relevante para la prevención de lesiones.",
+      "full_transcript": "Ahora hablaremos de lo que es la brecha teórica, de por qué tratar la carga como un solo número pierde de vista lo esencial. Cuando hablamos de carga nos referimos a lo que es carga externa. Carga externa hace referencia a todo lo que el atleta hace, dígase volumen, y carga interna hace referencia a cómo el atleta responde a esa carga que ha trabajado, que podría ser intensidad. Estos autores de este artículo, que lo publicaron en 2017 en la revista \"Sports Medicine\", trataron de explicar la diferencia que existe entre lo que es la carga externa y la carga interna. Existe lo que es el modelo de rendimiento y de fatiga, que a la misma vez puede ser dividido en lo que es el perfil fisiológico y perfil biomecánico, donde ambos tienen sus cargas externas e internas, donde establecen qué se mide dentro de cada uno de estos perfiles. Pero lo que traen en común estos dos perfiles es qué considerar cuando hablamos sobre una falla, una sobrecarga, una homeostasis o cuando un atleta está por debajo de la carga que debería estar trabajando. En las propuestas que estos autores hicieron en esta síntesis teórica, ellos encontraron que la carga fisiológica, por ejemplo, la frecuencia cardíaca o el lactato y la carga biomecánica, dígase el estrés articular o tisular, siguen líneas de tiempo distintas. Esto es lo que ellos propusieron en esta gráfica, que fue extraída desde ese mismo artículo. Siguen líneas de tiempo distintas con diferentes puntos de falla, y combinar ambas oscurece justamente la información más relevante para la prevención de lesiones. Es algo que vamos a seguir viendo más adelante, donde varios autores han divulgado y han dicho que el perfil biomecánico aparece mucho antes que el perfil neuromuscular y el perfil fisiológico. Esto es porque es importante cómo se produce la carga en los atletas.",
+      "keywords": [
+        "carga-externa",
+        "carga-interna",
+        "perfil-biomecanico",
+        "perfil-fisiologico",
+        "prevencion-lesiones"
+      ],
+      "entities": [
+        "Sports Medicine"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia temporal entre el perfil fisiológico y biomecánico?",
+        "¿Por qué no se debe combinar la carga fisiológica y biomecánica en un solo número?",
+        "¿Qué significa carga externa e interna según el modelo de rendimiento?"
+      ],
+      "related_terms": [
+        "brecha teórica",
+        "carga externa",
+        "carga interna",
+        "perfil fisiológico",
+        "perfil biomecánico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre la brecha teórica en el monitoreo de la carga.",
+      "context_after": "Transición hacia los parámetros de rendimiento y la labor del profesional al describir el movimiento."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:02:47",
+      "end_timestamp": "00:03:54",
+      "start_seconds": 167,
+      "end_seconds": 234,
+      "duration_seconds": 67,
+      "timestamp_url": "?t=167",
+      "title": "Criterios de rendimiento y parámetros mecánicos",
+      "summary": "Para entender correctamente un deporte, el profesional debe definir criterios de rendimiento e identificar los factores mecánicos o parámetros que influyen en los modelos máximos. La clave está en describir objetivamente el movimiento requerido para ejecutar una acción determinada.",
+      "literal_quote": "El objetivo es que tú tomes un criterio de rendimiento en tu deporte y identifiques cuáles son los modelos máximos y cuáles factores mecánicos pueden influir...",
+      "full_transcript": "Pasando a lo próximo, hablando de por qué la data puede describir, pero la data no puede prescribir. Aquí el objetivo es que tú tomes un criterio de rendimiento en tu deporte y identifiques cuáles son los modelos máximos y cuáles factores mecánicos pueden influir o, como lo denominaron en este artículo, parámetros de rendimiento, y cuáles de estos determinan la capa que se puede describir en este deporte determinado. Ahí es donde entra la información y ahí es donde entras tú como profesional en el área. Tú, conociendo el deporte, o que te vives formando, que vives participando en ese tipo de actividades que te ayudan a entender mejor el deporte en el que tú te quieres enfocar, tú puedes conocer, tú puedes describir el movimiento que es requerido para ejecutar una acción determinada en el deporte en el que tú te enfocas.",
+      "keywords": [
+        "parametros-rendimiento",
+        "criterio-rendimiento",
+        "factores-mecanicos",
+        "describir-movimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué son los parámetros de rendimiento en el análisis biomecánico?",
+        "¿Cuál es el rol del profesional al analizar la data de rendimiento?"
+      ],
+      "related_terms": [
+        "criterio de rendimiento",
+        "modelos máximos",
+        "factores mecánicos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Diferenciación entre las líneas de tiempo del perfil fisiológico y biomecánico.",
+      "context_after": "Presentación de un ejemplo práctico de análisis biomecánico en el disparo de fútbol ('in-step kicking')."
+    },
+    {
+      "id": "WEBVTT-2-003",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:03:54",
+      "end_timestamp": "00:06:10",
+      "start_seconds": 234,
+      "end_seconds": 370,
+      "duration_seconds": 136,
+      "timestamp_url": "?t=234",
+      "title": "Aplicación multidisciplinar y los límites de la prescripción",
+      "summary": "Tomando como ejemplo el disparo en fútbol ('in-step kicking'), la descripción biomecánica no prescribe correcciones inmediatas, ya que cada deportista tiene soluciones válidas individuales. Sin embargo, permite derivar intervenciones específicas y coordinadas para el entrenador técnico, los preparadores físicos y el equipo médico.",
+      "literal_quote": "Los datos pueden describir la técnica, no pueden prescribir qué debería cambiar, ya que la mayoría de los deportes permiten soluciones individualmente válidas.",
+      "full_transcript": "Por ejemplo, aquí lo que propusieron los autores en este artículo publicado en 2021 en la revista de biomecánica, ellos trataron de mirar más allá de los esqueletos animados y de cómo la retroalimentación biomecánica puede ser utilizada para mejorar el rendimiento deportivo. Ellos tomaron como referencia o como criterio de rendimiento el \"in-step kicking\" en fútbol. Ellos determinaron los factores mecánicos o parámetros de rendimiento que pueden determinar este criterio de rendimiento, y después describieron cada parte, todo el movimiento que se ocurre en las extremidades cuando se va a ejecutar este movimiento en el deporte. No te dice qué tú tienes que trabajar específicamente, pero al describirlo, tú podrías, con la información que tienes colectada, decir en qué parte vas a hacer tu intervención y qué información le podrías dar tanto al entrenador de terreno o al equipo técnico, qué información le podrías dar a los entrenadores de fuerza y de acondicionamiento y qué información es pertinente para el equipo médico, para que cada uno de ellos pueda trabajar y mejorar en lo que tú identificaste cuando hiciste la descripción de lo que el atleta ha hecho hasta el momento. En otras palabras, lo que estos autores encontraron en este artículo es que casi toda la tecnología comercial de retroalimentación reporta control y muy poca vez coordinación. Los datos pueden describir la técnica, no pueden prescribir qué debería cambiar, ya que la mayoría de los deportes permiten soluciones individualmente válidas.",
+      "keywords": [
+        "in-step-kicking",
+        "retroalimentacion",
+        "multidisciplinar",
+        "tecnologia-comercial",
+        "coordinacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se aplica el análisis biomecánico de forma multidisciplinar?",
+        "¿Por qué los datos describen la técnica pero no prescriben correcciones?",
+        "¿Qué información aporta el análisis del in-step kicking al cuerpo técnico?"
+      ],
+      "related_terms": [
+        "retroalimentación biomecánica",
+        "entrenador de terreno",
+        "soluciones individualmente válidas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo identificar los factores mecánicos y criterios de rendimiento de un deporte.",
+      "context_after": "Análisis del error estadístico de usar promedios grupales (falacia ecológica) en la biomecánica."
+    },
+    {
+      "id": "WEBVTT-2-004",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:06:11",
+      "end_timestamp": "00:08:15",
+      "start_seconds": 371,
+      "end_seconds": 495,
+      "duration_seconds": 124,
+      "timestamp_url": "?t=371",
+      "title": "La falacia ecológica en el análisis grupal de datos",
+      "summary": "Utilizar el promedio de un grupo para tomar decisiones de carga sobre un atleta específico constituye una 'falacia ecológica'. Los análisis basados en promedios requieren que los datos sean ergódicos, algo que raramente ocurre en la biomecánica deportiva. La alternativa correcta es perfilar la coordinación de forma individual y longitudinal.",
+      "literal_quote": "Aplicar un hallazgo derivado de un grupo a un solo atleta sería cometer una falacia ecológica. En su alternativa, sería perfilar la coordinación individual y longitudinal...",
+      "full_transcript": "Otro error que cometemos bastante y que existe una brecha es el promedio grupal, puede ser una falacia ecológica. Falacia ecológica hace referencia a un resultado que fue obtenido de un grupo, tú aplicarlo a un individuo en específico. Eso es lo que sería una falacia ecológica. Los diseños basados en grupo, promediar una muestra o contrastar lo que es experto versus novato, que por lo general la mayoría de las investigaciones hacen esto, requieren que los datos sean ergódicos, es decir, que sean homogéneos entre personas y estacionarios en el tiempo. Cosa que en la realidad y en el mundo práctico no es así. Los datos de técnica biomecánica prácticamente nunca cumplen este estándar. Tú sacar el average de un grupo y en base a eso tú tomar decisiones para un atleta en específico es algo que estos autores recomiendan que no se haga. ¿Qué ellos trataron de implicar en este artículo que fue publicado en 2022? Ellos analizando los efectos de la fatiga inducida por \"sprints\" repetidos en \"sprints\" biomecánicos en jugadores de fútbol, de si deberían de mirar al grupo, si deberían de mirar individual. Ellos implicaron que aplicar un hallazgo derivado de un grupo a un solo atleta sería cometer una falacia ecológica. En su alternativa, sería perfilar la coordinación individual y longitudinal, seguir los propios patrones de un atleta a lo largo del tiempo en lugar de medirlos contra una población.",
+      "keywords": [
+        "falacia-ecologica",
+        "promedio-grupal",
+        "analisis-individual",
+        "datos-ergodicos",
+        "longitudinal"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es la falacia ecológica en el análisis de rendimiento deportivo?",
+        "¿Por qué no se deben usar promedios grupales para decisiones individuales?",
+        "¿Qué significa que los datos biomecánicos no sean ergódicos?"
+      ],
+      "related_terms": [
+        "falacia ecológica",
+        "datos ergódicos",
+        "coordinación individual y longitudinal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo los datos describen intervenciones pero permiten soluciones individuales variadas.",
+      "context_after": "Presentación del primer paso (variabilidad) de un marco de cuatro fases sobre adaptaciones a la fatiga."
+    },
+    {
+      "id": "WEBVTT-2-005",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:08:19",
+      "end_timestamp": "00:10:24",
+      "start_seconds": 499,
+      "end_seconds": 624,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=499",
+      "title": "Variabilidad y patrones individuales de adaptación a la fatiga",
+      "summary": "Para demostrar los peligros de guiarse por promedios grupales, un estudio analizó 51 futbolistas realizando sprints repetidos. A nivel de grupo no hubo cambios evidentes en potencia, pero mediante análisis de conglomerados se descubrieron cinco patrones distintos de adaptación a la fatiga a nivel individual, revelando riesgos ocultos (mayor o menor tensión) en los isquiotibiales.",
+      "literal_quote": "A nivel grupal, la esperada disminución en potencia... prácticamente no hubo ningún cambio. Pero cuando lo miraron a nivel individual, encontraron cinco patrones distintos de adaptaciones a la fatiga...",
+      "full_transcript": "Ahora vamos a ver el caso de deporte de este equipo. Aquí vamos a ver cinco estudios y cómo estos se conectan para conformar lo que es un hilo conductor. Primero, lo hemos dividido en cuatro etapas o cuatro fases. Primero es variabilidad. Aquí vamos a ver los promedios grupales que ocultan quién está realmente en riesgo. En la fase número dos, que es el mecanismo, aquí veremos de qué tejido absorbe la tensión y por qué. Después vamos a ver la entrenabilidad... Y en la última fase vamos a ver lo que es el enmascaramiento y distribución... En la primera fase, que es la variabilidad... tomaron 51 jugadores de fútbol y los pusieron a que hicieran dos \"sprints\" de 30 metros. La mecánica de \"sprint\" se perfiló a lo largo del protocolo y luego se agrupó mediante análisis de conglomerados en lugar de un único promedio grupal. Al hacer esto, ¿qué encontraron? A nivel grupal, la esperada disminución en potencia y eficiencia de orientación de fuerza. Prácticamente no hubo ningún cambio. Pero cuando lo miraron a nivel individual, encontraron cinco patrones distintos de adaptaciones a la fatiga, algunos con tendencia hacia mayor tensión teórica en los isquiotibiales y otros hacia menor. Esta es una de las razones por las que trabajar o tomar información de un grupo y aplicarla a un individuo en específico no es muy recomendable.",
+      "keywords": [
+        "variabilidad",
+        "sprint",
+        "analisis-conglomerados",
+        "adaptaciones-fatiga",
+        "isquiotibiales"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cómo afectan los sprints repetidos a la adaptación a la fatiga?",
+        "¿Por qué los promedios grupales ocultan a los jugadores en riesgo de lesión?",
+        "¿Cuántos patrones de adaptación a la fatiga se encontraron en el estudio de futbolistas?"
+      ],
+      "related_terms": [
+        "análisis de conglomerados",
+        "promedios grupales",
+        "tensión teórica",
+        "adaptaciones a la fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Advertencia sobre cometer una falacia ecológica al aplicar datos grupales a un atleta.",
+      "context_after": "Transición hacia el mecanismo biomecánico exacto que explica la lesión en los isquiotibiales bajo fatiga."
+    },
+    {
+      "id": "WEBVTT-2-006",
+      "video_title": "Del cuánto al cómo monitorear la carga en deportes de equipo",
+      "speaker": "Jesekiel Rosario Mateo",
+      "start_timestamp": "00:10:28",
+      "end_timestamp": "00:12:50",
+      "start_seconds": 628,
+      "end_seconds": 770,
+      "duration_seconds": 142,
+      "timestamp_url": "?t=628",
+      "title": "Mecanismos de lesión: tensión focalizada en el bíceps femoral",
+      "summary": "La tensión generada por la carga no se distribuye por igual. A través de capturas de movimiento 3D y modelado musculoesquelético durante aceleraciones de sprint, se demostró que la cabeza larga del bíceps femoral absorbe consistentemente el pico máximo de tensión. Esto proporciona una explicación mecánica directa de por qué este músculo se lesiona desproporcionadamente bajo fatiga neuromuscular.",
+      "literal_quote": "...la cabeza larga del bíceps femoral... presenta consistentemente la mayor tensión pico de los tres músculos isquiotibiales, lo que hace referencia a una explicación mecánica directa de por qué se lesiona de forma desproporcionada.",
+      "full_transcript": "El mecanismo. No todos los músculos isquiotibiales absorben la misma tensión. Y en este artículo, publicado en 2025 en la revista de \"Sports Biomechanics\", lo que hicieron los autores fue tomar 21 jugadores semiprofesionales, capturar movimiento en tres dimensiones durante una aceleración completa de \"sprint\" sobre el terreno y luego procesar esos datos obtenidos mediante un modelado musculoesquelético para estimar la tensión músculo-tendón paso a paso. ¿Y qué encontraron estos autores? Encontraron que la cabeza larga del bíceps femoral, sabemos que los isquiotibiales se componen del bíceps femoral, del semimembranoso y del semitendinoso, presenta consistentemente la mayor tensión pico de los tres músculos isquiotibiales, lo que hace referencia a una explicación mecánica directa de por qué se lesiona de forma desproporcionada. Esto indica que los músculos isquiotibiales, compuestos por cuatro, como ya mencioné, se van a ver diferente marcado al haber una fatiga neuromuscular en el atleta. Cuando llega la fatiga, no todos los atletas van a mostrar las mismas señales. Y ahí es donde tú entras como profesional y sabiendo este sistema de cómo la carga se produce, de que si hacemos un análisis individual, vas a ver cómo se está mostrando en cada uno de los jugadores y, por ende, el plan de acción que vas a desarrollar y la información que vas a reportar va a tener un mayor alcance y beneficio, tanto para el atleta como para tu monitoreo que estarás haciendo, como para los profesionales que están trabajando en el equipo interdisciplinario.",
+      "keywords": [
+        "biceps-femoral",
+        "mecanismo-lesion",
+        "tension-musculo-tendon",
+        "modelado-musculoesqueletico",
+        "fatiga-neuromuscular"
+      ],
+      "entities": [
+        "Sports Biomechanics"
+      ],
+      "topics": [
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la cabeza larga del bíceps femoral sufre más lesiones?",
+        "¿Cómo se midió la tensión músculo-tendón durante los sprints?",
+        "¿Qué sucede con la distribución de tensión en los isquiotibiales durante la fatiga?"
+      ],
+      "related_terms": [
+        "cabeza larga del bíceps femoral",
+        "modelado musculoesquelético",
+        "tensión pico",
+        "fatiga neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los cinco patrones individuales de adaptación a la fatiga en sprints repetidos.",
+      "context_after": "Finalización de la exposición sobre cómo los profesionales deben utilizar este conocimiento para planes de acción interdisciplinarios."
+    }
+  ]
+}
