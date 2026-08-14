@@ -1,0 +1,469 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+    "speaker": "Esther Morencos",
+    "total_duration": "00:20:45",
+    "total_duration_seconds": 1245,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:49",
+      "start_seconds": 1,
+      "end_seconds": 109,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=1",
+      "title": "El espejismo de la claridad a través del exceso de datos",
+      "summary": "Tener acceso a múltiples variables y plataformas tecnológicas no garantiza una mejor toma de decisiones. El volumen de datos recogido sin un proceso de contextualización no aporta valor real al ecosistema.",
+      "literal_quote": "Más datos no es sinónimo de más claridad... si no hay un proceso detrás que le dé valor a lo que hay delante y mejore el proceso de decisión.",
+      "full_transcript": "De lo que se habla en esa reunión, las personas implicadas lo que ponen en la mesa son datos. A día de hoy, este tsunami que en cualquiera de nuestros roles profesionales nos abruma. Mucha de la investigación que se está avanzando a día de hoy es: con qué variables me quedo. Estos marcos de decisiones de variables, de las 200 que salen de los GPS, de las plataformas de fuerza y de otras tantas tecnologías y plataformas. Porque el dato necesita contexto. La tecnología no me lo da, el aparato concreto que lo mide no me lo da, ni la plataforma donde se acumula, la nube donde está ahí recogido, tampoco me da ese contexto. Más datos no es sinónimo de más claridad. Más datos medidos de diferentes tecnologías que me están diciendo datos de salud, datos de rendimiento, más, tampoco es más claridad, aun cuando piense que tengo la foto desde más perspectivas, si no hay un proceso detrás que le dé valor a lo que hay delante y mejore el proceso de decisión.",
+      "keywords": [
+        "datos",
+        "tecnologia",
+        "gps",
+        "contexto",
+        "toma-decisiones",
+        "claridad"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema"
+      ],
+      "search_questions": [
+        "¿Por qué tener más datos no significa tener más claridad?",
+        "¿Qué se necesita para que los datos tecnológicos tengan valor real en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "sobrecarga de datos",
+        "contextualización de la información",
+        "procesos de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha consolidado la importancia de establecer una cultura y formas de colaborar dentro de las reuniones del staff.",
+      "context_after": "Se detalla el flujo estructurado necesario para transformar un número bruto en una acción concreta."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:02:03",
+      "end_timestamp": "00:03:10",
+      "start_seconds": 123,
+      "end_seconds": 190,
+      "duration_seconds": 67,
+      "timestamp_url": "?t=123",
+      "title": "El flujo estructurado: del dato a la acción",
+      "summary": "Se presenta el recorrido lógico que debe seguir la información: un dato bruto se interpreta para ser información, se contextualiza para volverse conocimiento y finalmente deriva en una decisión que debe ser ejecutada por una persona.",
+      "literal_quote": "Una cosa es el dato, es un número. Otra cosa es la información... Otra cosa es el conocimiento... Y solo con esos pasos llevamos a cabo una decisión, que tiene que tener una acción y una persona que la ejecuta.",
+      "full_transcript": "Creo que este es un flujo que ya conocemos de hace mucho tiempo. Una cosa es el dato, es un número. Otra cosa es la información, que ese dato da, que necesita una interpretación. Otra cosa es el conocimiento que da esa información, que tiene que ver con tener en cuenta el contexto. Y solo con esos pasos llevamos a cabo una decisión, que tiene que tener una acción y una persona que la ejecuta. Creo que he repetido muchas veces esto y puede parecer obvio, pero no lo es. Muchos de los problemas que yo he afrontado desde la consultoría, desde las mentorías en el programa de FIFA Desarrollo Fútbol Femenino con los profesionales que mentorizo, es como: 'Pero si estaba el dato y a priori había una decisión, ¿qué ha pasado? No se ha llevado a cabo, se ha llevado a cabo casi lo contrario. ¿A quién se lo comunico? ¿Dónde ha fallado el problema?'. No se sabe analizar del todo dónde ha fallado el problema, porque no había todos los pasos anteriores que venimos hablando.",
+      "keywords": [
+        "flujo",
+        "informacion",
+        "conocimiento",
+        "decision",
+        "accion",
+        "consultoria"
+      ],
+      "entities": [
+        "FIFA"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pasos desde la recolección de un dato hasta su ejecución?",
+        "¿Por qué fallan muchas decisiones deportivas aunque exista un dato claro que las respalde?"
+      ],
+      "related_terms": [
+        "jerarquía del conocimiento",
+        "toma de decisiones accionables",
+        "interpretación de la información"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre el tsunami de datos y la falta de claridad sin procesos.",
+      "context_after": "Se destaca cómo una métrica por sí sola es incapaz de generar cambios sin conversaciones contextuales."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:03:12",
+      "end_timestamp": "00:04:16",
+      "start_seconds": 192,
+      "end_seconds": 256,
+      "duration_seconds": 64,
+      "timestamp_url": "?t=192",
+      "title": "Las métricas no cambian comportamientos por sí solas",
+      "summary": "Una métrica aislada tiene un valor práctico limitado. Para generar una conversación, tomar una decisión o modificar un comportamiento, es imprescindible integrar el contexto y las circunstancias de las personas implicadas.",
+      "literal_quote": "Una métrica no cambia una conversación, una decisión o un comportamiento. Es un valor práctico limitado... el problema es que no he tenido el contexto bajo el cual ocurrieron esas circunstancias.",
+      "full_transcript": "No demos tanto las cosas por hecho. Trabajamos con personas, esa es la mayor complejidad. Una métrica no cambia una conversación, una decisión o un comportamiento. Es un valor práctico limitado, que se va a convertir en una conversación, en un comportamiento, en una decisión y que, por lo tanto, siempre y normalmente, el problema es que no he tenido el contexto bajo el cual ocurrieron esas circunstancias. Por eso, una de las cosas que más me ha ayudado ha sido reflexionar en cada uno de los proyectos en los que he estado implicada. Cuando me he movido al siguiente proyecto, saber reflexionar sobre el contexto. Yo he tomado decisiones en base a ciertas personas con las que trabajaba, cierta tecnología que tenía, cierto calendario, nivel de rendimiento, nivel de recursos. Y los procesos que creamos en esos momentos estaban condicionados a todas esas cosas.",
+      "keywords": [
+        "metrica",
+        "comportamiento",
+        "contexto",
+        "personas",
+        "reflexion",
+        "proyectos"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué límite práctico tienen las métricas aisladas en el deporte?",
+        "¿De qué manera el contexto transforma un dato en una decisión útil?"
+      ],
+      "related_terms": [
+        "influencia de los datos en el comportamiento",
+        "contexto del rendimiento",
+        "gestión de personas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se describe el flujo de transformación del dato en acción.",
+      "context_after": "Se aplica la lección del contexto al cambio de proyectos, evitando copiar y pegar soluciones del pasado."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:04:17",
+      "end_timestamp": "00:06:15",
+      "start_seconds": 257,
+      "end_seconds": 375,
+      "duration_seconds": 118,
+      "timestamp_url": "?t=257",
+      "title": "Adaptabilidad y resistencia al cambio en nuevos ecosistemas",
+      "summary": "Lo que funcionó en un equipo no necesariamente funcionará en otro. Cambiar de club requiere una lectura exhaustiva del nuevo contexto (recursos, cultura, profesionales) y adaptar la comunicación para evitar la resistencia al cambio.",
+      "literal_quote": "Saber observar y leer el contexto del nuevo proyecto en el que aterrizo... es una de las cosas más importantes.",
+      "full_transcript": "No a poder hacer sentadillas, no a poder dar creatina, no a ponerse las medias de compresión, no a tener 20 vídeos diarios de análisis de juego. De eso había más o menos en cada contexto. El cómo, cuándo, dónde, por qué, dependía de todo lo demás. Entonces, reflexionar de por qué eso funcionó sí o no. Y a veces la respuesta es que no era fácil trabajar con cierta persona implicada en el proceso, que no había una cultura de trabajo previo, que costó implementarla, que hubo un tiempo de resistencia al cambio. Para mí son valores de reflexión mucho más importantes, porque me han ayudado a dar los mejores siguientes pasos en los siguientes proyectos en los que he estado. Saber observar y leer el contexto del nuevo proyecto en el que aterrizo, porque además lo hago con los ojos y la mirada de todo lo que he aprendido en el camino, es una de las cosas más importantes. Pero a veces también queremos dar soluciones en base a lo que yo sé y lo que yo he aprendido en el equipo anterior en el que estuve. Pero ahora estoy en otro equipo, con otras circunstancias y otros profesionales, y lo que digo igual no le es útil al que me está escuchando, por muy útil que era de donde yo venía. Analizar por qué eso tiene sentido en un lugar y no en otro, pero que aun así ese conocimiento, esa experiencia, me lleve a: igual tengo que cambiar la manera de comunicarlo, igual tengo que cambiar lo que se aborda de procesos en esta reunión y redirigirlo de esta manera.",
+      "keywords": [
+        "adaptabilidad",
+        "resistencia-cambio",
+        "contexto",
+        "nuevos-proyectos",
+        "experiencia",
+        "comunicacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué las metodologías de un club no siempre funcionan al implementarlas en otro equipo?",
+        "¿Cómo debe afrontar un profesional del rendimiento la llegada a un nuevo proyecto?"
+      ],
+      "related_terms": [
+        "lectura del contexto",
+        "resistencia al cambio",
+        "adaptabilidad metodológica"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia de conocer el contexto humano detrás de cada dato o decisión.",
+      "context_after": "Se expone la realidad de llegar a entornos donde ya existen tecnologías compradas previamente sin un criterio claro."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:06:15",
+      "end_timestamp": "00:08:18",
+      "start_seconds": 375,
+      "end_seconds": 498,
+      "duration_seconds": 123,
+      "timestamp_url": "?t=375",
+      "title": "El riesgo de la tecnología heredada y las compras sin propósito",
+      "summary": "Es habitual llegar a clubes que ya tienen plataformas y licencias pagadas que se adquirieron sin cuestionarse su utilidad real. Frente a esto, es esencial retroceder y preguntarse primero qué problema o decisión específica se busca resolver.",
+      "literal_quote": "Estamos yendo a comprar cosas sin hacernos preguntas... Alguien decidió, nadie nos preguntó si era la mejor plataforma o no donde acumular los datos.",
+      "full_transcript": "Creo que es importante con los datos, estos que tanto nos abruman. Me encuentro en muchos contextos y es: allá donde llego ya hay una tecnología, unas costumbres, las hemos ido adquiriendo, se ha ido pudiendo comprar cosas, ahí las hemos sumado al carro, la plataforma. Alguien decidió, nadie nos preguntó si era la mejor plataforma o no donde acumular los datos. Esto pasa muchísimo. A mí, desde mi rol, tiene carencias, al otro le está fenomenal. Ya no hay vuelta atrás, es lo que se ha comprado, por lo menos este año, que se ha pagado X licencias. Este es el contexto constante a día de hoy. Estamos yendo a comprar cosas sin hacernos preguntas. A veces está en nuestra mano y a veces no. Esa es una realidad también. Pero al menos ser conscientes de dónde está ocurriendo el fallo nos ayuda a intentar solventarlo hasta donde podamos, cuando no tenemos la potestad total, o reconducir la situación en siguientes decisiones, o hacernos más partícipes de esas fases que son importantes cuando se deciden todas estas cosas también. Ese ecosistema complejo que veíamos en esas diapositivas iniciales, donde lo que rodea a un atleta es un sinfín de procesos, de profesionales y de 'stakeholders' de todo el ecosistema. Entonces, ¿cuál es la pregunta? ¿A qué quiero responder? Empezamos esta reunión de las ocho de la mañana con: la pregunta es si puede entrenar. La pregunta es si hay que adaptar algo esta semana, si está preparada para hacer la progresión en un return to play. Si necesitamos una reunión con la empresa que nos está vendiendo la plataforma de recogida o de análisis de datos, por si hay algo que se pueda cambiar o mejorar. Si finalmente vamos a comprar esta tecnología o esta otra. Si queremos hacer este test o este otro. ¿Cuál es la pregunta?",
+      "keywords": [
+        "tecnologia",
+        "plataformas",
+        "herencia",
+        "licencias",
+        "proposito",
+        "preguntas"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Problema",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué problema genera adquirir tecnología deportiva sin tener un propósito previo?",
+        "¿Cómo debe lidiar el staff técnico con plataformas tecnológicas heredadas?"
+      ],
+      "related_terms": [
+        "adquisición de tecnología",
+        "licencias de software deportivo",
+        "evaluación de herramientas"
+      ],
+      "relevance_score": 4,
+      "context_before": "La necesidad de leer y adaptarse al contexto cultural y humano de un nuevo club.",
+      "context_after": "Se analiza el equilibrio entre lo que cuesta implementar un test y su eficacia para el equipo."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:08:20",
+      "end_timestamp": "00:10:56",
+      "start_seconds": 500,
+      "end_seconds": 656,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=500",
+      "title": "Equilibrio entre coste de implementación tecnológica y eficiencia",
+      "summary": "Una tecnología puede ser científicamente válida, pero inútil en la práctica si la logística, el tamaño del equipo o el tiempo de análisis hacen ineficiente la toma de decisiones. Todo proceso de evaluación debe valorar este equilibrio.",
+      "literal_quote": "¿Cuál es el equilibrio entre el tiempo que lleva el dato resultante y, por lo tanto, la eficiencia en una decisión en base a eso?",
+      "full_transcript": "A veces hay que echar marcha atrás, casi que desaprender para aprender en los procesos de analizar como consultoría. Es muy habitual, porque hay tantas cosas que simplemente las hacemos, porque cuando llegamos a un sitio se hacían. Hemos intentado además sumar las que creemos que podemos aportar o simplemente estaban ahí. No nos paramos a pensar. Nos abruma, además, tanto el ritmo del alto rendimiento, tanto dato, tanta tecnología, tanta plataforma que recoge y nos olvidamos de hacer preguntas. Nos plantamos a reuniones con: mis datos, los tuyos, los del de enfrente. Yo te comparto mi parte. Ya, pero ¿qué queríamos observar? ¿Cuál era la pregunta a resolver? ¿Vamos a comprar plataformas de fuerza o un dinamómetro? Es un criterio de presupuesto, de que se pueda transportar más fácilmente por nuestro contexto, de lo que se tarda en hacer un tipo de test u otro y poder llegar a tener una medida válida y útil si trabajo con tres atletas o con 35 jugadoras. Todo eso es importante, porque a veces es: todo el mundo está usando esta tecnología y yo veo que a mí no me da, no me es tan útil o no estoy llegando al dato. Esa tecnología sigue siendo superútil, superválida. Ese test, científicamente, sigue siendo magnífico. Pero cuando hay dinero para comprar algo, ¿dónde están las personas que se hacen cargo de ese algo? ¿Qué tiempo lleva analizar eso? ¿Cuál es el equilibrio entre el tiempo que lleva el dato resultante y, por lo tanto, la eficiencia en una decisión en base a eso? ¿Qué recorrido de datos, qué tiempo de implementación me lleva hasta que la línea de datos, un histórico mínimo de datos, me va a permitir empezar a tomar decisiones con esa información? He dicho información, no dato, sino que ha habido ya un proceso con ese contexto y con todo lo que implica. Porque entonces diré: para contestar a esto necesito este dato con este contexto. Me va a dar estas circunstancias. Lo puedo contextualizar y entonces puedo decidir. Y de la decisión viene un plan de comunicación y de pasos siguientes.",
+      "keywords": [
+        "desaprender",
+        "tecnologia",
+        "eficiencia",
+        "tiempo",
+        "logistica",
+        "evaluacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué un test científicamente válido puede no ser útil en el entorno deportivo diario?",
+        "¿Qué criterios deben valorarse al elegir entre distintas plataformas de fuerza o herramientas?"
+      ],
+      "related_terms": [
+        "coste-beneficio tecnológico",
+        "eficiencia en recolección de datos",
+        "escalabilidad de tests"
+      ],
+      "relevance_score": 5,
+      "context_before": "El peligro de adquirir tecnología sin preguntarse cuál es el propósito o la pregunta a responder.",
+      "context_after": "Se aborda el peligro de simplificar datos complejos mediante sistemas de alertas o 'red flags' erróneas."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:10:57",
+      "end_timestamp": "00:13:30",
+      "start_seconds": 657,
+      "end_seconds": 810,
+      "duration_seconds": 153,
+      "timestamp_url": "?t=657",
+      "title": "Mito de las 'red flags' y la complejidad de decidir la disponibilidad",
+      "summary": "Ante la abrumadora cantidad de datos, se tiende a crear alertas ('red flags') simplistas. Sin embargo, en rendimiento, un dato aislado como el sueño bajo o un CMJ menor indica dónde mirar, pero nunca justifica automáticamente excluir a un deportista de un entrenamiento.",
+      "literal_quote": "La red flag me dice dónde mirar, no lo que tengo que hacer. Pocas veces y solo en contextos normalmente muy de variables que tienen que ver con salud...",
+      "full_transcript": "Los datos nos están llevando mucho, incluso en la ciencia, a umbrales, a este concepto de red flags. Miramos un dato donde intentamos simplificarlo porque nos abruma tanto que buscamos simplificar algo que es muy complejo. Quizá ese no es el camino, quizá la reflexión es otra y las preguntas son otras también. Igual tengo que asumir la complejidad y convivir con ella y saber que un dato no me va a dar una decisión. La red flag me dice dónde mirar, no lo que tengo que hacer. Pocas veces y solo en contextos normalmente muy de variables que tienen que ver con salud, una amenorrea, por ejemplo, en mujeres, o un proceso de lesión. Es decir, muy de salud más que de rendimiento. Esa pata, que primero tiene que estar la salud para después poder rendir. De verdad, una red flag lleva a una cosa clara que hacer, porque implica una situación clínica de salud. Un paso muy concreto. Normalmente, el resto de datos no me permiten decidir si entrenan hoy. Solo porque esa celdita, en un dashboard precioso, está en naranja, en ámbar, en rojo. Me faltan muchas cosas más para tomar una decisión. Nunca, ni en unos Juegos Olímpicos, he sacado a nadie del campo de juego ni de un entrenamiento porque el sueño decía un tres, o porque el CMJ estaba en un dato por debajo de su promedio habitual, o porque la jugadora ha venido a contarme que anda fatigada o dolorida con algo. Obviamente, todo eso se tiene en cuenta. Eso salta a dónde tengo que mirar. Entonces juntamos todo e intentamos tomar la mejor decisión posible. Pero pasa por esto, por hacernos preguntas.",
+      "keywords": [
+        "red-flags",
+        "umbrales",
+        "salud",
+        "cmj",
+        "disponibilidad",
+        "complejidad"
+      ],
+      "entities": [
+        "Juegos Olímpicos"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué un mal dato de sueño o salto no debe excluir automáticamente a un atleta?",
+        "¿Cuál es la diferencia entre una red flag de salud y un indicador de rendimiento?"
+      ],
+      "related_terms": [
+        "alertas de rendimiento",
+        "umbrales de carga",
+        "toma de decisiones holística"
+      ],
+      "relevance_score": 5,
+      "context_before": "Equilibrio entre coste de implementación de pruebas y la eficiencia práctica.",
+      "context_after": "Se detalla por qué la verdadera transformación no es digital, sino un cambio profundo en la cultura y procesos."
+    },
+    {
+      "id": "V04-008",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:13:31",
+      "end_timestamp": "00:16:13",
+      "start_seconds": 811,
+      "end_seconds": 973,
+      "duration_seconds": 162,
+      "timestamp_url": "?t=811",
+      "title": "La transformación digital es una transformación cultural",
+      "summary": "Implementar inteligencia artificial o plataformas digitales fracasa si no se acompaña de adaptación humana, liderazgo, formación y procesos ('blueprint'). La tecnología está para potenciar la inteligencia humana y las conversaciones, no para reemplazarlas.",
+      "literal_quote": "La transformación digital es cultural... La tecnología está para que se mejoren las conversaciones humanas. La inteligencia artificial está para que la inteligencia humana aún sea mejor, no para reemplazarla.",
+      "full_transcript": "Es lo que más me encuentro a día de hoy y a veces lo más clarificador. A veces, cuando mentorizo, cuando aplicamos consultoría, cuando sigo entrenando a mis atletas, de repente plantear una pregunta que se escuche y parece obvia, pero no se hacía. Y no es que no se tenga la capacidad de hacer la pregunta, es que a veces vamos a una locomotora, unos ritmos, unos procesos instaurados. No hemos creado los procesos para estar revisando el 'blueprint' y, por lo tanto, tener momentos de hacernos mejores preguntas. Esto es muy importante: la transformación digital es cultural. En muchas de las entidades yo compro una tecnología, pero normalmente hay resistencia al cambio. ¿Pero esto qué se usa? ¿Sobre quién recae la responsabilidad y qué implica? No nos hacemos estas preguntas. Directamente, alguien compra algo, adquiere algo en el contexto digital que sea. Pero todo eso, ¿qué se hace con ello? No es solo tener manuales de cosas. No es solo que incluso desde un liderazgo, un puesto de responsabilidad, alguien diga: 'Es que ahora se va a trabajar así. Aquí se suben estos datos, aquí los otros y estos tres puntos son los que se tratan en las reuniones de los lunes a las ocho'. Muy bien, algo es algo, pero es insuficiente. El manejo de cantidad de información y personas que impactan en esos procesos en el alto rendimiento desborda. Entonces, hay que analizar: pero aquí, ¿cómo se está haciendo y por qué? Porque siempre hay un porqué detrás. Y ahora, ¿hacia dónde queremos ir? Las personas a las que impacta este cambio, esta transformación, ¿qué requieren? ¿Requieren un proceso de adaptación? ¿Requieren un liderazgo de acompañamiento? ¿Requieren una formación? ¿Necesitan una guía concreta? ¿Qué es lo que hace falta? Y no es tan obvio. La tecnología está para que se mejoren las conversaciones humanas. La inteligencia artificial está para que la inteligencia humana aún sea mejor, no para reemplazarla. Entonces, hay que hacerse una: ¿cuál es el problema que quiero resolver?",
+      "keywords": [
+        "transformacion-digital",
+        "cultura",
+        "blueprint",
+        "inteligencia-artificial",
+        "conversaciones",
+        "resistencia-cambio"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la transformación digital en el deporte debe considerarse una transformación cultural?",
+        "¿Cuál es el rol de la inteligencia artificial y la tecnología frente al componente humano?"
+      ],
+      "related_terms": [
+        "implementación de inteligencia artificial",
+        "liderazgo de cambio",
+        "adaptación tecnológica"
+      ],
+      "relevance_score": 5,
+      "context_before": "La limitación de las 'red flags' y la complejidad en la toma de decisión para la disponibilidad del deportista.",
+      "context_after": "Ejemplo práctico de ineficiencia en registros médicos debido a herramientas mal implementadas o falta de flujos de trabajo."
+    },
+    {
+      "id": "V04-009",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:16:16",
+      "end_timestamp": "00:18:52",
+      "start_seconds": 976,
+      "end_seconds": 1132,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=976",
+      "title": "Falta de 'workflows' e ineficiencia en registros departamentales",
+      "summary": "Muchas herramientas informáticas son estupendas en teoría pero generan cuellos de botella (como registros en Excel interminables en fisioterapia). La clave no es la plataforma, sino la integración de roles, hábitos y flujos de trabajo (workflows) continuos.",
+      "literal_quote": "Lo que falta es el 'workflow', los roles, la integración, los hábitos y el proceso de estar revisando y aprendiendo para mejorarlo.",
+      "full_transcript": "Somos poco eficientes en el registro de lo que pasa en fisioterapia. Ese es el problema. ¿Por qué? Porque escribir en un Excel cada día, cuando el volumen de jugadoras que se ve es de 36, lleva un tiempo que siempre vamos por detrás en el margen que tiene esa persona para plasmarlo en la plataforma, pero cuando tiene que estar listo para las reuniones. ¿Hay tecnología o procesos que mejoren eso? No: 'Hemos comprado una plataforma donde aquí están los datos de fisioterapia, aquí la carga de entrenamiento, aquí los videanálisis, aquí la parte médica'. Fantástica, y la plataforma será estupendísima. Pero, ¿de verdad es útil? Lo que en la mayoría de los casos nos estamos encontrando es que no. A mí me ha llevado mucho tiempo trabajar desde Excel muy básicos, pasar por Power BI, vivir de plataformas mucho más trabajadas que tienes la oportunidad de pagar y tener. Y aun así, ninguna es 'ad hoc' puramente. Estamos buscando mucho esto, cada uno en nuestros contextos, precisamente porque detrás queremos que el contexto y nuestros procesos sean los eficientes. Eso no deja de recoger un dato y ponerlo en algún sitio, pero lo que falta es el 'workflow', los roles, la integración, los hábitos y el proceso de estar revisando y aprendiendo para mejorarlo. Si esto no está en la cultura, tenemos profesionales espléndidos, seguro. Un nivel de rendimiento por atletas, por equipo, por jugadores magnífico. Éxito. Pero el día a día dista mucho de estar optimizando todo lo que se tiene, sea poco o mucho, nuestro funcionamiento y que nuestro tiempo se pueda aprovechar mucho mejor que en estar rellenando todo el rato cosas en un Excel. Durante un tiempo ha estado habido que hacerlo. A veces hay que hacerlo, precisamente para analizarlo o porque no se tenían otras herramientas. Y si es lo que se tiene, también es lo que hay que asumir. Entonces, hacerme la pregunta de cada cosa y ver cómo cada persona puede adaptar ese proceso desde su rol y mejorarlo. Hay que analizar el mapa por el que circula la información...",
+      "keywords": [
+        "registro",
+        "excel",
+        "power-bi",
+        "workflow",
+        "eficiencia",
+        "fisioterapia"
+      ],
+      "entities": [
+        "Excel",
+        "Power BI"
+      ],
+      "topics": [
+        "Metodología",
+        "Data Science",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Problema",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué los departamentos de fisioterapia suelen estar sobrecargados en sus registros?",
+        "¿Qué se necesita para que una plataforma de gestión deportiva sea verdaderamente eficiente?"
+      ],
+      "related_terms": [
+        "flujos de trabajo",
+        "centralización de datos",
+        "cuellos de botella operacionales"
+      ],
+      "relevance_score": 4,
+      "context_before": "La importancia de la cultura sobre la tecnología en la transformación digital.",
+      "context_after": "Se enfatiza que la información circula desconectada y se requiere liderazgo de todos los profesionales para integrarla."
+    },
+    {
+      "id": "V04-010",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 3)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:18:52",
+      "end_timestamp": "00:20:45",
+      "start_seconds": 1132,
+      "end_seconds": 1245,
+      "duration_seconds": 113,
+      "timestamp_url": "?t=1132",
+      "title": "Mapeo de la información y liderazgo compartido",
+      "summary": "Los datos suelen estar alojados en plataformas inconexas generando 'puntos ciegos'. Para resolverlo, cada miembro del staff debe ejercer un liderazgo desde su área que fomente la comunicación transversal y conecte la visión global del rendimiento.",
+      "literal_quote": "Cada uno desde nuestro rol... tenemos un liderazgo que ejercer desde ahí, precisamente para favorecer la comunicación y el liderazgo común.",
+      "full_transcript": "Hay que analizar el mapa por el que circula la información, las personas implicadas, desde dónde se decide y se comunica, cuántas 'dashboard', plataformas, aplicaciones hay. En muchos momentos, cuando hacemos una organización, una de las primeras preguntas es: '¿Todos estos datos de dónde salen? ¿Desde cuántas plataformas se recogen?' Porque se van adquiriendo plataformas para una cosa y para otra, que no están en común, y los datos de una cosa están en un sitio y los de otra en otro. Y puede pasar, pero hay puntos ciegos y nadie que los conecte, aunque tengan que estar por lo que sea en plataformas diferentes. Da igual cuál es el contexto, cuál es la situación, cuál es el mapeo. Y entonces, hay que trabajar. Pero eso se construye. Se construye el ritmo de esas reuniones, la responsabilidad, el lenguaje, el liderazgo de aplicar esto. Y líder no es solo la persona que tiene un cargo. Cada uno desde nuestro rol, ni que sea porque gestionamos nuestros datos y nuestros atletas en nuestro trozo de la foto, tenemos un liderazgo que ejercer desde ahí, precisamente para favorecer la comunicación y el liderazgo común y el paraguas global desde donde viene un liderazgo para poder coordinar a todas las personas y todos los procesos. Pero todo lo que hacemos tiene un impacto. Todo. Nuestro día a día, las pequeñas decisiones que tomamos, las pequeñas conversaciones que tenemos, la manera en la que nos comunicamos, hacemos, tiene un impacto y tenemos que ser conscientes y reflexionar sobre ello para mejorar nuestro trozo de la foto y en común.",
+      "keywords": [
+        "mapa-informacion",
+        "puntos-ciegos",
+        "plataformas",
+        "liderazgo",
+        "comunicacion",
+        "impacto"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante integrar las diferentes plataformas de datos en el alto rendimiento?",
+        "¿Quién debe ejercer el liderazgo dentro de un equipo multidisciplinar deportivo?"
+      ],
+      "related_terms": [
+        "puntos ciegos de información",
+        "liderazgo horizontal",
+        "ecosistemas de datos conectados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los problemas de registro ineficiente y falta de integración en el día a día.",
+      "context_after": "Finalización de la intervención."
+    }
+  ]
+}

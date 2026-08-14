@@ -1,0 +1,154 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Diseño de ecosistemas en el alto rendimiento",
+    "speaker": "Esther Morencos",
+    "total_duration": "00:09:01",
+    "total_duration_seconds": 541,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:56",
+      "start_seconds": 0,
+      "end_seconds": 176,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=0",
+      "title": "El ecosistema del alto rendimiento más allá del plan físico",
+      "summary": "La preparación física y la planificación del entrenamiento son fundamentales, pero incompletas si no se tiene en cuenta el entorno. Sostener el rendimiento depende de un ecosistema que sepa interpretar, decidir, comunicar y acompañar el plan, enriquecido por una visión híbrida desde la docencia, innovación y experiencia práctica.",
+      "literal_quote": "Que un atleta pueda sostener el rendimiento no es solo la calidad del plan del entrenamiento en concreto de un día, sino la calidad del entorno que interpreta, decide, comunica y acompaña la ejecución de ese plan.",
+      "full_transcript": "Esta sesión lleva por subtítulo \"Palabras clave\". No están ahí porque sí. Diseñar ecosistema más allá de son cosas que tenemos que tener en cuenta en el alto rendimiento, porque desde el rol de la preparación física, planificar, medir, diseñar y llevar a cabo ese entrenamiento concreto es sin duda importante. Sería una de nuestras tareas y responsabilidades ejerciendo ese rol, pero es una parte de la foto y es una parte incompleta si no tenemos en cuenta todo lo demás. Que un atleta pueda sostener el rendimiento no es solo la calidad del plan del entrenamiento en concreto de un día, sino la calidad del entorno que interpreta, decide, comunica y acompaña la ejecución de ese plan, que a su vez va a tener un mapa, un recorrido de cosas que van a ir ocurriendo. Mi experiencia o el lugar desde el que me gustaría compartiros este conocimiento es una trayectoria híbrida. He tenido y tengo la suerte de dedicarme desde la docencia universitaria y la investigación y lo que supone de verdad intentar llevar esa investigación al campo. Alto rendimiento, diseñar, planificar y llevar a cabo muchos años de todo un recorrido para una planificación para unos Juegos Olímpicos con diferentes deportes de equipo e individuales. He podido trabajar para una consultora en el mundo de la innovación deportiva y también vivir cómo se diseñan y se implementan las transformaciones culturales y digitales en nuestro ecosistema del deporte. A día de hoy, he intentado recoger toda esa experiencia o intento seguir haciéndolo en el día a día y ponerla en conjunto en YouLab para poder hacerlo de la manera en la que creemos que tiene el mayor sentido posible después de muchos años cometiendo errores, otras veces acertando y analizando y reflexionando sobre todo ese recorrido, pudiendo tener una foto desde todos los ángulos posibles que acaban componiendo la foto 360 que rodea el alto rendimiento desde muchos de sus contextos. Desde esta trayectoria híbrida, espero poder compartiros un conocimiento útil.",
+      "keywords": [
+        "ecosistema",
+        "alto-rendimiento",
+        "preparacion-fisica",
+        "entorno",
+        "trayectoria-hibrida",
+        "innovacion-deportiva"
+      ],
+      "entities": [
+        "YouLab",
+        "Juegos Olímpicos"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Esther Morencos sobre el entorno en el alto rendimiento?",
+        "¿Por qué es importante diseñar un ecosistema más allá del plan físico?",
+        "¿Cómo aporta una trayectoria profesional híbrida a la comprensión del ecosistema deportivo?"
+      ],
+      "related_terms": [
+        "ecosistema en el deporte",
+        "planificación de entrenamiento",
+        "entorno del deportista",
+        "transformación cultural y digital"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación sobre la importancia del ecosistema y palabras clave.",
+      "context_after": "Se presenta un caso simulado de una reunión de staff donde se debe tomar una decisión sobre la disponibilidad de un atleta."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "03:04",
+      "end_timestamp": "06:00",
+      "start_seconds": 184,
+      "end_seconds": 360,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=184",
+      "title": "Toma de decisiones compartida en el staff técnico",
+      "summary": "Se simula una reunión habitual en el alto rendimiento para decidir si un atleta debe entrenar o no. Se subraya que esta resolución no depende de un dato aislado de un solo departamento, sino de cruzar la información del entrenador, fisioterapeuta, datos y el propio deportista mediante criterios compartidos y un entorno de confianza.",
+      "literal_quote": "La pregunta no se contesta con un dato único, ni con un conjunto de datos per se... depende de si las personas implicadas en responderla tienen criterios compartidos, trabajados previamente, si los datos tienen contexto y ese contexto es compartido.",
+      "full_transcript": "Para abordar la sesión, vamos a compartir un proceso, que sería lo más real posible, ante una simulación o una historia que seguro nos es familiar a muchos y a muchas, ya sea a las 8:00 a.m. o a las 22:00 p.m., las horas que sabemos que también trabajamos a veces en el alto rendimiento. Pero un contexto de una reunión de staff donde se pretende resolver una decisión. Seguro familiar a muchos y a muchas con muchos matices también, pero que espero podáis ir colocando en vuestros diferentes contextos. En este caso, para poder hacer el recorrido de esta propuesta, elegimos si una jugadora o un atleta puede o no entrenar hoy. Hay una reunión para abordar esa situación, porque el entrenador necesita un plan. Desde el rol de la fisioterapia hay alguna preocupación con una situación que puede ser muscular o lo que fuera. Los datos muestran alguna cuestión que como mínimo estar poniendo en la mesa. La atleta, por otra parte, quiere y manifiesta poder entrenar y hay un conjunto de información. Cómo se ordena, cómo se comunica, qué hacemos con esa pregunta para intentar contestarla, que al final es nuestra atleta qué va a hacer hoy. La pregunta no se contesta con un dato único, ni con un conjunto de datos per se de cada uno de esos roles que puedan llegar a estar interviniendo en esa reunión. Da igual el contexto. Pueden ser menos personas. No siempre en el alto rendimiento hay escenarios de un staff completísimo ni un montón de recursos humanos. Da igual. Ni que fuesen dos personas. La cuestión es que esa pregunta depende de si las personas implicadas en responderla tienen criterios compartidos, trabajados previamente, si los datos tienen contexto y ese contexto es compartido y reflexionado conjuntamente, si la atleta puede hablar con confianza en lo que aporta sus sensaciones y su situación. Si hay un responsable que comunica y dirige esa reunión, que pone en común, que facilita la comunicación. Y eso se construye previamente, porque no es solo que en la pantalla haya un conjunto de datos donde cada uno llega allí con lo que considera o su parte de la foto.",
+      "keywords": [
+        "toma-de-decisiones",
+        "staff",
+        "reunion",
+        "criterios-compartidos",
+        "comunicacion",
+        "confianza"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se resuelve una decisión sobre la disponibilidad de un atleta en el staff?",
+        "¿Qué papel juega la comunicación y los criterios compartidos en una reunión deportiva?",
+        "¿Por qué un dato único no es suficiente para decidir si un deportista entrena?"
+      ],
+      "related_terms": [
+        "gestión de staff",
+        "disponibilidad del atleta",
+        "comunicación multidisciplinar",
+        "contextualización de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre el entorno de alto rendimiento y la trayectoria profesional de la ponente.",
+      "context_after": "Se explica cómo esta toma de decisiones estructurada conforma el ecosistema global centrado en las necesidades reales del deportista."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "06:04",
+      "end_timestamp": "09:01",
+      "start_seconds": 364,
+      "end_seconds": 541,
+      "duration_seconds": 177,
+      "timestamp_url": "?t=364",
+      "title": "Ecosistema integral centrado en el deportista",
+      "summary": "Para que una sesión de alto rendimiento ocurra exitosamente, debe estar sustentada por un ecosistema centrado en el deportista. La toma de decisiones coordinada, la cultura de funcionamiento alineada y la comunicación humana son tan importantes como los datos o la tecnología que se utilicen.",
+      "literal_quote": "Para que cada una de esas sesiones ocurra, cada uno de esos días en el alto rendimiento ocurra, tiene que haber un ecosistema que lo sustenta y hace posible todas esas circunstancias y que, sobre todo, está centrado en el deportista.",
+      "full_transcript": "El objetivo de una sesión como esta es no solo abordar el rendimiento desde un lugar en el que no solo lo que ocurre dentro de la sesión, sino que para que cada una de esas sesiones ocurra, cada uno de esos días en el alto rendimiento ocurra, tiene que haber un ecosistema que lo sustenta y hace posible todas esas circunstancias y que, sobre todo, está centrado en el deportista, que es para quien trabajamos, para quien intentamos tener todos estos procesos montados. Mi sesión de entrenamiento es posible desde mi rol, incluso de haber decidido que pongo tres por ocho en una sentadilla de lo que sea, si detrás hay un conjunto de cosas que suceden y están preparados y hay un criterio de toma de decisiones también. Lo mismo pasa si la cuestión en ese alto rendimiento es estar decidiendo si se compra cierta tecnología, cierta plataforma de digitalización y hay otros roles implicados en esa reunión. Hay unas preguntas que hacerse y un recorrido que hacer en ese proceso para que al final, en el rendimiento, estemos teniendo en cuenta todo el ecosistema y tenga sentido todo lo que hacemos. Para llevar a cabo la sesión, la propuesta es hacer un recorrido, como un mapeo. Esa conversación que se iniciaba a las ocho de la mañana es importante porque todo lo que hay ahí no son solo los datos, es la manera en la que todo ese staff trabaja, el recorrido que trae cada una de esas personas y profesionales que tienen experiencia previa y un conocimiento que poner en la mesa, pero que poder hacerlo de una manera conjunta, alineada, que lo hace sostenible, que le da forma, que tiene una cultura de funcionamiento donde la salud también está presente y el dato tiene sentido. Así que vamos a hacer un recorrido por tres actos de lo que podría ocurrir en esa reunión en la que vamos a pensar que estamos ahí dentro. Esa reunión forma un ecosistema donde va a haber una comunicación mejor o peor, una coordinación, una decisión de variables, donde lo que hay en la mesa o en la pantalla son datos y tecnología desde la cual se han recogido esos datos, pero también hay personas. Por lo tanto, hay que abrir un poco más la mirada y ver desde dónde abordamos la individualización.",
+      "keywords": [
+        "ecosistema",
+        "deportista",
+        "cultura-de-funcionamiento",
+        "tecnologia",
+        "individualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué el deportista debe ser el centro del ecosistema de rendimiento?",
+        "¿Cómo influyen las decisiones del staff y la tecnología en la individualización del entrenamiento?",
+        "¿Qué se necesita detrás de una sesión de entrenamiento específica para que tenga éxito?"
+      ],
+      "related_terms": [
+        "ecosistema del deportista",
+        "toma de decisiones tecnológicas",
+        "individualización del entrenamiento",
+        "cultura de salud"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplo práctico de una reunión de staff donde se debe decidir si una atleta está en condiciones de entrenar.",
+      "context_after": "Fin del fragmento provisto."
+    }
+  ]
+}

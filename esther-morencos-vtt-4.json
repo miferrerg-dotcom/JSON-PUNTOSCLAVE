@@ -1,0 +1,377 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+    "speaker": "Esther Morencos",
+    "total_duration": "00:20:58",
+    "total_duration_seconds": 1258,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:14",
+      "start_seconds": 1,
+      "end_seconds": 194,
+      "duration_seconds": 193,
+      "timestamp_url": "?t=1",
+      "title": "La salud como infraestructura fundamental del rendimiento",
+      "summary": "Es un error separar la salud del rendimiento, ya que la primera es la infraestructura que permite al deportista absorber cargas y sostener el rendimiento a largo plazo. Ignorar factores como amenorreas o déficits energéticos en mujeres por priorizar el corto plazo genera fragilidad estructural a futuro.",
+      "literal_quote": "La salud es la infraestructura que permite el rendimiento. No se puede separar. Es lo que permite el rendimiento sostenible en el tiempo.",
+      "full_transcript": "Vamos a por el último bloque de este acto que está sucediendo en esta reunión, en la que hemos generado un contexto de trabajo y de cultura determinada. En esta reunión hay datos en la mesa, pero ahora hay que ampliar la mirada, porque en cualquiera de esas cosas e información que ahí se cruza hay personas implicadas. Esa individualización, esa atención o ese proceso que se quiere individualizar no va solo de cambiar mi trozo de entrenamiento, va de entender a la persona que se va a ver implicada en implementar la tecnología, en analizar el dato, en decidir si entrena o no entrena o qué se le adapta. Entonces, hay que ampliar la mirada. Una de las cosas bajo las cuales ampliar la mirada es la parte de salud y en ello vamos a ir metiendo un poquito de la parte femenina. Salud es una cuestión que durante mucho tiempo hemos dado por hecho que no tenía encaje con el rendimiento o que eran un poco antagonistas, pero que el conocimiento ha avanzado lo suficiente. Ha mejorado los procesos de la profesionalización del deporte o los entornos de alto rendimiento, donde esto ya tiene que cambiar, ha ido cambiando y va a cambiar más, porque la salud es la infraestructura que permite el rendimiento. No se puede separar. Es lo que permite el rendimiento sostenible en el tiempo: la disponibilidad, la capacidad de adaptación, de absorber cargas, de mejorar, la confianza en el proceso, en la comunicación, la salud mental y que eso, por lo tanto, tenga un recorrido en el tiempo de años que requiere un deportista para crecer y mejorar. Por mucho que ya de joven destaque, por delante tiene unos años. Desgraciadamente, a mis manos llegan muchas situaciones o casos de deportistas que se ha abordado mal su proceso pensando en el largo plazo. En el corto plazo, aún, pero en el largo plazo, y en esto, y en las mujeres. Por eso he querido introducir ya un pequeño guiño a ello conforme avanzamos en este bloque, porque aún más en las mujeres la salud se ha echado a un lado. Hemos afectado amenorreas, hemos normalizado trastornos de conducta alimentaria, déficits energéticos, que eso derivará a largo plazo en lesiones, pero no estar viendo bien la interpretación de esa información ni a dónde está llevando, que el día de mañana se complique su maternidad. Muchísimas cosas.",
+      "keywords": [
+        "salud",
+        "rendimiento",
+        "infraestructura",
+        "mujeres",
+        "amenorreas",
+        "largo-plazo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la salud y el rendimiento deportivo no pueden separarse?",
+        "¿Qué consecuencias tiene priorizar el rendimiento a corto plazo ignorando déficits energéticos en las deportistas?"
+      ],
+      "related_terms": [
+        "salud en el deporte femenino",
+        "infraestructura del rendimiento",
+        "impacto a largo plazo del sobreentrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del último bloque enfocado en la dimensión humana y la individualización dentro de las reuniones de staff.",
+      "context_after": "Se expande este concepto hacia la necesidad de implementar una 'cultura del cuidado' que abarque también a los profesionales del equipo técnico."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:03:14",
+      "end_timestamp": "00:05:48",
+      "start_seconds": 194,
+      "end_seconds": 348,
+      "duration_seconds": 154,
+      "timestamp_url": "?t=194",
+      "title": "Cultura del cuidado: protegiendo al deportista y al staff técnico",
+      "summary": "El ecosistema deportivo debe incluir una cultura del cuidado real. Esta no solo aplica a los atletas, sino también al propio staff técnico, que frecuentemente sufre exceso de estrés y fatiga. Un staff cuidado toma mejores decisiones y previene fragilidades ocultas en los deportistas.",
+      "literal_quote": "Todo eso se fabrica, muchas veces a costa del no cuidado del 'staff', que trabaja muchas horas bajo mucho estrés y fatiga...",
+      "full_transcript": "Entonces, tiene que haber un sistema de salud en medio de la cultura de trabajo con ellas, y he hecho referencia a ellas por lo que acabo de explicar, pero con todo el mundo. La salud también tiene que ser monitorizada, comunicada, haber protocolos de detección, de abordaje, de toma de decisión. Es lo que llamamos una cultura del cuidado. Una cultura del cuidado que si la trabajamos, impacta también en las personas con las que trabajamos en el \"staff\", que de tanto cuidar a veces a las deportistas, a los atletas y estar siempre pensando las mejores horas de alimentación, la mejor distribución del día, de la semana, de la concentración, todos los recursos que puede llegar a tener para cuidarse, para monitorizarse, para estar descansadas. Todo. Pero todo eso se fabrica, muchas veces a costa, y yo lo viví así, del no cuidado del \"staff\", que trabaja muchas horas bajo mucho estrés, bajo mucha fatiga, precisamente para que los deportistas estén en el mejor lugar posible. Esa cultura del cuidado impacta a la organización, impacta a los profesionales, que tomarán mejores decisiones, que abordarán mejor la gestión del cambio, que abordarán mejor la transformación cultural, que tendrán también la cabeza para pensar, para hacer esas preguntas necesarias para avanzar con todos estos procesos y, por tanto, esto impacta en todo lo global. Pero son muchos los casos de lesiones que vienen ya arrastradas, y es un histórico muy complejo, que hay que deshacer mucho nudo de la madeja para poder abordarlo y, por lo tanto, que han creado una fragilidad, pensando que se estaba haciendo bien y que al revés, que era resiliencia y capacidad de esfuerzo. No, estaba generando una brecha de fragilidad en este sistema que a largo plazo tiene un precio más alto del que a veces somos conscientes hasta que no llegan a nuestras manos casos realmente críticos de un talento que tenía todo un recorrido por delante y que se ha ido viendo truncado. Por lo cual, este concepto de salud es muy importante.",
+      "keywords": [
+        "cultura-del-cuidado",
+        "staff",
+        "fatiga",
+        "fragilidad",
+        "resiliencia",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la falta de cuidado del staff al rendimiento de una organización deportiva?",
+        "¿Por qué es peligroso confundir la fragilidad generada por malas decisiones con la resiliencia del deportista?"
+      ],
+      "related_terms": [
+        "bienestar del cuerpo técnico",
+        "burnout en el deporte",
+        "cultura de cuidado integral"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de entender la salud física y femenina como base del rendimiento a largo plazo.",
+      "context_after": "Se enfatiza la urgencia de aplicar la perspectiva de género en las dinámicas de comunicación y protocolos del equipo."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:05:48",
+      "end_timestamp": "00:08:16",
+      "start_seconds": 348,
+      "end_seconds": 496,
+      "duration_seconds": 148,
+      "timestamp_url": "?t=348",
+      "title": "Perspectiva de género y creación de espacios seguros",
+      "summary": "Avanzar en el rendimiento requiere incorporar la perspectiva de género desde el lenguaje (jugadoras/jugadores) hasta la creación de espacios seguros donde las atletas puedan comunicar libremente temas como suelo pélvico o salud menstrual sin sentirse cuestionadas.",
+      "literal_quote": "Faltan muchos espacios seguros donde la mujer deportista pueda comunicarse y abordar ciertos temas desde la seguridad.",
+      "full_transcript": "Y hacerlo desde este lugar. No es que sea un tema de la mujer, pero mucho de mi bagaje y de mi trayectoria es en el entorno del deporte femenino a nivel estructural, a nivel de las propias atletas y jugadoras, como preparadora física, como mentora Creo que hay que seguir abordando ese conocimiento específico y tiene que seguir existiendo una formación que nos avance en la mujer, porque aún escasea, aunque se hayan dado pasos hacia adelante. Pero muchas de estas charlas también, simplemente que la perspectiva de género esté en la mesa. Probablemente hayáis notado que me he esforzado en hablar de jugadoras, atletas, deportistas, que mujeres y hombres puedan estar en el mismo lenguaje de comunicación. Preparadores físicos, preparadoras físicas. Cuidar estas cosas para que no sea solo convertirlo en un tema de mujeres. Siempre tener en cuenta que es un punto ciego que hay que quitar, porque necesitamos un marco donde la salud de las atletas esté presente, como hablábamos antes, donde los dominios que requieren, y esto está publicado por el Comité Olímpico Internacional, estén presentes y tengamos esa mirada nueva. Nueva, o renovada, o ampliada, o evolucionada. Cada cual desde el lugar en el que parte hacia donde tenga que avanzar. Porque faltan muchos espacios seguros donde la mujer deportista pueda comunicarse y abordar ciertos temas desde la seguridad. Faltan contextos donde la salud de la mujer esté presente, donde se cuide el suelo pélvico, las revisiones ginecológicas, la salud menstrual...",
+      "keywords": [
+        "perspectiva-genero",
+        "espacios-seguros",
+        "lenguaje",
+        "salud-femenina",
+        "comunicacion",
+        "deporte-femenino"
+      ],
+      "entities": [
+        "Comité Olímpico Internacional"
+      ],
+      "topics": [
+        "Comunicación",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Por qué es vital usar un lenguaje inclusivo y cuidar los espacios seguros en el deporte femenino?",
+        "¿Qué dominios de salud femenina requieren mayor visibilidad y atención en el ecosistema deportivo?"
+      ],
+      "related_terms": [
+        "espacios seguros en el deporte",
+        "comunicación con la atleta",
+        "perspectiva de género en el rendimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición sobre el agotamiento del staff y la importancia del cuidado global.",
+      "context_after": "El análisis se mueve hacia la maternidad en el alto rendimiento y la falta de datos y sesgos de género en inteligencia artificial."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:08:16",
+      "end_timestamp": "00:10:33",
+      "start_seconds": 496,
+      "end_seconds": 633,
+      "duration_seconds": 137,
+      "timestamp_url": "?t=496",
+      "title": "Acompañamiento en el embarazo y sesgos de género en IA",
+      "summary": "Apoyar a una atleta embarazada exige preguntarse qué herramientas proporcionar en lugar de debatir si puede entrenar. Además, es esencial considerar que gran parte de los umbrales de la ciencia o las herramientas de Inteligencia Artificial poseen un sesgo de género masculino que obliga a no dar los datos por hecho.",
+      "literal_quote": "No olvidemos que se sabe que la inteligencia artificial tiene un sesgo de género y que no miremos solo la biología de la mujer.",
+      "full_transcript": "...y todo lo que implica un embarazo. Tengo la suerte, a día de hoy, de acompañar a atletas de alto rendimiento en el proceso de embarazo, que están embarazadas, que han sido madres y que su objetivo es seguir siendo atletas y volver a competir en unos Juegos Olímpicos. Eso requiere acompañamiento de muchos profesionales para que la pregunta no sea reduccionista de si puede entrenar o no porque está embarazada, sino qué es lo que tenemos que poner en la mesa para que pueda entrenar. Abordaje desde la clínica, desde el suelo pélvico, desde la preparación física, qué criterios requieren los contratos. Hablamos de contextos y ecosistema alrededor de la deportista. Patrocinios, el sostén de todo ello. Eso permite lugares de conversación protegidos, que se consideran seguros, donde no serán cuestionadas, donde esta estará mirada, donde no demos por hecho que los datos los estamos interpretando bien. La mayoría de la ciencia sigue siendo reflejada en promedio, las desviaciones estándar, los umbrales que se publican de cosas o nombres. ¿Serán los mismos para las mujeres? No lo sabemos. Muchos no los sabemos a ciencia cierta. Posiblemente algunos sí. Algunos tenemos esa respuesta ya. En otras variables se están llegando a datos propios y tener esos umbrales, esas referencias, pero esto tiene recorrido por delante. Entonces, incluso cuando aplicamos inteligencia artificial al análisis del dato para ayudarnos como herramienta potentísima, no olvidemos que se sabe que la inteligencia artificial tiene un sesgo de género y que no miremos solo la biología de la mujer. No es solo su ciclo menstrual, es el contexto en el que se desenvuelve, las oportunidades de desarrollo, el acompañamiento de nivel profesional en ese desarrollo, la exposición que ha podido tener a un nivel de calidad de entrenamiento, de recorrido, de crecimiento, que no va solo de su biología, sino de ese contexto.",
+      "keywords": [
+        "embarazo",
+        "inteligencia-artificial",
+        "sesgo-genero",
+        "umbrales",
+        "datos",
+        "contexto"
+      ],
+      "entities": [
+        "Juegos Olímpicos"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Data Science",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo debe abordarse el entrenamiento de una deportista de alto nivel durante el embarazo?",
+        "¿Qué cuidado hay que tener al interpretar los datos deportivos generados por la ciencia y la inteligencia artificial en mujeres?"
+      ],
+      "related_terms": [
+        "sesgo algorítmico en el deporte",
+        "maternidad en el alto rendimiento",
+        "contextualización de los datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se habla de crear espacios libres de prejuicios para que la atleta exprese sus preocupaciones.",
+      "context_after": "Explicación de que dar un protocolo no basta si las piezas del ecosistema no están conectadas y coordinadas."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:10:33",
+      "end_timestamp": "00:14:08",
+      "start_seconds": 633,
+      "end_seconds": 848,
+      "duration_seconds": 215,
+      "timestamp_url": "?t=633",
+      "title": "Dar soporte al proceso de recuperación más allá del diagnóstico clínico",
+      "summary": "Tener un buen diagnóstico o plan (ej. mandar isométricos) no basta si el atleta trabaja en un ecosistema fragmentado. El rol del staff debe ser 'dar soporte al proceso' comunicándose con el entorno de la deportista (entrenador nacional, fisio particular), asegurándose de que la indicación sea aplicable en su contexto real.",
+      "literal_quote": "El atleta en el centro de todo este proceso para dar soporte al proceso, no solucionar el problema.",
+      "full_transcript": "Los profesionales adecuados a su alrededor, la accesibilidad a esos profesionales. Cuando además hay lesiones. Los espacios seguros, vuelvo a repetirlo. Entonces, no demos por hecho que sirven los mismos protocolos, los mismos datos, los mismos análisis. Ocurre igual en etapas de desarrollo, en seniors, niños, niñas. Tengamos esta mirada también ampliada. Esto va de dar soporte a procesos, no solo al problema. En una lesión, el problema a priori al que apunto directamente es que hay cierto tejido o estructura dañada. Sí, pero ahora hay un diagnóstico magnífico. Si es un diagnóstico bueno y el comienzo es muy positivo, pero de ahí empieza un plan de acción. A veces damos por hecho que yo doy una indicación: «Por esta cuestión de tendones, haz isométricos». Y que la atleta va a llegar a su sitio y que allá donde entrena va a trasladar isométricos y todo el mundo lo va a entender. No siempre las estructuras, yo también lo he encontrado, es un equipo de trabajo estructurado, donde los roles se comunican normalmente entre sí, aún con las posibles mejoras que espero podamos implementar después de esta formación, que pueden llegar a tener en esa coordinación, pero que existen. Hay muchos contextos de alto rendimiento de atletas que son olímpicos, donde las figuras están separadas. A la atleta normalmente la acompaña su entrenador, su preparador físico o el fisioterapeuta de la federación No necesariamente hay una comunicación habitual. De repente hay una urgencia, entonces prefieres a un médico de fuera de confianza y tú llegas allí para intentar contribuir en un proceso de return to performance o to train, y las piezas están desconectadas, aun cuando cada rol, desde su trozo de la foto, está intentando hacer el mejor abordaje, pero el plan no está alineado. El problema no es solo tener claro que lo que hay es una rotura muscular o lo que sea. Es que cada profesional que va a tener una voz en ese diagnóstico y abordaje tiene en cuenta que la foto del atleta es mucho más grande, los recursos que tiene para implementarlo, la coordinación de esas voces. Si no, ¿qué impacto puede tener? Si me toca comunicar mejor, si me toca explicar mejor, si me toca acompañar más de cerca, puesto que no depende de mí tener el engranaje de esas piezas, ¿desde dónde puedo aun así ayudar al atleta? El atleta en el centro de todo este proceso para dar soporte al proceso, no solucionar el problema. Ya sea lesión, rendimiento, embarazo, posparto, que quizá podemos pensar que nos queda lejos, pero que cada vez es más habitual, afortunadamente, porque es por el bien del abordaje.",
+      "keywords": [
+        "soporte-al-proceso",
+        "lesiones",
+        "coordinacion",
+        "comunicacion",
+        "return-to-performance",
+        "diagnostico"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre solucionar un problema clínico y dar soporte a un proceso de lesión?",
+        "¿Por qué fracasa la indicación de un ejercicio físico si no hay coordinación entre los profesionales del deportista?"
+      ],
+      "related_terms": [
+        "coordinación interdisciplinar médica",
+        "rehabilitación integral",
+        "gestión de ecosistemas desconectados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de entender los contextos sistémicos de la jugadora y no solo guiarse por la biología.",
+      "context_after": "Se concluye cómo la respuesta ante la disponibilidad de un atleta requiere múltiples adaptaciones, no un simple 'sí' o 'no'."
+    },
+    {
+      "id": "V05-006",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:14:08",
+      "end_timestamp": "00:16:31",
+      "start_seconds": 848,
+      "end_seconds": 991,
+      "duration_seconds": 143,
+      "timestamp_url": "?t=848",
+      "title": "Más allá del 'sí' o 'no': complejidad en la disponibilidad del atleta",
+      "summary": "Ante la pregunta inicial de una reunión de staff sobre si un deportista puede entrenar, la respuesta rara vez es binaria. Se debe definir si entrena con adaptaciones, protección o revisiones, evaluando siempre si la cultura de trabajo soporta esa decisión.",
+      "literal_quote": "Para empezar, la respuesta no iba a ser sí o no. Es un: 'Esto sí, esto no, esto adaptado, esto bajo protección, esto siguiendo estas revisiones...'",
+      "full_transcript": "Esto también incluye cambiar la mirada cuando el deportista es padre. Se dan por hecho muchas cosas. También tenemos que cambiar como sociedad para que las decisiones sean más precisas. Que sean más precisas, que estén más acompañadas, no quiere decir que hayamos perdido el foco de que lo que buscamos sigue siendo dar pasos hacia un rendimiento. Pero hay una salud y un rendimiento que van de la mano y que si solucionamos el problema, estamos queriendo volver al rendimiento. Pero si damos soporte al proceso, estamos queriendo respetar los pasos con todo el mundo trabajando lo mejor posible para que la salud vaya, el rendimiento llegue y haya un proceso, incluso de aprendizaje para todos los profesionales y para el propio atleta o la propia deportista. Cerrando la sesión, empezamos en ese escenario que hemos dividido en tres actos de una reunión. Parecía que era tan obvio como con cuatro profesionales ahí, que tenían datos desde su perspectiva, contestar si entrenaba o no. Y si eso era un sí o no. Para empezar, la respuesta no iba a ser sí o no. Es un: \"Esto sí, esto no, esto adaptado, esto bajo protección, esto siguiendo estas revisiones para decidir los siguientes pasos y el progreso\". Ya para empezar, la respuesta iba a estar más elaborada. Quizá la mejor pregunta es: ¿qué necesita mi ecosistema para responder a eso mejor? La cultura. Sobre qué bases van a suceder esas reuniones, bajo qué perspectiva tenemos datos y dónde está la persona. Será un criterio compartido, tendremos datos relevantes y el atleta como persona será escuchado o escuchada. Habrá una claridad de toma de decisiones, de personas responsables en accionar los siguientes pasos y darle seguimiento y acompañar, y todas esas decisiones estarán siendo contextualizadas. Si pudiésemos recoger un poco lo que hemos ido abordando aquí, quizá cinco preguntas que hacerse. Planteaba que nos podamos hacer mejores preguntas.",
+      "keywords": [
+        "disponibilidad",
+        "adaptacion",
+        "cultura",
+        "criterio-compartido",
+        "toma-decisiones",
+        "contextualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Resumen",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la respuesta de disponibilidad de un deportista no debe ser binaria (sí o no)?",
+        "¿Qué características debe tener un ecosistema para poder contestar adecuadamente a las adaptaciones del entrenamiento?"
+      ],
+      "related_terms": [
+        "disponibilidad del atleta",
+        "toma de decisiones contextualizada",
+        "reuniones de staff multidisciplinar"
+      ],
+      "relevance_score": 4,
+      "context_before": "Aclaración sobre la importancia de dar acompañamiento coordinado a un proceso deportivo-clínico.",
+      "context_after": "La necesidad de utilizar la tecnología y automatización para hacer mejores preguntas y tener reuniones verdaderamente útiles."
+    },
+    {
+      "id": "V05-007",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:16:31",
+      "end_timestamp": "00:19:28",
+      "start_seconds": 991,
+      "end_seconds": 1168,
+      "duration_seconds": 177,
+      "timestamp_url": "?t=991",
+      "title": "Automatización para priorizar conversaciones humanas de calidad",
+      "summary": "La verdadera utilidad de la IA y la tecnología es liberar tiempo humano para reflexionar, cruzar información y afrontar las conversaciones incómodas que a menudo se evitan escudándose únicamente tras la pantalla de datos.",
+      "literal_quote": "Usemos la inteligencia artificial y los datos precisamente para dejarnos tiempo para conversaciones de mayor calidad y para poder pensar juntos mejor.",
+      "full_transcript": "Eso implica reflexionar más, implica tener tiempo para hacerlas. Usemos la inteligencia artificial y los datos precisamente para dejarnos tiempo para conversaciones de mayor calidad y para poder pensar juntos mejor. Creo que es una de las mejores reflexiones actuales en mi trayectoria. ¿Qué decisiones estamos intentando mejorar? Decía antes que lleva mucho tiempo al fisio registrar así, porque el problema a resolver no es que no tenemos realmente la información completa en las reuniones. Hagamos la pregunta que me vaya a llevar a algo aterrizable y concreto que accionar. Y entonces ver desde qué lado tomamos decisiones. La decisión con la trazabilidad, el blueprint, las huellas, dónde está habiendo información importante que se queda perdida. ¿Es porque está en la nube, pero no se usa? ¿Es porque se está haciendo este test, pero no se tiene claridad en la información que da? ¿Es porque no están contextualizados? ¿Qué es lo que está pasando? ¿Qué información realmente lleva a la acción? ¿Qué información nos permite de verdad accionar pasos con colaboración y seguridad? ¿Qué conversación estamos evitando? ¿Estamos mirando solo datos y evitamos tener conversaciones a veces incómodas? ¿Cómo lo ves tú? ¿Cómo lo veo yo? Lo que nos ha dicho el atleta, la dificultad, quizá, de plantearle al entrenador o a la entrenadora cierta información Situaciones de frustración, de momentos que a veces no se quieren vivir, pero son una realidad. Como mínimo, ponerlos en la mesa y encontrar la manera de poder tenerlos.",
+      "keywords": [
+        "inteligencia-artificial",
+        "datos",
+        "conversaciones-incomodas",
+        "blueprint",
+        "reflexion",
+        "accion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "IA Deportiva",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es el principal beneficio de aplicar la inteligencia artificial a la gestión de datos deportivos?",
+        "¿Cómo afectan las conversaciones evitadas e incómodas a la toma de decisiones en el staff?"
+      ],
+      "related_terms": [
+        "gestión de datos para la acción",
+        "optimización del tiempo en reuniones",
+        "comunicación interdepartamental"
+      ],
+      "relevance_score": 5,
+      "context_before": "La necesidad de responder con matices a la disponibilidad y no con simples aprobaciones binarias.",
+      "context_after": "Conclusión sobre el futuro del rendimiento deportivo basado en las habilidades blandas y el liderazgo."
+    },
+    {
+      "id": "V05-008",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 4)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:19:28",
+      "end_timestamp": "00:20:58",
+      "start_seconds": 1168,
+      "end_seconds": 1258,
+      "duration_seconds": 90,
+      "timestamp_url": "?t=1168",
+      "title": "El futuro del rendimiento: decisiones, coordinación y soft skills",
+      "summary": "El alto rendimiento futuro no dependerá solo de disponer de la mejor tecnología, sino del desarrollo del 'soft skill' en los profesionales: la capacidad de coordinar, liderar ecosistemas globales, cuidar a las personas y formular buenas preguntas.",
+      "literal_quote": "El futuro del alto rendimiento no va solo de entrenar mejor... sino decidir mejor, cuidar mejor y coordinarnos mejor.",
+      "full_transcript": "Y si nuestro sistema, la cultura que hemos creado, el ecosistema que hemos creado, que estamos creando, en el que trabajamos día a día para analizarlo, mejorarlo, progresarlo, evolucionarlo, adaptarlo, porque las cosas cambian, protege o drena, fatiga o va mermando al atleta. Puede parecer una pregunta muy obvia, porque pensamos que todo lo estamos haciendo para proteger, para lograr el rendimiento del o la deportista. Pero como no nos hacemos las preguntas anteriores, igual no estamos llegando a esa conclusión de verdad, a ese análisis y a las respuestas que eso implica. Esto también sucede en más ocasiones de las que quisiéramos. Como conclusión, respecto al objetivo que nos planteamos inicialmente, el futuro del alto rendimiento no va solo de entrenar mejor, porque tenemos mejores equipamientos, más información científica para decidir mejor los detalles de carga, sino decidir mejor, cuidar mejor y coordinarnos mejor. Entonces vendrá la mejora en el entrenamiento y en el conjunto del rendimiento. Pero hagámonos la pregunta de si estamos mirando solo el trozo de rendimiento de mi área o podemos estar siendo partícipes desde la reflexión, las buenas preguntas, esas soft skills, mal llamadas soft skills, que no siempre aprendemos, de capacidad de decisión, capacidad de colaboración, capacidad de cuidado, capacidad de liderazgo, de coordinar, para que tengamos el mayor impacto en el ecosistema global, para desarrollar esos entornos donde sea más probable que estemos tomando mejores decisiones. Simplemente, algunas lecturas que os invito a tener, que tienen que ver también con factores como coordinación interdisciplinar, con decisión de soporte del staff y con la mirada de perspectiva de género. Espero puedan resultar interesantes. Muchas gracias por vuestra atención.",
+      "keywords": [
+        "futuro-rendimiento",
+        "soft-skills",
+        "coordinacion",
+        "liderazgo",
+        "ecosistema",
+        "cuidado"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿De qué dependerá el futuro del alto rendimiento más allá de los equipamientos tecnológicos?",
+        "¿Por qué son tan importantes las 'soft skills' para el desarrollo de ecosistemas deportivos de élite?"
+      ],
+      "related_terms": [
+        "habilidades blandas en el deporte",
+        "evolución del staff técnico",
+        "liderazgo colaborativo"
+      ],
+      "relevance_score": 5,
+      "context_before": "La automatización como vía para enfocarse en conversaciones de calidad y acciones humanas.",
+      "context_after": "Despedida del webinar y referencias finales a la perspectiva de género y la coordinación del staff."
+    }
+  ]
+}

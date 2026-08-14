@@ -1,0 +1,364 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+    "speaker": "Esther Morencos",
+    "total_duration": "00:23:41",
+    "total_duration_seconds": 1421,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:02",
+      "start_seconds": 1,
+      "end_seconds": 122,
+      "duration_seconds": 121,
+      "timestamp_url": "?t=1",
+      "title": "El desafío de la comunicación y fragmentación en el staff",
+      "summary": "Cada profesional (médico, preparador físico, analista) acude a las reuniones de staff con su conocimiento especializado. Sin embargo, si la comunicación es incompleta, las reuniones se estancan y los deportistas acaban recibiendo mensajes contradictorios que rompen la coordinación.",
+      "literal_quote": "Vamos a esa reunión con nuestro trozo del pastel... de repente, a veces pasan cosas como que el atleta recibe una información por un lado, otra por otro. Parece que no se han coordinado.",
+      "full_transcript": "Vamos con el primer bloque, que parte de una idea: comunicación, cultura y coordinación. Aprendemos cada uno nuestro rol físico, médico, fisioterapeuta, analista, nutricionista, todas las personas que nos podamos llegar a imaginar que están alrededor de ese deportista y que forman parte de un ecosistema o un contexto concreto. Cada una de esas personas nos hemos formado y aplicamos nuestro conocimiento. Vamos a esa reunión con nuestro trozo del pastel, nuestra perspectiva de la foto, que sin duda se basa en conocimiento, en buenos datos, pero eso nos sirve. No es lo único y no es suficiente si queremos mejorar los procesos, porque si no, da la sensación, y os habrá ocurrido seguramente, que esas reuniones no permiten avanzar claramente hacia ningún sitio. De repente, sale de allí y se han puesto en la mesa, se ha compartido, más o menos parece que hay una decisión... Pero de repente, a veces pasan cosas como que el atleta recibe una información por un lado, otra por otro. Parece que no se han coordinado, porque la comunicación no es completa y entonces uno tiene su trozo de la foto, pero no está unida con la del otro. Y esto pasa demasiado a menudo aún en muchísimos contextos.",
+      "keywords": [
+        "comunicacion",
+        "staff",
+        "ecosistema",
+        "coordinacion",
+        "fragmentacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema"
+      ],
+      "search_questions": [
+        "¿Por qué fallan las reuniones de staff en el deporte de alto rendimiento?",
+        "¿Qué problema genera la falta de coordinación al comunicar a los deportistas?"
+      ],
+      "related_terms": [
+        "reuniones de staff",
+        "comunicación multidisciplinar",
+        "gestión de la información"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte de la sesión sobre ecosistemas y comunicación en el staff.",
+      "context_after": "Explicación sobre cómo ir más allá del conocimiento técnico para crear entornos de decisión reales."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:02:03",
+      "end_timestamp": "00:04:12",
+      "start_seconds": 123,
+      "end_seconds": 252,
+      "duration_seconds": 129,
+      "timestamp_url": "?t=123",
+      "title": "Creación de entornos de decisión y cultura de colaboración",
+      "summary": "La cantidad de actores (stakeholders) que rodean al deportista en la élite es abrumadora. Para optimizar el trabajo, no basta con aplicar conocimiento experto; es fundamental diseñar una identidad, una cultura de trabajo y procesos claros sobre cómo se deciden las cosas.",
+      "literal_quote": "No es solo nuestro conocimiento puro del rol... va de crear entornos de decisión, no solamente aplicar mi parte.",
+      "full_transcript": "No es solo nuestro conocimiento puro del rol que desempeñamos en cuanto a saber aplicar nuestro expertise, sino que hay que saber cómo se decide, cómo se comunica, cómo se trabaja de verdad. Va de crear entornos de decisión, no solamente aplicar mi parte. La imagen que veis en la pantalla, en torno a un deportista, según en qué contextos de alto rendimiento y niveles de recurso, y si ya juntamos clubes, selección, la cantidad de stakeholders, de actores que rodean cosas que impactan en el día a día del atleta, es a veces abrumador. Si no ordenamos todas esas cuestiones desde la comunicación, la colaboración, una cultura, una identidad de cómo se deciden las cosas, por qué se deciden de una manera, cómo se comunican. Habrá un montón de personas trabajando, sin duda, con muchísima profesionalidad, con muy buen hacer y con un altísimo conocimiento y experiencia, pero que no acabamos de optimizar, que eso esté siendo eficiente en el día a día, que nos haga mejorar, que lo haga aún más sostenible y que la sensación para el deportista es que hay una línea clara por la que se avanza. Necesitamos trabajar también en poner todo eso en común y trabajar conjuntamente allá donde estamos, desde nuestro rol, en que haya una cultura determinada de forma de trabajar.",
+      "keywords": [
+        "entornos-decision",
+        "stakeholders",
+        "cultura-trabajo",
+        "identidad",
+        "colaboracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué se necesita para organizar a múltiples stakeholders alrededor de un deportista?",
+        "¿Por qué no es suficiente la aplicación del conocimiento experto en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "cultura de colaboración",
+        "toma de decisiones deportivas",
+        "gestión de stakeholders"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe el problema de la fragmentación y falta de comunicación en los equipos multidisciplinares.",
+      "context_after": "Se analiza el riesgo de tener demasiados datos sin un propósito claro ni acciones derivadas en las reuniones."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:04:13",
+      "end_timestamp": "00:06:48",
+      "start_seconds": 253,
+      "end_seconds": 408,
+      "duration_seconds": 155,
+      "timestamp_url": "?t=253",
+      "title": "El riesgo del exceso de datos sin acciones claras",
+      "summary": "Tener muchas plataformas y datos no garantiza el éxito. Las reuniones suelen estancarse porque se discuten métricas fragmentadas sin poner en la balanza el peso de cada variable ni definir quién y cómo aplicará las decisiones resultantes.",
+      "literal_quote": "A veces nos estamos quedando mucho tiempo en tener la reunión... Se discuten cosas fragmentadas. Nadie acaba de alinear y poner en la balanza el peso de cada cosa.",
+      "full_transcript": "La idea es que transformemos estas reuniones... De lograr, pensando además que era un buen lugar, que hubiese reuniones, que a veces ya es un buen paso porque no siempre las hay, que en esas reuniones hubiese ciertas personas participando, que se intentasen poner cosas en común. Pero en este momento en el que hay tanto dato, tanta tecnología que nos abruma y que parece que toda la reunión o todo este tipo de reuniones o puestas en común tiene que girar en torno a ciertos datos que hay en una nube, igual hay que girar un poco la perspectiva, que no va de seguir añadiendo datos o personas en esas reuniones, sino el motivo por el que se tiene esa puesta en común y lo que produce, a lo que deriva, los pasos que se dan a partir de esas reuniones. A veces nos estamos quedando mucho tiempo en tener la reunión, poner en común... Hay unos buenos sistemas de recogida de datos, de plataformas donde están más o menos unificados, pero sigue dejando incertidumbre en cuál es el siguiente paso claro. Cada uno llega a esa reunión, aporta su lado... Se discuten cosas fragmentadas. Nadie acaba de alinear y poner en la balanza el peso de cada cosa. Tomar una decisión... Y si aun así sigue quedando el: 'Ya, pero esto, ¿quién lo aplica? ¿Cuáles son los siguientes pasos?' Es un motivo de que nos sigamos estancando.",
+      "keywords": [
+        "datos",
+        "tecnologia",
+        "reuniones",
+        "alineacion",
+        "incertidumbre",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema"
+      ],
+      "search_questions": [
+        "¿Cuál es el peligro de centrar las reuniones de staff únicamente en datos?",
+        "¿Qué falta frecuentemente tras revisar la información en plataformas deportivas?"
+      ],
+      "related_terms": [
+        "sobrecarga de datos",
+        "pasos accionables",
+        "toma de decisiones basada en datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre la creación de un entorno de decisiones compartidas más allá del conocimiento técnico individual.",
+      "context_after": "Se destaca la importancia crítica de saber cómo comunicar las decisiones tomadas al deportista."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:06:50",
+      "end_timestamp": "00:08:56",
+      "start_seconds": 410,
+      "end_seconds": 536,
+      "duration_seconds": 126,
+      "timestamp_url": "?t=410",
+      "title": "La comunicación estructurada hacia el deportista",
+      "summary": "Tomar una decisión con buenos datos es solo un paso; el fracaso surge si no se organiza cómo y quién transmite esa información al atleta. Mensajes contradictorios por los pasillos generan dudas y echan a perder el trabajo técnico previo.",
+      "literal_quote": "¿Quién comunica qué a quién? ¿Cómo lo hace? Porque a veces son situaciones sensibles. Es hacia donde tenemos que girar esas reuniones.",
+      "full_transcript": "Salimos de esa reunión con: se puso en común, la gente está alineada, el entrenador o entrenadora, que al final es la cabeza que tiene todo el paraguas bajo de sí, se lleva una idea de lo que hay por delante en el día con los deportistas. Pero, ¿quién comunica a esa jugadora? Porque no es esa vez. Hay que pensar que son todas y cada una de las siguientes veces. Van a ocurrir cosas, que las jugadoras se comparan, que ahora se usa antes y de repente cambiamos a otro. ¿Por qué? Genera dudas. Eso pasa porque hay una cultura de trabajo donde las cosas se comunican, se colaboran, se alinean de una manera determinada y se busca que haya personas que son los responsables de ciertos datos, de ciertos procesos, pero son personas. Y lo final va dirigido a una o varias personas igualmente. Entonces, ¿cómo se van a accionar una serie de pasos? ¿Quién comunica qué a quién? ¿Cómo lo hace? Porque a veces son situaciones sensibles. Es hacia donde tenemos que girar esas reuniones. Parecen cosas menores. Incluso yo me he encontrado en conversaciones como: 'Ester, si esto ya se hace'. No, no se hace. Tener datos de cada parte de la foto y ponerlos en común es un paso de los restantes que tienen que suceder. Que eso se interprete bajo un contexto, que se tomen decisiones con las mejores opciones, que haya un camino a seguir, acciones claras.",
+      "keywords": [
+        "comunicacion",
+        "deportista",
+        "acciones-claras",
+        "alineacion",
+        "dudas"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Por qué es vital definir quién comunica los mensajes a los deportistas?",
+        "¿Cómo afectan las comunicaciones contradictorias al rendimiento y confianza del atleta?"
+      ],
+      "related_terms": [
+        "comunicación sensible",
+        "alineación del staff",
+        "gestión del deportista"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del exceso de datos y la falta de decisiones accionables en reuniones de staff.",
+      "context_after": "Se cuestiona el uso real de los datos recogidos si no impactan en las decisiones y la cultura diaria."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:08:56",
+      "end_timestamp": "00:11:07",
+      "start_seconds": 536,
+      "end_seconds": 667,
+      "duration_seconds": 131,
+      "timestamp_url": "?t=536",
+      "title": "Recogida de datos ineficaz y falta de toma de decisión",
+      "summary": "Tener reuniones periódicas y datos ordenados no asegura la optimización. Si se recogen datos sin un propósito claro y el deportista no percibe que se usen para decidir su entrenamiento, el sistema falla. Se necesita liderazgo para convertir datos y conversaciones en determinaciones.",
+      "literal_quote": "Se siguen recogiendo, pero al final el atleta no sabe si se están usando o no, o para qué, cuando de repente llega un motivo de decisión.",
+      "full_transcript": "Yo me he encontrado en pocos sitios donde el hecho de que en una reunión haya una costumbre de reuniones periódicas, personas que intervienen, datos ordenados, no quiere decir que se esté elevando al siguiente nivel la cultura de trabajo para optimizar aún más los procesos. Porque si no, nos seguiríamos encontrando en muchos sitios donde se están recogiendo datos, pero no se usan. Están ahí en la pantalla, pero se obvian y no se ve muy bien por qué. Se siguen recogiendo, pero al final el atleta no sabe si se están usando o no, o para qué, cuando de repente llega un motivo de decisión. No hay una decisión clara de esos datos, cuándo y cómo se recogen, según qué tipo de test o tecnología, quién ha hablado con la jugadora o el atleta y cuántas personas tienen información de diferentes conversaciones. Porque sabemos que las conversaciones tienen mucho valor y no son datos en una pantalla, pero también hay que alinearlas, porque forma parte de conocer a la persona y un liderazgo detrás de todo esto. Hay que caminar hacia ahí, eso es cultura de trabajo y cuando se logra avanzar, por experiencia, crea una situación. Hay que recorrer ese camino... Pero que nos preguntemos y reflexionemos si allá donde estamos y el rol desde el lugar desde donde lo ejercemos, la reunión está en la columna de la izquierda o en la columna de la derecha... Precisamente para que el flujo de información lleve a mejores decisiones y no solo a conversaciones aisladas o datos mirados aislados. Mucha información y poca decisión.",
+      "keywords": [
+        "recogida-datos",
+        "utilidad",
+        "toma-decisiones",
+        "liderazgo",
+        "cultura-trabajo"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Data Science",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Problema",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué pasa cuando un equipo recoge datos pero no toma decisiones con ellos?",
+        "¿Por qué el deportista pierde la confianza en la recogida de datos?"
+      ],
+      "related_terms": [
+        "recolección de datos",
+        "aplicabilidad de métricas",
+        "liderazgo en ciencias del deporte"
+      ],
+      "relevance_score": 4,
+      "context_before": "La importancia de estructurar quién y cómo se comunica con el deportista tras una reunión.",
+      "context_after": "Se introduce el concepto de 'Blueprint' o huella para rastrear y organizar procesos dentro del ecosistema."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:11:07",
+      "end_timestamp": "00:15:30",
+      "start_seconds": 667,
+      "end_seconds": 930,
+      "duration_seconds": 263,
+      "timestamp_url": "?t=667",
+      "title": "El concepto de 'Blueprint' (la huella del ecosistema)",
+      "summary": "Para mejorar continuamente, se debe analizar qué ocurrió con decisiones pasadas (el loop de decisión). Se adopta el concepto de 'Blueprint' desde la innovación empresarial para trazar la huella y trazabilidad de cada proceso, evaluando cómo se coordinan los pasos y evitando fricciones.",
+      "literal_quote": "El blueprint, la huella de un ecosistema. Es lo que permite analizar la trazabilidad de las cosas, los pasos que hay entre medias, de dónde se inicia un proceso, hasta dónde finaliza.",
+      "full_transcript": "Estoy segura de que esta frase también os es familiar en muchos contextos, porque se tiene claro a dónde vamos con todo esto. Un posible loop podría ser este... hay una reunión, pero tiene que haberse construido unos procesos para que esa reunión sea útil y para que haya una cultura determinada de trabajo. ¿Qué datos se recolectan?... ¿Estamos garantizando al menos que estamos viendo las fotos de diferentes lugares con el conjunto de datos que estamos tomando? qué sentido tienen cuando los interpretamos puestos en común. Porque a lo mejor yo estaba viendo un trozo, con lo cual la mentalidad abierta a escuchar al de enfrente... es tener una determinada cultura de trabajo... Entonces, permite llegar a decisiones, que será si entrena, si se adapta... En la reunión también se toman decisiones de quién comunica qué. De aquí salimos y el fisio qué le dice a esta jugadora... Porque si hay un desorden ahí... yo le dije una cosa. Y cuando esa jugadora sigue caminando y se planta en la sala del fisio, el fisio, que entendió su parte en la reunión, le dice otra cosa... Y empiezan contextos complejos donde ese plan que parecía que habíamos diseñado... de repente caen en el vacío... Muchas reuniones también empiezan con análisis de lo que se había decidido en la reunión anterior... ¿Se analiza qué ha pasado de lo que se hizo para poder usar lo que funcionó, lo que no, y estar mejorando este loop de decisión cada vez más y mejor y, por lo tanto, sea más sostenible? En innovación hay un concepto, que hace años se creó también muy el mundo empresarial y de la consultoría, que es el blueprint, la huella de un ecosistema. Es lo que permite analizar la trazabilidad de las cosas, los pasos que hay entre medias, de dónde se inicia un proceso, hasta dónde finaliza, cómo se coordinan cada uno de esos pasos. Como la huella, por el camino que tú andas. De manera que cuando miras atrás, puedes ver tus huellas y decir: 'Aquí se pisó aquí, aquí se pisó allá...'.",
+      "keywords": [
+        "blueprint",
+        "trazabilidad",
+        "loop-decision",
+        "innovacion",
+        "ecosistema"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué es el blueprint en el diseño de ecosistemas de alto rendimiento?",
+        "¿Por qué es importante evaluar las decisiones pasadas en las reuniones de staff?"
+      ],
+      "related_terms": [
+        "trazabilidad de decisiones",
+        "loop de feedback",
+        "huella del proceso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expone el problema de recopilar datos que no derivan en ninguna acción.",
+      "context_after": "Se aplica este concepto de trazabilidad y coordinación logística a las tareas diarias y viajes del equipo."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:15:30",
+      "end_timestamp": "00:18:25",
+      "start_seconds": 930,
+      "end_seconds": 1105,
+      "duration_seconds": 175,
+      "timestamp_url": "?t=930",
+      "title": "Coordinación logística y ejecución del ecosistema",
+      "summary": "La aplicación técnica pura (como un plan de fuerza o entrega de suplementos) es inútil si la logística detrás falla. Reservar instalaciones, coordinar material y gestionar horarios son las bases operativas ('huellas') que permiten que el entrenamiento ocurra.",
+      "literal_quote": "Eso es la aplicación más pura de mi conocimiento como profesional y mi área específica, pero no sucederá si todo lo demás no se ha coordinado para que ocurra.",
+      "full_transcript": "Pero esa coordinación se tiene que diseñar. Yo voy a una concentración y el lugar al que yo voy, esté el equipamiento del entrenamiento de fuerza que yo necesito y las horas del día donde eso va a suceder. Creo que todos nos imaginamos esas reuniones o trabajo, incluso sobre una plataforma digital, donde ha ido ocurriendo la coordinación con la reserva de ese espacio, el traslado de ese material, el horario del día de la concentración. Sea un contexto incluso con pocos recursos y pocas personas que puedan estar cubriendo ese contexto... Hay unas personas que han contribuido desde cada una de sus partes a que eso sea así y sea posible. Entonces, yo no me puedo preocupar solo de que ese día, en el día menos dos de la concentración, en el día uno, cuando llegamos de viaje, yo quiero hacer sentadillas, peso muerto, pliometría, sprints, trineos, o que cuando llego están las botas compresoras, el frío preparado o la suplementación, porque cada uno pueda seguir pensando en sus respectivas áreas. Yo sé que quiero dar una suplementación de creatina, que quiero hacer sentadillas o que quiero hacer no sé qué tarea jugada. Eso es la aplicación más pura de mi conocimiento como profesional y mi área específica, pero no sucederá si todo lo demás no se ha coordinado para que ocurra. Y eso lo entendemos aún mejor.",
+      "keywords": [
+        "logistica",
+        "coordinacion",
+        "concentraciones",
+        "ecosistema",
+        "recursos"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Aplicación práctica"
+      ],
+      "search_questions": [
+        "¿Qué se necesita antes de poder aplicar un conocimiento técnico en una sesión de entrenamiento?",
+        "¿Cómo afecta la logística al trabajo del preparador físico?"
+      ],
+      "related_terms": [
+        "coordinación de recursos",
+        "logística deportiva",
+        "gestión de concentraciones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del 'Blueprint' o huella de los procesos en la toma de decisiones.",
+      "context_after": "Se aborda la importancia de tener un propósito claro al comprar tecnología deportiva y evaluar su implementación."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "Diseño de ecosistemas en el alto rendimiento (Parte 2)",
+      "speaker": "Esther Morencos",
+      "start_timestamp": "00:18:25",
+      "end_timestamp": "00:23:41",
+      "start_seconds": 1105,
+      "end_seconds": 1421,
+      "duration_seconds": 316,
+      "timestamp_url": "?t=1105",
+      "title": "Implementación tecnológica y transformación cultural",
+      "summary": "Comprar tecnología o plataformas de datos es sencillo, pero implementarlas exitosamente requiere un propósito (ej. Return to Play, carga global), responsables claros y escalado. La transformación cultural surge al mapear procesos, detectar errores operacionales y reajustar los flujos reales de información.",
+      "literal_quote": "Comprar tecnología, pagar licencias es una cosa relativamente sencilla... pero, ¿se está implementando bien? Yo me he encontrado más casos donde la respuesta que dar es que no.",
+      "full_transcript": "Pero si vamos ampliando la foto de personas que intervienen, de áreas profesionales en el entorno del alto rendimiento... Si compramos la tecnología, si compramos el sistema de recuperación, si compramos la suplementación, ¿quién decide eso? ¿Quién lo implementa? ¿Cómo controlamos si está funcionando o no, o si hay que cambiarlo? Eso hay que trabajarlo. No sucede solo. Hay veces que puede parecer que sí, porque hay profesionales que ponen mucho de su parte... pero para que esto sea sostenible en el tiempo, hay que trabajarlo. Hay que trabajar en esa huella que después permita analizar si está funcionando. El propósito de por qué se hace. Compramos tecnología o decidimos que se incorpore una plataforma digital... ¿a qué? A ver la mejor disponibilidad posible de los jugadores, a controlar un proceso de return to play, a controlar la carga global de competiciones, a ver cuánto se usa y qué tal está siendo la implementación de las botas compresivas. ¿Cuál es el propósito? Eso me da una serie de señales convertidas en dato... ¿Quién es el responsable de cómo se ha recogido ese dato? ¿Dónde está? ¿Cómo se interpreta en una línea del tiempo?... Y todo eso, con qué ritual de conversaciones, reuniones... Como tengo la huella y la trazabilidad, puedo estar revisando si el sistema está funcionando. Y si no, detectarlo, abrazar el error también... decir: 'Oye, no se comunicó bien, no fue suficientemente claro el mensaje'... Incluso si un club está decidiendo si adquiere una plataforma donde va a recoger cierta información. Sí, pero eso, ¿quién lo usa? ¿Cómo se implementa? ¿Tiene un escalado?... Se puede comprar tecnología, pagar licencias es una cosa relativamente sencilla para muchos contextos con cierto presupuesto. Pero, ¿se está implementando bien? Yo me he encontrado más casos donde la respuesta que dar es que no, a que sí. Muchos de los procesos de transformación cultural desde la consultoría tienen que ver con analizar casos reales, casos concretos y hacer todo este proceso de mapeo, de estructura, de blueprint y de loops de información para cambiar precisamente la manera en la que se hacen las cosas. Por eso se llama transformación cultural.",
+      "keywords": [
+        "tecnologia",
+        "implementacion",
+        "transformacion-cultural",
+        "return-to-play",
+        "blueprint",
+        "error"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play",
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué fracasa la implementación de nueva tecnología en los clubes deportivos?",
+        "¿Qué implica realizar una transformación cultural basada en datos y tecnología?"
+      ],
+      "related_terms": [
+        "implementación de plataformas digitales",
+        "escalado tecnológico",
+        "gestión del error"
+      ],
+      "relevance_score": 5,
+      "context_before": "La relevancia de la coordinación logística sobre el conocimiento técnico experto.",
+      "context_after": "Cierre del fragmento proporcionado (fin de la exposición del bloque metodológico)."
+    }
+  ]
+}
