@@ -1,0 +1,438 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+    "speaker": "Miguel Alonso",
+    "total_duration": "00:25:19",
+    "total_duration_seconds": 1519,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:03:29",
+      "end_timestamp": "00:05:06",
+      "start_seconds": 209,
+      "end_seconds": 306,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=209",
+      "title": "El modelo de Avery Faigenbaum y el entrenamiento de fuerza",
+      "summary": "El modelo de Avery Faigenbaum posiciona el entrenamiento de fuerza y potencia como el engranaje central que facilita y potencia otras habilidades y capacidades fundamentales en la población infantojuvenil.",
+      "literal_quote": "El entrenamiento de fuerza y potencia hace, provoca y facilita que tanto las habilidades fundamentales de movimiento, la capacidad muscular, el trabajo de equilibrio y flexibilidad... se potencien.",
+      "full_transcript": "Una de las figuras importantes dentro del entrenamiento de fuerza, y sobre todo del entrenamiento de fuerza en niños, es Avery Faigebond, y no podemos empezar la clase sin citarlo. Esta gráfica explica bastante bien lo que él propone desde hace más de una década, como elemento o eje a través del que giran los demás elementos, habilidades o contenidos del entrenamiento en población infantojuvenil. Como veis, se representa en negro, es entrenamiento de fuerza y potencia, y se evoca esa posibilidad de que este entrenamiento de fuerza y de potencia hacen de engranaje de otros entrenamientos, o de otras capacidades y habilidades. Como veremos a lo largo de la clase y de las varias miniclases, el entrenamiento de fuerza y potencia hace, provoca y facilita que tanto las habilidades fundamentales de movimiento, la capacidad muscular, el trabajo de equilibrio y flexibilidad, o el trabajo de agilidad y su aplicación en condiciones más o menos no reconocibles, como puede ser la agilidad, se potencien. Y por eso tiene tanta importancia y tanto valor el trabajo de fuerza en poblaciones infantiles.",
+      "keywords": [
+        "avery-faigenbaum",
+        "entrenamiento-fuerza",
+        "potencia",
+        "habilidades-fundamentales",
+        "poblacion-infantil"
+      ],
+      "entities": [
+        "Avery Faigenbaum"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Miguel Alonso sobre el modelo de Avery Faigenbaum?",
+        "¿Dónde se habla del rol central de la fuerza en niños?",
+        "¿Cómo se aplica el modelo de Faigenbaum en el desarrollo motor?"
+      ],
+      "related_terms": [
+        "entrenamiento",
+        "de",
+        "fuerza",
+        "en",
+        "niños",
+        "performance",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la explicación teórica tras la presentación de la trayectoria profesional del ponente.",
+      "context_after": "Se introducen los tres beneficios fundamentales directos del entrenamiento de fuerza en los niños."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:05:59",
+      "end_timestamp": "00:07:18",
+      "start_seconds": 359,
+      "end_seconds": 438,
+      "duration_seconds": 79,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=359",
+      "title": "Tres beneficios fundamentales del entrenamiento de fuerza",
+      "summary": "Los tres beneficios principales en niños son la mejora de la aptitud y niveles de fuerza muscular, la reducción significativa del riesgo de lesión (clave para evitar el abandono deportivo) y el perfeccionamiento de las habilidades fundamentales del movimiento.",
+      "literal_quote": "El entrenamiento de fuerza mejora los niveles de fuerza en niños... reduce el riesgo de lesión en niños... y sabemos que mejoran las capacidades y las habilidades fundamentales del movimiento.",
+      "full_transcript": "Fundamentalmente, yo hablo de tres beneficios o efectos que tiene el entrenamiento de fuerza en niños. A pesar de que hay más. Incluso en lo cardiovascular, como veremos más adelante. Pero los tres fundamentales son, evidentemente, que el entrenamiento de fuerza mejora los niveles de fuerza en niños, o esa aptitud muscular de la que se habla en términos más científicos. Además, tiene un elemento clave que tiene que ver con la relación que tiene con las lesiones, y es que la evidencia es aplastante para explicar que el entrenamiento de fuerza reduce el riesgo de lesión en niños. Sabemos que el riesgo de lesión en niños es un disparador de abandono del entrenamiento y de la actividad deportiva. Por tanto, es un elemento de los más importantes. Y el tercero es que gracias al entrenamiento de fuerza, sabemos que mejoran las capacidades y las habilidades fundamentales del movimiento.",
+      "keywords": [
+        "beneficios-fuerza",
+        "prevencion-lesiones",
+        "aptitud-muscular",
+        "abandono-deportivo",
+        "habilidades-motoras"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios del entrenamiento de fuerza en niños?",
+        "¿Dónde se habla de prevención de lesiones en la infancia?",
+        "¿Por qué el entrenamiento de fuerza evita el abandono deportivo?"
+      ],
+      "related_terms": [
+        "beneficios",
+        "del",
+        "entrenamiento",
+        "de",
+        "fuerza",
+        "injury prevention",
+        "performance"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se supera el debate sobre los mitos del entrenamiento de fuerza en edades tempranas y se asume su necesidad.",
+      "context_after": "Se detallan los pilares metodológicos para construir un programa de fuerza y la relación con el estado madurativo."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:08:21",
+      "end_timestamp": "00:10:41",
+      "start_seconds": 501,
+      "end_seconds": 641,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=501",
+      "title": "Pilares para programar fuerza infantil",
+      "summary": "Un programa de fuerza sólido requiere enseñar la técnica, asegurar supervisión adecuada y aplicar progresiones lógicas basadas en la ciencia (ej. peso corporal antes de cargas, y fuerza antes que potencia). La falta de fuerza genera baja competencia motriz.",
+      "literal_quote": "Primero, entrenar la técnica. Segundo, asegurarse de que la supervisión es adecuada... Y tercero, que seamos capaces de programar en función de progresiones lógicas.",
+      "full_transcript": "El deportista que tiene unos pobres niveles de fuerza muscular inmediatamente desencadena movimientos o habilidades específicas no competentes o pobres. Y esto lo que hace es que cuando está jugando o desempeñando una actividad, perciba que tiene una baja competencia y, por lo tanto, su confianza hacia el movimiento es baja. Esto lo que hace es fomentar o potenciar un alto riesgo de abandono del deporte o de la actividad física... Los tres elementos fundamentales que aparecen en toda la bibliografía que podáis consultar cuando construimos un programa de fuerza son: primero, entrenar la técnica. Segundo, asegurarse de que la supervisión es adecuada... Y tercero, que seamos capaces de programar en función de progresiones lógicas basadas en la ciencia y, en caso de no poder progresar, regresar. Cuando hablamos de progresión, entendemos que, por lógica, empezar por ejercicios con técnica limpia, con ejercicios con el propio peso corporal e ir aumentando cuando ya la técnica está bien asentada, parece que es lógico y que nos da unas posibilidades de que el niño pueda construir una base sólida... Y por último, sobre el orden, podríamos decir que primero se construye la fuerza y luego se construye la potencia.",
+      "keywords": [
+        "tecnica",
+        "supervision",
+        "progresion-logica",
+        "peso-corporal",
+        "desarrollo-motor",
+        "programacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pilares de un programa de fuerza en niños?",
+        "¿Cómo progresar el entrenamiento de fuerza infantil?",
+        "¿Qué pasa si un niño tiene bajos niveles de fuerza?"
+      ],
+      "related_terms": [
+        "progresiones",
+        "lógicas",
+        "técnica",
+        "y",
+        "supervisión",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establece la conexión entre la falta de fuerza, la baja competencia percibida y el abandono de la actividad física.",
+      "context_after": "Se aborda la cuestión fundamental de a qué edad se puede comenzar a entrenar la fuerza en los niños."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:11:16",
+      "end_timestamp": "00:13:26",
+      "start_seconds": 676,
+      "end_seconds": 806,
+      "duration_seconds": 130,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=676",
+      "title": "Edad de inicio y plasticidad neural",
+      "summary": "Aunque hay beneficios desde los 5 años, la implementación en grupos es más viable a partir de los 6-8 años por la necesidad de madurez emocional para acatar instrucciones. Las adaptaciones en edad preadolescente son casi exclusivamente de carácter neural.",
+      "literal_quote": "En estas edades, nosotros aprovechamos la plasticidad neural que tiene lugar antes de la adolescencia y sabiendo que casi todas las adaptaciones... son vía neural.",
+      "full_transcript": "Se ha encontrado la evidencia de beneficios incluso a partir de los cinco años. Evidentemente, si tu grupo es numeroso, de más de 10, 12, 15 niños de cinco años, se hace muy difícil de gestionar. Pero lo que sí es evidente, y no hay evidencia contra esto, es que tiene que haber comenzado el entrenamiento de fuerza antes de la adolescencia. Nosotros sabemos, además, que antes de comenzar ese entrenamiento de fuerza, los niños deben tener al menos unos prerequisitos de equilibrio y control postural... Tienen que tener esa madurez emocional de recibir instrucciones. Por eso, antes de los cinco años es muy difícil poder hacerlo... os invito a que a partir de esas edades, seis, siete u ocho años, invitéis a vuestros chicos a empezar a introducirse en el mundo del entrenamiento de fuerza. Por tanto, en estas edades, nosotros aprovechamos la plasticidad neural que tiene lugar antes de la adolescencia y sabiendo que casi todas las adaptaciones que tienen lugar en este momento preadolescente son vía neural. No vamos a encontrar adaptaciones estructurales en forma de hipertrofia en ningún niño que no haya empezado a segregar testosterona.",
+      "keywords": [
+        "edad-inicio",
+        "plasticidad-neural",
+        "adaptaciones-neurales",
+        "madurez-emocional",
+        "hipertrofia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿A qué edad se debe empezar el entrenamiento de fuerza?",
+        "¿Por qué los niños no ganan hipertrofia antes de la adolescencia?",
+        "¿Qué adaptaciones ocurren en niños al entrenar fuerza?"
+      ],
+      "related_terms": [
+        "edad",
+        "de",
+        "inicio",
+        "y",
+        "plasticidad",
+        "neural",
+        "methodology"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la necesidad de progresiones lógicas y priorizar la fuerza antes que la potencia.",
+      "context_after": "Se contrastan los efectos del entrenamiento de fuerza con las recomendaciones clásicas de ejercicio aeróbico."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:13:42",
+      "end_timestamp": "00:15:24",
+      "start_seconds": 822,
+      "end_seconds": 924,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=822",
+      "title": "Entrenamiento de fuerza frente al ejercicio aeróbico",
+      "summary": "Al comparar intervenciones, el entrenamiento de fuerza logra beneficios iguales o superiores al trabajo aeróbico en salud ósea, cardiometabólica, mental y muscular, siendo únicamente superado en la adaptación cardiorrespiratoria específica.",
+      "literal_quote": "El entrenamiento de fuerza logra resultados similares o mejores en todos los ítems... y el trabajo aeróbico no es capaz de sustituir o de reemplazar plenamente ninguno de los beneficios del entrenamiento de fuerza.",
+      "full_transcript": "Se ha comparado los efectos que tiene el entrenamiento de fuerza contra el efecto del entrenamiento aeróbico en jóvenes... Las recomendaciones actuales, comparando una con otra, tienen efectos diferentes en realidad. Si nosotros comparamos cinco elementos básicos, como puede ser qué efecto tienen estas dos dosis diferenciadas sobre la salud ósea, sobre la salud cardiometabólica, sobre la salud mental o función cognitiva, sobre el fitness muscular y la prevención de lesiones y sobre el fitness cardiorrespiratorio. Fijaros cómo el entrenamiento de fuerza logra resultados similares o mejores en todos los ítems que os marco, excepto, evidentemente, en el fitness cardiorrespiratorio. En todo caso, logra dos puntos sobre tres y el trabajo aeróbico no es capaz de sustituir o de reemplazar plenamente ninguno de los beneficios del entrenamiento de fuerza. Por eso es tan importante que entendamos que el entrenamiento de fuerza debería ser el eje que vertebra todos los programas de entrenamiento en niños pequeños.",
+      "keywords": [
+        "ejercicio-aerobico",
+        "salud-osea",
+        "salud-cardiometabolica",
+        "fitness-muscular",
+        "comparativa"
+      ],
+      "entities": [
+        "Organización Mundial de la Salud"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Es mejor el entrenamiento de fuerza o el aeróbico en niños?",
+        "¿Qué beneficios exclusivos tiene la fuerza respecto al cardio?",
+        "¿Cómo impacta la fuerza en la salud metabólica infantil?"
+      ],
+      "related_terms": [
+        "entrenamiento",
+        "aeróbico",
+        "vs",
+        "fuerza",
+        "performance"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detallaron las adaptaciones neurales esperadas en etapas preadolescentes.",
+      "context_after": "Se retoma el concepto del impacto de la fuerza sobre las habilidades motrices básicas como correr o saltar."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:15:42",
+      "end_timestamp": "00:16:46",
+      "start_seconds": 942,
+      "end_seconds": 1006,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=942",
+      "title": "Impacto en las habilidades fundamentales del movimiento",
+      "summary": "Desarrollar habilidades motrices (correr, saltar, control de objetos) antes de finalizar la niñez es vital. Sin el eje del entrenamiento de fuerza, el potencial de un niño para adquirir estas destrezas se ve fuertemente mermado.",
+      "literal_quote": "Parece normal pensar que si no entrenamos fuerza, el potencial de un niño respecto a la capacidad de desarrollar unas buenas habilidades fundamentales del movimiento, se va a ver reducido.",
+      "full_transcript": "El entrenamiento de fuerza tiene un efecto positivo sobre las habilidades fundamentales del movimiento, que son correr, saltar, desplazarse. Si trabajamos sobre las habilidades de control de objetos son lanzar, recepcionar. Son todas esas actividades que se os ocurren que pueden hacer los niños cuando juegan a algo... Nosotros intentamos fomentar esa idea de que esas habilidades tienen que estar aprendidas antes de que acabe la niñez. Y si volvemos a esa imagen que hemos mostrado anteriormente, de cómo vertebra o cómo hace de eje el trabajo de entrenamiento de fuerza y potencia en la capacidad de mejora de las habilidades fundamentales del movimiento, como acelerar, saltar, esprintar, cambiar de dirección, parece normal pensar que si no entrenamos fuerza, el potencial de un niño respecto a la capacidad de desarrollar unas buenas habilidades fundamentales del movimiento, se va a ver reducido.",
+      "keywords": [
+        "habilidades-motrices",
+        "correr",
+        "saltar",
+        "lanzar",
+        "potencial-motor"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la fuerza al aprendizaje de habilidades motoras?",
+        "¿Qué ocurre si un niño no desarrolla habilidades fundamentales?",
+        "¿Por qué la fuerza vertebra los movimientos básicos?"
+      ],
+      "related_terms": [
+        "habilidades",
+        "fundamentales",
+        "del",
+        "movimiento",
+        "performance"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se justificó por qué el entrenamiento de fuerza es superior al aeróbico en la salud general del niño.",
+      "context_after": "Se presenta evidencia sistemática sobre cómo la fuerza impacta estadísticamente en la prevención de lesiones."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:17:07",
+      "end_timestamp": "00:19:52",
+      "start_seconds": 1027,
+      "end_seconds": 1192,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1027",
+      "title": "Reducción específica de lesiones mediante la fuerza",
+      "summary": "El trabajo aislado de fuerza reduce el riesgo general de lesiones hasta un 70%. Combinar indiscriminadamente múltiples tipos de entrenamiento disminuye esta efectividad; la prescripción debe ser específica al riesgo de cada deporte y segmento corporal.",
+      "literal_quote": "La reducción solo con entrenamiento de fuerza en general fue de hasta un 70 %... Lo que se ha visto es que combinar muchos de ellos, casi de forma indiscriminada... pierden de forma estadística efecto sobre las lesiones.",
+      "full_transcript": "Esta primera lo que nos habla es de la efectividad de las intervenciones de entrenamiento de fuerza. Es una revisión sistemática sobre la reducción de lesiones... Y se encontraron que la reducción solo con entrenamiento de fuerza en general fue de hasta un 70 %. Esto es superimportante. No solo eso, sino que cuando vamos a elementos concretos, como por ejemplo en la reducción de las lesiones... por ejemplo, una lesión como la del tobillo, lesiones por estabilidad o por inestabilidad, el trabajo de estabilidad reduce hasta un 86 % de lesiones... Hay un efecto muy grande del trabajo de fuerza sobre la reducción de riesgo de lesiones como concepto, de un 70 %. Ningún otro de forma aislada de los contenidos de entrenamiento es capaz de superar este efecto del entrenamiento de fuerza... Lo que se ha visto es que más número de contenidos no es mejor. Lo que se ha visto es que combinar muchos de ellos, casi de forma indiscriminada, el artículo habla de incluso nueve combinaciones diferentes, pierden de forma estadística efecto sobre las lesiones en general y sobre las lesiones en tren inferior. El componente óptimo depende, por lo tanto, de dónde queremos ir a reducir el riesgo de lesión. Cada deporte tendrá una serie de riesgos asociados. Si queremos reducir las lesiones en tobillos, el trabajo de estabilidad es fundamental. Si queremos reducir las lesiones en muslo, el trabajo de flexibilidad es fundamental. Si queremos reducir el riesgo de lesiones en rodilla o en general, el trabajo de fuerza o la combinación de fuerza con estabilidad es fundamental.",
+      "keywords": [
+        "reduccion-lesiones",
+        "revision-sistematica",
+        "estabilidad",
+        "flexibilidad",
+        "especificidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿En qué porcentaje reduce la fuerza las lesiones infantiles?",
+        "¿Es mejor combinar muchos tipos de entrenamiento para evitar lesiones?",
+        "¿Cómo prevenir lesiones articulares específicas en niños?"
+      ],
+      "related_terms": [
+        "reducción",
+        "del",
+        "riesgo",
+        "de",
+        "lesiones",
+        "injury prevention"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se argumentó la importancia de la fuerza para consolidar la motricidad básica infantil.",
+      "context_after": "Se plantea un debate sobre los modelos metodológicos clásicos para organizar los contenidos del entrenamiento a lo largo del tiempo."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:20:58",
+      "end_timestamp": "00:23:06",
+      "start_seconds": 1258,
+      "end_seconds": 1386,
+      "duration_seconds": 128,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1258",
+      "title": "Crítica a los modelos de periodos sensibles",
+      "summary": "Las perspectivas contemporáneas cuestionan los modelos clásicos que fragmentaban el entrenamiento en \"periodos sensibles\" independientes. La evidencia indica que las capacidades físicas interactúan profundamente, superando la antigua concepción de que si una habilidad no se entrena a una edad concreta, su potencial se pierde definitivamente.",
+      "literal_quote": "Parecía entenderse antiguamente... que si un niño no mejora la fuerza o no la entrena, o la resistencia, o la velocidad en una o en otra etapa... ya no va a poder entrenarla. Ya sabemos que eso es mentira.",
+      "full_transcript": "Después de ese artículo, surge este otro de Van Gure... Este artículo nos hace reflexionar sobre si estos modelos que os acabo de comentar ahora mismo, son modelos, muchos de ellos basados en eso que hablamos o en eso que se llamó en su momento periodos sensibles. Aquellos modelos hablaban fundamentalmente de cualidades físicas de forma separada o independiente, asumiendo que estos sistemas o subsistemas maduran de forma independiente. Esto quiere decir, parecía entenderse antiguamente o hace 20 años, que si un niño no mejora la fuerza o no la entrena, o la resistencia, o la velocidad en una o en otra etapa de su maduración, ya no va a poder entrenarla posteriormente. Y casi asumiendo que mientras haces una cosa, no tienes por qué entrenar otra o no se tocan las habilidades durante esa maduración. Ya sabemos que eso es mentira, que no solo se tocan, sino que el efecto de la mejora de una afecta de forma positiva a la mejora de otras. Además, otra crítica que hicieron estos autores sobre estos modelos más antiguos, más clásicos, es que no especificaban de verdad los métodos de entrenamiento para desarrollar cada una de esas capacidades.",
+      "keywords": [
+        "periodos-sensibles",
+        "van-gure",
+        "desarrollo-motor",
+        "cualidades-fisicas",
+        "interaccion-sistemas"
+      ],
+      "entities": [
+        "Van Gure"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué son los periodos sensibles en el entrenamiento infantil?",
+        "¿Por qué se critican los modelos clásicos de periodos sensibles?",
+        "¿Las capacidades físicas se desarrollan de forma independiente?"
+      ],
+      "related_terms": [
+        "periodos",
+        "sensibles",
+        "modelos",
+        "clásicos",
+        "methodology"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detallaron pautas concretas para combinar estímulos de fuerza orientados a la reducción de lesiones.",
+      "context_after": "Se establecen los verdaderos factores que modulan los momentos óptimos de aprendizaje en el entrenamiento."
+    },
+    {
+      "id": "V01-009",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:23:12",
+      "end_timestamp": "00:25:00",
+      "start_seconds": 1392,
+      "end_seconds": 1500,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1392",
+      "title": "Factores que influyen en el desarrollo y metodología",
+      "summary": "Si existen periodos de mayor sensibilidad para adquirir habilidades, estos dependen de tres factores clave: la genética, la adaptación de la metodología de entrenamiento a la edad, y la experiencia deportiva previa del niño (training age).",
+      "literal_quote": "Si esos periodos existen, están influenciados por al menos tres elementos cruciales... genética... metodología de entrenamiento... y la experiencia previa.",
+      "full_transcript": "Esta nueva perspectiva que ellos nos abren a partir de 2020 es: es posible que sí haya periodos sensibles... Pero si existen esos periodos sensibles, no se relacionan tanto con cualidades, con tareas específicas motoras. ¿Qué quiere decir esto? Parece, la propuesta que estos autores hacen, es que puede haber momentos en los que haya que entrenar específicamente algunas habilidades o algunas tareas motrices. Y si esos periodos existen, están influenciados por al menos tres elementos cruciales. Uno de ellos es la genética y nosotros ahí no podemos tocar mucho, yo diría. Pero hay dos que sí podemos tocar. Uno de ellos es la metodología de entrenamiento. Nosotros podemos adaptar nuestro modelo de entrenamiento... en función de la edad en la que estamos entrenando. Lo segundo es, lo que en la ciencia o en la evidencia hablamos del training age, es la experiencia previa que tiene ese niño. Si tú, como padre, la primera experiencia deportiva que le ofreces a tu hijo es a partir de los 14 o 16 años, un niño de 10 años que haya empezado a los siete, tendrá más experiencia motriz y previa que este niño de 16. Por tanto, es importante que le podamos dar un entorno de experiencias previas importantes para que ellos o para que al menos nosotros como entrenadores, tengamos tiempo de desarrollar estos escenarios.",
+      "keywords": [
+        "genetica",
+        "metodologia-entrenamiento",
+        "training-age",
+        "experiencia-previa",
+        "adaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿De qué dependen los periodos de mayor adaptabilidad motora?",
+        "¿Qué es el training age en niños?",
+        "¿Cómo influye la experiencia previa en el desarrollo de la fuerza?"
+      ],
+      "related_terms": [
+        "training",
+        "age",
+        "experiencia",
+        "previa",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron las falencias de estructurar el entrenamiento infantil basándose de forma estricta en ventanas o periodos cerrados.",
+      "context_after": "El ponente da paso al siguiente bloque del webinar, centrado en partes más específicas y en cómo valorar la maduración."
+    }
+  ]
+}
