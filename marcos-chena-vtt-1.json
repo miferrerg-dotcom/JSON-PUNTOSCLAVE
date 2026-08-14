@@ -1,0 +1,319 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del preparador físico del fútbol en la actualidad",
+    "speaker": "Marcos Chena",
+    "total_duration": "00:19:02",
+    "total_duration_seconds": 1142,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-004",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:02:38",
+      "start_seconds": 2,
+      "end_seconds": 158,
+      "duration_seconds": 156,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "El fútbol como sistema imprevisible y las creencias limitantes",
+      "summary": "Se define el fútbol como un deporte impredecible donde los resultados dependen de la interacción de múltiples factores. Se invita a eliminar la creencia limitante de querer controlar el resultado, centrándose en estudiar exhaustivamente las variables que sí son controlables.",
+      "literal_quote": "Tenemos que partir de que el fútbol es un deporte imprevisible e impredecible... eliminar aquellas creencias limitantes que nos hacen estar incómodos con que los resultados que obtengamos no sean los que nosotros habíamos planificado.",
+      "full_transcript": "Después de esta presentación y de los agradecimientos que vuelvo a dar a todos aquellos que han pensado en mí para poder compartir este ratito con vosotros, vamos con la introducción. Aquí voy a intentar condensar qué es lo que dice la literatura científica de acuerdo con aquellos elementos que son importantes a la hora de tener en cuenta para poder desarrollar nuestra intervención, sabiendo que el rendimiento posiblemente es lo más importante en el fútbol profesional, teniendo en cuenta que el rendimiento está muy relacionado con la epidemiología lesional. Con el objetivo de sintetizar toda esta información, vamos a ver que tenemos que partir de que el fútbol es un deporte imprevisible e impredecible. Hoy en día, no tenemos datos concretos que nos digan qué tipo de situaciones, qué tipo de variables o qué tipo de información es la más importante para determinar el resultado en el juego. Porque si esto fuera así, ya habríamos inventado la manera de modificar el resultado o poder modificarlo a nuestro antojo, es decir, ganar siempre y habríamos modificado la situación contextual que tenemos a la hora de predecir o anticiparnos a posibles lesiones. Por supuesto que cada vez parece que estamos más cerca, pero no tenemos que olvidarnos de que el fútbol está desarrollado por jugadores, los cuales son seres complejos, donde parece ser que el resultado viene más determinado por la interacción de todos estos factores y esta matriz un poco indefinida, que realmente por la suma de todos aquellos factores que somos capaces de controlar. Porque muchos de aquellos factores que no podemos controlar condicionan aquellos factores que hemos controlado. De tal forma que aquí, me gustaría que hicierais una reflexión y que fuéramos capaces de eliminar aquellas creencias limitantes que nos hacen estar incómodos con que los resultados que obtengamos no sean los que nosotros habíamos planificado. Muchas veces, o la mayoría de las veces, suceden situaciones que no queremos y que, lógicamente, no queríamos que pasaran. Pero existen factores que nos limitan nuestra manera de actuar y sobre todo, nuestra manera de anticipar sucesos. Esto no quita para que nosotros tengamos que hacer un estudio exhaustivo de aquellas variables que sí podemos controlar y que realmente definen, en este caso, el perfil de la actividad.",
+      "keywords": [
+        "futbol",
+        "imprevisible",
+        "sistemas-complejos",
+        "creencias-limitantes",
+        "variables-controlables"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Marcos Chena sobre el fútbol como sistema imprevisible?",
+        "¿Dónde se habla de eliminar creencias limitantes respecto a los resultados?",
+        "¿Por qué es importante centrarse en las variables controlables del perfil de la actividad?"
+      ],
+      "related_terms": [
+        "deporte",
+        "imprevisible",
+        "creencias",
+        "limitantes",
+        "perfil",
+        "de",
+        "la",
+        "actividad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación y agradecimientos iniciales del webinar.",
+      "context_after": "Se profundiza en el perfil de la actividad y los diferentes perfiles que condicionan el rendimiento del jugador."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:02:38",
+      "end_timestamp": "00:05:46",
+      "start_seconds": 158,
+      "end_seconds": 346,
+      "duration_seconds": 188,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=158",
+      "title": "Interdependencia de los perfiles de rendimiento y factores contextuales",
+      "summary": "La literatura científica divide el perfil de la actividad en físico, fisiológico, de riesgo, psicológico y técnico-táctico. Estos perfiles están interconectados y totalmente condicionados por variables contextuales como el rival, el marcador, la ubicación, el rol posicional y la competición.",
+      "literal_quote": "El perfil de la actividad viene determinado por un montón de factores que sí podemos controlar y por otros que no... todos estos perfiles están totalmente condicionados uno por otro.",
+      "full_transcript": "Tenemos que tener muy claro cuál es el perfil de la actividad de fútbol. Y la literatura científica ha sido capaz de mostrarnos información y yo he intentado agruparla dentro de diferentes perfiles que nos podemos encontrar: el perfil fisiológico, el perfil físico, el perfil de riesgo, el perfil psicológico o el perfil técnico-táctico. La literatura científica describe variables que determinan cuál es el perfil de los futbolistas en este tipo de escenarios que os planteo. Pero todos estos perfiles están totalmente condicionados uno por otro. Mirad, aquí os pongo un poco qué es lo que dice la literatura científica. Esto no es mío. Y sabemos que en cuanto al perfil físico, por ejemplo, que hoy hay muchísimos datos de GPS, vemos que los jugadores pueden correr entre nueve y 14 kilómetros. Dejo un abanico un poco amplio, porque ahora os voy a mostrar la literatura científica en la que he trabajado, y que en función de los diferentes contextos, hay gente que tiende más a nueve, 10 kilómetros, hay otros que tienden más a 12, a 13 kilómetros. Depende de la posición, dependerá de un montón de cosas, como os pongo ahí. Del nivel del rival, del resultado, de la categoría, de la ubicación del partido. Pero lógicamente, esta capacidad que tú tienes de recorrer una cantidad de metros va a venir condicionada también por tu perfil fisiológico. Es decir, ese futbolista, de acuerdo con el consumo de oxígeno máximo, sabemos que existen capacidades que están relacionadas con la exposición condicional que tú tienes en competición. Pero es que seguramente esa exposición también venga determinada por el perfil psicológico, es decir, los niveles de activación que tengas, el nivel de estrés, el nivel de presión. Seguramente también venga condicionado por el perfil técnico-táctico del partido, es decir, cuánto me expone el rival. Tengo el balón, no lo tengo. Viene condicionado también por el perfil de riesgo, porque esta distancia total o esta distancia que puedo hacer en altas intensidades o esta disminución del rendimiento después de hacer un esfuerzo exigente o después de hacer un periodo de máxima exigencia del partido, dentro del partido va a venir determinado si vienes de lesión, si no vienes de lesión, si has tenido una inactividad recientemente debido a un proceso lesivo, etcétera. Y todos estos perfiles que están condicionados entre ellos, están condicionados por variables situacionales, variables contextuales. El rival te va a exponer a un tipo de contexto, el resultado de empezar perdiendo, ya está totalmente evidenciado en la literatura científica que condiciona el perfil físico de los jugadores, la ubicación del partido, el rol. No es lo mismo un central que un jugador que juega en banda, que juega por fuera, o un jugador que juega por dentro, como mediocentro. No es lo mismo las diferentes edades, el sexo, la competición, la categoría, el país donde se desarrolla este fútbol. Es decir, el perfil de la actividad viene determinado por un montón de factores que sí podemos controlar y por otros que no podemos controlar.",
+      "keywords": [
+        "perfil-actividad",
+        "perfil-fisico",
+        "perfil-psicologico",
+        "variables-contextuales",
+        "gps",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los perfiles de rendimiento que menciona la literatura científica según Marcos Chena?",
+        "¿Cómo afectan las variables contextuales al rendimiento de un futbolista?",
+        "¿Qué relación existe entre el perfil físico y factores como el rival o la ubicación del partido?"
+      ],
+      "related_terms": [
+        "perfiles",
+        "de",
+        "rendimiento",
+        "variables",
+        "situacionales",
+        "contexto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre la naturaleza impredecible del fútbol y la necesidad de estudiar lo controlable.",
+      "context_after": "Explicación sobre cómo estas variables se integran en las ciencias de la complejidad y sistemas dinámicos."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:05:46",
+      "end_timestamp": "00:07:32",
+      "start_seconds": 346,
+      "end_seconds": 452,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=346",
+      "title": "Las ciencias de la complejidad y la toma de decisiones",
+      "summary": "El entorno del futbolista está regulado por las ciencias de la complejidad, tratándose de sistemas dinámicos con autoorganización e idiosincrasia propia. La clave del preparador físico es integrar toda esta información para tomar decisiones, especialmente en momentos comprometidos.",
+      "literal_quote": "Tenemos que saber que son sistemas dinámicos, que son sistemas complejos, que tienen sus propios procesos de autoorganización... La clave estaría en ser capaz de integrar toda esta información para poder sacar aquellas conclusiones que nos permitan tomar decisiones en momentos comprometidos.",
+      "full_transcript": "Pero tenemos que saber que todo esto se da dentro de un entramado tan complejo que viene regulado por aquellas ciencias de la complejidad que muchas veces nos ponen en una situación incómoda. Tenemos que saber que son sistemas dinámicos, que son sistemas complejos, que tienen sus propios procesos de autoorganización, tienen su propia manera de entender la vida y su propia sensibilidad. Cada uno de los futbolistas tiene su idiosincrasia, al igual que el club y el contexto del entorno. Todo esto genera un escenario bastante complejo a la hora de determinar qué tipo de intervenciones debemos tener en cuenta, sabiendo que lo que planifiquemos no siempre tendrá el resultado esperado. Como os digo, esto viene determinado por todos estos autores. Si los queréis leer o si necesitáis alguno de estos artículos, me los pedís. Simplemente quiero que os quedéis con que hay ciertas variables que para nosotros deberían ser interesantes como especialistas en la preparación física del fútbol moderno, que hoy en día tenemos mecanismos, recursos y dispositivos para poder controlar todo esto. La clave estaría, bajo mi punto de vista, en ser capaz de integrar toda esta información para poder sacar aquellas conclusiones que nos permitan tomar decisiones en momentos comprometidos. En momentos normales, pero sobre todo en momentos comprometidos.",
+      "keywords": [
+        "ciencias-complejidad",
+        "sistemas-dinamicos",
+        "autoorganizacion",
+        "toma-decisiones",
+        "integracion-informacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué papel juegan las ciencias de la complejidad en la preparación física?",
+        "¿Dónde se habla de integrar información para tomar decisiones en el fútbol?",
+        "¿Por qué es importante considerar al futbolista como un sistema complejo?"
+      ],
+      "related_terms": [
+        "ciencias",
+        "de",
+        "la",
+        "complejidad",
+        "sistemas",
+        "dinámicos",
+        "tomar",
+        "decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Desglose de los múltiples perfiles y variables que afectan al rendimiento del jugador en los partidos.",
+      "context_after": "Definición de las funciones principales del preparador físico, enfocadas principalmente en la disponibilidad y prevención."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:07:32",
+      "end_timestamp": "00:11:28",
+      "start_seconds": 452,
+      "end_seconds": 688,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=452",
+      "title": "La disponibilidad del jugador y el equilibrio prevención-optimización",
+      "summary": "El éxito deportivo está asociado a una menor epidemiología lesional y mayor disponibilidad. Se prioriza tener al jugador disponible al 85-90% de forma regular sobre tenerlo al 100% un solo día. Prevención de lesiones y optimización del rendimiento son procesos inseparables y recíprocos.",
+      "literal_quote": "Vamos a mantener la disponibilidad de los jugadores por encima de que estén al 100 % de su rendimiento... entiendo que todo aquello que previene acaba optimizándome y aquello que me optimiza acaba previniendo lesiones.",
+      "full_transcript": "A partir de aquí, ¿qué podemos decir? Que una de nuestras principales funciones como preparadores físicos es reducir el impacto que puede tener la competición y el entrenamiento sobre la salud de nuestros tejidos. ¿Por qué? Porque la epidemiología lesional está muy relacionada con el éxito y el rendimiento en fútbol. De hecho, os planteo un artículo científico donde los autores nos dicen que, posiblemente, uno de los mensajes más importantes que deberíamos transmitir al cuerpo técnico es: vamos a mantener la disponibilidad de los jugadores por encima de que estén al 100 % de su rendimiento, porque el que estén disponibles para poder competir, aunque sea al 85 % o al 90 %, es mucho más importante que tenerlo un día al 100 % y el resto de la temporada no tenerlo. Este contexto nos tiene que hacer pensar sobre la importancia que tiene la disponibilidad para que los jugadores puedan tener una regularidad en el entrenamiento y en la exposición a la competición, y que esto nos permita ponernos al nivel competitivo que nos exige el contexto en el que nos presentemos. Por lo tanto, ya os digo que hay una asociación muy grande. Aquí os planteo otro artículo donde se estudiaron las grandes ligas durante los últimos años y donde se observa que aquellos equipos que tuvieron mayor éxito, tanto a nivel nacional, en sus competiciones nacionales, como a nivel internacional, fueron aquellos que tuvieron menos días de baja y, por lo tanto, menos jugadores lesionados. Es decir, disponían de mayor capacidad para tener alternativas futbolísticas a lo largo de todas las competiciones. Uno de los planteamientos que nos hacemos es: el entrenamiento que nosotros desarrollamos durante el periodo competitivo o durante el periodo preparatorio nos tiene que ayudar a que el jugador pueda competir mucho mejor y durante más tiempo. Y habrá otro tipo de entrenamiento que nos ayude a preparar al sistema para que ese jugador pueda entrenar. Creo que es importante que entendamos que la disponibilidad es un factor importante, pero que nuestra intervención no solo puede basarse en mantener a los jugadores disponibles, porque entonces dejaríamos de presentar escenarios susceptibles de ser asimilados por el deportista para mejorar sus capacidades. Por lo tanto, tenemos que encontrar ese equilibrio donde la prevención de lesiones y la optimización del rendimiento sean capaces de sincronizarse o de equilibrarse de manera óptima. Esto es lo difícil. Aquí es donde viene un poco el arte del entrenamiento. También es cierto que es muy difícil entender por separado la prevención de lesiones y la optimización del rendimiento. ¿Por qué? Porque bajo mi punto de vista y un poco viendo la experiencia práctica, entiendo que todo aquello que previene acaba optimizándome y aquello que me optimiza acaba previniendo lesiones o protegiéndome de las lesiones. Buscar ese efecto protector también a través del entrenamiento. Y eso pasa por generar ciertos estímulos que superen ciertos umbrales y planteen un refuerzo a mi estructura para la exigencia específica que me va a demandar mi competición.",
+      "keywords": [
+        "disponibilidad",
+        "epidemiologia-lesional",
+        "prevencion",
+        "optimizacion",
+        "equilibrio",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué mensaje importante transmite Marcos Chena sobre la disponibilidad frente al rendimiento máximo?",
+        "¿Dónde se explica la relación entre el éxito deportivo y el número de lesiones?",
+        "¿Por qué es difícil separar la prevención de lesiones de la optimización del rendimiento?"
+      ],
+      "related_terms": [
+        "disponibilidad",
+        "de",
+        "los",
+        "jugadores",
+        "prevención",
+        "y",
+        "optimización",
+        "impacto",
+        "en",
+        "la",
+        "salud"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de tomar decisiones basadas en la integración de datos y la complejidad del entorno.",
+      "context_after": "Análisis estadístico sobre la evolución de lesiones isquiotibiales en el fútbol de élite."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:11:28",
+      "end_timestamp": "00:15:08",
+      "start_seconds": 688,
+      "end_seconds": 908,
+      "duration_seconds": 220,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=688",
+      "title": "Aumento de lesiones isquiotibiales y reducción de estrés tisular",
+      "summary": "A pesar de contar con más recursos, las lesiones isquiotibiales han aumentado entre un 12% y un 24%, produciéndose principalmente por esprintar y durante los últimos minutos de las partes. Asumiendo que las lesiones no desaparecerán, el objetivo es aplicar estrategias que reduzcan el estrés en los tejidos y refuercen las estructuras.",
+      "literal_quote": "La proporción, sobre todo de las lesiones isquiotibiales, ha aumentado en un 12 y un 24 %... No se van a erradicar las lesiones por todo el complejo que hay detrás... Que encontremos aquellas estrategias que nos permitan reducir el impacto negativo que pueda tener la competición.",
+      "full_transcript": "Otro de los artículos interesantes, y que creo que tenemos que tener claros hoy en día, son estos estudios de características epidemiológicas que hemos tenido en los últimos años con Ekstrand, Hägglund y todo este grupo de investigación de la FIFA y de la UEFA. Hablan un poco de cómo ha evolucionado la epidemiología lesional en el fútbol en los últimos años, sabiendo que cada vez hay más medios, más recursos y más gente, pero también más competición. Los esfuerzos o las exigencias del juego también han cambiado. Los jugadores vienen con otro tipo de perfil. Las configuraciones de las competiciones son totalmente distintas. ¿Qué ha pasado? Lo que os pongo aquí. La proporción, sobre todo de las lesiones isquiotibiales, ha aumentado en un 12 y un 24 % con respecto a años anteriores. Estos son datos sacados de los grandes equipos de los últimos años, desde la temporada 2001-2002 hasta la temporada 2021-2022. En los últimos años, ¿qué es lo que ha pasado en epidemiología lesional, sobre todo a nivel muscular? Sigue apareciendo que el correr y el esprintar es el mecanismo más común para producir estas lesiones musculares, sobre todo las lesiones de la cadera posterior. Sabemos también que los últimos minutos de la primera parte y de la segunda parte es donde más suceden. Es decir, no ha cambiado mucho con respecto a años anteriores. No deja de ser fútbol. Nos tranquiliza que estamos ejerciendo el mismo tipo de deporte, pero algo ha pasado para que el número de lesiones y el día de ausencias hayan aumentado en los últimos años. Como os pongo aquí, la tasa de lesiones isquiotibiales ha aumentado tanto en los entrenamientos como en los partidos. Por lo tanto, algo está sucediendo que no nos está dejando acabar definitivamente con las lesiones. Y esto es algo que quiero dejar claro: no va a pasar. Yo creo que no va a pasar. Creo que la lesión es parte de nuestro proceso, pero es un hándicap importante para poder desarrollar nuestra función principal, que es rendir, ganar partidos, ganar títulos, generar situaciones de ascenso. No se van a erradicar las lesiones por todo el complejo que hay detrás. Sin embargo, creo que toda esta información nos tiene que hacer reflexionar y ser capaces de plantear estrategias de entrenamiento que nos permitan, por un lado, reforzar todas aquellas estructuras para evitar que los jugadores se puedan lesionar con tanta frecuencia, es decir, reducir de alguna manera el índice de lesiones y, por otro lado, ser capaces de, a través de nuestro entrenamiento, equilibrar aquel impacto que puede tener tanto la competición como el entrenamiento en los diferentes tejidos. No todos los tejidos necesitan del mismo estímulo ni del mismo tiempo para poder recuperarse. Que encontremos aquellas estrategias que nos permitan reducir el impacto negativo que pueda tener la competición y el entrenamiento, de tal forma que podamos reducir estrés en los diferentes tejidos, que al final lo que se lesionan son los tejidos de los jugadores. Y no todos responden de la misma manera.",
+      "keywords": [
+        "lesiones-isquiotibiales",
+        "esprintar",
+        "estres-tisular",
+        "tejidos",
+        "epidemiologia",
+        "fatiga"
+      ],
+      "entities": [
+        "Ekstrand",
+        "Hägglund",
+        "FIFA",
+        "UEFA"
+      ],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué estadísticas muestra Marcos Chena sobre el aumento de las lesiones isquiotibiales?",
+        "¿Por qué han aumentado las lesiones en los últimos años a pesar de haber más recursos?",
+        "¿Cómo debe gestionar el preparador físico el estrés tisular de los jugadores?"
+      ],
+      "related_terms": [
+        "epidemiología",
+        "lesional",
+        "lesiones",
+        "isquiotibiales",
+        "impacto",
+        "negativo",
+        "estrés",
+        "en",
+        "tejidos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Priorización de la disponibilidad del jugador y la simbiosis entre prevenir lesiones y optimizar el rendimiento.",
+      "context_after": "Reflexión sobre la desconexión temporal entre la generación de literatura científica y su aplicación en la práctica profesional."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:15:08",
+      "end_timestamp": "00:19:02",
+      "start_seconds": 908,
+      "end_seconds": 1142,
+      "duration_seconds": 234,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=908",
+      "title": "La brecha entre literatura científica y práctica real",
+      "summary": "Existe un gran desfase temporal entre la investigación científica y su llegada a la práctica de campo. Se recomienda adoptar una actitud crítica ante los artículos publicados, buscando aplicar la opción 'menos mala' que mejor se adapte al contexto y necesidades individuales del equipo.",
+      "literal_quote": "Existe una brecha muy grande entre la literatura científica y aquella propuesta más teórica, y la exposición práctica... creo que la mejor manera es intentar buscar aquellos artículos que me permitan saber qué es lo menos malo que yo puedo hacer en el contexto.",
+      "full_transcript": "A partir de aquí, y para no extenderme más en esto, entiendo que si nuestro objetivo es reducir el índice de lesiones y aumentar el rendimiento deportivo de los deportistas, tenemos que no solo ser capaces de integrar dentro de nuestra intervención la experiencia que nosotros tenemos de años atrás, sino de ser capaces también de almacenar aquella experiencia que tienen otros compañeros en otros contextos. Porque nuestro contexto nunca es igual, aunque trabajemos siempre en el mismo sitio, con las mismas condiciones, con los mismos jugadores. Esto ayuda mucho a que haya una regularidad en cuanto a los comportamientos, hábitos, etcétera, y puede ser más predecible la situación, o podamos estar mucho más seguros en un entorno de confianza para poder desarrollar esto. Sí que es cierto que es muy importante que entendamos que existen otros contextos que nos pueden ayudar de alguna forma a manipular o a variar nuestra propuesta. También es verdad que en Houston tenemos un problema, y es que cuando nosotros queremos adquirir el conocimiento de otras personas a través de los artículos científicos o poder hablar con ellos, y queremos implementarlo en nuestro sistema, ha pasado un tiempo donde la pregunta que yo me hice para responder de forma inmediata, se responde dentro de meses o dentro de años. Parece ser que existe una brecha muy grande entre la literatura científica y aquella propuesta más teórica, y la exposición práctica. De alguna manera tenemos que ser capaces de reducir esta brecha. Parece ser, como dice el autor, que estamos a años luz, o en este caso, estamos a 36.000 kilómetros del cielo. Estamos muy lejos. Porque si nosotros nos hacemos una pregunta como preparadores físicos: ¿qué tipo de sistema de entrenamiento me puede ayudar a mejorar el rendimiento neuromuscular de mis deportistas? Si tengo que plantearme esta pregunta, generar un artículo, generar una propuesta de investigación, sacar resultados, analizarlos estadísticamente, sacar conclusiones, presentarlo a una revista científica que me lo revise, hacer las revisiones y las correcciones pertinentes, me lo publican, y ahora mi compañero es capaz de ver esa publicación que ha salido en redes sociales de un artículo que yo hice hace tres años. Esto es muy complicado. Dicho esto, entiendo que como doctor en Ciencias del Deporte y como apasionado por la formación, creo que es importante que tengamos en cuenta la literatura científica, pero creo que es importante que cribemos y que tengamos esa actitud crítica con respecto a todo lo que leemos, con el objetivo de sacar aquellas ideas más relevantes para poder presentar una intervención que se ajuste al contexto en el que estamos trabajando. Porque nuestro objetivo va a ser satisfacer las demandas del juego y ser capaces de generar un efecto protector ante las exigencias y las características de este deporte. Dicho esto, creo que la mejor manera es intentar buscar aquellos artículos que me permitan saber qué es lo menos malo que yo puedo hacer en el contexto en el que estoy trabajando. De esta forma, estaré mucho más preparado de tener alternativas para poder adaptarme a las diferentes circunstancias y poder dar, en la medida de lo posible, aquella dosis de trabajo individualizado y contextualizado en el entorno en el que me encuentro.",
+      "keywords": [
+        "literatura-cientifica",
+        "brecha-practica",
+        "dosis-individualizada",
+        "contexto",
+        "actitud-critica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué problema expone Marcos Chena sobre el tiempo de publicación de la literatura científica?",
+        "¿Dónde se habla de la necesidad de tener una actitud crítica al leer estudios científicos?",
+        "¿Cómo se debe adaptar la literatura científica al entorno real de trabajo?"
+      ],
+      "related_terms": [
+        "literatura",
+        "científica",
+        "brecha",
+        "teoría",
+        "y",
+        "práctica",
+        "actitud",
+        "crítica",
+        "contexto"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de la epidemiología de lesiones y la importancia de minimizar el estrés en los tejidos.",
+      "context_after": "Finalización de la intervención (fin del fragmento)."
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del preparador físico del fútbol en la actualidad",
+    "speaker": "Marcos Chena",
+    "total_duration": "00:26:44",
+    "total_duration_seconds": 1604,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-010",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:02:09",
+      "start_seconds": 4,
+      "end_seconds": 129,
+      "duration_seconds": 125,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4",
+      "title": "Evolución de las exigencias de alta intensidad en el fútbol",
+      "summary": "La literatura científica evidencia que las exigencias condicionales han aumentado en los últimos años. A pesar de que el tiempo útil de juego ha disminuido, el número de sprints, acciones a alta intensidad y esfuerzos explosivos han crecido exponencialmente gracias a las mejoras tácticas y físicas.",
+      "literal_quote": "Lo que podemos destacar es que no solo ha habido un aumento del rendimiento en los esfuerzos de alta intensidad... sino que teniendo en cuenta que el tiempo útil, el tiempo de trabajo, ha disminuido, el número de esfuerzos explosivos es mayor.",
+      "full_transcript": "Después de esa primera parte de introducción que hemos hecho al tema de esas necesidades que tenemos que tener en cuenta los preparadores físicos del fútbol actual, creo que es necesario abordar este punto con cierto detenimiento: la evolución de las exigencias del fútbol. Es verdad que el fútbol, como bien sabéis, ha ido evolucionando a lo largo de los años. De hecho, ya tenemos artículos científicos que no solo nos muestran los resultados que ha habido en ligas profesionales. Por ejemplo, el artículo de abajo habla de cómo ha sido la evolución del aspecto físico, el aspecto condicional durante el juego... Lo que podemos destacar es que no solo ha habido un aumento del rendimiento en los esfuerzos de alta intensidad, como podéis ver aquí, sino que teniendo en cuenta que el tiempo útil, el tiempo de trabajo, ha disminuido, el número de esfuerzos explosivos es mayor, el número de pases por minuto también es mayor, pases por minuto exitosos. El número de sprints ha aumentado entre un 25 y un 30%. El número de acciones a alta intensidad ha aumentado entre el 25 y el 50%. La distancia recorrida a alta intensidad ha aumentado en torno al 50%.",
+      "keywords": [
+        "evolucion",
+        "exigencias",
+        "alta-intensidad",
+        "sprints",
+        "tiempo-util",
+        "rendimiento"
+      ],
+      "entities": [
+        "Premier League"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo han evolucionado las exigencias físicas en el fútbol actual?",
+        "¿Qué ha ocurrido con el tiempo útil de juego frente a los esfuerzos de alta intensidad?",
+        "¿Cuánto ha aumentado el número de sprints y acciones de alta intensidad?"
+      ],
+      "related_terms": [
+        "evolución",
+        "de",
+        "las",
+        "exigencias",
+        "alta",
+        "intensidad",
+        "esfuerzos",
+        "explosivos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin de la introducción sobre la adaptación de la literatura científica al entorno real.",
+      "context_after": "Se particularizan estos datos globales hacia competiciones específicas como LaLiga, observando tendencias similares."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:02:10",
+      "end_timestamp": "00:04:13",
+      "start_seconds": 130,
+      "end_seconds": 253,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=130",
+      "title": "Demandas en LaLiga: menor volumen, mayor intensidad",
+      "summary": "Analizando LaLiga española, se observa que la distancia total recorrida es menor que en años anteriores, pero los esfuerzos de velocidad, sprint y alta intensidad son mucho más determinantes, obligando a entrenar bajo el principio de especificidad.",
+      "literal_quote": "Vemos que la distancia total recorrida es menor... pero desde luego, los esfuerzos son mucho más determinantes en cuanto a la alta intensidad, al sprint, a la velocidad.",
+      "full_transcript": "Si marcáramos de alguna manera un perfil concreto, por ejemplo, gente que hemos estado trabajando en LaLiga, en la competición liguera aquí en España, veríamos que también existe una evolución de las demandas físicas. Y en este caso entendemos que, de acuerdo con los resultados obtenidos en los últimos años, desde 2012 hasta la temporada 2019, vemos que la distancia total recorrida es menor, es decir, para satisfacer las necesidades del resultado, en este caso, no se necesita correr tanto como se corría antes, pero desde luego, los esfuerzos son mucho más determinantes en cuanto a la alta intensidad, al sprint, a la velocidad, incluso del juego, la velocidad a la que corre el balón, el número de acciones de éxito. Como veis aquí, el número de entradas y despejes cada vez es menor, el número total de pases cada vez es mayor. Hay una serie de condicionantes que han hecho que los comportamientos que tenemos nosotros a nivel físico sean distintos. Y esto tiene que marcar de alguna manera nuestra manera de entender el entrenamiento, con el objetivo de generar ese principio de coherencia del entrenamiento y especificidad del entrenamiento.",
+      "keywords": [
+        "LaLiga",
+        "distancia-total",
+        "velocidad",
+        "especificidad",
+        "coherencia",
+        "entrenamiento"
+      ],
+      "entities": [
+        "LaLiga"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué características definen la evolución de las demandas físicas en LaLiga española?",
+        "¿Por qué es importante aplicar el principio de especificidad basándose en los datos de competición?",
+        "¿Corren más o menos distancia total los jugadores de LaLiga en la actualidad?"
+      ],
+      "related_terms": [
+        "distancia",
+        "total",
+        "recorrida",
+        "principio",
+        "de",
+        "coherencia",
+        "especificidad",
+        "del",
+        "entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición del aumento general de la alta intensidad a nivel global y en selecciones.",
+      "context_after": "Repaso a la evolución tecnológica en la medición de estas variables desde el papel y boli hasta los GPS."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:04:13",
+      "end_timestamp": "00:06:01",
+      "start_seconds": 253,
+      "end_seconds": 361,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=253",
+      "title": "Evolución tecnológica y variables determinantes del perfil",
+      "summary": "El análisis del rendimiento ha evolucionado drásticamente desde registros manuales hasta sistemas automáticos de radiofrecuencia y GPS. Estas herramientas han permitido identificar que el perfil de actividad está totalmente condicionado por variables como la demarcación, estilo de juego, rival y densidad competitiva.",
+      "literal_quote": "Empezábamos con registros manuales de papel y boli... a tener sistemas completamente automáticos de radiofrecuencia, GPS... el perfil de la actividad va a venir determinado por este tipo de variables: la demarcación específica, el estilo de juego...",
+      "full_transcript": "Lo que hemos visto en esta evolución y estos resultados que obtenemos de acuerdo con la literatura científica, vienen muy determinados por el tipo de mecanismos y el tipo de dispositivos que hemos podido utilizar para desarrollar todo este tipo de análisis. Empezábamos con registros manuales de papel y boli, hace un montón de años, esos primeros estudios de Thomas Reilly y compañía, a hacer estudios a través de sistemas semiautomáticos con trackear, el video tracking que nosotros llamamos, y a tener sistemas completamente automáticos de radiofrecuencia, GPS, acelerómetros, giroscopio, etcétera. Hubo un aumento, un pico de publicaciones que se hicieron a partir del año 2008, 2009, 2010, 2011, que marcaban sobre todo descripciones. A partir de aquí, lo que hemos visto es que la mayoría de los estudios... nos describen de alguna forma ciertas variables que hacen posible que el perfil de la actividad sea de una manera o de otra. El perfil de la actividad va a venir determinado por este tipo de variables: la demarcación específica, el estilo de juego, el momento de la temporada, la densidad competitiva, la primera y la segunda parte, niveles de los jugadores con los que se hace el estudio, el nivel del rival y las variables contextuales.",
+      "keywords": [
+        "GPS",
+        "tecnologia",
+        "perfil-actividad",
+        "variables-contextuales",
+        "tracking",
+        "demarcacion"
+      ],
+      "entities": [
+        "Thomas Reilly"
+      ],
+      "topics": [
+        "Data Science",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Evolución",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo ha evolucionado la tecnología de medición de rendimiento en fútbol?",
+        "¿Qué variables determinan el perfil de la actividad de un jugador en partido?",
+        "¿Cuándo se produjo el pico de publicaciones sobre descripción de variables físicas?"
+      ],
+      "related_terms": [
+        "sistemas",
+        "automáticos",
+        "GPS",
+        "perfil",
+        "de",
+        "la",
+        "actividad",
+        "variables",
+        "contextuales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de las necesidades condicionales del fútbol actual centradas en alta intensidad.",
+      "context_after": "Se profundiza en cómo estas variables afectan específicamente según la demarcación del jugador en el campo."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:07:10",
+      "end_timestamp": "00:12:00",
+      "start_seconds": 430,
+      "end_seconds": 720,
+      "duration_seconds": 290,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=430",
+      "title": "Del enfoque tradicional al Modelo Integrado táctico-físico",
+      "summary": "Se critica el enfoque tradicional de medir solo volúmenes de carrera en diferentes umbrales. El 'Modelo Integrado' analiza el perfil físico condicionado por roles tácticos: un mediocentro y un delantero pueden correr los mismos metros a alta intensidad, pero con estímulos y adaptaciones totalmente diferentes (coberturas vs desmarques al espacio).",
+      "literal_quote": "Pero este enfoque tradicional está un poco vacío... A partir de aquí surge el modelo integrado... no es lo mismo hacer distancias... que realizar 1.000 metros de distancia jugando al fútbol, porque... condicionan la capacidad de adaptación.",
+      "full_transcript": "Nos hacemos esta pregunta: si son todos diferentes y no es que ellos sean diferentes, sino que la propia competición te exige cosas distintas, la primera pregunta que me hago es: ¿debemos entrenar todos igual? Lógicamente no. Los nuevos estudios o los estudios más recientes lo que hacen es diferenciar entre el enfoque tradicional del análisis del rendimiento, donde lo que se hacía era describir exactamente la cantidad de metros o distancias que se recorrían a diferentes umbrales. Pero este enfoque tradicional está un poco vacío. Quiero decir, si este chico es capaz de correr 1.000 metros a alta intensidad, pero ¿cómo se dan esos 1.000 metros a alta intensidad? A partir de aquí surge el modelo integrado. El modelo integrado lo que hace es un enfoque que nos permite, de alguna manera, analizar cuál es el perfil condicional que tienen mis jugadores, sabiendo que ese perfil condicional está totalmente determinado por aspectos técnicos y tácticos. Aquí podemos observar que ante dos jugadores, por ejemplo el mediocentro y el delantero centro. Más o menos, la altura de las cajas es prácticamente la misma... Sin embargo, de lo que están completas esas barras, son totalmente distintas. El mediocentro tiene una zona sombreada gris... recorren a alta intensidad haciendo coberturas a todos sus compañeros... El delantero no recorre distancias a alta intensidad haciendo coberturas a nadie, pero sí que la realiza corriendo a la espalda de la línea defensiva... lo que exige estar en constante coordinación con los movimientos de un adversario. Por el principio de especificidad y por las nuevas teorías del entrenamiento complejo, entendemos que las adaptaciones que nosotros creamos... no tiene nada que ver si utilizamos una herramienta u otra. Es decir, no es lo mismo hacer distancias, imaginaros cubrir 1.000 metros de distancia haciendo un box to box, que realizar 1.000 metros de distancia jugando al fútbol.",
+      "keywords": [
+        "modelo-integrado",
+        "enfoque-tradicional",
+        "rol-tactico",
+        "adaptaciones",
+        "especificidad",
+        "alta-intensidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre el enfoque tradicional y el modelo integrado de análisis de rendimiento?",
+        "¿Por qué un mediocentro y un delantero necesitan entrenamientos diferentes si corren la misma cantidad de metros a alta intensidad?",
+        "¿Cómo influye el rol táctico en las adaptaciones físicas de los futbolistas?"
+      ],
+      "related_terms": [
+        "enfoque",
+        "tradicional",
+        "modelo",
+        "integrado",
+        "rol",
+        "táctico",
+        "adaptación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que diferentes demarcaciones exigen diferentes necesidades físicas y perfiles condicionales.",
+      "context_after": "Transición hacia el análisis de las demandas extremas del partido conocidas como 'Worst Case Scenarios'."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:12:00",
+      "end_timestamp": "00:16:18",
+      "start_seconds": 720,
+      "end_seconds": 978,
+      "duration_seconds": 258,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=720",
+      "title": "Escenarios de máxima exigencia (Worst Case Scenarios)",
+      "summary": "Es vital identificar los 'Worst Case Scenarios' del partido en ventanas temporales (1 a 10 min), combinando la exigencia condicional máxima con su contexto táctico y psicológico (ir perdiendo, inferioridad). El preparador debe generar tareas de entrenamiento que repliquen estas exigencias para lograr adaptaciones.",
+      "literal_quote": "Estos worst days escenarios no deberían analizarse únicamente desde el punto de vista condicional, sino que se deberían analizar también desde el punto de vista contextual.",
+      "full_transcript": "Por otro lado, como Sports Science, tenemos que conocer los escenarios de máxima exigencia, ¿qué son los escenarios de máxima exigencia? Que lo que no estamos analizando es lo que sucede en esos worst days escenarios, que son aquellas situaciones dentro del partido que nos llevan a un periodo de máxima intensidad. De acuerdo con la literatura científica, estos worst days escenarios no deberían analizarse únicamente desde el punto de vista condicional, sino que se deberían analizar también desde el punto de vista contextual. Es decir, yo a lo mejor estoy en una situación donde efectivamente hay cinco minutos del partido que me llevan a unas demandas muy por encima... y además es una situación en la que estoy por debajo en el resultado, o estoy en una inferioridad numérica. Entonces, es un escenario que compromete tu capacidad como deportista. Porque parece ser que los periodos de máxima exigencia están muy relacionados con situaciones determinantes del juego, con situaciones donde puede haber una ocasión de gol... puede haber una situación de lesión. Estos escenarios de máxima exigencia se pueden trabajar desde periodos de menos de un minuto, periodos de un minuto, tres minutos, cinco minutos, 10 minutos. Se trata de buscar dentro de todo el espectro de la actividad que hemos tenido en el partido, por ejemplo, si quiero una ventana de un minuto, cuál es el minuto más exigente del partido, y a qué valores me lleva... Y en base a esa situación, yo lo que haría es trasladarlo a mi entrenamiento. ¿Puedo generar tareas de entrenamiento parecidas a lo que me exige la competición que me lleve a este límite, que sea capaz de generar una normalidad en este tipo de situaciones a través de la adaptación de mis deportistas?",
+      "keywords": [
+        "worst-case-scenarios",
+        "maxima-exigencia",
+        "contexto",
+        "adaptacion",
+        "tareas-entrenamiento",
+        "ventanas-temporales"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué son los escenarios de máxima exigencia o worst case scenarios en el fútbol?",
+        "¿Por qué es importante analizar el contexto táctico de los picos de máxima intensidad?",
+        "¿Cómo se aplican los worst case scenarios al diseño de tareas de entrenamiento?"
+      ],
+      "related_terms": [
+        "escenarios",
+        "de",
+        "máxima",
+        "exigencia",
+        "worst",
+        "days",
+        "escenarios",
+        "contexto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo el Modelo Integrado cambia la interpretación de las métricas según el rol.",
+      "context_after": "Se cuestiona la interpretación aislada del dato físico introduciendo estudios de sincronización de equipos."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:16:28",
+      "end_timestamp": "00:19:33",
+      "start_seconds": 988,
+      "end_seconds": 1173,
+      "duration_seconds": 185,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=988",
+      "title": "Sincronización táctica vs deterioro condicional en el partido",
+      "summary": "Estudios demuestran que durante la primera parte los equipos logran sincronizarse a altas velocidades, mientras que en la segunda mitad la fatiga limita esta coordinación a velocidades bajas. Esto cuestiona medir el rendimiento solo por lo físico, ya que la táctica compensa esta caída.",
+      "literal_quote": "En la primera mitad los jugadores juegan y son capaces de sincronizarse en altas velocidades. Sin embargo, en la segunda mitad los jugadores son capaces de sincronizarse a velocidades bajas.",
+      "full_transcript": "Existen otros puntos de vista. Es decir, en este caso vamos a analizar mucho más la complejidad del propio juego... es importante determinar cuánto corren mis deportistas, pero desde luego también es muy importante determinar si esos deportistas corren de forma sincronizada, porque el fútbol lo que no puede dejar de ser es fútbol. Entonces, lo que se observa aquí es que en la primera mitad, en la primera parte del partido, hay mayor sincronización a velocidades altas entre los diferentes jugadores. Dentro del terreno de juego, los jugadores se van sincronizando, se van moviendo de manera coordinada. Tienen objetivos comunes y tácticos. Sin embargo, en la segunda mitad los jugadores son capaces de sincronizarse a velocidades bajas. Por lo tanto, parece ser que a medida que pasa el partido, la capacidad de coordinarse a través del movimiento y el esfuerzo físico se ve deteriorada. Y esto llama mucho la atención porque pone en cuestión la relación que existe entre la capacidad que tienen los jugadores, el rendimiento físico, y los resultados que obtienen en el partido. Pone en crítica este tipo de situación porque los jugadores tienen más capacidad normalmente que la que suelen mostrar en un partido, porque el partido al final está condicionando constantemente el comportamiento condicional que tú tienes que expresar. No te expresas a tu máxima expresión en competición, porque el propio juego, la propia sincronización y las propias reglas de cooperación hacen que se pueda solventar esto, que puedan ser más eficientes a la hora de desarrollar el potencial condicional.",
+      "keywords": [
+        "sincronizacion",
+        "velocidades-altas",
+        "fatiga",
+        "cooperacion",
+        "complejidad",
+        "eficiencia-tactica"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo cambia la sincronización de los jugadores entre la primera y segunda mitad del partido?",
+        "¿Por qué los jugadores no expresan su máxima capacidad condicional en la competición?",
+        "¿Qué papel juegan las reglas de cooperación táctica frente al deterioro físico?"
+      ],
+      "related_terms": [
+        "sincronización",
+        "táctica",
+        "deterioro",
+        "físico",
+        "reglas",
+        "de",
+        "cooperación",
+        "eficiencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo replicar escenarios de máxima exigencia en el entrenamiento diario.",
+      "context_after": "Se presenta un caso de estudio real en pretemporada que valida que hacer menos metros puede resultar en mayor sincronización."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:19:33",
+      "end_timestamp": "00:23:00",
+      "start_seconds": 1173,
+      "end_seconds": 1380,
+      "duration_seconds": 207,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1173",
+      "title": "Aumento de la eficacia reduciendo la exposición física (Estudio)",
+      "summary": "Un estudio de GPS en pretemporada reveló que, al comparar la primera y última semana, los jugadores reducían su recorrido físico (metros/minuto) pero aumentaban su sincronización táctica un 6%. Se obtienen mejores resultados siendo más eficientes sin llevar la capacidad condicional al extremo.",
+      "literal_quote": "Los jugadores no necesitaban exponerse físicamente muy alto... tenían mejores resultados habiendo hecho menos.",
+      "full_transcript": "Fijaros, este estudio es muy chulo... pone un poco en entredicho la interpretación que nosotros normalmente o tradicionalmente hacíamos de los datos de GPS. Se coge una pretemporada... en una primera semana de pretemporada, utilizan un juego reducido para poder analizar los datos a nivel condicional a través de los GPS... Sin embargo, se hace la preparación de la pretemporada... se entrenan los jugadores, mejoran las capacidades condicionales... y se vuelve a repetir el mismo test, los mismos jugadores, la misma situación... Y lo que se observa es que desde el primer test de la primera semana a la última semana, la parte condicional, lo que mostraban los GPS, es que había habido una reducción del rendimiento condicional. Es decir, los jugadores habían hecho menos metros por minuto. Habían hecho menos todo, prácticamente, a nivel condicional. Sin embargo, lo que se había demostrado es que la sincronización entre los jugadores que estaban participando había aumentado en un 6 %. ¿Qué significa esto? Que los jugadores no necesitaban exponerse físicamente muy alto. No hacía falta que se expusieran con tanta exigencia para sacar los mejores resultados. Es decir, tenían mejores resultados habiendo hecho menos. Esto no significa que no tengamos que entrenar al jugador, ni mucho menos. Tenemos que prepararlos para las máximas exigencias. Pero desde luego, existen otros condicionantes que hacen que la eficacia del juego pueda dar resultado sin que sea la parte física llevada al extremo.",
+      "keywords": [
+        "GPS",
+        "pretemporada",
+        "sincronizacion",
+        "eficiencia",
+        "rendimiento-condicional",
+        "datos"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Data Science",
+        "Performance & Context",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué demostró el estudio de GPS sobre la distancia recorrida a lo largo de una pretemporada?",
+        "¿Cómo afecta el aumento de la sincronización táctica a la demanda física del jugador?",
+        "¿Se pueden obtener mejores resultados deportivos reduciendo los metros recorridos por minuto?"
+      ],
+      "related_terms": [
+        "reducción",
+        "del",
+        "rendimiento",
+        "condicional",
+        "sincronización",
+        "táctica",
+        "eficacia",
+        "del",
+        "juego"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión teórica sobre cómo la sincronización del equipo condiciona el desempeño individual en el campo.",
+      "context_after": "Se replantea el concepto de 'rendimiento' en el fútbol al observar la falta de correlación directa con el éxito en la tabla clasificatoria."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:23:00",
+      "end_timestamp": "00:25:10",
+      "start_seconds": 1380,
+      "end_seconds": 1510,
+      "duration_seconds": 130,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1380",
+      "title": "Rendimiento físico vs. Indicadores de éxito en la clasificación",
+      "summary": "Estudios en primera y segunda división demuestran que no existen diferencias físicas significativas entre los equipos de arriba y abajo de la tabla. De hecho, los equipos peor clasificados suelen exponerse más físicamente en su intento por remontar resultados adversos.",
+      "literal_quote": "Los equipos que están en la parte baja de la tabla se exponían mucho más a nivel condicional que los equipos de arriba de la tabla. Y lógicamente, tiene sentido cuando entendemos que el resultado es el principal punto a tener en cuenta.",
+      "full_transcript": "La siguiente pregunta que me hago es: entonces, ¿cuál es el rendimiento en fútbol? Porque muchas veces decimos: \"Este chico ha aumentado el rendimiento porque ha sido capaz de aumentar la altura del salto\" o \"en vez de mover 100 kilos en un squat, ahora es capaz de mover 150 kilos\". Yo no tengo tan claro que eso sea así, porque analizando otros estudios de Pedro Gómez y colaboradores... donde analizaban las exigencias físicas del juego y otro tipo de variables que son indicadores de éxito (puesto en la clasificación, goles a favor, puntos), no había diferencias significativas dentro de la misma liga entre aquellos equipos que estaban en la parte alta de la tabla y los que estaban en la parte baja. De hecho... los equipos que están en la parte baja de la tabla se exponían mucho más a nivel condicional que los equipos de arriba de la tabla. Y lógicamente, tiene sentido cuando entendemos que el resultado es el principal punto a tener en cuenta para explicar el rendimiento condicional. Es decir, si aquel equipo normalmente va perdiendo o se encuentra en una situación desfavorable... se expone condicionalmente mucho más. Tiene que ir a buscar arriba. En segunda división pasó lo mismo. No existe relación entre las variables físicas y los indicadores de éxito.",
+      "keywords": [
+        "rendimiento",
+        "indicadores-exito",
+        "clasificacion",
+        "resultados",
+        "exposicion-fisica",
+        "Pedro-Gomez"
+      ],
+      "entities": [
+        "Pedro Gómez"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Existe relación directa entre las métricas físicas y la posición en la tabla de clasificación?",
+        "¿Por qué los equipos de la parte baja de la tabla suelen correr más que los líderes?",
+        "¿Es el aumento de peso levantado en sentadilla un sinónimo directo de mayor rendimiento en fútbol?"
+      ],
+      "related_terms": [
+        "indicadores",
+        "de",
+        "éxito",
+        "clasificación",
+        "rendimiento",
+        "condicional",
+        "exposición",
+        "física"
+      ],
+      "relevance_score": 5,
+      "context_before": "Evidencia de que la mayor eficacia puede darse recorriendo menores distancias gracias a la sincronización.",
+      "context_after": "Conclusión final sobre la necesidad de interactuar datos cuantitativos con factores cualitativos."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "El rol del preparador físico del fútbol en la actualidad",
+      "speaker": "Marcos Chena",
+      "start_timestamp": "00:25:10",
+      "end_timestamp": "00:26:44",
+      "start_seconds": 1510,
+      "end_seconds": 1604,
+      "duration_seconds": 94,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1510",
+      "title": "Conclusión: Interacción de lo cuantitativo con lo cualitativo",
+      "summary": "La tendencia actual obliga a los preparadores físicos a cruzar datos cuantitativos con observaciones cualitativas. La clave de la optimización del entrenamiento reside en reducir el impacto maximizando los resultados, respondiendo a la pregunta de cómo conseguir más haciendo menos.",
+      "literal_quote": "Tendríamos que tener en cuenta para poder encontrar aquella estrategia que nos permita reducir el impacto maximizando la optimización de la intervención. Aquí está la clave: ¿cuándo puedo conseguir más haciendo menos?",
+      "full_transcript": "Entonces, dado todo este contexto y entendiendo un poco la evolución y la necesidad que nosotros tenemos de conocer qué es lo que sucede en el juego, los artículos científicos o la línea de tendencia que tenemos hoy en día para analizar los diferentes parámetros es entender cuáles son los aspectos cuantitativos, que ya no vamos a conocer mucho más de lo que tenemos, con los aspectos cualitativos. Y es aquí, en esta interacción, donde realmente nosotros, como preparadores físicos, especialistas en datos, tendríamos que tener en cuenta para poder encontrar aquella estrategia que nos permita reducir el impacto maximizando la optimización de la intervención. Aquí está la clave: ¿cuándo puedo conseguir más haciendo menos? Esta es la gran pregunta. Para esto necesitamos de un análisis muy grande, no solo el que hagamos nosotros, sino lo que han hecho los demás y que podamos integrar en nuestro sistema, sino que tenemos que hacer una interpretación muy correcta y muy exhaustiva de lo que está sucediendo. A partir de aquí, sacar las conclusiones pertinentes y establecer una propuesta que nos permita... ser capaces de acercarnos a las necesidades individuales que necesita mi contexto y mis jugadores.",
+      "keywords": [
+        "cuantitativo",
+        "cualitativo",
+        "optimizacion",
+        "reducir-impacto",
+        "estrategia",
+        "individualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante integrar datos cuantitativos con aspectos cualitativos en la preparación física?",
+        "¿Cuál es la pregunta clave que se debe hacer el especialista de datos para optimizar el rendimiento?",
+        "¿Cómo se logra reducir el impacto físico sin perder la optimización de la intervención?"
+      ],
+      "related_terms": [
+        "aspectos",
+        "cuantitativos",
+        "y",
+        "cualitativos",
+        "optimización",
+        "de",
+        "la",
+        "intervención",
+        "especialistas",
+        "en",
+        "datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de la falta de correlación entre correr más y obtener mejores posiciones en LaLiga.",
+      "context_after": "Fin del webinar o fragmento provisto."
+    }
+  ]
+}
