@@ -1,0 +1,384 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Ambiente en el Alto Rendimiento",
+    "speaker": "José Andrés González Moreno",
+    "total_duration": "00:19:14",
+    "total_duration_seconds": 1154,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:50",
+      "start_seconds": 1,
+      "end_seconds": 110,
+      "duration_seconds": 109,
+      "timestamp_url": "?t=1",
+      "title": "Introducción y concepto emergente de ambiente",
+      "summary": "El concepto de ambiente en el alto rendimiento ha cobrado importancia en los últimos años. Busca unificar y conectar el trabajo de los diferentes departamentos en torno al atleta para maximizar su rendimiento, enfocándose en todo lo que rodea al deportista más allá de los métodos de entrenamiento.",
+      "literal_quote": "El concepto de ambiente va más ligado no tanto a métodos de entrenamiento o sistemas de trabajo, sino a todo lo que les rodea para que estos sobrevivan lo suficiente y den el máximo resultado.",
+      "full_transcript": "Hola a todos. Bienvenidos a este módulo de la formación de Performance Science Specialist de la NSFA. Mi nombre es José Andrés González Moreno. Todo el mundo me conoce como José Moreno y soy director de rendimiento y preparador físico de equipos de baloncesto. Hoy os traigo un módulo perteneciente a un tema que en los últimos cinco o 10 años ha ido cobrando vida e importancia, porque era un concepto inexistente anteriormente y que surge por la necesidad de los equipos y las diferentes organizaciones de unificar y conectar el trabajo de los diferentes departamentos en torno a un atleta o a un grupo de jugadores, con el fin de maximizar su rendimiento. El concepto de ambiente va más ligado no tanto a métodos de entrenamiento o sistemas de trabajo, sino a todo lo que les rodea para que estos sobrevivan lo suficiente y den el máximo resultado. Una vez dicho esto, intentaré darle la máxima claridad posible al concepto y puntualizar lo más importante, con el fin de que cada profesional sea capaz de aplicar todo esto en base a su contexto.",
+      "keywords": [
+        "ambiente",
+        "alto-rendimiento",
+        "departamentos",
+        "unificacion",
+        "atleta",
+        "contexto",
+        "optimizacion"
+      ],
+      "entities": [
+        "NSFA",
+        "José Andrés González Moreno",
+        "José Moreno"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre la introducción y concepto emergente de ambiente?",
+        "¿Dónde se habla del surgimiento del concepto de ambiente en el deporte?",
+        "¿Cómo se aplica el concepto de ambiente para conectar departamentos alrededor del atleta?"
+      ],
+      "related_terms": [
+        "introducción",
+        "y",
+        "concepto",
+        "emergente",
+        "de",
+        "ambiente",
+        "performance",
+        "context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la charla.",
+      "context_after": "El ponente introduce su experiencia profesional para dar contexto a su conocimiento sobre entornos multidisciplinares."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:01:54",
+      "end_timestamp": "00:03:06",
+      "start_seconds": 114,
+      "end_seconds": 186,
+      "duration_seconds": 72,
+      "timestamp_url": "?t=114",
+      "title": "Experiencia profesional y contexto internacional",
+      "summary": "José Moreno detalla su experiencia profesional de los últimos años dedicándose al baloncesto, habiendo trabajado con atletas en Estados Unidos, equipos en España, y recientemente en la B.League japonesa con el equipo de Gunma.",
+      "literal_quote": "En estos tres últimos años he trabajado en la B.League japonesa, que es la liga profesional de baloncesto de Japón.",
+      "full_transcript": "Aquí tenéis un poco más de información sobre mí como profesional. Llevo dedicándome al baloncesto en los últimos cinco, seis años. Con anterioridad ya había trabajado con algunos atletas en Estados Unidos, pero en estos últimos años he tenido la oportunidad de trabajar con algunos equipos en España y, sobre todo, en estos tres últimos años he trabajado en la B.League japonesa, que es la liga profesional de baloncesto de Japón. En este último año, concretamente, en un equipo de la Primera División, en Gunma. Aquí tenéis un resumen de mi formación y de mi experiencia trabajando con diferentes aplicaciones, sistemas y utilidades. A modo anecdótico, me gusta hacer también un trabajo divulgativo mediante redes sociales, ya no solo con un tema educacional, sino también conectar con nuestra comunidad.",
+      "keywords": [
+        "baloncesto",
+        "b-league",
+        "japon",
+        "experiencia-profesional",
+        "estados-unidos",
+        "espana",
+        "gunma"
+      ],
+      "entities": [
+        "Estados Unidos",
+        "España",
+        "B.League",
+        "Japón",
+        "Gunma"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre su experiencia profesional y contexto internacional?",
+        "¿Dónde se habla del trabajo de José Moreno en la liga de Japón?",
+        "¿Cómo influye la experiencia profesional en su visión del alto rendimiento?"
+      ],
+      "related_terms": [
+        "experiencia",
+        "profesional",
+        "y",
+        "contexto",
+        "internacional",
+        "professional",
+        "experience"
+      ],
+      "relevance_score": 3,
+      "context_before": "Se ha definido brevemente el concepto de ambiente de alto rendimiento.",
+      "context_after": "Se estructuran y delinean los objetivos formativos del resto del webinar."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:03:31",
+      "end_timestamp": "00:05:38",
+      "start_seconds": 211,
+      "end_seconds": 338,
+      "duration_seconds": 127,
+      "timestamp_url": "?t=211",
+      "title": "Objetivos y estructura de la sesión formativa",
+      "summary": "Se estructuran los objetivos de la charla, centrados en definir qué es un ambiente de alto rendimiento, entender los factores y sistemas que lo optimizan, aprender a mejorar como director de rendimiento y llevarse herramientas prácticas aplicables al propio contexto.",
+      "literal_quote": "Saber perfectamente qué es un ambiente de alto rendimiento y todo lo que le rodea en cuanto a sus factores... y algunas herramientas prácticas que te puedas llevar para empezar a aplicar en tu propio contexto.",
+      "full_transcript": "Metiéndonos de lleno en lo que va a ser la sesión, en lo que vamos a tratar y sobre todo los objetivos que me gustaría que todo el mundo tuviese claros al final de esta charla, es saber perfectamente qué es un ambiente de alto rendimiento y todo lo que le rodea en cuanto a sus factores, en cuanto a todos esos sistemas y métodos que pueden optimizarlo, cómo mediante esto puedes mejorar tu figura como director de rendimiento y algunas herramientas prácticas que te puedas llevar para empezar a aplicar en tu propio contexto desde ya. Me gustaría dividir esta charla en cinco apartados, como veis aquí. Para contextualizar un poco qué es ambiente en el alto rendimiento, tenemos que contextualizar cómo surge todo esto. Luego, tras haberlo contextualizado, explicar exactamente el concepto, en qué consiste, en qué se basa, cuáles son las piezas más importantes, sus factores. Me gustaría también ejemplificar todo esto mediante mis últimos años de experiencia en Japón y, al final, dar un soporte más teórico basado en la última evidencia y en las últimas publicaciones en la literatura, con el fin de acabar con algunas herramientas, como venía diciendo, para que todo el mundo pueda aplicar desde ya.",
+      "keywords": [
+        "objetivos",
+        "estructura",
+        "sesion",
+        "sistemas",
+        "herramientas-practicas",
+        "director-rendimiento"
+      ],
+      "entities": [
+        "Japón"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre los objetivos y estructura de la sesión formativa?",
+        "¿Dónde se definen los apartados de la charla de ambiente de alto rendimiento?",
+        "¿Cómo se aplicarán las herramientas prácticas mencionadas en la sesión?"
+      ],
+      "related_terms": [
+        "objetivos",
+        "y",
+        "estructura",
+        "de",
+        "la",
+        "sesión",
+        "formativa",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "José Moreno acaba de presentar su currículum y background deportivo.",
+      "context_after": "Se introduce la contraposición entre la idealización de la planificación y lo que realmente genera resultados."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:05:42",
+      "end_timestamp": "00:07:25",
+      "start_seconds": 342,
+      "end_seconds": 445,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=342",
+      "title": "La utopía de la planificación frente a las condiciones idóneas",
+      "summary": "Los preparadores físicos tienden a buscar la planificación absoluta como una utopía. Sin embargo, los resultados se maximizan cuando se crean condiciones idóneas sostenidas en el tiempo para que todos los departamentos y jugadores convivan y trabajen de la mejor manera.",
+      "literal_quote": "Muchísimas de las veces lo que pasa es que esos resultados vienen cuando se les da lugar. Es decir, cuando tenemos un conjunto de condiciones que son las específicas, que son las idóneas para que todo el mundo... trabaje de la mejor manera posible.",
+      "full_transcript": "Como venía diciendo antes, es superimportante que tengamos en cuenta que esta charla no va sobre métodos de entrenamiento, sobre sistemas de entrenamiento. Va a ir un poco relacionado con qué es todo lo importante, nombrar todo lo importante, dar visibilidad a qué es aquello que va a posibilitar que todo nuestro trabajo genere los máximos resultados. Nosotros, como preparadores físicos, como directores de rendimiento, creo que siempre tenemos esa utopía de intentar planificar, prever e intentar tener todo absolutamente detallado con el fin de optimizar y maximizar los resultados, sin tener en cuenta que muchísimas de las veces lo que pasa es que esos resultados vienen cuando se les da lugar. Es decir, cuando tenemos un conjunto de cosas que se repiten en el tiempo, un conjunto de condiciones que son las específicas, que son las idóneas para que todo el mundo, independientemente de la sección, del departamento que sea, de los jugadores, del tiempo, al final trabajen de la mejor manera posible, convivan de la mejor manera posible y estén lo más a gusto para dar lo mejor de sí y conseguir esos resultados que buscamos.",
+      "keywords": [
+        "utopia",
+        "planificacion",
+        "condiciones-idoneas",
+        "coordinacion",
+        "staff",
+        "convivencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre la utopía de la planificación frente a las condiciones idóneas?",
+        "¿Por qué la planificación absoluta se considera una utopía según el ponente?",
+        "¿Cómo afectan las condiciones de convivencia al resultado final del equipo?"
+      ],
+      "related_terms": [
+        "la",
+        "utopía",
+        "de",
+        "la",
+        "planificación",
+        "frente",
+        "a",
+        "las",
+        "condiciones",
+        "idóneas",
+        "performance",
+        "staff",
+        "management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron los objetivos y la hoja de ruta de la sesión.",
+      "context_after": "Se plantea una pregunta abierta sobre por qué equipos con los mismos recursos obtienen diferentes resultados."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:07:26",
+      "end_timestamp": "00:13:06",
+      "start_seconds": 446,
+      "end_seconds": 786,
+      "duration_seconds": 340,
+      "timestamp_url": "?t=446",
+      "title": "La paradoja de los recursos técnicos frente a las relaciones humanas",
+      "summary": "Equipos con mismos recursos logran diferentes resultados porque el ambiente marca la diferencia. Existe una gran paradoja: los profesionales están sumamente capacitados en uso de datos, tecnologías y control de carga, pero carecen de formación para crear vínculos, comunicarse y coordinar a los miembros de la organización en una cultura común.",
+      "literal_quote": "Qué grandes programas fracasan dentro de ambientes pobres... Esto representa un gran contraste en comparación con la formación y la capacidad que tenemos para crear y diseñar relaciones y vínculos.",
+      "full_transcript": "Aquí viene una de las primeras preguntas que voy a empezar a realizar como parte de esta presentación y me gustaría que reflexionaseis unos segundos. Esto creo que pasa en muchísimas situaciones, deportes, ligas diferentes, muchísimos deportistas. ¿Por qué dos equipos con utensilios, herramientas, recursos y presupuestos prácticamente iguales, al final consiguen diferentes resultados? Todos sabemos que el rendimiento, como muchísimas cosas en deporte de alto nivel, es multifactorial, depende de muchísimas cosas. Pero si al final cogemos dos equipos con mismo presupuesto, misma tecnología y mismas herramientas, ¿por qué se pueden dar unos resultados y unas realidades tan diferentes? Estoy seguro de que, como ya podéis intuir, el ambiente tiene muchísimo que ver. ¿Por qué? Porque esa unión entre las personas que hay alrededor de una organización, cómo se conectan y los procesos y comportamientos que perpetúan en el tiempo son cruciales para maximizar todos esos recursos que tienen de base. En esta diapositiva nos encontramos una paradoja que los profesionales del rendimiento nos tenemos que enfrentar hoy en día, y es la cantidad de formación, lo cómodos y entrenados que estamos para maximizar y optimizar el uso de diferentes programas y metodologías de entrenamiento, junto a una inmensa cantidad de ejercicios, variantes y diferentes adaptaciones. También el control y la monitorización de la carga de nuestros deportistas, que se hizo vital hace 10 o 15 años. Todo ello junto a un uso de la tecnología que no para de aumentar y de renovarse en estos últimos años, aportándonos un volumen de datos inmenso que tenemos que ser capaces de procesar y digerir con el fin de maximizar el rendimiento de nuestros equipos. Esto representa un gran contraste en comparación con la formación y la capacidad que tenemos para crear y diseñar relaciones y vínculos con esos profesionales con los que vamos a tener que trabajar y formar equipo mediante diferentes sistemas que nos podrían ayudar a comunicarnos y coordinarnos entre todos, creando diferentes comportamientos, hábitos y estándares, como ya veremos más adelante. Todo eso adaptado a una cultura específica, que independientemente de si trabajas en tu país de origen o en un país diferente, al final cada organización tiene una filosofía, una ideología diferentes, unos objetivos y una manera de hacer las cosas determinadas a las que nosotros, como profesionales del rendimiento, vamos a tener que adaptar absolutamente todo, ya no solo lo de la columna de la izquierda, sino también lo de la columna de la derecha. Aquí tenemos una de las primeras citas que incluyo en esta presentación, porque me parece una manera muy sencilla de hacernos a la idea de todo lo influyentes que pueden ser estos ambientes de alto rendimiento. Leyendo la frase: 'Qué grandes programas fracasan dentro de ambientes pobres', estoy seguro de que a absolutamente todos se nos viene a la cabeza alguna situación o algún momento de vuestra experiencia como preparadores físicos o profesionales del rendimiento, en que tuvieseis una situación como club, como grupo, como organización, en la que todo parecía perfecto sobre el papel, todas las piezas eran de muy alto nivel, pero al final, ese equipo, ese grupo no terminó de funcionar y todos sabemos, en la mayoría de los casos, que había algo que no funcionaba y era seguramente perteneciente a estos ambientes de alto rendimiento. Por todo esto, es superimportante que sepamos definir de manera rigurosa y teórica qué es un ambiente de alto rendimiento, con el fin de poder crearlo, distinguir todas las diferentes piezas que lo componen, conocerlas y saber cómo trabajar con ellas y mejorarlas para garantizar los mejores resultados de toda esa columna de la izquierda que señalamos antes.",
+      "keywords": [
+        "paradoja",
+        "recursos",
+        "tecnologia",
+        "relaciones-humanas",
+        "vinculos",
+        "comunicacion",
+        "cultura-organizacional"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre la paradoja de los recursos técnicos frente a las relaciones humanas?",
+        "¿Por qué fracasan los grandes programas dentro de ambientes pobres?",
+        "¿Cómo influyen los vínculos y la cultura de la organización en el aprovechamiento de la tecnología?"
+      ],
+      "related_terms": [
+        "paradoja",
+        "de",
+        "recursos",
+        "técnicos",
+        "frente",
+        "a",
+        "relaciones",
+        "humanas",
+        "staff",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expuso que generar un buen ambiente da más resultados que la planificación estricta.",
+      "context_after": "Se presenta la definición académica del concepto elaborada en investigaciones recientes."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:13:07",
+      "end_timestamp": "00:15:15",
+      "start_seconds": 787,
+      "end_seconds": 915,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=787",
+      "title": "Definición formal de Ambiente de Alto Rendimiento",
+      "summary": "Basado en la investigación reciente de Slave y colaboradores (2023), un ambiente de alto rendimiento se define como un sistema que alinea de manera consistente a los profesionales, procesos y comportamientos en persecución de un objetivo común. La consistencia en el tiempo es el factor determinante del éxito.",
+      "literal_quote": "Un ambiente de alto rendimiento es un sistema que de manera consistente alinea y pone en la misma página a los diferentes profesionales, los procesos y los comportamientos que se dan en una organización, en línea, en persecución de un objetivo común.",
+      "full_transcript": "Aquí tenemos una de las partes más importantes de esta presentación, y es esta definición que nos aporta Slave y colaboradores, que como veis es del año pasado, muy reciente, que crearon esta línea de investigación sabiendo de esta necesidad que se está en aumento en estos últimos años por parte de los diferentes grupos y clubes, con el fin de conocer cómo mejorar estos ambientes de alto rendimiento. La definición nos dice que un ambiente de alto rendimiento es un sistema que de manera consistente alinea y pone en la misma página a los diferentes profesionales, los procesos y los comportamientos que se dan en una organización, en línea, en persecución de un objetivo común. La palabra que cambia todo de esta definición es la consistencia, el hacerlo de manera consistente. Estos procesos, estos comportamientos, estas relaciones que se van a crear dentro de ese grupo de profesionales deben de tener una consistencia. El hacerlo una vez de manera puntual, dos o tres, al final no es lo que va a garantizar esos resultados que buscamos.",
+      "keywords": [
+        "definicion",
+        "ambiente-alto-rendimiento",
+        "consistencia",
+        "sistema",
+        "alineacion",
+        "objetivo-comun",
+        "comportamientos"
+      ],
+      "entities": [
+        "Slave y colaboradores"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre la definición formal de ambiente de alto rendimiento?",
+        "¿Cuál es el rol de la consistencia dentro del sistema definido por Slave y colaboradores?",
+        "¿Cómo se alinean los comportamientos y procesos para alcanzar un objetivo en común?"
+      ],
+      "related_terms": [
+        "definición",
+        "formal",
+        "de",
+        "ambiente",
+        "de",
+        "alto",
+        "rendimiento",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se analizó la paradoja formativa entre el saber técnico y el relacional en el personal del rendimiento.",
+      "context_after": "Se desglosa de manera gráfica los factores que componen la definición brindada."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "Ambiente en el Alto Rendimiento",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:15:25",
+      "end_timestamp": "00:19:14",
+      "start_seconds": 925,
+      "end_seconds": 1154,
+      "duration_seconds": 229,
+      "timestamp_url": "?t=925",
+      "title": "Los componentes del sistema y el rendimiento como consecuencia",
+      "summary": "El sistema se basa en tres componentes: personas (relaciones, confianza, jerarquía), procesos (comunicación, toma de decisiones, coordinación) y comportamientos (hábitos y responsabilidad). El rendimiento es la consecuencia final de estos factores interactuando coordinadamente, por lo que ante malos resultados hay que indagar en las relaciones departamentales y no solo en los datos métricos superficiales.",
+      "literal_quote": "El rendimiento, esos resultados, van a ser la consecuencia de estos tres factores trabajando de manera conjunta. Entonces, ¿cuál es el principal problema... que cuando los resultados que esperamos no llegan, siempre nos centramos en lo más superficial del problema.",
+      "full_transcript": "Aquí tenemos, como ya se intuía en la definición, cuáles son los tres componentes principales que componen este sistema del que hablamos. Como veis, como no podía ser de otra forma, las personas, los profesionales, están en el top de este concepto y como ya venimos hablando, las relaciones, la confianza, la jerarquía que se crea entre ellas va a ser primordial. Los diferentes procesos que relacionan la comunicación, la toma de decisiones, la coordinación en este grupo y además los comportamientos que van a ayudar a la creación de hábitos en línea a esta filosofía, a esta cultura que veníamos hablando, junto a esa responsabilidad de cada uno de los profesionales y cada una de las secciones como grupo, además regida por ciertos estándares. Fijaos dónde queda el rendimiento en esta relación de estos tres principales factores y componentes. Queda al final del todo. ¿Por qué? Porque el rendimiento, esos resultados, van a ser la consecuencia de estos tres factores trabajando de manera conjunta. Entonces, ¿cuál es el principal problema o la principal casuística que nos encontramos en nuestros equipos normalmente? Que cuando los resultados que esperamos no llegan, siempre nos centramos en lo más superficial del problema. Casi siempre miramos el dato que no nos cuadra, por qué no nos cuadra ese dato, en lugar de intentar buscar o intentar modificar las diferentes causas o las diferentes raíces que nos pueden estar llevando a ese tipo de problemas. No hablo tanto de una situación particular, en cuanto a un jugador que no termina de correr lo que necesitamos que corra, un jugador que no da los datos de rendimiento que estamos esperando, pasamos un test y este jugador no está teniendo la progresión que esperásemos. No, recordad, estamos hablando mucho más allá. Estamos tratando este tema desde el punto de vista del ambiente de alto rendimiento. Por qué esta comunicación, que es tan importante para el staff de los coaches, no termina de llegar. Por qué este report viene de manera ineficiente. Esos son los tipos de relaciones, de comunicaciones y de responsabilidades sobre las que esta ponencia quiere causar el efecto. Por eso es superimportante que tengamos en cuenta estos tres principales componentes y la relación directa que van a tener con el resultado, siendo este la consecuencia de ellos",
+      "keywords": [
+        "componentes",
+        "personas",
+        "procesos",
+        "comportamientos",
+        "rendimiento-consecuencia",
+        "toma-decisiones",
+        "jerarquia"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica José Moreno sobre los componentes del sistema y el rendimiento como consecuencia?",
+        "¿Cuáles son los tres factores principales que construyen el ambiente según el ponente?",
+        "¿Por qué es un error mirar solo el dato superficial cuando el rendimiento falla?"
+      ],
+      "related_terms": [
+        "componentes",
+        "del",
+        "sistema",
+        "rendimiento",
+        "consecuencia",
+        "staff",
+        "management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la definición de ambiente según la literatura científica reciente.",
+      "context_after": "El fragmento termina invitando a prestar atención profunda a la raíz comunicacional de los equipos."
+    }
+  ]
+}
