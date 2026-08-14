@@ -1,0 +1,919 @@
+{
+  "video": {
+    "video_id": "V_ANA_01",
+    "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+    "speaker": "Ana de la Fuente",
+    "total_duration": "01:01:23",
+    "total_duration_seconds": 3683,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_ANA_01-001",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:03:14",
+      "end_timestamp": "00:05:54",
+      "start_seconds": 194,
+      "end_seconds": 354,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=194",
+      "title": "Relación entre el campo y el gimnasio",
+      "summary": "El campo es el estímulo dominante donde el deportista rinde específicamente, y el gimnasio es un complemento para soportar las demandas. Ambos no deben separarse como sesiones distintas, sino formar una sesión única y coherente con la misma intención.",
+      "literal_quote": "A mí no me gusta establecer el campo y el gimnasio como dos sesiones separadas... la idea es que el campo es el estímulo dominante y el gimnasio tiene que ir de la mano.",
+      "full_transcript": "Cuando hablamos de un contexto competitivo de deportes de equipo, siempre en las sesiones vamos a tener dos partes muy diferenciadas. Esa parte más de campo, el entrenamiento propiamente específico... y una parte más en sala de fuerza o en gimnasio. El campo, en este caso, va a ser el estímulo dominante... La parte de gimnasio va a ser un complemento a ese desarrollo que nos va a permitir ser más atletas para poder soportar las demandas específicas. A mí no me gusta establecer el campo y el gimnasio como dos sesiones separadas completamente diferentes. La idea es que la intención sea la misma.",
+      "keywords": [
+        "campo",
+        "gimnasio",
+        "estimulo-dominante",
+        "sesion-unica",
+        "adaptacion",
+        "training"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre el entrenamiento de campo y el gimnasio?",
+        "¿Por qué se debe considerar el campo y gimnasio como una sesión única?",
+        "¿Cuál es el estímulo dominante en deportes de equipo?"
+      ],
+      "related_terms": [
+        "estímulo dominante",
+        "complemento",
+        "sesión única"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación de la trayectoria profesional de Ana de la Fuente y el orden de contenidos del webinar.",
+      "context_after": "Explicación del principio de concentración del estrés fisiológico en el que se basa la metodología."
+    },
+    {
+      "id": "V_ANA_01-002",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:05:58",
+      "end_timestamp": "00:07:43",
+      "start_seconds": 358,
+      "end_seconds": 463,
+      "duration_seconds": 105,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=358",
+      "title": "Principio de concentración del estrés fisiológico (Modelo High Load)",
+      "summary": "Basado en el modelo de Charles Francis, se propone concentrar los estímulos de alta demanda neuromuscular en un mismo día (días high) para permitir días completos de recuperación (días low), lo que asegura que el sistema del atleta asuma el coste y genere adaptaciones.",
+      "literal_quote": "Los estímulos de alta demanda neuromuscular deben concentrarse en el mismo día para luego dejar días completos a la recuperación.",
+      "full_transcript": "Esta idea parte sobre todo de modelos como el modelo high load de Charles Francis, que hablaba del principio de concentración del estrés fisiológico. Lo que Francis decía es que los estímulos de alta demanda neuromuscular deben concentrarse en el mismo día para luego dejar días completos a la recuperación de ese sistema. Distinguía entre días high y días low. Los días high son los que generan adaptación, de alta carga y los días low son los que me permiten recuperarme. Tenemos que permitir que su sistema esté en plenas condiciones para poder experimentar al máximo esos días de coste fisiológico alto.",
+      "keywords": [
+        "high-load",
+        "estres-fisiologico",
+        "charles-francis",
+        "dias-high",
+        "dias-low",
+        "recuperacion",
+        "adaptacion"
+      ],
+      "entities": [
+        "Charles Francis"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el modelo high load de Charles Francis?",
+        "¿Por qué se debe concentrar el estrés fisiológico en un solo día?",
+        "¿Qué diferencia hay entre días high y días low?"
+      ],
+      "related_terms": [
+        "concentración",
+        "estrés",
+        "fisiológico",
+        "días high",
+        "días low"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de ver el campo y el gimnasio como una misma sesión con una misma intención.",
+      "context_after": "Visualización del microciclo competitivo estándar con la distribución de los días semáforo."
+    },
+    {
+      "id": "V_ANA_01-003",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:07:43",
+      "end_timestamp": "00:11:05",
+      "start_seconds": 463,
+      "end_seconds": 665,
+      "duration_seconds": 202,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=463",
+      "title": "Arquitectura y modulación de carga en el microciclo",
+      "summary": "Se estructura el microciclo usando un sistema de semáforo. El partido es el día rojo de máxima demanda. El post-partido combina recuperación y compensación. Seguido de un descanso, el siguiente día vuelve a ser rojo y la carga disminuye progresivamente hacia el próximo partido.",
+      "literal_quote": "Los partidos, evidentemente, son días high, son días de alta demanda para nuestro sistema... y a partir de ese día de alta carga, iríamos bajando otra vez para estar completamente preparados.",
+      "full_transcript": "Esta es una visión global de un microciclo competitivo de fútbol. Los partidos, evidentemente, son días high, son días de alta demanda para nuestro sistema, con lo cual siempre van a ser según un modelo semáforo en el que establezcamos los rojos como los días más demandantes y los verdes como días más tranquilos... El día de 48 horas poscompetición es el día que suele descansarse. Y a partir de ahí ya empezaríamos a modular la curva de nuevo para afrontar el siguiente partido. El primer día después del descanso, sería otra vez un día rojo... iríamos bajando otra vez para estar completamente preparados y disponibles para el siguiente partido.",
+      "keywords": [
+        "microciclo",
+        "semaforo",
+        "carga",
+        "dias-rojos",
+        "dias-verdes",
+        "periodizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se modula la carga en un microciclo competitivo?",
+        "¿Qué representan los colores del semáforo en el control de carga?",
+        "¿Cómo es la curva de carga entre dos partidos?"
+      ],
+      "related_terms": [
+        "modelo",
+        "semáforo",
+        "modulación",
+        "de",
+        "carga",
+        "microciclo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Principio de concentración del estrés fisiológico mediante días de alta y baja carga.",
+      "context_after": "Análisis detallado de la firma de estrés de cada tipo de sesión (regenerativa, volumen, velocidad, etc.)."
+    },
+    {
+      "id": "V_ANA_01-004",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:11:08",
+      "end_timestamp": "00:12:21",
+      "start_seconds": 668,
+      "end_seconds": 741,
+      "duration_seconds": 73,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=668",
+      "title": "Firma de estrés: Sesión regenerativa",
+      "summary": "La sesión regenerativa tiene como objetivo restaurar la disponibilidad del deportista asumiendo un bajo coste mecánico, neuromuscular, metabólico y cognitivo. Es un día 'verde' que evita la acumulación de fatiga.",
+      "literal_quote": "El objetivo es restaurar la disponibilidad con un bajo coste mecánico. No seguir fatigando al jugador, sino intentar respetar un poco su sistema y permitir que se recupere.",
+      "full_transcript": "En relación con esto, tenemos diferentes tipos de sesión. Podemos tener delante una sesión regenerativa, cuyo objetivo es restaurar la disponibilidad con un bajo coste mecánico. No seguir fatigando al jugador, sino intentar respetar un poco su sistema y permitir que se recupere en todas las esferas, con lo cual sería un día verde a todos los niveles: a nivel mecánico, neuromuscular, metabólico, cognitivo. Sería un día tranquilo, dedicado a que el deportista pueda estar nuevamente disponible para recibir estímulos interesantes.",
+      "keywords": [
+        "sesion-regenerativa",
+        "recuperacion",
+        "bajo-coste-mecanico",
+        "disponibilidad",
+        "dia-verde"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es el objetivo principal de una sesión regenerativa?",
+        "¿Qué sistemas se buscan proteger durante el día regenerativo?",
+        "¿Qué perfil de carga tiene el día post-partido para titulares?"
+      ],
+      "related_terms": [
+        "sesión regenerativa",
+        "restaurar",
+        "disponibilidad",
+        "día verde"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la modulación de carga en un microciclo estándar con modelo semáforo.",
+      "context_after": "Descripción de las sesiones de alta demanda neuromuscular y su firma de estrés."
+    },
+    {
+      "id": "V_ANA_01-005",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:12:21",
+      "end_timestamp": "00:13:11",
+      "start_seconds": 741,
+      "end_seconds": 791,
+      "duration_seconds": 50,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=741",
+      "title": "Firma de estrés: Alta demanda neuromuscular",
+      "summary": "Estas sesiones concentran el mayor coste mecánico y neural mediante espacios reducidos, aceleraciones, deceleraciones y alta exigencia cognitiva por la falta de tiempo para decidir.",
+      "literal_quote": "El objetivo de este tipo de sesiones es concentrar el mayor coste mecánico y neural.",
+      "full_transcript": "Otro tipo de sesión que podemos tener delante son sesiones de alta demanda neuromuscular, que sí que serían exigentes en cuanto a la carga de nuestro sistema. El objetivo de este tipo de sesiones es concentrar el mayor coste mecánico y neural. Si pensamos en estímulos de campo, normalmente son este tipo de sesiones en las que los espacios son reducidos, hay mucha aceleración, deceleración y cambios de dirección, con lo cual nuestro sistema neuromuscular se ve bastante demandado. Y a nivel cognitivo, con esos espacios cortos y poco tiempo para pensar, también tenemos alta demanda.",
+      "keywords": [
+        "alta-demanda",
+        "neuromuscular",
+        "coste-mecanico",
+        "aceleraciones",
+        "deceleraciones",
+        "espacios-reducidos"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué caracteriza a una sesión de alta demanda neuromuscular?",
+        "¿Qué tipo de acciones de campo predominan en días de alta demanda neural?",
+        "¿Por qué es alta la demanda cognitiva en sesiones neuromusculares?"
+      ],
+      "related_terms": [
+        "alta demanda neuromuscular",
+        "coste mecánico",
+        "espacios reducidos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Descripción de la sesión regenerativa y su bajo coste fisiológico.",
+      "context_after": "Descripción de las sesiones enfocadas en el volumen locomotor y la amplitud de espacios."
+    },
+    {
+      "id": "V_ANA_01-006",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:13:11",
+      "end_timestamp": "00:14:57",
+      "start_seconds": 791,
+      "end_seconds": 897,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=791",
+      "title": "Firma de estrés: Volumen locomotor",
+      "summary": "Se basan en recorrer mayor distancia en espacios amplios a intensidades submáximas. El coste mecánico es menor que en sesiones neuromusculares, pero el coste metabólico y la demanda asociada al volumen total son elevados.",
+      "literal_quote": "La idea de estas es sostener esfuerzos de mayor continuidad y amplitud... espacios utilizados son más amplios, las distancias recorridas y el volumen total de metros recorrido por los deportistas es mayor.",
+      "full_transcript": "Otro tipo de sesión bastante demandante son las sesiones orientadas a volumen locomotor. La idea de estas es sostener esfuerzos de mayor continuidad y amplitud. Si pensásemos en estímulos de campo, serían este tipo de sesión en la que los espacios utilizados son más amplios, las distancias recorridas y el volumen total de metros recorrido por los deportistas es mayor, pero no va de la mano de unos parámetros de aceleraciones y deceleraciones muy altos. Estamos hablando de distancias más grandes... Este tipo de sesiones tienen quizá un poquito menos de demanda a nivel mecánico y neuromuscular que las anteriores, pero también bastante demandantes por el volumen que se tiene que asumir.",
+      "keywords": [
+        "volumen-locomotor",
+        "espacios-amplios",
+        "distancia-recorrida",
+        "coste-metabolico",
+        "continuidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es una sesión de volumen locomotor en el fútbol?",
+        "¿Cómo afectan los espacios amplios a la fatiga del jugador?",
+        "¿Qué diferencias hay entre demanda neuromuscular y volumen locomotor?"
+      ],
+      "related_terms": [
+        "volumen locomotor",
+        "esfuerzos",
+        "continuidad",
+        "espacios amplios"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las sesiones enfocadas en la demanda neuromuscular intensa en espacios cortos.",
+      "context_after": "Análisis de las sesiones de velocidad con máxima expresión de fuerza rápida y amplias recuperaciones."
+    },
+    {
+      "id": "V_ANA_01-007",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:14:57",
+      "end_timestamp": "00:15:51",
+      "start_seconds": 897,
+      "end_seconds": 951,
+      "duration_seconds": 54,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=897",
+      "title": "Firma de estrés: Velocidad",
+      "summary": "Son sesiones destinadas a expresar el máximo rendimiento neuromuscular mediante sprints y transiciones. Requieren amplias recuperaciones, lo que disminuye el coste metabólico y la demanda cognitiva.",
+      "literal_quote": "El objetivo es expresar el máximo rendimiento neuromuscular... si queremos que esa velocidad consiga su máxima expresión, tenemos que tener recuperaciones más amplias.",
+      "full_transcript": "También tenemos sesiones de tipo velocidad, cuyo objetivo es expresar el máximo rendimiento neuromuscular. Sesiones donde aparecen muchas acciones de sprint... Aquí tenemos alta demanda mecánica, pero sobre todo muy alta demanda neuromuscular asociada con esas acciones de sprint. El coste metabólico baja un poquito, porque si queremos que esa velocidad consiga su máxima expresión, tenemos que tener recuperaciones más amplias, con lo cual las demandas a nivel metabólico disminuyen un poquito y el aspecto cognitivo normalmente baja un poquito... porque si lo que buscamos es máxima velocidad, no puede ir asociada a demasiada percepción o a demasiada decisión.",
+      "keywords": [
+        "velocidad",
+        "sprint",
+        "rendimiento-neuromuscular",
+        "recuperacion",
+        "baja-demanda-cognitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran las sesiones de velocidad en el microciclo?",
+        "¿Por qué baja el coste metabólico en el trabajo de máxima velocidad?",
+        "¿Cómo afecta la demanda cognitiva al trabajo de sprint?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "rendimiento neuromuscular",
+        "recuperaciones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de las sesiones de volumen locomotor basadas en distancias largas y espacios grandes.",
+      "context_after": "Detalle sobre el día previo a la competición, conocido como sesión de activación o MD-1."
+    },
+    {
+      "id": "V_ANA_01-008",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:15:51",
+      "end_timestamp": "00:17:05",
+      "start_seconds": 951,
+      "end_seconds": 1025,
+      "duration_seconds": 74,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=951",
+      "title": "Firma de estrés: Activación precompetitiva",
+      "summary": "Típica del día previo al partido (MD-1), su meta es optimizar la preparación neuromuscular sin sobrecargar el sistema. Se considera un día 'verde' con un trabajo táctico muy controlado para asegurar frescura física.",
+      "literal_quote": "El único objetivo es optimizar la preparación neuromuscular para la competición, que los deportistas estén bien y frescos para luego al día siguiente poder rendir al máximo.",
+      "full_transcript": "Y luego tendríamos la sesión de activación precompetitiva, que es típica sesión del día de antes del partido, cuyo único objetivo es optimizar la preparación neuromuscular para la competición, que los deportistas estén bien y frescos para luego al día siguiente poder rendir al máximo. Con lo cual sería una sesión otra vez de tipo verde, quizá con algo más de demanda cognitiva de lo que podría tener una sesión regenerativa, porque sí que se trabajan un poco más aspectos específicos, pero en general una sesión bastante de bajada, bastante para permitir un buen rendimiento en una sesión high al día siguiente.",
+      "keywords": [
+        "activacion-precompetitiva",
+        "MD-1",
+        "preparacion-neuromuscular",
+        "dia-verde",
+        "frescura"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué características tiene la activación precompetitiva en fútbol?",
+        "¿Cuál es el principal objetivo del entrenamiento el día antes del partido?",
+        "¿Qué demanda predomina en la sesión de MD-1?"
+      ],
+      "related_terms": [
+        "activación",
+        "precompetitiva",
+        "preparación",
+        "neuromuscular"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las sesiones dedicadas a la velocidad y máxima expresión de fuerza.",
+      "context_after": "El concepto fundamental de hacer coincidir las intenciones de las sesiones de campo con el trabajo en el gimnasio."
+    },
+    {
+      "id": "V_ANA_01-009",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:17:09",
+      "end_timestamp": "00:19:15",
+      "start_seconds": 1029,
+      "end_seconds": 1155,
+      "duration_seconds": 126,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1029",
+      "title": "Alineación de intenciones entre campo y gimnasio",
+      "summary": "En lugar de ubicar estímulos de gimnasio de forma aleatoria, el modelo propone alinear el coste fisiológico: el gimnasio debe potenciar exactamente la misma intención que demanda el campo ese día, simplificando la toma de decisiones.",
+      "literal_quote": "La idea que os presento con este modelo es que el trabajo de gimnasio siga la misma intención que esa sesión de campo.",
+      "full_transcript": "El que entendamos la intención de la sesión que tenemos delante nos va a permitir que tengamos una arquitectura de microciclo bastante estable, independientemente del modelo de periodización... Lo que nos resulta un poco más complicado es dónde encajar cada uno de los tipos de estímulos. Qué día meto los estímulos de sobrecarga excéntrica, qué día meto el trabajo un poco más de cargas altas... La idea que os presento con este modelo es que el trabajo de gimnasio siga la misma intención que esa sesión de campo. Si la sesión de campo es de alta demanda neuromuscular... es el día que en gimnasio tenemos que asumir los mismos costes fisiológicos... El día de velocidad, que siga la misma intención también en gimnasio. Y al final, siguiendo esta idea, se nos van a colocar solo los estímulos.",
+      "keywords": [
+        "sincronizacion",
+        "intencion",
+        "coste-fisiologico",
+        "gimnasio",
+        "campo",
+        "periodizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se deben alinear los estímulos entre gimnasio y campo?",
+        "¿Qué soluciona el modelo de sincronización de estímulos?",
+        "¿Cuándo es el mejor momento para entrenar sobrecarga excéntrica según el microciclo?"
+      ],
+      "related_terms": [
+        "sincronización de estímulos",
+        "intención de la sesión",
+        "coste fisiológico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Revisión de los tipos de firma de estrés en campo (regenerativa, neuromuscular, volumen, velocidad, activación).",
+      "context_after": "Exposición de los tres pilares o ideas principales que estructuran este modelo."
+    },
+    {
+      "id": "V_ANA_01-010",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:19:21",
+      "end_timestamp": "00:22:01",
+      "start_seconds": 1161,
+      "end_seconds": 1321,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1161",
+      "title": "Tres pilares del modelo de sincronización",
+      "summary": "El modelo se basa en tres ideas: 1) Intención única (el cuerpo no distingue si la carga es en campo o gimnasio); 2) Coste fisiológico coherente (proteger los días 'low' y agrupar la carga en los 'high'); 3) Individualización (la arquitectura se mantiene, la dosis se adapta).",
+      "literal_quote": "Todo debe seguir una intención única. El organismo no distingue entre campo o gimnasio, solo sabe que recibe carga.",
+      "full_transcript": "Tiene tres ideas principales. La primera idea es... que todo debe seguir una intención única. El organismo no distingue entre campo o gimnasio, solo sabe que recibe carga. Da igual que la carga sea pisando césped que pisando sala... Un coste fisiológico coherente, con la idea de sincronizar esos costes fisiológicos, que los días high de verdad sean high y los días low de verdad sean low... Por último... el asumir que esta arquitectura no choca con la individualización del trabajo y de la carga. La función del día puede permanecer estable dentro del ciclo, pero la dosis y el contenido concreto de ese día se puede modular según el perfil individual, según momentos concretos de un deportista.",
+      "keywords": [
+        "intencion-unica",
+        "coste-fisiologico",
+        "dias-high",
+        "dias-low",
+        "individualizacion",
+        "dosis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principios del modelo de sincronización de estímulos?",
+        "¿Por qué es importante sincronizar el coste fisiológico en el microciclo?",
+        "¿Cómo se integra la individualización en una arquitectura de carga estable?"
+      ],
+      "related_terms": [
+        "intención única",
+        "coste coherente",
+        "individualización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que los estímulos del gimnasio deben seguir y apoyar las demandas exactas del entrenamiento en campo.",
+      "context_after": "Aplicación del modelo a la sesión de gimnasio en un día de recuperación o regenerativo."
+    },
+    {
+      "id": "V_ANA_01-011",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:22:32",
+      "end_timestamp": "00:30:42",
+      "start_seconds": 1352,
+      "end_seconds": 1842,
+      "duration_seconds": 490,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1352",
+      "title": "Diseño del trabajo de gimnasio en el día regenerativo",
+      "summary": "Para la sesión regenerativa en el gimnasio se proponen tres bloques: 'Movimiento' (mover grandes grupos musculares a baja intensidad), 'Tensión' (isometrías submáximas o tempo lento para aliviar la rigidez mediante analgesia) y 'Reset' (reactivación vagal con respiraciones de 6 ciclos/min).",
+      "literal_quote": "Una sesión regenerativa debería cumplir primero un bloque de movimiento... Un segundo bloque de tensión... Y por último, un bloque que llamamos más reset.",
+      "full_transcript": "Para mí, una sesión regenerativa debería cumplir primero un bloque de movimiento, que es actividad global de baja intensidad, lo que hablábamos de mover grandes grupos musculares de todo el cuerpo... para generar flujo sanguíneo. Un segundo bloque de tensión, que aquí lo que buscamos es mejorar la percepción de rigidez y de bienestar con un bajo coste mecánico, sin acumular más fatiga... trabajos de estímulos bastante protectores podrían ser isometrías sub máximas prolongadas de larga duración... nos ayudan a bajar un poquito sintomatología y dolor en tejido conectivo... Y por último, un bloque que llamamos más reset, que sería lo que nos ayudaría a la transición última hacia la recuperación. Sobre todo estaría basado en respiraciones lentas para favorecer la reactivación vagal y la recuperación autónoma de nuestro sistema. Hay algunos estudios, como el de Laborde... que nos hablan de un ritmo de respiración de unas seis respiraciones por minuto.",
+      "keywords": [
+        "regenerativo",
+        "flujo-sanguineo",
+        "isometria",
+        "analgesia",
+        "reactivacion-vagal",
+        "respiracion",
+        "reset"
+      ],
+      "entities": [
+        "Laborde"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo debe estructurarse una sesión de gimnasio en un día regenerativo?",
+        "¿Qué beneficios tienen las isometrías en el día de recuperación?",
+        "¿Qué es la reactivación vagal mediante respiración?"
+      ],
+      "related_terms": [
+        "bloque de movimiento",
+        "bloque de tensión",
+        "bloque de reset"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de las reglas básicas del modelo de sincronización.",
+      "context_after": "Enfoque sobre el día post-partido (MD+1) para aquellos jugadores que no necesitan regeneración sino compensación."
+    },
+    {
+      "id": "V_ANA_01-012",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:30:59",
+      "end_timestamp": "00:35:03",
+      "start_seconds": 1859,
+      "end_seconds": 2103,
+      "duration_seconds": 244,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1859",
+      "title": "Sesión compensatoria post-partido en gimnasio (+1)",
+      "summary": "Los jugadores con menor participación precisan reproducir las demandas mecánicas de la competición. El gimnasio aísla picos de fuerza (Overcoming Isometrics), aporta sobrecarga excéntrica simulando intensidades de campo, y añade trabajos de lucha y contacto físico.",
+      "literal_quote": "El objetivo... es reproducir las demandas mecánicas y neuromusculares de la competición de forma un poquito más analítica.",
+      "full_transcript": "Normalmente, lo que se hace es una sesión compensatoria... el objetivo de estas sesiones normalmente es que luego... todos los deportistas partan del mismo punto de partida de carga. Si en campo lo que se va a buscar es reproducir las demandas mecánicas y neuromusculares de la competición, en gimnasio vamos a buscar lo mismo... El gimnasio nos va a permitir en esta sesión alcanzar niveles de rendimiento neuromuscular que a lo mejor en el campo no se consiguen por contexto... alcanzar elevados picos de fuerza. Esto lo vamos a buscar con isométricos máximos de empuje, con overcoming isometrics... Por otro lado, también sería interesante aportar estímulos de sobrecarga excéntrica a alta velocidad... Y creo que también es interesante en este tipo de sesiones aportar acciones específicas de lucha para compensar las demandas que han quedado pendientes de duelos, de contacto.",
+      "keywords": [
+        "compensacion",
+        "dia-mas-uno",
+        "overcoming-isometrics",
+        "sobrecarga-excentrica",
+        "picos-fuerza",
+        "lucha",
+        "contacto"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se compensa el esfuerzo de partido en los suplentes desde el gimnasio?",
+        "¿Por qué se utilizan los overcoming isometrics en la sesión post-partido?",
+        "¿Qué importancia tiene el trabajo de contacto y lucha en el gimnasio?"
+      ],
+      "related_terms": [
+        "sesión compensatoria",
+        "overcoming isometrics",
+        "sobrecarga excéntrica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estructura del día regenerativo para los jugadores con alta participación.",
+      "context_after": "Análisis del diseño del trabajo de fuerza en los días de mayor exigencia de la semana."
+    },
+    {
+      "id": "V_ANA_01-013",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:35:10",
+      "end_timestamp": "00:38:10",
+      "start_seconds": 2110,
+      "end_seconds": 2290,
+      "duration_seconds": 180,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2110",
+      "title": "Trabajo de fuerza en días de alta demanda (MD-4 / MD-3)",
+      "summary": "El día de mayor carga neuromuscular es idóneo para incorporar los ejercicios principales de fuerza máxima monitorizados con VBT (ej. sentadilla, peso muerto), control de planos secundarios (frontal/transversal) y sobrecarga excéntrica para generar tolerancia estructural.",
+      "literal_quote": "Es un buen día para meter esos ejercicios principales de máxima producción de fuerza que nos permitan... dosificar el tema con entrenamiento basado en velocidad.",
+      "full_transcript": "Este tipo de sesión lo que busca es promover adaptaciones estructurales... Normalmente, este tipo de sesiones se producen o se colocan dentro del microciclo lo más lejos posible a un partido y a otro... En gimnasio deberíamos enfocarlo de la misma forma, que haya alto coste mecánico, alto coste neuromuscular. Esto lo hace un día especialmente interesante para meter ese trabajo de cargas más altas... Mi propuesta personal para esto es que es un buen día para meter esos ejercicios principales de máxima producción de fuerza que nos permitan más en plano sagital, quizá dosificar el tema con entrenamiento basado en velocidad... Esto podría ir acompañado de ejercicios auxiliares... que nos ayuden a ese control multiplanar, de predominio de planos frontal, transversal... Y luego es un buen día también para meter esa sobrecarga excéntrica para ganar tolerancia mecánica.",
+      "keywords": [
+        "alta-demanda",
+        "fuerza-maxima",
+        "VBT",
+        "control-multiplanar",
+        "tolerancia-mecanica",
+        "sobrecarga-excentrica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuándo es el mejor momento para entrenar la fuerza máxima en el microciclo?",
+        "¿Cómo se integra el VBT (Velocity Based Training) en días de alta carga?",
+        "¿Por qué es importante el control multiplanar en el trabajo auxiliar de fuerza?"
+      ],
+      "related_terms": [
+        "fuerza máxima",
+        "entrenamiento basado en velocidad",
+        "control multiplanar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del trabajo compensatorio post-partido (MD+1).",
+      "context_after": "Enfoque sobre el trabajo de gimnasio para alinear los esfuerzos metabólicos del volumen locomotor."
+    },
+    {
+      "id": "V_ANA_01-014",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:38:14",
+      "end_timestamp": "00:40:47",
+      "start_seconds": 2294,
+      "end_seconds": 2447,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2294",
+      "title": "Gimnasio metabólico para el tren superior (Volumen Locomotor)",
+      "summary": "Para acompañar la sesión de volumen locomotor en campo, donde el tren inferior recibe un gran coste, se propone mantener el objetivo de densidad y repetición de esfuerzos trasladándolo al tren superior en el gimnasio a través de circuitos metabólicos.",
+      "literal_quote": "La mejor forma de acoplarla es desplazando el objetivo de repetición de esfuerzos hacia segmentos que no estén muy sobrecargados ya... hacia el hemisferio superior.",
+      "full_transcript": "El objetivo principal es aceptar un alto coste metabólico y el poder repetir esfuerzos en campo... En gimnasio, la idea sería mantener la misma intención. Este es un día que a mí me gusta mucho... creo que la mejor forma de acoplarla es desplazando el objetivo de repetición de esfuerzos hacia segmentos que no estén muy sobrecargados ya. Si el hemisferio inferior va a tener gran volumen de carga en estos días... una buena opción es orientar esta capacidad de repetición de esfuerzos hacia el hemisferio superior y hacer trabajo de alta densidad de hemisferio superior. De esta forma... alternamos segmentos, distribuimos el coste, pero la intención sigue siendo la misma: producir, recuperar, repetir... un circuito más metabólico por postas de acciones de lucha o de acciones de lucha solo de tren superior.",
+      "keywords": [
+        "volumen-locomotor",
+        "coste-metabolico",
+        "repeticion-esfuerzos",
+        "tren-superior",
+        "circuito-metabolico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Solución"
+      ],
+      "search_questions": [
+        "¿Cómo entrenar en el gimnasio un día enfocado al volumen locomotor en campo?",
+        "¿Por qué entrenar el tren superior en un día de mucho kilometraje en fútbol?",
+        "¿Qué es la densidad de estímulos para el hemisferio superior?"
+      ],
+      "related_terms": [
+        "repetición de esfuerzos",
+        "hemisferio superior",
+        "circuito metabólico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Ubicación de la fuerza máxima y el control multiplanar en los días de mayor coste neuromuscular.",
+      "context_after": "Adaptación de los ejercicios de gimnasio a los días enfocados puramente en velocidad y transiciones."
+    },
+    {
+      "id": "V_ANA_01-015",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:40:49",
+      "end_timestamp": "00:43:31",
+      "start_seconds": 2449,
+      "end_seconds": 2611,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2449",
+      "title": "Máxima velocidad y pliometría en el gimnasio",
+      "summary": "El día de velocidad, el trabajo de fuerza prioriza el máximo rendimiento con bajas cargas. Se utilizan movimientos olímpicos con poca fase de frenado y pliometría de ciclo estiramiento-acortamiento muy rápido, cuidando que la carga no comprometa la máxima velocidad.",
+      "literal_quote": "Si ponemos carga demasiado alta, por mucho que la intención del deportista sea moverla a alta velocidad, vamos a estar trabajando otro tipo de objetivos.",
+      "full_transcript": "El objetivo de esta sesión va a ser expresar el máximo rendimiento neuromuscular en el menor tiempo posible, velocidad propiamente dicha. En gimnasio, el objetivo tiene que ser velocidad. Y aquí sí que va a ser especialmente determinante la intención de mover la carga a la máxima velocidad... Si ponemos carga demasiado alta, por mucho que la intención del deportista sea moverla a alta velocidad, vamos a estar trabajando otro tipo de objetivos... ¿Tipos de ejercicio que podemos englobar dentro de esta sesión? Olímpicos y derivados, que nos permiten esa alta producción de fuerza y... variantes con poca fase decelerativa... Que no haya que frenarlo. Y luego trabajos pliométricos... que tengan un ciclo estiramiento-acortamiento rápido.",
+      "keywords": [
+        "velocidad",
+        "olimpicos",
+        "pliometria",
+        "CEA",
+        "fase-decelerativa",
+        "rendimiento-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué ejercicios son adecuados para un día de velocidad en el gimnasio?",
+        "¿Por qué es clave reducir la carga en los ejercicios del día de velocidad?",
+        "¿Qué tipo de ciclo estiramiento-acortamiento (CEA) se busca en la pliometría orientada a velocidad?"
+      ],
+      "related_terms": [
+        "máxima velocidad",
+        "movimientos olímpicos",
+        "fase decelerativa"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del uso del tren superior en días de alto componente metabólico.",
+      "context_after": "Aclaración de cómo integrar tareas de exigencia cognitiva de manera secundaria en el gimnasio."
+    },
+    {
+      "id": "V_ANA_01-016",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:43:37",
+      "end_timestamp": "00:46:15",
+      "start_seconds": 2617,
+      "end_seconds": 2775,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2617",
+      "title": "Integración de la demanda cognitiva en el gimnasio",
+      "summary": "La demanda cognitiva o táctica no es un día aislado, sino una capa adicional. Se puede integrar en el gimnasio usando estímulos externos e incertidumbre, pero debe aplicarse en ejercicios secundarios para no ensuciar la mecánica en tareas de máxima fuerza.",
+      "literal_quote": "El meter incertidumbre o meter elección me ensucia un poquito quizá las ejecuciones... yo no lo metería dentro de los ejercicios principales de máxima producción de fuerza.",
+      "full_transcript": "La demanda cognitiva no da, en mi opinión, para hacer un tipo de sesión en concreto... Normalmente, las demandas cognitivas se integran dentro de los otros tipos de sesiones... Si en campo vamos a tener mucha demanda cognitiva ese día... quizá en gimnasio podemos apoyar esa intención... metiendo estímulos externos a los diferentes ejercicios... señales visuales, auditivas... Metiendo decisiones que tengan que elegir entre varias cosas... Y que haya incertidumbre... Es verdad que esto nos aporta demanda cognitiva... pero también perdemos un poquito en cuanto a trabajo analítico... El meter incertidumbre o meter elección me ensucia un poquito quizá las ejecuciones. No van a ser ejecuciones tan limpias, con lo cual yo no lo metería dentro de los ejercicios principales de máxima producción de fuerza.",
+      "keywords": [
+        "demanda-cognitiva",
+        "toma-decision",
+        "incertidumbre",
+        "estimulos-externos",
+        "trabajo-analitico"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se puede incluir la toma de decisiones en los ejercicios de gimnasio?",
+        "¿Por qué no se debe mezclar la incertidumbre con la fuerza máxima?",
+        "¿Qué impacto tiene el añadir elementos cognitivos en la limpieza técnica de un ejercicio?"
+      ],
+      "related_terms": [
+        "demanda cognitiva",
+        "estímulos externos",
+        "ejercicios principales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Implementación del trabajo de fuerza máxima para potenciar acciones explosivas cortas.",
+      "context_after": "Descripción de la sesión de activación del día anterior al partido."
+    },
+    {
+      "id": "V_ANA_01-017",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:46:19",
+      "end_timestamp": "00:50:34",
+      "start_seconds": 2779,
+      "end_seconds": 3034,
+      "duration_seconds": 255,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2779",
+      "title": "Efecto Priming y contrastes para activación (MD-1)",
+      "summary": "Para maximizar el rendimiento al día siguiente sin sumar fatiga, se utiliza un entrenamiento de contrastes exponiendo al sistema nervioso a toda la curva fuerza-velocidad: fuerza máxima (con isometría), potencia (olímpicos rápidos) y velocidad (pliometría sin peso).",
+      "literal_quote": "Nos permiten exponer al sistema nervioso a las diferentes manifestaciones de la fuerza, sin acumular fatiga significativa. Como hay muy poco volumen, es más una activación neural.",
+      "full_transcript": "Y por último, la sesión de activación precompetitiva... El objetivo de esta sesión en campo es maximizar la capacidad de expresar rendimiento al día siguiente... La ciencia nos habla mucho de ese posible efecto agudo que podemos conseguir con sesiones tipo priming, de ese efecto pape, que a nivel neuromuscular nos puede ayudar a ensalzar un poquito el rendimiento... Mi propuesta para una sesión tipo priming... es un entrenamiento de contrastes. ¿Por qué? Porque nos permiten exponer al sistema nervioso a las diferentes manifestaciones de la fuerza, sin acumular fatiga significativa... Necesitamos estímulos de fuerza máxima... a mí me gusta meterlos con overcoming isometrics... luego la parte de potencia. ¿Cómo puedo trabajar esta parte? O con olímpicos o con trabajos pliométricos, quizá un poco cargados... Y por último... la parte de velocidad. Aquí sí que la intención es maximizar la velocidad de movimiento con mínima resistencia externa. Mucha pliometría muy reactiva.",
+      "keywords": [
+        "priming",
+        "activacion-precompetitiva",
+        "PAPE",
+        "entrenamiento-contrastes",
+        "curva-fuerza-velocidad",
+        "MD-1"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es una sesión tipo priming en el fútbol?",
+        "¿Cómo se estructuran los contrastes en la sesión de activación previa al partido?",
+        "¿Por qué se utilizan isometrías máximas el día antes de competir?"
+      ],
+      "related_terms": [
+        "efecto priming",
+        "entrenamiento de contrastes",
+        "curva fuerza-velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre cuándo y cómo utilizar estímulos cognitivos y tácticos.",
+      "context_after": "Ubicación sugerida para cada uno de estos días dentro de la estructura general del microciclo."
+    },
+    {
+      "id": "V_ANA_01-018",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:52:12",
+      "end_timestamp": "00:56:09",
+      "start_seconds": 3132,
+      "end_seconds": 3369,
+      "duration_seconds": 237,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3132",
+      "title": "Decisión de orden: Gimnasio antes o después del campo",
+      "summary": "Realizar gimnasio antes prioriza el desarrollo neuromuscular y es crucial para el trabajo neural o de velocidad. El campo antes prioriza la táctica específica, ideal en alto nivel competitivo, pero asume menor calidad de fuerza por fatiga.",
+      "literal_quote": "Si metemos primero la parte de gimnasio y después la parte de campo, lo que estamos haciendo es priorizar la calidad neuromuscular... Si priorizo el campo... priorizar la calidad específica.",
+      "full_transcript": "En cuanto a qué metemos antes, el gimnasio o el campo... Mi recomendación es priorizar la adaptación que queramos potenciar. Si metemos primero la parte de gimnasio y después la parte de campo, lo que estamos haciendo es priorizar la calidad neuromuscular, porque tenemos el sistema fresco... Si priorizo el campo y hago primero campo y después gimnasio, lo que estoy haciendo es priorizar la calidad específica. Es verdad que llegan al campo sin fatiga previa... Y el gimnasio asume, como va a ser postcampo, que puede ser que lleguemos con fatiga... trabajos tipo velocidad, evidentemente no es lo mismo hacerlos en fatiga que sin fatiga... Depende de qué nivel competitivo estemos hablando... Si son etapas formativas, quizá lo ideal sería que siempre fuese el gimnasio antes del campo... Si estamos hablando de sesiones de mucha demanda neural, necesito que el sistema nervioso esté fresco. Ahí, independientemente del nivel competitivo, yo haría el gimnasio antes.",
+      "keywords": [
+        "orden-sesion",
+        "calidad-neuromuscular",
+        "calidad-especifica",
+        "fatiga-previa",
+        "etapa-formativa"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Decisión",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Es mejor hacer gimnasio antes o después del campo?",
+        "¿Cómo afecta hacer gimnasio después del campo a las sesiones de velocidad?",
+        "¿Qué se prioriza cuando el gimnasio se realiza antes del trabajo de campo?"
+      ],
+      "related_terms": [
+        "priorizar",
+        "adaptación",
+        "sistema nervioso fresco"
+      ],
+      "relevance_score": 5,
+      "context_before": "Resumen de cómo encajan los tipos de día en un modelo estándar de microciclo de partido a partido.",
+      "context_after": "Análisis de la periodización a largo plazo y cómo modular la carga sin cambiar la estructura semanal."
+    },
+    {
+      "id": "V_ANA_01-019",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:56:14",
+      "end_timestamp": "00:58:17",
+      "start_seconds": 3374,
+      "end_seconds": 3497,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3374",
+      "title": "Evolución de las variables de carga en la temporada",
+      "summary": "La estructura del microciclo es estable, pero la dosis individual cambia. Normalmente el volumen es alto al principio y decrece, la intensidad y la velocidad aumentan con el estado de forma, y la complejidad es baja al inicio y al final de temporada, concentrándose a la mitad.",
+      "literal_quote": "La estructura siempre permanezca y lo que evolucione sea la dosis. Normalmente, el volumen va a ser más alto al principio de temporada y va a ir decreciendo... La intensidad es al revés.",
+      "full_transcript": "Por último, hablando un poco de periodización, la idea es que la estructura siempre permanezca y lo que evolucione sea la dosis... La arquitectura semanal va a ser siempre la misma, más o menos... Lo que va a evolucionar es el volumen, la intensidad, la complejidad, la velocidad, la dificultad. Normalmente, el volumen va a ser más alto al principio de temporada y va a ir decreciendo a medida que avanzamos, porque ya lleva un volumen acumulado... La intensidad es al revés. Normalmente al principio son capaces de generar menos y luego pueden ir asumiendo mayores intensidades... La complejidad, mi recomendación es que al principio y al final sea baja... Velocidad nos pasa parecido a la intensidad.",
+      "keywords": [
+        "periodizacion",
+        "volumen",
+        "intensidad",
+        "complejidad",
+        "velocidad",
+        "evolucion-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo varían la intensidad y el volumen a lo largo de una temporada?",
+        "¿Por qué se debe reducir la complejidad al final de la temporada?",
+        "¿Qué variables se modulan durante la periodización en fútbol?"
+      ],
+      "related_terms": [
+        "arquitectura semanal",
+        "evolución de la dosis",
+        "periodización"
+      ],
+      "relevance_score": 4,
+      "context_before": "Discusión práctica sobre la ubicación cronológica (orden) del trabajo de fuerza y campo en la misma sesión.",
+      "context_after": "División de la temporada en distintos bloques de énfasis: desarrollar, consolidar y mantener."
+    },
+    {
+      "id": "V_ANA_01-020",
+      "video_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+      "speaker": "Ana de la Fuente",
+      "start_timestamp": "00:58:21",
+      "end_timestamp": "01:01:06",
+      "start_seconds": 3501,
+      "end_seconds": 3666,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3501",
+      "title": "Periodización por bloques: Desarrollar, Consolidar y Mantener",
+      "summary": "El foco de la temporada se divide en bloques. La pretemporada se centra en 'desarrollar' con mayor volumen. El medio curso busca 'consolidar', y el tramo final o los equipos en ligas top de alta densidad competitiva (Champions) se enfocan en 'mantener' para evitar el desentrenamiento.",
+      "literal_quote": "En los diferentes momentos de la temporada vamos a tener periodos que sean más de desarrollar a nuestros jugadores... consolidar... y periodos que sean más de mantener el rendimiento que ya tienen.",
+      "full_transcript": "Y la periodización más por bloques de énfasis. Con esto me refiero a que en los diferentes momentos de la temporada vamos a tener periodos que sean más de desarrollar a nuestros jugadores y jugadoras, periodos que sean más de consolidar y periodos que sean más de mantener el rendimiento que ya tienen. Quizá si lo viésemos en una vista global, al principio de la temporada vamos a estar más en desarrollar, en pretemporada... En el periodo central de la temporada vamos a estar más en consolidar y al final de la temporada vamos a estar más en mantener... Si estamos en etapas formativas, va a haber mucho más periodo de desarrollar... Si estamos en un equipo de alto nivel competitivo y que juega Champions... a lo mejor va a haber mucho más momento de mantener... La arquitectura sí que se mantiene, pero vamos a ir jugando con las diferentes variables.",
+      "keywords": [
+        "bloques-enfasis",
+        "desarrollar",
+        "consolidar",
+        "mantener",
+        "periodizacion",
+        "alta-densidad-competitiva"
+      ],
+      "entities": [
+        "Champions"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres fases de énfasis durante una temporada de fútbol?",
+        "¿Por qué los equipos de Champions pasan más tiempo en la fase de mantenimiento?",
+        "¿Cómo se adapta el bloque de énfasis en el fútbol formativo?"
+      ],
+      "related_terms": [
+        "periodización por bloques",
+        "desarrollar",
+        "consolidar",
+        "mantener"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de la modulación progresiva de variables como la intensidad, volumen y complejidad a lo largo del año.",
+      "context_after": "Cierre del webinar con las referencias bibliográficas y agradecimientos."
+    }
+  ]
+}
