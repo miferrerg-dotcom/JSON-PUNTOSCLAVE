@@ -1,0 +1,1374 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Preseason in basketball",
+    "speaker": "Luka Svilar",
+    "total_duration": "01:17:49",
+    "total_duration_seconds": 4669,
+    "source_file": "WEBVTT-basketball.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "00:00",
+      "end_timestamp": "05:25",
+      "start_seconds": 0,
+      "end_seconds": 325,
+      "duration_seconds": 325,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y trayectoria internacional",
+      "summary": "Luka Svilar introduce su experiencia de más de 15 años trabajando en distintos países (Croacia, Turquía, España, Rusia, Alemania y Estados Unidos) en equipos como Baskonia, UNICS Kazan, Bayern Munich y la NBA G-League. Esta experiencia le permite tener una perspectiva global sobre la pretemporada.",
+      "literal_quote": "I was lucky enough that throughout more than 15 years of experience in basketball, I worked in different countries.",
+      "full_transcript": "Hello. It's a big pleasure to be involved in another lecture. I'm a person who likes to share my knowledge, my experience, and in the next hour, I will be talking about the preseason in basketball worldwide, from Europe to the US. And I was lucky enough that throughout more than 15 years of experience in basketball, I worked in different countries... my international job took me to Spain, where I spent unbelievable four years with Baskonia... After four years in Spain, I moved to Russia to work with UNICS Kazan... after that, I moved to Germany... to Bayern Munich... And then my latest team experience was in United States, where I worked with two teams, G League team and the main team.",
+      "keywords": [
+        "preseason",
+        "basketball",
+        "euroleague",
+        "nba",
+        "baskonia",
+        "bayern-munich",
+        "experience"
+      ],
+      "entities": [
+        "Luka Svilar",
+        "Baskonia",
+        "UNICS Kazan",
+        "Bayern Munich",
+        "G League"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es la experiencia internacional de Luka Svilar?",
+        "¿En qué equipos de Euroliga y Estados Unidos ha trabajado?",
+        "¿Qué ligas menciona en su trayectoria deportiva?"
+      ],
+      "related_terms": [
+        "trayectoria",
+        "internacional",
+        "experiencia",
+        "euroleague",
+        "nba"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Tras presentar su experiencia, Svilar introduce los factores humanos que condicionan la planificación de una pretemporada."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "05:25",
+      "end_timestamp": "07:15",
+      "start_seconds": 325,
+      "end_seconds": 435,
+      "duration_seconds": 110,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=325",
+      "title": "Factores clave: Jugadores y Staff Técnico",
+      "summary": "La planificación depende enormemente de factores humanos: si los jugadores son nuevos o ya conocidos, si se conoce previamente al entrenador principal y sus demandas, y la cantidad de preparadores físicos y entrenadores asistentes disponibles.",
+      "literal_quote": "It's not the same if we have players for the preseason that we know from before, or it is completely new environment.",
+      "full_transcript": "First of all, players. We work with players, and it's not the same if we have players for the preseason that we know from before, or it is completely new environment, new team for you where you don't know players at all... Do you know that head coach from before and you know how you work and how he works with the coaching staff? Do you know already his demands when it comes to periodization of preseason?... How many strength coaches you have on your team? Are you the only one?... How much assistant coaches will be involved in planning periodization and running down the program?",
+      "keywords": [
+        "preseason-planning",
+        "head-coach",
+        "coaching-staff",
+        "strength-coach",
+        "environment"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué factores humanos condicionan el inicio de la pretemporada?",
+        "¿Por qué es importante conocer la cantidad de entrenadores asistentes?",
+        "¿Cómo afecta conocer previamente a los jugadores al planificar?"
+      ],
+      "related_terms": [
+        "factores",
+        "entorno",
+        "staff técnico",
+        "jugadores nuevos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Luka Svilar introduce su trasfondo para contextualizar las diferencias internacionales.",
+      "context_after": "Se abordan las normativas y restricciones sindicales que limitan el trabajo físico en Europa."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "07:15",
+      "end_timestamp": "08:00",
+      "start_seconds": 435,
+      "end_seconds": 480,
+      "duration_seconds": 45,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=435",
+      "title": "Regulaciones y sindicatos (Ejemplo EuroLeague)",
+      "summary": "Las normas y regulaciones de las uniones de jugadores imponen restricciones estrictas de tiempo. En la EuroLeague, los equipos están limitados a una pretemporada de un máximo de 35 días antes de la primera competición.",
+      "literal_quote": "Player union in EuroLeague will limit you to a preseason that lasts maximum 35 days prior to the first competition.",
+      "full_transcript": "Then knowing if there are certain rules or restrictions when it comes to periodization. For example, we will see that player union in EuroLeague will limit you to a preseason that lasts maximum 35 days prior to the first competition. Then deciding on testing. Are you with the team for the first time? Do you have testing results for many players from before?",
+      "keywords": [
+        "rules",
+        "restrictions",
+        "player-union",
+        "euroleague",
+        "35-days"
+      ],
+      "entities": [
+        "EuroLeague"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las normas sindicales a la pretemporada?",
+        "¿Cuál es el límite de días de pretemporada en la EuroLeague?"
+      ],
+      "related_terms": [
+        "sindicato",
+        "regulaciones",
+        "límite de días",
+        "euroliga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de conocer al staff y a los jugadores.",
+      "context_after": "A continuación, se detalla cómo los compromisos institucionales y los amistosos alteran la planificación."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "08:00",
+      "end_timestamp": "09:40",
+      "start_seconds": 480,
+      "end_seconds": 580,
+      "duration_seconds": 100,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=480",
+      "title": "Impacto de amistosos y tradiciones del club",
+      "summary": "Los compromisos con patrocinadores y derechos de televisión obligan a jugar ciertos torneos (ej. Circuito Movistar en España). Además, viajes tradicionales del club (como hacer el training camp en Eslovenia) condicionan dónde y cómo se entrena independientemente de lo que desee el preparador.",
+      "literal_quote": "Sometimes because of traditional things, for example, some teams might go to Slovenia to a training camp, and over there you have to play a friendly tournament.",
+      "full_transcript": "Very often it can be also decided by the team, where team commits to specific tournaments. For example, early on in Spain, we had to play a tournament in the preseason that's named, I think, Circuito Movistar. I think for the media and broadcasting rights, we had to play at least one tournament... And then, for example, sometimes because of traditional things, for example, some teams might go to Slovenia to a training camp, and over there you have to play a friendly tournament that has been part of preseason periodization for many, many years. So it's basically a traditional preseason tournament.",
+      "keywords": [
+        "friendly-games",
+        "tournaments",
+        "broadcasting",
+        "traditions",
+        "training-camp"
+      ],
+      "entities": [
+        "Circuito Movistar",
+        "Slovenia"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué impacto tienen los torneos amistosos tradicionales en la planificación?",
+        "¿Por qué los equipos juegan ciertos torneos independientemente de la voluntad del preparador?"
+      ],
+      "related_terms": [
+        "amistosos",
+        "tradiciones",
+        "torneos de pretemporada",
+        "eslovenia"
+      ],
+      "relevance_score": 3,
+      "context_before": "Las regulaciones limitan el tiempo disponible para planificar.",
+      "context_after": "Otro gran obstáculo en Europa son las ausencias por las ventanas de selecciones nacionales."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "09:40",
+      "end_timestamp": "11:00",
+      "start_seconds": 580,
+      "end_seconds": 660,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=580",
+      "title": "Gestión de ausencias por Selecciones Nacionales",
+      "summary": "La ausencia de jugadores clave por compromisos internacionales (agosto/septiembre) dificulta enormemente la planificación. Svilar relata un caso en España donde 7 de los 15 jugadores principales estuvieron ausentes, requiriendo traer jugadores de apoyo.",
+      "literal_quote": "We spent most of the preseason without seven most significant or most impactful players on the team.",
+      "full_transcript": "Something that can significantly impact your preseason planning... is related to number of players that you have on the national team. I remember that one time in Spain, one of our preseasons was very difficult because from our 15 players on the roster, we had six or seven players on the national team during August and September, and it was very tough to organize the preseason. We had to bring some players who would help us to run practices... Usually, those players that are on the national team are also your starters and your rotation players. So basically, we spent most of the preseason without seven most significant or most impactful players on the team.",
+      "keywords": [
+        "national-team",
+        "roster",
+        "starters",
+        "absences",
+        "spain"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las selecciones nacionales a la pretemporada de los clubes?",
+        "¿Qué desafío relató Luka Svilar sobre su etapa en España respecto a la plantilla?"
+      ],
+      "related_terms": [
+        "selecciones nacionales",
+        "roster",
+        "ausencias",
+        "agosto y septiembre"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo los amistosos alteran el calendario.",
+      "context_after": "A estas limitaciones se suma la logística de las instalaciones cuando se viaja fuera del entorno habitual."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "11:00",
+      "end_timestamp": "12:55",
+      "start_seconds": 660,
+      "end_seconds": 775,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=660",
+      "title": "Logística e instalaciones en training camps",
+      "summary": "Realizar la pretemporada en casa permite el acceso completo a recursos conocidos. Salir a un training camp externo a menudo implica improvisar y cargar físicamente con el gimnasio del club en autobuses para replicar el entorno de trabajo.",
+      "literal_quote": "Sometimes you will need to put barbells and dumbbells and bumper plates and kettlebells and half of your gym on the bus and you travel to the training camp.",
+      "full_transcript": "Your access to facilities. It's not the same if you spend the whole preseason at home in your training facility or your arena where you know your weight room as your own pocket. Where you know what you can count on in terms of other facilities like running in the woods, running around the lake... sauna, cold tubs, you name it... And sometimes you will need to put barbells and dumbbells and bumper plates and kettlebells and half of your gym on the bus and you travel to the training camp. And sometimes it is a situation that we deal with, even on the high-level teams.",
+      "keywords": [
+        "facilities",
+        "training-camp",
+        "weight-room",
+        "equipment",
+        "logistics"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué logística implica realizar la pretemporada fuera de las instalaciones del club?",
+        "¿Por qué el conocimiento de las instalaciones afecta a la planificación?"
+      ],
+      "related_terms": [
+        "instalaciones",
+        "logística",
+        "training camp",
+        "equipamiento"
+      ],
+      "relevance_score": 3,
+      "context_before": "La falta de jugadores titulares obliga a modificar los entrenamientos en pista.",
+      "context_after": "Se añade la presión mediática que puede causar fatiga extra."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "12:55",
+      "end_timestamp": "14:50",
+      "start_seconds": 775,
+      "end_seconds": 890,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=775",
+      "title": "Impacto de compromisos de medios y patrocinadores",
+      "summary": "El 'Media Day' y los compromisos de grabación son altamente demandantes físicamente. Grabar para Euroliga puede implicar vuelos internacionales, vestirse, hacer mates y acciones repetidas, generando una fatiga que debe contemplarse en la carga total.",
+      "literal_quote": "Some of those shootings can be very demanding, where players need to dress up, run on the court, make dunks.",
+      "full_transcript": "And then last but not least, media and sponsors... we should be aware of the media days and things that we do have to do for the sponsors. There are specific days where we might shoot commercials... And some of those shootings can be very demanding, where players need to dress up, run on the court, make dunks. So this is something that we should be aware of and we should know in advance... because it's different when players do a long interview compared to shooting a commercial and flying from Spain to Istanbul to shoot a commercial for a EuroLeague video, for example.",
+      "keywords": [
+        "media-day",
+        "sponsors",
+        "commercials",
+        "fatigue",
+        "euroleague"
+      ],
+      "entities": [
+        "EuroLeague",
+        "Istanbul",
+        "Spain"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo afectan los compromisos de patrocinio a la fatiga del jugador?",
+        "¿Qué consideraciones se deben tener con el 'media day'?"
+      ],
+      "related_terms": [
+        "patrocinadores",
+        "media day",
+        "fatiga por viajes",
+        "euroliga"
+      ],
+      "relevance_score": 4,
+      "context_before": "La logística de instalaciones externas afecta al equipo materialmente.",
+      "context_after": "Se cambia de tema hacia la comparativa estructural de duración entre Europa y Estados Unidos."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "14:50",
+      "end_timestamp": "17:00",
+      "start_seconds": 890,
+      "end_seconds": 1020,
+      "duration_seconds": 130,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=890",
+      "title": "Comparativa de duración: Europa vs USA",
+      "summary": "Svilar contrasta la duración: en Europa dura unas 6 semanas (35 días para Euroliga), mientras que en Estados Unidos (NBA y G-League) el 'Training Camp' dura solo de 2 a 3 semanas. Esta diferencia temporal cambia radicalmente los métodos de programación.",
+      "literal_quote": "In Europe, pre-season usually lasts for around six weeks... While on the other side, NBA pre-season, or as they call it, training camp, lasts for only two to three weeks.",
+      "full_transcript": "When it comes to comparing Europe against the USA, in Europe, pre-season usually lasts for around six weeks. But then, as I said, due to players union regulations, EuroLeague, at the moment, can have only 35 days of pre-season before the first official game. While on the other side, NBA pre-season, or as they call it, training camp, lasts for only two to three weeks, and the G League has usually training camp of only two weeks, and we will see later on how it looks like.",
+      "keywords": [
+        "europe",
+        "usa",
+        "duration",
+        "nba",
+        "g-league",
+        "training-camp"
+      ],
+      "entities": [
+        "EuroLeague",
+        "NBA",
+        "G League"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Cuánto dura la pretemporada de la NBA en comparación con Europa?",
+        "¿Cuál es el límite de días de pretemporada en la Euroliga?"
+      ],
+      "related_terms": [
+        "duración",
+        "training camp",
+        "euroliga vs nba",
+        "6 semanas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se repasaron todos los factores externos (medios, logística, lesiones).",
+      "context_after": "Se establecen los principios teóricos universales para aplicar cargas en estas semanas."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "17:00",
+      "end_timestamp": "19:30",
+      "start_seconds": 1020,
+      "end_seconds": 1170,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1020",
+      "title": "Principios universales: Volumen, Intensidad y Tapering",
+      "summary": "Svilar desecha el mito de empezar con volumen e intensidad bajos. Propone iniciar en un nivel moderado, aumentar gradualmente a alto, mantener la intensidad y utilizar el 'tapering' (reducir el volumen entre 10% y 30%) en la fase final.",
+      "literal_quote": "I don't think that it's very much needed to start with low volume and intensity, because professional players will not be in such a bad shape at the beginning.",
+      "full_transcript": "Volume and intensity throughout the pre-season... I don't think that it's very much needed to start with low volume and intensity, because professional players will not be in such a bad shape at the beginning of the pre-season that you cannot start with a little bit more serious work. From my own experience, I think starting with moderate volume and intensity at the beginning of the pre-season is good level to start. And then gradually we build work from moderate to high... And then towards the end Obviously, we will keep the intensity high and reach the peak in the last phase of the preseason and keep it... And then just for the tapering purposes, we will drop the volume a little bit down. 10%, 20% is something like a golden standard as a rule of thumb. And then in specific cases, we can cut that volume a little bit more. 20% to 30% is something that is very usual.",
+      "keywords": [
+        "volume",
+        "intensity",
+        "tapering",
+        "periodization",
+        "moderate-to-high"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Con qué intensidad y volumen se recomienda iniciar la pretemporada profesional?",
+        "¿Cuál es el porcentaje estándar de descenso de volumen durante el tapering?"
+      ],
+      "related_terms": [
+        "volumen",
+        "intensidad",
+        "tapering",
+        "descarga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las duraciones dictaminan el espacio para aplicar cargas.",
+      "context_after": "Se aplica este modelo teórico al calendario específico de Europa, dividido en bloques."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "19:30",
+      "end_timestamp": "21:20",
+      "start_seconds": 1170,
+      "end_seconds": 1280,
+      "duration_seconds": 110,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1170",
+      "title": "Los 3 Bloques de Pretemporada en Europa",
+      "summary": "El modelo europeo se compone de tres bloques: Introducción (1-2 semanas), Construcción o 'Building Block' (2-3 semanas enfocadas en táctica, resistencia y fuerza) y Tapering (5-10 días para potenciar el rendimiento antes del inicio).",
+      "literal_quote": "First block will be an introduction block that lasts for around one or two weeks. Then we will have a building block... And then the last block... we use for tapering purposes.",
+      "full_transcript": "I try to simplify things, and I like to have certain blocks during the preseason, and I always recognize at least three blocks... In Europe, when I have time, five, six weeks of preseason. First block will be an introduction block that lasts for around one or two weeks. Then we will have a building block where we are building strength, in some cases power, endurance, and then we are obviously building tactical proficiency of the team and endurance, conditioning. And this is the longest block that lasts two to three weeks. And then the last block, as I said on the previous slide, we use for tapering purposes, and it lasts around five to seven days. In some specific cases, it can last for 10 days.",
+      "keywords": [
+        "blocks",
+        "introduction",
+        "building",
+        "tapering",
+        "europe",
+        "periodization"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres bloques de la pretemporada europea?",
+        "¿Cuánto dura el bloque de tapering en una pretemporada de 5-6 semanas?"
+      ],
+      "related_terms": [
+        "bloques de pretemporada",
+        "introducción",
+        "construcción",
+        "tapering"
+      ],
+      "relevance_score": 5,
+      "context_before": "La teoría de volumen e intensidad se plasma en tiempos concretos.",
+      "context_after": "Se compara esto con la limitación de bloques en el modelo estadounidense."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "21:20",
+      "end_timestamp": "24:45",
+      "start_seconds": 1280,
+      "end_seconds": 1485,
+      "duration_seconds": 205,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1280",
+      "title": "El 'Block Zero' en la NBA",
+      "summary": "En USA el Training Camp solo tiene Bloque 1 y 2. Para suplir la falta de tiempo, existe el 'Block Zero' (agosto/septiembre). Es trabajo voluntario pero necesario para que el jugador llegue al menos al 85% de su potencial; si llegan fuera de forma sufren consecuencias por la cultura de equipo.",
+      "literal_quote": "Everything is rooted in the block that I call block zero, where in the US it is considered that players should come to the training camp already in a very good shape.",
+      "full_transcript": "Preseason in the US is only blocks one and two because there is not so much time. Building block is the block where the main focus is on building tactical proficiency and specific and competitive endurance, and it lasts seven to 12 days. And then in block two, we start with exhibition games... And the question always is, how do we manage to build something in such a short period of time? And everything is rooted in the block that I call block zero, where in the US it is considered that players should come to the training camp already in a very good shape. You need to be at least 80%, 85% of your full physical potential... If you're tested and you have objective results, you can be punished. It depends on the culture of the team... great thing about the NBA is that during August and September, the work is not officially organized and mandatory. But doors are always open and sessions are possible... So it ends up being three blocks because without block zero in the NBA, players would be completely out of shape.",
+      "keywords": [
+        "usa",
+        "nba",
+        "block-zero",
+        "off-season",
+        "accountability"
+      ],
+      "entities": [
+        "NBA"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Comparativa",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el 'Block Zero' en la pretemporada de la NBA?",
+        "¿En qué estado físico deben llegar los jugadores al training camp en EE. UU.?"
+      ],
+      "related_terms": [
+        "block zero",
+        "off-season",
+        "entrenamiento voluntario",
+        "nba"
+      ],
+      "relevance_score": 5,
+      "context_before": "Europa permite estructurar tres bloques completos por el tiempo disponible.",
+      "context_after": "Se detallan las herramientas necesarias para monitorizar esta rápida progresión de carga."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "24:45",
+      "end_timestamp": "26:30",
+      "start_seconds": 1485,
+      "end_seconds": 1590,
+      "duration_seconds": 105,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1485",
+      "title": "Monitorización y progresiones en Europa",
+      "summary": "Cualquier método (LPS, RPE, cronómetro) es útil si guía el proceso. En Europa, se considera un punto dulce lograr progresiones semanales del 10% al 20% para establecer una base crónica de trabajo durante las primeras tres semanas.",
+      "literal_quote": "In Europe it is very normal... to have weekly progressions in volume of 10 to 20% as a sweet spot zone.",
+      "full_transcript": "When it comes to load monitoring and monitoring volume and intensity, I think there are different methods from cheap ones or low cost methods to more expensive ones. Whatever the method you use, it is microtechnology... to just calculating the time of practice and collecting RPEs in the SRP method, or just thinking of time spent on feet. Whatever it is, try to find something that will guide you in monitoring volume and intensity. Sometimes it's a stopwatch, sometimes it's the latest technologies. But whatever it is, I think in Europe it is very normal... to have weekly progressions in volume of 10 to 20% as a sweet spot zone. And then after initial three weeks, you have individual chronic database on volume of work... And after that, you can consider a little bit acute chronic workload relationship.",
+      "keywords": [
+        "load-monitoring",
+        "rpe",
+        "microtechnology",
+        "weekly-progressions",
+        "acute-chronic"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los métodos de bajo coste para la monitorización de carga en baloncesto?",
+        "¿Qué porcentaje de progresión semanal de volumen se recomienda?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "rpe",
+        "progresión del 10 al 20%",
+        "base crónica"
+      ],
+      "relevance_score": 4,
+      "context_before": "La exigencia del 'Block Zero' plantea la necesidad de controlar muy bien las cargas.",
+      "context_after": "Se contrasta este aumento de carga europeo progresivo con las exigencias de ajustes diarios en USA."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "26:30",
+      "end_timestamp": "28:50",
+      "start_seconds": 1590,
+      "end_seconds": 1730,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1590",
+      "title": "Ajustes diarios de carga en EE. UU.",
+      "summary": "Debido a que en EE. UU. los jugadores llegan con estados físicos dispares al Training Camp, se deben hacer ajustes tácticos diarios (ej. emparejamientos y sustituciones rápidas) comunicados a los fisioterapeutas para evitar lesiones por sobrecarga crónica.",
+      "literal_quote": "We should be ready, in that case, for daily adjustments, maybe pair up players for substitutions.",
+      "full_transcript": "In the USA, it is very important to know what players did right before the training camp. And we have to be aware of the fact that some players might come in an excellent shape, but there are some players that are not in a shape to play immediately full contact, two hours basketball. So we should be ready, in that case, for daily adjustments, maybe pair up players for substitutions of players who are in a really good shape... and players who are in a decent shape... So in order to build it and not to kill players right away, we should consider maybe a little bit more frequent substitutions during team practices... For that reason, communication not only with the head coach... but also in advance talking to athletic trainers and physiotherapists... In that way, we protect players from chronically overloading them.",
+      "keywords": [
+        "usa",
+        "daily-adjustments",
+        "substitutions",
+        "physiotherapists",
+        "chronic-overload"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se ajusta la carga diaria en jugadores con diferente estado físico en el training camp?",
+        "¿Por qué se usan sustituciones frecuentes en los entrenamientos en EE. UU.?"
+      ],
+      "related_terms": [
+        "ajustes diarios",
+        "sustituciones",
+        "fisioterapeutas",
+        "sobrecarga crónica"
+      ],
+      "relevance_score": 4,
+      "context_before": "En Europa, se dispone de 3 semanas para acumular datos crónicos y progresar de forma estable.",
+      "context_after": "Todas las decisiones de control de carga deben ser consensuadas con el Head Coach."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "28:50",
+      "end_timestamp": "32:00",
+      "start_seconds": 1730,
+      "end_seconds": 1920,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1730",
+      "title": "Alineación y preguntas al Head Coach",
+      "summary": "El preparador físico debe interrogar al entrenador principal antes de dar opiniones. Debe acordar: diseño del plan semanal, amistosos, dobles sesiones, rutinas tradicionales de pesas vs microdosis, y los métodos de acondicionamiento preferidos por el técnico.",
+      "literal_quote": "I always like to ask a lot of questions before even sharing my opinion on how things should be organized.",
+      "full_transcript": "Another important piece of the puzzle when it comes to periodization in the preseason is the communication with the head coach... head coaches are pretty traditional, and they believe in their work... you have to be on the same page, and you have to believe together that things that you will organize are really the things that will be the best and most effective for your athletes and for your team... I always like to ask a lot of questions before even sharing my opinion on how things should be organized. I always ask coach on who's going to make the weekly plan... Friendly games, how many friendly games we want to play... Are we going to run only single team practices per day, or there will be days with double team practice... How many lifting sessions we will have throughout the week? Are we going to lift in a more traditional way... Or are we going to microdose... What are our conditioning methods? And when we select the methods, what are the most effective and what are the traditional drills that head coach likes to use... What are the key parameters when it comes to understanding volume and intensity of work?",
+      "keywords": [
+        "head-coach",
+        "communication",
+        "alignment",
+        "planning",
+        "microdosing",
+        "drills"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué preguntas clave se le deben hacer al entrenador principal antes de la pretemporada?",
+        "¿Por qué es vital estar alineado con la metodología tradicional del entrenador principal?"
+      ],
+      "related_terms": [
+        "entrenador principal",
+        "alineación",
+        "preguntas clave",
+        "microdosis vs tradicional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para hacer ajustes de fatiga se requiere fluidez de comunicación con el cuerpo técnico.",
+      "context_after": "La comunicación no solo abarca el volumen general, sino detalles como el trato a veteranos y días libres."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "32:00",
+      "end_timestamp": "34:30",
+      "start_seconds": 1920,
+      "end_seconds": 2070,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1920",
+      "title": "Manejo de descansos, veteranos y reportes",
+      "summary": "Se debe consultar al técnico principal la distribución estratégica de descansos post-viaje, el permiso para rotar más a los veteranos, si los jóvenes realizarán trabajo compensatorio extra, y qué tipo de reportes de datos espera recibir regularmente.",
+      "literal_quote": "Rest days, how many rest days we want to have per week. What are the ideal days when we want to do rest days?",
+      "full_transcript": "Rest days, how many rest days we want to have per week. What are the ideal days when we want to do rest days? How we can organize rest days in relation to the traveling days and training days... And then some other things to consider and ask the head coach how he sees veterans versus young players. Do veterans get a little bit more substitutions in the team practices, and are you allowed to make those substitutions or assistant coaches should make those substitutions? What about young players? Do they have to do some kind of compensatory work on specific days or extra skills work? And then finally, what kind of reports he expects to have on a daily and weekly basis, monthly basis. Who should make those reports and what should they tell us?",
+      "keywords": [
+        "rest-days",
+        "veterans",
+        "young-players",
+        "compensatory-work",
+        "reporting"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se planifican los días de descanso en relación con los viajes?",
+        "¿Qué diferencias de manejo hay entre jugadores veteranos y jóvenes en las prácticas?"
+      ],
+      "related_terms": [
+        "días libres",
+        "veteranos vs jóvenes",
+        "trabajo compensatorio",
+        "reportes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Tras alinear el formato de pesas y prácticas, se pulen los detalles de recuperación y jerarquía de la plantilla.",
+      "context_after": "Se define el propósito exacto de los tests para no recopilar datos inútiles."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "34:30",
+      "end_timestamp": "37:15",
+      "start_seconds": 2070,
+      "end_seconds": 2235,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2070",
+      "title": "Evaluación con Propósito (Testing)",
+      "summary": "Svilar enfatiza que un test es inútil si no impacta en la toma de decisiones. Por ejemplo, si el Head Coach no permite usar métricas para el acondicionamiento, un test de resistencia es una pérdida de tiempo. Menciona pruebas como Deadlift 3RM, dominadas y plataformas de fuerza.",
+      "literal_quote": "At the end of the day, the best test is the one that will guide you in decision-making process later on.",
+      "full_transcript": "When it comes to the testing, I think the most important question to answer is why we would do certain tests... For example, we want to test players to know their initial strength levels or initial power levels to guide us in building the most individual strength and power program. So the test will be 3RM trap bar deadlift or max number of pull-ups or jumping on a force platform... I always like to decide to use only tests that will help me in decision making process. So if... head coach says that you will be involved only in warming up the team and strength sessions, then doing an endurance test that you will not repeat and you will not be involved in creating conditioning drills is to me very useless... On the other side, if that test can guide you, then it's definitely the best test for you... at the end of the day, the best test is the one that will guide you in decision-making process later on.",
+      "keywords": [
+        "testing",
+        "decision-making",
+        "trap-bar",
+        "pull-ups",
+        "force-platform",
+        "useless-tests"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es inútil realizar un test de resistencia si el preparador físico no diseña el acondicionamiento?",
+        "¿Qué pruebas de fuerza inicial menciona Luka Svilar?"
+      ],
+      "related_terms": [
+        "test inútil",
+        "toma de decisiones",
+        "evaluación con propósito",
+        "plataformas de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "La comunicación dicta el nivel de autoridad del S&C Coach para implementar los test.",
+      "context_after": "Se detallan de manera específica los test de resistencia que se podrían elegir."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "37:15",
+      "end_timestamp": "38:50",
+      "start_seconds": 2235,
+      "end_seconds": 2330,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2235",
+      "title": "Selección de Tests de Resistencia",
+      "summary": "Svilar enumera posibles baterías para la resistencia y acondicionamiento: Yo-Yo Intermittent Test, 30-15 IFT, el suicidio repetido o el test de 300 yardas. El debate sobre cuál es mejor es secundario; lo primordial es que los resultados guíen la selección de métodos.",
+      "literal_quote": "Is it yo-yo intermittent test? Is it 3015 intermittent fitness test? Is it a repeated suicide drill? Is it 300 yards test?",
+      "full_transcript": "Yes, we can debate which tests are a little bit better in this way or that way. Is it yo-yo intermittent test? Is it 3015 intermittent fitness test? Is it a repeated suicide drill? Is it 300 yards test? Or is it a test like repeated sprint ability? We can debate which tests make the most sense in the preseason, but at the end of the day, the best test is the one that will guide you in decision-making process later on. And it will guide you in selecting the best methods and the best drills that will impact developing of certain qualities of your basketball players... Of course, different tests can be organized from basic anthropometrics and body composition, to endurance... to strength and power.",
+      "keywords": [
+        "endurance-tests",
+        "yo-yo-test",
+        "30-15-ift",
+        "300-yards-test",
+        "repeated-sprint-ability",
+        "anthropometrics"
+      ],
+      "entities": [
+        "Yo-Yo test",
+        "30-15 Intermittent Fitness Test"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tests de resistencia intermitente más comunes mencionados por Svilar?",
+        "¿Qué importa más al elegir entre el Yo-Yo test y el 30-15 IFT?"
+      ],
+      "related_terms": [
+        "yo-yo test",
+        "30-15 ift",
+        "test de 300 yardas",
+        "suicidio repetido",
+        "antropometría"
+      ],
+      "relevance_score": 4,
+      "context_before": "La importancia de la toma de decisiones dicta qué tests deben ser utilizados.",
+      "context_after": "El resultado de las evaluaciones se aplica para organizar la periodización de la fuerza."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "38:50",
+      "end_timestamp": "41:50",
+      "start_seconds": 2330,
+      "end_seconds": 2510,
+      "duration_seconds": 180,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2330",
+      "title": "Periodización de la Fuerza en Europa",
+      "summary": "Desglose de los 3 bloques de fuerza. Bloque 1 (1 semana): isometría en tren inferior y prehab. Bloque 2 (2-3 semanas): volumen e intensidad de moderado a alto (construcción individual). Bloque 3: volumen bajo e intensidad alta para potenciar la explosividad de los jugadores.",
+      "literal_quote": "Volume and intensity, since we are talking about the building block, now goes from moderate to high... And then block three... we want the intensity to be high and volume to be low.",
+      "full_transcript": "When it comes to strength and power training during the preseason, if we have those three blocks in Europe, usually my block one lasts for around one week... I usually like to start block one with moderate volume and the intensity... work revolves around lower body isometrics, usually yielding isometrics, a lot of work on core, shoulders. So this work is more like a prehab work... Block two lasts two to three weeks. It's a building block where everything is individually based... volume and intensity, since we are talking about the building block, now goes from moderate to high... And then block three... we want the intensity to be high and volume to be low, low to moderate, because we want to potentiate players during that last block... to feel powerful, to feel explosiveness in their bodies as they approach the first official game.",
+      "keywords": [
+        "strength-training",
+        "isometrics",
+        "prehab",
+        "building-block",
+        "potentiation"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué enfoque de fuerza se utiliza en el primer bloque de la pretemporada europea?",
+        "¿Cuál es el objetivo del bloque tres en términos de fuerza y potencia?"
+      ],
+      "related_terms": [
+        "periodización de fuerza",
+        "isometría",
+        "potenciación",
+        "bloque de construcción"
+      ],
+      "relevance_score": 4,
+      "context_before": "La batería de tests establece el punto de partida físico.",
+      "context_after": "Se contrasta este método progresivo con la escasez de tiempo en Estados Unidos."
+    },
+    {
+      "id": "V02-019",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "41:50",
+      "end_timestamp": "43:30",
+      "start_seconds": 2510,
+      "end_seconds": 2610,
+      "duration_seconds": 100,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2510",
+      "title": "Enfoque de Fuerza en la NBA / G-League",
+      "summary": "En USA (bloques cortos de 10 días), la alta carga táctica en pista obliga a que en el gimnasio domine la isometría de tren inferior y prehab de hombros para los 'big guys'. El Bloque 2 usa volumen moderado debido a la fatiga residual de la pista.",
+      "literal_quote": "I think lower body isometrics to dominate... is a smart thing to do... to protect players, but to keep them working in the weight room.",
+      "full_transcript": "In the USA, as I said, we have block one and block two, both of them lasting around 10 days, seven to 12 days. Since here we have a lot of work on the court, I think we should be very careful on how much we load lower body. So I think lower body isometrics to dominate... is a smart thing to do. At least it proved me as an effective and smart strategy to protect players, but to keep them working in the weight room. Obviously, prehab on core work and especially shoulders for big guys... And then whoever needs upper body hypertrophy or just general upper body strength, this is my go-to approach, moderate intensity and volume... And then in block two, we switch to individual work, where we keep volume at the moderate level just because of the residual fatigue from these seven to 12 days of work... obviously some of the days will definitely be high in that last stage before players start playing official games.",
+      "keywords": [
+        "usa",
+        "nba",
+        "isometrics",
+        "upper-body-hypertrophy",
+        "residual-fatigue",
+        "big-guys"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Por qué se priorizan los ejercicios isométricos del tren inferior en Estados Unidos?",
+        "¿Cómo se maneja la fatiga residual en el bloque dos de fuerza en la NBA?"
+      ],
+      "related_terms": [
+        "isometría tren inferior",
+        "fatiga residual",
+        "hombros",
+        "hipertrofia tren superior"
+      ],
+      "relevance_score": 4,
+      "context_before": "Europa permite bloques extensos. En EE.UU. la prisa cambia el método protector.",
+      "context_after": "Se abordan los detalles de la individualización de los programas en sala de pesas."
+    },
+    {
+      "id": "V02-020",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "43:30",
+      "end_timestamp": "47:45",
+      "start_seconds": 2610,
+      "end_seconds": 2865,
+      "duration_seconds": 255,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2610",
+      "title": "Criterios para la Individualización de Fuerza",
+      "summary": "Para crear programas efectivos se evalúa: conocimiento del atleta, historial de lesiones (ej. cirugías de espalda baja), edad (más volumen para jóvenes, más sencillez y frecuencia para veteranos), metas específicas y rutinas (pesas antes o después de la pista).",
+      "literal_quote": "All those habits we should consider and incorporate in our strength and power sessions.",
+      "full_transcript": "When it comes to individual programming, I always have a lot of questions to answer in order to prepare the most effective and most beneficial program for each of my players. It is very important for me to know if I have worked with this player before... Knowing about players' injury history, not only in the previous season but previous years of playing basketball, will definitely have an impact on how we program things... What players need to improve based on their desires, based on the testing that we did. What are the main goals for this period... For some players might be lower body hypertrophy... For some veterans, it might just be building a good foundation... How old is the player is always very important. If it's a younger player, we might have a little bit more volume than usual... While with the veteran players, we might keep things pretty simple and pretty short and very frequent... Is there a specific habit that player has when it comes to working in the weight room? For example, coming always before team practices or always coming after team practices or splitting the workout... Prehab work that player likes to do because of his previous experiences or injuries like low back surgery... All those habits we should consider and incorporate in our strength and power sessions. And then finally, how we work on the court...",
+      "keywords": [
+        "individual-programming",
+        "injury-history",
+        "hypertrophy",
+        "veterans",
+        "young-players",
+        "habits"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué factores se deben considerar para individualizar el entrenamiento de fuerza?",
+        "¿Cómo difiere la prescripción de entrenamiento para jugadores jóvenes versus veteranos?",
+        "¿Por qué son importantes las rutinas preexistentes de los jugadores en el gimnasio?"
+      ],
+      "related_terms": [
+        "individualización",
+        "historial de lesiones",
+        "edad",
+        "veteranos",
+        "rutinas previas"
+      ],
+      "relevance_score": 5,
+      "context_before": "La programación a macroescala pasa ahora a las decisiones individuales del atleta.",
+      "context_after": "El microdosing se presenta como la herramienta ideal para la individualización y retención del atleta."
+    },
+    {
+      "id": "V02-021",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "47:45",
+      "end_timestamp": "51:10",
+      "start_seconds": 2865,
+      "end_seconds": 3070,
+      "duration_seconds": 205,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2865",
+      "title": "Por qué preferir el modelo 'Microdosing'",
+      "summary": "Frente al método tradicional, Svilar prefiere el microdosing (sesiones cortas a diario) porque disminuye el riesgo de sobrecarga aguda, permite ver mejor las adaptaciones diarias y, fundamentalmente, ayuda a crear una cultura de equipo con hábitos diarios en el gimnasio enfocados en resiliencia tisular.",
+      "literal_quote": "The reason why I lean a little bit more towards microdosing, the first reason is there is a smaller chance of acute overload.",
+      "full_transcript": "If you ask me what I prefer throughout the preseason, I would probably lean a little bit more towards microdosing... The reason why I lean a little bit more towards microdosing, the first reason is there is a smaller chance of acute overload... I think it will give you a better insight into how players respond to those microdoses and how they adapt... And then why I also like microdosing, especially when I'm new to the team or there are a lot of new players to the team... it is easier to create a team culture, to create daily habits, and to make players like coming to the weight room as a part of not only work environment, but just team culture where you are held accountable for a daily work... And it doesn't mean that every single day you have to work on max strength or power... Some days can be only a little bit more extensive prehab work, but prehab work is an important piece of the puzzle when it comes to tissue resilience and longevity.",
+      "keywords": [
+        "microdosing",
+        "acute-overload",
+        "team-culture",
+        "daily-habits",
+        "tissue-resilience"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué Luka Svilar prefiere el método de 'microdosing' en el gimnasio?",
+        "¿Qué impacto tiene la asistencia diaria al gimnasio en la cultura del equipo?"
+      ],
+      "related_terms": [
+        "microdosis",
+        "sobrecarga aguda",
+        "cultura de equipo",
+        "resiliencia tisular"
+      ],
+      "relevance_score": 5,
+      "context_before": "La individualización es más fácil de implementar a través de microdosis diarias que en grandes volúmenes.",
+      "context_after": "Se transita del entrenamiento de fuerza al desarrollo de la resistencia (conditioning) en la pista."
+    },
+    {
+      "id": "V02-022",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "51:10",
+      "end_timestamp": "54:15",
+      "start_seconds": 3070,
+      "end_seconds": 3255,
+      "duration_seconds": 185,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3070",
+      "title": "Categorías de Acondicionamiento (Conditioning)",
+      "summary": "Svilar categoriza el acondicionamiento en tres: 1) Básico: fuera de la pista (bosque, campo de fútbol) sin balón. 2) Específico: en pista, donde usar el balón es opcional pero los movimientos (acelerar, shuffle) imitan al baloncesto. 3) Competitivo: con balón y contacto real, calcando las demandas del juego.",
+      "literal_quote": "Basic conditioning, we always do outside of the basketball court. While specific and competitive conditioning are always done on the court.",
+      "full_transcript": "I always say that we have three different methods of conditioning or three different ways to work on the endurance. It's basic conditioning, specific conditioning, and competitive conditioning. Basic conditioning, we always do outside of the basketball court. While specific and competitive conditioning are always done on the court... Having basketball with us, obviously, when we are outside running in the woods or on the soccer stadium or athletic stadium, we will not use basketball. In specific conditioning, we can use basketball, but it's optional... specific conditioning can be similar to basketball, depends on how we create drills... where we would accelerate, change direction, shuffle, and then run backwards to make a jump shot... And then obviously competitive conditioning as we have opponents and we play with contact, demands are very similar to, if not the same... as basketball.",
+      "keywords": [
+        "conditioning",
+        "basic-conditioning",
+        "specific-conditioning",
+        "competitive-conditioning",
+        "endurance"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres métodos de acondicionamiento en baloncesto según Svilar?",
+        "¿En qué se diferencia el acondicionamiento básico del específico?"
+      ],
+      "related_terms": [
+        "acondicionamiento básico",
+        "acondicionamiento específico",
+        "acondicionamiento competitivo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Tras el gimnasio, el foco pasa a la parte central de resistencia y pista.",
+      "context_after": "Procede a mostrar ejemplos numéricos exactos de cómo ejecutar el acondicionamiento específico."
+    },
+    {
+      "id": "V02-023",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "54:15",
+      "end_timestamp": "55:15",
+      "start_seconds": 3255,
+      "end_seconds": 3315,
+      "duration_seconds": 60,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3255",
+      "title": "Drill de Intervalos Aeróbicos (Ratio 1:1)",
+      "summary": "Para desarrollar la capacidad aeróbica en equipo mediante alta intensidad, propone organizar a 12 jugadores: 6 corren la pista tirando a canasta durante 3 minutos, mientras los otros 6 rebotean. Se aplica un ratio de trabajo a descanso de 1:1, repitiendo 3 a 4 series de 3 minutos.",
+      "literal_quote": "Work to rest ratio is 1:1... And then we will repeat, for example, that three to four sets of three minutes work.",
+      "full_transcript": "And then, for example, if we work on aerobic capacity and we choose to do high intensity intervals, we can, for example, organize whole team to work at the same time. 12 players, six of them are active by running up and down the court, shooting the ball for three minutes. Other three players are rebounding for those three minutes, and then we will change because work to rest ratio is 1:1... And then we will repeat, for example, that three to four sets of three minutes work.",
+      "keywords": [
+        "aerobic-capacity",
+        "high-intensity-intervals",
+        "work-to-rest-ratio",
+        "1:1-ratio",
+        "drills"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué ejercicio práctico menciona Svilar para trabajar intervalos aeróbicos de alta intensidad?",
+        "¿Qué ratio de trabajo y descanso se usa para la capacidad aeróbica en pista?"
+      ],
+      "related_terms": [
+        "intervalos aeróbicos",
+        "ratio 1:1",
+        "correr y tirar",
+        "capacidad aeróbica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha definido la diferencia entre acondicionamiento específico y competitivo.",
+      "context_after": "Pasa a detallar métodos específicos para esfuerzos anaeróbicos glucolíticos."
+    },
+    {
+      "id": "V02-024",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "55:15",
+      "end_timestamp": "56:00",
+      "start_seconds": 3315,
+      "end_seconds": 3360,
+      "duration_seconds": 45,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3315",
+      "title": "Drill Anaeróbico Glucolítico (Ratio 1:6)",
+      "summary": "Para trabajar el sistema anaeróbico glucolítico con intensidad máxima, Svilar estructura intervalos de velocidad con un ratio trabajo/descanso de 1:6, empleando movimientos repetidos de aceleración y shuffles en grupos organizados.",
+      "literal_quote": "If we have to do something with maximal intensity and it's more like anaerobic glycolytic work, and we want to do speed intervals with work to rest ratio of one to six...",
+      "full_transcript": "If we have to do something with maximal intensity and it's more like anaerobic glycolytic work, and we want to do speed intervals with work to rest ratio of one to six, maybe we can group our guys and do, for example, accelerations and shuffles, acceleration and shuffle, those kind of drills where we will develop more anaerobic glycolytic capacity.",
+      "keywords": [
+        "anaerobic-glycolytic",
+        "speed-intervals",
+        "work-to-rest-ratio",
+        "1:6-ratio",
+        "accelerations"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran los intervalos de velocidad anaeróbicos glucolíticos?",
+        "¿Qué ratio se utiliza para el trabajo de capacidad anaeróbica en el acondicionamiento específico?"
+      ],
+      "related_terms": [
+        "anaeróbico glucolítico",
+        "ratio 1:6",
+        "intervalos de velocidad",
+        "shuffles"
+      ],
+      "relevance_score": 4,
+      "context_before": "El acondicionamiento aeróbico usa el ratio 1:1 en ejercicios de 3 minutos.",
+      "context_after": "Continúa descendiendo en el tiempo de trabajo, llegando a la potencia y sprint repetido."
+    },
+    {
+      "id": "V02-025",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "56:00",
+      "end_timestamp": "57:00",
+      "start_seconds": 3360,
+      "end_seconds": 3420,
+      "duration_seconds": 60,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3360",
+      "title": "Drill Repeated Sprint Ability - RSA (Ratio 1:5)",
+      "summary": "Para el Repeated Sprint Ability (RSA) o potencia repetida, recomienda esfuerzos muy cortos (3 a 6 segundos) con ratio 1:5. El jugador realiza 3 saltos tocando el tablero, al aterrizar del tercero hace un giro de 180 grados y acelera hacia la línea de tiro libre a máxima intensidad.",
+      "literal_quote": "Make players jump and touch the backboard three times. After the last third jump, they need to land, turn 180 and accelerate towards the free throw line.",
+      "full_transcript": "If we decide that work on repeated power ability or repeated sprint ability is needed and we will do max intensity, very short work with work to rest ratio of one to five, then we can pair players up to know that players will do this with maximal intensity and maximal effort. And then, for example, in this drill that needs to last around three to six seconds, we can make players jump and touch the backboard three times. After the last third jump, they need to land, turn 180 and accelerate towards the free throw line. So choosing appropriate methods... is critical when it comes to building the endurance throughout the preseason.",
+      "keywords": [
+        "repeated-sprint-ability",
+        "rsa",
+        "power",
+        "1:5-ratio",
+        "maximal-intensity"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué ejercicio práctico menciona Svilar para entrenar la Repeated Sprint Ability (RSA)?",
+        "¿Cuánto debe durar el drill de Repeated Power Ability y con qué ratio?"
+      ],
+      "related_terms": [
+        "RSA",
+        "ratio 1:5",
+        "potencia repetida",
+        "saltos al tablero"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los ejercicios anaeróbicos usan ratios 1:6 con aceleraciones lineales.",
+      "context_after": "Se cambia a la forma de acondicionamiento de máximo nivel y exigencia técnica: el juego en sí mismo."
+    },
+    {
+      "id": "V02-026",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "57:00",
+      "end_timestamp": "01:01:30",
+      "start_seconds": 3420,
+      "end_seconds": 3690,
+      "duration_seconds": 270,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3420",
+      "title": "Variables del Acondicionamiento Competitivo (SSG)",
+      "summary": "El acondicionamiento competitivo (cima de la pirámide) trabaja resistencia, táctica y toma de decisiones a la vez. El S&C puede manipular la carga alterando: número de jugadores (ej. 4v4), área de pista, ratio trabajo/descanso, nivel de intensidad defensiva o reglas especiales. Cita a investigadores como Felipe Clemente, Carlos Sosa y Hugo Salazar.",
+      "literal_quote": "Competitive conditioning is a simultaneous work on different things. Aerobic endurance, anaerobic endurance, anaerobic power. Technical proficiency, tactical mastery... and problem solving.",
+      "full_transcript": "Competitive conditioning is something that is the top of the pyramid... Competitive conditioning is a simultaneous work on different things. Aerobic endurance, anaerobic endurance, anaerobic power... Technical proficiency, tactical mastery of the team, and then obviously decision making skills and problem solving... The competitive conditioning is a work between at least three people, strength and conditioning... head coach, and assistant coach... So key factors that we manipulate throughout the preseason... number of players that we use or format of play is important. Knowing what kind of drills we want to run, two-on-two, four-on-four... Are we using the whole court, half court? What are the core dimensions... Work to rest ratio is important because sometimes we want to overload players... Level of defense is important... Are we encouraging players to give their full effort... And are we modifying certain rules to make the game harder or easier? For that, I suggest you to read scientific papers... Felipe Clemente... Carlos Sosa... Hugo Salazar... and obviously my work, my PhD.",
+      "keywords": [
+        "competitive-conditioning",
+        "small-sided-games",
+        "variables",
+        "defense-level",
+        "decision-making"
+      ],
+      "entities": [
+        "Felipe Clemente",
+        "Carlos Sosa",
+        "Hugo Salazar"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué factores se pueden alterar en el acondicionamiento competitivo para modificar la carga?",
+        "¿Por qué es el acondicionamiento competitivo el nivel más alto de la pirámide de entrenamiento?",
+        "¿A qué autores aconseja leer sobre juegos reducidos en baloncesto?"
+      ],
+      "related_terms": [
+        "acondicionamiento competitivo",
+        "variables de carga",
+        "espacios reducidos",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Tras los acondicionamientos dirigidos (drills), entra el contacto y el juego real.",
+      "context_after": "Toda la teoría se plasma finalmente en hojas de cálculo y calendarios de periodización semanal."
+    },
+    {
+      "id": "V02-027",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "01:01:30",
+      "end_timestamp": "01:05:00",
+      "start_seconds": 3690,
+      "end_seconds": 3900,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3690",
+      "title": "Diseño 'Top-Down' del calendario europeo",
+      "summary": "Para llenar un calendario en blanco en Europa se usa una lógica específica: 1) Ubicar amistosos y viajes; 2) Proponer días libres; 3) Bloquear días para compromisos con medios y patrocinadores; 4) Distribuir las prácticas en equipo (prioritarias); 5) Añadir sesiones de fuerza y habilidades. Así se asegura el flujo correcto sin sobrecargar.",
+      "literal_quote": "What comes first into this empty sheet. And what comes first are the friendly games... After I know when we play friendly games, I know more or less when to propose days off.",
+      "full_transcript": "As you can see here in Europe, this is pretty, pretty detailed plan, and there is always a flow that I like to follow on what comes first into this empty sheet. And what comes first are the friendly games. So what is written in blue, when this chart or this table is empty, usually I first put the blue thing. When do we have to play those friendly games? After I know when we play friendly games, I know more or less when to propose days off... Then I would ask questions about sponsors and media day because this is something that every team has in their schedule... Then the next important thing is we can split three things when it comes to the real work on the court and in the weight room. One are the team practices. Another thing are the individual or group skill sessions and lifting sessions... obviously, from those three things, what is the most important thing? Team practices, because they will be the most important thing for how we play basketball... And then the second important thing is usually strength sessions...",
+      "keywords": [
+        "planning",
+        "calendar",
+        "friendly-games",
+        "team-practices",
+        "top-down",
+        "europe"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué orden metodológico sigue Luka Svilar para rellenar el calendario de pretemporada?",
+        "¿Cuáles son los tres componentes del trabajo en pista y gimnasio al programar?"
+      ],
+      "related_terms": [
+        "calendario en blanco",
+        "planificación top-down",
+        "amistosos",
+        "días libres",
+        "prácticas de equipo"
+      ],
+      "relevance_score": 5,
+      "context_before": "La teoría de acondicionamiento se traduce en colocar bloques de tiempo en el calendario.",
+      "context_after": "Se detalla cómo es la última semana antes de los partidos oficiales utilizando esta misma lógica."
+    },
+    {
+      "id": "V02-028",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "01:05:00",
+      "end_timestamp": "01:09:50",
+      "start_seconds": 3900,
+      "end_seconds": 4190,
+      "duration_seconds": 290,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3900",
+      "title": "Tapering final en la última semana europea",
+      "summary": "En la semana final (Tapering) antes de la competición en Europa, no hay dobles sesiones completas, el volumen de pista se reduce (ej. prácticas cortas de 45 minutos centradas a media pista), y el gimnasio aplica el microdosing diario obligatorio u opcional para asegurar frescura y explosividad.",
+      "literal_quote": "We can see here that in the last week, we don't have any double sessions... here we will spend all 45 minutes of team practice playing on the half court.",
+      "full_transcript": "You can see that strength is there on every training day. On some specific days, we will not lift, like first initial day... Not every single day must have organized strength session. Some of the days can also be optional... we can now make a little bit more detailed weekly plan, and we can see here that in the last week, we don't have any double sessions. Game will be played on Sunday. Monday is off... and then here we will have lifting sessions micro-dosed on every single day... we will suggest head coach to have practice of this duration... we will spend all 45 minutes of team practice playing on the half court. Intensity should be this. Targeted total distance in practice on average for our players will be this, and then targeted high intensity distance will be here. No traveling and the game on Sunday.",
+      "keywords": [
+        "tapering",
+        "europe",
+        "last-week",
+        "half-court",
+        "micro-dosing",
+        "volume-reduction"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se organiza la semana de tapering previa a la competición oficial en Europa?",
+        "¿Qué ocurre con el volumen de práctica en pista durante el tapering?"
+      ],
+      "related_terms": [
+        "semana final",
+        "tapering",
+        "dobles sesiones",
+        "microdosis"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo construir el calendario de Europa desde cero.",
+      "context_after": "Svilar pasa a mostrar cómo este calendario difiere en la G-League estadounidense."
+    },
+    {
+      "id": "V02-029",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "01:09:50",
+      "end_timestamp": "01:12:15",
+      "start_seconds": 4190,
+      "end_seconds": 4335,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4190",
+      "title": "Diseño de Training Camp en EE. UU. (G-League)",
+      "summary": "El campamento de la G-League de dos semanas requiere condensar el trabajo. Emplean el concepto de 'Vitamins' (desarrollo de habilidades individuales) fusionado con pesas en las mañanas. La semana 1 tiene días de doble sesión de entrenamiento; la semana 2 suaviza la carga combinando pesas y Vitamins previo a los juegos.",
+      "literal_quote": "In the mornings, we always have lifting, so another micro-dosing model together with vitamins, and vitamins is a term that in USA they use for individual skills work.",
+      "full_transcript": "In the USA, training camp, as I said, lasts a little bit less, around two weeks, and this is the example from a G League team... you can see that in the week one, we have two times two a day, Monday and Wednesday, and then first exhibition game on Saturday. In the mornings, we always have lifting, so another micro-dosing model together with vitamins, and vitamins is a term that in USA they use for individual skills work. And then we had two team practices on Monday and Wednesday, one that followed this lift vitamin session... And then you can see that in the week two, we had a day off on Sunday, and then we had only one session a day that was composed of lift and vitamins... followed by team practice. In this case, we had another team scrimmage... travel to play first game of the season on Monday, November 10th.",
+      "keywords": [
+        "usa",
+        "g-league",
+        "training-camp",
+        "vitamins",
+        "double-sessions",
+        "skills-work"
+      ],
+      "entities": [
+        "G League"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Cómo se organiza el corto 'training camp' en la NBA G-League?",
+        "¿A qué se refieren con el término 'Vitamins' en el baloncesto estadounidense?"
+      ],
+      "related_terms": [
+        "training camp",
+        "g-league",
+        "vitamins",
+        "habilidades individuales",
+        "doble sesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "La periodización larga europea contrasta con la intensidad breve estadounidense.",
+      "context_after": "Svilar concluye resumiendo la importancia de balancear las demandas ideales (bottom-up) con los factores limitantes reales (top-down)."
+    },
+    {
+      "id": "V02-030",
+      "video_title": "Preseason in basketball",
+      "speaker": "Luka Svilar",
+      "start_timestamp": "01:12:15",
+      "end_timestamp": "01:17:49",
+      "start_seconds": 4335,
+      "end_seconds": 4669,
+      "duration_seconds": 334,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4335",
+      "title": "Conclusión: Integrando factores (Mladen Jovanovic)",
+      "summary": "Como cierre, Svilar recalca que no se puede diseñar solo pensando en el desarrollo físico (bottom-up); hay que considerar todos los factores externos (top-down), concepto referenciado a Mladen Jovanovic. La clave es la comunicación, la monitorización constante, la elección apropiada de métodos y una periodización ondulante.",
+      "literal_quote": "If you're familiar with the work of Mladen Jovanovic, you know about bottom-up and top-down approaches in periodization. And we know that very often we cannot look at the things only from the lenses of, aha, strength needs to be developed.",
+      "full_transcript": "And then with this, we come to the very last part of the presentation... if you're familiar with the work of Mladen Jovanovic, you know about bottom-up and top-down approaches in periodization. And we know that very often we cannot look at the things only from the lenses of, aha, strength needs to be developed... We have to consider so many different factors... Talking to the head coach and assistants and health and performance staff is critical... Applying progression and undulation in volume and intensity and using tapering methods at the end of the preseason can be critical to adapt at the highest level and to have that super compensation. Taking into consideration all activities before preparing lifting programs is critical... Selecting appropriate conditioning methods... and to understand a little bit better how players cope with the demands of physical and physiological stress, try to look for load monitoring method that is appropriate... I hope this short lecture will help you a little bit.",
+      "keywords": [
+        "conclusions",
+        "mladen-jovanovic",
+        "bottom-up",
+        "top-down",
+        "periodization",
+        "super-compensation"
+      ],
+      "entities": [
+        "Mladen Jovanovic"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué conclusiones de metodología y periodización resalta Svilar al finalizar su charla?",
+        "¿A quién referencia al hablar de los enfoques 'bottom-up' y 'top-down'?"
+      ],
+      "related_terms": [
+        "conclusiones",
+        "mladen jovanovic",
+        "enfoque top-down",
+        "periodización ondulante"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se finaliza la exposición de los dos grandes modelos de periodización.",
+      "context_after": "Despedida final del ponente."
+    }
+  ]
+}
