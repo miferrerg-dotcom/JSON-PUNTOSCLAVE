@@ -1,0 +1,255 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Módulo de recuperación en deporte de élite",
+    "speaker": "Julio Calleja-González",
+    "total_duration": "00:07:33",
+    "total_duration_seconds": 453,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Módulo de recuperación en deporte de élite",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:34",
+      "start_seconds": 1,
+      "end_seconds": 94,
+      "duration_seconds": 93,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Introducción a la acreditación y marcadores de fatiga",
+      "summary": "Presentación de la iniciativa de NSCA Spain sobre la acreditación Performance Sport Sciences Specialist. Se introduce el módulo de recuperación basado en el capítulo 16 del libro Essential of Sport Science, enfocado en marcadores de salud y rendimiento para detectar fatiga de forma anticipada.",
+      "literal_quote": "Nos pidieron que hiciéramos un capítulo en concreto sobre todos los aspectos relacionados con esos marcadores, tanto para salud como rendimiento... con el objeto de poder detectar parámetros relacionados con la fatiga.",
+      "full_transcript": "Muy buenos días a todos y a todas. Gracias por la asistencia en esta nueva iniciativa de NSCA Spain, en la cual os vamos a ofrecer la posibilidad de acreditaros en el concepto de Performance Sport Sciences Specialist. Para esta ocasión, en lo que compete al módulo de recuperación en deporte de élite, en los próximos minutos vamos a daros un abanico de información que os pueda servir para formaros y acreditaros en esta nueva propuesta de NSCA, a partir de las experiencias vividas en los últimos años. A nivel personal, he tenido la suerte de estar en la realidad del deporte, en el campo con los deportistas, además de compatibilizar con la academia y poder estar en algunas estructuras que me han permitido crecer como persona y, sobre todo, tener información para luego transmitir a las próximas generaciones. Por tanto, yo quisiera daros, en ese sentido, el beneplácito de poder estar en esta acreditación, basado en el documento que ya hace unos años publicamos como capítulo de libro, el capítulo 16, con mis compañeros de viaje, el doctor Xavi Schelling y el doctor Nicolás Terrados, en el book de la NSCA, \"Essential of Sport Science\", que han codirigido Duncan French y Lorena Torres. Nos pidieron que hiciéramos un capítulo en concreto sobre todos los aspectos relacionados con esos marcadores, tanto para salud como rendimiento, de una forma ordenada, organizada, en la que pudiéramos tener información precisa con el objeto de poder detectar parámetros relacionados con la fatiga y adelantarnos a los problemas que tenemos en el deporte de alto nivel.",
+      "keywords": [
+        "nsca",
+        "acreditacion",
+        "performance",
+        "marcadores",
+        "fatiga",
+        "salud",
+        "rendimiento"
+      ],
+      "entities": [
+        "NSCA Spain",
+        "Xavi Schelling",
+        "Nicolás Terrados",
+        "Duncan French",
+        "Lorena Torres"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es la acreditación Performance Sport Sciences Specialist?",
+        "¿Quiénes son los autores del capítulo sobre recuperación en el libro de NSCA?"
+      ],
+      "related_terms": [
+        "acreditación",
+        "de",
+        "NSCA",
+        "performance sport sciences",
+        "marcadores de fatiga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar y bienvenida a los asistentes.",
+      "context_after": "El ponente expone el índice de la sesión y comienza a reflexionar sobre la relevancia y el tiempo invertido en la recuperación en el deporte internacional."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Módulo de recuperación en deporte de élite",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:01:35",
+      "end_timestamp": "00:03:35",
+      "start_seconds": 95,
+      "end_seconds": 215,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=95",
+      "title": "El peso creciente de la recuperación en la élite y el Recovery Umbrella",
+      "summary": "La recuperación se ha convertido en una prioridad absoluta en el deporte de alto nivel, superando a veces el tiempo invertido en entrenamiento debido a la densidad competitiva. Se define el concepto integral de 'recovery umbrella', que abarca el soporte personalizado no solo para deportistas, sino también para el staff.",
+      "literal_quote": "De hecho, los deportistas invierten más tiempo en recuperar que prácticamente en entrenar. Con los últimos modelos de competición y la alta densidad competitiva que existe, ha cogido gran peso a nivel internacional.",
+      "full_transcript": "A modo de índice, me gustaría deciros que después de esta primera reflexión inicial, me gustaría tener una introducción, reflexionar sobre cuál es el estado del arte en todo lo que compete a la recuperación, hacer una definición precisa de lo que es el término de recovery en Sport Science a nivel internacional, ver algunos de los métodos de recuperación más importantes que se utilizan. Por desgracia, no tenemos tiempo en una hora para hacer un repaso exhaustivo desde el punto de vista científico de cuáles son los efectos de cada uno de ellos. Finalizar con una reflexión final que complemente la inicial para tener unas conclusiones prácticas que os puedan servir a vosotros y a vosotras en el día a día en el trabajo con vuestros deportistas. La recuperación en ciencias del deporte es un concepto que en los últimos años tiene muchísimo peso a nivel internacional. De hecho, los deportistas invierten más tiempo en recuperar que prácticamente en entrenar. Con los últimos modelos de competición y la alta densidad competitiva que existe, ha cogido gran peso a nivel internacional. En este documento, posiblemente uno de los más importantes que se haya publicado en el \"Journal of International Sports Physiology and Performance\" en el 2018, precisamente se hablaba a nivel de consenso de cuáles eran los parámetros que debíamos de considerar en todo lo que compete a la recuperación y al rendimiento deportivo. Es un concepto que en los últimos años se ha convertido en prioritario, especialmente en el deporte de élite, y las evidencias científicas de las publicaciones en los últimos 10 han incrementado de forma significativa. Actualmente, conocemos el concepto de recovery como algo muchísimo más amplio. Hablamos del recovery umbrella, que sería el paraguas que da soporte a todas las organizaciones deportivas, federaciones, clubes y equipos, en lo que compete no solo a los deportistas, sino también al staff, para que de una forma lo más personalizada posible podamos garantizar que todos esos miembros de estas estructuras puedan tener procesos de recuperación lo más adecuados posibles.",
+      "keywords": [
+        "recovery-umbrella",
+        "densidad-competitiva",
+        "consenso",
+        "staff",
+        "rendimiento",
+        "prioridad"
+      ],
+      "entities": [
+        "Journal of International Sports Physiology and Performance"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué significa el término recovery umbrella?",
+        "¿Por qué la recuperación tiene tanto peso en los modelos de competición actuales?"
+      ],
+      "related_terms": [
+        "recovery",
+        "umbrella",
+        "densidad",
+        "competitiva",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación de la acreditación NSCA y el marco teórico sobre fatiga.",
+      "context_after": "Se avanza en la literatura científica para introducir términos de nueva creación como la pre-recuperación y su impacto en las rutinas competitivas."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Módulo de recuperación en deporte de élite",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:03:36",
+      "end_timestamp": "00:05:11",
+      "start_seconds": 216,
+      "end_seconds": 311,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=216",
+      "title": "El concepto de pre-recuperación propuesto por Mahieu",
+      "summary": "Introducción del término 'pre-recuperación', fundamentado por Mahieu (2022), refiriéndose a las intervenciones aplicadas antes de la competición. Su objetivo es facilitar procesos de asimilación sin tener que recurrir a medidas de choque exclusivas tras el daño producido por la intensidad competitiva.",
+      "literal_quote": "Hablaba del término de pre-recuperación, lo que puede referirse a todas aquellas intervenciones en los días previos a la competición... que nos permita facilitar la recuperación en los días posteriores.",
+      "full_transcript": "En esos términos en los cuales definimos la recuperación, también hace escasamente dos años se han producido otros conceptos que le van dando mucho más soporte y más profundidad al tema. Este estudio de Mahieu, del año 22, publicado en el Scandinavian, hablaba del término de pre-recuperación, lo que puede referirse a todas aquellas intervenciones en los días previos a la competición o cuando buscamos el pico de fitness que nos permita facilitar la recuperación en los días posteriores y no tener que esperar a una sesión de entrenamiento muy intensa o a la propia competición para hacer de forma de choque todos los procesos de recuperación. En este sentido, también me gustaría reflexionar, y creo que una parada inicial en esta exposición puede serviros a todos y a todas para que os toméis unos minutos y penséis: cuál es, en vuestra opinión, el proceso de recuperación y qué importancia le daríais a la recuperación dentro de vuestro sistema deportivo, en vuestro equipo, en vuestro nivel, categoría y género. ¿Qué porcentaje de trabajo dedicáis a este concepto? Por lo tanto, tenéis dos, tres minutos a partir de ahora para poder reflexionar antes de continuar con el capítulo.",
+      "keywords": [
+        "pre-recuperacion",
+        "intervenciones",
+        "previas",
+        "pico-fitness",
+        "recuperacion-choque",
+        "mahieu"
+      ],
+      "entities": [
+        "Mahieu",
+        "Scandinavian"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es la pre-recuperación según el estudio de Mahieu?",
+        "¿Cómo se planifica la pre-recuperación respecto al pico de fitness?"
+      ],
+      "related_terms": [
+        "pre-recuperación",
+        "días",
+        "previos",
+        "intervenciones",
+        "preventivas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del peso central de la recuperación y la definición del recovery umbrella.",
+      "context_after": "Se evalúan de forma crítica los diferentes métodos de recuperación que el mercado ofrece, basándose en la pirámide de la evidencia científica."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Módulo de recuperación en deporte de élite",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:05:13",
+      "end_timestamp": "00:06:26",
+      "start_seconds": 313,
+      "end_seconds": 386,
+      "duration_seconds": 73,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=313",
+      "title": "Evidencia científica de los métodos de recuperación",
+      "summary": "Se invita a discernir críticamente si los recursos disponibles son útiles o simples 'juguetes'. La evaluación debe recaer en metaanálisis que demuestren verdadera eficacia (crioterapia, compresión, sueño) y permitan identificar combinaciones con efectos aditivos recomendables para los deportistas.",
+      "literal_quote": "Analizar si todos los métodos que existen en el mercado son realmente juguetes o son herramientas que nos pueden servir a nosotros para el día a día con nuestros deportistas.",
+      "full_transcript": "Este tipo de reflexiones creo que nos van a ayudar a asentar los conceptos, a contrastar la literatura con la previa formación que nosotros tenemos para, a partir de cuando expliquemos los métodos, tengáis más criterio para poder ver cuál es el efecto que cada uno de ellos tiene en los deportistas. Por tanto, mi primera pregunta sería muy simple y de forma didáctica: analizar si todos los métodos que existen en el mercado son realmente juguetes o son herramientas que nos pueden servir a nosotros para el día a día con nuestros deportistas. Además, basado en eso, tenemos que ver si realmente hay una evidencia detrás o una ficción. Muchos de los estudios en la pirámide científica que soportan la base para entender si el proceso tiene eficiencia o no, algunos están basados en nivel de evidencia más baja en la pirámide y otros ya tienen metaanálisis y metaregresiones que nos permiten certificar con mucho peso científico si realmente la recomendación es alta o no para un deportista. Entre ellas, el masaje, las prendas de compresión, los garmins, el agua fría, la inmersión, contrastes, todo tipo de terapia de agua, el foam roller, descanso, sueño, las micro naps, las power naps, técnicas de criogenia, hiperoxia, hiperbaria, algunas psicológicas, recuperación activa y, sobre todo, la combinación potencial de alguna de ellas que nos permite tener efectos aditivos. Por tanto, la tarea dos, sí me gustaría que reflexionarais sobre si realmente entendemos lo que recupera un deportista y qué herramientas tenemos.",
+      "keywords": [
+        "evidencia-cientifica",
+        "metaanalisis",
+        "juguetes-vs-herramientas",
+        "crioterapia",
+        "prendas-compresion",
+        "efectos-aditivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo diferenciar entre juguetes y herramientas útiles de recuperación?",
+        "¿Cuáles son los métodos de recuperación respaldados por metaanálisis?"
+      ],
+      "related_terms": [
+        "evidencia",
+        "científica",
+        "pirámide",
+        "métodos",
+        "recuperación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre el valor de invertir tiempo en intervenciones de pre-recuperación.",
+      "context_after": "Se cruza esta información teórica con el alineamiento de biomarcadores biológicos, condicionales y cognitivos que limitan la intensidad en cada deporte."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Módulo de recuperación en deporte de élite",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:06:28",
+      "end_timestamp": "00:07:33",
+      "start_seconds": 388,
+      "end_seconds": 453,
+      "duration_seconds": 65,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=388",
+      "title": "Biomarcadores y factores limitantes de fatiga",
+      "summary": "Para elegir adecuadamente los métodos de recuperación, es necesario perfilar los factores que limitan el ejercicio en cada deporte. Evaluar ratios hormonales, proteínas reactivas y daño muscular biológico es clave para comprobar si la intervención de recuperación tiene un efecto real de contrarresto.",
+      "literal_quote": "Identificar los factores limitantes de la intensidad de ejercicio en cada uno de los deportes nos puede ayudar a tener muchísimo más claridad si el método que estamos utilizando va a contrarrestar ese tipo de fatiga o no.",
+      "full_transcript": "Una vez que hemos reflexionado, sí es interesante entender también este concepto. Identificar los factores limitantes de la intensidad de ejercicio en cada uno de los deportes nos puede ayudar a tener muchísimo más claridad si el método que estamos utilizando va a contrarrestar ese tipo de fatiga o no. En este estudio del grupo de investigación, lo que hicimos precisamente en fútbol es hacer un alineamiento de cuáles eran los biomarcadores desde el punto de vista biológico, los cognitivos y los condicionales que en la literatura científica describen si algún método tal cual tiene evidencia o no para poder contrarrestar esa fatiga y recuperarnos mejor de ese concepto. Como veis, algunos de ellos, como los marcadores más biológicos, los cuales estarían los ratios hormonales, las enzimas específicas asociadas al daño muscular y las proteínas reactivas, la literatura científica lo describe como tal y además está certificado que tiene efectos positivos en dicha recuperación. ¿Se puede quitar esto? Vale, es que aquí se pone como tapa esto. Te lo puedes ubicar donde quieras.",
+      "keywords": [
+        "factores-limitantes",
+        "biomarcadores",
+        "ratios-hormonales",
+        "dano-muscular",
+        "proteinas-reactivas",
+        "contrarrestar-fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante identificar los factores limitantes de la intensidad en cada deporte?",
+        "¿Cuáles son los biomarcadores asociados a la evaluación del daño muscular y recuperación?"
+      ],
+      "related_terms": [
+        "biomarcadores",
+        "factores",
+        "limitantes",
+        "análisis",
+        "fatiga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Repaso a la evidencia científica de las herramientas y aparatos disponibles en el mercado para la recuperación.",
+      "context_after": "El fragmento de VTT se interrumpe y finaliza aquí por motivos técnicos de pantalla."
+    }
+  ]
+}

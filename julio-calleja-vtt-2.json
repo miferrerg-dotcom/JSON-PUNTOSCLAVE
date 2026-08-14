@@ -1,0 +1,202 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Módulo de recuperación en deporte de élite - Parte 2",
+    "speaker": "Julio Calleja-González",
+    "total_duration": "00:05:08",
+    "total_duration_seconds": 308,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 2",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:00:33",
+      "start_seconds": 2,
+      "end_seconds": 33,
+      "duration_seconds": 31,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Ineficacia de la compresión en la recuperación periférica",
+      "summary": "Se analiza un estudio de 2023 publicado en 'Sports Medicine' sobre el efecto de las prendas de compresión en la sangre venosa y arterial. La conclusión cierra el debate actual: la compresión no produce ninguna activación fisiológica en el proceso de recuperación a nivel periférico.",
+      "literal_quote": "En ambos casos, cuando va desde corazón a periferia o cuando va de retorno venoso, podemos observar que ningún efecto de la compresión tenía ninguna activación en el proceso de recuperación fisiológico a nivel periférico.",
+      "full_transcript": "Continuamos con esta reflexión, en la cual algunos estudios más profundos, recientes del 2023, publicados en el \"Sports Medicine\", hacían una diferenciación en base al efecto que se produce tanto en sangre venosa como arterial. En ambos casos, cuando va desde corazón a periferia o cuando va de retorno venoso, podemos observar que ningún efecto de la compresión tenía ninguna activación en el proceso de recuperación fisiológico a nivel periférico. Por lo tanto, podemos concluir este debate que ha existido y que actualmente se utiliza.",
+      "keywords": [
+        "compresion",
+        "sangre-venosa",
+        "sangre-arterial",
+        "recuperacion-fisiologica",
+        "nivel-periferico"
+      ],
+      "entities": [
+        "Sports Medicine"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué efecto tienen las prendas de compresión en la recuperación periférica?",
+        "¿Qué concluye el estudio de Sports Medicine de 2023 sobre la compresión?"
+      ],
+      "related_terms": [
+        "prendas de compresión",
+        "flujo sanguíneo",
+        "recuperación",
+        "fisiológica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se interrumpió el fragmento anterior donde se hablaba de la identificación de biomarcadores limitantes.",
+      "context_after": "Se avanza al siguiente método de recuperación a debate: el estiramiento post-entrenamiento y competición."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 2",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:00:35",
+      "end_timestamp": "00:01:58",
+      "start_seconds": 35,
+      "end_seconds": 118,
+      "duration_seconds": 83,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=35",
+      "title": "Evidencia científica nula del estiramiento para recuperación estructural",
+      "summary": "Mediante el análisis de modificaciones en sarcómeros y citoesqueleto, y apoyado en un forest plot de estudios RCT (profesor Afonso), se demuestra que las técnicas de estiramiento post-esfuerzo no generan mejoras en la recuperación estructural ni musculoesquelética en comparación con no hacerlas.",
+      "literal_quote": "El estado del arte a fecha actual nos está describiendo que no por estirar... vamos a recuperarnos desde el punto de vista estructural y musculoesquelético con respecto a un sujeto que no lo haga.",
+      "full_transcript": "Otro de los aspectos importantes que está dentro del rango, sobre todo de los métodos que estamos utilizando en el día a día con nuestros deportistas, es el estiramiento, que en los últimos tiempos siempre ha existido con debate respecto a aquellas escuelas en las cuales había algunas técnicas en las que ponían en cuestión si determinadas estrategias de la utilización de neuromodulación producían efectos o no en la recuperación posterior en el sistema nervioso y, sobre todo, en el sistema musculoesquelético. Cuando hacemos un microanálisis de cuál sería la modificación de los sarcómeros y la longitud de diferentes segmentos y estructuras hasta que llega al citoesqueleto, podemos ver si realmente hay cambios en la estructura funcional por el hecho de hacer un estiramiento o no después de entrenar o después de competir. En este estudio muy bien hecho del profesor Afonso, lo que hacía es un análisis de los estudios de RCT que analizaban el efecto o no, y como se puede ver en el forest plot, no se ve ningún cambio significativo con respecto al grupo que hacía stretching con respecto al grupo control. Por lo tanto, podemos decir que el estado del arte a fecha actual nos está describiendo que no por estirar, no por hacer una técnica de estiramiento habitual, nosotros vamos a recuperarnos desde el punto de vista estructural y musculoesquelético con respecto a un sujeto que no lo haga en las mismas condiciones de partida.",
+      "keywords": [
+        "estiramiento",
+        "neuromodulacion",
+        "sarcomeros",
+        "citoesqueleto",
+        "rct",
+        "forest-plot"
+      ],
+      "entities": [
+        "Profesor Afonso"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Recupera estructuralmente el estiramiento después de entrenar?",
+        "¿Qué dicen los estudios RCT del profesor Afonso sobre el estiramiento?"
+      ],
+      "related_terms": [
+        "estiramiento",
+        "recuperación",
+        "musculoesquelética",
+        "sarcomeros"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se descarta el uso de la compresión como activador fisiológico de recuperación periférica.",
+      "context_after": "Se cambia de método para analizar el agua y la hidroterapia con exposición al frío."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 2",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:01:59",
+      "end_timestamp": "00:03:50",
+      "start_seconds": 119,
+      "end_seconds": 230,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=119",
+      "title": "Parámetros óptimos y temporalidad de la inmersión en agua fría",
+      "summary": "La hidroterapia es validada como uno de los métodos más eficaces. Los mayores efectos se consiguen en torno a 13-14°C durante 10 minutos. Un metaanálisis reciente (grupo de Bergen, Petter Kustrup) confirma efectos positivos de tamaño pequeño-moderado, especialmente observables a las 24 y 48 horas post-intervención.",
+      "literal_quote": "A fecha de hoy sabemos que la temperatura óptima está en torno a los 13, 14 °C y el tiempo de exposición puede rondar en torno a los 10 minutos, donde se encuentra el mayor tamaño del efecto estadístico.",
+      "full_transcript": "¿Qué tenemos que decir del agua, que es el método estrella? Porque es simple, barato, lo hacemos en agua, en un entorno acuoso, estamos formados en un 75%, 80% por agua, es normal que el ser humano responda a cualquier estímulo. Así lo certifican los estudios científicos, cómo de forma exponencial en los últimos 25 años se ha incrementado el concepto de frío y la hidroterapia como efecto en la recuperación, tanto en salud como en ejercicio físico. Algunos de los estudios más interesantes hablan sobre cuál sería el tamaño y el pico del efecto, sobre todo en el proceso de enfriamiento con la recuperación muscular. El estado del arte nos ha dado información muy precisa y a fecha de hoy sabemos que la temperatura óptima está en torno a los 13, 14 °C y el tiempo de exposición puede rondar en torno a los 10 minutos, donde se encuentra el mayor tamaño del efecto estadístico. Me gustaría hacer un simple debate en el cual pusiéramos el último estudio que hay en el \"Scandinavia\" del 2026, en el que da un paso más. Aquí los autores del grupo de Bergen y dirigidos por Petter Kustrup, lo que hacen es analizar el efecto de forma temporal. Cuándo ese efecto, como se puede ver en el metaanálisis, es real, si al de 24, al de 48 o al de 72 horas. Aquí podemos observar que tanto al de 24 horas como al de 48, los efectos son pequeños, moderados, lo cual nos da una información precisa de cuál sería el momento ideal para poder nosotros implementar esa estrategia. Sí es cierto que todavía son muy pocos estudios de intervención, tanto en el primer paquete podemos ver seis, siete trabajos y en el segundo también. Incluso en el de 72 horas con dos estudios son muy pocos para metanalizar. Pero en cualquier caso, el estado del arte nos habla de que a favor de la intervención con agua es posible uno de los métodos que más tenemos que cuidar y que más efectos tiene en nuestros deportistas.",
+      "keywords": [
+        "agua-fria",
+        "hidroterapia",
+        "temperatura-optima",
+        "efecto-temporal",
+        "metaanalisis"
+      ],
+      "entities": [
+        "Scandinavia",
+        "Grupo de Bergen",
+        "Petter Kustrup"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuál es la temperatura y tiempo óptimo para la recuperación con agua fría?",
+        "¿Cuándo se notan los efectos de la inmersión en agua fría tras el ejercicio?"
+      ],
+      "related_terms": [
+        "inmersión",
+        "agua",
+        "fría",
+        "hidroterapia",
+        "recuperación",
+        "muscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Rechazo de la evidencia de beneficios estructurales del estiramiento post-ejercicio.",
+      "context_after": "Se transiciona a explicar otra herramienta de recuperación mecánica popular: el foam roller."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 2",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:03:53",
+      "end_timestamp": "00:05:08",
+      "start_seconds": 233,
+      "end_seconds": 308,
+      "duration_seconds": 75,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=233",
+      "title": "Variabilidad y aplicación psicológica del Foam Roller",
+      "summary": "Se analiza el uso del foam roller como masaje miofascial en puntos gatillo. Destaca la importancia de su aplicación según el momento: liso y de colores fríos (vagal) para el post-entreno buscando el retorno venoso, frente a rodillos granulados, cortos y de colores cálidos (simpático-estimulante) para la activación neuromuscular previa. La explicación del ponente queda incompleta al final del fragmento.",
+      "literal_quote": "Sí estamos recomendando... que utilicemos colores más fríos relacionados con aspectos vagales... para después de competir, y colores mucho más agresivos, más simpático-estimulantes... para el pre.",
+      "full_transcript": "En los últimos años también ha aparecido otra herramienta de ilusión: el foam roll. Todo lo que implica ese masaje miofascial, cuando por medio de un eje vertical gravitatorio somos capaces de mantener un peso en un punto gatillo y a partir de una técnica de foam roll, de una técnica de automasaje en el cual el peso es fundamental en los diferentes segmentos, desde una parte más proximal a distal, en la cual favorezca o en su caso el retorno venoso de una distal más a una proximal, se ha convertido en una técnica muy habitual en los deportistas. Tenemos numerosos tipos de herramientas, algunas de ellas con mayor o menor diámetro, con mayor colorido, con mayor rugosidad. Sí estamos recomendando, a pesar de que no hay estudios, que utilicemos colores más fríos relacionados con aspectos vagales, como puede ser el negro y el azul para después de competir, y colores mucho más agresivos, más simpático-estimulantes, como el rojo, el naranja o el rosa para el pre. En cualquier caso, lo que sí tenemos claro es que después de competir tiene que ser un foam roll liso con unas pasadas, que luego veremos el tiempo. Antes, sin embargo, esa activación neuromuscular periférica en motoneuronas superficiales nos haría pensar en un foam roll más corto, más pequeño, más agresivo, con un granulado que nos permita precisamente activar. En ese sentido",
+      "keywords": [
+        "foam-roller",
+        "masaje-miofascial",
+        "punto-gatillo",
+        "retorno-venoso",
+        "aspectos-vagales",
+        "simipatico-estimulante"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo elegir el tipo y color de foam roller antes y después de competir?",
+        "¿Cuál es el mecanismo fisiológico por el cual funciona el foam roller pre y post partido?"
+      ],
+      "related_terms": [
+        "foam roller",
+        "masaje",
+        "miofascial",
+        "activación",
+        "neuromuscular"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las variables para el uso de inmersión en agua fría.",
+      "context_after": "El fragmento termina de forma abrupta dejando la idea sobre la activación pre-competitiva del foam roller inconclusa."
+    }
+  ]
+}

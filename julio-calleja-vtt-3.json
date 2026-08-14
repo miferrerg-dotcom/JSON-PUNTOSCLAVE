@@ -1,0 +1,353 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+    "speaker": "Julio Calleja-González",
+    "total_duration": "00:09:36",
+    "total_duration_seconds": 576,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:12",
+      "start_seconds": 3,
+      "end_seconds": 72,
+      "duration_seconds": 69,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Evidencia y efectos fisiológicos del Foam Roller",
+      "summary": "Se repasan metaanálisis recientes (como el de Will Hope, 2019) que confirman tamaños de efecto pequeños-moderados del foam roller. Su uso altera variables dependientes o 'primary outcomes' como la activación muscular, fuerza, potencia, ROM, y se continúa estudiando su impacto en el flujo sanguíneo, sistema linfático y atenuación del daño muscular (DOMS).",
+      "literal_quote": "Hay una serie de variables dependientes que se ven alteradas... como puede ser la activación muscular, la fuerza y la potencia. Algunos relacionados con la flexibilidad y el range of motion.",
+      "full_transcript": "Posiblemente, de todos los estudios de intervención que ha habido en los últimos 10 años que hablan del foam roll, la mayoría de ellos presentaban efectos positivos en algunas de las variables dependientes estudiadas. Hasta que en el 2019, Will Hope, que fue el que realizó el primer metaanálisis sobre los efectos tanto en rendimiento como en performance. Aquí podemos observar que en el forest plot hay algunos estudios que ya están revelando cómo tienen tamaños efectos pequeños moderados, que nos pueden dar esa ventana de ilusión en la utilización del foam roll. Sí es cierto que cuando aplicamos el foam roll en todo lo que sería el proceso de masaje miofascial, hay que tener en cuenta que hay una serie de variables dependientes que se ven alteradas, sobre todo los primary outcomes, como puede ser la activación muscular, la fuerza y la potencia. Algunos relacionados con la flexibilidad y el range of motion, y sobre todo estamos empezando a estudiar en qué medida sobre el blood flow y el sistema linfático. Es decir, algunos biomarcadores que puedan estar relacionados directamente con todo el proceso de daño musculoesquelético en el DOMS, que aparece posteriormente a la realización del ejercicio.",
+      "keywords": [
+        "foam-roller",
+        "metaanalisis",
+        "activacion-muscular",
+        "rom",
+        "doms",
+        "masaje-miofascial"
+      ],
+      "entities": [
+        "Will Hope"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los efectos fisiológicos comprobados del foam roller?",
+        "¿Qué variables primarias se ven alteradas con el uso del foam roller?"
+      ],
+      "related_terms": [
+        "masaje",
+        "miofascial",
+        "daño",
+        "musculoesquelético",
+        "DOMS"
+      ],
+      "relevance_score": 4,
+      "context_before": "Continuación de la evaluación de diferentes herramientas de recuperación física.",
+      "context_after": "El tema transiciona al análisis de la calidad del sueño y su gestión en el alto rendimiento."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:01:13",
+      "end_timestamp": "00:03:17",
+      "start_seconds": 73,
+      "end_seconds": 197,
+      "duration_seconds": 124,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=73",
+      "title": "Gestión del sueño y la fatiga de viaje en la élite",
+      "summary": "El sueño es un pilar crítico de recuperación ('sleep health'), influenciado por el entrenamiento, lesiones y fatiga de viaje (jet lag, ritmos circadianos). A través de la ELPA (Euroliga), se aplican intervenciones prácticas sobre qué posturas o tipos de almohadas utilizar durante la noche, en los viajes o en micro-siestas.",
+      "literal_quote": "Nos planteábamos qué tipo de almohadas utilizaban los y las deportistas durante la noche... en función de la postura que pudieran adoptar, y algunas propuestas de almohadas que estamos haciendo para los viajes.",
+      "full_transcript": "Con respecto al sueño, que sigue siendo uno de los caballos de batalla, no solo en el deporte, sino en cualquier profesión de estrés y de alto nivel, la verdad es que tenemos muy poca información al respecto. Dos de los referentes en el mundo en sueño en el deporte, como son Jonathan Chares y sus colaboradores, hacen una revisión muy bonita en el Current Sports Medicine Reports, en el cual hablan sobre sleep y rendimiento en performance en deporte. Hacen un cuadro muy simple en el cual asocian todas las variables dependientes y los principales outcomes que están relacionados con el sleep health, lo que sería esa salud de sueño, y cómo pueden ser afectadas por algunas variables de manipulación, como el propio entrenamiento, el proceso de lesión personal del deportista, su salud mental en algunos momentos y sobre todo lo que se conoce ahora como los efectos que influyen en la fatiga del viaje. Los cambios de horario, ritmos circadianos, el jet lag al este y al oeste y el cambiar en muy poco tiempo de huso horario en periodos relativamente cortos en los cuales hay competición en medio. Por lo tanto, el sueño en el futuro va a ser una de las grandes variables que vamos a tener que realizar y desde el consejo asesor que tenemos en la ELPA, en la Euroliga, cada mes sacamos una newsletter en la cual hablamos de este tipo de cuestiones que preocupan muchísimo a los deportistas. Recuerdo con especial cariño con mis compañeros de trabajo, Igor Jukić, Francesco Cucciolini, Baris Marrovira, Antonio Santi o Jaime Sampayo, cómo en la letter número 21 hablábamos precisamente eso, cómo gestionar mejor el sueño y nos planteábamos qué tipo de almohadas utilizaban los y las deportistas durante la noche, qué tipo de almohadas utilizaban sobre la micro y power nap, en función de la postura que pudieran adoptar, y algunas propuestas de almohadas que estamos haciendo para los viajes, sobre todo en el cambio de una posición cuando estás muchas horas en el avión. Otro de los aspectos que intentamos analizar es precisamente el tipo de sleeper que un deportista puede ser. Si eres un sleeper que duermes de lado, duermes de estómago, duermes boca arriba o boca abajo, dándoles herramientas para que puedan conseguir posturas que sean lo más propicias para garantizar esa calidad de sueño que tanto nos preocupa en el deporte de alto nivel.",
+      "keywords": [
+        "sueno",
+        "sleep-health",
+        "fatiga-viaje",
+        "jet-lag",
+        "elpa",
+        "ritmos-circadianos"
+      ],
+      "entities": [
+        "Jonathan Chares",
+        "Current Sports Medicine Reports",
+        "ELPA",
+        "Euroliga",
+        "Igor Jukić",
+        "Francesco Cucciolini",
+        "Baris Marrovira",
+        "Antonio Santi",
+        "Jaime Sampayo"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué factores afectan a la salud del sueño (sleep health) en los deportistas?",
+        "¿Cómo interviene la Euroliga (ELPA) para mejorar el sueño de sus jugadores?"
+      ],
+      "related_terms": [
+        "calidad",
+        "de",
+        "sueño",
+        "power",
+        "nap",
+        "huso",
+        "horario"
+      ],
+      "relevance_score": 5,
+      "context_before": "Revisión de intervenciones físicas mecánicas (foam roller).",
+      "context_after": "Se transiciona hacia el análisis del nivel de evidencia real detrás de los suplementos nutricionales y ayudas ergogénicas."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:03:18",
+      "end_timestamp": "00:04:30",
+      "start_seconds": 198,
+      "end_seconds": 270,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=198",
+      "title": "Nivel de evidencia en ayudas ergogénicas post-esfuerzo",
+      "summary": "Pese a su gran popularidad, muy pocas ayudas ergogénicas cuentan con evidencia científica nivel 1A ajena al efecto placebo. Para ser útiles deben impactar en hidratación, resíntesis de glucógeno, reducción de inflamación o balance ácido-base (ej. beta-alanina, creatina, cafeína, bicarbonato).",
+      "literal_quote": "El estado del arte nos hace que hay muy pocas cosas con nivel de evidencia 1A, que nos permitan dar al deportista efectos sin jugar con el placebo y nocebo.",
+      "full_transcript": "Igualmente, he de hacer mención, aunque no es propia del capítulo, pero sí por ser una de las más potentes en lo que sería la recuperación, que sería todo lo que implicaría la ergogenia. Algunos estudios muy recientes del \"Sports Medicine\", en el que hablan cuáles son realmente las variables que tenemos y las ayudas ergogénicas en la manipulación que nos permitan recuperar muchísimo mejor después del ejercicio. En este cuadro simple, algunas de ellas están recomendadas, pero sobre todo recordar que el estado del arte nos hace que hay muy pocas cosas con nivel de evidencia 1A, que nos permitan dar al deportista efectos sin jugar con el placebo y nocebo, de realmente efectos que tengan sobre la hidratación, la resíntesis de glucógeno musculoesquelético, reducir la inflamación, que haya restauración hidrolítica, daño musculoesquelético fibrilar a nivel microscópico y un balance en la restauración del ácido base, además de poder utilizar con criterio y atemporización personal esas ayudas ergogénicas de las que tanto se habla. La beta-alanina, citrato, bicarbonato, la creatina, la cafeína y todo lo que está relacionado con los vasodilatadores del efecto que tienen los nitratos.",
+      "keywords": [
+        "ergogenia",
+        "evidencia-1a",
+        "resintesis-glucogeno",
+        "placebo",
+        "balance-acido-base"
+      ],
+      "entities": [
+        "Sports Medicine"
+      ],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principales objetivos de utilizar ayudas ergogénicas en la recuperación?",
+        "¿Qué ayudas ergogénicas nombra el ponente como destacadas?"
+      ],
+      "related_terms": [
+        "ayudas",
+        "ergogénicas",
+        "suplementación",
+        "evidencia",
+        "científica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Cierre de la importancia del sueño como pilar fundamental de la recuperación.",
+      "context_after": "El ponente avanza hacia técnicas de choque agresivas diseñadas para tratar cuadros agudos de fatiga crónica."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:04:32",
+      "end_timestamp": "00:06:02",
+      "start_seconds": 272,
+      "end_seconds": 362,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=272",
+      "title": "Crioestimulación sistémica ante cuadros de fatiga crónica",
+      "summary": "En contextos de fatiga crónica o muy alta densidad competitiva se utilizan técnicas de choque como la crioestimulación (-110°C por 2.5-3 min). Su aplicación genera un rebote vagal que modula interleuquinas y proteínas reactivas, reduciendo la inflamación e induciendo una notable mejora subjetiva en la calidad del sueño posterior.",
+      "literal_quote": "Todos los atletas coinciden en que la calidad del sueño es muchísimo mejor después de hacer este tipo de tratamientos, lo cual ya nos está dando una solución primaria.",
+      "full_transcript": "En los últimos años también hemos utilizado algunas estrategias agresivas de choque que permiten garantizar una recuperación durante cuadros en los cuales los deportistas estén realmente fatigados. Cuadros de fatiga general, que estén muy asociados al concepto crónico. Y en esos casos una de las estrellas es la crioestimulación, cuando sometemos a nuestro organismo a temperaturas realmente extremas, que pueden llegar a muchísimos grados menos, pero que normalmente los rangos en los que se mueve está en torno a -110. Y el tiempo de exposición suele rondar en torno a los 2:30 a 3 minutos, en los cuales el sujeto se mete dentro de la cámara criogénica buscando un efecto rebote importante y una activación del sistema vagal. Algunos de los efectos que están descritos con la introducción del sujeto en una cámara crio están relacionados con la inflamación del dolor, sobre todo con una sensación de bienestar, happiness, una menor fatiga. Algunos de los biomarcadores fisiológicos, como las respuestas de las interleuquinas, proteínas reactivas y factores tumorales, se ven variados. La respuesta es muy individual en este sentido y cómo esa recuperación del rendimiento se puede ver reflejado en algunas acciones propias, como son algunos componentes de las cualidades físicas. Es cierto, y todos los atletas coinciden en que la calidad del sueño es muchísimo mejor después de hacer este tipo de tratamientos, lo cual ya nos está dando una solución primaria, algo básico, como sería el tema del sueño.",
+      "keywords": [
+        "crioestimulacion",
+        "camara-criogenica",
+        "activacion-vagal",
+        "interleuquinas",
+        "fatiga-cronica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuánto tiempo y a qué temperatura se recomienda usar la cámara criogénica?",
+        "¿Cómo afecta la crioestimulación sistémica a los marcadores biológicos y al sueño?"
+      ],
+      "related_terms": [
+        "temperaturas",
+        "extremas",
+        "efecto",
+        "rebote",
+        "sistema",
+        "vagal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del uso de la ergogenia con base científica.",
+      "context_after": "Se presenta la punción seca como herramienta invasiva rápida desde el campo de la fisioterapia para atenuar rigideces y dolor."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:06:03",
+      "end_timestamp": "00:06:53",
+      "start_seconds": 363,
+      "end_seconds": 413,
+      "duration_seconds": 50,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=363",
+      "title": "Beneficios de la punción seca en la recuperación",
+      "summary": "La técnica de punción seca, aportada desde la fisioterapia, muestra resultados positivos como intervención post-ejercicio. Consigue reducir notablemente la rigidez muscular localizada, atenúa la percepción del dolor y favorece la mejora del Range of Motion (ROM).",
+      "literal_quote": "Esa punción seca parece reducir el dolor o la percepción del dolor que tiene el deportista y, sobre todo... la rigidez muscular se ve descendida de una forma muy clara.",
+      "full_transcript": "Algunas cosas interesantes, realmente recientes, son algunas técnicas de punción seca que aparecen en el mundo de la fisioterapia y que se utilizan muchísimo. Como veis en este estudio, en el cual compara varios grupos en el momento de intervención, es decir, el primer momento post-ejercicio, post-ejercicio como diseño, los single case y luego como grupo experimental. Lo que hacen es ver algunas variables relacionadas con la adaptación fisiológica, el range of motion, el dolor y el daño muscular a favor del grupo que está haciendo la técnica de punción seca. Esa punción seca parece reducir el dolor o la percepción del dolor que tiene el deportista y, sobre todo, una amplia variedad regional de algunos segmentos en los que la rigidez muscular se ve descendida de una forma muy clara.",
+      "keywords": [
+        "puncion-seca",
+        "fisioterapia",
+        "rom",
+        "rigidez-muscular",
+        "percepcion-dolor"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué efectos tiene la punción seca al aplicarse post-ejercicio?",
+        "¿En qué ayuda la punción seca respecto a la rigidez y el dolor del atleta?"
+      ],
+      "related_terms": [
+        "punción",
+        "seca",
+        "fisioterapia",
+        "rango",
+        "de",
+        "movimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Aplicación de cámaras de frío para atajar de manera sistémica cuadros crónicos.",
+      "context_after": "Como conclusión final de las intervenciones, se reflexiona sobre el alto grado de personalización exigido en herramientas como las prendas de compresión."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:06:54",
+      "end_timestamp": "00:08:49",
+      "start_seconds": 414,
+      "end_seconds": 529,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=414",
+      "title": "Personalización y eficacia real de las prendas de compresión",
+      "summary": "Aunque los metaanálisis dictaminan que el uso estándar de prendas compresivas genera efectos triviales, la efectividad real reside en la personalización. Tomando medidas anatómicas precisas del atleta para garantizar una presión terapéutica (20-30 mmHg), estudios en rugby logran retornar marcadores de CK a niveles pre-partido en tan solo 48 horas.",
+      "literal_quote": "Cuando utilizamos una prenda de compresión perfectamente personalizada, en la cual hayamos medido perímetros y diámetros... los resultados son realmente espectaculares.",
+      "full_transcript": "Como reflexión, me gustaría garantizar algunas cosas con respecto a esta certificación. En este punto, el mundo del deporte ha llegado a un punto de personalización y de traje a medida, que lo que va a marcar diferencias es en la medida en que seamos capaces de conseguir información avanzada del sujeto para poder dar los productos lo más personalizados posibles. Si antes decíamos que en todas las prendas de compresión los metaanálisis finales nos están diciendo que los tamaños del efecto son triviales, en este caso, a nuestro favor podemos decir que cuando utilizamos una prenda de compresión perfectamente personalizada, en la cual hayamos medido perímetros y diámetros de los segmentos en los cuales queramos producir ese efecto, los resultados son realmente espectaculares. Prueba de ello es este estudio que se hizo con deportistas de rugby, en el que se ve precisamente que cuando la prenda es customizada y se hace a medida del sujeto, el grupo de jugadores de rugby que realiza esa intervención se ve claramente favorecido a las 48 horas, donde las variables de CK, creatinfosfoquinasa isoesquelética, se ven recuperadas hasta nivel baseline pre, comparado con un grupo que utiliza medias que no tienen ningún tipo de personalización respecto a un grupo que no hace nada. Por lo tanto, la personalización y la customización es un argumento más para ponerlo en la mesa en la recuperación deportiva. Esto implicaría tener un análisis mucho más preciso de cuáles serían las medidas propias de la variabilidad anatómica del sujeto, en el cual mediríamos, en este caso, si queremos una prenda de compresión para el miembro inferior, toda la cadena de segmentos de flexoextensión, en el cual medimos los perímetros y diámetros de los paquetes musculares para poder ofrecer esos 20, 30 de presión que ofrecía la prescripción médica en cada uno de los sujetos a los cuales queramos someter este tipo de acciones.",
+      "keywords": [
+        "prendas-compresion",
+        "personalizacion",
+        "presion-medica",
+        "ck",
+        "creatinfosfoquinasa",
+        "variabilidad-anatomica"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué los metaanálisis iniciales de prendas de compresión marcaban efectos triviales?",
+        "¿Qué se logra al personalizar milimétricamente una prenda de compresión en atletas de élite?"
+      ],
+      "related_terms": [
+        "personalización",
+        "customización",
+        "compresión",
+        "a",
+        "medida",
+        "perímetros"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del uso de terapias localizadas y generales de recuperación post-esfuerzo.",
+      "context_after": "El ponente finaliza el temario y da paso a los agradecimientos, el cierre del webinar y la importancia de la NSCA."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "Módulo de recuperación en deporte de élite - Parte 3",
+      "speaker": "Julio Calleja-González",
+      "start_timestamp": "00:08:50",
+      "end_timestamp": "00:09:36",
+      "start_seconds": 530,
+      "end_seconds": 576,
+      "duration_seconds": 46,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=530",
+      "title": "Importancia de la certificación internacional en ciencias del deporte",
+      "summary": "Despedida del webinar destacando el esfuerzo realizado por NSCA Spain y los coautores del libro de referencia (Xavi Schelling, Nicolás Terrados). Se resalta la necesidad de reciclar el conocimiento científico periódicamente y el valor diferencial que aporta contar con certificaciones internacionales como garantía en el alto rendimiento.",
+      "literal_quote": "Que en nuestro país podamos certificar que todos los que estamos en el mundo del deporte con los deportistas podamos tener esa salvaguarda, que es la certificación internacional.",
+      "full_transcript": "Para finalizar, me gustaría dar las gracias por ser parte de este proyecto ilusionante en NSCA Spain. Mis compañeros Ismael y David, con los cuales colaboro habitualmente, quiero agradeceros mucho la oportunidad de ser profesor. Estoy muy concienciado con la profesión y que el capítulo que hice con Xavi Cellini y Nicolás Cerrados para el primer libro de la NSCA, me ha servido como base para poder daros la mejor información avanzada. Espero que en futuros años podamos seguir reciclando ese documento para estar actualizados y que la NSCA siga siendo puntera en el mundo para seguir formando a los millones de practitioner que tenemos alrededor del planeta y que en este momento en NSCA Spain se está haciendo un esfuerzo importante porque en nuestro país podamos certificar que todos los que estamos en el mundo del deporte con los deportistas podamos tener esa salvaguarda, que es la certificación internacional. Muchísimas gracias.",
+      "keywords": [
+        "nsca",
+        "certificacion-internacional",
+        "actualizacion-cientifica",
+        "practitioner"
+      ],
+      "entities": [
+        "NSCA Spain",
+        "Ismael",
+        "David",
+        "Xavi Schelling",
+        "Nicolás Terrados"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante tener una certificación internacional como la de NSCA?",
+        "¿Quiénes participaron en la elaboración del capítulo base para este módulo de recuperación?"
+      ],
+      "related_terms": [
+        "certificación",
+        "internacional",
+        "formación",
+        "salvaguarda"
+      ],
+      "relevance_score": 3,
+      "context_before": "Cierre de contenido técnico demostrando la eficacia de la personalización milimétrica.",
+      "context_after": "Fin de la retransmisión."
+    }
+  ]
+}
