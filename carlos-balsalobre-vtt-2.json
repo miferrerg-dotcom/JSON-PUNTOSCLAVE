@@ -1,0 +1,296 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+    "speaker": "Carlos Balsalobre",
+    "total_duration": "00:14:05",
+    "total_duration_seconds": 845,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:00",
+      "end_timestamp": "00:02:22",
+      "start_seconds": 1,
+      "end_seconds": 142,
+      "duration_seconds": 141,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Popularidad del CMJ y su valor como indicador neuromuscular",
+      "summary": "El test de salto con contramovimiento (CMJ) es el más utilizado mundialmente en el alto rendimiento deportivo. Su éxito radica principalmente en que es una medida excelente del rendimiento neuromuscular, existiendo una fuerte correlación entre la altura del salto y la capacidad del atleta para aplicar fuerza rápida o esprintar.",
+      "literal_quote": "El test de salto es, de hecho, probablemente el test más usado del mundo.",
+      "full_transcript": "Hola de nuevo. Seguimos en esta píldora formativa sobre monitorización del rendimiento físico. Y como les decía en el capítulo anterior, vamos a continuar con estas tres grandes áreas... los saltos, el VBT y la carrera y el \"sprint\". Así que vamos a empezar por el principio y en este caso con el análisis de los saltos. Siempre suelo decir que el hecho de que comenzara por los saltos... no es una casualidad, no lo hice por coincidencia o por capricho, sino que en realidad el test de salto es, de hecho, probablemente el test más usado del mundo. Hay estudios en fútbol profesional de encuestas... Y el test número uno que se utiliza... es el test de salto y concretamente el test de contramovimiento, el CMJ. ¿Por qué esto es así? Fundamentalmente, bajo mi punto de vista, por estos cuatro grandes factores. El primero de ellos, porque el test de salto es una gran medida de rendimiento neuromuscular. Es decir, si tú tienes un deportista que salta 20 centímetros, ya sabes que seguramente correrá poco en un \"sprint\" máximo y que levantará pocos kilos. Por el contrario, si tienes deportistas que saltan 60 centímetros, sabes que su capacidad de aplicar fuerza rápida va a ser muy elevada... en ciertos niveles hay una asociación muy clara y es por eso un indicador clave...",
+      "keywords": [
+        "cmj",
+        "salto-vertical",
+        "rendimiento-neuromuscular",
+        "testeo",
+        "fuerza-rapida"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué el test CMJ es el más utilizado a nivel mundial?",
+        "¿Qué relación existe entre el salto vertical y el rendimiento neuromuscular?",
+        "¿Dónde explica Carlos Balsalobre la correlación entre saltar alto y esprintar?"
+      ],
+      "related_terms": [
+        "test de contramovimiento",
+        "rendimiento neuromuscular",
+        "fuerza rápida",
+        "sprint máximo"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente retoma la presentación anterior indicando las tres grandes áreas que abordará: saltos, VBT y mecánica de carrera.",
+      "context_after": "Tras explicar el rendimiento neuromuscular, procede a enumerar los siguientes motivos que justifican el uso masivo del test de salto."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:02:24",
+      "end_timestamp": "00:04:36",
+      "start_seconds": 144,
+      "end_seconds": 276,
+      "duration_seconds": 132,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=144",
+      "title": "El CMJ como marcador de fatiga y guía de rehabilitación",
+      "summary": "El salto vertical es una herramienta versátil: es un gran indicador de fatiga neuromuscular aguda y crónica, y es clave en procesos de rehabilitación (ej. cruzado anterior) permitiendo discriminar asimetrías mediante el RSI unilateral. Además, su aplicación es masiva porque requiere apenas segundos, muy poco espacio y no fatiga al atleta.",
+      "literal_quote": "Lleva muy poco tiempo, literalmente segundos, se puede hacer en un metro cuadrado y no fatiga al deportista.",
+      "full_transcript": "El segundo motivo por el cual el test de salto en general, pero el CMJ en particular, es tan útil es porque es un gran indicador de fatiga. Sabemos que está muy relacionada la pérdida de salto vertical entre sesión del ejercicio... y, por ejemplo, la acumulación de lactato. O, por ejemplo, se sabe que el salto vertical es un gran indicador de fatiga neuromuscular que me puede dar una idea del estado de forma cuando lo mido siempre de manera basal... Sabemos también que el test de salto vertical es muy útil en esos procesos de rehabilitación y hoy en día es el test más utilizado o más contrastado para, por ejemplo, guiar la recuperación de la función de la rodilla después de una lesión de ligamento cruzado anterior. Y el cuarto motivo... es que es muy fácil de hacer. Y con esto me refiero a que lleva muy poco tiempo, literalmente segundos, se puede hacer en un metro cuadrado y no fatiga al deportista. Por ejemplo, retornando el argumento que hablábamos antes de las lesiones, se sabe que cuando tú comparas... ciertos parámetros del salto vertical, como puede ser el RSI o índice de fuerza reactivo, y lo haces de manera unilateral, tienes una gran capacidad de discriminar el miembro sano respecto al miembro que ha sido reconstruido... nos da una gran guía para ver cómo va retornando ese deportista a la función que tenía antes de romperse y se van reduciendo esas asimetrías.",
+      "keywords": [
+        "fatiga",
+        "rehabilitacion",
+        "asimetrias",
+        "rsi",
+        "lesiones",
+        "facilidad-uso"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo ayuda el salto vertical unilateral en la rehabilitación de lesiones?",
+        "¿Qué ventajas prácticas tiene realizar un test CMJ frente a otras pruebas?",
+        "¿Por qué se usa el salto vertical para medir asimetrías en el Return to Play?"
+      ],
+      "related_terms": [
+        "fatiga neuromuscular",
+        "índice de fuerza reactiva",
+        "RSI",
+        "asimetrías",
+        "reconstrucción de rodilla"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el primer motivo por el cual el CMJ es tan popular, centrado en el rendimiento neuromuscular.",
+      "context_after": "Se cambia el enfoque para explicar cómo el salto vertical no solo se compara con otras pruebas, sino que estima factores mecánicos propios a través de ecuaciones."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:04:37",
+      "end_timestamp": "00:06:46",
+      "start_seconds": 277,
+      "end_seconds": 406,
+      "duration_seconds": 129,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=277",
+      "title": "Perfil de fuerza-velocidad mediante ecuaciones biomecánicas",
+      "summary": "Más allá de medir la altura, el salto vertical permite estimar el perfil completo de fuerza y velocidad del deportista. Gracias a las ecuaciones biomecánicas de Samozino y Dicharry, utilizando variables antropométricas básicas y saltos con cargas incrementales, es posible trazar una línea que dibuja este perfil con validez y fiabilidad.",
+      "literal_quote": "Dibujar todo el perfil de fuerza y velocidad simplemente conociendo unas variables antropométricas super básicas, como son cuánto pesas y cuánto te miden las piernas y la altura de un salto.",
+      "full_transcript": "Relativo al rendimiento neuromuscular, el test de salto vertical no solo está relacionado con otros tests... sino que, en sí mismo, con el test de salto vertical tú puedes estimar tu capacidad de producir fuerza, velocidad y potencia y, por lo tanto, medir todo tu perfil de fuerza y velocidad de una manera válida, fiable y muy precisa. Y esto hay que agradecérselo a Jay Dicharry y a Pierre Saumino, dos biomecánicos franceses de renombre que desarrollaron unas ecuaciones sencillas que permitían medir la fuerza, velocidad y potencia de saltos incrementales y, por lo tanto, dibujar todo el perfil de fuerza y velocidad simplemente conociendo unas variables antropométricas super básicas, como son cuánto pesas y cuánto te miden las piernas y la altura de un salto. De tal manera que gracias a estas ecuaciones... puedes agarrar, por ejemplo, My Jump Lab y grabar con la cámara del móvil, medir la altura del salto e internamente se te calculan todas esas ecuaciones para dibujar los perfiles... Básicamente, un perfil de fuerza y velocidad lo que está indicando es de manera individual... cómo aplica fuerza y velocidad a medida que se incrementa la carga que tiene que vencer. En este caso, lo que veis en pantalla es un test de cinco cargas incrementales, partiendo del 0 % del peso corporal e incrementando hasta el 80 % del peso corporal. Y como en cada incremento de carga se reduce la altura de salto, pero se incrementa la fuerza que tengo que aplicar... el perfil de fuerza y velocidad describe una línea casi perfecta que permite determinar si mi deportista está más capacitado a producir altos niveles de fuerza o si está más orientado hacia el lado de velocidad.",
+      "keywords": [
+        "perfil-fuerza-velocidad",
+        "ecuaciones-biomecanicas",
+        "potencia",
+        "cargas-incrementales",
+        "samozino"
+      ],
+      "entities": [
+        "Jay Dicharry",
+        "Pierre Saumino",
+        "My Jump Lab"
+      ],
+      "topics": [
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula el perfil de fuerza-velocidad con un salto vertical?",
+        "¿Qué variables antropométricas se necesitan para las ecuaciones de Samozino?",
+        "¿Qué indica un test de saltos con cargas incrementales?"
+      ],
+      "related_terms": [
+        "perfil de fuerza y velocidad",
+        "ecuaciones biomecánicas",
+        "cargas incrementales",
+        "producción de potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se destacaron las ventajas prácticas y de recuperación del test CMJ.",
+      "context_after": "El vídeo explica la aplicación práctica de estos perfiles biomecánicos para identificar déficits individuales y optimizar el entrenamiento."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:06:47",
+      "end_timestamp": "00:09:00",
+      "start_seconds": 407,
+      "end_seconds": 540,
+      "duration_seconds": 133,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=407",
+      "title": "Individualización del entrenamiento mediante déficits de fuerza o velocidad",
+      "summary": "El perfil de fuerza-velocidad ayuda a comparar el perfil real de un atleta con su 'perfil óptimo'. Esto permite detectar si el deportista tiene un déficit de fuerza o de velocidad y responder con qué enfoque mejorar su potencia máxima, demostrando que dos atletas con idéntica potencia pueden necesitar entrenamientos diametralmente opuestos.",
+      "literal_quote": "Una receta no sirve para todos. Aquí tenemos el ejemplo de dos deportistas que tienen exactamente la misma potencia máxima. Sin embargo, como potencia es fuerza por velocidad, esa potencia se alcanza de dos maneras muy diferentes.",
+      "full_transcript": "Estos cálculos matemáticos biomecánicos... permiten determinar lo que conocemos como perfil óptimo, que sería esa combinación óptima entre la capacidad de producir máxima fuerza y máxima velocidad que maximizaría el rendimiento... Y en definitiva, esto me ayuda a determinar si mi deportista tiene algún déficit y si ese déficit tiene una mayor tendencia hacia la zona de cargas altas a bajas velocidades, o si tiene un mayor déficit hacia la zona de cargas bajas movidas a altas velocidades. Lo que coloquialmente decimos: deportista de déficit de fuerza o déficit de velocidad. ¿Y por qué es importante esto? Porque nos ayuda a responder a una pregunta clásica del entrenamiento. Hay una variable que a todos nos interesa, que es la potencia máxima... Y sabemos también que potencia es fuerza por velocidad. De tal manera que responder la pregunta: ¿qué es más interesante para mi deportista, mejorar la potencia a través del componente fuerza o el componente velocidad?, es clave. Y la respuesta viene en gran parte determinada por cómo sea el perfil de fuerza y velocidad de nuestro deportista. Es decir, una receta no sirve para todos. Aquí tenemos el ejemplo de dos deportistas que, si os fijáis, tienen exactamente la misma potencia máxima. Sin embargo, como potencia es fuerza por velocidad, esa potencia se alcanza de dos maneras muy diferentes. El deportista A tiene un perfil más orientado hacia la fuerza... y el deportista B genera esa potencia a expensas de mucha velocidad y poca fuerza... De tal manera que la respuesta a la pregunta: ¿necesitan entrenar igual? Seguramente sea que no.",
+      "keywords": [
+        "deficit-fuerza",
+        "deficit-velocidad",
+        "potencia-maxima",
+        "perfil-optimo",
+        "individualizacion",
+        "entrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Concepto",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué dos deportistas con la misma potencia máxima no deberían entrenar igual?",
+        "¿Cómo ayuda el perfil óptimo a identificar un déficit de fuerza o velocidad?",
+        "¿Dónde explica Carlos Balsalobre la individualización del entrenamiento basada en el perfil de velocidad?"
+      ],
+      "related_terms": [
+        "déficit de fuerza",
+        "déficit de velocidad",
+        "potencia máxima",
+        "perfil óptimo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo construir el perfil de fuerza-velocidad usando cargas incrementales.",
+      "context_after": "Se retoma el concepto de la fatiga para mostrar datos reales de su correlación con indicadores fisiológicos."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:09:00",
+      "end_timestamp": "00:10:56",
+      "start_seconds": 540,
+      "end_seconds": 656,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=540",
+      "title": "Correlación del CMJ con el lactato y rendimiento a largo plazo",
+      "summary": "Estudios clásicos demuestran una relación lineal casi perfecta entre la pérdida de salto vertical y la acumulación de lactato, permitiendo reemplazar pruebas invasivas en ciertos contextos. Además, como monitorización crónica, medir el salto basal semanalmente predice los picos de forma; en corredores olímpicos, las mejores marcas coincidieron con aumentos del 10% en su salto vertical semanal.",
+      "literal_quote": "Cuando el deportista hacía la mejor marca de toda la temporada, el salto vertical de esa semana estaba un 10 % por encima de lo normal.",
+      "full_transcript": "Volviendo al tema que decíamos antes de la fatiga, del salto vertical y la fatiga, os comentaba estudios que analizaban su relación con el lactato y, por ejemplo, este es un estudio clásico que demostró que cuando tú haces una medición de salto vertical en estado de reposo antes de entrenar y luego vas midiendo después de distintos descansos... en un entrenamiento de sentadilla, ves una asociación prácticamente perfecta, lineal, entre el salto que vas perdiendo y el lactato que vas acumulando. El lactato es indicador tan interesante relacionado con la aparición de fatiga. Podemos, en algunos contextos, ahorrarnos tener que pinchar al deportista el lactato, hacer ese test invasivo y gastarnos ese dinero en las tiras reactivas y sencillamente medir el salto vertical... Pero además os decía que es también un indicador de la fatiga neuromuscular de manera crónica... Esto básicamente es una de las cosas que yo hice en mi tesis con corredores olímpicos y medimos el salto vertical... todas las semanas durante todo un año. Y lo que observamos, entre muchas otras cosas, es que cuando el deportista hacía la mejor marca de toda la temporada, el salto vertical de esa semana estaba un 10 % por encima de lo normal, mientras que cuando hacían la peor marca de la temporada, el salto vertical de esa semana estaba significativamente un poquito por debajo de lo normal. De tal manera que es un indicador sencillo de cómo puede estar el estado de forma del deportista.",
+      "keywords": [
+        "lactato",
+        "fatiga-cronica",
+        "fatiga-neuromuscular",
+        "estado-de-forma",
+        "corredores-olimpicos"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué relación existe entre la pérdida de salto y la acumulación de lactato?",
+        "¿Cómo se relaciona el salto vertical con el rendimiento a largo plazo en corredores olímpicos?",
+        "¿Dónde se habla de sustituir pinchazos de lactato por mediciones de salto vertical?"
+      ],
+      "related_terms": [
+        "acumulación de lactato",
+        "estado de reposo",
+        "test invasivo",
+        "fatiga neuromuscular crónica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo individualizar el entrenamiento de potencia según déficits de fuerza/velocidad.",
+      "context_after": "Se concluye el bloque explicando los métodos tecnológicos exactos para capturar y calcular el salto vertical de forma precisa."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Monitorización del rendimiento físico - Análisis de los saltos",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:10:56",
+      "end_timestamp": "00:14:05",
+      "start_seconds": 656,
+      "end_seconds": 845,
+      "duration_seconds": 189,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=656",
+      "title": "Mecanismos de medición de salto y validación de My Jump Lab con IA",
+      "summary": "El salto vertical se calcula fundamentalmente a través de dos variables: velocidad de despegue o tiempo de vuelo. Basándose en el tiempo de vuelo capturado mediante vídeos en cámara lenta con smartphones, My Jump Lab fue validado mostrando una diferencia media de apenas ~1 cm frente a plataformas de fuerza. Actualmente, la app utiliza inteligencia artificial en iOS para analizar el salto automáticamente sin selección manual.",
+      "literal_quote": "Básicamente, solo hay dos formas de medir el salto vertical... medir la velocidad de despegue y medir el tiempo de vuelo.",
+      "full_transcript": "¿Todo esto cómo lo podemos medir? Que no se engañen. Básicamente, solo hay dos formas de medir el salto vertical y muchísimas tecnologías para ello, pero básicamente hay dos formas: medir la velocidad de despegue y medir el tiempo de vuelo. Y también en algunos contextos... captura de movimientos y marcadores. Pero fundamentalmente lo que usa la plataforma, lo que usan los acelerómetros, lo que usa la grabación de vídeo en cámara lenta, es o bien velocidad de despegue o bien tiempo de vuelo... Y en este caso es cuando usando esas ecuaciones de biomecánica, surgió la idea de hacer My Jump... que en definitiva, lo que utilizaba era ese principio biomecánico del tiempo de vuelo, que gracias a la grabación de vídeo en cámara lenta que permiten los teléfonos móviles... surgió la idea de intentar medir si eso era válido o no en comparación con material de laboratorio. Y básicamente lo que hicimos es analizar vídeos... en el que manualmente seleccionábamos despegue y aterrizaje de dichos saltos y a la vez lo contrastábamos con los valores de la plataforma de fuerzas... Y vimos que había una correlación muy alta, apenas un centímetro y algo de diferencia media en la altura de salto... hoy en día tenemos como unos 20 papers independientes reconfirmando la precisión de, en este caso, My Jump Lab para medir el salto vertical. Y de hecho, una de las últimas funciones que saqué para la app bebe de la potencia de la inteligencia artificial y permite la medición del salto sin ni siquiera tener que hacer la selección manual de despegue y aterrizaje. Y esta es una función que metí hace algún tiempo en la versión para iPhone... Y también está validado por distintos grupos de investigación en todo el mundo y puede ayudar a monitorizar esa variable... de una manera sencilla y en cualquier sitio, de una forma además asequible.",
+      "keywords": [
+        "tiempo-vuelo",
+        "velocidad-despegue",
+        "my-jump-lab",
+        "plataforma-fuerzas",
+        "inteligencia-artificial",
+        "validacion"
+      ],
+      "entities": [
+        "My Jump Lab",
+        "iPhone"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las dos formas principales de calcular el salto vertical?",
+        "¿Cómo fue validada la aplicación My Jump Lab frente a instrumentos de laboratorio?",
+        "¿Qué función cumple la inteligencia artificial en la app My Jump Lab?"
+      ],
+      "related_terms": [
+        "tiempo de vuelo",
+        "velocidad de despegue",
+        "plataforma de fuerzas",
+        "inteligencia artificial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se mostraron datos sobre la relación del CMJ con la acumulación de lactato y la predicción del estado de forma crónico.",
+      "context_after": "Cierre de la sección dedicada al análisis del salto y la validación de su instrumentación tecnológica."
+    }
+  ]
+}

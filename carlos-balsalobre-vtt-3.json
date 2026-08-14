@@ -1,0 +1,379 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+    "speaker": "Carlos Balsalobre",
+    "total_duration": "00:20:00",
+    "total_duration_seconds": 1200,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:05",
+      "start_seconds": 1,
+      "end_seconds": 65,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Implementación de IA para la detección de discos en tiempo real",
+      "summary": "El ponente relata su experiencia integrando inteligencia artificial en MyJumpLab. Desarrolló un modelo propio entrenado manualmente con miles de imágenes para reconocer discos de pesas en tiempo real, una función que posteriormente fue validada científicamente.",
+      "literal_quote": "entrené un modelo de inteligencia artificial que ayudaba a reconocer un disco en tiempo real y hoy en día está incorporado dentro de MyJumpLab",
+      "full_transcript": "Continuamos con una de mis grandes pasiones, que es el VBT. Es algo de lo que tengo bastantes artículos, he utilizado mucho y he incorporado dentro de MyJumpLab. Como pequeña anécdota, la primera vez que implementé una función relacionada con la IA, con la inteligencia artificial, fue la detección del disco en tiempo real. Es algo de lo que me siento especialmente orgulloso, porque me costó mucho sacarlo por aquel entonces. Tuve que hacer un modelo propio en el que analicé miles de discos y manualmente le iba diciendo al ordenador qué parte de los píxeles de cada una de esas miles de imágenes correspondían a un disco. Luego, entrené un modelo de inteligencia artificial que ayudaba a reconocer un disco en tiempo real y hoy en día está incorporado dentro de MyJumpLab y ha sido validado en distintas publicaciones, tanto mías propias como independientes, y está disponible dentro de MyJumpLab tanto para iPhone como para Android. Así que es una temática que me interesa mucho y me toca de cerca.",
+      "keywords": [
+        "inteligencia-artificial",
+        "myjumplab",
+        "deteccion-discos",
+        "vbt",
+        "tecnologia"
+      ],
+      "entities": [
+        "MyJumpLab",
+        "iPhone",
+        "Android"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se implementó la inteligencia artificial en MyJumpLab?",
+        "¿Qué función desarrolló Carlos Balsalobre para detectar discos en tiempo real?",
+        "¿Dónde se habla de la validación del modelo de IA para discos?"
+      ],
+      "related_terms": [
+        "inteligencia artificial",
+        "detección en tiempo real",
+        "reconocimiento de imagen"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la sección enfocada en VBT (Velocity Based Training).",
+      "context_after": "Tras la anécdota tecnológica, se adentra en los fundamentos teóricos del Velocity Based Training y por qué surgió."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:01:12",
+      "end_timestamp": "00:06:11",
+      "start_seconds": 72,
+      "end_seconds": 371,
+      "duration_seconds": 299,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=72",
+      "title": "Los problemas e irrealidad del test directo de 1RM",
+      "summary": "El test directo de 1RM es un esfuerzo límite extremo no apto para gran parte de las poblaciones e incluso problemático para atletas de élite. La 1RM fluctúa diariamente según el estado de forma, por lo que medirla todos los días antes de entrenar para prescribir cargas exactas es utópico y perjudicial para la sesión.",
+      "literal_quote": "medir la 1RM todos los días antes de entrenar es una salvajada, es una utopía, porque ni tengo tiempo suficiente para hacer eso, ni estoy aplicando un estímulo progresivamente adecuado",
+      "full_transcript": "Vamos a meternos con ello... ¿qué pregunta trata de responder [el VBT]? Básicamente, la pregunta principal que trata de responder es cómo prescribo la carga, en este caso en el entrenamiento de fuerza. Y es que, tradicionalmente, la variable que usamos como gran referencia es la 1RM... es un esfuerzo límite... no podría haber completado esa repetición si llega a pesar la barra 500 gramos más. Y tengo la sensación de que en alto rendimiento se le ha perdido el respeto a la 1RM... medir la 1RM de manera real, de manera directa... tiene muchos problemas. El principal de ellos... es que no es para todo el mundo... Al margen de lo evidente, incluso en el alto rendimiento... puede ser alto rendimiento en una disciplina deportiva diferente... pero no tiene por qué ser alto rendimiento o tener experiencia de élite en levantamiento de pesos máximos. Y os diría más, incluso si tenemos un deportista cuyo deporte es levantar la 1RM... la principal es que sabemos que la 1RM varía cada día... Si quiero hilar fino y que cada día realmente mi deportista entrene con la dosis que yo quiero que entrene... tendría que medirle la 1RM todos los días antes de entrenar. E incluso si yo tengo un deportista... experto en esto, medir la 1RM todos los días antes de entrenar es una salvajada, es una utopía, porque ni tengo tiempo suficiente para hacer eso, ni estoy aplicando un estímulo progresivamente adecuado y periodizado... De tal manera que hay que buscar alternativas.",
+      "keywords": [
+        "1rm",
+        "entrenamiento-fuerza",
+        "esfuerzo-limite",
+        "prescripcion-carga",
+        "fluctuacion-diaria"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué no se debe realizar un test directo de 1RM todos los días?",
+        "¿Cuáles son los problemas del test de 1RM directo según Carlos Balsalobre?",
+        "¿Qué variabilidad presenta la 1RM a lo largo de la semana?"
+      ],
+      "related_terms": [
+        "esfuerzo límite",
+        "prescripción de carga",
+        "test incremental",
+        "variabilidad diaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción al concepto de VBT como respuesta a la necesidad de prescribir cargas.",
+      "context_after": "Se analiza el fallo muscular como método alternativo tradicional y por qué tampoco es válido."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:06:21",
+      "end_timestamp": "00:07:08",
+      "start_seconds": 381,
+      "end_seconds": 428,
+      "duration_seconds": 47,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=381",
+      "title": "La imprecisión de estimar la 1RM mediante repeticiones al fallo",
+      "summary": "Las metodologías indirectas basadas en repeticiones hasta el fallo presentan un margen de error muy alto. El número de repeticiones posibles con un mismo porcentaje de carga varía enormemente entre sujetos (ej. resistencia vs halterofilia) y llegar al fallo sistemáticamente reduce el rendimiento.",
+      "literal_quote": "llegar al fallo todos los días, estudios de metaanálisis nos han demostrado que reduce el rendimiento. Por lo tanto, tampoco es una opción para nosotros.",
+      "full_transcript": "para no tener que hacer la 1RM real, de toda la vida hemos usado las metodologías indirectas que conocemos todos de repeticiones hasta el fallo... El principal problema de las repeticiones hasta el fallo es que en función de la población, el número de repeticiones posibles a un mismo determinado porcentaje de la 1RM puede variar enormemente. Fijaos la diferencia, por ejemplo, entre lo que levantan al 70 % o cuántas veces levantan al 70 % los corredores de resistencia o los halterófilos. La discrepancia es gigantesca. Por lo tanto, eso de llegar hasta el fallo para estimar la 1RM puede no ser muy preciso en algunos casos. Y aunque encontrásemos una ecuación que fuera muy precisa para nuestra población, llegar al fallo todos los días, estudios de metaanálisis nos han demostrado que reduce el rendimiento. Por lo tanto, tampoco es una opción para nosotros.",
+      "keywords": [
+        "repeticiones-al-fallo",
+        "metodologias-indirectas",
+        "1rm",
+        "rendimiento",
+        "metaanalisis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué estimar la 1RM mediante repeticiones al fallo es inexacto?",
+        "¿Qué efectos negativos tiene llegar al fallo muscular diariamente?",
+        "¿Dónde se explica la diferencia de repeticiones entre atletas de resistencia y halterófilos?"
+      ],
+      "related_terms": [
+        "repeticiones hasta el fallo",
+        "metodología indirecta",
+        "reducción de rendimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la inviabilidad de hacer el test de 1RM directo todos los días.",
+      "context_after": "Se presenta el VBT como la solución científica validada para superar las limitaciones del 1RM y el fallo."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:07:08",
+      "end_timestamp": "00:08:38",
+      "start_seconds": 428,
+      "end_seconds": 518,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=428",
+      "title": "La relación carga-velocidad y la base del VBT",
+      "summary": "El VBT surge respaldado por cientos de estudios que demuestran una relación lineal, casi perfecta, entre la carga movida y su velocidad de ejecución. Esto permite estimar la 1RM de manera totalmente no invasiva y precisa simplemente midiendo la velocidad, lo cual dio pie al desarrollo inicial de tablas normativas.",
+      "literal_quote": "medir la velocidad de ejecución a la que levantas la barra te puede permitir estimar la 1RM de una manera no invasiva y precisa.",
+      "full_transcript": "Así que la alternativa es el velocity based training, es lo que ha desarrollado la literatura científica desde hace fundamentalmente los últimos 15 años. Y es que se ha demostrado literalmente en cientos de estudios que hay una asociación muy estrecha entre la carga que yo estoy moviendo y la velocidad a la que muevo dicha carga. De tal manera que si yo hago un levantamiento al 20, 25, 30, 35, 40, 45, así hasta el 100 % de la 1RM y mido la velocidad con cada una de esas cargas, voy a observar una línea prácticamente recta y una correlación casi perfecta. Por lo tanto, cuando tú tienes dos variables... que se están relacionando de una manera tan estrecha, tú puedes estimar una en función de la otra. Es decir, medir la velocidad de ejecución a la que levantas la barra te puede permitir estimar la 1RM de una manera no invasiva y precisa. Bingo, hemos dado en la clave de lo que queríamos, algo no invasivo y algo preciso. Esto ha llevado a desarrollar incluso tablas normativas... que durante bastante tiempo se consideraban casi los 10 mandamientos.",
+      "keywords": [
+        "vbt",
+        "carga-velocidad",
+        "estimacion-1rm",
+        "relacion-lineal",
+        "no-invasivo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo permite la velocidad estimar la 1RM de forma no invasiva?",
+        "¿Qué relación existe entre la carga y la velocidad en el VBT?",
+        "¿Por qué se considera la correlación carga-velocidad la base del Velocity Based Training?"
+      ],
+      "related_terms": [
+        "asociación estrecha",
+        "línea recta",
+        "tablas normativas",
+        "estimación no invasiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron los problemas de la estimación por fallo muscular.",
+      "context_after": "Se cuestiona la fiabilidad universal de las tablas normativas introduciendo el concepto de individualización de la velocidad."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:08:38",
+      "end_timestamp": "00:10:49",
+      "start_seconds": 518,
+      "end_seconds": 649,
+      "duration_seconds": 131,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=518",
+      "title": "Individualización en VBT vs. Tablas Normativas",
+      "summary": "Estudios han demostrado que la velocidad de ejecución para cada porcentaje de 1RM es altamente individual. Una misma velocidad (ej. 0,6 m/s) puede representar el 50% de la 1RM para un deportista y el 70% para otro. Por ello, usar tablas normativas generales aplica estímulos incorrectos a parte de la plantilla.",
+      "literal_quote": "la velocidad a la que se levanta cada porcentaje de la 1RM es muy individual... Significa olvidarnos de las tablas normativas y hacer perfiles individuales.",
+      "full_transcript": "Sin embargo, hay un gran pero... ¿realmente todo el mundo mueve exactamente a la misma velocidad exactamente a cada porcentaje? ... En este estudio, humildemente fuimos los primeros que demostramos que esto no es así, que la velocidad de la 1RM y de todos sus porcentajes es muy independiente, que cada persona tiene una velocidad a distintos porcentajes de la 1RM. Por ejemplo, estos dos deportistas tienen la misma velocidad con 20 % de separación, de tal manera que la misma velocidad, por ejemplo, 0,6 metros por segundo, a un deportista le supone un 50 %, mientras que para otro le está suponiendo un 70 % de la 1RM... y hoy en día está más que claro que la velocidad a la que se levanta cada porcentaje de la 1RM es muy individual. ¿Quiere decir esto que el velocity based training no es tan preciso como nos decían que era? No, ni muchísimo menos. Simplemente quiere decir que como es individual... dentro de una plantilla de 23 jugadores... habrá ciertos deportistas... a los que ese valor medio que nos dicen las tablas les está dando estímulos muy diferentes, o demasiado altos o demasiado bajos. Y por lo tanto, el velocity based training... lo es muchísimo, pero solo si lo hacemos bien. ¿Qué significa hacerlo bien? Significa olvidarnos de las tablas normativas y hacer perfiles individuales.",
+      "keywords": [
+        "tablas-normativas",
+        "individualizacion",
+        "perfiles-individuales",
+        "velocidad-ejecucion",
+        "porcentajes-1rm"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Investigación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué Carlos Balsalobre recomienda dejar de usar tablas normativas en el VBT?",
+        "¿Qué demostraron los estudios sobre la velocidad a distintos porcentajes de la 1RM?",
+        "¿Cómo afecta la individualización de la velocidad a una plantilla de deportistas?"
+      ],
+      "related_terms": [
+        "perfiles individuales",
+        "estímulo incorrecto",
+        "valor medio",
+        "estadística normal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que la relación carga-velocidad inicialmente dio lugar a tablas universales.",
+      "context_after": "Se detalla el paso a paso metodológico para crear un perfil individual y aplicarlo en el calentamiento diario."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:10:49",
+      "end_timestamp": "00:13:27",
+      "start_seconds": 649,
+      "end_seconds": 807,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=649",
+      "title": "Calibración diaria de la 1RM usando el calentamiento",
+      "summary": "Para aplicar el VBT correctamente, se realiza un test de cargas incrementales cada mes o mes y medio para trazar el perfil del deportista. Luego, en el día a día, basta con medir la velocidad de una carga fija submáxima (en el calentamiento) y cruzarla con el perfil individual para saber exactamente cuál es su 1RM diaria y ajustar la dosis.",
+      "literal_quote": "Midiendo la velocidad a la que el deportista levanta la barra, podremos contrastar con su propio perfil individual qué porcentaje de la 1RM le supone eso.",
+      "full_transcript": "Por ejemplo, primer paso: voy a hacer un test de cuatro cargas incremental, 40, 50, 60 y 70 kilos, y mido la velocidad en cada una de esas cargas. Eso lo que me permitirá es proyectar el perfil de mi deportista y conocer de manera individual... cuál es su 1RM sin tener que haber hecho el test de 1RM. Y luego, posteriormente, en el día a día del entrenamiento... el elemento diferenciador es la medición diaria de la velocidad con una carga fija. Es decir... habiéndolo hecho una vez, como digo, cada mes, mes y medio para recalibrar, ya puedo coger solo una carga fija, la que yo quiera. Por ejemplo... coger una carga en torno a 45, 50 kilos, y siempre esa misma carga le mido la velocidad como en una serie de calentamiento. Midiendo la velocidad a la que el deportista levanta la barra, podremos contrastar con su propio perfil individual qué porcentaje de la 1RM le supone eso. Por ejemplo, en este caso, si mueve a 0,68 metros por segundo, a ese deportista eso le supone el 50 % de la 1RM. Y como está usando 45 kilos, el 50 % es 45 kilos, entonces el 100 %, la 1RM, son 90 kilos. Ya está, simplemente usando una serie de calentamiento que íbamos a usar igualmente... ya podemos saber exactamente cuál es la 1RM de mi deportista ese día para ajustar la carga en consecuencia... Que no lo confundáis, no es un método de entrenamiento, es una forma de entender el entrenamiento... El velocity based training es un paradigma, es una herramienta de control.",
+      "keywords": [
+        "calentamiento",
+        "calibracion-diaria",
+        "cargas-incrementales",
+        "ajuste-diario",
+        "herramienta-control",
+        "vbt"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se calibra la 1RM diaria utilizando el VBT durante el calentamiento?",
+        "¿Con qué frecuencia se debe hacer el test de perfil individual en VBT?",
+        "¿Por qué afirma el ponente que el VBT es un paradigma y no un método de entrenamiento?"
+      ],
+      "related_terms": [
+        "test de cuatro cargas",
+        "carga fija",
+        "serie de calentamiento",
+        "recalibrar",
+        "paradigma"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se estableció la importancia de usar perfiles individuales en lugar de tablas normativas.",
+      "context_after": "Se explica el siguiente paso de este paradigma: usar la pérdida de velocidad para decidir el número de repeticiones de la serie."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:13:32",
+      "end_timestamp": "00:17:15",
+      "start_seconds": 812,
+      "end_seconds": 1035,
+      "duration_seconds": 223,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=812",
+      "title": "Control de pérdida de velocidad y la dosis mínima efectiva",
+      "summary": "Una vez estimada la 1RM, el VBT se usa para fijar el número de repeticiones según el umbral de pérdida de velocidad (ej. 10% o 20%), el cual correlaciona directamente con la fatiga metabólica (lactato). Entrenar con pérdidas del 20% genera las mismas adaptaciones de fuerza que un 40% pero con mucho menor desgaste, logrando así la 'mínima dosis efectiva'.",
+      "literal_quote": "Si conseguimos mejorar lo mismo, pero entrenando significativamente menos, esto, en esa gestión de la balanza fatiga-recuperación de la que hablábamos antes, es clave.",
+      "full_transcript": "Por ejemplo, vamos a una de las formas en las que el velocity based training es más útil al margen de la estimación de la 1RM, que es el control de la pérdida de velocidad. ¿Qué es la pérdida de velocidad?... responder a la pregunta: con esta carga, ¿cuántas repeticiones hago? La lógica de velocity based training de la pérdida de velocidad es no hacer repeticiones fijas, sino hacer repeticiones hasta un determinado umbral de pérdida de velocidad. Es decir, en vez de hacer tres por 10, vamos a hacer tres series hasta el 20 % de pérdida de velocidad. ¿Por qué? Porque se ha demostrado que esa pérdida de velocidad está muy asociada con otros indicadores de fatiga, como el lactato o el amonio... Y esto del 10 % o del 20 %... hay mucha investigación que se ha preocupado y ocupado de investigar si hay un umbral que me permita encontrar esa famosa mínima dosis efectiva, que sería esa dosis que me permite conseguir las máximas adaptaciones con el mínimo esfuerzo. Entonces... en este estudio se comparó un mismo entrenamiento en el que a un grupo de deportistas se les entrenó hasta llegar a un 20 % de pérdida de velocidad y a otros se les hizo que hicieran la serie hasta llegar al 40 % de pérdida... hacían muchas más repeticiones dentro de la serie. Y al cabo de varias semanas... se observó que en la inmensa mayoría de variables, sobre todo en las relacionadas con la fuerza máxima, la velocidad, el sprint, etcétera, se mejoró igual. Lo cual es clave, porque si conseguimos mejorar lo mismo, pero entrenando significativamente menos, esto, en esa gestión de la balanza fatiga-recuperación de la que hablábamos antes, es clave, y especialmente en disciplinas deportivas en las cuales se compite todas las semanas... tengo que fatigarme lo mínimo necesario.",
+      "keywords": [
+        "perdida-velocidad",
+        "dosis-minima-efectiva",
+        "repeticiones",
+        "fatiga-metabolica",
+        "lactato",
+        "adaptaciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es el control de pérdida de velocidad en el entrenamiento de fuerza?",
+        "¿Por qué es preferible entrenar hasta un 20% de pérdida de velocidad en lugar de un 40%?",
+        "¿Dónde se explica el concepto de la mínima dosis efectiva mediante VBT?"
+      ],
+      "related_terms": [
+        "mínima dosis efectiva",
+        "balanza fatiga-recuperación",
+        "umbral de pérdida de velocidad",
+        "indicadores de fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo determinar la carga del día mediante el calentamiento.",
+      "context_after": "Se mencionan los beneficios psicológicos del VBT y los dispositivos recomendados para realizar las mediciones."
+    },
+    {
+      "id": "V04-008",
+      "video_title": "Monitorización del rendimiento físico - Velocity Based Training (VBT)",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:17:23",
+      "end_timestamp": "00:19:26",
+      "start_seconds": 1043,
+      "end_seconds": 1166,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1043",
+      "title": "Feedback motivacional y uso de dispositivos (Encoders)",
+      "summary": "Ofrecer feedback de velocidad en tiempo real al deportista incrementa estadísticamente su rendimiento y aplicación de fuerza. Para medir esto, los encoders son el 'gold standard', pero son sensibles al ángulo de tracción, requiriendo su uso en máquinas guiadas (Smith) o con extrema precaución si se usa peso libre.",
+      "literal_quote": "simplemente por ponerle feedback al deportista de las repeticiones que va haciendo y la velocidad que va alcanzando en cada una de ellas, rinde más y aplica más fuerza.",
+      "full_transcript": "Otra de las grandes ventajas que tiene el velocity based training es en sí mismo su capacidad motivadora... se ha demostrado que la diferencia es grande y estadísticamente significativa. Es decir, simplemente por ponerle feedback al deportista de las repeticiones que va haciendo y la velocidad que va alcanzando en cada una de ellas, rinde más y aplica más fuerza. Y eso en sí mismo es clave. ¿Cómo medimos todo esto? ... básicamente hay cuatro grandes grupos de dispositivos tecnológicos que permiten medir la velocidad. Los más populares, los encoders... luego acelerómetros, aplicaciones y sistemas de captura de movimiento. Vamos a centrarnos primero en los encoders, porque son los más populares... y de una manera milimétricamente precisa te dice la velocidad de ejecución. Y como digo, son para muchos considerados el gold standard y es lo que más se utiliza en investigación y en la práctica. Sin embargo, tenemos que tener en cuenta que la inmensa mayoría de encoders no hacen corrección por el ángulo, de tal manera que si tú levantas alejado de la vertical, vas a meterle mucho ruido a la señal y va a salir un dato más impreciso. Es motivo por el cual, de hecho, la inmensa mayoría de investigaciones en velocity based training se hacen en máquina Smith, en máquina guiada, porque así te garantizas que sea vertical. Pero si luego... entrenas con peso libre, ten mucho cuidado de colocar el encoder bien, porque si el cable está inclinado, el valor de velocidad que te va a salir va a ser impreciso.",
+      "keywords": [
+        "motivacion",
+        "feedback",
+        "encoders",
+        "maquina-smith",
+        "tecnologia",
+        "medicion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué efecto psicológico tiene mostrarle la velocidad en tiempo real al deportista?",
+        "¿Cuáles son los problemas de utilizar encoders con pesos libres?",
+        "¿Por qué la investigación en VBT se suele hacer en máquina Smith?"
+      ],
+      "related_terms": [
+        "feedback en tiempo real",
+        "gold standard",
+        "corrección por el ángulo",
+        "máquina Smith"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la aplicación de la pérdida de velocidad para optimizar la dosis de entrenamiento.",
+      "context_after": "El vídeo retoma cómo las aplicaciones y aportaciones del propio ponente ayudan a solventar problemas técnicos del campo."
+    }
+  ]
+}

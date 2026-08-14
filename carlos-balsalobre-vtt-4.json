@@ -1,0 +1,448 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+    "speaker": "Carlos Balsalobre",
+    "total_duration": "00:20:20",
+    "total_duration_seconds": 1220,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:39",
+      "start_seconds": 1,
+      "end_seconds": 159,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Importancia biomecánica de la carrera y el sprint",
+      "summary": "El análisis de la carrera y el sprint es fundamental en el alto rendimiento, no solo para medir la eficiencia técnica y velocidad, sino también para prevenir lesiones. Este análisis se divide en cinético (producción de fuerzas y stiffness) y cinemático (movimiento, tiempos de contacto y angulaciones).",
+      "literal_quote": "hay dos grandes grupos de análisis, los cinéticos y los cinemáticos. La cinética es esa rama de la biomecánica que analiza la fuerza... Mientras que la cinemática es lo que estudia la descripción del movimiento",
+      "full_transcript": "Terminamos este módulo de monitorización del rendimiento mediante nuevas tecnologías en la formación de High Performance Science Specialist de la NSCA con otra de las grandes áreas y temáticas. Me atrevería a decir que es probablemente la más investigada y la que más interés despierta, sobre todo en deportes de equipo: la relacionada con la carrera y el \"sprint\", por el gran impacto que tiene tanto en la medición del rendimiento como en el análisis de la eficiencia técnica y la prevención de lesiones. Por eso la mecánica de carrera y \"sprint\" es tan interesante, porque nos permite analizar variables mecánicas como la producción de fuerza y velocidad. Nos permite conocer si hay algún tipo de patrón en esa técnica que nos haga correr de una manera menos eficiente... También es interesante en el contexto de la prevención de lesiones... Repaso muy rápido: cuando hacemos un análisis biomecánico, ya sea de la carrera o del \"sprint\", hay dos grandes grupos de análisis, los cinéticos y los cinemáticos. ¿Qué son los análisis cinéticos? La cinética es esa rama de la biomecánica que analiza la fuerza que produce el movimiento... Mientras que la cinemática es lo que estudia la descripción del movimiento: velocidades, tiempos de contacto y angulaciones de la rodilla, la cadera y la pelvis.",
+      "keywords": [
+        "carrera",
+        "sprint",
+        "biomecanica",
+        "cinetica",
+        "cinematica",
+        "eficiencia-tecnica"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Carlos Balsalobre sobre la diferencia entre análisis cinético y cinemático?",
+        "¿Por qué es importante el análisis biomecánico del sprint?",
+        "¿Dónde se habla de la importancia de la mecánica de carrera para prevenir lesiones?"
+      ],
+      "related_terms": [
+        "análisis cinético",
+        "análisis cinemático",
+        "eficiencia técnica",
+        "prevención de lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del módulo final sobre mecánica de carrera y sprint.",
+      "context_after": "Se profundiza en el primer concepto cinético clave para la carrera: el stiffness o rigidez elástica."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:02:40",
+      "end_timestamp": "00:06:25",
+      "start_seconds": 160,
+      "end_seconds": 385,
+      "duration_seconds": 225,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=160",
+      "title": "El stiffness y la economía de carrera",
+      "summary": "El 'stiffness' evalúa la reactividad del deportista, midiendo su capacidad para deformar poco los tendones y producir fuerza rápida. Es un factor crucial en la economía de carrera, ya que permite acumular energía elástica en los tendones y gastar menos energía metabólica, lo cual es vital en esfuerzos prolongados como el fútbol.",
+      "literal_quote": "El \"stiffness\" se sabe que te ayuda a ahorrar esa energía... esa energía aparte se acumula de manera gratuita en tu tendón... ayudándole a gastar menos energía.",
+      "full_transcript": "Primero vamos a empezar por una variable cinética muy interesante... es lo que llamamos \"stiffness\". Coloquialmente, el \"stiffness\" evalúa cómo de reactivos son nuestros deportistas. Técnicamente, se mide como cuánta fuerza produces por unidad de desplazamiento de tu centro de masas. Es decir... deformar poco tus elementos elásticos, tus tendones, y producir mucha fuerza en el retorno de energía... Una gran medida de alguien con mucho \"stiffness\" sería, por ejemplo, el tobillo de Dayron Robles... Fijaos qué poquito se deforma, cuánta energía elástica se acumula y luego qué rápido vuelve... el \"stiffness\" es todavía más importante, no en acciones rápidas, explosivas, de \"sprints\" o de saltos, sino sobre todo en la carrera continua a lo largo del tiempo. Porque está muy demostrado que el \"stiffness\" está asociado inversamente con el consumo de oxígeno a una velocidad determinada, lo que llamamos economía de carrera... El \"stiffness\" se sabe que te ayuda a ahorrar esa energía, porque te permite no gastar la energía para producir contracciones musculares, sino que esa energía aparte se acumula de manera gratuita en tu tendón, en tu muelle, en tu elemento elástico... Esto, en muchísimas disciplinas deportivas es clave... Pensad, por ejemplo, en fútbol, en partidos muy largos, en prórrogas, en segundas partes, etcétera. Si tu futbolista en este caso es más económico... a una misma velocidad se va a cansar menos.",
+      "keywords": [
+        "stiffness",
+        "reactividad",
+        "energia-elastica",
+        "economia-carrera",
+        "tendon"
+      ],
+      "entities": [
+        "Dayron Robles",
+        "Kipchoge"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el stiffness en biomecánica y cómo se relaciona con la economía de carrera?",
+        "¿Por qué es importante la reactividad elástica en el fútbol?",
+        "¿Dónde se explica cómo ahorrar energía metabólica a través del tendón?"
+      ],
+      "related_terms": [
+        "economía de carrera",
+        "energía elástica",
+        "centro de masas",
+        "retorno de energía"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se definieron los análisis cinéticos y cinemáticos.",
+      "context_after": "El vídeo cambia el enfoque hacia la cinemática, centrándose específicamente en la posición de la pelvis."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:06:25",
+      "end_timestamp": "00:08:16",
+      "start_seconds": 385,
+      "end_seconds": 496,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=385",
+      "title": "La báscula pélvica como predictor de lesiones",
+      "summary": "En el ámbito cinemático, la posición de la pelvis es un factor de riesgo clave. Investigaciones muestran que una báscula pélvica contralateral superior a seis grados está significativamente asociada con lesiones comunes en corredores, como afecciones en el tendón rotuliano, de Aquiles o cintilla iliotibial.",
+      "literal_quote": "aquellos que tenían una báscula pélvica contralateral mayor a seis grados eran, de manera estadísticamente significativa, aquellos que habían tenido historial de lesiones del corredor comunes",
+      "full_transcript": "Pero vamos a meternos ahora en el ámbito de la cinemática, sobre todo en un contexto que va a estar más relacionado con la prevención de lesiones... En este caso se observa que aquellos que tenían una báscula pélvica contralateral mayor a seis grados eran, de manera estadísticamente significativa, aquellos que habían tenido historial de lesiones del corredor comunes como el dolor en el tendón rotuliano, en el tendón de Aquiles, en la cintila iliotibial o en la propia tibia medial. Simplemente, una medición tan sencilla como la báscula pélvica, que es básicamente la pelvis, cómo se te va moviendo de esta forma si tú estás mirando de manera posterior, puede dar un \"screening\" del potencial riesgo que puede tener ese deportista de sufrir una de esas lesiones más comunes del corredor.",
+      "keywords": [
+        "bascula-pelvica",
+        "cinematica",
+        "lesiones-corredor",
+        "prevencion",
+        "tendon-rotuliano"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Investigación"
+      ],
+      "search_questions": [
+        "¿Qué nivel de báscula pélvica se considera un factor de riesgo para lesiones?",
+        "¿Cómo influye el movimiento de la pelvis en las lesiones del corredor?",
+        "¿Dónde se habla de la cinemática pélvica y el tendón de Aquiles?"
+      ],
+      "related_terms": [
+        "báscula pélvica contralateral",
+        "screening",
+        "cintilla iliotibial",
+        "riesgo potencial"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de la cinética (stiffness) para la economía de carrera.",
+      "context_after": "Se transita de la carrera continua al análisis de máxima intensidad o sprint máximo."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:08:16",
+      "end_timestamp": "00:11:30",
+      "start_seconds": 496,
+      "end_seconds": 690,
+      "duration_seconds": 194,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=496",
+      "title": "Relevancia de la fuerza horizontal en la readaptación del sprint",
+      "summary": "En el sprint máximo, aplicar la fuerza de forma horizontal mejora drásticamente la eficiencia. A nivel clínico, durante el retorno tras una lesión de isquiotibiales, la fuerza horizontal máxima es la capacidad que más se pierde y la última en recuperarse, manteniéndose deficiente incluso cuando el atleta ya alcanza su velocidad máxima previa y tiene el alta competitiva.",
+      "literal_quote": "cuando el deportista ya tenía el alta competitiva después de lesionarse el isquiotibial, mientras que el factor velocidad máxima ya estaba recuperado, el factor fuerza horizontal máxima todavía estaba muy por debajo",
+      "full_transcript": "Vamos ahora a meternos en un ámbito un poco más relacionado, ya no tanto con la carrera, sino con el \"sprint\" máximo... cuando \"sprintamos\"... hay un componente tanto vertical como horizontal... Este análisis de la fuerza horizontal ha cobrado mucha importancia en la literatura científica y en la práctica del alto rendimiento... si tú eres capaz de aplicar menos fuerza... en una dirección más alineada con el objetivo, que es hacia adelante, serás más eficiente y técnicamente más capaz de correr más rápido... Y no solo en puro rendimiento, sino también en el ámbito de prevención de lesiones. Sabemos que esta capacidad de producir fuerza horizontal es una de las que más se pierde cuando te lesionas el isquiotibial y la que más cuesta recuperar. Por ejemplo, en este estudio de caso de Mendiguchía se demostró que, cuando el deportista ya tenía el alta competitiva después de lesionarse el isquiotibial, mientras que el factor velocidad máxima ya estaba recuperado, el factor fuerza horizontal máxima todavía estaba muy por debajo de lo que tenía antes de lesionarse. Este factor de fuerza horizontal máxima es clave porque es lo que permite acelerar... Por lo tanto, cuando un deportista, aun teniendo el alta competitiva, todavía no ha recuperado los niveles de fuerza horizontal que tenía antes, eso es argumento suficiente... de lo importante que es monitorizar la fuerza horizontal y controlar si realmente mis tareas de entrenamiento están ayudando al deportista a recuperar este parámetro",
+      "keywords": [
+        "fuerza-horizontal",
+        "sprint-maximo",
+        "isquiotibiales",
+        "readaptacion",
+        "aceleracion"
+      ],
+      "entities": [
+        "Mendiguchía"
+      ],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Investigación",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es vital medir la fuerza horizontal en el sprint después de una lesión de isquiotibiales?",
+        "¿Qué capacidad cuesta más recuperar tras lesionarse el isquiotibial?",
+        "¿Dónde se cita el estudio de Mendiguchía sobre el alta competitiva y el sprint?"
+      ],
+      "related_terms": [
+        "fuerza horizontal máxima",
+        "alta competitiva",
+        "ratio de fuerzas",
+        "recuperación de isquiotibiales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo la pelvis influye en las patologías comunes de la carrera de fondo.",
+      "context_after": "Se explican las limitaciones instrumentales y económicas para medir con exactitud esta fuerza horizontal en el laboratorio."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:11:32",
+      "end_timestamp": "00:12:44",
+      "start_seconds": 692,
+      "end_seconds": 764,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=692",
+      "title": "Limitaciones tecnológicas en la evaluación del sprint",
+      "summary": "Medir el perfil completo de fuerza en sprints reales es un desafío instrumental. El 'gold standard' requeriría 50 metros de plataformas de fuerza continuas, una instalación muy rara en el mundo. Aunque existen alternativas isoinerciales o de radar (como 1080 o Dynaspeed), sus altos costes los hacen inaccesibles para gran parte de los profesionales.",
+      "literal_quote": "para medir un sprint solo hay un sitio en el mundo, en Japón, que cuenta con 50 metros de plataformas de fuerzas... estos dispositivos, como los 1080 o las pistolas radar, todavía cuestan miles de euros",
+      "full_transcript": "Para medir esto, como todo lo relacionado con la fuerza, el estándar son las plataformas de fuerzas. El problema es que para medir un sprint solo hay un sitio en el mundo, en Japón, que cuenta con 50 metros de plataformas de fuerzas una detrás de otra y que permite medir esto de manera directa. Han surgido otras tecnologías que quizá os suenen, como los 1080, los Dynaspeed o las pistolas radar, que permiten medir todo ese perfil de fuerza y velocidad en cada una de las fases del sprint... de una manera más asequible que tener 50 plataformas de fuerzas una tras otra. Sin embargo, estos dispositivos, como los 1080 o las pistolas radar, todavía cuestan miles de euros y, por tanto, no son accesibles para todo el mundo. Os mostraré una solución con MyJumpLab asequible para todos los bolsillos más adelante.",
+      "keywords": [
+        "plataformas-fuerza",
+        "tecnologia",
+        "costes",
+        "1080",
+        "dynaspeed",
+        "radar"
+      ],
+      "entities": [
+        "MyJumpLab",
+        "1080",
+        "Dynaspeed",
+        "Japón"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué dispositivos se usan habitualmente en la élite para medir el perfil de fuerza en sprint?",
+        "¿Cuáles son las barreras para evaluar el sprint con plataformas de fuerza?",
+        "¿Dónde se menciona el problema del costo del equipo de medición isoinercial o radar?"
+      ],
+      "related_terms": [
+        "gold standard",
+        "perfil de fuerza y velocidad",
+        "pistolas radar",
+        "dispositivos isoinerciales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se enfatizó la necesidad de medir la fuerza horizontal como criterio de Return to Play.",
+      "context_after": "Antes de introducir la solución móvil, el ponente retorna a la cinemática de la pelvis en el sprint y su corrección técnica."
+    },
+    {
+      "id": "V05-006",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:12:45",
+      "end_timestamp": "00:15:17",
+      "start_seconds": 765,
+      "end_seconds": 917,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=765",
+      "title": "Corrección de la técnica de sprint para prevenir lesiones",
+      "summary": "Enseñar técnica de sprint (estilo escuela de atletismo) a futbolistas demostró ser altamente efectivo en tan solo 6 semanas. No solo mejoró el rendimiento en la distancia, sino que corrigió la posición anteversionada de la pelvis hacia una posición neutra, reduciendo drásticamente la tensión biomecánica sobre el isquiotibial y su riesgo de rotura.",
+      "literal_quote": "la posición de la pelvis fue mucho más neutra y menos anteversionada, lo que puso al isquiotibial en menor estado de tensión, reduciendo el riesgo de lesión.",
+      "full_transcript": "Pero primero vamos a meternos en elementos técnicos relacionados con la cinemática... y en este caso con la cinemática de la pelvis. Anteriormente os anticipé que la pelvis parece jugar un rol clave tanto en el rendimiento como en la prevención de lesiones isquiotibiales. Por ejemplo, en este estudio del grupo de Mendiguchía se analizaron los efectos de un plan de entrenamiento de seis semanas exclusivamente centrado en enseñar a los deportistas a esprintar con técnica de sprint de la escuela de atletismo. Se demostró que, enseñando a los deportistas a correr correctamente... podemos obtener resultados significativos. Si invertimos tiempo en enseñar a nuestros futbolistas a esprintar bien, conseguiremos seguramente lo que se observó en este estudio: no solo mejoró el rendimiento en el sprint de 35 metros simplemente por haber corregido la técnica... sino que también se observó que la posición de la pelvis fue mucho más neutra y menos anteversionada, lo que puso al isquiotibial en menor estado de tensión, reduciendo el riesgo de lesión. Se ha demostrado que la báscula pélvica anterior incrementa la tensión en los isquiotibiales y es un factor clave en la prevención de lesiones. Esto se observa en estudios de investigación del máximo nivel... que incluso han incorporado modelos con cadáveres para entender exactamente qué ocurre en el isquiotibial cuando se anteversiona la pelvis. Hoy en día, este es uno de los elementos clave en los que nos centramos en la prevención de lesiones isquiotibiales.",
+      "keywords": [
+        "tecnica-sprint",
+        "pelvis-neutra",
+        "isquiotibiales",
+        "tension-biomecanica",
+        "futbolistas"
+      ],
+      "entities": [
+        "Mendiguchía"
+      ],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Investigación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la corrección de la técnica de sprint a la pelvis y a los isquiotibiales?",
+        "¿Qué intervención de 6 semanas demostró reducir el riesgo de lesión isquiotibial en futbolistas?",
+        "¿Dónde se explica la relación entre la anteversión pélvica y la tensión isquiotibial?"
+      ],
+      "related_terms": [
+        "báscula pélvica anterior",
+        "escuela de atletismo",
+        "estado de tensión",
+        "modelos con cadáveres"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se discutieron los altos costes de las herramientas cinéticas para medir sprints.",
+      "context_after": "Se presenta el cuestionario validado SMAS como alternativa de campo para realizar estas evaluaciones sin equipos complejos."
+    },
+    {
+      "id": "V05-007",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:15:17",
+      "end_timestamp": "00:17:13",
+      "start_seconds": 917,
+      "end_seconds": 1033,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=917",
+      "title": "Evaluación del riesgo de lesión mediante el test SMAS",
+      "summary": "Para evaluar la cinemática sin equipamiento invasivo, existe el 'Sprint Mechanics Assessment Score' (SMAS). Mediante un vídeo lateral de un sprint a velocidad máxima, el evaluador responde un cuestionario de 12 preguntas de sí/no. Un estudio en la Premier League evidenció que puntuaciones más altas en correcciones requeridas (peor técnica) predicen significativamente mayores lesiones isquiotibiales.",
+      "literal_quote": "los deportistas con un valor SMAS más alto estaban asociados con una mayor aparición de nuevas lesiones isquiotibiales. Es decir, cuanto peor puntuaba el deportista en este test, mayor probabilidad",
+      "full_transcript": "Llevando todo esto al terreno... se han desarrollado una serie de herramientas prácticas, de campo, sencillas y no invasivas, que permiten evaluar esta cinemática de manera cualitativa y cuantitativa simplemente con el teléfono móvil. En este caso, lo que os estoy presentando es el SMAS, \"Sprint Mechanics Assessment Score\", una herramienta validada que consiste en la grabación lateral de un sprint en fase de velocidad máxima... En la grabación tienes que responder sí o no a un cuestionario de 12 preguntas. Con MyJumpLab grabas desde el lateral y dentro de la aplicación se te van haciendo preguntas, que forman parte de este cuestionario validado por el grupo de Christopher Bramma. Se ha demostrado que este cuestionario sencillo, que consiste en responder sí o no a preguntas respecto a la posición de la rodilla, la pelvis y el tronco, es válido y ayuda a discriminar el riesgo de lesión isquiotibial. Por ejemplo, en un estudio prospectivo con 126 jugadores de la Premier League, se demostró que los deportistas con un valor SMAS más alto estaban asociados con una mayor aparición de nuevas lesiones isquiotibiales. Es decir, cuanto peor puntuaba el deportista en este test, mayor probabilidad había de que apareciera una nueva lesión isquiotibial. El test funciona de manera que cuantas más correcciones requiera, peor puntuación obtienes... De una manera muy sencilla y cero invasiva... puedes tener una idea de cómo está la posición de la pelvis y, en general, la técnica del deportista en el contexto de la prevención de lesiones isquiotibiales.",
+      "keywords": [
+        "SMAS",
+        "cuestionario-validado",
+        "riesgo-lesion",
+        "evaluacion-campo",
+        "isquiotibiales",
+        "premier-league"
+      ],
+      "entities": [
+        "Christopher Bramma",
+        "Premier League",
+        "MyJumpLab"
+      ],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el test SMAS y para qué sirve en la evaluación deportiva?",
+        "¿Cómo predice el SMAS las lesiones isquiotibiales en el fútbol profesional?",
+        "¿Dónde se explica la metodología de evaluación cualitativa con vídeo lateral para sprints?"
+      ],
+      "related_terms": [
+        "Sprint Mechanics Assessment Score",
+        "grabación lateral",
+        "estudio prospectivo",
+        "evaluación cualitativa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se evidenció la importancia de modificar la cinemática de la pelvis para proteger la musculatura posterior.",
+      "context_after": "Se detalla cómo las aplicaciones móviles logran fusionar la validación cualitativa (SMAS) con la medición cuantitativa."
+    },
+    {
+      "id": "V05-008",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:17:13",
+      "end_timestamp": "00:18:26",
+      "start_seconds": 1033,
+      "end_seconds": 1106,
+      "duration_seconds": 73,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1033",
+      "title": "Democratización del análisis biomecánico con dispositivos móviles",
+      "summary": "Aplicaciones como MyJumpLab ('RunMatic') permiten extraer variables tanto cinéticas como cinemáticas de alta precisión utilizando la cámara de un móvil. Es posible medir tiempos de contacto, báscula pélvica y, trazando marcas cada 5 metros en un sprint, obtener el perfil completo de fuerza-velocidad y ratio de fuerzas del deportista.",
+      "literal_quote": "puedes medir los tiempos de contacto, el stiffness, la báscula pélvica contralateral... puedes obtener el perfil completo de fuerza-velocidad: la F0, la V0 y el ratio de fuerzas simplemente con la grabación del móvil.",
+      "full_transcript": "Para medir esto, ya hemos mencionado los dispositivos gold standard disponibles en los laboratorios, pero lógicamente no son accesibles para todo el mundo. En este caso, con MyJumpLab y algunas de las secciones que tengo desarrolladas específicamente dentro de la plataforma para medir la carrera, como la sección que llamé \"RunMatic\", se pueden analizar todas estas variables de las que hemos estado hablando. Puedes medir los tiempos de contacto, el stiffness, la báscula pélvica contralateral y todo con grabación de vídeo. Posteriormente, se incorporaron nuevos test en la aplicación que permitían medir de manera validada, en comparación con células fotoeléctricas, esprints de cambio de dirección o esprints lineales y perfiles de fuerza-velocidad. Si realizas, por ejemplo, un sprint de 30 metros y marcas cada cinco metros, midiendo esos parciales, puedes obtener el perfil completo de fuerza-velocidad: la F0, la V0 y el ratio de fuerzas simplemente con la grabación del móvil.",
+      "keywords": [
+        "myjumplab",
+        "runmatic",
+        "smartphone",
+        "fuerza-velocidad",
+        "democratizacion",
+        "tiempos-contacto"
+      ],
+      "entities": [
+        "MyJumpLab",
+        "RunMatic"
+      ],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué variables permite medir la sección RunMatic de MyJumpLab?",
+        "¿Cómo se puede calcular el perfil de fuerza-velocidad de un sprint con el teléfono móvil?",
+        "¿Dónde se habla de las alternativas a las células fotoeléctricas usando aplicaciones móviles?"
+      ],
+      "related_terms": [
+        "células fotoeléctricas",
+        "F0",
+        "V0",
+        "ratio de fuerzas",
+        "marcadores parciales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el uso del cuestionario cualitativo SMAS integrado en la app MyJumpLab.",
+      "context_after": "El vídeo cierra mostrando un último ejemplo práctico de medición clínica de campo desarrollada por el grupo de Jurdan Mendiguchía."
+    },
+    {
+      "id": "V05-009",
+      "video_title": "Monitorización del rendimiento físico - Mecánica de carrera y sprint",
+      "speaker": "Carlos Balsalobre",
+      "start_timestamp": "00:18:26",
+      "end_timestamp": "00:20:20",
+      "start_seconds": 1106,
+      "end_seconds": 1220,
+      "duration_seconds": 114,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1106",
+      "title": "Test clínico de campo para la anteversión pélvica",
+      "summary": "Para evaluar la predisposición a la anteversión pélvica de forma sencilla, el equipo de Jurdan Mendiguchía ideó un test de camilla: el atleta, tumbado con brazos cruzados, lanza la pierna hacia arriba. Medir el ángulo descrito con el móvil proporciona una indicación precisa de la basculación pélvica anterior sin requerir laboratorios.",
+      "literal_quote": "estar tumbado con los brazos cruzados en el pecho, lanzar la pierna lo más arriba posible y medir el ángulo que ésta describe... obtener una indicación muy precisa de este test, que a su vez está relacionado con la báscula pélvica anterior.",
+      "full_transcript": "Por último, quiero mostraros este estudio relacionado con la cinemática de la pelvis, que es la última investigación del grupo de Jurdan Mendiguchía, del cual hemos estado hablando. Inevitablemente, si se habla de isquiotibiales y de los últimos avances, es necesario citar a este grupo de investigación. En este trabajo, realizaron algo que me gusta mucho: trasladar un conocimiento... estar tumbado con los brazos cruzados en el pecho, lanzar la pierna lo más arriba posible y medir el ángulo que ésta describe. Con MyJumpLab se pueden colocar unos marcadores sencillos, medir el ángulo y obtener una indicación muy precisa de este test, que a su vez está relacionado con la báscula pélvica anterior. Esto ha sido todo por mi parte. Espero que os haya resultado interesante, que os haya generado dudas y que las sigáis desarrollando, aplicándolas a vuestro pensamiento crítico y a vuestra formación. Si tenéis más dudas o cualquier comentario, no dudéis en escribirme. En redes sociales soy @docbalsalobre. Me encontraréis sobre todo en Instagram y, si no, podéis escribirme también al email carlos@carlos-balsalobre.com. Cualquier cosa, nos vemos por ahí. Un abrazo a todos.",
+      "keywords": [
+        "test-clinico",
+        "bascula-pelvica",
+        "mendiguchia",
+        "evaluacion-campo",
+        "angulo",
+        "isquiotibiales"
+      ],
+      "entities": [
+        "Jurdan Mendiguchía",
+        "MyJumpLab",
+        "Instagram"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿En qué consiste el test clínico de campo de Mendiguchía para medir la báscula pélvica?",
+        "¿Cómo se puede evaluar la anteversión pélvica en una camilla de fisioterapia?",
+        "¿Dónde se muestra un test para medir el ángulo de lanzamiento de la pierna estando tumbado?"
+      ],
+      "related_terms": [
+        "test tumbado",
+        "lanzamiento de pierna",
+        "báscula pélvica anterior",
+        "marcadores sencillos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la funcionalidad de RunMatic para perfilar la fuerza y la velocidad.",
+      "context_after": "Despedida del ponente, proporcionando sus contactos y redes sociales."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+    "speaker": "Carlos",
+    "total_duration": "00:12:24",
+    "total_duration_seconds": 744,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+      "speaker": "Carlos",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:32",
+      "start_seconds": 1,
+      "end_seconds": 212,
+      "duration_seconds": 211,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Diferencia entre testear y monitorizar",
+      "summary": "El ponente establece una distinción clave en el alto rendimiento: testear implica evaluaciones exhaustivas, de máximo esfuerzo y poco frecuentes. Monitorizar, en cambio, busca medir frecuentemente, idealmente 24/7, utilizando variables rápidas y no invasivas.",
+      "literal_quote": "Monitorizar implica medir mucho, de manera lo más frecuente posible. De hecho, idealmente la tecnología del deporte está evolucionando para que podamos medir 24/7.",
+      "full_transcript": "Muy buenas a todos. Bienvenidos a este módulo de formación de High Performance Science Specialist de la National Strength Conditioning Association Spain, la NSCA, esa grandísima institución que nos ayuda a mejorar cada vez más como expertos en rendimiento. En este caso, vamos a hablar de monitorización del rendimiento físico mediante el uso de nuevas tecnologías. Antes de empezar, quería presentarme rápidamente. Mi nombre es Carlos, soy doctor en Ciencias de la Actividad Física y el Deporte, y combino mi tarea como profesor investigador titular en la Universidad Autónoma de Madrid... En esta serie de píldoras formativas vamos a hablar de diversos temas relacionados con la monitorización... vamos a hablar de qué entendemos en realidad por monitorizar. Creo que es muy importante... entender que hay dos términos que a priori podemos utilizar de manera indistinguible... testear se refiere fundamentalmente a aquellas evaluaciones de la condición física que generalmente llevan mucho tiempo, recolectan muchas variables y pueden solicitar, en la mayoría de los casos, esfuerzos máximos. Monitorizar implica medir mucho, de manera lo más frecuente posible. De hecho, idealmente la tecnología del deporte está evolucionando para que podamos medir 24/7... Entonces, la gracia, el secreto, el arte de monitorizar está en tratar de identificar aquellas variables que para tu disciplina deportiva son interesantes, que te pueden dar información, pero que además lo puedo hacer de una manera no invasiva y muy rápida.",
+      "keywords": [
+        "monitorizacion",
+        "testear",
+        "rendimiento-fisico",
+        "tecnologia",
+        "evaluacion",
+        "esfuerzo-maximo"
+      ],
+      "entities": [
+        "NSCA",
+        "Universidad Autónoma de Madrid"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Carlos sobre la diferencia entre testear y monitorizar?",
+        "¿Dónde se habla de testear versus monitorizar en el rendimiento físico?",
+        "¿Cuáles son las características principales de la monitorización deportiva?"
+      ],
+      "related_terms": [
+        "testear",
+        "monitorizar",
+        "evaluación",
+        "frecuencia",
+        "tecnología del deporte"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "Se explica cómo esta monitorización frecuente se aplica tanto en el escenario del deportista sano como en el deportista lesionado."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+      "speaker": "Carlos",
+      "start_timestamp": "03:32",
+      "end_timestamp": "04:40",
+      "start_seconds": 212,
+      "end_seconds": 280,
+      "duration_seconds": 68,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=212",
+      "title": "Monitorización en deportistas sanos y lesionados",
+      "summary": "La monitorización tiene dos grandes escenarios de aplicación: permite gestionar la balanza entre fatiga y recuperación en deportistas sanos para generar adaptaciones, y ayuda a guiar y evaluar de cerca el proceso de readaptación en lesionados.",
+      "literal_quote": "gestionar la balanza entre fatigar y recuperar es clave para producir las adaptaciones deseadas en nuestro deportista.",
+      "full_transcript": "En este contexto es muy interesante, porque fundamentalmente gracias a la monitorización podemos trabajar en el escenario deportista sano o en el escenario deportista lesionado y de una u otra forma obtener información que nos guíe en el proceso. Cuando tenemos un deportista sano, monitorizar nos ayuda a gestionar esa balanza que es el entrenamiento, que consiste básicamente en aplicar estímulo, aplicar fatiga y aplicar recuperación. Es decir, gestionar la balanza entre fatigar y recuperar es clave para producir las adaptaciones deseadas en nuestro deportista. Y solo midiendo de una manera muy cercana, idealmente día a día, podemos ver cómo va fluctuando el rendimiento del estado de forma de nuestro deportista para ver si vamos por buen camino. Y por supuesto, en el escenario de deportista lesionado, monitorizar me permite llevar un análisis muy cercano de cómo va recuperándose ese deportista, cómo va recuperando los niveles previos que tenía antes de lesionarse para determinar si el proceso de recuperación, de rehabilitación, de readaptación está siendo positivo o no.",
+      "keywords": [
+        "deportista-sano",
+        "deportista-lesionado",
+        "fatiga",
+        "recuperacion",
+        "adaptaciones",
+        "readaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Carlos sobre el uso de la monitorización en deportistas sanos y lesionados?",
+        "¿Cómo ayuda la monitorización en la gestión de la fatiga y recuperación?",
+        "¿Dónde se habla del análisis de la readaptación mediante la monitorización diaria?"
+      ],
+      "related_terms": [
+        "gestión de fatiga",
+        "recuperación",
+        "readaptación deportiva",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha definido la diferencia conceptual entre testear y monitorizar.",
+      "context_after": "Se introducen las tecnologías disponibles para llevar a cabo estas mediciones y sus barreras de accesibilidad económica."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+      "speaker": "Carlos",
+      "start_timestamp": "04:41",
+      "end_timestamp": "08:14",
+      "start_seconds": 281,
+      "end_seconds": 494,
+      "duration_seconds": 213,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=281",
+      "title": "Democratización tecnológica: medición válida con smartphones",
+      "summary": "Las tecnologías tradicionales de laboratorio (plataformas de fuerza, encoders) son costosas e inaccesibles para la mayoría. Hoy, variables clave como el salto vertical, VFC, VBT y stiffness pueden medirse de manera válida y fiable con un teléfono móvil, democratizando el acceso a través de apps como My Jump Lab.",
+      "literal_quote": "se puede medir con un teléfono móvil de manera válida, fiable y precisa. Cosas como el salto vertical, la variabilidad de la frecuencia cardíaca, la mecánica de carrera, la velocidad de ejecución en ejercicios de fuerza...",
+      "full_transcript": "Para ello, sabéis que tenemos numerosísimas tecnologías en el mercado y todas son tremendamente útiles, como son los encoders, las plataformas de fuerzas, las plataformas de saltos, los radares, los iso cinéticos, la electromiografía, la termografía. Muchísima tecnología que tenemos a nuestra disposición en los laboratorios y en los centros de alto rendimiento de los grandes clubes. El principal problema, sin embargo, que tienen estas tecnologías es que no son para todo el mundo, no son para todos los bolsillos y, por lo tanto, solo en contexto de élite generalmente podremos encontrarlas... Es importante que entendamos que, lógicamente, no todo lo que se puede medir con instrumental de cientos de miles de euros de unos laboratorios se puede hacer con un teléfono móvil, pero sí muchas cosas de las que nos interesan en el día a día... se pueden medir con un teléfono móvil de manera válida y fiable... Aquí en esta pantalla veis algunos ejemplos, pero no son ejemplos aleatorios... Cosas como el salto vertical, la variabilidad de la frecuencia cardíaca, la mecánica de carrera, la velocidad de ejecución en ejercicios de fuerza, el stiffness. Todo eso se sabe hoy en día que se puede medir de manera válida y fiable con un dispositivo móvil. Esto es lo que humildemente a lo largo de los años he ido desarrollando en My Jump Lab... que habrían permitido, sin ir más lejos, en 2026, haber medido todo lo que yo medí en mi tesis doctoral exclusivamente con un teléfono móvil.",
+      "keywords": [
+        "tecnologia",
+        "laboratorio",
+        "dispositivo-movil",
+        "salto-vertical",
+        "vbt",
+        "my-jump-lab"
+      ],
+      "entities": [
+        "My Jump Lab"
+      ],
+      "topics": [
+        "Evaluación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué variables se pueden medir de manera válida con un teléfono móvil?",
+        "¿Cómo democratizan las aplicaciones móviles el acceso a la tecnología deportiva?",
+        "¿Qué explica Carlos sobre el uso de My Jump Lab frente a herramientas de laboratorio?"
+      ],
+      "related_terms": [
+        "democratización tecnológica",
+        "dispositivos móviles",
+        "fiabilidad",
+        "salto vertical"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expuso la necesidad de medir de manera frecuente para evaluar la carga de entrenamiento.",
+      "context_after": "Se reflexiona sobre la filosofía de trabajo del autor, enfatizando que tener muchos recursos tecnológicos no garantiza el éxito."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+      "speaker": "Carlos",
+      "start_timestamp": "08:17",
+      "end_timestamp": "11:05",
+      "start_seconds": 497,
+      "end_seconds": 665,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=497",
+      "title": "Uso de recursos y el rol de nexo del analista",
+      "summary": "Tener múltiples tecnologías es inútil sin el conocimiento para aplicarlas correctamente, afirmando que 'menos es más'. Además, se destaca la importancia de que el especialista actúe como un 'puente' (bridge the gap) entre los analistas de datos puros y el cuerpo técnico del equipo.",
+      "literal_quote": "No importa cuántos recursos tengas, si no sabes utilizarlos, nunca serán suficientes... es necesario que haya un nexo, un vínculo, eso que le encanta tanto a la NSCA, que es el 'bridge the gap'.",
+      "full_transcript": "Antes de adentrarnos un poco en las distintas secciones... me suele gustar mucho hablar un poco más de mi filosofía de trabajo o la forma que tengo de entender la monitorización y el uso de nuevas tecnologías... No importa cuántos recursos tengas, si no sabes utilizarlos, nunca serán suficientes. Os parecerá mentira, pero incluso en equipos de superélite esta situación me la he encontrado. Es decir acumular dispositivos tecnológicos, porque el equipo tiene dinero... y, sin embargo, no se le da un buen uso a esos dispositivos. Muchas veces menos es más, y es más importante tener poquitas cosas, pero muy bien alineadas y coordinadas, que tener demasiadas cosas que no sabes ni cómo utilizar. Creo que esto encaja muy bien con una contraposición clásica que hay en el alto rendimiento, que es lo que ve un analista puro cuando nos centramos en el análisis de datos biomecánicos y fisiológicos... y lo que necesita el entrenador o el deportista, que es traducir toda esa información que hemos recolectado de una manera muy sencilla... En este caso, precisamente vosotros, los que os vais a especializar en ciencia del alto rendimiento, tenéis que estar ahí en medio, entre los staff puramente de tecnología... y el staff o el coach puramente técnico y centrado en el deporte. Ambas ramas son tremendamente importantes, pero es necesario que haya un nexo, un vínculo, eso que le encanta tanto a la NSCA, que es el 'bridge the gap', el unir puentes, por así decirlo, el eliminar las distancias que hay entre distintos sectores.",
+      "keywords": [
+        "recursos",
+        "tecnologia",
+        "analista",
+        "entrenador",
+        "nexo",
+        "bridge-the-gap"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué afirma Carlos que 'menos es más' en el uso de tecnologías deportivas?",
+        "¿Qué rol juega el especialista en ciencias del rendimiento entre el analista y el entrenador?",
+        "¿Dónde se habla de la necesidad de unir puentes o 'bridge the gap' en el staff?"
+      ],
+      "related_terms": [
+        "bridge the gap",
+        "uso de recursos",
+        "nexo de comunicación",
+        "staff técnico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presentó la viabilidad de utilizar smartphones en lugar de tecnología costosa.",
+      "context_after": "Se concluye que la simplicidad es fundamental para trasladar el conocimiento experto al deportista y al campo."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Monitorización del rendimiento físico mediante el uso de nuevas tecnologías",
+      "speaker": "Carlos",
+      "start_timestamp": "11:06",
+      "end_timestamp": "12:24",
+      "start_seconds": 666,
+      "end_seconds": 744,
+      "duration_seconds": 78,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=666",
+      "title": "La simplicidad como superpoder y áreas de interés clave",
+      "summary": "Hacer las cosas de forma sencilla es indicador de un alto nivel de experiencia. Finalmente, se identifican tres grandes áreas en las que se centra el interés del alto rendimiento: análisis de saltos, entrenamiento basado en la velocidad (VBT) y análisis de mecánica de carrera/sprint.",
+      "literal_quote": "la simplicidad es un superpoder... Quien realmente sabe, sabe aplicar un contenido, un conocimiento muy complejo de una manera muy sencilla.",
+      "full_transcript": "Siempre me suele gustar recordar esta frase: la simplicidad es un superpoder. Muchas veces se ha denostado el hacer las cosas demasiado simples, demasiado sencillas, como que parece que es menos profesional, menos avanzado, y en realidad es todo lo contrario. Ya en la época de Leonardo da Vinci decían que la simplicidad es la última sofisticación. No tengáis miedo de hacer las cosas sencillas porque penséis que van a creer que sois menos expertos o que sabéis menos. Quien realmente sabe, sabe aplicar un contenido, un conocimiento muy complejo de una manera muy sencilla. En ese contexto, con el paso de los años he ido desarrollando mis líneas de investigación, ayudando a diversos deportistas en diversos deportes y desarrollando mi aplicación. Fundamentalmente, en mi experiencia me he encontrado con un interés particular de la inmensa mayoría de deportistas o disciplinas deportivas en estas tres grandes áreas: el análisis de los saltos, la monitorización del entrenamiento de fuerza mediante la velocidad o velocity based training y el análisis o monitorización de la mecánica de carrera y de sprint. En estas tres grandes ramas nos vamos a centrar en las siguientes píldoras.",
+      "keywords": [
+        "simplicidad",
+        "vbt",
+        "analisis-saltos",
+        "sprint",
+        "metodologia",
+        "rendimiento"
+      ],
+      "entities": [
+        "Leonardo da Vinci"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres áreas de mayor interés en el monitoreo del alto rendimiento deportivo según Carlos?",
+        "¿Qué reflexiona el ponente sobre la simplicidad en la ciencia del deporte?",
+        "¿Dónde se habla del análisis de saltos y VBT como focos de interés?"
+      ],
+      "related_terms": [
+        "simplicidad",
+        "velocity based training",
+        "mecánica de carrera",
+        "análisis de saltos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la necesidad de comunicar y simplificar los datos complejos del laboratorio para el cuerpo técnico.",
+      "context_after": "El vídeo finaliza anticipando que las siguientes píldoras se centrarán en desarrollar el análisis de salto, VBT y sprint."
+    }
+  ]
+}
