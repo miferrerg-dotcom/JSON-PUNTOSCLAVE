@@ -1,0 +1,531 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+    "speaker": "Miguel Alonso",
+    "total_duration": "00:30:19",
+    "total_duration_seconds": 1819,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:00:25",
+      "end_timestamp": "00:01:44",
+      "start_seconds": 25,
+      "end_seconds": 104,
+      "duration_seconds": 79,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=25",
+      "title": "Importancia de aplicar y absorber fuerzas en pliometría infantil",
+      "summary": "El entrenamiento de pliometría en niños debe centrarse en enseñar tanto a aplicar como a absorber fuerzas. Su objetivo principal no es la hipertrofia, sino la coordinación neuromuscular y la eficiencia en el movimiento, requiriendo siempre un contexto de máxima seguridad.",
+      "literal_quote": "Lo primero es que nosotros, cuando entrenamos pliometría, tenemos que enseñar a aplicar, pero también a absorber fuerzas.",
+      "full_transcript": "Mi intención no es hablaros del entrenamiento de pliometría, mi intención es hablaros del entrenamiento de pliometría en niños. Y uno de los elementos clave para mí, dentro del entrenamiento de pliometría en niños, no son solo los efectos del entrenamiento pliométrico, sino cómo un niño tiene que entrenar la pliometría. Lo primero es que nosotros, cuando entrenamos pliometría, tenemos que enseñar a aplicar, pero también a absorber fuerzas. Y eso es un elemento para mí clave dentro del proceso de entrenamiento. ¿Por qué es, por lo tanto, importante entrenar la pliometría en niños? Primero, porque como sabemos, la pliometría se basa en este ciclo de estiramiento-acortamiento y necesitamos que sepa crear o generar energía elástica y que sea capaz de coordinar ese movimiento de la forma más eficiente posible. El objetivo no es hipertrofia, evidentemente, es fundamentalmente esa coordinación neuromuscular y esa eficiencia en el movimiento. Pero necesitamos entrenarlo siempre en unos contextos de máxima seguridad.",
+      "keywords": [
+        "pliometria",
+        "absorber-fuerzas",
+        "ciclo-estiramiento-acortamiento",
+        "coordinacion-neuromuscular",
+        "seguridad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuál es el objetivo de la pliometría en niños?",
+        "¿Qué importancia tiene absorber fuerzas en la pliometría infantil?",
+        "¿La pliometría en niños genera hipertrofia?"
+      ],
+      "related_terms": [
+        "entrenamiento",
+        "pliométrico",
+        "aplicar",
+        "y",
+        "absorber",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la tercera miniclase centrada exclusivamente en el entrenamiento de potencia o pliométrico en niños.",
+      "context_after": "Se detallan los beneficios específicos de la pliometría y las diferencias de adaptación entre niños y niñas post-PHV."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:01:45",
+      "end_timestamp": "00:04:34",
+      "start_seconds": 105,
+      "end_seconds": 274,
+      "duration_seconds": 169,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=105",
+      "title": "Efectos neurales y consideraciones técnicas post-PHV por género",
+      "summary": "Tras el PHV, los niños ganan mayor potencia absoluta por la testosterona, mientras que en las niñas es vital enfatizar el entrenamiento técnico del aterrizaje para controlar movimientos aberrantes, el valgo de rodilla y la rigidez tendinosa, previniendo lesiones de ligamento cruzado.",
+      "literal_quote": "Nosotros tenemos que ser capaces de lograr que las niñas... sean capaces de controlar esos movimientos aberrantes durante el PHV y esos posibles valgos de rodilla.",
+      "full_transcript": "Evidentemente, no va a ser lo mismo entrenar a niños que niñas, sobre todo después del PHV. Antes de la pubertad pueden entrenar juntos, como hemos dicho, las respuestas son similares, pero después de que los dos pasen el PHV... Los niños suelen mostrar mayor ganancia de potencia absoluta que las niñas, porque tienen mayores niveles de testosterona, mayor masa magra, etcétera. Pero importante es tener en cuenta... que en niñas hay que hacer un énfasis importante en el entrenamiento técnico. Y fundamentalmente del entrenamiento técnico del aterrizaje. Nosotros tenemos que ser capaces de lograr que las niñas, en este caso, y los niños también durante los primeros momentos, sean capaces de controlar esos movimientos aberrantes durante el PHV y esos posibles valgos de rodilla y rigidez tendinosa, en niñas especialmente, que pueden ser un problema para la lesión de rodilla, en este caso del ligamento cruzado anterior... Hay una mayor o un aumento de la rigidez y la capacidad elástica del tendón. Esto es muy interesante porque nos ayuda fundamentalmente a ser más reactivos... Lo tercero es que nos ayuda a aumentar el control del aterrizaje y esto nos puede ayudar a reducir el riesgo de lesión.",
+      "keywords": [
+        "diferencias-genero",
+        "post-phv",
+        "tecnica-aterrizaje",
+        "valgo-rodilla",
+        "ligamento-cruzado",
+        "rigidez-tendinosa"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencias hay entre niños y niñas al entrenar pliometría post-PHV?",
+        "¿Por qué es importante el entrenamiento de aterrizaje en niñas?",
+        "¿Qué adaptaciones neurales provoca la pliometría?"
+      ],
+      "related_terms": [
+        "valgos",
+        "de",
+        "rodilla",
+        "ligamento",
+        "cruzado",
+        "injury prevention"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de que la pliometría infantil se realice enseñando a absorber impactos.",
+      "context_after": "El profesor enumera las contraindicaciones médicas y mecánicas para permitir que un niño realice trabajo pliométrico."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:04:34",
+      "end_timestamp": "00:08:18",
+      "start_seconds": 274,
+      "end_seconds": 498,
+      "duration_seconds": 224,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=274",
+      "title": "Contraindicaciones y riesgos: Fuerza base y fatiga",
+      "summary": "La pliometría está contraindicada sin estabilidad articular o con alteraciones médicas. La falta de una base de fuerza impide controlar el aterrizaje, elevando el riesgo de lesión. Además, encadenar sesiones sin recuperación o usar superficies demasiado duras resulta perjudicial.",
+      "literal_quote": "Sin fuerza no se controla ni el aterrizaje ni el siguiente impulso.",
+      "full_transcript": "Las contraindicaciones para entrenar pliometría, fundamentalmente son médicas. El niño no tiene dolor, no está lesionado... Pero también algunas tienen que ver con lo motriz. Es decir, ¿tiene estabilidad articular sí o no? Si no la tiene, no puede entrenar pliometría. ¿Tiene alguna alteración médica, ligamentosa, cartilaginosa? No puede entrenar pliometría... Segundo elemento, las limitaciones por falta de fuerza contra el motor. Eso es muy importante. Nosotros no podemos entrenar pliometría si los niños no tienen una base mínima de fuerza. Sin fuerza no se controla ni el aterrizaje ni el siguiente impulso. Si es capaz de hacerlo porque tiene fuerza pero no tiene control motor, el riesgo de lesión aumenta... El tercer elemento son los riesgos del proceso de carga o falta de recuperación. No podemos ir encadenando sesiones de pliometría una detrás de otra, o no debemos en niños, porque necesitan unos plazos de recuperación, precisamente por esa sobrecarga excéntrica y esa fatiga neuromuscular que se asocia a intensidades excesivas... Os mencionaba anteriormente el tema de las superficies... en niños no se recomienda que este sea el caso. Incluso os diría que prefiero que lo hagan descalzo a que lo hagan con unas zapatillas.",
+      "keywords": [
+        "contraindicaciones",
+        "estabilidad-articular",
+        "base-fuerza",
+        "fatiga-neuromuscular",
+        "recuperacion",
+        "superficies"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cuándo está contraindicado el entrenamiento de pliometría en niños?",
+        "¿Por qué un niño no puede hacer pliometría si no tiene base de fuerza?",
+        "¿Se deben encadenar sesiones de pliometría en días consecutivos?"
+      ],
+      "related_terms": [
+        "contraindicaciones",
+        "médicas",
+        "base",
+        "de",
+        "fuerza",
+        "injury prevention"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se repasaron las adaptaciones neuromusculares del salto y la reactividad en el tendón.",
+      "context_after": "Se presenta el modelo de cómo el cerebro infantil aprende un nuevo patrón motor complejo como el salto."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:08:18",
+      "end_timestamp": "00:12:31",
+      "start_seconds": 498,
+      "end_seconds": 751,
+      "duration_seconds": 253,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=498",
+      "title": "Aprendizaje motor no lineal y el caos durante el PHV",
+      "summary": "El aprendizaje motor infantil fluctúa y presenta retrocesos normales para recalibrar el sistema neuromotor. Durante el PHV, patrones maduros pueden volverse torpes; el entrenador debe proveer feedback adaptado en lugar de exigir repetición lineal, asumiendo que los niños a veces reducen su esfuerzo balístico para asegurar el aterrizaje.",
+      "literal_quote": "No se aprende A más B, más C, más D. No se aprende de esta forma. Se aprende yendo para adelante y para atrás.",
+      "full_transcript": "¿Cómo aprende un niño? Mirad, primero tenemos que entender que esto no es un aprendizaje lineal. No se aprende A más B, más C, más D. No se aprende de esta forma. Se aprende yendo para adelante y para atrás. A veces hay fluctuaciones en el aprendizaje, fluctuaciones en cómo llevan a cabo ese aprendizaje. Y estas son adaptaciones normales dentro del proceso de entrenamiento... Ellos exploran y trabajan sobre la variabilidad de los patrones motores o de movimiento. Es normal porque no siempre se encuentran en las mismas condiciones físicas... Los retrocesos que veis son normales. No son fallos, son normales. Son formas en las que el niño reequilibra o recalibra, mejor dicho, el sistema neuromotor... Incluso un patrón que podríamos considerar maduro se vuelve torpe durante el PHV. Es en ese momento en el que nosotros tenemos que ser capaces de focalizar o refocalizar la atención gracias al reentrenamiento a través de ejercicios, quizás regresiones o un \"feedback\" adaptado... el niño no consolida una habilidad por repetir de forma lineal. Lo hace a través de reorganizar de forma reiterada estos gestos coordinativos.",
+      "keywords": [
+        "aprendizaje-no-lineal",
+        "fluctuaciones",
+        "caos-motriz",
+        "phv",
+        "recalibracion-neuromotor",
+        "feedback"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué un niño olvida cómo hacer un ejercicio técnico de una semana a otra?",
+        "¿Qué significa que el aprendizaje motor no es lineal?",
+        "¿Qué pasa con los patrones maduros de movimiento durante el PHV?"
+      ],
+      "related_terms": [
+        "aprendizaje",
+        "motor",
+        "fluctuaciones",
+        "caos",
+        "motor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se enumeraron los factores que impiden la aplicación segura de la pliometría.",
+      "context_after": "Se presenta un estudio que compara las adaptaciones del entrenamiento de fuerza tradicional vs la pliometría."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:12:31",
+      "end_timestamp": "00:15:47",
+      "start_seconds": 751,
+      "end_seconds": 947,
+      "duration_seconds": 196,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=751",
+      "title": "Estudio de Chawachi: La fuerza base frente a la pliometría",
+      "summary": "Un estudio demostró que niños de 10-12 años mejoran más su velocidad entrenando fuerza tradicional que pliometría o movimientos olímpicos. Esto ocurre porque a esa edad carecen del equilibrio y coordinación necesarios para beneficiarse del trabajo pliométrico, haciendo irresponsable saltar la fase de fuerza.",
+      "literal_quote": "Mejoraron más aquellos que entrenaban fuerza tradicional. ¿Por qué? Porque a esa edad... no hay ni equilibrio ni coordinación para beneficiarse del entrenamiento de pliometría.",
+      "full_transcript": "Este es un trabajo muy interesante de Chawachi, que compara el efecto del entrenamiento de estos tres grupos. Un grupo de niños de 10 a 12 años, y les hace test de sprint de 5 metros y de 20 metros... La teoría nos diría: ¿qué tiene mejores efectos para el entrenamiento de velocidad o de sprint? La pliometría o los movimientos olímpicos. ¿Por qué? Porque se fundamentan en la potencia. Lo que se vio en este trabajo fue superinteresante... Se vio que los niños mejoraron cuando su test de 5 y 20 metros mejoraron más... aquellos que entrenaban fuerza tradicional. ¿Por qué? Porque a esa edad, muy habitualmente, no hay ni equilibrio ni coordinación para beneficiarse del entrenamiento de pliometría. Y, por lo tanto, cuando nosotros enfrentamos el entrenamiento de fuerza, pero no tenemos un buen equilibrio corporal o el equilibrio es inadecuado, se inhiben las adaptaciones del entrenamiento de pliometría o de movimientos olímpicos... Por tanto, ¿qué es lo que para mí sería una irresponsabilidad? No incluir el entrenamiento de fuerza. Aunque os guste u os interese mucho el entrenamiento de pliometría, primero necesitamos una base de entrenamiento de fuerza en el niño.",
+      "keywords": [
+        "estudio-chawachi",
+        "fuerza-tradicional",
+        "pliometria",
+        "velocidad",
+        "equilibrio",
+        "coordinacion"
+      ],
+      "entities": [
+        "Chawachi"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué mejoró más la velocidad en niños de 10-12 años: fuerza o pliometría?",
+        "¿Por qué los niños no mejoran con la pliometría si no tienen fuerza?",
+        "¿Qué estudio compara los efectos de fuerza y pliometría en niños?"
+      ],
+      "related_terms": [
+        "base",
+        "de",
+        "fuerza",
+        "entrenamiento",
+        "tradicional",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se comprendió que los niños necesitan recalibrar su técnica constantemente durante la maduración.",
+      "context_after": "Se describe el paso a paso práctico para construir la habilidad de salto dentro de un programa."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:15:47",
+      "end_timestamp": "00:16:40",
+      "start_seconds": 947,
+      "end_seconds": 1000,
+      "duration_seconds": 53,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=947",
+      "title": "Construcción práctica del movimiento pliométrico",
+      "summary": "La enseñanza de la pliometría sigue una progresión lógica: primero se domina el aterrizaje estricto, luego se encadenan movimientos facilitados, se aplican sobrecargas, se avanza a apoyos monopodales y, finalmente, se trabaja en diferentes planos combinando fuerza y potencia.",
+      "literal_quote": "Estos son los criterios que utilizamos: primero, aterrizaje; segundo, control; tercero, sobrecarga.",
+      "full_transcript": "Estos no son niños, pero es una forma de explicaros cómo nosotros trabajamos primero la pliometría. Construimos antes el aterrizaje. Arriba a la izquierda veis cuando ya ha sido trabajado el aterrizaje, empezamos a encadenar movimientos facilitados o movimientos dificultados con sobrecarga, etcétera. Lo mismo cuando lo hacemos monopodal, lo mismo cuando lo hacemos en diferentes planos, lo mismo cuando lo hacemos encadenando movimientos multiplanares, lo mismo cuando lo hacemos con trabajo de fuerza y de potencia. Estos son los criterios que utilizamos: primero, aterrizaje; segundo, control; tercero, sobrecarga. Pasamos a hacer lo mismo otra vez monopodal, lo mismo jugamos en otros planos diferentes, lo mismo combinamos diferentes planos, etcétera.",
+      "keywords": [
+        "construccion-practica",
+        "aterrizaje",
+        "control",
+        "sobrecarga",
+        "monopodal",
+        "multiplanar"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se progresa el entrenamiento pliométrico en la práctica?",
+        "¿Cuáles son los pasos para construir un buen salto en niños?"
+      ],
+      "related_terms": [
+        "progresión",
+        "aterrizaje",
+        "control",
+        "sobrecarga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se justificó con el estudio de Chawachi que no se debe prescindir de la fuerza antes de saltar.",
+      "context_after": "Se detallan de manera biomecánica y clínica los criterios de calidad que deben regir cada aterrizaje."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:16:40",
+      "end_timestamp": "00:21:09",
+      "start_seconds": 1000,
+      "end_seconds": 1269,
+      "duration_seconds": 269,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1000",
+      "title": "Criterios técnicos de aterrizaje: Coordinación, valgo y asimetrías",
+      "summary": "Aterrizar es absorber fuerza coordinando cadera, rodilla y tobillo para evitar sobrecargar estructuras aisladas. Se debe vigilar el control frontal (valgo), el sagital y la simetría de apoyos (asimetrías superiores al 10-15% suponen un riesgo). El contacto debe ser rápido, aunque reduce el tiempo de toma de decisiones.",
+      "literal_quote": "Aterrizar es absorber fuerzas. Hay que tener una correcta flexión de cadera, tobillo y rodilla que esté coordinada.",
+      "full_transcript": "Lo que nos dice la ciencia es que el aterrizaje es el elemento más crítico del entrenamiento de pliometría... Fundamentalmente porque la fase excéntrica requiere de una mayor mecánica que recae sobre el complejo tobillo-rodilla-cadera. Y, evidentemente, un deportista que construye su entrenamiento pliométrico sin una buena base de entrenamiento o de capacidad de aterrizar, el riesgo de lesiones... se van a disparar. ¿Qué es aterrizar? Aterrizar es absorber fuerzas. Hay que tener una correcta flexión de cadera, tobillo y rodilla que esté coordinada. Se estima que la flexión que no absorba una de esas estructuras la va a tener que absorber otra... si llega un momento en el que la que lo tiene que absorber es la rodilla, el riesgo de lesión se dispara enormemente. Lo segundo que hay que tener en cuenta como criterio de calidad técnica Un buen control frontal de la rodilla. Vigilar ese valgo, sobre todo en niñas post-PHV... Lo mismo con el control sagital, cuando hablamos del tronco, y lo mismo con la forma de distribuir, idealmente de forma simétrica, los apoyos. Se habla de que una asimetría de más de 10 % es de cierto riesgo... Nosotros lo que establecimos que del 10 al 15 es un tipo de riesgo, más del 15 es otro tipo de riesgo... Y por último, y eso es muy importante, tenemos que, como criterio de éxito, de calidad del movimiento, manejar el tiempo de contacto con el suelo. Los aterrizajes normalmente hablamos de que suelen ser suaves y rápidos.",
+      "keywords": [
+        "criterios-tecnicos",
+        "fase-excentrica",
+        "absorcion-fuerzas",
+        "valgo",
+        "asimetrias",
+        "tiempo-contacto"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los criterios técnicos de calidad para el aterrizaje?",
+        "¿Qué porcentaje de asimetría en los apoyos se considera un riesgo?",
+        "¿Por qué es perjudicial que el aterrizaje no se amortigüe coordinadamente?"
+      ],
+      "related_terms": [
+        "aterrizaje",
+        "control",
+        "frontal",
+        "asimetrías",
+        "injury prevention"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron los pilares para encadenar saltos y sobrecargas de manera controlada.",
+      "context_after": "Se presenta evidencia sobre la ventaja de sumar trabajos propioceptivos y de equilibrio al programa de fuerza."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:21:09",
+      "end_timestamp": "00:23:18",
+      "start_seconds": 1269,
+      "end_seconds": 1398,
+      "duration_seconds": 129,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1269",
+      "title": "Beneficios de combinar equilibrio y pliometría",
+      "summary": "La evidencia indica que aplicar un programa combinado de pliometría y equilibrio genera mejoras superiores en velocidad y salto, en comparación con realizar únicamente pliometría de manera aislada (exceptuando pruebas exclusivas de saltos continuos como el triple hop test).",
+      "literal_quote": "El efecto del entrenamiento combinado, es decir, pliometría más equilibrio, fue superior a los otros grupos en casi todos los test.",
+      "full_transcript": "Aprovecho solamente estas dos próximas diapositivas para recordar o para insistir en la idea de la necesidad del entrenamiento de equilibrio dentro de estos momentos a largo plazo. Todas las referencias bibliográficas nos hablan de la necesidad de aplicar entrenamiento de equilibrio en todas las etapas. No podemos dejar el equilibrio pasar, y no estoy hablando de entrenar con ojos cerrados y a la pata coja encima de un bosu, que también. Estoy hablando de entrenar el equilibrio de todas las formas que se os ocurran. En todos los tests que se hicieron en esta investigación, se aplicó un entrenamiento combinado de pliometría y de equilibrio... Se hicieron tres grupos: un grupo de entrenamiento pliométrico, un grupo de entrenamiento de equilibrio más pliométrico y un tercer grupo control. Curiosamente, lo que se vio es que... el efecto del entrenamiento combinado, es decir, pliometría más equilibrio, fue superior a los otros grupos en casi todos los test. ¿Dónde no fue superior? En el triple hop test. ¿Por qué? Porque triple hop test es saltar... Evidentemente, se mejoran otras cosas. Se mejora la velocidad, pero como veis, combinarlo con un trabajo de equilibrio mejora más que entrenarlo de forma aislada.",
+      "keywords": [
+        "equilibrio",
+        "entrenamiento-combinado",
+        "sinergia",
+        "triple-hop-test",
+        "beneficios-pliometria"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Es mejor entrenar solo pliometría o pliometría más equilibrio?",
+        "¿Por qué el equilibrio potencia los resultados de la pliometría?",
+        "¿En qué prueba física la pliometría sola fue suficiente?"
+      ],
+      "related_terms": [
+        "equilibrio",
+        "y",
+        "pliometría",
+        "entrenamiento",
+        "combinado"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicaron los factores que previenen lesiones en la fase excéntrica del salto.",
+      "context_after": "Se sistematizan los 5 principios metodológicos definitivos para aplicar la pliometría con niños, empezando por el modelo de Lloyd Oliver."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:23:18",
+      "end_timestamp": "00:26:12",
+      "start_seconds": 1398,
+      "end_seconds": 1572,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1398",
+      "title": "Principios de programación: Técnica y progresión del impacto",
+      "summary": "Según los modelos de desarrollo (ej. Lloyd Oliver), la técnica debe primar. La progresión debe ir de bajo a alto impacto, recomendándose programas de 4 a 8 semanas (dos o tres días por semana) que sumen de 400 a 600 minutos totales, aplicados en microdosis de 10-12 minutos por sesión.",
+      "literal_quote": "A largo plazo, recomiendan entrenar de forma prioritaria el control motor y la técnica antes que la pliometría en sí.",
+      "full_transcript": "¿Cuáles son los principios de la pliometría? Vamos a hablar de estos cinco fundamentales: técnica, progresar de bajo a alto impacto, dosificación correcta, supervisión y tener en cuenta la maduración... Cuando decíamos: entrenamos primero la técnica... El aterrizaje, si tiene buena mecánica, se asocia a mayor mejora en el salto... Los modelos de desarrollo, como veis, este de Lloyd Oliver, que es muy conocido. A largo plazo, recomiendan entrenar de forma prioritaria el control motor y la técnica antes que la pliometría en sí. Antes que aumentar la intensidad y el volumen... El segundo principio es que tenemos que progresar de bajo a alto impacto. Se ha visto que los programas que aplican entrenamiento pliométrico dos o tres veces por semana, en bloques o en programas de cuatro a ocho semanas, son mejores o tienen mejores beneficios que programas con un solo día a la semana... proponen que volúmenes totales de 400 a 600 minutos de entrenamiento son óptimos si los distribuimos de forma correcta... son en torno a 10, 12 minutos por sesión. No son más, no es estar saltando todo el rato.",
+      "keywords": [
+        "principios-pliometria",
+        "tecnica-prioritaria",
+        "lloyd-oliver",
+        "progresion-impacto",
+        "volumen-total",
+        "microdosis"
+      ],
+      "entities": [
+        "Lloyd Oliver"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principios de la pliometría en niños?",
+        "¿Cuántos minutos en total debe durar un programa pliométrico infantil?",
+        "¿Qué dice el modelo de Lloyd Oliver sobre la técnica?"
+      ],
+      "related_terms": [
+        "principios",
+        "técnica",
+        "progresión",
+        "de",
+        "impacto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Quedó comprobado que un programa que incluye el entrenamiento del equilibrio es más efectivo.",
+      "context_after": "Se avanza hacia el tercer principio organizativo: cómo dosificar de manera matemática el volumen del salto."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:26:12",
+      "end_timestamp": "00:28:23",
+      "start_seconds": 1572,
+      "end_seconds": 1703,
+      "duration_seconds": 131,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1572",
+      "title": "Dosificación estricta mediante contactos del pie",
+      "summary": "El volumen pliométrico se mide por los contactos del pie en el suelo. Incrementos superiores al 10-20% mensual son peligrosos. Se pautan menos de 80 contactos semanales para iniciación, 80-140 para intermedios, y 120-200 para avanzados (>16 años), manteniéndose bajo un límite total de 900 contactos por programa.",
+      "literal_quote": "La dosificación se hace por contactos del pie en el suelo. Tenemos que contar cada contacto como una repetición.",
+      "full_transcript": "Tercer principio de la pliometría es que la dosificación se hace por contactos del pie en el suelo. Tenemos que contar cada contacto como una repetición. Yo a veces les pregunto a mí: \"Hoy hacemos pliometría, ¿cuántos saltos vas a hacer?\" \"Ah, no lo sé\". Pues tienes que contar los saltos. Porque te ayuda a tener claro cómo progresas. Se ha visto que incrementos de más del 10 o 20 % al mes son peligrosos. Por tanto, sí que es importante que lo tengamos en cuenta a la hora de controlar la carga... En adolescentes, lo que nos proponen estos autores en este meta-análisis es: volúmenes totales menores de 900 contactos en todo el programa. Recordad que hablábamos de programas de cuatro a ocho semanas... tenemos que ajustar estos números de contactos a la población. Es decir, cuando son iniciadores, no más de 80 contactos por semana son suficientes. De 80 a 140 cuando son intermedios. No estoy hablando del momento madurativo, estoy hablando de la experiencia. Y lo tercero, cuando ya son avanzados, y se estima que son de los 16 años para adelante, de 120 a 200 saltos por semana.",
+      "keywords": [
+        "dosificacion",
+        "contactos-pie",
+        "incrementos-carga",
+        "volumen-semanal",
+        "niveles-experiencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se mide el volumen de entrenamiento en la pliometría?",
+        "¿Cuántos saltos a la semana debe hacer un niño principiante?",
+        "¿Por qué es peligroso aumentar drásticamente los saltos en la programación?"
+      ],
+      "related_terms": [
+        "dosificación",
+        "contactos",
+        "load management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los minutos óptimos (400-600) que debe durar un bloque de pliometría.",
+      "context_after": "Finalmente, se explican las medidas de seguridad, descansos y la modulación de carga vinculada a los picos de maduración."
+    },
+    {
+      "id": "V03-011",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 3)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:28:23",
+      "end_timestamp": "00:30:19",
+      "start_seconds": 1703,
+      "end_seconds": 1819,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1703",
+      "title": "Supervisión de pausas y gestión adaptada al PHV",
+      "summary": "La pliometría requiere calzado adecuado y ratios de pausa de 1:4 o 1:6 bajo supervisión. Además, se debe adaptar al estado madurativo: en prepúberes predominan los beneficios neurales, mientras que en adolescentes se combinan fuerza y pliometría. Durante el PHV, el control debe primar absolutamente sobre la intensidad y el volumen.",
+      "literal_quote": "Durante esos picos, hay que tener mucho mayor control sobre la calidad, sobre la técnica, sobre los aterrizajes, que el foco sobre la intensidad",
+      "full_transcript": "El cuarto elemento es la supervisión y la seguridad. Decíamos superficies que no resbalen, calzado adecuado y luego las pausas, cómo las gestionamos, cómo gestionamos el tiempo de descanso y el tiempo de trabajo. Importante. Las recomendaciones están en torno a uno cuatro, uno seis. Pero todas las referencias nos hablan, insistimos en esto, en que tiene que ser bajo supervisión adecuada y cualificada... Microdosis de 10, 12 minutos por sesión son suficientes de entrenamiento de fuerza y pliometría de equilibrio. El último es tener en cuenta la maduración. Tener en cuenta, además, que en prepúberes ellos se benefician de esa actividad neural y la pliometría y la velocidad, fundamentalmente, atacan a ese punto neural y en adolescentes, normalmente, cobra más importancia la combinación de entrenamiento de fuerza y pliometría... La gestión de la carga se hace en torno al PHV. Durante esos picos, hay que tener mucho mayor control sobre la calidad, sobre la técnica, sobre los aterrizajes, que el foco sobre la intensidad y sobre el volumen de entrenamiento.",
+      "keywords": [
+        "supervision",
+        "pausas",
+        "ratio-trabajo-descanso",
+        "phV",
+        "maduracion",
+        "control-calidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tiempos de descanso recomendados en pliometría?",
+        "¿Cómo se adapta la carga pliométrica durante el pico de crecimiento?",
+        "¿Qué precauciones de seguridad tomar en la pliometría con niños?"
+      ],
+      "related_terms": [
+        "pausas",
+        "supervisión",
+        "phv",
+        "load management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se pautaron los topes semanales de saltos según la experiencia deportiva del niño.",
+      "context_after": "Despedida de la tercera clase, emplazando a la sesión práctica final."
+    }
+  ]
+}

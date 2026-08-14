@@ -1,0 +1,349 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+    "speaker": "Miguel Alonso",
+    "total_duration": "00:17:11",
+    "total_duration_seconds": 1031,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:00:31",
+      "end_timestamp": "00:01:47",
+      "start_seconds": 31,
+      "end_seconds": 107,
+      "duration_seconds": 76,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=31",
+      "title": "La pliometría como medio: Transferencia y especificidad dinámica",
+      "summary": "El entrenamiento pliométrico no es un fin en sí mismo (no se compite en saltar vallas), sino un medio para transferir adaptaciones al sprint o a la agilidad del deporte. Según la ley de especificidad dinámica, la transferencia es mayor cuanto más se simula el gesto deportivo, priorizando vectores horizontales y unilaterales en deportes como el fútbol.",
+      "literal_quote": "La ciencia nos dice que la pliometría no es un fin, sino el medio para transferir esta fuerza... cuanto más se parece el gesto con el que entrenamos la pliometría, más transferencia tiene al gesto.",
+      "full_transcript": "El entrenamiento de pliometría, fundamentalmente, lo que busca es tener una transferencia a la agilidad y al sprint en un deporte, en este caso, en fútbol. Nadie es campeón del mundo de saltar vallas de forma vertical o de hacer \"skipping\" encima de unos aros. Nadie es campeón del mundo de esto. La gente aplica este modelo para transferirlo. Y ese es el objetivo que nosotros tenemos que tener cuando planificamos nuestro modelo de entrenamiento. No es ser muy buenos solo saltando, sino beneficiarse de los efectos de ese entrenamiento. Por tanto, esa transferencia, lo que nos dice la ciencia es que la pliometría no es un fin, sino el medio para transferir esta fuerza. ¿Cuáles son los fundamentos de esta transferencia? Lo primero es esta ley de especificidad dinámica. Es decir, cuanto más se parece el gesto con el que entrenamos la pliometría, más transferencia tiene al gesto, al movimiento que tiene que tener el jugador para sacar rendimiento en su competición. Por tanto, si sabemos que en un deporte como el fútbol... las fuerzas son fundamentalmente horizontales y unilaterales.",
+      "keywords": [
+        "transferencia",
+        "agilidad",
+        "sprint",
+        "especificidad-dinamica",
+        "fuerzas-horizontales",
+        "unilaterales"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué busca fundamentalmente el entrenamiento de pliometría?",
+        "¿Qué es la ley de especificidad dinámica?",
+        "¿Cómo se logra transferir la fuerza en el fútbol?"
+      ],
+      "related_terms": [
+        "transferencia",
+        "especificidad",
+        "dinámica",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la última parte de la sesión, orientada a la aplicación práctica y conclusiones finales.",
+      "context_after": "Se detalla a nivel biomecánico cómo impacta la pliometría en el sprint, en los cambios de dirección y en la agilidad cognitiva."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:01:56",
+      "end_timestamp": "00:03:35",
+      "start_seconds": 116,
+      "end_seconds": 215,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=116",
+      "title": "Beneficios pliométricos en sprint, cambios de dirección y agilidad",
+      "summary": "La pliometría mejora la rigidez del tobillo para almacenar y liberar energía elástica velozmente (sprint). En los cambios de dirección, aumenta la fuerza excéntrica para mantener el centro de masa bajo y reorientar el eje. Finalmente, al reducir el tiempo de contacto en suelo, optimiza la eficiencia del sistema neuromuscular para la toma de decisiones (agilidad).",
+      "literal_quote": "Esto quiere decir que si tenemos un sistema neuromuscular más eficiente, vamos a ser capaces de tomar decisiones bajo unas situaciones de mayor velocidad.",
+      "full_transcript": "El segundo punto es cómo podemos aplicar la pliometría hacia el sprint... la pliometría mejora la rigidez del tobillo, y como la mejora, es capaz de almacenar energía elástica durante este apoyo y liberarla lo más rápido posible. Esto favorece la transición entre una frenada y una propulsión a continuación. Lo tercero es cómo interfiere la pliometría en los cambios de dirección. Parecido, pero teniendo en cuenta sobre todo esa capacidad de aumentar los niveles de fuerza excéntrica. Y eso permite mantener ese centro de masa abajo... y tener un buen control para reorientar la fuerza después. Normalmente, en un cambio de dirección, estás cambiando el eje y el plano de fuerza... Cuando hablamos de agilidad, hablamos fundamentalmente de toma de decisiones. No es solamente cambiar de dirección... Si nosotros sabemos que entrenar la pliometría mejora la reacción, reduce el tiempo de contacto con el suelo, sabemos que también reduce, de esta forma, el tiempo de percepción y acción. Esto quiere decir que si tenemos un sistema neuromuscular más eficiente, vamos a ser capaces de tomar decisiones bajo unas situaciones de mayor velocidad.",
+      "keywords": [
+        "rigidez-tobillo",
+        "energia-elastica",
+        "fuerza-excentrica",
+        "centro-de-masa",
+        "toma-decisiones",
+        "percepcion-accion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cómo mejora la pliometría el sprint?",
+        "¿Qué rol juega la fuerza excéntrica en los cambios de dirección?",
+        "¿Por qué un menor tiempo de contacto ayuda a tomar mejores decisiones?"
+      ],
+      "related_terms": [
+        "cambios",
+        "de",
+        "dirección",
+        "agilidad",
+        "toma",
+        "de",
+        "decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de simular el patrón competitivo en los ejercicios.",
+      "context_after": "Se visualizan vídeos y ejemplos de cómo no aislar el salto sino integrarlo en tareas globales."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:03:54",
+      "end_timestamp": "00:06:57",
+      "start_seconds": 234,
+      "end_seconds": 417,
+      "duration_seconds": 183,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=234",
+      "title": "Integración práctica y dosificación en la etapa Pre-PHV",
+      "summary": "La pliometría no debe aislarse; se integra progresando desde dominar el aterrizaje (fuerzas verticales) a acciones monopodales con incertidumbre táctica. En etapa Pre-PHV, se aplican dosis controladas de 60-90 contactos/semana mediante saltos rítmicos horizontales y juegos de reactividad moderada que incluyan toma de decisiones (ej. cruzar el río).",
+      "literal_quote": "Para mí, el entrenamiento de pliometría no debe ser siempre un bloque aislado... tiene que tener una parte en la que la pliometría sirva de puente para un movimiento concreto o específico.",
+      "full_transcript": "Para mí, el entrenamiento de pliometría no debe ser siempre un bloque aislado. Para mí, tiene que tener una parte en la que la pliometría sirva de puente para un movimiento concreto o específico dentro del entrenamiento... Primero trabajamos cómo aterrizar, cómo decelerar, cómo controlar las fuerzas, en este caso, verticales. Vamos aumentando no solo la dificultad, sino también la incertidumbre. Luego aplicamos fuerza con un poquito más de velocidad sobre el campo y pasamos a hacerlo monopodal, con mayor toma de decisiones... Como decíamos, estos momentos de pre-PHV, el fundamento es: tenemos que ser capaces de trabajar de forma coordinada y rítmica con los chicos. No más de 60, 90 contactos por semana... y fundamentalmente a través de saltos horizontales a marcas, \"skipping\", pogos, etcétera... Cuando crecemos y estamos en este pre-PHV tardío, es decir, cerquita del PHV... Veis que lo podemos integrar en situaciones un poquito más dinámicas... Es un juego, en este caso, de ir pasándose el balón unos y otros ir saltando, lo que llamamos cruzar el río. Van aplicando esa reactividad con tiempos de contacto moderados... y se van adaptando también a la toma de decisión.",
+      "keywords": [
+        "integracion",
+        "pre-phv",
+        "dosificacion",
+        "contactos",
+        "incertidumbre",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se integra la pliometría en un entrenamiento táctico?",
+        "¿Cuántos contactos semanales de pliometría son ideales en etapa Pre-PHV?",
+        "¿Qué ejercicios pliométricos usar antes del estirón puberal?"
+      ],
+      "related_terms": [
+        "pre-phv",
+        "integración",
+        "práctica",
+        "load management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los beneficios de la pliometría sobre las distintas variables del movimiento deportivo.",
+      "context_after": "Se avanza biológicamente para explicar cómo intervenir de manera segura cuando el niño entra de lleno en su pico de crecimiento."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:07:05",
+      "end_timestamp": "00:09:07",
+      "start_seconds": 425,
+      "end_seconds": 547,
+      "duration_seconds": 122,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=425",
+      "title": "Ajustes y control de cargas durante Circa-PHV y Post-PHV",
+      "summary": "Durante el pico de crecimiento (Circa-PHV), es esencial proteger las estructuras regresando a estadios controlados, individualizando la carga ante la aparición de algias o molestias (ej. Osgood-Schlatter). Posteriormente, en etapa Post-PHV, el volumen se incrementa a 100-140 saltos/semana, combinando beneficios neurales y estructurales para reducir el riesgo lesional en adultos.",
+      "literal_quote": "Dentro del PHV, muchas veces tenemos que regresar, muchas veces tenemos que intentar proteger las estructuras y al propio deportista... Cuando ya está pasando este PHV... ya podemos aumentar un poquito el volumen de entrenamiento... hasta 100, 140 saltos por semana.",
+      "full_transcript": "Dentro del PHV, muchas veces tenemos que regresar, muchas veces tenemos que intentar proteger las estructuras y al propio deportista. Intentamos hacerlo a menudo en estadios más o menos controlados, con una reactividad media. El volumen puede aumentar ligeramente... Pero sí que tenemos que tener muy en cuenta que aquí nos podemos encontrar con niños que estén con las limitaciones que hablábamos... de molestias por crecimiento, Osgood, algias, etcétera. Y aquí sí que tenemos que estar muy atentos a individualizar al máximo las cargas y los contenidos de entrenamiento. Por eso medimos el PHV. Cuando ya está pasando este PHV... ya podemos aumentar un poquito el volumen de entrenamiento, aplicar este volumen de forma constante durante dos o tres veces por semana, hasta 100, 140 saltos por semana, no más... como aquí va a beneficiarse muy vía neural y empezará en algunos casos a también hacerlo vía estructural, el jugador tendrá un cuerpo diferente... Y por último, cuando ya es un PHV consolidado... utilizamos incluso este trabajo pliométrico junto con el de equilibrio... como medio de entrenamiento para reducir el riesgo de lesión también.",
+      "keywords": [
+        "circa-phv",
+        "post-phv",
+        "individualizacion",
+        "osgood",
+        "volumen",
+        "riesgo-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué ajustes hacer en la carga durante el pico de crecimiento o PHV?",
+        "¿Cuántos saltos pliométricos semanales puede hacer un jugador en etapa Post-PHV?",
+        "¿Por qué es importante individualizar los entrenamientos durante el Circa-PHV?"
+      ],
+      "related_terms": [
+        "circa-phv",
+        "post-phv",
+        "control",
+        "de",
+        "cargas",
+        "injury prevention"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la progresión rítmica del salto previo al estirón puberal.",
+      "context_after": "Se matiza que en ocasiones se sacrifican tiempos de contacto en favor de proteger al jugador (ej. entrenando en césped natural)."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:10:26",
+      "end_timestamp": "00:12:23",
+      "start_seconds": 626,
+      "end_seconds": 743,
+      "duration_seconds": 117,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=626",
+      "title": "Conclusiones 1 y 2: La maduración condiciona, la calidad prioriza",
+      "summary": "Primera conclusión: la maduración biológica ayuda a explicar el contexto y condiciona el entrenamiento, pero no lo determina en su totalidad ni debe confundirse con el talento. Segunda conclusión: el entrenamiento físico infantil se fundamenta en la calidad y variabilidad motriz al organizar el cuerpo (desarrollo de patrones), no en el volumen de kilos levantados o velocidades máximas alcanzadas.",
+      "literal_quote": "La maduración condiciona... pero no determina. Incluso podemos tomar el riesgo de confundir desarrollo con talento... El desarrollo físico se construye a través de cómo se mueve el deportista. No sobre cuánto levanta, cuánto corre.",
+      "full_transcript": "Lo primero es que entendamos que la maduración condiciona, por eso la medimos, pero no determina. Es decir, la maduración nos ayuda a explicar diferencias que hay entre unos chicos y otros... Incluso podemos tomar el riesgo de confundir desarrollo con talento. Por eso decimos que este elemento de maduración... nos ayuda y nos condiciona, pero no lo determina. Por tanto, ¿qué podemos hacer? Interpretar bien el rendimiento y el contexto biológico del niño... ajustar nuestras expectativas y los \"feedback\" que le damos en el entrenamiento... El segundo punto es que la base es el desarrollo de los patrones. Esto lo hemos visto en la segunda clase. El desarrollo físico se construye a través de cómo se mueve el deportista. No sobre cuánto levanta, cuánto corre. En fútbol, en este caso... en población infantil, trabajamos sobre todo en cómo se mueve, sobre todo sobre la calidad. Por tanto, en la práctica trabajamos sobre la calidad técnica, sobre la variabilidad motriz y sobre la calidad del movimiento. No tanto sobre el volumen, la velocidad, etcétera. Por tanto, priorizamos tareas que exijan una organización corporal.",
+      "keywords": [
+        "maduracion",
+        "desarrollo",
+        "talento",
+        "patrones-movimiento",
+        "calidad-tecnica",
+        "variabilidad-motriz"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre desarrollo madurativo y talento?",
+        "¿Debe importar más cuánto peso levanta un niño o cómo se mueve?",
+        "¿Cómo influye el estado de maduración en la toma de decisiones?"
+      ],
+      "related_terms": [
+        "maduración",
+        "desarrollo",
+        "de",
+        "patrones",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin de la exposición de vídeos prácticos para dar inicio a la recapitulación y las 7 conclusiones definitivas del seminario.",
+      "context_after": "El ponente avanza hacia las conclusiones 3 y 4, centradas en la fuerza y el manejo de los picos biológicos."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:12:23",
+      "end_timestamp": "00:13:43",
+      "start_seconds": 743,
+      "end_seconds": 823,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=743",
+      "title": "Conclusiones 3 y 4: La fuerza como soporte y la gestión del PHV",
+      "summary": "Tercera conclusión: la fuerza es el eje de todas las acciones del juego, mejorando la intensidad repetida y reduciendo lesiones (lo cual aumenta la disponibilidad del deportista). Cuarta conclusión: el Peak Height Velocity (PHV) es una ventana de riesgo y oportunidad que requiere reajustar proactivamente el volumen, la intensidad y reentrenar la técnica para paliar desajustes coordinativos.",
+      "literal_quote": "El entrenamiento de fuerza en los deportes es el soporte de todas las acciones de juego... usamos este PHV como ventana de riesgo en algunos casos o ventanas de oportunidad... nos exige adaptación.",
+      "full_transcript": "El tercero es que la fuerza es el eje del desarrollo físico en general. Tanto del sprint, de la eficiencia mecánica, de la prevención de lesiones. Y, por tanto, no es un contenido que hagamos de vez en cuando cuando tengo 20 minutos libres. No, el entrenamiento de fuerza en los deportes es el soporte de todas las acciones de juego... nos ayuda a mejorar los niveles de fuerza, a ser capaces de repetir acciones de alta intensidad, nos ayuda a reducir la ineficiencia mecánica de los movimientos y, por tanto... si te lesionas menos, estás más disponible. Se sabe que estar más disponible o tener más gente disponible te ayuda a ganar. El cuarto elemento es el PHV. Tened en cuenta, una vez más, que usamos este PHV como ventana de riesgo en algunos casos o ventanas de oportunidad en otros momentos. No es un problema, simplemente es un momento sensible y nos exige adaptación. Nos exige que estemos atentos a los cambios corporales, que estemos atentos a estos desajustes de coordinación y que nosotros ajustemos, por lo tanto, el volumen, la intensidad, el control y la necesidad de reentrenar la técnica, etcétera.",
+      "keywords": [
+        "fuerza",
+        "soporte",
+        "prevencion-lesiones",
+        "disponibilidad",
+        "phv",
+        "adaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué la fuerza es el eje del desarrollo físico infantil?",
+        "¿Qué implicaciones tiene el PHV en la prevención de lesiones?",
+        "¿Cómo justifica la fuerza la disponibilidad de un jugador en la competición?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "phv",
+        "prevención",
+        "de",
+        "lesiones",
+        "load management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron como bases la interpretación madurativa y la calidad técnica del movimiento.",
+      "context_after": "Se concluye con las pautas de evaluación de datos, la individualización y la filosofía que busca objetivos a largo plazo sobre resultados inmediatos."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "High Performance Science Specialist - Fuerza y Potencia en Niños (Parte 4)",
+      "speaker": "Miguel Alonso",
+      "start_timestamp": "00:13:43",
+      "end_timestamp": "00:16:51",
+      "start_seconds": 823,
+      "end_seconds": 1011,
+      "duration_seconds": 188,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=823",
+      "title": "Conclusiones finales: Visión a largo plazo y preparación para el alto rendimiento",
+      "summary": "Medir datos en crudo no basta, hay que interpretar la tendencia. El proceso exige una progresión individual ajustando complejidades. Filosóficamente, no se entrena para el éxito del fin de semana, sino que cada dosis física es un ladrillo para construir adultos competentes en el alto rendimiento. No se busca maximizar su estado temprano, sino prepararlos para alcanzar su máximo potencial a futuro.",
+      "literal_quote": "Las sesiones de fuerza son dosis, medidas controladas, que son como ladrillos que van construyendo un muro... en el entrenamiento en jóvenes no buscamos maximizar, no queremos que lleguen a su máximo, sino que queremos progresar y prepararlos para que puedan llegar a su máximo.",
+      "full_transcript": "La quinta conclusión es que medir no es suficiente. Tenemos que interpretar. Medir por tener un Excel con muchos números no sirve. Nosotros tenemos que ser capaces de tomar decisiones gracias a estos números... es importante que analicemos de forma estable, pero que también analicemos la tendencia de estos chicos... La sexta conclusión es que la progresión debe ser individual... no todos los jugadores de nuestro equipo avanzan de la misma forma, no se encuentran en la misma fase. Por tanto, tenemos que ser capaces de adaptar nuestro progreso, nuestro programa... si podemos modificar la complejidad y no solo la intensidad de las tareas... El séptimo es que el objetivo real del proceso para nosotros es construir para el futuro. No es: vamos a construirlo porque este fin de semana vamos a jugar contra no sé quién y podemos aprovechar que son muy malos y si le entrenamos, hacemos una sesión de fuerza muy fuerte. No. Las sesiones de fuerza son dosis, medidas controladas, que son como ladrillos que van construyendo un muro... el muro es el momento en el que el jugador o el deportista llegue a ser un adulto competente y con todos los requerimientos del alto rendimiento... Por último, importante y a modo ya de colofón, no entrenamos a edades, entrenamos a organismos que están en desarrollo. Nosotros tenemos que entender, y esto para mí es fundamental, que en el entrenamiento en jóvenes no buscamos maximizar, no queremos que lleguen a su máximo, sino que queremos progresar y prepararlos para que puedan llegar a su máximo.",
+      "keywords": [
+        "interpretacion-datos",
+        "individualizacion",
+        "vision-largo-plazo",
+        "adulto-competente",
+        "organismos-desarrollo",
+        "preparar-maximizar"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué actitud debe tener un entrenador ante los datos o test?",
+        "¿Por qué no se debe buscar el máximo rendimiento físico en niños?",
+        "¿Cuál es el verdadero objetivo de entrenar fuerza en edades tempranas?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "individualización",
+        "visión",
+        "a",
+        "largo",
+        "plazo",
+        "methodology"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se destacó el papel protector y potenciador que tiene la fuerza alrededor de las etapas de maduración puberal.",
+      "context_after": "Despedida del ponente, cierre de la sesión formativa ofreciendo vías de contacto para dudas y reflexiones finales."
+    }
+  ]
+}
