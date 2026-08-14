@@ -1,0 +1,578 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+    "speaker": "Leandro Javier Jorge",
+    "total_duration": "00:33:15",
+    "total_duration_seconds": 1995,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:03:10",
+      "start_seconds": 4,
+      "end_seconds": 190,
+      "duration_seconds": 186,
+      "timestamp_url": "?t=4",
+      "title": "Presentación y estructura del staff multidisciplinario",
+      "summary": "Leandro Javier Jorge introduce su experiencia de 20 años y su rol en la Selección Colombiana. Destaca que el trabajo en selecciones no es unipersonal, sino que depende de una estructura robusta que incluye cuerpo técnico, médico, analistas de video, seguridad y logística.",
+      "literal_quote": "Yo voy a hablar de un trabajo que en realidad no es mío, sino el conjunto de toda esta gente que integra el staff permanente en los microciclos de selección.",
+      "full_transcript": "Hola, buenas tardes a todos. Mi nombre es Leandro Javier Jorge. Primeramente, quiero agradecer a la organización por invitarme a ser parte de esta certificación. Como verán, me desempeño hace más de 20 años como preparador físico en el fútbol profesional y desde 2022 a la actualidad soy el preparador físico de la Selección Colombiana de Fútbol de mayores. La idea es compartir con ustedes el trabajo de selección... Yo voy a hablar de un trabajo que en realidad no es mío, sino el conjunto de toda esta gente que integra el staff permanente en los microciclos de selección... El cuerpo técnico está conformado por dos ayudantes de campo, dos preparadores físicos, estoy yo y Damián Lanata, que es el analista de rendimiento, un entrenador de arquero y dos analistas de video. El cuerpo médico con dos médicos... Me parece importante nombrarlos a todos porque es un trabajo que, como van a ver, requiere de todos nosotros y no es unipersonal.",
+      "keywords": [
+        "staff-multidisciplinario",
+        "seleccion-colombia",
+        "cuerpo-tecnico",
+        "cuerpo-medico",
+        "logistica"
+      ],
+      "entities": [
+        "Leandro Javier Jorge",
+        "Selección Colombiana de Fútbol",
+        "Néstor Lorenzo",
+        "Damián Lanata"
+      ],
+      "topics": [
+        "Staff Management",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo está conformado el staff de una selección nacional de fútbol?",
+        "¿Qué roles incluye el cuerpo técnico y médico en la Selección de Colombia?"
+      ],
+      "related_terms": [
+        "staff",
+        "cuerpo",
+        "técnico",
+        "multidisciplinario",
+        "selección"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "Transición hacia el trabajo que se realiza cuando la selección no tiene fechas competitivas cercanas."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:03:10",
+      "end_timestamp": "00:06:29",
+      "start_seconds": 190,
+      "end_seconds": 389,
+      "duration_seconds": 199,
+      "timestamp_url": "?t=190",
+      "title": "Seguimiento integral de jugadores sin competencia",
+      "summary": "Fuera de fechas FIFA, el staff realiza un seguimiento continuo de 50-60 jugadores. Esto incluye visorías presenciales o por TV, seguimiento médico post-partido (vía WhatsApp) y control de rendimiento en comunicación constante con los preparadores físicos de sus clubes.",
+      "literal_quote": "Básicamente, nosotros seguimos a unos 50 o 60 jugadores, abarcando esta lista diariamente. Y con ellos lo que se hace es una visoría.",
+      "full_transcript": "El primer momento, donde no hay competencia, vamos a hablar de lo que es detección y seguimiento... Básicamente, nosotros seguimos a unos 50 o 60 jugadores, abarcando esta lista diariamente. Y con ellos lo que se hace es una visoría. Nosotros vivimos en Colombia, partidos que se juegan en Colombia... tratamos de ir a verlos. Un seguimiento técnico que tiene que ver más que nada con cómo jugaron... Un seguimiento médico, nosotros a través de un grupo de WhatsApp, a estos 50, 60 jugadores que seguimos se les pregunta cada vez que termina un partido cómo terminaron... Y un seguimiento de rendimiento, que tiene que ver más con mi área, que es la comunicación permanente con los clubes, con los mismos chicos, teniendo los datos de rendimiento del fin de semana de su competencia. En algunos casos, también acompañamos con rutinas personales a contraturno cuando nos lo solicitan.",
+      "keywords": [
+        "seguimiento",
+        "visorias",
+        "comunicacion",
+        "clubes",
+        "rendimiento",
+        "rutinas-personales"
+      ],
+      "entities": [
+        "WhatsApp"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué hace una selección de fútbol cuando no hay competencia?",
+        "¿Cómo se controla a los jugadores en el día a día desde la selección?"
+      ],
+      "related_terms": [
+        "seguimiento",
+        "rendimiento",
+        "comunicación",
+        "clubes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del organigrama y staff de la Selección de Colombia.",
+      "context_after": "Se avanza al segundo momento: la planificación y logística cuando se acerca la fecha FIFA."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:06:29",
+      "end_timestamp": "00:10:26",
+      "start_seconds": 389,
+      "end_seconds": 626,
+      "duration_seconds": 237,
+      "timestamp_url": "?t=389",
+      "title": "Logística, avanzadas y contexto geográfico",
+      "summary": "La planificación previa a una Fecha FIFA es exhaustiva e incluye el análisis del contexto geográfico (altitud, temperatura, husos horarios) y viajes de 'avanzada' para seleccionar hoteles y campos de entrenamiento evaluando distancias, seguridad y comodidad.",
+      "literal_quote": "A partir de determinar dónde es, empieza ya una parte más compleja de la logística, que es la cantidad de horas de vuelo, empezar a ver el cambio de huso horario, en qué condiciones geológicas o climáticas vamos a competir.",
+      "full_transcript": "No me voy a detener mucho más en esto para meternos ya en la segunda parte, que me parece que es la más interesante, que es la preparación y gestión ya del microciclo... Primero, obviamente, dónde se juega el partido... A partir de determinar dónde es, empieza ya una parte más compleja de la logística, que es la cantidad de horas de vuelo, empezar a ver el cambio de huso horario, en qué condiciones geológicas o climáticas vamos a competir. Podés cambiar una temperatura de 35 o 36 grados y una humedad altísima en Barranquilla, a ir a Buenos Aires en invierno a tener 10 grados o menos. Podés ir a Bolivia, al Alto, como nos tocó, y pasar a jugar a 4.150 metros de altura... Ya en las avanzadas, que llamamos nosotros, la elección de los hoteles, los campos de entrenamiento, determinar todos los tiempos de traslados. Eso particularmente lo hago yo con gente de la federación. Viajamos de antemano a elegir los lugares que vamos a utilizar.",
+      "keywords": [
+        "logistica",
+        "planificacion",
+        "avanzadas",
+        "clima",
+        "altitud",
+        "huso-horario"
+      ],
+      "entities": [
+        "Barranquilla",
+        "Buenos Aires",
+        "Bolivia",
+        "El Alto",
+        "Quito"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Proceso",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica la logística geográfica en Sudamérica?",
+        "¿Qué son las 'avanzadas' en la organización de una selección nacional?"
+      ],
+      "related_terms": [
+        "avanzadas",
+        "clima",
+        "huso",
+        "horario",
+        "traslados"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del seguimiento a jugadores durante el año en sus clubes.",
+      "context_after": "Se presenta el análisis detallado de minutos de juego de los posibles convocados."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:10:26",
+      "end_timestamp": "00:11:48",
+      "start_seconds": 626,
+      "end_seconds": 708,
+      "duration_seconds": 82,
+      "timestamp_url": "?t=626",
+      "title": "Análisis temporal de minutos para convocatorias",
+      "summary": "Para aportar a las decisiones de convocatoria, se fraccionan y analizan los minutos de juego del último año de cada futbolista en tres cortes (último año, 6 meses y 3 meses), permitiendo observar tendencias y estados de forma actuales en lugar de una foto estática.",
+      "literal_quote": "Hacemos esos tres cortes para no quedarnos con una foto, sino ver la película entera.",
+      "full_transcript": "También otra cosa que hacemos en esa logística previa o en esa preparación... analizar los minutos del jugador en el último año de competencia. Nosotros lo fraccionamos en el último año, en los últimos seis meses y en los últimos tres meses. Acá estamos viendo el último año, están ordenados jugador uno a nueve en base a la cantidad de minutos. Hacemos esos tres cortes para no quedarnos con una foto, sino ver la película entera. Acá podemos ver cómo en un año, en ese último año, el jugador nueve tiene pocos minutos, pero si ese corte, por ejemplo, lo hacemos en el jugador ocho, tenía pocos minutos, era el anteúltimo, ahora ya llega en el último trimestre, es el segundo jugador ya con 800 minutos... Tratamos de darle esta información al cuerpo técnico para que sea uno más de los datos que tiene a la hora de elegir los jugadores que van a ser convocados.",
+      "keywords": [
+        "minutos-juego",
+        "analisis-tendencias",
+        "cortes-temporales",
+        "toma-decisiones",
+        "convocatoria"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo analiza una selección los minutos jugados por un futbolista?",
+        "¿Por qué se segmentan los minutos de juego en diferentes trimestres?"
+      ],
+      "related_terms": [
+        "minutos",
+        "trimestre",
+        "tendencias",
+        "convocados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de las visitas de avanzada para evaluar hoteles y traslados.",
+      "context_after": "Explicación del proceso de coordinación de vuelos post-partido para favorecer la recuperación."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:11:48",
+      "end_timestamp": "00:13:49",
+      "start_seconds": 708,
+      "end_seconds": 829,
+      "duration_seconds": 121,
+      "timestamp_url": "?t=708",
+      "title": "Gestión de vuelos orientada a la recuperación",
+      "summary": "La selección elige cuidadosamente cada vuelo post-partido de los jugadores. No siempre se selecciona la salida más inmediata; a menudo se prioriza una opción posterior que permita al jugador dormir y recuperarse antes de viajar.",
+      "literal_quote": "Por ejemplo, no siempre la salida más rápida pospartido es la mejor opción... a veces entre tomar el primer vuelo y dar un par de horas más, elegimos esta opción porque le permite descansar un poco más.",
+      "full_transcript": "Para que ustedes vayan viendo la logística, nosotros lo primero que realmente tenemos y lo único que tenemos seguro son los minutos de competencia... A partir de ahí, empezamos a determinar cada uno de los vuelos. Si bien hay una agencia que se encarga de ayudarnos, particularmente nosotros con Damián revisamos vuelo por vuelo las distintas opciones. Por ejemplo, no siempre la salida más rápida pospartido es la mejor opción. Muchas veces sí, si le permite viajar de noche y descansar durante el vuelo, el jugador generalmente elige esta propuesta, pero si ya hay que esperar, a veces entre tomar el primer vuelo y dar un par de horas más, elegimos esta opción porque le permite descansar un poco más.",
+      "keywords": [
+        "vuelos",
+        "recuperacion",
+        "descanso",
+        "logistica",
+        "viajes"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Decisión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué criterio se usa para comprar pasajes de avión para futbolistas?",
+        "¿Por qué no siempre se toma el primer vuelo después de un partido?"
+      ],
+      "related_terms": [
+        "vuelos",
+        "descanso",
+        "itinerarios",
+        "agencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis del minutaje de juego para definir las convocatorias.",
+      "context_after": "Se presenta cómo se estructura el primer día de concentración con jugadores llegando con diferentes cargas."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:13:49",
+      "end_timestamp": "00:17:01",
+      "start_seconds": 829,
+      "end_seconds": 1021,
+      "duration_seconds": 192,
+      "timestamp_url": "?t=829",
+      "title": "Categorización de cargas y adaptación del volumen",
+      "summary": "Al inicio del microciclo, los jugadores se agrupan según su último día de competencia (+1, +2 o recuperado). Debido a que a veces solo tienen un día con el grupo completo antes del partido, ese día específico puede tener un volumen ligeramente mayor al de un club.",
+      "literal_quote": "Desde la carga normal que capaz realizaríamos en un club, puede ser que el volumen de ese día sea un poquito mayor al normal... por ser el único día que se tiene para juntarlos a todos y prepararlos.",
+      "full_transcript": "El viernes está el primer partido... Nosotros lo primero que hacemos es... ir armando el día del partido que ellos juegan. Si el jugador que juega el domingo... el lunes... va a estar en un más uno, el jugador que jugó el sábado va a estar en un más dos y el jugador que jugó el viernes va a estar en un más tres. A su vez, esto se puede separar en si el jugador no solo jugó, sino cuánto jugó, si fue suplente... Esta fecha FIFA, como van a ver en otro gráfico que vamos a mostrar después, podría haber sido el jueves y en ese caso solamente contaríamos con un día con todos los jugadores a disposición del técnico para trabajar con normalidad. Esto obviamente modifica la planificación, ya que tenemos un solo día muchas veces para preparar ese partido. Entonces, desde la carga normal que capaz realizaríamos en un club, puede ser que el volumen de ese día sea un poquito mayor al normal o al que se haría en un club, por ser el único día que se tiene para juntarlos a todos.",
+      "keywords": [
+        "mas-uno",
+        "mas-dos",
+        "clasificacion-cargas",
+        "volumen",
+        "microciclo",
+        "fecha-fifa"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se agrupa a los jugadores al llegar a una selección?",
+        "¿Por qué se aumenta el volumen de carga en selecciones en un único día?"
+      ],
+      "related_terms": [
+        "más",
+        "uno",
+        "volumen",
+        "carga",
+        "agrupación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la coordinación de vuelos post-partido.",
+      "context_after": "Se explica por qué entrenan de tarde y cómo esto encaja con los viajes largos de Europa y Asia."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:17:01",
+      "end_timestamp": "00:20:17",
+      "start_seconds": 1021,
+      "end_seconds": 1217,
+      "duration_seconds": 196,
+      "timestamp_url": "?t=1021",
+      "title": "Estrategia de horarios y adaptación a vuelos extremos",
+      "summary": "Para maximizar la cantidad de jugadores disponibles, las sesiones suelen realizarse por las tardes, esperando a quienes aterrizan el mismo día. La planificación es muy dinámica, debiendo integrar a futbolistas con viajes de hasta 34 horas y grandes diferencias de huso horario.",
+      "literal_quote": "Nosotros tratamos de aprovechar al máximo los jugadores y si entrenáramos por la mañana nos estaríamos perdiendo capaz de siete u ocho jugadores que llegan a lo largo del día.",
+      "full_transcript": "Acá importante comentar, nosotros en Selección entrenamos por lo menos casi siempre y de local seguro, por las tardes, porque nos permite la posibilidad de contar con más jugadores. Nosotros tratamos de aprovechar al máximo los jugadores y si entrenáramos por la mañana nos estaríamos perdiendo capaz de siete u ocho jugadores que llegan a lo largo del día. Entonces, tratamos siempre de que el entrenamiento sea por la tarde, por lo menos los primeros días, hasta que vamos logrando que todos vayan llegando... A la derecha es la lista de jugadores con los horarios de salida y llegada, cuántas escalas tienen y cuánto es el tiempo total de vuelo. Nosotros tenemos jugadores que vienen, por ejemplo, de Rusia cuando les toca jugar fecha eliminatoria y se juntan con nosotros acá en Sudamérica. Estamos hablando a veces de 33 o 34 horas de vuelo, con seis a ocho horas o más de cambio de huso horario... En una semana larga solemos tener un día de recuperación pasiva... un día de recuperación activa... otro día donde trabajamos más sobre espacios chicos... otro día de espacios más grandes.",
+      "keywords": [
+        "horarios",
+        "entrenamiento-tarde",
+        "vuelos-largos",
+        "llegadas",
+        "adaptacion",
+        "jet-lag"
+      ],
+      "entities": [
+        "Rusia",
+        "Sudamérica"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Estrategia",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué las selecciones sudamericanas prefieren entrenar por la tarde?",
+        "¿Cómo afectan los vuelos largos desde Europa en la programación?"
+      ],
+      "related_terms": [
+        "tarde",
+        "vuelos",
+        "horas",
+        "huso",
+        "horario"
+      ],
+      "relevance_score": 4,
+      "context_before": "Clasificación de las cargas de entrenamiento según el último partido jugado.",
+      "context_after": "El análisis se dirige hacia la evaluación del desempeño físico del próximo rival."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:20:17",
+      "end_timestamp": "00:21:43",
+      "start_seconds": 1217,
+      "end_seconds": 1303,
+      "duration_seconds": 86,
+      "timestamp_url": "?t=1217",
+      "title": "Análisis físico y predictivo del rival",
+      "summary": "Se comparte con el cuerpo técnico un análisis del rival usando datos históricos (ej. del Mundial) para entender su intensidad en metros por minuto y comportamiento por tiempos. Esto permite hacer comparativas con los propios jugadores.",
+      "literal_quote": "Encontrábamos en metros por minuto la intensidad, donde se encontraba en el primer tiempo por minuto, el rival y en el segundo tiempo, para ver a qué partido de los que nosotros jugamos se podía asemejar.",
+      "full_transcript": "En caso de que podamos, también compartimos desde el área de rendimiento del cuerpo técnico un análisis del rival con el que nos vamos a encontrar. Este es un caso real... usamos los datos que había del mundial... Encontrábamos en metros por minuto la intensidad, donde se encontraba en el primer tiempo por minuto, el rival y en el segundo tiempo, para ver a qué partido de los que nosotros jugamos se podía asemejar. Eso lo podemos ver en metros por minuto totales. También era un equipo que generalmente tenía primeros tiempos mucho más intensos y más largos... Muchas veces, si contamos con esos datos, hacemos una comparativa entre los jugadores del rival y los nuestros que lo van a enfrentar.",
+      "keywords": [
+        "analisis-rival",
+        "metros-minuto",
+        "intensidad",
+        "comparativa",
+        "data"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo se usa el análisis de datos físicos del rival?",
+        "¿Qué métricas se comparan con los oponentes de selecciones?"
+      ],
+      "related_terms": [
+        "rival",
+        "metros",
+        "por",
+        "minuto",
+        "comparativa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la logística de arribos y estructuración macro de la semana.",
+      "context_after": "Se presenta la filosofía y directriz principal de entrenamiento dentro de la selección."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:21:43",
+      "end_timestamp": "00:24:19",
+      "start_seconds": 1303,
+      "end_seconds": 1459,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=1303",
+      "title": "Filosofía: Respetar la carga y rutinas del club",
+      "summary": "El staff físico adopta la premisa de no alterar drásticamente los entrenamientos de los futbolistas. Priorizan imitar la semana normal del jugador en su club, asegurando disponibilidad para el DT y manteniendo el estado de forma de los que no juegan.",
+      "literal_quote": "Nosotros vamos planificando partido a partido como si fuera una semana normal de entrenamiento en sus clubes y respetando... No hacemos grandes cambios, porque nosotros no los entrenamos a los jugadores, tenemos muy poco tiempo.",
+      "full_transcript": "La lógica que utilizamos, que me parece que es lo más importante para compartir y que entiendan nuestra lógica, no es una verdad, es tratar de seguir la carga semanal normal que tienen los jugadores. Nosotros vamos planificando partido a partido como si fuera una semana normal de entrenamiento en sus clubes y respetando. Obviamente, nosotros hacemos trabajo de fuerza... Hablamos mucho con los clubes, sabemos cuáles son las rutinas personales que tienen... No hacemos grandes cambios, porque nosotros no los entrenamos a los jugadores, tenemos muy poco tiempo. Los jugadores se entrenan en sus clubes y nosotros, en el poco tiempo que tenemos, la prioridad está en que, primero, el técnico pueda contar con todos en los dos partidos y de la mejor manera posible y, en segundo orden, que el jugador que está con nosotros no pierda estado de forma en esos 9, 10 u 11 días que puede estar con nosotros.",
+      "keywords": [
+        "filosofia",
+        "carga-semanal",
+        "rutinas-clubes",
+        "estado-forma",
+        "disponibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Filosofía",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol del preparador físico en un ciclo corto de selección?",
+        "¿Por qué las selecciones evitan cambiar las rutinas físicas de los clubes?"
+      ],
+      "related_terms": [
+        "clubes",
+        "carga",
+        "semanal",
+        "estado",
+        "de",
+        "forma"
+      ],
+      "relevance_score": 5,
+      "context_before": "Uso de datos para predecir el perfil atlético del rival.",
+      "context_after": "Se detalla cómo esta filosofía se lleva al campo manejando grupos con tiempos de recuperación mixtos."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:24:19",
+      "end_timestamp": "00:27:31",
+      "start_seconds": 1459,
+      "end_seconds": 1651,
+      "duration_seconds": 192,
+      "timestamp_url": "?t=1459",
+      "title": "Optimización del tiempo con grupos mixtos y sparrings",
+      "summary": "Para aprovechar el limitado tiempo juntos, una sesión puede iniciar uniendo jugadores en recuperación activa y otros listos para alta intensidad. A medida que avanza, los que recuperan van al gimnasio y los aptos realizan trabajos reducidos, a menudo integrando sparrings juveniles.",
+      "literal_quote": "Arrancamos el entrenamiento con 10, hacemos algún trabajo que permita que les sirva a los que están en recuperación y que sea a su vez como entrar en calor para el resto.",
+      "full_transcript": "Nosotros, como el mayor problema que tenemos es que tenemos poco tiempo, los jugadores conviven poco tiempo juntos, están en distintos clubes, en distintos países, tratamos de aprovechar al máximo el tiempo de que los podamos reunir. Entonces, por ejemplo, siendo el lunes, es probable que los que estén en un más uno se queden dentro... haciendo recuperación. Pero, por ejemplo, ya los jugadores que están en un más dos, tratamos de sacarlos al campo y hacer un entrenamiento... Arrancamos el entrenamiento con 10, hacemos algún trabajo que permita que les sirva a los que están en recuperación y que sea a su vez como entrar en calor para el resto. Después de esos 10, capaz en la segunda parte del entrenamiento ya nos quedamos con siete jugadores y hacemos una segunda tarea. En esa segunda tarea salen estos jugadores que comenté... Obviamente, esto lo completamos con sparring. De hecho, es muy común a veces trabajar con 10 u 11 sparrings de un jugador solo nuestro.",
+      "keywords": [
+        "grupos-reducidos",
+        "recuperacion-activa",
+        "sparrings",
+        "optimizacion-tiempo",
+        "modularidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Estrategia"
+      ],
+      "search_questions": [
+        "¿Cómo se maneja un grupo donde los jugadores tienen diferentes días de fatiga?",
+        "¿Cuál es el rol de los sparrings en los entrenamientos de selección?"
+      ],
+      "related_terms": [
+        "mixtos",
+        "entrar",
+        "en",
+        "calor",
+        "sparrings"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición de la filosofía de respetar la carga de cada futbolista.",
+      "context_after": "Se muestran los videos del entrenamiento pre-partido en Barranquilla."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:27:31",
+      "end_timestamp": "00:30:45",
+      "start_seconds": 1651,
+      "end_seconds": 1845,
+      "duration_seconds": 194,
+      "timestamp_url": "?t=1651",
+      "title": "Táctica discontinua y el juego como herramienta MD-1",
+      "summary": "En las sesiones pre-partido (MD-1), los trabajos tácticos en espacios grandes se abordan de manera discontinua. Simultáneamente, se introducen actividades lúdicas de reacción enfocadas en generar relaciones y un excelente clima grupal antes de competir.",
+      "literal_quote": "Tratamos de jugar mucho. El juego es una herramienta que tenemos como profe muy linda, muy importante, que nos permite que el grupo se relacione, que genere buen clima.",
+      "full_transcript": "Los prepartidos... Como les decía antes, esto es en el estadio de Barranquilla... Como ven, capaz este es el único día en esa semana que se tuvo al grupo entero como para hacer algún trabajo táctico en espacios grandes. La idea es aprovechar ese día. Tal vez el volumen de ese entrenamiento... puede ser un poco más alto... es una actividad muy discontinua y se corrige. Otro día menos uno, les comparto también, particularmente ese día a mí me gusta mucho hacer actividades lúdicas con el equipo, tanto en el hotel como en campo. En los menos unos hacemos siempre juegos que tienen que ver con velocidad de reacción. Tratamos de jugar mucho. El juego es una herramienta que tenemos como profe muy linda, muy importante, que nos permite que el grupo se relacione, que genere buen clima. Todos los beneficios que sabemos como docentes que tiene el juego, nosotros jugamos mucho en la medida que podemos.",
+      "keywords": [
+        "prepartido",
+        "md-1",
+        "juegos",
+        "clima-grupal",
+        "velocidad-reaccion"
+      ],
+      "entities": [
+        "Barranquilla",
+        "Fernando Ayora",
+        "Luis Amaranto Perea"
+      ],
+      "topics": [
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué es importante integrar juegos lúdicos en el día antes del partido?",
+        "¿Cómo se trabajan los aspectos tácticos con todo el grupo un MD-1?"
+      ],
+      "related_terms": [
+        "lúdicas",
+        "juegos",
+        "clima",
+        "velocidad",
+        "de",
+        "reacción"
+      ],
+      "relevance_score": 4,
+      "context_before": "Gestión de los entrenamientos mixtos a inicios de semana.",
+      "context_after": "El enfoque gira hacia el control de la fuerza en gimnasio y predicción de cargas en cancha."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Preparación Física en la Selección Colombiana de Fútbol",
+      "speaker": "Leandro Javier Jorge",
+      "start_timestamp": "00:30:45",
+      "end_timestamp": "00:33:15",
+      "start_seconds": 1845,
+      "end_seconds": 1995,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=1845",
+      "title": "Control VBT y predicción en base de datos de ejercicios",
+      "summary": "El trabajo de fuerza prioriza el control de la velocidad (VBT) en tren inferior. Además, el equipo cruza los ejercicios programados con una base de datos propia para predecir las demandas físicas (distancia, aceleraciones) de cada sesión según la posición.",
+      "literal_quote": "Nosotros trabajamos con control de la velocidad VBT en los ejercicios, principalmente de tren inferior... Una vez que planificamos los ejercicios, vamos viendo lo que nos espera en distintas variables.",
+      "full_transcript": "Vamos a mostrar un poco lo que sería, por ejemplo, trabajo de fuerza... Nosotros trabajamos con control de la velocidad VBT en los ejercicios, principalmente de tren inferior. Usamos tres ejercicios básicos que son el hip thrust, la sentadilla, ya sea dos piernas, una pierna, y el peso muerto. Tratamos que cada uno lo haga en sus clubes. Con el tiempo logramos que todos lo hagan estos trabajos... Todavía estamos en la parte previa, en el armado de sesión... una base de datos con nuestros ejercicios, lo que representa para cada jugador en cada posición, medianamente el historial de esa actividad. Una vez que planificamos los ejercicios, vamos viendo lo que nos espera en distintas variables. Acá está seleccionado distancia total, arriba de 20 aceleraciones y desaceleraciones, digamos ejemplo dos actividades, el tiempo que lo haríamos y qué es lo que esperaríamos. En este caso están marcados los defensores centrales.",
+      "keywords": [
+        "fuerza",
+        "vbt",
+        "tren-inferior",
+        "database",
+        "prediccion-cargas"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué tipo de trabajo de fuerza se prioriza en la Selección de Colombia?",
+        "¿Cómo predicen los preparadores físicos la carga que generará un entrenamiento?"
+      ],
+      "related_terms": [
+        "VBT",
+        "hip",
+        "thrust",
+        "base",
+        "de",
+        "datos",
+        "predicción"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso de juegos en los días de activación MD-1.",
+      "context_after": "El ponente finaliza la fase previa y da paso al momento de diagnóstico cuando el jugador arriba."
+    }
+  ]
+}
