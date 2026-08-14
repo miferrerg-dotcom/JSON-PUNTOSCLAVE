@@ -1,0 +1,168 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+    "speaker": "Leandro Carbone",
+    "total_duration": "00:09:58",
+    "total_duration_seconds": 598,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:33",
+      "start_seconds": 0,
+      "end_seconds": 213,
+      "duration_seconds": 213,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Aplicación propia de wellness: del check-in al almacenamiento",
+      "summary": "Leandro presenta una aplicación propia para la recolección de datos de wellness. Muestra cómo los atletas pueden hacer check-in manual o recibir un formulario automatizado por correo, cuyos datos se ingieren directamente en una base de datos en la nube (Firebase).",
+      "literal_quote": "No es una aplicación que se consigue en una app store, sino que es una aplicación propia, en donde el flujo de trabajo es desde la recolección de los datos... el almacenamiento, vamos a usar una base de datos en la nube que se llama Firebase.",
+      "full_transcript": "Bienvenidos. Como les había prometido, mi idea es mostrarles el flujo que estuvimos charlando y mostrando, pero en un entorno real. En este caso, voy a utilizar una aplicación de datos de \"wellness\" que armé yo. No es una aplicación que se consigue en una \"app store\", sino que es una aplicación propia, en donde el flujo de trabajo es desde la recolección de los datos, que es el primer paso, que hay dos maneras de hacerlo. El segundo paso es el almacenamiento, vamos a usar una base de datos en la nube que se llama Firebase. Tercer paso, tenemos integrada la capa de analítica y cuarto paso, la visualización y la toma de decisiones, que está todo integrado en el mismo lugar. En este caso vamos a encontrar algunas cosas a considerar. En primer lugar es cómo tomamos los datos. Hay dos maneras. La primera es haciendo clic en \"check-in\"... Va a contestar la primera pregunta, que es sobre el sueño, calidad de sueño. Uno es bajo, 10 es bueno. Vamos a marcar acá siete, lo mismo para fatiga, energía, dolor muscular, estrés. Y si tenemos dolor, ponemos que sí y podemos cargar algún tipo de dolor... La otra opción para hacerlo es crear un formulario que sea \"morning wellness\"... con algún mensaje si es que quiero, para mandar por mail tanto al atleta como al coach al mismo tiempo que los resultados van a llegar de forma automática.",
+      "keywords": [
+        "wellness",
+        "app-propia",
+        "recoleccion-datos",
+        "firebase",
+        "check-in",
+        "automatizacion",
+        "data-science"
+      ],
+      "entities": [
+        "Firebase"
+      ],
+      "topics": [
+        "Data Science",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la aplicación propia de wellness y recolección de datos?",
+        "¿Dónde se habla de Firebase y almacenamiento de cuestionarios de wellness?",
+        "¿Cómo se automatiza el envío del formulario morning wellness a los atletas?"
+      ],
+      "related_terms": [
+        "aplicación",
+        "propia",
+        "de",
+        "wellness",
+        "firebase",
+        "recolección de datos",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la demostración práctica del sistema de datos mencionado en las partes anteriores del webinar.",
+      "context_after": "El sistema procesa automáticamente las respuestas enviadas por el atleta, actualizando la base de datos y disparando alertas inmediatas."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "03:33",
+      "end_timestamp": "06:00",
+      "start_seconds": 213,
+      "end_seconds": 360,
+      "duration_seconds": 147,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=213",
+      "title": "Análisis en tiempo real y sistema de alertas automatizadas",
+      "summary": "Al enviar el formulario de wellness, la base de datos se actualiza instantáneamente identificando niveles de riesgo (ej. sueño bajo, dolores musculares). El sistema envía correos automáticos tanto al entrenador como al atleta con alertas y primeras recomendaciones.",
+      "literal_quote": "La base de datos se va a completar automáticamente... Ya tenemos algunos marcadores, cuidado, sueño que marqué bajo, riesgo, dolor que marqué bajo, riesgo... me acaba de llegar un mail a mí como atleta y también como coach...",
+      "full_transcript": "Vamos a poner \"submit check-in\" y automáticamente van a pasar algunas cosas, que es que por un lado me avisa que llegó. Tenemos que darle unos segunditos. La base de datos se va a completar automáticamente. Yo si reseteo esto fácilmente, se va a completar la base de datos, fíjense que se actualizó. Me pone que el último registro de dolor cayó. Ya tenemos algunos marcadores, cuidado, sueño que marqué bajo, riesgo, dolor que marqué bajo, riesgo. Hay que tener cuidado, tenemos algunas banderitas. Y al mismo tiempo también, este mail lo voy a eliminar, pero me acaba de llegar un mail a mí como atleta y también como coach, porque al mismo tiempo soy las dos cosas en este caso. Tenemos el mail aquí, este llega al coach. Entonces, cuidado, porque pasó algo. En este caso, cuáles son las métricas que tenemos en riesgo, sueño y dolor muscular, al mismo tiempo dolor de espalda bajo... Hay una capa analítica atrás que está tratando de encontrar alertas de riesgo, así que ese sería el objetivo. Lo mismo le pasa en el mail que le llega al atleta. Tu check-in tiene cosas que hay que tener en cuenta y encima te da también: priorizá un buen sueño, reducí estimulantes... Dolor muscular: evitá las cargas excéntricas en lugares que te duele, hacé trabajos de movilidad...",
+      "keywords": [
+        "alertas",
+        "tiempo-real",
+        "base-datos",
+        "riesgo",
+        "fatiga",
+        "comunicacion",
+        "banderitas"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre análisis en tiempo real y alertas automatizadas?",
+        "¿Cómo funciona el envío de correos automáticos para atletas y coaches tras el wellness?",
+        "¿De qué manera el sistema identifica banderas de riesgo en el deporte?"
+      ],
+      "related_terms": [
+        "alertas",
+        "automatizadas",
+        "tiempo",
+        "real",
+        "riesgo",
+        "análisis de datos",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el flujo de ingreso de datos a través de un cuestionario enviado por correo a los deportistas.",
+      "context_after": "Se detalla el nivel de profundidad de las intervenciones automatizadas sugeridas por la plataforma, estandarizando la toma de decisiones."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "06:00",
+      "end_timestamp": "09:58",
+      "start_seconds": 360,
+      "end_seconds": 598,
+      "duration_seconds": 238,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=360",
+      "title": "Intervenciones preestablecidas y toma de decisiones integrada",
+      "summary": "Se muestra cómo la aplicación sugiere intervenciones automatizadas basadas en los datos (ej. reducir carga un 35% por dolor lumbar bajo). Esto estandariza la respuesta del cuerpo técnico y apoya la decisión final del área médica sin reemplazarla.",
+      "literal_quote": "Incluso se puede preestablecer la decisión... para sacar de la tarea de tener que estar pensando qué hacemos ahora con este q******o... que la decisión sea una parte integrada del modelo de datos.",
+      "full_transcript": "Y si corro a la derecha voy a tener intervenciones. Por ejemplo, ritmo circadiano, la calidad de los datos o la intervención es alta, la prioridad es alta. Entonces, si toco aquí me va a decir: \"Ojo con todo esto, por esto está pasando, la señal por eso está alta\". Entonces, reducí antes de apretar la \"performance\", trata de fijarte por qué... Lo mismo con \"pre-sleep nutrition\"... alineá tu ingesta de carbohidratos y proteínas con el tiempo de la sesión... Ya tenés la decisión, entre comillas, tomada. Lo mismo sería para, por ejemplo, una microdosis acá... Vamos a ver, por último, \"low back\". Tocamos acá... ¿Y cómo vas a intervenir? Reducí la carga en la zona específica, la espalda baja, digamos entre un 20 y un 35 %, evitá cosas que tengan impacto y que sean alta velocidad... priorizá ejercicios que no duelan, isométricos y carga controlada, utilizá estrategias de recuperación focales... Un poco la muestra de esto como ejemplo tiene que ver con no solamente que es importante cómo tomamos los datos... qué modelo de datos usamos, etcétera, y qué decisión vamos a tomar. Incluso se puede preestablecer la decisión, que es lo que me parece que es lo más recomendable, para sacar de la tarea de tener que estar pensando qué hacemos ahora con este q******o, que no lo vamos a eliminar nunca, pero podemos orientar por lo menos de forma estandarizada para que no haya diferencias sustanciales entre las distintas personas que están encargadas de tomar decisiones, que la decisión sea una parte integrada del modelo de datos, que después, obviamente, vos querés hacer otra cosa, está bien, puede ser lo que quieras al final del día, en este caso el médico o quien sea... es la voz mandante y la última decisión al final del día la va a tomar él, pero la vamos a sostener, la vamos a soportar o apoyar a partir de un modelo de datos bien construido, escalable y sostenible en el tiempo.",
+      "keywords": [
+        "toma-decisiones",
+        "intervencion",
+        "estandarizacion",
+        "low-back",
+        "carga-controlada",
+        "data-science",
+        "control-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre intervenciones preestablecidas y toma de decisiones?",
+        "¿Por qué es recomendable preestablecer la decisión en los sistemas de análisis deportivo?",
+        "¿Cómo apoya el modelo de datos las decisiones finales del médico del equipo?"
+      ],
+      "related_terms": [
+        "intervenciones",
+        "preestablecidas",
+        "toma",
+        "de",
+        "decisiones",
+        "integrada",
+        "control de carga",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "El sistema identificó variables de riesgo en el sueño y dolor del atleta, enviando correos automatizados.",
+      "context_after": "Fin del caso práctico en vivo y cierre final del webinar de Leandro Carbone."
+    }
+  ]
+}

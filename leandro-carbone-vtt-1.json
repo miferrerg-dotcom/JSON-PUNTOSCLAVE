@@ -1,0 +1,475 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+    "speaker": "Leandro Carbone",
+    "total_duration": "00:23:06",
+    "total_duration_seconds": 1386,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:10",
+      "start_seconds": 0,
+      "end_seconds": 190,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y rol del Data Scientist en el deporte",
+      "summary": "Leandro Carbone presenta su trayectoria profesional y su rol actual como director de Data Science y Performance Innovation en Utah Soccer. Destaca el crecimiento de las ciencias del deporte en la comunidad de habla hispana.",
+      "literal_quote": "Actualmente, me dedico a la ciencia de los datos. Es un rol bastante particular... el puesto es director de Data Science y Performance Innovation para todo lo que es la estructura de Utah Soccer.",
+      "full_transcript": "Buenas a todos. Un placer para mí estar aquí compartiendo esta clase con toda la comunidad de NSCA Spain y global. Es un poco especial para mí, porque dentro de mis tantas ocupaciones, me toca también ser uno de los representantes de la comunidad de NSCA en Latinoamérica. Y la verdad que este evento, curso, formación o certificación, es algo que yo creo que la comunidad, sobre todo de habla hispana, necesita. Es un puntapié inicial en el mundo o en el universo de lo que es las ciencias del deporte o la 'sport science', que es un rol nuevo, que está creciendo muchísimo y que creo que la comunidad de habla hispana tiene mucho para aportar en el mundo. Así que agradecerle a Ismael, a Javier, que tuve la suerte de tenerlo como jefe en el pasado, y esta convocatoria la verdad que me llena de orgullo y creo que es una gran oportunidad, como les decía, para todos, no solamente para los alumnos, sino también para los docentes, de aprender, de poder conectar, de poder generar esta oportunidad. Mi nombre es Leandro Carbone, para los que no me conocen. Actualmente, me dedico a la ciencia de los datos. Es un rol bastante particular. Empecé hace muy poquito. Técnicamente, el puesto es director de Data Science y Performance Innovation para todo lo que es la estructura de Utah Soccer, que son básicamente tres clubes más la academia de fútbol profesional. El equipo de la MLS es el Real Salt Lake. Luego tenemos el equipo de la liga femenil, que es el Utah Royals, y el de MLS Next Pro, que es una liga B, que se llama Monarchs. Y la academia, que tiene las inferiores, que está orientada al desarrollo de los futbolistas. También me desempeño como director de la comunidad Leap, que es una comunidad de habla hispana, una comunidad educativa, que básicamente ofrecemos cursos, membresías y demás. Coordino las operaciones de NSCA en Latinoamérica bajo la tutela de NSCA Spain. Por eso les contaba un poquitito que es un rol o un curso bastante particular para mí. Y hago consultoría con una empresa de plataforma de fuerza llamada Hawking Dynamics, que la verdad que también está creciendo muchísimo en la región, domina el mercado americano, entre otras cosas, de a poquitito también creciendo. Por último, me ha tocado trabajar también en la Selección Mexicana, como les contaba, junto con Javier Arnaiz, que es uno de los creadores de este proyecto. Ocupé también un breve periodo de tiempo en una empresa llamada Jadel, que es una empresa que tiene varias unidades de negocios, pero yo estaba con la parte de GPS o lo que se conoce como GPS, pero es un poco más que un GPS. Y también fui head of performance en un club de rugby en Argentina, Club San Patricio. Es un poquito mi recorrido profesional. Actualmente, como les decía, este rol un poco particular en donde básicamente estoy encargado de la estructura de datos de todos los clubes.",
+      "keywords": [
+        "data-science",
+        "sport-science",
+        "performance-innovation",
+        "introduccion",
+        "rol",
+        "cientifico",
+        "datos",
+        "professional-experience",
+        "leandro-carbone",
+        "utah-soccer",
+        "real-salt-lake"
+      ],
+      "entities": [
+        "Leandro Carbone",
+        "Utah Soccer",
+        "Real Salt Lake",
+        "Utah Royals",
+        "NSCA",
+        "Hawking Dynamics",
+        "Selección Mexicana"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Data Science"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre introducción y rol del data scientist en el deporte?",
+        "¿Dónde se habla de introducción y rol del data scientist en el deporte?",
+        "¿Cómo se aplica introducción y rol del data scientist en el deporte en sport science?"
+      ],
+      "related_terms": [
+        "introducción",
+        "y",
+        "rol",
+        "del",
+        "data",
+        "scientist",
+        "en",
+        "el",
+        "deporte",
+        "professional experience",
+        "data science"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la presentación de Leandro Carbone.",
+      "context_after": "Se detalla el marco conceptual para procesar datos. El flujo comienza en la recolección de información bruta y finaliza en la toma de una decisión fundamentada."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "03:10",
+      "end_timestamp": "06:40",
+      "start_seconds": 190,
+      "end_seconds": 400,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=190",
+      "title": "Del dato bruto a la toma de decisión",
+      "summary": "Se explica el pipeline de los datos en el deporte: pasar de la recolección de datos aislados a información, luego a conocimiento, insights, sabiduría y, finalmente, a una decisión. Sin decisión, recolectar datos no tiene sentido.",
+      "literal_quote": "No tiene absolutamente ningún sentido recolectar datos e invertir tiempo, energía, incluso dinero, en ese proceso, si esos datos no van a terminar en algún tipo de decisión.",
+      "full_transcript": "Tratando de crear herramientas y a partir de todas las infinitas fuentes de datos que un club profesional puede ya tener, desde elementos de evaluación, como decíamos, GPS, cuestionarios, datos médicos. Con todo eso, tratar de crear un proyecto que centralice toda esa información y que cada uno de los agentes, de los miembros del staff, le pueda sacar algún tipo de provecho a esa información. Creo yo que para empezar, y como breve introducción, el mundo o el universo a partir del cual nosotros estamos. Yendo un poquito para atrás, creo que el título dice bastante, la idea de crear una especie de framework a través de los datos, que va desde la recolección de los datos hasta la decisión. Yo creo que esto es superimportante de remarcar y lo voy a decir una enorme cantidad de veces durante esta charla. No tiene absolutamente ningún sentido recolectar datos e invertir tiempo, energía, incluso dinero, en ese proceso, si esos datos no van a terminar en algún tipo de decisión. Que incluso la decisión puede ser no hacer nada, es otra discusión diferente, pero tiene que ser un proceso por el cual alimenta algún tipo de proceso, valga la redundancia, que deviene en una decisión a tomar. Insisto, esto es la piedra angular de cualquier tipo de mapa de ruta del universo de los datos. Entonces, nosotros partimos desde la unidad funcional más mínima, que es el dato, que básicamente son puntos en el universo, que no tienen demasiado sentido. Esos datos los podemos transformar en información cuando empezamos a filtrarlos y decir: 'De este universo de datos, yo quiero prestarle atención a este, este, este y este', que es un proceso muchas veces pasado de largo, que tiene muchos problemas. Creo que el principal problema que nosotros encontramos tiene que ver con esto, con este paso de la data a la información, porque tiene mucha arbitrariedad. Cada uno elige a qué información le va a prestar atención, que si bien actualmente la irrupción de la inteligencia artificial y herramientas un poco más avanzadas y demás, pueden hacer de este proceso un proceso un poco mejor o más limpio, yo no creo que sea la solución definitiva. Ya nos vamos a meter un poquito más en interioridad con eso. Esa información la podemos convertir en conocimiento a través de conectarla, de conectar estos puntos que nosotros determinamos. Ese conocimiento lo podemos transformar. Me cuesta encontrar una traducción a 'insights', pero que ese conocimiento que nosotros creamos o convertimos podamos limpiarlo para que nos podamos focalizar en algunas pequeñas cosas que nos permitan en el posterior paso transformarlo en sabiduría. Este creo que es el mapa conceptual que nosotros tenemos. Necesito recolectar datos físicos a partir de los GPS. Entonces vamos a transformar esos datos físicos, que son una enorme cantidad de métricas. Vamos a tomar estas métricas: carrera de alta intensidad, metros recorridos, metros por minuto, velocidad máxima, etcétera. Esa información la tenemos que conectar con algo, no es una información aislada. Entonces, decimos: si el tipo esprintó más de lo que está acostumbrado a esprintar y acumula un volumen más alto, lo convertimos en algún tipo de conocimiento. A partir de ahí podemos mapear este conocimiento y hacer algún tipo de análisis, más bien desde el punto de vista estadístico o de los modelos que podemos llegar a crear. Y una vez que tenemos esos modelos, podemos empezar a mejorarlo a partir de las decisiones que vamos a tomar.",
+      "keywords": [
+        "framework",
+        "toma-decisiones",
+        "conocimiento",
+        "sabiduria",
+        "insights",
+        "dato",
+        "bruto",
+        "toma",
+        "decision",
+        "data-science",
+        "metodologia"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre del dato bruto a la toma de decisión?",
+        "¿Dónde se habla de del dato bruto a la toma de decisión?",
+        "¿Cómo se aplica del dato bruto a la toma de decisión en sport science?"
+      ],
+      "related_terms": [
+        "del",
+        "dato",
+        "bruto",
+        "a",
+        "la",
+        "toma",
+        "de",
+        "decisión",
+        "data science",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Leandro Carbone presenta su trayectoria profesional y su rol actual como director de Data Science y Performance Innovation en Utah Soccer. Destaca el crecimiento de las ciencias del deporte en la comunidad de habla hispana.",
+      "context_after": "Se critica la tendencia a crear modelos estadísticos excesivamente complejos. Se usa el ratio agudo-crónico como ejemplo de un constructo que puede generar falsas alarmas sobre el riesgo de lesión."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "06:40",
+      "end_timestamp": "09:00",
+      "start_seconds": 400,
+      "end_seconds": 540,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=400",
+      "title": "El peligro de sobrecomplejizar modelos en el deporte",
+      "summary": "Se critica la tendencia a crear modelos estadísticos excesivamente complejos. Se usa el ratio agudo-crónico como ejemplo de un constructo que puede generar falsas alarmas sobre el riesgo de lesión, señalando que es preferible no tener datos a tener datos engañosos.",
+      "literal_quote": "Terminamos inventando modelos, incluso a veces sobrecomplejizando las cosas y tomando decisiones obviamente malas, porque al final del día es preferible no tener datos que tener datos de m****a.",
+      "full_transcript": "Creo yo que estamos en esta situación en donde este proceso, por algún motivo que yo desconozco, en el mundo de la ciencia del deporte, se fue al pasto. Puede que tenga algún exabrupto y pido disculpas de antemano, va a pasar, pero me toca ver creación de modelos en donde nosotros, y me incluyo, terminamos siendo presos de nuestros propios inventos. Hay una frase en Argentina muy común, que es 'el invento mata al inventor', que sale también del cuento de este monstruo que se crea con piezas y después cobra vida y termina siendo un desastre. Pasa muchas veces esto. Y un ejemplo que podemos debatir en profundidad es el agudo crónico, es un modelo y terminamos metiéndonos de lleno en que el agudo crónico es una verdad absoluta y que si algún ratio totalmente arbitrario, como 0,815, nuestros datos salen de ese modelo, es un escándalo, el riesgo de lesión, y esto no es real, no pasa así. Terminamos inventando modelos, incluso a veces sobrecomplejizando las cosas y tomando decisiones obviamente malas, porque al final del día es preferible no tener datos que tener datos de m****a.",
+      "keywords": [
+        "agudo-cronico",
+        "riesgo-lesion",
+        "sobrecomplejizacion",
+        "modelos",
+        "peligro",
+        "sobrecomplejizar",
+        "deporte",
+        "analisis-datos",
+        "control-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Crítica"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre el peligro de sobrecomplejizar modelos en el deporte?",
+        "¿Dónde se habla de el peligro de sobrecomplejizar modelos en el deporte?",
+        "¿Cómo se aplica el peligro de sobrecomplejizar modelos en el deporte en sport science?"
+      ],
+      "related_terms": [
+        "el",
+        "peligro",
+        "de",
+        "sobrecomplejizar",
+        "modelos",
+        "en",
+        "el",
+        "deporte",
+        "análisis de datos",
+        "control de carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explica el pipeline de los datos en el deporte: pasar de la recolección de datos aislados a información, luego a conocimiento, insights, sabiduría y, finalmente, a una decisión. Sin decisión, recolectar datos no tiene sentido.",
+      "context_after": "Se aborda el concepto de sistemas complejos y la falacia del determinismo lineal en el rendimiento humano. Se establece que no se puede predecir el comportamiento, pero sí manipular los constreñimientos (constraints)."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "09:00",
+      "end_timestamp": "11:46",
+      "start_seconds": 540,
+      "end_seconds": 706,
+      "duration_seconds": 166,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=540",
+      "title": "La ilusión del determinismo en sistemas complejos",
+      "summary": "Se aborda el concepto de sistemas complejos y la falacia del determinismo lineal en el rendimiento humano. Se establece que no se puede predecir el comportamiento, pero sí manipular los constreñimientos (constraints) para influir probabilísticamente en el rendimiento.",
+      "literal_quote": "Nosotros lidiamos con sistemas complejos. Los sistemas complejos son impredecibles. Hay un comportamiento que emerge a partir de la interacción de sus variables, donde el todo es más importante que las partes.",
+      "full_transcript": "Tenemos cierto grado de problemas, y esta es una especie de introducción que voy a hacer un poco filosófica, que es la ilusión del determinismo, donde básicamente nosotros creemos que hacer A resulta B en forma de línea recta. Si agrego tempo runs, por ejemplo, entonces voy a acumular más HCR y ese HCR me va a disparar el riesgo de lesión. Y la realidad es que nosotros lidiamos con sistemas complejos. Los sistemas complejos son impredecibles. Hay un comportamiento que emerge a partir de la interacción de sus variables, donde el todo es más importante que las partes y que, si bien no lo podemos predecir, sí podemos actuar sobre ese sistema tratando de generar lo que se llama los 'constraints' o los constreñimientos alrededor del sistema para que emerja un comportamiento y se autoorganice. Estas son normas del funcionamiento. Nosotros creemos muchas veces que tenemos mucho control sobre los sistemas que nosotros manipulamos, en este caso el deporte, el alto rendimiento, los deportistas de alto rendimiento, o incluso creemos que tenemos definiciones muy claras de cosas que no son tan claras, como por ejemplo rendimiento deportivo. No tenemos ni idea de qué es el rendimiento deportivo, no tenemos ni forma de definirlo. La ciencia tiene muchos problemas en encontrar cómo lidiar con los eventos complejos como es el rendimiento deportivo y lo simplifica o lo sobresimplifica a partir de métricas que sí puede medir o son tangibles, como puede ser la altura del salto vertical, el VO2 máximo o la velocidad máxima. Correr más rápido o tener un VO2 máximo más alto o saltar más alto no implica un aumento en el rendimiento deportivo, porque es un evento mucho más complejo de cosas que incluso ni siquiera sabemos que están por ahí dando vueltas y que afectan este modelo. Dicho esto, lo que obviamente tampoco significa o implica, 'no hagamos nada, total, se autoorganiza todo y emerge el comportamiento'. Tampoco funciona así, porque eso sería un modelo de caos, no de complejidad, donde no tenemos ningún tipo de manera de acción directa que pueda tener algún tipo de significado real. En ese escenario, sí es verdad que nosotros podemos, conociendo las reglas del comportamiento de los sistemas complejos, tratar de manipularlo para que emerja un comportamiento desde el punto de vista probabilístico, que las chances de que pase algo sean un poquito mayores o menores en el caso de que queramos minimizarlo. Sistemas complejos se caracterizan por tener esta serie de características, valga la redundancia, que se las puede dividir en adaptación, estructura y comportamiento.",
+      "keywords": [
+        "sistemas-complejos",
+        "determinismo",
+        "rendimiento-deportivo",
+        "constraints",
+        "ilusion",
+        "performance-context",
+        "metodologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la ilusión del determinismo en sistemas complejos?",
+        "¿Dónde se habla de la ilusión del determinismo en sistemas complejos?",
+        "¿Cómo se aplica la ilusión del determinismo en sistemas complejos en sport science?"
+      ],
+      "related_terms": [
+        "la",
+        "ilusión",
+        "del",
+        "determinismo",
+        "en",
+        "sistemas",
+        "complejos",
+        "performance & context",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se critica la tendencia a crear modelos estadísticos excesivamente complejos. Se usa el ratio agudo-crónico como ejemplo de un constructo que puede generar falsas alarmas sobre el riesgo de lesión, señalando que es preferible no tener datos a tener datos engañosos.",
+      "context_after": "Se discute el uso de 'proxys' estadísticos y de medición. Dado que la realidad no se puede medir directamente, los profesionales utilizan aproximaciones (como el salto vertical) reconociendo sus limitaciones."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "11:46",
+      "end_timestamp": "14:16",
+      "start_seconds": 706,
+      "end_seconds": 856,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=706",
+      "title": "Proxies, modelos y la brecha con la realidad",
+      "summary": "Se discute el uso de 'proxys' estadísticos y de medición. Dado que la realidad no se puede medir directamente, los profesionales utilizan aproximaciones (como el salto vertical para medir potencia), reconociendo sus limitaciones y el sesgo inherente a cualquier modelo estadístico.",
+      "literal_quote": "Los proxys son... aproximaciones de la realidad, que pueden ser mejores o peores, dependiendo de cuán sensibles sean esos proxys a medir lo que realmente quiero medir.",
+      "full_transcript": "No me voy a meter muy lleno esto, pero se los dejo para que lo puedan digerir y que de alguna manera me abre la puerta a, creo yo, el problema más importante con el cual lidiamos a la hora de tomar datos, que es que no podemos medir la realidad. La realidad como tal no la podemos medir. La ciencia, de hecho, es un modelo de la realidad, pero no es la realidad en sí misma. Es un modelo que trata de estandarizar cosas para poder medirlas correctamente. Y en esa estandarización de las cosas es donde tenemos una brecha, un 'gap', entre lo que es la realidad y lo que realmente estoy midiendo. Y acá aparece el concepto de proxys. Los proxys son cosas o, de alguna manera, aproximaciones de la realidad, que pueden ser mejores o peores, dependiendo de cuán sensibles sean esos proxys a medir lo que realmente quiero medir. Y en este escenario vamos a encontrar una frase que me gusta mucho, que no es de Taleb, en realidad es de George Box, que es un estadístico de hace mil años, que dice: 'Todos los modelos están equivocados, solamente que algunos son útiles'. Taleb le agrega: 'Algunos son letales', porque el que conoce a Taleb sabe que se dedica al manejo de riesgo y principalmente a riesgos en modelos de datos que se llaman de cola ancha, donde básicamente tenés una variación de la data infinita, con lo cual te puede disparar a la m****a en cualquier momento, como por ejemplo las pandemias o cuán peligroso es un virus que se propaga o ese tipo de cosas, que no es el caso de las ciencias del deporte. Pero dicho esto, sí es importante entender que nosotros vamos a modelar la realidad de alguna manera y que la realidad es mucho más compleja. Entonces, nosotros podemos modelar la realidad. Por ejemplo, un proxy muy común que usamos mucho puede ser la altura del salto vertical. Y lo que estamos tratando de medir es la potencia, si se quiere, del miembro inferior, que a veces incluso ni siquiera el miembro inferior, la potencia como tal, como un evento canónico. Y en ese escenario vamos a tener que tener ciertas limitaciones. No siempre que la altura del salto vertical sea mayor, eso implica, desde el punto de vista fenomenológico, un aumento significativo y real en la potencia del jugador.",
+      "keywords": [
+        "proxys",
+        "modelos-estadisticos",
+        "salto-vertical",
+        "brecha-realidad",
+        "modelos",
+        "brecha",
+        "realidad",
+        "evaluacion",
+        "data-science",
+        "george-box",
+        "nassim-taleb"
+      ],
+      "entities": [
+        "George Box",
+        "Nassim Taleb"
+      ],
+      "topics": [
+        "Evaluación",
+        "Data Science",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre proxies, modelos y la brecha con la realidad?",
+        "¿Dónde se habla de proxies, modelos y la brecha con la realidad?",
+        "¿Cómo se aplica proxies, modelos y la brecha con la realidad en sport science?"
+      ],
+      "related_terms": [
+        "proxies",
+        "modelos",
+        "y",
+        "la",
+        "brecha",
+        "con",
+        "realidad",
+        "evaluación",
+        "data science"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se aborda el concepto de sistemas complejos y la falacia del determinismo lineal en el rendimiento humano. Se establece que no se puede predecir el comportamiento, pero sí manipular los constreñimientos (constraints) para influir probabilísticamente en el rendimiento.",
+      "context_after": "Se critica el aislamiento en debates académicos minúsculos (ej. mitocondrias) en lugar de resolver problemas reales del rendimiento. Se alienta a usar datos y heurística para conectar 'lo que es' con 'lo que debe ser'."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "14:16",
+      "end_timestamp": "17:34",
+      "start_seconds": 856,
+      "end_seconds": 1054,
+      "duration_seconds": 198,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=856",
+      "title": "Reduccionismo científico frente a la aplicabilidad práctica",
+      "summary": "Se critica el aislamiento en debates académicos minúsculos (ej. densidad mitocondrial para explicar resistencia) en lugar de resolver problemas reales del rendimiento. Se alienta a usar datos y heurísticas para conectar 'lo que es' con 'lo que debe ser', buscando soluciones útiles.",
+      "literal_quote": "Empezamos con una pregunta fenomenológica, compleja, grande, del mundo de la realidad y terminamos discutiendo algo en el micromundo, totalmente aislado.",
+      "full_transcript": "Hay una brecha ahí en el medio y tenemos que saber que esa brecha existe para poder encontrar, por un lado, mejores proxys y, por otro lado, para no caer en esta sobresimplificación estúpida de la realidad, en donde nosotros asumimos que lo que está pasando es real. E incluso para no caer en el típico error, que yo veo muy seguido también en muchos colegas y me ha pasado también, no es que estoy exento ni mucho menos, de empezar, en este proceso, a tratar de encontrar o de medir mejor la realidad, empezamos con una pregunta fenomenológica, compleja, grande, del mundo de la realidad y terminamos discutiendo algo en el micromundo, totalmente aislado. Un ejemplo es: quiero medir la resistencia. ¿Qué es resistencia? La capacidad que tiene un atleta de sostener un trabajo. Entonces, decís: 'Bueno, ¿de qué depende la capacidad de sostener un trabajo?' Y de los sistemas energéticos. Entonces, decís: 'Bueno, ¿cuáles son los sistemas energéticos?' Tales. Entonces, decís: 'Bueno, ¿el sistema oxidativo es importante?' Sí. ¿Y de qué depende el sistema oxidativo? Y de la cantidad y calidad de las mitocondrias. Y de repente estamos discutiendo sobre qué método de entrenamiento genera mayor cantidad de mitocondrias, que termina siendo una pavada absoluta, una pérdida de tiempo total, una pérdida de recursos de energía total, muy útil para el mundo académico, totalmente estúpido para el mundo de la realidad, porque hay una brecha tan grande entre lo que pasa y lo que estamos tratando de medir que perdemos la brújula. Entonces, estamos en este intermedio entre pasarnos de cientificistas y tratar de estar explicando cosas a través del lente científico puro, pero al otro lado también de no caer en ser, de alguna forma, tarotistas de las ciencias del deporte. Y es muy difícil porque muchas veces nosotros pensamos: 'Ah, sí, este es un tarotista porque dijo una burrada'. Pero hay veces que hay muchas cosas que nosotros tomamos como ciertas, que quizás son igualmente tarotistas, quizás no tan exageradamente, pero también lo son. Entonces, es muy difícil no caer en esos sesgos particulares de que cada uno está en su enlatado. Y esta es un poco la brecha. Esta brecha está incluso explicada desde el punto de vista filosófico por Hume, que es un filósofo del siglo XVIII escocés, que es la brecha entre lo que es y lo que debe ser. Y en este proceso, en el medio, tenemos que encontrar cómo acercar estos dos universos, cómo acercar el mundo de lo que es, de lo que debe ser, porque es donde nosotros vamos a encontrar que la data es un gran vehículo para poder cruzar este puente. Pero no solamente la data estructurada y como la conocemos. A veces reglas heurísticas, conocimientos previos, el armado de procesos, puede ayudarnos a achicar esta brecha y encontrar soluciones. Al final del día, lo más importante es esto, es encontrar una solución a un problema y usar los datos para que esa solución sea estadísticamente más probablemente correcta.",
+      "keywords": [
+        "reduccionismo",
+        "heuristica",
+        "aplicabilidad-practica",
+        "cientificista",
+        "cientifico",
+        "frente",
+        "aplicabilidad",
+        "practica",
+        "metodologia",
+        "analisis-datos",
+        "hume"
+      ],
+      "entities": [
+        "Hume"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Crítica"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre reduccionismo científico frente a la aplicabilidad práctica?",
+        "¿Dónde se habla de reduccionismo científico frente a la aplicabilidad práctica?",
+        "¿Cómo se aplica reduccionismo científico frente a la aplicabilidad práctica en sport science?"
+      ],
+      "related_terms": [
+        "reduccionismo",
+        "científico",
+        "frente",
+        "a",
+        "la",
+        "aplicabilidad",
+        "práctica",
+        "metodología",
+        "análisis de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se discute el uso de 'proxys' estadísticos y de medición. Dado que la realidad no se puede medir directamente, los profesionales utilizan aproximaciones (como el salto vertical para medir potencia), reconociendo sus limitaciones y el sesgo inherente a cualquier modelo estadístico.",
+      "context_after": "Se explica que la variación matemática (ej. salto mejora 10 %) no siempre refleja una alteración real o significativa en el rendimiento, subrayando la incertidumbre propia de la medición deportiva."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "17:34",
+      "end_timestamp": "18:51",
+      "start_seconds": 1054,
+      "end_seconds": 1131,
+      "duration_seconds": 77,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1054",
+      "title": "Incertidumbre y variabilidad en la medición del rendimiento",
+      "summary": "Se explica que la variación matemática (ej. salto mejora 10 %) no siempre refleja una alteración real o significativa en el rendimiento desde un punto de vista fenomenológico, subrayando la incertidumbre propia de la medición deportiva.",
+      "literal_quote": "Tenemos que ser conscientes de que las mediciones en sí mismas acarrean un grado de error. No existe una absoluta certeza desde el punto de vista de los datos.",
+      "full_transcript": "Dicho esto, incluso desde el punto de vista matemático, tenemos que ser conscientes de que las mediciones en sí mismas acarrean un grado de error. No existe una absoluta certeza desde el punto de vista de los datos. Entonces, si yo por ejemplo digo: 'Bueno, hoy salté 40 centímetros, mañana salté 44', yo puedo reportar una mejora del 10 %. Es real desde el punto de vista matemático, no es real desde el punto de vista fenomenológico. Yo tengo que saber cómo esos datos oscilan y varían para determinar si esa mejora es real, probabilísticamente hablando o no. Porque si no estoy siendo un tarotista, estoy siendo víctima de mi propia creación. Y mi propia creación es un modelo de m****a a partir del cual yo tomo datos y saco conjeturas, voy a volver atrás, transformándome, creando un unicornio, fabricando un unicornio que lo veo yo solo. Al fin del día, todos los modelos van a ser de alguna manera un unicornio, esa es la realidad, pero algunos modelos son un unicornio un poco más útil desde el punto de vista práctico.",
+      "keywords": [
+        "variabilidad",
+        "incertidumbre",
+        "error-medicion",
+        "rendimiento",
+        "medicion",
+        "evaluacion",
+        "analisis-datos"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre incertidumbre y variabilidad en la medición del rendimiento?",
+        "¿Dónde se habla de incertidumbre y variabilidad en la medición del rendimiento?",
+        "¿Cómo se aplica incertidumbre y variabilidad en la medición del rendimiento en sport science?"
+      ],
+      "related_terms": [
+        "incertidumbre",
+        "y",
+        "variabilidad",
+        "en",
+        "la",
+        "medición",
+        "del",
+        "rendimiento",
+        "evaluación",
+        "análisis de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se critica el aislamiento en debates académicos minúsculos (ej. densidad mitocondrial para explicar resistencia) en lugar de resolver problemas reales del rendimiento. Se alienta a usar datos y heurísticas para conectar 'lo que es' con 'lo que debe ser', buscando soluciones útiles.",
+      "context_after": "Se presenta el concepto de ingeniería reversa al diseñar un sistema de datos. Se parte siempre de la decisión final (ej. compensar carga tras un partido) hacia atrás, construyendo el modelo y determinando métricas y contextos aplicables."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "18:51",
+      "end_timestamp": "23:06",
+      "start_seconds": 1131,
+      "end_seconds": 1386,
+      "duration_seconds": 255,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1131",
+      "title": "Ingeniería reversa: modelar a partir de la decisión",
+      "summary": "Se presenta el concepto de ingeniería reversa al diseñar un sistema de datos. Se parte siempre de la decisión final (ej. qué jugador debe compensar carga tras un partido) hacia atrás, construyendo el modelo y determinando contextos (minutos jugados, posición) y umbrales (ej. Score Z) hasta llegar al dato necesario.",
+      "literal_quote": "Lo más importante a la hora de construir un modelo de datos no es enfocarnos en los datos en sí mismos, sino hacer un proceso de ingeniería reversa a partir de la decisión.",
+      "full_transcript": "Y a modo de fin de la introducción o de este primer videíto corto, yo creo que lo más importante a la hora de construir un modelo de datos no es enfocarnos en los datos en sí mismos, sino hacer un proceso de ingeniería reversa a partir de la decisión. Entonces es: ¿qué decisión quiero tomar? Y la decisión va a estar sí o sí anclada a algún tipo de pregunta. Por ejemplo, una pregunta muy común o una decisión muy común que se puede tomar en un equipo, por ejemplo de fútbol, es: yo quiero saber qué jugadores tienen que compensar al día después del partido o el mismo día del partido, depende como lo tenga desde el punto de vista logístico. Ahí arranca la pregunta: ¿quiénes tienen que compensar? Entonces, la decisión que tengo que tomar es: estos jugadores van a compensar. Y compensar sigue siendo muy abstracto. ¿Qué significa compensar? Significa que van a hacer este trabajo con esta intensidad, con este volumen, con esta duración. Es una decisión que ya está tomada. Entonces, ahora yo tengo que decir, a partir de la decisión que quiero tomar, voy para atrás. ¿Cómo identifico quiénes tienen que compensar y quiénes no? ¿Cómo identifico cuánto tienen que compensar cada uno? Eso implica un modelo, tengo que modelar las cosas. A partir del modelo, tengo que entender el contexto de ese modelo, porque no es lo mismo. Y ahora voy a dar un ejemplo puntual. Y a partir de ese modelo y ese contexto, voy a elegir qué datos. Entonces, imaginemos que tengo que compensar la carrera de alta intensidad, el high speed running. Ahí la decisión va a ser: quiero saber quiénes de este partido en cuestión van a tener que compensar, porque por algún motivo corrieron menos cantidad de metros de lo que deberían haber corrido. Entonces, tengo que crear un modelo a partir de esa decisión. El primer paso es: ¿cómo determino quiénes son los que no? Voy a dar de nuevo un ejemplo. Voy a tomar los datos de carrera de alta intensidad, HCR. Contexto: vamos a usar los que jugaron por lo menos una determinada cantidad de minutos, porque si no va a compensar el que jugó cinco minutos, que sí puede pasar, pero no va a ser lo mismo. O no es lo mismo que compense el que jugó 90 minutos que el que jugó 70, el que jugó 60. Tengo que poner un punto de corte desde el punto de vista de la cantidad de minutos jugados. También desde el puesto, no es lo mismo que compense un volante interior que compense el central. El central probablemente tenga que compensar menos que el volante interior o los volantes por afuera. Cada puesto va a tener sus demandas y yo tengo que modelarlas. La transformación de las reglas es: ¿cuál va a ser el punto de corte estadístico? Entonces, de nuevo, para no irme demasiado por las ramas en el ejemplo puntual, decir: vamos a hacer un punto de corte HCR absoluto. Todos los jugadores que, vamos a imaginarnos, este partido en cuestión estén por debajo de 1.5 score Z comparado con los últimos cinco partidos anteriores, que siempre y cuando hayan jugado más de 60 minutos, van a compensar con el promedio histórico de partido o de los últimos cinco partidos o el percentil 70 de los últimos cinco partidos en el más uno con un tempo run, que van a ser cuatro series de 60 metros. ¿Me explico? Digo, cuatro series de 60 metros como para dar un dato de la realidad en la práctica. Esas cuatro series de 60 metros van a salir del modelo de datos que se haya tomado. Pero insisto, lo importante de esto es entender que todo arranca desde la decisión, desde la pregunta y la decisión, no para atrás, si no termino haciendo un chicle de todos estos datos. Así que para terminar esta primera parte, espero que hayamos dado un buen marco de referencia de todas estas cuestiones y en los siguientes videos vamos a estar metiéndonos un poquito más de lleno en algunos ejemplos prácticos, incluso también.",
+      "keywords": [
+        "high-speed-running",
+        "ingenieria-reversa",
+        "modelar",
+        "decision",
+        "toma-decisiones",
+        "score-z",
+        "compensacion",
+        "data-science",
+        "control-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Data Science",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre ingeniería reversa: modelar a partir de la decisión?",
+        "¿Dónde se habla de ingeniería reversa: modelar a partir de la decisión?",
+        "¿Cómo se aplica ingeniería reversa: modelar a partir de la decisión en sport science?"
+      ],
+      "related_terms": [
+        "ingeniería",
+        "reversa",
+        "modelar",
+        "a",
+        "partir",
+        "de",
+        "la",
+        "decisión",
+        "toma de decisiones",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explica que la variación matemática (ej. salto mejora 10 %) no siempre refleja una alteración real o significativa en el rendimiento, subrayando la incertidumbre propia de la medición deportiva.",
+      "context_after": "Final del extracto. Leandro Carbone cierra esta primera parte teórica introductoria anticipando futuros videos con ejemplos prácticos más profundos."
+    }
+  ]
+}

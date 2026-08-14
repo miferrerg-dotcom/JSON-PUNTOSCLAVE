@@ -1,0 +1,507 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+    "speaker": "Leandro Carbone",
+    "total_duration": "00:29:26",
+    "total_duration_seconds": 1766,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "00:00",
+      "end_timestamp": "05:00",
+      "start_seconds": 0,
+      "end_seconds": 300,
+      "duration_seconds": 300,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Transformar el análisis en acción mediante heurística",
+      "summary": "Se explica cómo modelar datos partiendo de decisiones preestablecidas (ej. usar un Z-score > 1.5 en High Speed Running para asignar mayor recuperación). Se advierte sobre el error de recolectar métricas como el 'wellness' sin tomarlas en cuenta para actuar, lo cual genera frustración en el atleta.",
+      "literal_quote": "Cuál es uno de los errores que se cometen con el tema del armado del flujo de datos: no usarlos para tomar decisiones... el atleta no es b****o, se va a dar cuenta de que le estás tomando todos los días un cochinero de wellness y que te importa tres c*****s.",
+      "full_transcript": "Bueno, Emilio nuevamente. Ahora sí nos vamos a meter de lleno. Primero en el armado de algunos flujos de datos, desde la recolección hasta la toma de decisiones, incluso pasando por algunos ejemplos también. Pero volviendo de lleno a esta primera parte introductoria, es importante no olvidarse este punto de inflexión, en donde a partir de la decisión que queremos tomar y de la pregunta que queremos formular o que nos formulamos en general, vamos a tratar de crear una estructura tanto del modelado del contexto y de la recolección de los datos. Acá, un ejemplo sería de lo que veníamos hablando: ¿cómo convertimos el análisis y el modelado de datos en una acción? Entonces, escenario A, vamos a elegir, como dije recién, un Z-score en donde mayor a 1.5, en este caso, vamos a compensar, entre comillas, con una mayor recuperación, un aumento en el \"recovery\". Entonces, es una decisión entre comillas heurística... Yo elegí un umbral de corte estadístico a partir del Z-score 1.5 para determinar quién es la población que me va a caer en una determinada zona y a partir de ahí también elegir, de forma heurística, una intervención, en este caso un \"recovery\" extra. Cuál es uno de los errores que se cometen con el tema del armado del flujo de datos: no usarlos para tomar decisiones, ya lo dije, principalmente porque el atleta no es b****o, se va a dar cuenta de que le estás tomando todos los días un cochinero de \"wellness\" y que te importa tres c*****s lo que pasa con el \"wellness\", porque no haces nada con esa información. Entonces, el tipo se siente que está perdiendo el tiempo y es la realidad. En el B... tenemos un tipo que está por debajo de 1.5 en la métrica en cuestión, en términos de score Z, entonces compensamos el volumen de trabajo a partir de su propia data entre el Q1, el cuartil uno y la mediana, en un volumen de HCR. Ya está tomada la decisión, no hay que hacer nada, sino que simplemente tenemos una especie de slots, de casilleros, en donde decimos tres escenarios posibles... y en cada uno de esos slots tenemos una decisión ya tomada... Lo importante, el punto que quiero que quede claro tiene que ver con esto, con transformar una decisión, en este caso, una compensación de lo que sea, en un modelo de datos, pero empezando por la decisión.",
+      "keywords": [
+        "heuristica",
+        "z-score",
+        "wellness",
+        "toma-decisiones",
+        "modelado",
+        "control-carga",
+        "recovery"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre transformar el análisis en acción mediante heurística?",
+        "¿Dónde se habla del uso del wellness y el Z-score en la toma de decisiones?",
+        "¿Cómo se aplica transformar el análisis en acción mediante heurística en sport science?"
+      ],
+      "related_terms": [
+        "transformar",
+        "el",
+        "análisis",
+        "en",
+        "acción",
+        "mediante",
+        "heurística",
+        "toma de decisiones",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte del webinar sobre la estructura de recolección y flujo de datos.",
+      "context_after": "El expositor transita hacia los principios para la construcción de sistemas de datos estables y resalta la asimetría entre riesgos y beneficios."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "05:00",
+      "end_timestamp": "08:42",
+      "start_seconds": 300,
+      "end_seconds": 522,
+      "duration_seconds": 222,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=300",
+      "title": "Asimetría entre minimizar riesgos y optimizar beneficios",
+      "summary": "Se destaca la importancia de diseñar procesos orientados a mitigar riesgos antes que optimizar el rendimiento. Utiliza la analogía de Charlie Munger sobre el clima en aviación: identificar qué eventos causan accidentes mortales y centrar los esfuerzos en evitarlos, ya que es más robusto evitar el colapso (bancarrota) que buscar maximizaciones marginales.",
+      "literal_quote": "Cuando hablo de asimetría es que es infinitamente más valioso y menos problemático y menos costoso minimizar los riesgos que maximizar los beneficios. El concepto de optimizar algo es absolutamente una pérdida de tiempo y de recursos.",
+      "full_transcript": "Punto número uno, proceso sistemático. Tiene que ser lo suficientemente flexible para que este proceso sobreviva y que no dependa de las buenas voluntades de las personas, que pueda ser escalable a largo plazo... Y tercero, hay una absoluta asimetría en estos dos escenarios, que son buscar un beneficio y minimizar un riesgo. Cuando hablo de asimetría es que es infinitamente más valioso y menos problemático y menos costoso minimizar los riesgos que maximizar los beneficios. El concepto de optimizar algo es absolutamente una pérdida de tiempo y de recursos. Es mucho más robusto, desde el punto de vista de implementación de procesos, minimizar riesgos. Y esto lo voy a contar con una historia que no es mía. Uno de los inversores más exitosos de la historia de la humanidad se llama Charlie Munger, era socio de Warren Buffett... trabajó para el Servicio Meteorológico de la Fuerza Aérea de Estados Unidos. Hacía \"forecasting\", predicciones con los datos del clima... uno de los puntos más críticos en su historia personal y profesional tiene que ver con una pregunta que se hizo en un momento, que era: ¿cómo hago para matar a los pilotos? Esa es la pregunta que se hizo... se dio cuenta que había una serie de eventos que aumentaban exponencialmente las chances de que un piloto se muriera desde el punto de vista climatológico. Entonces, el tipo dice: \"Me enfoqué en hacer todo lo humanamente posible para evitar que esos eventos coincidieran con un vuelo\". Que en el fondo, esto que estamos hablando es mitigar los riesgos, minimizar los riesgos. Es verdad que los beneficios van a ser más marginales, más tranquilos... Siempre que implementamos algún tipo de sistema de proceso, es mucho más importante evitar irse a la bancarrota que buscar los máximos beneficios. Al fin del día, si implementamos un sistema de análisis de datos o de procesamiento de los datos, es muy importante que tratemos de romperlo.",
+      "keywords": [
+        "minimizar-riesgos",
+        "asimetria",
+        "charlie-munger",
+        "optimizar",
+        "bancarrota",
+        "metodologia",
+        "toma-decisiones"
+      ],
+      "entities": [
+        "Charlie Munger",
+        "Warren Buffett",
+        "Fuerza Aérea de Estados Unidos"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la asimetría entre minimizar riesgos y optimizar beneficios?",
+        "¿Dónde se habla de Charlie Munger y minimizar riesgos en sport science?",
+        "¿Cómo se aplica mitigar el riesgo vs maximizar beneficios en un framework de datos?"
+      ],
+      "related_terms": [
+        "minimizar",
+        "riesgos",
+        "charlie",
+        "munger",
+        "asimetría",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el uso de reglas heurísticas (como Z-scores) para detonar acciones y rutinas en el entrenamiento diario.",
+      "context_after": "Se presenta la necesidad de independizarse de los softwares cerrados de terceros para construir un sistema centralizado, robusto y automatizado."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "08:42",
+      "end_timestamp": "10:35",
+      "start_seconds": 522,
+      "end_seconds": 635,
+      "duration_seconds": 113,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=522",
+      "title": "Independencia de proveedores (Vendors) y pilares de la arquitectura",
+      "summary": "Se critica la dependencia absoluta de los proveedores externos de hardware/software (Catapult, Wimu, Vald, AMS) debido al alto costo y dificultad para exportar datos. En su lugar, propone 6 pilares de arquitectura: el club es el dueño de la información, automatización total, modelos transparentes, trazabilidad absoluta, entrega dirigida y reproducibilidad.",
+      "literal_quote": "Tenemos que pasar de ese proceso a un proceso donde esté todo integrado y automatizado... y que el club, o en este caso un individuo, sea el dueño de los datos y del conocimiento generado con esos datos, no que sea esclavo de los \"vendors\".",
+      "full_transcript": "¿Cómo hacemos para romperlo? Ahora nos vamos a meter un poquito más en eso. De alguna manera, lo que tratamos de hacer es pasar de herramientas totalmente desconectadas, donde dependemos 100 % de los \"vendors\", que son los Catapult, Wimu, Val, Hawking, dependemos de esas empresas y nos tienen agarrados los huevos, porque vos el día que querés cambiar de una empresa a otra Es un problema, porque los datos los tienen ellos. Entonces, tienes que hacer todo un tema, si es que quieres hacerlo, y pagar costos muy altos para poder hacer eso. Ni te hablo si compraste una licencia de una AMS, tipo Teamwork, Skill and Labs. Sos esclavo para siempre de ellos. Tenemos que pasar de ese proceso a un proceso donde esté todo integrado y automatizado, que sea proactivo, que tratemos de sostener las decisiones que se toman y que el club, o en este caso un individuo, sea el dueño de los datos y del conocimiento generado con esos datos, no que sea esclavo de los \"vendors\". Entonces, los seis pilares son: el club es el dueño de los datos o ustedes son los dueños de los datos; hay que automatizar, no podemos depender de la buena voluntad de las personas; tenemos que tener cierto grado de transparencia con los modelos que nosotros implementamos; tenemos que poder tener trazabilidad, poder ir a buscar qué pasó, dónde pasó, dónde está el problema, qué se rompió, qué no se rompió. Es muy importante que cada agente de toma de decisiones tenga los datos correctos en el lugar correcto... que sea todo reproducible, que pueda volverse para atrás y volverse a correr en caso de que lo necesitemos por si algo falla y que sea una arquitectura sostenible a largo plazo.",
+      "keywords": [
+        "vendors",
+        "automatizacion",
+        "transparencia",
+        "trazabilidad",
+        "ams",
+        "arquitectura-datos",
+        "data-science"
+      ],
+      "entities": [
+        "Catapult",
+        "Wimu",
+        "Vald",
+        "Hawking",
+        "Teamwork",
+        "Skill and Labs"
+      ],
+      "topics": [
+        "Data Science",
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Framework",
+        "Crítica"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la independencia de proveedores y pilares de la arquitectura?",
+        "¿Cuáles son los 6 pilares de la arquitectura de datos según Leandro Carbone?",
+        "¿Por qué no depender de vendors y sistemas AMS cerrados?"
+      ],
+      "related_terms": [
+        "independencia",
+        "de",
+        "proveedores",
+        "y",
+        "pilares",
+        "arquitectura",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se recomendó poner el foco en identificar y romper los puntos débiles de los procesos (minimizar riesgos de fallo).",
+      "context_after": "El expositor enumera las 6 capas jerárquicas donde un sistema de datos suele romperse, comenzando con la captura de la información."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "10:35",
+      "end_timestamp": "13:04",
+      "start_seconds": 635,
+      "end_seconds": 784,
+      "duration_seconds": 149,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=635",
+      "title": "Capa 1: La captura de datos y la importancia de la estandarización",
+      "summary": "Se presentan las seis capas funcionales donde el sistema de datos puede fracasar. La primera, la captura de datos, es jerárquicamente la más crítica y la única dependiente totalmente de la disciplina humana. Se requiere una estandarización obsesiva sin tolerancia a errores en los protocolos de evaluación, avalada por una biblioteca documentada.",
+      "literal_quote": "No hay ningún tipo de algoritmo que pueda arreglar data d* m****a. Es preferible no tener datos que tener datos d* m****a. Hay que estandarizar los protocolos, ser consistente... Es la única capa que depende 100 % de la disciplina de los seres humanos.",
+      "full_transcript": "En este caso, hay seis puntos de conflicto, que son los seis puntos donde todo esto se puede romper. O sea, ¿cómo haría Charlie Munger para romper un proceso o una estructura de datos en una institución? Seis capas: la captura de los datos, el almacenamiento, la transformación, el análisis, la visualización y la decisión. Y es una escala jerárquica. Si la captura de los datos está mal, todo lo que viene después es una m****a. Si el almacenamiento de datos está mal, todo lo que viene después es una m****a y así sucesivamente. Capa número uno, es la captura de los datos, como dijimos. Es menester que los protocolos que nosotros usemos se cumplan obsesivamente. No hay ningún tipo de algoritmo que pueda arreglar data d* m****a. Es preferible no tener datos que tener datos d* m****a. Hay que estandarizar los protocolos, ser consistente, tanto en el staff, los jugadores, todos, tiene que estar claro cuál es la capa de responsabilidad para que esto sea tomado correctamente. Es la única capa que depende 100 % de la disciplina de los seres humanos. El resto depende más bien de las herramientas, del software que podamos utilizar, que de la buena voluntad de los humanos. Entonces, importantísimo que la toma de datos sea correcta. ¿Qué significa correcta? No son aceptables errores en el protocolo. Si el test de salto está mal tomado, es un problema. Si el test de esprint está mal tomado, es un problema. Si no se estandariza, si uno corre con botines o tacos, o como le quieran llamar, y el otro corre con zapatillas, es un error. Si permitimos hacer un doble contacto en el CJ, es un error. Si no estandarizamos, por ejemplo, si usa las manos en la cintura, no se pone las manos en la cintura, si patea, si no patea. Todo puede afectar el rendimiento en términos de los datos, así que es importantísimo que lo tengamos recontramega pulido. Mi sugerencia y lo que yo hice y sigo haciendo, es tener una biblioteca de protocolos accesible para todos, con el paso a paso de lo que hay que hacer, errores comunes, con videos, con fotos. Se acabó el problema y hay un responsable.",
+      "keywords": [
+        "captura-datos",
+        "estandarizacion",
+        "protocolos",
+        "disciplina",
+        "error-medicion",
+        "cmj",
+        "evaluacion",
+        "data-science"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Data Science"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la capa 1: captura de datos y estandarización?",
+        "¿Por qué es importante estandarizar los protocolos de test físicos?",
+        "¿Qué se recomienda para documentar la correcta captura de datos?"
+      ],
+      "related_terms": [
+        "captura",
+        "de",
+        "datos",
+        "estandarización",
+        "protocolos",
+        "evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se plantearon los 6 pilares organizacionales para dominar el sistema de datos del club en contraposición a las plataformas cerradas.",
+      "context_after": "Se avanza a las siguientes etapas técnicas: el almacenamiento inmutable (dejando atrás las hojas de cálculo) y la transformación automatizada."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "13:04",
+      "end_timestamp": "16:59",
+      "start_seconds": 784,
+      "end_seconds": 1019,
+      "duration_seconds": 235,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=784",
+      "title": "Capas 2 y 3: Almacenamiento inmutable y transformación automatizada (Staging)",
+      "summary": "Se expone que Excel es frágil y obsoleto para el almacenamiento institucional deportivo. Hoy existen opciones gratuitas o baratas (Supabase, Firebase, MySQL) que permiten ingestar datos vía API directos a data lakes. La tercera capa ('staging' o transformación) consiste en emplear reglas automáticas para limpiar, mapear y estandarizar la data cruda, dejándola lista para análisis.",
+      "literal_quote": "Hoy sos un delincuente si no dispones de una herramienta medianamente razonable... Hoy, Supabase, Firebase, una MSQL local... Y no dependemos de lo que tengamos en Hawking, porque se mete directamente en nuestra propia base de datos con una llamada de API...",
+      "full_transcript": "Punto número dos, el almacenamiento. El almacenamiento tiene que ser inmutable. Y voy a dar un ejemplo práctico... hice el curso de Isaac... hice las 20 mediciones y las hice en un papel... Llega tarde noche, me hago un café y me pongo a pasar los datos al Excel... El café se me volcó en los papeles. Básicamente, arruiné la mitad de las mediciones. Mi modelo de almacenamiento de datos era una basura... Es muy común también que a veces nos encontramos en instituciones en donde el almacenamiento de datos es el Excel de alguno que está dando vueltas por ahí. Se pierde la computadora, perdimos todo, entra un virus, perdimos todo. Es muy propenso a romperse si no tenemos una estructura de datos un poquito más escalable y jerarquizada. Hoy, esto desapareció... Hoy sos un delincuente si no dispones de una herramienta medianamente razonable. No estoy pidiéndote una AWS o un Snowflake, que son el tope de línea y son carísimos. Hoy, Supabase, Firebase, una MSQL local. Hay millones de opciones gratis, baratas, que permiten tener todos los datos habidos y por haber, ya sea vía API de VAL, vía API de Hawking, vía API de Catapult... Y lo más importante es que es inmutable. Digamos, si estoy usando API de VAL... vamos a meter los datos ahí enteros. Entonces, ya tenemos en nuestra base de datos todos los datos... Y no dependemos de lo que tengamos en Hawking, porque se mete directamente en nuestra propia base de datos con una llamada de API, que es extremadamente sencilla hoy en día. Capa número tres, la transformación de los datos, que tiene que ver con: \"Okey, pará, porque ahora metí los datos de Catapult... de Hawking... datos del cuestionario de wellness\"... Y todo eso son tablas que se crean en una base de datos determinada, que después hay que empezar a conectarla, hay que empezar a filtrarla... Este proceso se llama \"staling\" [staging]. Es de alguna manera crear de la data cruda, dura, sin nada, automatizaciones a partir de reglas en donde ahora tenemos todo limpio en una tabla accesible con user ID, que es el protocolo que se utiliza para que sea lista para analizar... Esto se hace con reglas automáticas. Se limpia, se mapean las cosas, se estandariza cada una de las cosas que hay por ahí adentro y se crea una o varias tablas a las cuales yo puedo acceder para después hacer la cuarta capa.",
+      "keywords": [
+        "almacenamiento-inmutable",
+        "excel",
+        "supabase",
+        "firebase",
+        "api",
+        "transformacion",
+        "staging",
+        "data-science",
+        "automatizacion"
+      ],
+      "entities": [
+        "Supabase",
+        "Firebase",
+        "MySQL",
+        "AWS",
+        "Snowflake",
+        "Vald",
+        "Hawking",
+        "Catapult"
+      ],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre almacenamiento y transformación (Staging)?",
+        "¿Cuáles son las alternativas modernas al uso de Excel para guardar datos deportivos?",
+        "¿Qué significa la capa de transformación o staging en sport science?"
+      ],
+      "related_terms": [
+        "almacenamiento",
+        "inmutable",
+        "transformación",
+        "automatizada",
+        "staging",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se estableció que la base piramidal (la captura rigurosa de los datos) es la única capa que exige total compromiso humano.",
+      "context_after": "Con los datos ordenados, se aborda la fase de análisis (evitando las cajas negras de la IA pura) y su correspondiente visualización segmentada."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "16:59",
+      "end_timestamp": "19:38",
+      "start_seconds": 1019,
+      "end_seconds": 1178,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1019",
+      "title": "Capas 4 y 5: Modelado trazable (evitar 'Black Boxes') y Visualización enfocada",
+      "summary": "La cuarta capa analiza y convierte los datos limpios en inteligencia operativa mediante modelos trazables (ej. Z-score, ratio agudo-crónico). Se advierte ser cauto con modelos de Inteligencia Artificial opacos ('black boxes') si su funcionamiento interno no es verificable. La quinta capa, la visualización, requiere adaptar y narrar los datos de manera útil según el receptor final (entrenador vs. médico).",
+      "literal_quote": "Los black boxes es un modelo de machine learning... que básicamente uno le mete un input de datos a un agente computacional y busca un resultado... pero no sabe qué está haciendo... Es una caja negra... A mí no me encanta todavía. Prefiero tener primero mi capa de inteligencia real, traceable...",
+      "full_transcript": "cuarta capa, que es la capa de análisis, que básicamente es tratar de tener todos estos datos que están desestructurados, que no tienen nada, es convertir los datos en información. Entonces, es crear modelos. El modelo puede ser el Z-score, el modelo puede ser el agudo crónico, el modelo puede ser el modelo de entropía, de complejidad. Hay un millón de modelos... Cuando digo que tiene que ser sin black boxes, es porque hoy, y probablemente el futuro vaya para ese lado, con la irrupción de la inteligencia artificial, es extremamente fácil con toda esta cantidad de datos... hacer machine learning... y que vaya a saber uno qué está pasando. Los black boxes es un modelo de machine learning... que básicamente uno le mete un input de datos a un agente computacional Y busca un resultado, un \"output\" determinado, pero no sabe qué está haciendo, no sabe qué modelo de datos está usando ese agente... Es una caja negra porque no sabe lo que está pasando. A mí no me encanta todavía. Prefiero tener primero mi capa de inteligencia real, traceable, que uno pueda ir a buscar cómo estuvo armado el modelo... Ahora, una vez que uno tiene ese modelo, creo que sí es una buena oportunidad para empezar a explorar... Casi terminando, la capa de visualización. Esta es la parte comunicacional. Uno tiene que poder comunicar correctamente al público al que está escuchando. Al coach no le interesa demasiado el modelo carga crónica, lo que le va a interesar es decir: \"Che, tené cuidado, esta pasado, tené cuidado\". O \"estos cinco jugadores están disponibles, estos otros no\". El staff médico lo mismo... Depende de quién, va a haber que comunicar de alguna manera. Al fin del día, la data tiene que contar una historia y hay que ver a qué persona le estás contando esa historia para que tenga impacto y sea útil en la resolución de algún tipo de problema.",
+      "keywords": [
+        "modelos-analisis",
+        "black-boxes",
+        "machine-learning",
+        "caja-negra",
+        "trazabilidad",
+        "visualizacion",
+        "storytelling",
+        "comunicacion",
+        "ia-deportiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "IA Deportiva",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre modelado trazable y evitar black boxes en IA?",
+        "¿Por qué Leandro prefiere evitar el machine learning de caja negra en las decisiones deportivas?",
+        "¿Cómo debe abordarse la visualización de datos de rendimiento para el staff técnico?"
+      ],
+      "related_terms": [
+        "modelado",
+        "trazable",
+        "evitar",
+        "black",
+        "boxes",
+        "visualización",
+        "enfocada",
+        "análisis de datos",
+        "ia deportiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se resolvió el proceso técnico y backend (almacenamiento, llamadas de API y preparación automatizada de las métricas crudas).",
+      "context_after": "Finalmente, el ciclo se cierra en la sexta capa: la toma de decisión final empoderada por información pero regulada por juicio humano."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "19:38",
+      "end_timestamp": "21:20",
+      "start_seconds": 1178,
+      "end_seconds": 1280,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1178",
+      "title": "Capa 6: Decisiones informadas por datos ('Data-Informed')",
+      "summary": "La última fase del sistema radica en la decisión. El ponente aboga por la filosofía 'data informed' donde la máquina provee alertas objetivas en forma de 'señales' (para no generar pánico sugiriendo lesiones inminentes), pero la decisión final la valida y ejecuta el humano cruzando factores interpersonales, como simplemente preguntarle al jugador cómo se siente.",
+      "literal_quote": "Tenemos dos modelos principalmente... que los datos informen, se llama \"data inform\", para tomar una decisión, que sigue siendo de un humano, que es lo que más me gusta, o que los datos automen las decisiones automáticamente. Yo prefiero el punto uno.",
+      "full_transcript": "Número seis, tiene que ver con la decisión. Hoy tenemos dos modelos principalmente, que son básicamente que los datos informen, se llama \"data inform\", para tomar una decisión, que sigue siendo de un humano, que es lo que más me gusta, o que los datos automen las decisiones automáticamente. Yo prefiero el punto uno. Tenemos una serie de alarmas, una alarma, una alerta, una señal. A mí me gusta llamarlo señal, para no alarma al que está leyendo, que quizás no está familiarizado con los datos y dice: \"Se va a morir, se va a romper, no sé, va a pasar algo\". No, es una señal. Hay algo que está pasando que hay que chequear. Esa señal que ocurre la chequeamos, incluso no podemos eliminar la interacción humano a humano. \"Che, Juancito, ¿te sentís bien?\" No lo sugestionamos, me encantan los datos, pero: \"Mirá Juancito, ¿cómo te sentís? ¿Dormiste bien? ¿Estás bien?\" Y a partir de ahí podemos tomar una decisión determinada. En cada uno de estos seis puntos se puede ir todo a l* m****a, si la decisión es mala o está mal tomada, si está mal comunicada, si el modelo de datos que usamos es malo... La transformación de los datos... cómo los guardamos o los grabamos y cómo los tomamos. Estos seis puntos son los que pueden romper un sistema de datos.",
+      "keywords": [
+        "data-informed",
+        "toma-decisiones",
+        "decision-humana",
+        "señal",
+        "alerta",
+        "interaccion-humana",
+        "wellness"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la capa de decisiones informadas por datos (Data-Informed)?",
+        "¿Por qué usar el enfoque data informed vs automatización total de decisiones en el deporte?",
+        "¿Cómo integra el factor humano a las señales algorítmicas de alerta?"
+      ],
+      "related_terms": [
+        "decisiones",
+        "informadas",
+        "por",
+        "datos",
+        "data-informed",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se criticaron los algoritmos inescrutables tipo caja negra (Black boxes) y se defendió un reporte de datos transparente para la audiencia idónea.",
+      "context_after": "Para redondear la exposición teórica, se ilustra todo el framework propuesto implementado en la rutina matutina de un club deportivo profesional en tiempo real."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "21:20",
+      "end_timestamp": "26:47",
+      "start_seconds": 1280,
+      "end_seconds": 1607,
+      "duration_seconds": 327,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1280",
+      "title": "Ejemplo práctico: Pipeline automatizado y notificaciones ágiles",
+      "summary": "Se detalla un caso real del flujo de datos tras una sesión (8:00 AM). Empleando rutinas programadas ('cron jobs' en Python), se ingieren las métricas (Catapult, Vald, Wellness), se mapean y estandarizan IDs dispares y se combinan en data lakes. Si una regla (ej. EWMA > 1.4 y Wellness < -1.5) detona una señal, el sistema evita los obsoletos PDF y empuja la notificación automáticamente a canales rápidos como Slack o WhatsApp del cuerpo técnico correspondiente.",
+      "literal_quote": "Los reportes en PDF para mí son cosa del pasado. Lo que importa para mí hoy es la comunicación. Hoy hay herramientas como Slack, el chat de Google, incluso también el propio WhatsApp...",
+      "full_transcript": "Ejemplo real. Imagínense, 8:00 a.m., empieza la sesión de entrenamiento. Tenemos distintas fuentes de datos. Tomamos MJ, por ejemplo, para el readiness de Hawking, entrenaron con los GPS Catapult. Tenemos algunos softwares como Prefect, que es un script de Python, que básicamente hace algún tipo de proceso automatizado cada determinada cantidad de tiempo. También se llaman trabajos de cron... quizás tiene sentido hacerlo correr todos los días a las 12:00 del mediodía... A partir de ahí, se hace una ingestión de datos cronometrada. Esos datos van a nuestra base de datos inmutables, se llaman data lakes... Entró la data cruda, se hace el proceso de staging, se estandariza, queda curado, se aplica el modelo y se visualiza. Todo esto en tiempo real... Entonces, a las 8:30 tenemos la data de wellness, a las 9:00 terminamos la sesión de Catapult, de VALD... y a las 10:30 la API pool se sincroniza con un trabajo para poder meter todos los datos en nuestro data lake. Una vez que tenemos datos crudos, va cada uno a sus carpetas, tallado con metadata... y estos archivos se empiezan a cruzar para tener distintas tablas de datos coordinadas o cruzadas. En este caso, por ejemplo... tenemos los datos del atleta que en Hawking o en VALD es el 9912 y en Catapult es el 778... Le tenemos que decir al sistema: \"Che, mirá que este ID es el mismo que este ID\"... tiene un unique ID, que es el 01... Al mismo tiempo, planteamos una determinada analítica... agudo crónico... asimetría... normalización del wellness... Ahora tenemos: \"Che, mirá que tenés un exponential weight moving average arriba de 1.4 más un Z-score en wellness de -1.5\". Entonces, estas dos te sacan una bandera... La decisión va a ser primero reportarla, comunicarla, y después la decisión va a ser: bajemos la carga de este muchacho para los próximos tres días... Y encima también hoy tenemos la posibilidad de comunicar. Los reportes en PDF para mí son cosa del pasado. Lo que importa para mí hoy es la comunicación. Hoy hay herramientas como Slack, el chat de Google, incluso también el propio WhatsApp, que lo único que necesitaríamos hacer es que cada vez que pase esto, que haya una alerta en este dominio, mandar un mensaje a un grupo de Slack... y que después puedan tomar una decisión. Entonces, convertimos todos estos q*******s de mail, USB, Excel por un lado, todo manual, frágil, que se rompe, en un sistema que está vivo, que es traceable, que es escalable...",
+      "keywords": [
+        "pipeline-automatizado",
+        "cron-jobs",
+        "python",
+        "data-lakes",
+        "ewma",
+        "slack",
+        "whatsapp",
+        "alertas",
+        "data-science",
+        "comunicacion",
+        "control-carga"
+      ],
+      "entities": [
+        "Catapult",
+        "Hawking",
+        "Vald",
+        "Python",
+        "Slack",
+        "WhatsApp",
+        "Google Chat"
+      ],
+      "topics": [
+        "Data Science",
+        "Control de Carga",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre el pipeline automatizado y notificaciones ágiles?",
+        "¿Cómo funciona un cron job o script en Python para ingestar datos de entrenamiento?",
+        "¿Qué alternativas a los reportes de rendimiento en PDF sugiere Leandro?"
+      ],
+      "related_terms": [
+        "pipeline",
+        "automatizado",
+        "notificaciones",
+        "ágiles",
+        "data science",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el balance entre recibir señales analíticas algorítmicas y efectuar el diálogo cara a cara con el atleta para corroborar la decisión.",
+      "context_after": "Cierre de la exposición, reafirmando que no se trata de requerir millonarios presupuestos tecnológicos, sino de instaurar metodologías sistematizadas en la ingeniería de datos."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+      "speaker": "Leandro Carbone",
+      "start_timestamp": "26:47",
+      "end_timestamp": "29:26",
+      "start_seconds": 1607,
+      "end_seconds": 1766,
+      "duration_seconds": 159,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1607",
+      "title": "Sistematización institucional con bajo costo operativo",
+      "summary": "Como cierre, recalca que la prioridad radica en cimentar una buena captura de métricas. Resulta obsoleto montar toda la gestión y análisis de un club en hojas de cálculo frágiles (Excel/Sheets). Empleando buenas arquitecturas de diccionarios, roles y flujos, se puede crear un entorno propio y estable con costos mensuales irrisorios (menos de dos dólares), tratando la sistematización de datos con el mismo nivel de rigurosidad que el trabajo de campo o gimnasio.",
+      "literal_quote": "Así como nosotros sistematizamos el trabajo de gimnasio, el trabajo de campo, el armado del microciclo, esto también debería tener una sistematización y una escalabilidad... con costos ridículamente bajos. Ahora les voy a mostrar lo que tengo montado yo, creo que tengo costos de uno o dos dólares por mes.",
+      "full_transcript": "Entonces, lo más importante diría es la base de la pirámide, es la captura de los datos, que tiene que ser perfecta, los protocolos tienen que estar garantizados... Incluso se puede hacer en un Excel, si ustedes quieren, ningún problema. Creo que quedó claro que el Excel es bastante frágil en sí mismo como para que toda la base de datos de un club o una institución esté montada arriba de un Sheets o un Excel, me parece una locura. Entonces, que la arquitectura esté clara, definir los estándares, que haya diccionarios de datos para entender qué es cada cosa, que los dashboards, las visualizaciones estén basadas en los roles... y que esté bien definido cuál es el workflow de trabajo... Son las cosas quizás más importantes para armar una buena arquitectura de datos... la base de esta charla tenía que ver... con salir un poquito de lo tradicional en términos de que hay que hacer el agudo crónico y los datos acá, sino de tener el sistema de armado de datos como un sistema en sí mismo. Así como nosotros sistematizamos el trabajo de gimnasio, el trabajo de campo, el armado del microciclo, esto también debería tener una sistematización y una escalabilidad, obviamente adaptado al presupuesto de cada uno. Esto se puede hacer absolutamente, no digo gratis, pero con costos ridículamente bajos. Ahora les voy a mostrar lo que tengo montado yo, creo que tengo costos de uno o dos dólares por mes por las dudas. Ni siquiera podría evitarlo también. Así que agradecerles por su tiempo. Cualquier duda o consulta, ahí tienen el contacto de NCAA... Me despido en este momento, pero tengan en cuenta que queda un videíto más que tiene que ver con un ejemplo práctico real...",
+      "keywords": [
+        "sistematizacion",
+        "escalabilidad",
+        "costo-operativo",
+        "excel",
+        "diccionario-datos",
+        "metodologia",
+        "data-science"
+      ],
+      "entities": [
+        "NCAA"
+      ],
+      "topics": [
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Leandro Carbone sobre la sistematización institucional con bajo costo operativo?",
+        "¿Por qué Leandro afirma que no se necesitan grandes presupuestos para un área de sport science de élite?",
+        "¿Cómo compara la sistematización de datos con la sistematización de entrenamiento físico?"
+      ],
+      "related_terms": [
+        "sistematización",
+        "institucional",
+        "con",
+        "bajo",
+        "costo",
+        "operativo",
+        "metodología",
+        "data science"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se exhibió en detalle el proceso interconectado que alerta a un equipo en tiempo real cruzando GPS y reportes biológicos en las mañanas.",
+      "context_after": "Final del webinar / video actual. El disertante concluye la sesión teórica-conceptual prometiendo un tercer video estrictamente enfocado en la aplicación en software con dashboards reales."
+    }
+  ]
+}
