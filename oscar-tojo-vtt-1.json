@@ -1,0 +1,273 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "oscar tojo",
+    "speaker": "Óscar Tojo",
+    "total_duration": "00:10:15",
+    "total_duration_seconds": 615,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:01:34",
+      "end_timestamp": "00:03:09",
+      "start_seconds": 94,
+      "end_seconds": 189,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=94",
+      "title": "Seducción del jugador y perfil dual del entrenador",
+      "summary": "Cualquier metodología es válida si se logra seducir a los jugadores hacia ese camino. El entrenador ideal es aquel que combina la empatía empírica de haber sido jugador con el sustento conceptual de la formación académica.",
+      "literal_quote": "Para mí, lo más importante es que consigamos seducir a nuestros jugadores hacia lo que es nuestro camino.",
+      "full_transcript": "Para mí, lo más importante es que consigamos, junto a nuestros jugadores, seducirlos hacia lo que es nuestra metodología, independientemente de cuál sea. Creo que hay diferentes formas de mirar el entrenamiento. Todas ellas generan resultados significativos... todas tienen limitaciones y todas tienen cosas muy buenas. Y para mí, lo más importante es que consigamos seducir a nuestros jugadores hacia nuestro camino. No tengo ninguna duda de que la práctica es el criterio de la verdad. Sin embargo, siempre será toda la parte conceptual, toda la parte teórica la que sustenta toda nuestra práctica. [...] Sigo pensando que el mejor entrenador es aquel que consigue vivenciar los dos mundos, o sea, consigue tener una vivencia práctica muy relevante, porque existe una sensibilidad en la relación con los jugadores que es única... y por otro lado, no nos podemos desviar de lo que es la parte más conceptual de todo ese proceso.",
+      "keywords": [
+        "metodologia",
+        "seduccion",
+        "entrenador",
+        "empatia",
+        "teoria",
+        "practica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es lo más importante al aplicar una metodología en el fútbol?",
+        "¿Dónde se habla de seducción del jugador y perfil dual del entrenador?",
+        "¿Qué características definen al mejor entrenador según Óscar Tojo?"
+      ],
+      "related_terms": [
+        "seducción",
+        "del",
+        "jugador",
+        "y",
+        "perfil",
+        "dual",
+        "del",
+        "entrenador",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación y bienvenida del ponente al webinar repasando su trayectoria.",
+      "context_after": "Se describe la trayectoria profesional del ponente en distintas divisiones y países, incluyendo su paso por la Federación Portuguesa."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:04:46",
+      "end_timestamp": "00:05:37",
+      "start_seconds": 286,
+      "end_seconds": 337,
+      "duration_seconds": 51,
+      "timestamp_url": "?t=286",
+      "title": "Añadir valor al jugador como pilar de intervención",
+      "summary": "El primer pilar de intervención en un club es evaluar y aumentar el valor del jugador a su llegada y tras la salida del cuerpo técnico. La opinión del propio jugador sobre el trato y la metodología recibida es vital para la autocrítica y mejora del staff.",
+      "literal_quote": "La propia opinión de los jugadores sobre nuestra intervención, sobre nuestra metodología, sobre la manera en cómo nos relacionamos, creo que es fundamental para poder mejorar.",
+      "full_transcript": "Los pilares de intervención, para nosotros, están muy relacionados con lo que son los jugadores. Primero, cómo es que nosotros conseguimos añadir valor a los jugadores que tenemos en el club, entender en qué momento están, cuál es su valor del momento para el club y cuál es su valor tras nuestra salida, tras la salida del entrenador... para que eso pueda sustentar la mejora de las cualidades técnico-tácticas, físicas y psicológicas del propio jugador. La propia opinión de los jugadores sobre nuestra intervención, sobre nuestra metodología, sobre la manera en cómo nos relacionamos, creo que es fundamental para poder mejorar, para poder también ser críticos en relación a lo que estamos haciendo.",
+      "keywords": [
+        "valor",
+        "jugadores",
+        "opinion",
+        "intervencion",
+        "evaluacion",
+        "pilares"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Óscar Tojo sobre añadir valor al jugador como pilar de intervención?",
+        "¿Dónde se habla de añadir valor al jugador como pilar de intervención?",
+        "¿Por qué es importante la opinión del jugador para el cuerpo técnico?"
+      ],
+      "related_terms": [
+        "añadir",
+        "valor",
+        "al",
+        "jugador",
+        "evaluación",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Repaso de la experiencia del ponente con Pedro Caixinha y su inicio en el fútbol profesional en 2012.",
+      "context_after": "Se introduce el segundo pilar de intervención: el impacto y control exhaustivo de las lesiones."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:05:39",
+      "end_timestamp": "00:06:09",
+      "start_seconds": 339,
+      "end_seconds": 369,
+      "duration_seconds": 30,
+      "timestamp_url": "?t=339",
+      "title": "Las lesiones musculares como validador del proceso",
+      "summary": "Las lesiones sin contacto, especialmente aquellas de carácter muscular, sirven como el termómetro o validador principal para evaluar la eficacia y el impacto de todo el proceso metodológico de un cuerpo técnico.",
+      "literal_quote": "Cuáles son aquellas lesiones sin contacto, aquellas lesiones más musculares que tenemos en nuestro equipo, para que podamos también validar lo que es todo nuestro proceso metodológico.",
+      "full_transcript": "Después, lo que es el impacto de las lesiones, que yo creo que es uno de los pilares de intervención fundamentales en un contexto de alto rendimiento. Entender efectivamente cuántas lesiones tenemos, qué tipo de lesiones tenemos y, principalmente, cuáles son aquellas lesiones sin contacto, aquellas lesiones más musculares que tenemos en nuestro equipo, para que podamos también validar lo que es todo nuestro proceso metodológico. Es otro pilar que, en mi opinión, me gusta mucho controlar, me gusta mucho monitorizar para entender el tipo de impacto y qué es lo que tenemos que mejorar.",
+      "keywords": [
+        "lesiones",
+        "sin-contacto",
+        "musculares",
+        "validar",
+        "proceso",
+        "metodologico"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Óscar Tojo sobre las lesiones musculares como validador del proceso?",
+        "¿Dónde se habla de las lesiones musculares como validador del proceso?",
+        "¿Cómo se utilizan las lesiones sin contacto para validar la metodología?"
+      ],
+      "related_terms": [
+        "lesiones",
+        "musculares",
+        "como",
+        "validador",
+        "del",
+        "proceso",
+        "evaluación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de que el jugador incremente su valor deportivo y personal tras el paso del cuerpo técnico.",
+      "context_after": "Mención al tercer pilar: entender los resultados en base al contexto real y las metas de cada equipo."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:06:45",
+      "end_timestamp": "00:08:40",
+      "start_seconds": 405,
+      "end_seconds": 520,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=405",
+      "title": "El éxito medido a través de la gestión humana",
+      "summary": "El verdadero éxito no consiste únicamente en ganar de forma puntual, sino en dejar una huella positiva en el plano formativo y personal de los jugadores, comprendiendo sus vidas extradeportivas. Basar la relación en respeto y compromiso abre puertas futuras.",
+      "literal_quote": "Si después de eso los jugadores hablan bien, va a ser siempre positivo para mí, eso es el éxito.",
+      "full_transcript": "Muchas veces el éxito está relacionado con ganar, ganar puntualmente en un determinado momento... Entender lo que es un director técnico, donde tiene 25 jugadores jóvenes, que están en una etapa formativa, futbolística y personal. Por eso digo que es tan importante no centrarse 24 horas al día, siete días a la semana, solamente en el fútbol. Yo creo que hay una serie de actividades paralelas en la vida de los jugadores que tal vez desde fuera no se comprendan, pero que un buen técnico tiene que entenderlas, comprenderlas, intentar ayudarlos. Como recién decía, por suerte, siempre tuve una muy buena opinión de los jugadores en todos los planteles que dirigí. No en el momento que los dirigí, sino después... Trato de participar con el jugador, dentro de los límites que hay entre técnico y jugador... en no transar nunca ni el respeto, ni el compromiso, ni el rendimiento, que son cosas que van para el grupo en general, y después tratar de conocer la personalidad de cada uno para intentar ayudarlo y mejorarlo. Si después de eso los jugadores hablan bien, va a ser siempre positivo para mí, eso es el éxito.",
+      "keywords": [
+        "exito",
+        "gestion-humana",
+        "respeto",
+        "compromiso",
+        "vida-personal",
+        "formacion"
+      ],
+      "entities": [
+        "Manuel Pellegrini",
+        "Zico",
+        "Acosta"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué explica Óscar Tojo sobre el éxito medido a través de la gestión humana?",
+        "¿Dónde se habla de el éxito medido a través de la gestión humana?",
+        "¿Cómo se define el éxito más allá de los resultados deportivos en el fútbol?"
+      ],
+      "related_terms": [
+        "el",
+        "éxito",
+        "medido",
+        "a",
+        "través",
+        "de",
+        "la",
+        "gestión",
+        "humana",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Breve mención a cómo se validan los resultados en base al contexto del club y las expectativas iniciales.",
+      "context_after": "Se retoma la evaluación de la intervención del staff mediante estudios y datos de disponibilidad física por lesiones."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:08:51",
+      "end_timestamp": "00:09:45",
+      "start_seconds": 531,
+      "end_seconds": 585,
+      "duration_seconds": 54,
+      "timestamp_url": "?t=531",
+      "title": "Monitorización del impacto de la indisponibilidad por lesiones",
+      "summary": "Es vital utilizar estudios y control de datos para monitorizar de manera objetiva cuántos jugadores están indisponibles por lesión cada jornada. Esta métrica permite observar el impacto real del trabajo físico sobre la clasificación a lo largo de la temporada.",
+      "literal_quote": "Entender por partidos, por jornada, cuántos jugadores están indisponibles por lesión y qué tipo de impacto tiene esto.",
+      "full_transcript": "Después, lo que son las lesiones. Siempre me gusta compartir con ustedes, en términos de estudios, y es así como también controlo y me gusta controlar lo que son las lesiones en mi equipo, o sea, entender por partidos, por jornada, cuántos jugadores están indisponibles por lesión y qué tipo de impacto tiene esto. Estos fueron algunos estudios que fueron compartidos sobre lo que es, en la misma temporada deportiva, el número de jugadores indisponibles. En este caso, del Chelsea, que este año ganó, y también con el Sunderland, que quedó en último lugar. Y reparen bien en la diferencia que existe en términos de los jugadores indisponibles debido a lesiones en una media por jornada. Me gusta mucho controlar así mi intervención. Creo que para mí tiene todo el sentido, para mi entrenador... entender qué impacto tiene jornada a jornada con los jugadores indisponibles y me parece algo fundamental.",
+      "keywords": [
+        "lesiones",
+        "indisponibilidad",
+        "jornada",
+        "estudios",
+        "chelsea",
+        "sunderland"
+      ],
+      "entities": [
+        "Chelsea",
+        "Sunderland"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué explica Óscar Tojo sobre la monitorización del impacto de la indisponibilidad por lesiones?",
+        "¿Dónde se habla de la monitorización del impacto de la indisponibilidad por lesiones?",
+        "¿Cómo impactan las bajas por lesión en la clasificación según los estudios presentados?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "del",
+        "impacto",
+        "de",
+        "la",
+        "indisponibilidad",
+        "por",
+        "lesiones",
+        "análisis de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación detallada sobre la relación de respeto y acompañamiento personal con los jugadores jóvenes.",
+      "context_after": "El ponente introduce el apartado sobre sus 8 creencias metodológicas fundamentales que desarrolla en el entrenamiento."
+    }
+  ]
+}
