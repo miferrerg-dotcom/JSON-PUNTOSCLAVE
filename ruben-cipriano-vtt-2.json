@@ -1,0 +1,415 @@
+{
+  "video": {
+    "video_id": "VTT-2",
+    "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+    "speaker": "Rubén Cipriano",
+    "total_duration": "00:24:42",
+    "total_duration_seconds": 1482,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "VTT-2-001",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:03:45",
+      "start_seconds": 2,
+      "end_seconds": 225,
+      "duration_seconds": 223,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Clasificación BAMIC y tiempos de recuperación biológica",
+      "summary": "En lesiones musculotendinosas, es prioritario recuperar la función del patrón motor. Conocer la localización, grado y tejido implicado es clave, destacando la clasificación BAMIC (basada en RMN). La afectación miofascial (vascularizada) es más rápida de curar que las lesiones que involucran el tendón, las cuales requieren plazos y estímulos de fuerza distintos y prolongados.",
+      "literal_quote": "Esta no solo distingue los grados... sino que también tiene muy en cuenta, y para mí esto es lo más importante, el tejido afectado.",
+      "full_transcript": "A continuación, veremos las lesiones de estructuras contráctiles o partes blandas, también conocidas como musculotendinosas. En este tipo de lesiones, lo más importante va a ser recuperar la función de la musculatura lesionada dentro del patrón motor específico. Para ello, también es muy importante, como ya hemos mencionado, conocer el grado de la lesión, la localización y, por supuesto, el tejido implicado, así como los tiempos biológicos, que nos van a marcar todo el proceso... Para ello, una de las clasificaciones más completas y específicas es la clasificación BAMIC, basada en pruebas de imagen por resonancia magnética. Esta no solo distingue los grados... sino que también tiene muy en cuenta, y para mí esto es lo más importante, el tejido afectado: si es una lesión en una zona miofascial, en un tejido miofascial, si tiene alguna implicación tendinosa, musculotendinosa, o si es puramente tendinosa. Esto es lo que al final nos va a marcar y diferenciar los tiempos de recuperación.",
+      "keywords": [
+        "bamic",
+        "tejido-miofascial",
+        "lesion-tendinosa",
+        "resonancia-magnetica",
+        "patron-motor",
+        "tiempos-biologicos"
+      ],
+      "entities": [
+        "BAMIC"
+      ],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la clasificación BAMIC en el diagnóstico de lesiones?",
+        "¿Qué diferencia en la recuperación existe entre una lesión miofascial y una tendinosa?",
+        "¿Cómo afectan los grados de la lesión a los tiempos biológicos de recuperación?"
+      ],
+      "related_terms": [
+        "clasificación",
+        "BAMIC",
+        "tejido",
+        "miofascial",
+        "tiempos",
+        "de",
+        "recuperación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación de lesiones específicas de estructuras contráctiles.",
+      "context_after": "Se detallan las fases biológicas tras la lesión, comparando tiempos de inflamación y regeneración."
+    },
+    {
+      "id": "VTT-2-002",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:03:49",
+      "end_timestamp": "00:06:27",
+      "start_seconds": 229,
+      "end_seconds": 387,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=229",
+      "title": "Fases de cicatrización y orientación de fibras de colágeno",
+      "summary": "Tras una lesión, el tejido atraviesa fases de inflamación, degeneración, regeneración y fibrosis. Las fases 2 y 3 son claves para aplicar trabajos de fuerza, ya que orientan el colágeno y garantizan una cicatriz de calidad. A diferencia del músculo (semanas), el tendón requiere periodos extensos (meses) por su menor vascularización y mayor tensión.",
+      "literal_quote": "Los trabajos de fuerza en la segunda y tercera fase son claves para orientar bien la fibra de colágeno y obtener una buena calidad de fibras.",
+      "full_transcript": "Cuando tenemos una afección en una de estas zonas musculotendinosas, en las primeras horas se produce una fase inflamatoria y una fase de degeneración. A los pocos días comienza una fase de regeneración, en la que ya podemos empezar a estimular la zona para que, en la última fase, la de fibrosis donde se genera la cicatriz, podamos obtener una cicatriz de calidad, con un alineamiento de fibras adecuado... La fase de inflamación suele abarcar las primeras 72 horas. Luego, el resto de fases en las tendinosas se amplían bastante... de los 21 días, entre tres y seis semanas en las musculares, hasta las seis y 12 semanas en las tendinosas. Incluso podemos hablar de meses... Finalmente, el tendón, como hemos dicho, tiene mucha menos vascularización que el músculo, lo que retrasa su regeneración... Vuelvo a recalcar que los trabajos de fuerza en la segunda y tercera fase son claves para orientar bien la fibra de colágeno y obtener una buena calidad de fibras... evitando en el futuro problemas de recaídas.",
+      "keywords": [
+        "regeneracion",
+        "fibrosis",
+        "cicatriz",
+        "colageno",
+        "vascularizacion",
+        "tendon",
+        "recaidas"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases biológicas tras una lesión musculotendinosa?",
+        "¿Por qué es clave el entrenamiento de fuerza en la regeneración?",
+        "¿Qué diferencias de tiempo existen entre la cicatrización del músculo y del tendón?"
+      ],
+      "related_terms": [
+        "fibra",
+        "de",
+        "colágeno",
+        "cicatriz",
+        "vascularización",
+        "regeneración"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre cómo el tejido afectado marca los tiempos de recuperación en la clasificación BAMIC.",
+      "context_after": "Descripción de los objetivos fisiológicos del músculo al aplicar fuerzas (velocidad de contracción, stiffness, rango funcional)."
+    },
+    {
+      "id": "VTT-2-003",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:06:30",
+      "end_timestamp": "00:10:40",
+      "start_seconds": 390,
+      "end_seconds": 640,
+      "duration_seconds": 250,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=390",
+      "title": "Recuperación funcional: especificidad, stiffness y coordinación de cadenas",
+      "summary": "Recuperar un músculo exige restablecer su velocidad, potencia (RFD), stiffness y rango óptimo funcional. Además, no basta con aislar el tejido; se debe reintegrar la coordinación intramuscular con estructuras adyacentes para evitar sobreestimulación del foco dañado. Todo debe transferir al patrón motor repetitivo bajo fatiga.",
+      "literal_quote": "Muchas veces nos enfocamos solo en recuperar el músculo concreto que resultó lesionado, pero nos olvidamos del resto de estructuras adyacentes. Esto puede provocar el músculo lesionado se recupere, pero la función no sea óptima.",
+      "full_transcript": "Al final, el objetivo en este tipo de estructuras... es recuperar la función muscular. La función muscular está directamente relacionada con la fuerza... En cuanto al mundo del alto rendimiento, el objetivo es restablecer la velocidad de contracción... mantener una buena potencia muscular, una buena RFD, que el músculo tenga una buena capacidad de \"stiffness\", y que el tendón sea capaz de transmitir esa fuerza... También es muy importante conseguir que haya un rango óptimo de funcionalidad... de longitud y flexibilidad. Si conseguimos que un músculo se recupere y sea fuerte, pero no tiene una buena longitud ni capacidad de elongarse... estaremos aumentando el factor de riesgo de recidiva. Otro de los aspectos clave es recuperar la coordinación intermuscular... es fundamental que estos músculos estén bien coordinados entre sí para poder ejecutar correctamente la secuencia... Muchas veces nos enfocamos solo en recuperar el músculo concreto que resultó lesionado, pero nos olvidamos del resto de estructuras adyacentes. Esto puede provocar el músculo lesionado se recupere, pero la función no sea óptima... Por ejemplo, en una extensión de cadera nos centramos únicamente en la lesión en un isquiotibial, pero ¿qué pasa con el glúteo? ... Es una cadena y, si nos centramos únicamente en un eslabón, vamos a tener una estructura que no está optimizada... Otro de los aspectos muy importantes es que no solo sea capaz de hacer todo esto una vez, sino prolongado en el tiempo y que tenga una resistencia a la fatiga... y que tenga transferencia al gesto deportivo de manera específica.",
+      "keywords": [
+        "stiffness",
+        "rfd",
+        "rango-optimo",
+        "coordinacion-intermuscular",
+        "cadena-cinetica",
+        "fatiga",
+        "transferencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué componentes de la fuerza se buscan recuperar en el alto rendimiento post-lesión?",
+        "¿Por qué es importante el rango óptimo de funcionalidad tras una lesión muscular?",
+        "¿Qué ocurre si solo se aísla el músculo lesionado sin trabajar la coordinación intermuscular?"
+      ],
+      "related_terms": [
+        "stiffness",
+        "rango",
+        "de",
+        "movilidad",
+        "coordinación",
+        "intermuscular",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de las fases de cicatrización y alineación del colágeno mediante la fuerza.",
+      "context_after": "Se presentan ejemplos de trabajo de fuerza en las primeras fases agudas y subagudas."
+    },
+    {
+      "id": "VTT-2-004",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:10:42",
+      "end_timestamp": "00:14:02",
+      "start_seconds": 642,
+      "end_seconds": 842,
+      "duration_seconds": 200,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=642",
+      "title": "Manejo de la fuerza en las fases aguda y subaguda",
+      "summary": "En las primeras horas/días se buscan estímulos indoloros y movilización de zonas no afectadas, empleando el área lesionada de modo isométrico pasivo. Entre el tercer y vigésimo primer día, aumenta la carga isométrica pasando a concéntrica leve, incorporando retos propioceptivos y aeróbicos, pero vetando rigurosamente los excéntricos a alta velocidad y pliometría.",
+      "literal_quote": "Trabajamos otra musculatura, trabajamos otra estructura y esta zona simplemente se activa como estabilizadora, como secundaria, pero no tiene gran incidencia.",
+      "full_transcript": "Como ejemplo de trabajo de fuerza en primeras fases, en una primera fase aguda, en las primeras horas... no hay que volverse loco. Son estímulos de baja intensidad, siempre evitando dolor, movilizar la zona, trabajar de zona no afectada... Los primeros días totalmente sin carga, quizá a partir de las 48 o 72 horas, un pequeño estímulo con un elástico, o ir progresando a trabajos en los que esta musculatura o esta zona actúe, pero de forma secundaria, en este caso estabilizadora, que se active de manera isométrica, pero muy poco... Trabajamos otra musculatura, trabajamos otra estructura y esta zona simplemente se activa como estabilizadora... Una fase dos, ya entre el tercer y el día 21... ya podemos comenzar con algo más de carga, con ejercicios principalmente isométricos en las primeras fases, progresando hacia ejercicios con contracciones más concéntricas... Por eso vemos aquí este vídeo de la sentadilla y el peso muerto, donde colocamos un plano inclinado para tratar, en este ejemplo del sóleo, que el sóleo esté activo, pero no participe en su función principal... introducir también algunos trabajos de equilibrio, de propiocepción... Y por supuesto, trabajo a evitar, todo el trabajo excéntrico de alta velocidad, trabajos de sprint, trabajos de salto, trabajos pliométricos. Sí que hay que ir llevando esa progresión, pero también teniendo claro lo que no hay que hacer.",
+      "keywords": [
+        "fase-aguda",
+        "activacion-secundaria",
+        "isometria",
+        "concentrica",
+        "excentrico",
+        "pliometria",
+        "estabilizadora"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo debe trabajarse la zona lesionada en las primeras 72 horas?",
+        "¿Qué función cumple la musculatura lesionada durante la fase 2 de recuperación?",
+        "¿Qué tipo de ejercicios están contraindicados hasta el día 21 en readaptación muscular?"
+      ],
+      "related_terms": [
+        "isométricos",
+        "concéntricas",
+        "función",
+        "secundaria",
+        "trabajo",
+        "excéntrico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del objetivo final de rendimiento, resistencia a la fatiga y cadena cinética.",
+      "context_after": "Se pasa a explicar la fase final de lesiones miotendinosas donde se introduce CEA y carga excéntrica pesada."
+    },
+    {
+      "id": "VTT-2-005",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:14:04",
+      "end_timestamp": "00:15:55",
+      "start_seconds": 844,
+      "end_seconds": 955,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=844",
+      "title": "Última fase miotendinosa: excéntricos, CEA y criterio multidisciplinar",
+      "summary": "En la última etapa miotendinosa se integran acciones excéntricas y pliométricas (CEA), maximizando potencias con inercias. Es esencial monitorizar la simetría contralateral y el dolor. El avance en esta fase agresiva requiere validación multidisciplinar clínica (servicios médicos, ecografías, feedback del jugador).",
+      "literal_quote": "Pasar a ejercicios donde ya aparezca el componente excéntrico, donde ya se trabaja a diferentes velocidades, diferentes amplitudes, incluso donde haya ese ciclo de estiramiento-acortamiento.",
+      "full_transcript": "En una última fase para este tipo de lesiones de tipo IB, de tipo miotendinoso, pasar a ejercicios donde ya aparezca el componente excéntrico, donde ya se trabaja a diferentes velocidades, diferentes amplitudes, incluso donde haya ese ciclo de estiramiento-acortamiento, ese CEA, que vamos a tener un cambio rápido de excéntrico a concéntrico... Trabajar las diferentes capacidades de fuerza máxima, fuerza explosiva, trabajos de potencia, trabajos con diferente tipo de resistencias... En este caso, vemos aquí el vídeo con la inercial... donde la carga es mucho mayor y donde el componente de sobrecarga excéntrica es mucho mayor. También patrones específicos como aterrizajes, saltos, cutting, deceleraciones... Siempre también controlando muy bien el dolor, teniendo en cuenta o valorando la simetría con el miembro contralateral... y donde también nos guiemos y nos orientemos si tenemos la posibilidad de imágenes como resonancia magnética, ecografía, etcétera, y donde también predomine el criterio clínico, la evaluación del servicio médico, la opinión del fisioterapeuta, la opinión del propio jugador y del doctor para poder avanzar más o ir más despacio.",
+      "keywords": [
+        "ciclo-estiramiento-acortamiento",
+        "sobrecarga-excentrica",
+        "inercial",
+        "simetria",
+        "criterio-clinico",
+        "pliometria",
+        "cutting"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el ciclo de estiramiento-acortamiento (CEA) en la readaptación?",
+        "¿Qué indicadores se utilizan para validar el avance en la última fase miotendinosa?",
+        "¿Por qué es importante el trabajo multidisciplinar en las fases finales de la readaptación?"
+      ],
+      "related_terms": [
+        "excéntrico",
+        "simetría",
+        "contralateral",
+        "criterio",
+        "clínico",
+        "ecografía"
+      ],
+      "relevance_score": 5,
+      "context_before": "Detalle sobre cómo evitar el trabajo excéntrico y rápido en las fases tempranas de curación.",
+      "context_after": "Se pasa a explicar la diferencia sustancial en tiempos de carga y progresiones para las lesiones de tendón (Tipo C)."
+    },
+    {
+      "id": "VTT-2-006",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:15:59",
+      "end_timestamp": "00:18:15",
+      "start_seconds": 959,
+      "end_seconds": 1095,
+      "duration_seconds": 136,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=959",
+      "title": "Manejo cauteloso y cronología extendida en lesiones tendinosas (Tipo C)",
+      "summary": "Las lesiones puramente tendinosas demandan mucha más cautela. Semanas 1 a 3 priorizan isometría estricta; de la 2 a la 5 se añade isotónico muy lento; al mes se inicia almacenamiento elástico (excéntricos leves). Solo a partir de las semanas 7-8 se introducen cargas y fatigas específicas.",
+      "literal_quote": "Para lesiones tendinosas de tipo C, sí que debemos ser bastante más cautelosos, debemos alargar bastante más el proceso.",
+      "full_transcript": "Por lo tanto, esto que hemos visto sería para lesiones de tipo IB, muscular, miotendinosa. Para lesiones tendinosas de tipo C, sí que debemos ser bastante más cautelosos, debemos alargar bastante más el proceso, donde las primeras semanas prácticamente solo haríamos trabajo isométrico en cuanto a fuerza... A partir de la segunda hasta la quinta semana, sí que podríamos comenzar un poco el trabajo isotónico lento en función de la tolerancia... A partir de la cuarta semana, a partir del mes, ya podemos empezar a hacer un trabajo más de almacenamiento y liberación de energía, más orientado a ese componente contráctil, elástico, donde ya podemos empezar a focalizarnos más en trabajo excéntrico, en trabajo pliométrico, aunque muy controlado... Finalmente, a partir de la séptima hasta la octava semana en adelante, introducir una carga específica donde ya el objetivo sea trabajar todos los componentes de la fuerza, aplicarlos a la especificidad deportiva... y donde también, además del componente pliométrico, excéntrico, etcétera, trabajemos con criterio de fatiga, con criterio de perturbación... que preparen a esa estructura para la especificidad del deporte.",
+      "keywords": [
+        "tendinopatia",
+        "tipo-c",
+        "almacenamiento-energia",
+        "isotonico-lento",
+        "excentrico",
+        "fatiga",
+        "perturbacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los plazos para integrar trabajo excéntrico en lesiones tendinosas?",
+        "¿Qué tipo de trabajo de fuerza se permite en el primer mes de una lesión tipo C?",
+        "¿Cuándo se introduce el trabajo con fatiga en la recuperación del tendón?"
+      ],
+      "related_terms": [
+        "tendinosas",
+        "de",
+        "tipo",
+        "c",
+        "isotónico",
+        "lento",
+        "almacenamiento",
+        "de",
+        "energía"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la fase avanzada miotendinosa, que es mucho más rápida que la tendinosa.",
+      "context_after": "Presentación de un caso práctico específico sobre lesiones de tendón isquiotibial."
+    },
+    {
+      "id": "VTT-2-007",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:18:17",
+      "end_timestamp": "00:21:50",
+      "start_seconds": 1097,
+      "end_seconds": 1310,
+      "duration_seconds": 213,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1097",
+      "title": "Caso práctico: Progresión angular y funcional en isquiotibiales",
+      "summary": "Para rehabilitar isquiotibiales se ajustan las angulaciones de trabajo dependiendo de si el tejido dañado es dominante de cadera o rodilla (ej. bíceps femoral vs semitendinoso). La progresión va de isometrías angulares, concéntricos y excéntricos aislados, hasta pliometría avanzada y aceleración resistida en el campo. Simultáneamente se debe estimular a los sinergistas (core, aductores).",
+      "literal_quote": "También tenemos que tener en cuenta la zona donde esté la lesión... si es el bíceps femoral, cabeza corta, cabeza larga, semitendinoso, semimembranoso. Para ello jugaremos con todo este tipo de angulaciones.",
+      "full_transcript": "Si vemos también algún ejemplo, en este caso de una lesión tendinosa en isquiotibiales... las primeras tres semanas se hacen trabajos isométricos buscando diferentes ángulos y angulaciones. También tenemos que tener en cuenta la zona donde esté la lesión, el tipo de musculatura dentro de los isquiotibiales: si es el bíceps femoral, cabeza corta, cabeza larga, semitendinoso, semimembranoso. Para ello jugaremos con todo este tipo de angulaciones, dependiendo de si hay una zona más predominante de cadera o más de rodilla. A partir de la segunda hasta la quinta semana, se realizan trabajos concéntricos de baja carga... En las semanas a partir del mes, se trabaja el almacenamiento y liberación de energía... en diferentes amplitudes: rangos de movimiento cortos o bastante amplios. Como vemos en el ejercicio de la patada tumbado en el suelo, donde hay ya trabajos de desaceleración, de cambio rápido excéntrico-concéntrico, e incluso donde haya algún componente de estabilización... Aquí quizá nos estemos enfocando especialmente en la musculatura isquiotibial, pero no debemos olvidar el resto de estructuras y musculatura... será necesario que el deportista siga estimulando zonas como los aductores, el cuádriceps... trabajos compensatorios de core... En la última fase... se realizan ejercicios donde se aplique y realmente se ponga a prueba la función... como trabajo de pliometría avanzada, patrones específicos de cambio de dirección, deceleración, aceleración... Dentro del patrón motor específico de la musculatura, trabajamos también el patrón motor específico de nuestra modalidad deportiva. En este caso... trabajos acelerativos y decelerativos... ejercicios lastrados, con resistencia asistida y resistida.",
+      "keywords": [
+        "isquiotibiales",
+        "biceps-femoral",
+        "angulaciones",
+        "cadera",
+        "rodilla",
+        "resistencia-resistida",
+        "pliometria-avanzada"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las diferentes porciones del isquiotibial a la biomecánica de su recuperación?",
+        "¿Qué estructuras secundarias deben estimularse durante una rehabilitación de isquiotibiales?",
+        "¿Qué ejercicios específicos completan la fase final de rehabilitación en isquiotibiales para fútbol?"
+      ],
+      "related_terms": [
+        "isquiotibiales",
+        "angulaciones",
+        "predominante",
+        "de",
+        "cadera",
+        "trabajos",
+        "compensatorios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de la lentitud y cautela en las progresiones de tendinopatías.",
+      "context_after": "Conclusiones finales resumiendo que todos los trabajos se basan en especificidad cruzada con datos de imagen."
+    },
+    {
+      "id": "VTT-2-008",
+      "video_title": "Lesiones de estructuras contráctiles y partes blandas",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:21:52",
+      "end_timestamp": "00:24:42",
+      "start_seconds": 1312,
+      "end_seconds": 1482,
+      "duration_seconds": 170,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1312",
+      "title": "Especificidad del mecanismo lesivo y prevención de recidivas severas",
+      "summary": "Para cerrar el módulo, se recuerda la utilidad del diagnóstico por imagen para guiar los tiempos biológicos. La recuperación exige replicar la 'especificidad de la lesión' y la 'especificidad del gesto lesivo'. Exponer a la estructura dañada al mecanismo que la rompió (ej. sprint), en un entorno seguro y con fatiga, es imperativo. Un error por prisa, especialmente en daños tendinosos graves, eleva el riesgo de intervención quirúrgica.",
+      "literal_quote": "Si el jugador se lesionó en un sprint, nuestro objetivo será que pueda hacerlo de la forma más segura posible, replicando este mecanismo en fatiga y asegurando que la estructura lo soporte.",
+      "full_transcript": "Como conclusión... la recuperación depende no solo del tejido afectado, sino también del grado de lesión... Si tenemos la suerte de contar con resonancia magnética o la imagen de la lesión, podemos afinar bastante... Las fases biológicas nos indicarán la progresión de la fuerza... La especificidad, en este caso, se refiere al patrón de la lesión... y a la especificidad deportiva, como una aceleración, deceleración... Pero la especificidad también estará presente en el gesto lesivo, el mecanismo que provocó la lesión. Es decir, si el jugador se lesionó en un sprint, nuestro objetivo será que pueda hacerlo de la forma más segura posible, replicando este mecanismo en fatiga y asegurando que la estructura lo soporte. La especificidad de la lesión, del deporte y del gesto lesivo es lo que nos orientará sobre dónde enfocar nuestros ejercicios... Finalmente, es fundamental tener cautela, conocer los tiempos de regeneración y no avanzar demasiado rápido, porque eso puede aumentar el riesgo de recidiva... En este tipo de lesiones, cuando hay una recidiva, suele tratarse de afecciones bastante graves. Incluso en algunos casos, las lesiones tipo C, tendinosas y de rotura, pueden requerir intervención quirúrgica. Por tanto, debemos tener cautela.",
+      "keywords": [
+        "gesto-lesivo",
+        "mecanismo-lesional",
+        "sprint",
+        "fatiga",
+        "recidiva",
+        "lesion-tipo-c",
+        "intervencion-quirurgica"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significa la especificidad del gesto lesivo en la recuperación deportiva?",
+        "¿Por qué no se deben apresurar los tiempos de regeneración de una lesión tendinosa?",
+        "¿Qué consecuencias graves tiene una recaída en una lesión tipo C?"
+      ],
+      "related_terms": [
+        "especificidad",
+        "del",
+        "gesto",
+        "lesivo",
+        "mecanismo",
+        "en",
+        "fatiga",
+        "intervención",
+        "quirúrgica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplos prácticos y secuenciales de readaptación de isquiotibiales con cargas y velocidades crecientes.",
+      "context_after": "Cierre de la presentación sobre el tratamiento de lesiones contráctiles de partes blandas."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "video": {
+    "video_id": "VTT-1",
+    "video_title": "Fuerza en readaptación de lesiones",
+    "speaker": "Rubén Cipriano",
+    "total_duration": "00:15:05",
+    "total_duration_seconds": 905,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "VTT-1-001",
+      "video_title": "Fuerza en readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:02:15",
+      "end_timestamp": "00:04:18",
+      "start_seconds": 135,
+      "end_seconds": 258,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=135",
+      "title": "El deportista lesionado y la optimización de estructuras no afectadas",
+      "summary": "El proceso de readaptación no solo busca sanar la lesión, sino mantener y optimizar las capacidades del deportista. Un jugador lesionado no es inactivo; se puede aprovechar el tiempo para trabajar estructuras físicas no afectadas y aspectos mentales, facilitando un retorno rápido y funcional.",
+      "literal_quote": "Un deportista lesionado no es un deportista inactivo, mucho menos en el fútbol profesional, donde tenemos muy poco tiempo y todo va muy rápido.",
+      "full_transcript": "Como pequeña introducción, tenemos que ver el proceso de readaptación de lesiones como una parte en la que debemos tratar de que no solo el jugador se recupere de esa lesión o daño producido, sino también que no pierda sus capacidades y, sobre todo, que vuelva a ser funcional tras su recuperación y en las mejores condiciones posibles. Esto quiere decir que un deportista lesionado no es un deportista inactivo, mucho menos en el fútbol profesional, donde tenemos muy poco tiempo y todo va muy rápido. Un deportista lesionado no puede estar parado, inactivo. Por lo tanto, siempre podremos hacer otro tipo de trabajo, aprovechar ese tiempo para mejorar u optimizar otras estructuras y hacer que el jugador no pierda su forma... ya debemos enfocar nuestro trabajo en que el jugador pueda volver lo antes posible y en las mejores condiciones posibles.",
+      "keywords": [
+        "readaptacion",
+        "deportista-inactivo",
+        "funcionalidad",
+        "optimizacion",
+        "lesiones",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué un deportista lesionado no debe considerarse inactivo?",
+        "¿Cuál es el enfoque inicial en el proceso de readaptación de una lesión?",
+        "¿Qué capacidades se pueden optimizar durante una lesión?"
+      ],
+      "related_terms": [
+        "deportista",
+        "lesionado",
+        "inactivo",
+        "funcionalidad",
+        "optimizar",
+        "estructuras"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación del ponente, su experiencia en el Granada CF y Real Madrid, y estructura de los contenidos del módulo.",
+      "context_after": "Explicación sobre cómo el objetivo de la readaptación va más allá de quitar el dolor, buscando un rendimiento superior y prevención de recaídas."
+    },
+    {
+      "id": "VTT-1-002",
+      "video_title": "Fuerza en readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:05:08",
+      "end_timestamp": "00:06:14",
+      "start_seconds": 308,
+      "end_seconds": 374,
+      "duration_seconds": 66,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=308",
+      "title": "El objetivo funcional de la readaptación y prevención de recaídas",
+      "summary": "El fin último de la readaptación no es únicamente reducir el dolor o reparar un tejido, sino lograr que la estructura afectada soporte las máximas exigencias deportivas. Se busca que la zona vuelva reforzada para prevenir futuras recaídas tanto en esa estructura como en las adyacentes.",
+      "literal_quote": "El objetivo de la readaptación no es solo curar al jugador, sino hacer que pueda competir al máximo nivel y que esa estructura sea funcionalmente perfecta, incluso mejor o reforzada con respecto a la lesión previa.",
+      "full_transcript": "En relación directamente con la lesión, nuestro objetivo no debe ser únicamente recuperar ese tejido o esa zona, que baje el dolor, sino conseguir que la lesión vuelva a ser funcional. En el caso de que sea musculatura, ligamento o esa zona, debe volver a ser funcional en cuanto a la exigencia que se le va a demandar o al nivel que va a requerir el deportista. El objetivo de la readaptación no es solo curar al jugador, sino hacer que pueda competir al máximo nivel y que esa estructura sea funcionalmente perfecta, incluso mejor o reforzada con respecto a la lesión previa. También debemos tratar de establecer una serie de protocolos o trabajos que puedan prevenir recaídas o incluso mejorar la zona adyacente a la lesión, para que no haya riesgo de sufrir otras lesiones en estructuras cercanas.",
+      "keywords": [
+        "funcionalidad",
+        "tejido",
+        "dolor",
+        "competir",
+        "maximo-nivel",
+        "prevencion",
+        "recaidas"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es el verdadero objetivo de readaptar una lesión en el alto rendimiento?",
+        "¿Cómo se previene el riesgo de sufrir otras lesiones en estructuras cercanas?",
+        "¿Qué significa que una estructura vuelva reforzada post-lesión?"
+      ],
+      "related_terms": [
+        "objetivo",
+        "funcional",
+        "prevención",
+        "recaídas",
+        "máximo",
+        "nivel"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalla que el deportista lesionado debe trabajar otras estructuras físicas y cognitivas que no afecten la zona dañada.",
+      "context_after": "Se subraya que este objetivo ambicioso requiere el compromiso de todo el cuerpo técnico y no solo del readaptador."
+    },
+    {
+      "id": "VTT-1-003",
+      "video_title": "Fuerza en readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:06:16",
+      "end_timestamp": "00:08:46",
+      "start_seconds": 376,
+      "end_seconds": 526,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=376",
+      "title": "El enfoque multidisciplinar y el rol central del jugador",
+      "summary": "La recuperación exitosa es un proceso necesariamente coordinado entre médicos, fisioterapeutas, readaptadores y el head coach (quien toma la última decisión). Además, el jugador es el eje central del proceso; su feedback constante sobre sus sensaciones, deseos y miedos es indispensable para avanzar de forma óptima.",
+      "literal_quote": "El jugador es el eje de todo el proceso, el punto central, y también debe estar implicado en todo ello.",
+      "full_transcript": "Este no es un trabajo únicamente del readaptador de lesiones, del fisioterapeuta o del médico, sino que es un trabajo necesariamente multidisciplinar, donde es muy importante la coordinación entre las diferentes áreas: el médico, el fisioterapeuta, el especialista en Ciencias del Deporte, en nuestro caso, el entrenador de fuerza, el entrenador de campo, el propio cuerpo técnico y el entrenador principal o head coach, que al final es quien va a decidir cuándo el jugador está disponible y cuándo va a jugar. También debe estar implicado en el proceso... Podemos hacer nuestra parte del trabajo perfectamente, pero si no estamos bien coordinados con el resto de áreas o compañeros, o la información no fluye, al final es donde realmente vamos a encontrar problemas. También es muy importante hacer partícipe al jugador en todo el proceso, que nos dé su feedback y sus sensaciones, y que nos vaya orientando y guiando, ya que encontraréis mil perfiles diferentes de jugadores: algunos que reman, quieren, van hacia adelante y tiran; y otros que, por el contrario, tienen miedo, se frenan y es más difícil avanzar. Por lo tanto, el jugador es el eje de todo el proceso, el punto central, y también debe estar implicado en todo ello.",
+      "keywords": [
+        "trabajo-multidisciplinar",
+        "head-coach",
+        "comunicacion",
+        "feedback-jugador",
+        "coordinacion",
+        "staff"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué papel juega el head coach en el proceso de recuperación de lesiones?",
+        "¿Por qué es fundamental el feedback del jugador lesionado?",
+        "¿Cuáles son los riesgos de una mala coordinación en el cuerpo técnico?"
+      ],
+      "related_terms": [
+        "trabajo",
+        "multidisciplinar",
+        "coordinación",
+        "feedback",
+        "del",
+        "jugador"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de que el objetivo funcional y de alto nivel en la readaptación es muy ambicioso.",
+      "context_after": "Mención a las características de las lesiones según si son de parte blanda o parte pasiva, y sus plazos."
+    },
+    {
+      "id": "VTT-1-004",
+      "video_title": "Fuerza en readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:10:21",
+      "end_timestamp": "00:12:21",
+      "start_seconds": 621,
+      "end_seconds": 741,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=621",
+      "title": "Criterios funcionales y monitorización de la carga en readaptación",
+      "summary": "Los principios clave de readaptación incluyen el respeto por los tiempos biológicos, que pueden variar individualmente, y la especificidad del tejido dañado. Se debe priorizar que el deportista recupere la función completa (criterio funcional) sobre el mero cumplimiento de plazos (criterio temporal). La monitorización exhaustiva, mediante métodos objetivos y subjetivos, resulta esencial para avalar el progreso.",
+      "literal_quote": "Debemos atender a criterios funcionales, no solamente a criterios temporales.",
+      "full_transcript": "Por lo tanto, los principios del trabajo de readaptación se basan principalmente en conocer y respetar los tiempos biológicos, aunque esto también puede ser sujetodependiente... Debemos también ser muy cautelosos con la progresión gradual de la carga, sobre todo en las primeras fases. Debemos conocer bien la especificidad de cada tejido... Debemos atender a criterios funcionales, no solamente a criterios temporales. Es decir, no solo vemos la vuelta en cuanto al tiempo, sino que el deportista pueda recuperar la función de la zona donde se produjo esa lesión. Para ello también será muy importante tener monitorizada la carga, poder controlarla, ya sea a través de cuestionarios, de la propia percepción del jugador, como de criterios más objetivos, como pueden ser test de fuerza, encoder, plataformas, diferentes valoraciones. Pero es muy importante ver cómo el jugador progresa y ver si el jugador está mejorando. Y vuelvo a hacer hincapié en la importancia del trabajo multidisciplinar.",
+      "keywords": [
+        "tiempos-biologicos",
+        "criterios-funcionales",
+        "monitorizacion-carga",
+        "encoder",
+        "plataformas-fuerza",
+        "especificidad-tejido"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué significa priorizar criterios funcionales sobre temporales en lesiones?",
+        "¿Cómo se monitoriza la progresión de un jugador lesionado?",
+        "¿Cuáles son los principios fundamentales en el trabajo de readaptación?"
+      ],
+      "related_terms": [
+        "tiempos",
+        "biológicos",
+        "criterios",
+        "funcionales",
+        "monitorización",
+        "de",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clasificación de lesiones por estructuras (blandas/contráctiles vs pasivas/no contráctiles) y ubicación de afecciones.",
+      "context_after": "Se describe paso a paso el modelo global de readaptación, desde el diagnóstico hasta la transferencia a campo."
+    },
+    {
+      "id": "VTT-1-005",
+      "video_title": "Fuerza en readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:12:23",
+      "end_timestamp": "00:15:05",
+      "start_seconds": 743,
+      "end_seconds": 905,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=743",
+      "title": "Modelo global de readaptación y el factor clave del entrenamiento de fuerza",
+      "summary": "El modelo global sigue una secuencia: diagnóstico clínico, comprensión biológica de la lesión, diseño de un plan y transferencia funcional, donde el entrenamiento de fuerza es el factor crítico de recuperación. El proceso es continuo, pero no lineal (con altibajos), y en el alto rendimiento tiende a rozar los límites fisiológicos, haciendo indispensable la prevención del eslabón débil.",
+      "literal_quote": "Pero la fuerza, y por ello esta charla, es el factor clave en la recuperación de lesiones.",
+      "full_transcript": "Como modelo global de readaptación, podríamos hablar de que lo primero es tener un buen diagnóstico clínico, conocer e identificar la lesión. Posteriormente, comprender la lesión, el tejido afectado, biología, tiempos, etcétera. Establecer un plan, determinar unas fases y qué se va a hacer en cada una de las fases... Diseñar y llevar a cabo este plan a través del entrenamiento, por lo que normalmente en las lesiones el entrenamiento de fuerza es clave... Pero la fuerza, y por ello esta charla, es el factor clave en la recuperación de lesiones. Y por último, transferir toda esta fuerza y todas estas capacidades a la especificidad, al alto rendimiento... Esto al final es un proceso continuo, pero continuo no quiere decir lineal, sino que vamos a tener seguramente altibajos, va a haber fases en las que vaya más rápido, fases en las que se vaya más despacio, incluso fases en las que tengamos que volver, parar o ajustar nuestro plan. Por lo tanto, es un proceso continuo de monitorización, evaluación y ajuste constante... Más allá de si diferenciamos entre rendimiento y salud, en este caso el rendimiento siempre va un poco más apresurado y va un poco más al límite de la biología, asumiendo los riesgos que esto puede suponer.",
+      "keywords": [
+        "modelo-global",
+        "entrenamiento-fuerza",
+        "diagnostico-clinico",
+        "proceso-no-lineal",
+        "transferencia",
+        "alto-rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pasos del modelo global de readaptación?",
+        "¿Por qué se dice que el proceso de readaptación no es lineal?",
+        "¿Qué papel cumple el entrenamiento de fuerza en la readaptación de lesiones?"
+      ],
+      "related_terms": [
+        "modelo",
+        "global",
+        "entrenamiento",
+        "de",
+        "fuerza",
+        "proceso",
+        "no",
+        "lineal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la monitorización de la carga y la priorización de los criterios funcionales por encima de los temporales.",
+      "context_after": "El fragmento finaliza destacando la necesidad de que la nueva área recuperada no quede como eslabón débil para evitar recaídas."
+    }
+  ]
+}
