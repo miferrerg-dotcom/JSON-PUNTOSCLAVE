@@ -1,0 +1,532 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "oscar tojo",
+    "speaker": "Óscar Tojo",
+    "total_duration": "00:31:37",
+    "total_duration_seconds": 1897,
+    "source_file": "WEBVTT-2",
+    "language": "pt"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:03:51",
+      "end_timestamp": "00:06:15",
+      "start_seconds": 231,
+      "end_seconds": 375,
+      "duration_seconds": 144,
+      "timestamp_url": "?t=231",
+      "title": "Representatividad en el diseño de ejercicios",
+      "summary": "La construcción de ejercicios de entrenamiento debe basarse en su representatividad, complejidad y contexto. Diseñar tareas que acerquen los conceptos tácticos a la lógica real del juego es fundamental para optimizar la transferencia.",
+      "literal_quote_pt": "como é que nós conseguimos trazer do jogo para o treino determinados princípios em termos daquilo que é aspetos mais conceptuais do exercício...",
+      "literal_quote_es": "cómo es que nosotros conseguimos traer del juego para el entrenamiento determinados principios en términos de aquello que son aspectos más conceptuales del ejercicio...",
+      "full_transcript_pt": "Quando eu vou começar a preparar um exercício, há aqui aspetos que me parecem muito importantes, aspetos relacionados com a representatividade do exercício, com a sua complexidade, com o contexto em que estamos a intervir... como é que nós conseguimos trazer do jogo para o treino determinados princípios em termos daquilo que é aspetos mais conceptuais do exercício, para que este exercício possa estar mais próximo da lógica do jogo.",
+      "full_transcript_es": "Cuando voy a empezar a preparar un ejercicio, hay aquí aspectos que me parecen muy importantes, aspectos relacionados con la representatividad del ejercicio, con su complejidad, con el contexto en que estamos interviniendo... cómo es que nosotros conseguimos traer del juego para el entrenamiento determinados principios en términos de aquello que son aspectos más conceptuales del ejercicio, para que este ejercicio pueda estar más próximo a la lógica del juego.",
+      "keywords": [
+        "representatividade",
+        "exercicio",
+        "jogo",
+        "treino",
+        "complexidade",
+        "conceitual"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significa la representatividad en el entrenamiento según Óscar Tojo?",
+        "¿Dónde se habla de la representatividad en el diseño de ejercicios?",
+        "¿Cómo se vincula la lógica del juego con el entrenamiento práctico?"
+      ],
+      "related_terms": [
+        "representatividad",
+        "en",
+        "el",
+        "diseño",
+        "de",
+        "ejercicios",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente menciona a figuras que le han marcado metodológicamente a lo largo de su carrera.",
+      "context_after": "Se comparan dos ejercicios prácticos para ilustrar cuál de ellos tiene mayor representatividad táctica."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:07:12",
+      "end_timestamp": "00:08:29",
+      "start_seconds": 432,
+      "end_seconds": 509,
+      "duration_seconds": 77,
+      "timestamp_url": "?t=432",
+      "title": "Manipulación de variables para el desarrollo físico",
+      "summary": "Manipular de manera consciente el espacio, el número de jugadores y el tiempo del ejercicio tiene un impacto directo en las métricas de los GPS y permite enfocar el estímulo hacia la fuerza, la resistencia o la velocidad.",
+      "literal_quote_pt": "Esta questão do espaço, do tempo e dos jogadores, dos comportamentos técnico-táticos, parece-me que são fundamentais nós conseguirmos controlar...",
+      "literal_quote_es": "Esta cuestión del espacio, del tiempo y de los jugadores, de los comportamientos técnico-tácticos, me parece que son fundamentales que nosotros consigamos controlar...",
+      "full_transcript_pt": "Esta questão do espaço, do tempo e dos jogadores, dos comportamentos técnico-táticos, parece-me que são fundamentais nós conseguirmos controlar, perceber. Temos aqui algum conjunto de informações que nos permita também ajudar nesse sentido... e percebem facilmente, em termos daquilo que é a luz das variáveis de GPS, o impacto que eles têm... E parece-me que isto é fundamental para nós podermos também tomar uma decisão em termos daquilo que é o predomínio do regime físico e em termos daquilo que é o dano muscular.",
+      "full_transcript_es": "Esta cuestión del espacio, del tiempo y de los jugadores, de los comportamientos técnico-tácticos, me parece que son fundamentales que nosotros consigamos controlar, percibir. Tenemos aquí algún conjunto de informaciones que nos permita también ayudar en ese sentido... y perciben fácilmente, a la luz de las variables de GPS, el impacto que tienen... Y me parece que esto es fundamental para que nosotros podamos también tomar una decisión en términos de aquello que es el predominio del régimen físico y en términos de aquello que es el daño muscular.",
+      "keywords": [
+        "espaco",
+        "tempo",
+        "jogadores",
+        "gps",
+        "regime-fisico",
+        "dano-muscular"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el espacio y el número de jugadores a las variables físicas?",
+        "¿Dónde se explica la manipulación de variables para el desarrollo físico?",
+        "¿Qué impacto tiene el tiempo del ejercicio en el GPS?"
+      ],
+      "related_terms": [
+        "manipulación",
+        "de",
+        "variables",
+        "desarrollo",
+        "físico",
+        "control",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de un ejercicio específico para el día -2 con enfoque en velocidad.",
+      "context_after": "Se detalla cómo adaptar el microciclo estándar y cómo varían las cargas a medida que se acerca el partido."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:09:40",
+      "end_timestamp": "00:11:00",
+      "start_seconds": 580,
+      "end_seconds": 660,
+      "duration_seconds": 80,
+      "timestamp_url": "?t=580",
+      "title": "Evolución y adaptación del microciclo competitivo",
+      "summary": "El microciclo de entrenamiento actual debe ser flexible. Se propone una carga evolutiva decreciente; por ejemplo, si ya se estimuló la velocidad previamente, el MD-2 puede enfocarse más en la recuperación manteniendo principios de baja exigencia espacial.",
+      "literal_quote_pt": "Acho que os microciclos têm vindo também a adaptar-se a uma certa realidade.",
+      "literal_quote_es": "Creo que los microciclos han venido también a adaptarse a una cierta realidad.",
+      "full_transcript_pt": "Acho que os microciclos têm vindo também a adaptar-se a uma certa realidade... Eu acho que isto está muito relacionado àquilo que é o efeito do dia menos cinco, menos quatro, menos três. Se vale a pena nós no menos dois já não podermos trabalhar velocidade, porque já trabalhamos nestes três dias, e não vale a pena estar aqui a dar uma carga extra. E aí o dia menos dois é mais direcionado para uma componente mais de recuperação, mas mantendo o estímulo em termos daquilo que são alguns dos princípios relacionados com aspetos da velocidade dentro do exercício, ou seja, um exercício mais pausado.",
+      "full_transcript_es": "Creo que los microciclos han venido también a adaptarse a una cierta realidad... Yo creo que esto está muy relacionado con aquello que es el efecto del día menos cinco, menos cuatro, menos tres. Si vale la pena que nosotros en el menos dos ya no podamos trabajar velocidad, porque ya trabajamos en estos tres días, y no vale la pena estar aquí dando una carga extra. Y ahí el día menos dos está más direccionado para una componente más de recuperación, pero manteniendo el estímulo en términos de aquello que son algunos de los principios relacionados con aspectos de la velocidad dentro del ejercicio, o sea, un ejercicio más pausado.",
+      "keywords": [
+        "microciclo",
+        "recuperacao",
+        "velocidade",
+        "dia-menos-dois",
+        "carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se adaptan los microciclos competitivos según la fatiga?",
+        "¿Dónde se explica la gestión de cargas en el día menos dos?",
+        "¿Por qué es importante no sobrecargar la velocidad cerca del partido?"
+      ],
+      "related_terms": [
+        "evolución",
+        "adaptación",
+        "del",
+        "microciclo",
+        "competitivo",
+        "control",
+        "carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Repaso a la fuerza, resistencia y velocidad como pilares de prevención dentro del microciclo.",
+      "context_after": "Se aborda el concepto SAQ y su direccionalidad en las sesiones de fuerza."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:11:25",
+      "end_timestamp": "00:13:13",
+      "start_seconds": 685,
+      "end_seconds": 793,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=685",
+      "title": "El concepto SAQ y el entrenamiento de velocidades angulares",
+      "summary": "El entrenamiento SAQ (Sprint, Agility, Quickness) puede enfocarse hacia la fuerza o la velocidad. Es crítico incluir el trabajo de velocidades angulares porque el 90% de los sprints en un partido real no se realizan en línea recta.",
+      "literal_quote_pt": "Eu acho que é muito importante nós... conseguirmos introduzir estas duas qualidades, porque 90% das velocidades acontecidas em jogo não são lineares.",
+      "literal_quote_es": "Yo creo que es muy importante que nosotros... consigamos introducir estas dos cualidades, porque el 90% de las velocidades que ocurren en juego no son lineales.",
+      "full_transcript_pt": "Eu gosto muito daquilo que é o conceito do SAK, do sprint agility and quickness, como é que nós conseguimos direcionar o SAK ao longo do tempo para ser mais para força ou ser mais para velocidade... Logicamente, outro dos aspetos importantes daquilo que é as capacidades físicas no microciclo está muito relacionado com aquilo que é o trabalho da velocidade máxima... não só em termos daquilo que são velocidades lineares, mas também as angulares. Eu acho que é muito importante nós, dentro do nosso processo de treino, conseguirmos introduzir estas duas qualidades, porque 90% das velocidades acontecidas em jogo não são lineares.",
+      "full_transcript_es": "Me gusta mucho aquello que es el concepto del SAQ, del sprint agility and quickness, cómo es que nosotros conseguimos direccionar el SAQ a lo largo del tiempo para ser más para fuerza o ser más para velocidad... Lógicamente, otro de los aspectos importantes de aquello que son las capacidades físicas en el microciclo está muy relacionado con aquello que es el trabajo de la velocidad máxima... no solo en términos de aquello que son velocidades lineales, sino también las angulares. Yo creo que es muy importante que nosotros, dentro de nuestro proceso de entrenamiento, consigamos introducir estas dos cualidades, porque el 90% de las velocidades que ocurren en juego no son lineales.",
+      "keywords": [
+        "saq",
+        "sprint",
+        "velocidade-angular",
+        "velocidade-linear",
+        "agilidade"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el concepto SAQ en la preparación física del fútbol?",
+        "¿Dónde se habla de la importancia de las velocidades angulares?",
+        "¿Por qué se deben entrenar los sprints no lineales?"
+      ],
+      "related_terms": [
+        "concepto",
+        "saq",
+        "entrenamiento",
+        "de",
+        "velocidades",
+        "angulares",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplos de cómo regular la exigencia espacial el día anterior al partido.",
+      "context_after": "Se menciona la utilidad del entrenamiento de fuerza posterior al esfuerzo principal."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:13:54",
+      "end_timestamp": "00:14:46",
+      "start_seconds": 834,
+      "end_seconds": 886,
+      "duration_seconds": 52,
+      "timestamp_url": "?t=834",
+      "title": "Generación de oxitocina en la sesión de entrenamiento",
+      "summary": "Introducir dinámicas específicas antes del entrenamiento estimula la liberación de oxitocina. Esto mejora la predisposición emocional del jugador y potencia el bienestar, la cohesión grupal y las relaciones con el cuerpo técnico.",
+      "literal_quote_pt": "Oxitocina está muito relacionada com aquilo que é o potenciar das relações entre os pares, naquilo que é o bem comum...",
+      "literal_quote_es": "La oxitocina está muy relacionada con aquello que es potenciar las relaciones entre los pares, en aquello que es el bien común...",
+      "full_transcript_pt": "A oxitocina na sessão de treino está muito relacionada com a introdução de algumas dinâmicas antes do treino, para que possamos também criar uma relação mais próxima entre eles, entre eles e nós, a equipa técnica, em termos daquilo que é a predisposição do próprio jogador para treino... Oxitocina está muito relacionada com aquilo que é o potenciar das relações entre os pares, naquilo que é o bem comum, naquilo que é o bem-estar dos próprios ao longo da sessão.",
+      "full_transcript_es": "La oxitocina en la sesión de entrenamiento está muy relacionada con la introducción de algunas dinámicas antes del entrenamiento, para que podamos también crear una relación más próxima entre ellos, entre ellos y nosotros, el equipo técnico, en términos de aquello que es la predisposición del propio jugador para el entrenamiento... La oxitocina está muy relacionada con aquello que es potenciar las relaciones entre los pares, en aquello que es el bien común, en aquello que es el bienestar de ellos mismos a lo largo de la sesión.",
+      "keywords": [
+        "oxitocina",
+        "dinamicas",
+        "relacoes",
+        "bem-estar",
+        "equipa-tecnica"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué impacto tiene la oxitocina en los entrenamientos de fútbol?",
+        "¿Dónde se menciona el concepto de oxitocina en la sesión de entrenamiento?",
+        "¿Cómo mejorar las relaciones interpersonales antes de entrenar?"
+      ],
+      "related_terms": [
+        "generación",
+        "de",
+        "oxitocina",
+        "en",
+        "la",
+        "sesión",
+        "entrenamiento",
+        "comunicación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Breve mención a las rutinas de fuerza excéntrica posteriores al entrenamiento.",
+      "context_after": "El ponente introduce el concepto de trabajo individualizado y microestímulos preventivos."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:17:50",
+      "end_timestamp": "00:19:07",
+      "start_seconds": 1070,
+      "end_seconds": 1147,
+      "duration_seconds": 77,
+      "timestamp_url": "?t=1070",
+      "title": "El efecto multiplicador de los microestímulos de prevención",
+      "summary": "Aplicar microestímulos constantes (10-20 minutos diarios) genera diferencias abismales en el desarrollo y prevención de lesiones de los jugadores a largo plazo. Al multiplicarse por más de 240 sesiones anuales, el impacto acumulado es determinante.",
+      "literal_quote_pt": "Se nós multiplicarmos isto ao longo de uma época desportiva... reparem o número de minutos que isto equivale e a diferença que é em comparação com os jogadores que não ligam.",
+      "literal_quote_es": "Si nosotros multiplicamos esto a lo largo de una temporada deportiva... reparen el número de minutos al que esto equivale y la diferencia que es en comparación con los jugadores que no le dan importancia.",
+      "full_transcript_pt": "Sabemos também que os microestímulos, os pequenos estímulos ao longo do tempo, têm efeito bastante positivo quando são aplicados de forma regular e constante... Um jogador que faz 20 minutos de sessão pré-treino ou pós-treino... outro jogador que faz 10 e o jogador que não faz qualquer tipo de minutos... Se nós multiplicarmos isto por aquilo que são as cinco sessões na semana, dá 100 minutos... Se nós multiplicarmos isto ao longo de uma época desportiva, onde possamos atingir no mínimo 240 sessões de treino, reparem o número de minutos que isto equivale e a diferença que é em comparação com os jogadores que não ligam.",
+      "full_transcript_es": "Sabemos también que los microestímulos, los pequeños estímulos a lo largo del tiempo, tienen un efecto bastante positivo cuando son aplicados de forma regular y constante... Un jugador que hace 20 minutos de sesión pre-entrenamiento o post-entrenamiento... otro jugador que hace 10 y el jugador que no hace ningún tipo de minutos... Si nosotros multiplicamos esto por aquello que son las cinco sesiones en la semana, da 100 minutos... Si nosotros multiplicamos esto a lo largo de una temporada deportiva, donde podamos alcanzar como mínimo 240 sesiones de entrenamiento, reparen el número de minutos al que esto equivale y la diferencia que es en comparación con los jugadores que no le dan importancia.",
+      "keywords": [
+        "microestimulos",
+        "minutos",
+        "prevencao",
+        "epoca-desportiva",
+        "acumulacao"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué son importantes los microestímulos preventivos?",
+        "¿Dónde se habla del impacto de 20 minutos de prevención diarios?",
+        "¿Cómo convencer al jugador del valor del trabajo preventivo a lo largo de la temporada?"
+      ],
+      "related_terms": [
+        "efecto",
+        "multiplicador",
+        "de",
+        "los",
+        "microestímulos",
+        "prevención",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso de aplicaciones móviles (Solo Performance) para enviar planes individualizados.",
+      "context_after": "Transición hacia la importancia del uso del GPS y la Inteligencia Artificial."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:19:09",
+      "end_timestamp": "00:20:43",
+      "start_seconds": 1149,
+      "end_seconds": 1243,
+      "duration_seconds": 94,
+      "timestamp_url": "?t=1149",
+      "title": "Integración de IA y GPS para la cualificación del entrenador",
+      "summary": "El uso del GPS y el análisis de datos (potenciado por Inteligencia Artificial) provee feedback objetivo sobre la intensidad y las variables de los ejercicios. Esta información es crucial para cualificar y optimizar la toma de decisiones del entrenador.",
+      "literal_quote_pt": "A inteligência artificial veio para ficar, veio também para nos ajudar em termos daquilo que é o conjunto de dados que nós vamos retirando...",
+      "literal_quote_es": "La inteligencia artificial vino para quedarse, vino también para ayudarnos en términos de aquello que es el conjunto de datos que nosotros vamos retirando...",
+      "full_transcript_pt": "A inteligência artificial veio para ficar, veio também para nos ajudar em termos daquilo que é o conjunto de dados que nós vamos retirando para podermos tirar e podermos também chegar ao pé dos treinadores e também sugerir em termos daquilo que é a sua intervenção... Eu trabalho com GPS desde 2012... Perceber também em termos daquilo que é a intensidade da própria equipa ao longo da sessão de treino, ao longo do jogo, que tipo de variáveis existem, como é que as variáveis contextuais podem implicar em termos daquilo que é o seu impacto. E acho que isto ajuda-nos muito a qualificar aquilo que é o treinador, perceber com este exercício o que é que ele tem que manipular...",
+      "full_transcript_es": "La inteligencia artificial vino para quedarse, vino también para ayudarnos en términos de aquello que es el conjunto de datos que nosotros vamos retirando para poder sacar y poder también llegar al lado de los entrenadores y sugerir en términos de su intervención... Yo trabajo con GPS desde 2012... Entender también en términos de la intensidad del propio equipo a lo largo de la sesión de entrenamiento, a lo largo del juego, qué tipo de variables existen, cómo las variables contextuales pueden implicar en términos de su impacto. Y creo que esto nos ayuda mucho a cualificar al entrenador, entender con este ejercicio qué es lo que él tiene que manipular...",
+      "keywords": [
+        "inteligencia-artificial",
+        "gps",
+        "dados",
+        "feedback",
+        "treinador",
+        "intensidade"
+      ],
+      "entities": [
+        "GPS",
+        "Inteligencia artificial"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué papel juega la Inteligencia Artificial en el entrenamiento de fútbol?",
+        "¿Dónde se menciona el uso de GPS y la IA en la toma de decisiones?",
+        "¿Cómo el análisis de datos ayuda a cualificar al entrenador?"
+      ],
+      "related_terms": [
+        "integración",
+        "de",
+        "ia",
+        "y",
+        "gps",
+        "para",
+        "la",
+        "cualificación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Demostración numérica del valor de las rutinas preventivas diarias a largo plazo.",
+      "context_after": "Análisis del impacto de los calendarios congestionados sobre la disponibilidad del jugador."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:21:07",
+      "end_timestamp": "00:24:40",
+      "start_seconds": 1267,
+      "end_seconds": 1480,
+      "duration_seconds": 213,
+      "timestamp_url": "?t=1267",
+      "title": "Gestión metodológica de períodos congestionados y rotaciones",
+      "summary": "Ante el aumento desmedido de partidos anuales (jugadores por encima de 30 juegos, viajes internacionales, fatiga por selección), es imprescindible aplicar rotaciones inteligentes. Estudiar casos de éxito de rotación en los clubes ayuda a mantener el nivel óptimo.",
+      "literal_quote_pt": "Os aspetos das rotações dos jogadores é um aspeto cada vez mais importante, ou seja, definir bem o critério da rotação...",
+      "literal_quote_es": "Los aspectos de las rotaciones de los jugadores es un aspecto cada vez más importante, o sea, definir bien el criterio de la rotación...",
+      "full_transcript_pt": "O aumento do número de jogos... A Liga dos Campeões hoje em dia tem mais jogos do que há anos atrás. E também o processo das seleções é um processo cada vez mais exigente... Nós estamos a falar em que alguns jogadores conseguem atingir valores acima dos 30 jogos anuais... E para além do jogo, o impacto que isto pode ter em termos daquilo que são as viagens, os fusos horários, os diferentes tipos de metodologias... Tudo isto são dados que nos levam também a uma reflexão gritante em termos daquilo que é as nossas próprias metodologias... A importância também das rotações... Os aspetos das rotações dos jogadores é um aspeto cada vez mais importante, ou seja, definir bem o critério da rotação, se nós conseguimos rodar ou se não conseguimos rodar...",
+      "full_transcript_es": "El aumento del número de partidos... La Liga de Campeones hoy en día tiene más partidos que hace años atrás. Y también el proceso de las selecciones es un proceso cada vez más exigente... Nosotros estamos hablando de que algunos jugadores consiguen alcanzar valores por encima de los 30 partidos anuales... Y más allá del partido, el impacto que esto puede tener en términos de lo que son los viajes, los husos horarios, los diferentes tipos de metodologías... Todo esto son datos que nos llevan también a una reflexión obligada en términos de lo que son nuestras propias metodologías... La importancia también de las rotaciones... Los aspectos de las rotaciones de los jugadores es un aspecto cada vez más importante, o sea, definir bien el criterio de la rotación, si conseguimos rotar o si no conseguimos rotar...",
+      "keywords": [
+        "rotacoes",
+        "jogos",
+        "calendario",
+        "selecoes",
+        "viagens",
+        "fatiga"
+      ],
+      "entities": [
+        "Liga dos Campeões"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Cómo afectan los calendarios congestionados al jugador de fútbol profesional?",
+        "¿Dónde se explica la importancia de las rotaciones tácticas en el equipo?",
+        "¿Qué impacto tienen los viajes y convocatorias internacionales en la preparación física?"
+      ],
+      "related_terms": [
+        "gestión",
+        "metodológica",
+        "de",
+        "períodos",
+        "congestionados",
+        "y",
+        "rotaciones",
+        "toma"
+      ],
+      "relevance_score": 5,
+      "context_before": "El uso del análisis de variables GPS para guiar la toma de decisiones del cuerpo técnico.",
+      "context_after": "La necesidad de programar recuperaciones individualizadas para contrarrestar la alta congestión competitiva."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:24:40",
+      "end_timestamp": "00:26:53",
+      "start_seconds": 1480,
+      "end_seconds": 1613,
+      "duration_seconds": 133,
+      "timestamp_url": "?t=1480",
+      "title": "Individualización total en los procesos de recuperación (MD+1)",
+      "summary": "No es funcional aplicar una única estrategia de recuperación grupal. En el día post-partido (MD+1), la recuperación debe personalizarse considerando la rutina particular de cada jugador, empleando herramientas específicas como crioterapia o cámaras hiperbáricas.",
+      "literal_quote_pt": "Há jogadores com processos de individualização totalmente diferenciados, por isso não existe um padrão da maneira individual como cada um recupera...",
+      "literal_quote_es": "Hay jugadores con procesos de individualización totalmente diferenciados, por eso no existe un patrón de la manera individual como cada uno recupera...",
+      "full_transcript_pt": "Isto é um conceito que me parece muito importante... Está muito relacionado com aquilo que é a individualização dos próprios jogadores. Há jogadores com processos de individualização totalmente diferenciados, por isso não existe um padrão da maneira individual como cada um recupera, por isso não faz muito sentido haver padrão de recuperação igual para todos... seja naquilo que é a sua rotina de ginásio, seja depois naquilo que é a sua rotina específica com os instrumentos de recuperação que o clube tem à disposição, que pode estar mais relacionado com Crio, para contrastes, para a utilização das câmaras hiperbáricas... mas perceber junto do jogador qual é a melhor rotina e no dia a mais cada jogador fazer sua rotina de recuperação individual.",
+      "full_transcript_es": "Este es un concepto que me parece muy importante... Está muy relacionado con aquello que es la individualización de los propios jugadores. Hay jugadores con procesos de individualización totalmente diferenciados, por eso no existe un patrón de la manera individual como cada uno recupera, por eso no tiene mucho sentido que haya un patrón de recuperación igual para todos... ya sea en su rutina de gimnasio, ya sea después en su rutina específica con los instrumentos de recuperación que el club tiene a disposición, que puede estar más relacionado con Crio, para contrastes, para la utilización de las cámaras hiperbáricas... sino entender junto al jugador cuál es la mejor rutina y en el día post-partido cada jugador hacer su rutina de recuperación individual.",
+      "keywords": [
+        "recuperacao",
+        "individualizacao",
+        "crio",
+        "camara-hiperbarica",
+        "padrao"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la recuperación post-partido debe ser individualizada?",
+        "¿Dónde se menciona el uso de crioterapia y cámaras hiperbáricas?",
+        "¿Cómo gestionar el MD+1 para garantizar una recuperación eficaz?"
+      ],
+      "related_terms": [
+        "individualización",
+        "total",
+        "en",
+        "los",
+        "procesos",
+        "de",
+        "recuperación",
+        "return to play"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo gestionar al grupo mediante la rotación estratégica en el calendario anual.",
+      "context_after": "Se presenta el área final del webinar: el impacto de la neurociencia y optometría en la toma de decisión."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "oscar tojo",
+      "speaker": "Óscar Tojo",
+      "start_timestamp": "00:26:59",
+      "end_timestamp": "00:30:40",
+      "start_seconds": 1619,
+      "end_seconds": 1840,
+      "duration_seconds": 221,
+      "timestamp_url": "?t=1619",
+      "title": "Neurociencia y optometría aplicadas a la toma de decisiones",
+      "summary": "La neurociencia es fundamental para la optimización deportiva actual. Trabajar de la mano de optometristas permite evaluar y desarrollar las habilidades visuales y cognitivas del jugador, lo que acelera el procesamiento de información y mejora directamente su toma de decisiones en la cancha.",
+      "literal_quote_pt": "Esta parte da neurociência é uma parte que vem para ficar, é uma parte que acho que cada vez mais os clubes estão a investir, porque percebem bem desta dimensão mais cognitiva e da importância da tomada de decisão...",
+      "literal_quote_es": "Esta parte de la neurociencia es una parte que viene para quedarse, es una parte en la que creo que cada vez más los clubes están invirtiendo, porque entienden bien esta dimensión más cognitiva y la importancia de la toma de decisión...",
+      "full_transcript_pt": "Por último, aquilo que é o trabalho da neurociência no futebol... Eu partilho com vocês um dos pilares que nós construímos quando estivemos no Tigres, que era a área de neurociência do treino... em que os jogadores tinham uma intervenção muito específica nesta área, que está muito direcionada com aquilo que é a partilha da informação, a captação da informação, e depois através da informação, nós conseguimos também tomar boas decisões... Nós fizemos alguns estudos paralelos com a parte de optometria... a pessoa avaliava o jogador, percebia em que nível ele estava, ele passava por processo de treino nesta área... e depois voltava a ser avaliado pela médica optometrista... Esta parte da neurociência é uma parte que vem para ficar... porque percebem bem desta dimensão mais cognitiva e da importância da tomada de decisão para aquilo que é o eficaz das várias ações.",
+      "full_transcript_es": "Por último, aquello que es el trabajo de la neurociencia en el fútbol... Yo comparto con ustedes uno de los pilares que nosotros construimos cuando estuvimos en Tigres, que era el área de neurociencia del entrenamiento... en la que los jugadores tenían una intervención muy específica en esta área, que está muy direccionada con aquello que es la recepción de la información, la captación de la información, y después a través de la información, nosotros conseguimos también tomar buenas decisiones... Nosotros hicimos algunos estudios paralelos con la parte de optometría... la persona evaluaba al jugador, veía en qué nivel estaba, pasaba por un proceso de entrenamiento en esta área... y después volvía a ser evaluado por la médica optometrista... Esta parte de la neurociencia es una parte que viene para quedarse... porque entienden bien esta dimensión más cognitiva y la importancia de la toma de decisión para la eficacia de las varias acciones.",
+      "keywords": [
+        "neurociencia",
+        "optometria",
+        "tomada-de-decisao",
+        "visao",
+        "cognitiva",
+        "informacao"
+      ],
+      "entities": [
+        "Tigres"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué relación hay entre neurociencia y rendimiento en el fútbol?",
+        "¿Dónde se explica el uso de la optometría para mejorar la toma de decisiones?",
+        "¿Cómo aplicaba el equipo Tigres el entrenamiento visual y cognitivo?"
+      ],
+      "related_terms": [
+        "neurociencia",
+        "y",
+        "optometría",
+        "aplicadas",
+        "a",
+        "la",
+        "toma",
+        "de",
+        "decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de métodos de recuperación individualizados tras competiciones intensas.",
+      "context_after": "El ponente cierra la clase destacando que los resultados positivos (menos lesiones, más valor) validan toda esta metodología sistémica."
+    }
+  ]
+}
