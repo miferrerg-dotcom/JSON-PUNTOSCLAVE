@@ -1,0 +1,696 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+    "speaker": "Rubén Aguado",
+    "total_duration": "00:51:17",
+    "total_duration_seconds": 3077,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:41",
+      "start_seconds": 0,
+      "end_seconds": 221,
+      "duration_seconds": 221,
+      "timestamp_url": "?t=0",
+      "title": "La necesidad de un sistema adaptado al contexto",
+      "summary": "Rubén Aguado introduce la importancia de construir un sistema de fuerza con sentido, entendiendo que no existe una única forma correcta de trabajar. Un sistema es la parte visible (iceberg) sostenida por teoría, experiencia y el contexto específico del equipo.",
+      "literal_quote": "Esa experiencia en diferentes contextos me ha enseñado algo muy importante: que no existe una única forma correcta de trabajar. Sí existen principios sólidos, pero siempre adaptados a la realidad de cada entorno.",
+      "full_transcript": "Hola a todos. Muchas gracias por estar aquí y por dedicar vuestro tiempo a compartir este espacio conmigo. Para mí es una oportunidad muy valiosa, por lo que agradezco a NSCA este espacio de poder hablar de un tema que considero central dentro del rendimiento en fútbol profesional: cómo construir un sistema de trabajo de fuerza que tenga sentido en nuestro contexto. Lo que quiero compartir hoy no son respuestas absolutas, sino el sistema de preguntas que yo intento hacerme para construir sesiones con lógica e intención. [...] Esa experiencia en diferentes contextos me ha enseñado algo muy importante: que no existe una única forma correcta de trabajar. Sí existen principios sólidos, pero siempre adaptados a la realidad de cada entorno. [...] Cuando hablamos de sistema de trabajo, solemos pensar en la parte visible: las sesiones, ejercicios, la propia planificación o la metodología, y eso correspondería a la parte externa del iceberg. Pero todo eso se sostiene sobre una base mucho más profunda: conocimientos teóricos, experiencias previas y algo decisivo: el contexto.",
+      "keywords": [
+        "sistema-trabajo",
+        "rendimiento",
+        "futbol-profesional",
+        "contexto",
+        "principios",
+        "metodologia"
+      ],
+      "entities": [
+        "Rubén Aguado",
+        "NSCA",
+        "Selección Nacional Femenina de México",
+        "Club América",
+        "Linares Deportivo"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante adaptar el sistema de fuerza al contexto en el fútbol?",
+        "¿Qué elementos conforman la base invisible de un sistema de entrenamiento?"
+      ],
+      "related_terms": [
+        "sistema de trabajo",
+        "rendimiento",
+        "contexto",
+        "experiencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Explicación sobre la utilidad de los modelos y la clasificación para reducir la complejidad en la toma de decisiones."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "03:41",
+      "end_timestamp": "07:22",
+      "start_seconds": 221,
+      "end_seconds": 442,
+      "duration_seconds": 221,
+      "timestamp_url": "?t=221",
+      "title": "Los modelos como herramienta para ordenar la complejidad",
+      "summary": "Se destaca que todos los modelos son imperfectos, pero útiles para pensar mejor. El uso de clasificaciones, colores y cuadrantes ayuda al cerebro a procesar información compleja y reducir la fatiga de decisión.",
+      "literal_quote": "Para mí, los modelos no están para tener razón, sino para pensar mejor, que te permita ordenar variables y facilitar decisiones.",
+      "full_transcript": "Seguro que muchos ya lo habréis visto y conocéis: todos los modelos son imperfectos. Ningún sistema es capaz de representar por completo la complejidad real del entrenamiento, del rendimiento humano o del contexto competitivo. Y es totalmente normal. Para mí, los modelos no están para tener razón, sino para pensar mejor, que te permita ordenar variables y facilitar decisiones. [...] Cuando la información aparece mezclada, el cerebro necesita más tiempo y esfuerzo para interpretarla. Cuando agrupamos y categorizamos por forma y color, la comprensión se vuelve casi inmediata. Lo mismo ocurriría en el fútbol. Cuando clasificamos datos, tareas, esfuerzo, detectamos patrones y tomamos mejores decisiones. [...] Una herramienta muy útil para ordenar decisiones sería trabajar con cuadrantes, donde la lógica es muy sencilla. Se eligen dos variables y las cruzamos para crear una matriz visual. Esto ayuda a reducir fatiga de decisión, mejora la comunicación y aporta coherencia operativa.",
+      "keywords": [
+        "modelos",
+        "complejidad",
+        "toma-decisiones",
+        "clasificacion",
+        "cuadrantes",
+        "fatiga-decision"
+      ],
+      "entities": [
+        "Marco Chenna"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Para qué sirven los modelos en el entrenamiento deportivo?",
+        "¿Cómo ayuda el uso de cuadrantes a reducir la fatiga de decisión?"
+      ],
+      "related_terms": [
+        "modelos imperfectos",
+        "fatiga de decisión",
+        "clasificación",
+        "cuadrantes"
+      ],
+      "relevance_score": 5,
+      "context_before": "La necesidad de un sistema adaptado al contexto y no copiar rutinas a ciegas.",
+      "context_after": "Estructuración del propio sistema de Rubén Aguado en tres grandes bloques."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "07:22",
+      "end_timestamp": "10:38",
+      "start_seconds": 442,
+      "end_seconds": 638,
+      "duration_seconds": 196,
+      "timestamp_url": "?t=442",
+      "title": "Los tres bloques del sistema: Pilares, Diseño y Planificación",
+      "summary": "El autor organiza la información en tres grandes bloques dinámicos: los pilares (qué capacidad y acción desarrollar), el diseño de sesión (cómo calentar, individualizar o adaptar) y la planificación (cómo organizar en el microciclo).",
+      "literal_quote": "Para mí lo más importante no son los bloques por separado, sino la relación que se genera entre ellos, ya que es un sistema vivo, dinámico y en retroalimentación constante.",
+      "full_transcript": "El reto no es conseguir la información en sí, sino una vez la tienes, poder transformarla en algo útil. Y para eso, trato de organizarlo en tres grandes bloques que se retroalimentan entre sí. El primero de ellos serían los pilares, es decir, los principios que orientan cualquier decisión antes de actuar, lo que da sentido a todo lo demás. El segundo sería el diseño de sesión, es decir, el momento en el que esa idea se convierte en entrenamientos concretos. Y el tercero, la planificación. Es decir, cómo esas sesiones encajan dentro de una lógica temporal más amplia, como puede ser el microciclo. [...] Cuando no existe una estructura clara, la toma de decisiones se siente con demasiadas preguntas al mismo tiempo: ¿qué capacidad voy a trabajar? ¿Cómo caliento? ¿Cómo monitorizo? ¿Cuándo lo hago? ¿Cómo individualizo? Para dar orden, agrupo en tres bloques. Pilares: qué capacidad, qué acción, qué método, qué estrés. Sesión: objetivos concretos. Planificación: visión global y temporal.",
+      "keywords": [
+        "sistema",
+        "pilares",
+        "diseno-sesion",
+        "planificacion",
+        "toma-decisiones",
+        "principios"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres bloques para organizar un sistema de entrenamiento?",
+        "¿Qué preguntas se resuelven en la fase de 'Pilares' del entrenamiento?"
+      ],
+      "related_terms": [
+        "pilares",
+        "diseño de sesión",
+        "planificación",
+        "estructura"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los modelos como herramienta para ordenar la complejidad.",
+      "context_after": "Desarrollo del primer bloque (Pilares) y la elección de capacidades físicas."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "10:38",
+      "end_timestamp": "12:22",
+      "start_seconds": 638,
+      "end_seconds": 742,
+      "duration_seconds": 104,
+      "timestamp_url": "?t=638",
+      "title": "Definición de las capacidades a desarrollar",
+      "summary": "El primer pilar consiste en definir la capacidad a trabajar apoyándose en la curva carga-velocidad: Fuerza (elevar el techo de producción), Potencia (aplicar fuerza en menor tiempo), Velocidad (optimizar ciclo estiramiento-acortamiento) y Trabajo Estructural.",
+      "literal_quote": "Aquí el objetivo principal es elevar el techo de producción de fuerza, tanto en acciones propulsivas como en acciones de freno.",
+      "full_transcript": "El primero de ellos es definir qué capacidad quiero desarrollar. Utilizamos la curva carga-velocidad, lo organizo en cuatro grandes bloques. Primero tendríamos la fuerza. Aquí el objetivo principal es elevar el techo de producción de fuerza, tanto en acciones propulsivas como en acciones de freno, es decir, aumentar la capacidad máxima sobre la que después podremos construir el resto. Después, aparece la potencia. Ya no se trata solo de producir fuerza, sino de aplicarla en el menor tiempo posible. El tercer bloque es velocidad, donde buscamos optimizar el ciclo de estiramiento-acortamiento, rigidez, reactividad, la eficacia y eficiencia del movimiento. Y aquí podemos incluir los saltos, lanzamientos y habilidades específicas. Y por último, el trabajo estructural, que estaría relacionado con la base muscular, tolerancia tisular y reducción de asimetrías.",
+      "keywords": [
+        "capacidades",
+        "curva-carga-velocidad",
+        "fuerza",
+        "potencia",
+        "velocidad",
+        "trabajo-estructural"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se clasifican las capacidades físicas en el entrenamiento de fútbol?",
+        "¿Qué diferencia hay entre el trabajo de fuerza y el de potencia según Rubén Aguado?"
+      ],
+      "related_terms": [
+        "curva carga-velocidad",
+        "producción de fuerza",
+        "ciclo estiramiento-acortamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los tres bloques del sistema: Pilares, Diseño y Planificación.",
+      "context_after": "Relación de estas capacidades con las acciones específicas del juego."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "12:22",
+      "end_timestamp": "14:42",
+      "start_seconds": 742,
+      "end_seconds": 882,
+      "duration_seconds": 140,
+      "timestamp_url": "?t=742",
+      "title": "Acciones específicas y su transferencia al campo",
+      "summary": "Para transferir la fuerza al juego, es necesario definir a través de qué acciones específicas se manifiesta: saltar, acelerar, decelerar frontal, cambio de dirección, velocidad máxima, golpeo y lucha, considerando los planos y la dominancia articular.",
+      "literal_quote": "¿Por qué es importante para mí esta clasificación? Porque me ayuda a conectar el trabajo de fuerza con el trabajo de campo.",
+      "full_transcript": "Una vez definido qué capacidad quiero desarrollar, la siguiente pregunta es: ¿a través de qué acción específica se manifiesta en el juego? Las acciones que tenemos son saltar, acelerar y decelerar. Incluyo además decelerar de forma frontal, porque sé que en el cambio de dirección también tenemos deceleraciones. También incluyes cambio de dirección, velocidad máxima, golpeo de balón y lucha. Cada una de ellas tiene una orientación diferente. Algunas predominan más en el plano vertical, otras en el horizontal, otras son más rotacionales o claramente multidireccionales. También cambia la dominancia articular: en unas predomina la rodilla, en otras la cadera y en otras existe interacción. Y en lucha, lo que incluyo es el tipo de movimiento, como serían empujes y tracciones. ¿Por qué es importante para mí esta clasificación? Porque me ayuda a conectar el trabajo de fuerza con el trabajo de campo.",
+      "keywords": [
+        "acciones-especificas",
+        "acelerar",
+        "decelerar",
+        "cambio-direccion",
+        "velocidad-maxima",
+        "dominancia-articular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué acciones específicas se entrenan en la preparación física del fútbol?",
+        "¿Cómo se conecta el trabajo del gimnasio con el trabajo de campo?"
+      ],
+      "related_terms": [
+        "acciones específicas",
+        "plano vertical",
+        "dominancia articular",
+        "transferencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de las capacidades a desarrollar (fuerza, potencia, velocidad).",
+      "context_after": "El uso de diferentes métodos de entrenamiento como si fueran los botones de un mando de consola."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "14:42",
+      "end_timestamp": "16:01",
+      "start_seconds": 882,
+      "end_seconds": 961,
+      "duration_seconds": 79,
+      "timestamp_url": "?t=882",
+      "title": "Métodos de entrenamiento: el 'mando de consola'",
+      "summary": "Acumular métodos por moda es inútil; deben manejarse como botones de un mando de consola para modificar el estímulo (isométrico, oscilatorio, cluster) sin cambiar el ejercicio. Evita la 'ley del martillo' de Maslow.",
+      "literal_quote": "Si la única herramienta que tienes es un martillo, tenderás a ver cada problema como un clavo. En rendimiento sucede algo parecido.",
+      "full_transcript": "Cuando hablamos de métodos de entrenamiento, me gusta ejemplificarlo con la imagen de un mando de consola, porque cuanto más dominamos sus botones, más recursos tenemos para poder responder a cada necesidad del contexto, como pasaría con un videojuego. Aquí aparecen algunos ejemplos: trabajo isométrico en diferentes formas, rangos parciales, completos, método oscilatorio, inerciales, 'cluster', BFR. Son herramientas que pueden modificar el estímulo sin cambiar necesariamente el ejercicio. Para mí, la clave no es acumular métodos por moda o porque he visto que lo hace alguien, sino entender cuándo, por qué y para qué puedo utilizar cada uno de ellos. Esto conecta con una frase muy conocida de Abraham Maslow: 'Si la única herramienta que tienes es un martillo, tenderás a ver cada problema como un clavo'. Si solo manejamos una forma de entrenar, intentaremos resolver todo desde ahí.",
+      "keywords": [
+        "metodos-entrenamiento",
+        "isometrico",
+        "cluster",
+        "bfr",
+        "ley-martillo",
+        "adaptabilidad"
+      ],
+      "entities": [
+        "Abraham Maslow"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante dominar múltiples métodos de entrenamiento?",
+        "¿Qué significa la analogía del martillo en la preparación física?"
+      ],
+      "related_terms": [
+        "mando de consola",
+        "métodos por moda",
+        "herramientas de entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Acciones específicas y su transferencia al campo.",
+      "context_after": "Creación del mapa mental y la matriz para filtrar y elegir ejercicios según las variables previas."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "16:01",
+      "end_timestamp": "21:56",
+      "start_seconds": 961,
+      "end_seconds": 1316,
+      "duration_seconds": 355,
+      "timestamp_url": "?t=961",
+      "title": "Creación del Framework: Matriz de ejercicios",
+      "summary": "Cruzando las capacidades, las acciones específicas y la musculatura implicada se crea un mapa mental. Esto permite filtrar rápidamente los ejercicios según el objetivo (ej. velocidad máxima con potencia propulsiva) reduciendo la fatiga de decisión.",
+      "literal_quote": "En el fondo, no deja de ser un mapa mental para ubicar diferentes estímulos que, a través de ejercicios y recursos, nos ayuden a resolver las situaciones.",
+      "full_transcript": "Con todo lo que hemos visto hasta ahora, ya podemos empezar a darle una estructura real al sistema, a nuestro 'framework'. [...] Asociada a cada una de estas capacidades, tenemos un objetivo concreto y el foco. [...] Tendríamos que saber dónde situaríamos la estructura con mayor estabilidad o mayor variabilidad. [...] Tenemos las acciones específicas en un eje con la musculatura implicada. En el fondo, no deja de ser un mapa mental para, a partir de aquí, ubicar diferentes estímulos que, a través de ejercicios y con los recursos que nosotros tengamos, podamos resolver las situaciones que nos encontremos. [...] Una de las ventajas de tener este mapa es que puedo filtrar rápidamente según la necesidad concreta del momento y que te ayude a tener mucha más rapidez y que te reduzca esa fatiga a la hora de poder decidir. Imaginemos que quiero priorizar acciones de velocidad máxima, observo qué opciones tengo para esa acción. Puedo decidir si necesito una base más estructural, si me interesa elevar el techo, o si busco expresiones de potencia. En este ejemplo, trabajo velocidad máxima con potencia propulsiva, cruzando ambos ejes focalizo en diferentes opciones.",
+      "keywords": [
+        "framework",
+        "mapa-mental",
+        "matriz-ejercicios",
+        "toma-decisiones",
+        "fatiga-decision"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se construye la matriz de ejercicios en el sistema de Rubén Aguado?",
+        "¿Qué utilidad tiene crear un mapa mental de capacidades y acciones?"
+      ],
+      "related_terms": [
+        "framework",
+        "mapa mental",
+        "filtrar ejercicios",
+        "matriz"
+      ],
+      "relevance_score": 5,
+      "context_before": "Métodos de entrenamiento: el 'mando de consola'.",
+      "context_after": "Identificación del tipo de estrés predominante generado por el entrenamiento."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "21:56",
+      "end_timestamp": "24:01",
+      "start_seconds": 1316,
+      "end_seconds": 1441,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=1316",
+      "title": "Estrés Mecánico vs. Estrés Coordinativo",
+      "summary": "Se clasifica el estímulo en dos focos: estrés mecánico (cuantificable, volumen, intensidad) y estrés coordinativo (calidad, toma de decisión, incertidumbre). El trabajo estructural es puramente mecánico, mientras que la velocidad y habilidad motriz dominan en lo coordinativo.",
+      "literal_quote": "El estrés mecánico respondería al cuánto, a variables medibles (...) El estrés coordinativo, en cambio, responde más al cómo, a la calidad de ejecución, toma de decisiones, la variabilidad.",
+      "full_transcript": "Otro pilar importante es identificar cuál es el estrés predominante que quiero generar. De forma simplificada, suelo moverme entre dos grandes focos: estrés mecánico y estrés coordinativo. El estrés mecánico respondería al cuánto, a variables medibles como volumen, intensidad, densidad o carga externa, donde se buscan adaptaciones más cuantificables y suele apoyarse más en la coordinación intramuscular. Para individualizar, nos apoyaríamos en el perfil neuromuscular del deportista. El estrés coordinativo, en cambio, responde más al cómo, a la calidad de ejecución, toma de decisiones, la variabilidad a la que se tiene que enfrentar el deportista, la incertidumbre, la relación con el entorno. Aquí cobra mucho más peso la coordinación intermuscular y para individualizar nos basaríamos en las acciones de demarcación de nuestro deportista en el modelo de juego. Si llevamos esta idea al framework, en el bloque estructural predomina lo mecánico. Al avanzar hacia potencia, crece el componente coordinativo y al llegar a velocidad y habilidad de movimiento, el peso coordinativo pasa a ser dominante.",
+      "keywords": [
+        "estres-mecanico",
+        "estres-coordinativo",
+        "volumen",
+        "intensidad",
+        "toma-decisiones",
+        "incertidumbre",
+        "coordinacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre estrés mecánico y estrés coordinativo?",
+        "¿En qué tipo de estrés predominan las variables cuantificables?"
+      ],
+      "related_terms": [
+        "estrés mecánico",
+        "estrés coordinativo",
+        "perfil neuromuscular",
+        "incertidumbre"
+      ],
+      "relevance_score": 5,
+      "context_before": "Creación del Framework: Matriz de ejercicios.",
+      "context_after": "Estimación del coste de recuperación de cada bloque de ejercicios."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "24:01",
+      "end_timestamp": "27:37",
+      "start_seconds": 1441,
+      "end_seconds": 1657,
+      "duration_seconds": 216,
+      "timestamp_url": "?t=1441",
+      "title": "Impacto y coste de recuperación de los ejercicios",
+      "summary": "Cruzando la carga mecánica y coordinativa se estima el coste de recuperación. La fuerza de freno tiene el impacto más alto por la carga excéntrica, mientras que lo estructural y velocidad tienen menor impacto relativo. Modificando dinámicas y extremidades se modula esta fatiga.",
+      "literal_quote": "En el nivel más alto está la fuerza de freno por la elevada carga excéntrica y el coste de recuperación que suele implicar.",
+      "full_transcript": "Otro criterio que me resulta muy útil al clasificar el trabajo según el impacto que genera, es cruzar la carga mecánica y la carga coordinativa. Podemos estimar de forma rápida el coste que probablemente tendrá la sesión. Asignaría un impacto menor a los bloques estructurales y al trabajo de velocidad. Después situaría la potencia orientada a propulsión. Después vendría la potencia orientada a freno, que incrementa la demanda mecánica y, por encima, la fuerza propulsiva. En el nivel más alto está la fuerza de freno por la elevada carga excéntrica y el coste de recuperación que suele implicar. Evidentemente dependerá del ejercicio elegido, de la dosis y la adaptación, pero ayuda a anticipar el impacto real. En verde sitúo contenidos con menor impacto (estructural, velocidad, potencia propulsiva). En rojo los de mayor coste de recuperación (fuerza propulsiva, fuerza de freno). Y por supuesto que podemos hilar más fino modelando la carga dentro de cada contenido. Por ejemplo, la pliometría cambia su impacto si se hace concéntrica o reactiva, si se hace con dinámicas continuas o pausas, si se usa forma bilateral o unilateral.",
+      "keywords": [
+        "coste-recuperacion",
+        "impacto",
+        "fuerza-freno",
+        "carga-excentrica",
+        "pliometria",
+        "modulacion-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué tipo de trabajo genera un mayor coste de recuperación en fuerza?",
+        "¿Cómo se clasifica el impacto de una sesión de entrenamiento?"
+      ],
+      "related_terms": [
+        "coste de recuperación",
+        "impacto relativo",
+        "carga excéntrica",
+        "modulación de carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estrés Mecánico vs. Estrés Coordinativo.",
+      "context_after": "El diseño de la sesión mediante objetivos claros y la estrategia de Thales."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "27:37",
+      "end_timestamp": "30:40",
+      "start_seconds": 1657,
+      "end_seconds": 1840,
+      "duration_seconds": 183,
+      "timestamp_url": "?t=1657",
+      "title": "Estrategia de la barra de Thales y diseño de sesión",
+      "summary": "Para diseñar sesiones, utiliza la estrategia de la barra de Thales (Nassim Taleb): asentar la sesión en tareas seguras y conocidas, dejando una pequeña parte para incertidumbre con alto retorno. Todo empieza definiendo el objetivo claro de la sesión, lo que dicta incluso el calentamiento.",
+      "literal_quote": "La base de la sesión debe construirse con tareas que dominamos y que sabemos que funcionan, dejando una pequeña parte para explotar opciones más inciertas.",
+      "full_transcript": "Una vez vistos los pilares, entramos en el diseño de sesión. Empiezo el bloque con una idea útil: la estrategia de la barra de Thales [Taleb], que consiste en apoyar la mayor parte del trabajo en contenidos seguros que conocemos y que ya sabemos que son eficaces, dejando una pequeña parte para explotar opciones más inciertas, pero que pueden llegar a tener un potencial muy alto de retorno. Si lo llevamos al entrenamiento, significaría que la base de la sesión debe construirse con tareas que dominamos. Para mí es fundamental establecer diferentes objetivos que puede tener una sesión: qué capacidad tiene, cuál es el objetivo y en qué días del microciclo tiene sentido. Objetivos como: eslabones débiles, preparación para campo, recuperación, desarrollo mecánico o coordinativo. Al tener definidos los objetivos, establezco las prioridades del calentamiento. Si la sesión es de desarrollo mecánico, priorizo un iso-push. Si es recuperación, priorizo movilidad o un iso-hold sin carga. El calentamiento deja de ser una rutina genérica y pasa a ser la primera parte estratégica.",
+      "keywords": [
+        "estrategia-thales",
+        "diseno-sesion",
+        "objetivos",
+        "calentamiento-estrategico",
+        "incertidumbre",
+        "retorno"
+      ],
+      "entities": [
+        "Thales [Nassim Taleb]"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es la estrategia de la barra de Thales aplicada al entrenamiento?",
+        "¿Cómo influye el objetivo de la sesión en el diseño del calentamiento?"
+      ],
+      "related_terms": [
+        "barra de Thales",
+        "diseño de sesión",
+        "calentamiento estratégico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Impacto y coste de recuperación de los ejercicios.",
+      "context_after": "Inclusión de variabilidad y perturbaciones en los ejercicios estructurados."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "30:40",
+      "end_timestamp": "32:39",
+      "start_seconds": 1840,
+      "end_seconds": 1959,
+      "duration_seconds": 119,
+      "timestamp_url": "?t=1840",
+      "title": "Variabilidad, perturbaciones y el nivel de caos",
+      "summary": "Para incluir incertidumbre sin cambiar la capacidad a trabajar, se usan perturbaciones mecánicas (cargas, asimetrías) o cognitivas (estímulos visuales, presión temporal). Cruzando fuerza, velocidad y nivel de caos, se enriquece la matriz de selección.",
+      "literal_quote": "Lo que yo hago cuando quiero introducir variabilidad sin cambiar la capacidad principal que estoy trabajando es utilizar perturbaciones.",
+      "full_transcript": "Un aspecto clave es la variabilidad. A veces necesitamos estabilidad para aprender o dosificar carga. En otros momentos conviene exponer al deportista a la incertidumbre. Lo que yo hago cuando quiero introducir variabilidad sin cambiar la capacidad principal que estoy trabajando es utilizar perturbaciones, modificar el contexto del ejercicio manteniendo la esencia del estímulo. Esas perturbaciones pueden ser mecánicas (cambios de carga, inestabilidad, asimetrías, contacto) o cognitivas (estímulos visuales, auditivos, toma de decisión, tareas duales, presión temporal). Y también mixtas. No importa solamente el tipo, sino cuándo aparece: antes, durante o después del gesto. Dentro de cada cuadrante de fuerza y velocidad, podemos ordenar el ejercicio añadiendo una tercera capa: el nivel de perturbación o de caos provocado, desde tareas estables a propuestas más reactivas o inciertas.",
+      "keywords": [
+        "variabilidad",
+        "perturbaciones",
+        "caos",
+        "incertidumbre",
+        "perturbacion-mecanica",
+        "perturbacion-cognitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se introduce la variabilidad en los ejercicios de fuerza?",
+        "¿Qué tipos de perturbaciones se aplican en la preparación física?"
+      ],
+      "related_terms": [
+        "nivel de caos",
+        "perturbaciones cognitivas",
+        "variabilidad de estímulos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estrategia de la barra de Thales y diseño de sesión.",
+      "context_after": "Uso de datos, monitorización e individualización dentro de la sesión de fuerza grupal."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "32:39",
+      "end_timestamp": "35:35",
+      "start_seconds": 1959,
+      "end_seconds": 2135,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=1959",
+      "title": "Monitorización diaria e individualización en la sesión grupal",
+      "summary": "Diferencia herramientas de control diario (RIR, VBT) de los tests específicos (CMJ, Isobell Squat). Propone dinámicas donde el equipo realiza ejercicios troncales comunes y luego se dividen en estaciones individuales según su perfil neuromuscular (contráctil, reactivo, elástico).",
+      "literal_quote": "Dentro de una sesión colectiva, con la dificultad de la cantidad de personas que tenemos a la misma vez, podemos dar pequeños toques de individualización.",
+      "full_transcript": "En la monitorización diferencio dos niveles. Primero herramientas de control diario: para estructural uso RIR, RPE y volumen. En fuerza y potencia cobra valor la pérdida de velocidad. En velocidad interesa la calidad de ejecución. Después, evaluaciones o test específicos (Isobell Squats para fuerza, CMJ para velocidad). Otra forma de individualizar es en sesiones donde nos queremos centrar en el perfil neuromuscular. Tenemos un bloque con tres ejercicios comunes para todos, y en el cuarto ejercicio abrimos posibilidades para que cada uno haga el que corresponde a su fortaleza (perfil contráctil, reactivo o elástico) identificada previamente con los tests. Dentro de una sesión colectiva, con la dificultad de la cantidad de personas que tenemos a la misma vez, podemos dar pequeños toques de individualización. También podemos dar volumen extra a jugadores con necesidades especiales (ej. deficiencia en abducción) sin generar fatiga excesiva.",
+      "keywords": [
+        "monitorizacion",
+        "rir",
+        "vbt",
+        "cmj",
+        "isobell-squat",
+        "individualizacion",
+        "perfil-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se individualiza el trabajo de fuerza en una sesión de equipo?",
+        "¿Qué herramientas se usan para el control diario vs evaluaciones específicas?"
+      ],
+      "related_terms": [
+        "pérdida de velocidad",
+        "perfil contráctil",
+        "perfil reactivo",
+        "toques de individualización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Variabilidad, perturbaciones y el nivel de caos.",
+      "context_after": "Adaptación de la sesión a las restricciones de espacio y equipamiento logístico."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "35:35",
+      "end_timestamp": "41:15",
+      "start_seconds": 2135,
+      "end_seconds": 2475,
+      "duration_seconds": 340,
+      "timestamp_url": "?t=2135",
+      "title": "Logística: adaptación de la sesión al espacio y recursos",
+      "summary": "El espacio y los materiales condicionan el diseño. Muestra 3 escenarios con el mismo objetivo: 1) Muchos recursos, 2) Solo 4 bicis (rotación de grupos asimétrica), 3) Poco espacio y material mínimo (mismo material para múltiples ejercicios consecutivos en el mismo lugar).",
+      "literal_quote": "Ejemplos hay miles. Solamente pretendo mostrar cómo el espacio y el material que tenemos nos condiciona a la hora de configurar nuestra sesión.",
+      "full_transcript": "En cuanto a la logística según material y espacio disponible, voy a presentar tres ejemplos de cómo nos vemos obligados a cambiar la organización. Primera estructura: dos grupos (recuperación y compensación) con espacio. Los de recuperación pasan a hacer trabajo metabólico en bicicleta porque tenemos suficientes. Los de compensación van a campo. Segundo ejemplo: mismo objetivo, pero en este lugar solamente tenemos cuatro bicis. Dividimos al grupo de recuperación en 3 estaciones (bici, core, tren superior) y rotan. Así cuadramos todo para cuando acaben. Tercer ejemplo: no tenemos bici y muy poco espacio. Colocamos un bloque para cada grupo con un material que nos sirva para cambiar el ejercicio en ese mismo lugar (ej. si usé mancuerna para zancada búlgara, el segundo bloque es push press con esa mancuerna). Ejemplos hay miles. Solamente pretendo mostrar cómo el espacio y el material que tenemos nos condiciona a la hora de configurar nuestra sesión.",
+      "keywords": [
+        "logistica",
+        "espacio",
+        "recursos",
+        "adaptacion",
+        "rotacion-grupos",
+        "material-minimo"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la logística al diseño de una sesión de entrenamiento?",
+        "¿De qué manera se organiza un equipo cuando los materiales del gimnasio son limitados?"
+      ],
+      "related_terms": [
+        "adaptación de recursos",
+        "espacio limitado",
+        "gestión de rotaciones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Monitorización diaria e individualización en la sesión grupal.",
+      "context_after": "Tercer bloque del sistema: la Planificación y distribución en microciclos."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "41:15",
+      "end_timestamp": "45:08",
+      "start_seconds": 2475,
+      "end_seconds": 2708,
+      "duration_seconds": 233,
+      "timestamp_url": "?t=2475",
+      "title": "Planificación y microdosis a lo largo del microciclo",
+      "summary": "Utilizando la metáfora de regar una planta, justifica la microdosis: pequeños estímulos frecuentes son mejores que sesiones concentradas. En MD-4 y MD-3 cabe desarrollo mecánico; MD-2 es pre-partido; MD-1 es activación. El MD-2 post-campo debe dejarse libre física y mentalmente.",
+      "literal_quote": "Una planta funciona mejor con dosis controlada y frecuente que menos frecuencia, pero más agresiva. Es una forma de representar el concepto de microdosis en el fútbol profesional.",
+      "full_transcript": "Llegamos a la planificación. Inicio con la idea de que una planta funciona mejor con dosis controlada y frecuente que menos frecuencia, pero más agresiva. Es una forma de representar el concepto de microdosis. En el fútbol suele ser más útil distribuir estímulos de manera regular que concentrarlos en una única sesión agresiva. Si lo llevamos al microciclo: en los días alejados del partido (MD-4, MD-3) hay margen para contenido de desarrollo mecánico o eslabones débiles. Conforme nos acercamos, cobran sentido contenidos más coordinativos, prepartido (MD-2) o tareas con menor coste residual. El MD-1 es recuperación y disponibilidad. También definimos el momento (antes o después de campo). Por ejemplo, MD-1 antes de salir se hace sesión con salto y aceleración, de bajo coste. MD-4 post sesión de campo, desarrollo mecánico de salto. Muy importante que en el MD-2 dejemos la postsesión de campo ya sin nada, no solo por cuestión física sino mental, para que el foco vaya a la recuperación del partido.",
+      "keywords": [
+        "planificacion",
+        "microdosis",
+        "microciclo",
+        "match-day",
+        "distribucion-carga",
+        "recuperacion-mental"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el entrenamiento por microdosis en fútbol?",
+        "¿Cómo se distribuyen los estímulos de fuerza en función de la cercanía al partido?"
+      ],
+      "related_terms": [
+        "microdosis",
+        "MD-4",
+        "MD-2",
+        "coste residual",
+        "recuperación mental"
+      ],
+      "relevance_score": 5,
+      "context_before": "Logística: adaptación de la sesión al espacio y recursos.",
+      "context_after": "Cómo influye el momento de la temporada en el reparto de estos focos."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+      "speaker": "Rubén Aguado",
+      "start_timestamp": "45:08",
+      "end_timestamp": "51:17",
+      "start_seconds": 2708,
+      "end_seconds": 3077,
+      "duration_seconds": 369,
+      "timestamp_url": "?t=2708",
+      "title": "Periodización macro: el momento de la temporada",
+      "summary": "Comparando la temporada con un barco (maniobras intensas en puerto, ajustes sutiles en alta mar), muestra cómo el foco de pretemporada es estrés mecánico y corrección de debilidades, mientras que al final domina la frescura coordinativa y potenciar fortalezas.",
+      "literal_quote": "No se actúa igual en puerto que en alta mar... a veces convendrá atacar sobre puntos débiles para elevar el suelo y en otros momentos será más rentable reforzar fortalezas.",
+      "full_transcript": "Último punto: cómo influye el momento de la temporada en la planificación. Estas imágenes del mismo barco en diferentes momentos de su travesía ejemplifica que no se actúa igual en puerto que en alta mar. En puerto hay que hacer muchísimas maniobras para salir; en alta mar hay que mantener el rumbo haciendo ajustes precisos sin desestabilizar. De la misma forma, no entrenamos igual en pretemporada que en la última semana de liga. Habrá fases para asumir estrés mecánico y construir, y otras con peso coordinativo buscando frescura. A veces conviene atacar puntos débiles para elevar el suelo, y en otros reforzar las fortalezas. Propuesta: microciclo 1-4 predominio de corrección y debilidades. Microciclo 5-8 inicio de liga, domina fortalezas. Microciclo 9-12 etapa equilibrada. Hacia el final de temporada (microciclo 30+), la prioridad es explotar fortalezas y asegurar que el jugador acabe de la mejor manera. Es donde la ciencia se convierte realmente en práctica.",
+      "keywords": [
+        "periodizacion",
+        "temporada",
+        "pretemporada",
+        "fortalezas",
+        "debilidades",
+        "ajustes-precisos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo cambia el foco del entrenamiento a medida que avanza la temporada?",
+        "¿Cuándo se debe priorizar corregir debilidades vs potenciar fortalezas en fútbol?"
+      ],
+      "related_terms": [
+        "metáfora del barco",
+        "estrés mecánico y coordinativo",
+        "periodización de fortalezas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Planificación y microdosis a lo largo del microciclo.",
+      "context_after": "Agradecimientos y despedida final del ponente."
+    }
+  ]
+}
