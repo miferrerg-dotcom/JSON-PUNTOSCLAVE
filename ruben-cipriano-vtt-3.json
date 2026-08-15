@@ -1,0 +1,367 @@
+{
+  "video": {
+    "video_id": "VTT-3",
+    "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+    "speaker": "Rubén Cipriano",
+    "total_duration": "00:20:35",
+    "total_duration_seconds": 1235,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "VTT-3-001",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:00",
+      "start_seconds": 2,
+      "end_seconds": 60,
+      "duration_seconds": 58,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Las estructuras pasivas como órganos sensoriales",
+      "summary": "Las estructuras no contráctiles (como ligamentos y huesos) no tienen un rol puramente mecánico de estabilización. Funcionan como un órgano sensorial, teniendo una alta incidencia en la transmisión neuromotora, la propiocepción y el control motor. No recuperar los mecanorreceptores genera déficits que se traducen en problemas a largo plazo.",
+      "literal_quote": "Cabe destacar que estas estructuras no tienen solamente una función mecánica, sino que también funcionan como un órgano sensorial.",
+      "full_transcript": "Continuamos con las lesiones en estructuras pasivas o estructuras no contráctiles. Cabe destacar que estas estructuras no tienen solamente una función mecánica, sino que también funcionan como un órgano sensorial. Por lo tanto, si no recuperamos el control neuromotor y los mecanorreceptores, el deportista podría volver con déficit, que a la larga puede suponer grandes problemas. Tenemos que tener claro que este tipo de estructuras no son únicamente pasivas, mecánicas, que estabilizan o sujetan, sino que también tienen una gran incidencia e importancia en la transmisión neuromotora al sistema nervioso y en nuestra propiocepción y control neuromotor.",
+      "keywords": [
+        "estructuras-pasivas",
+        "organo-sensorial",
+        "control-neuromotor",
+        "mecanorreceptores",
+        "propiocepcion",
+        "transmision-neuromotora"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué función adicional a la mecánica tienen las estructuras pasivas?",
+        "¿Por qué es importante recuperar los mecanorreceptores en una lesión de ligamento?",
+        "¿Qué ocurre si no se recupera el control neuromotor en estructuras no contráctiles?"
+      ],
+      "related_terms": [
+        "estructuras",
+        "no",
+        "contráctiles",
+        "órgano",
+        "sensorial",
+        "mecanorreceptores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin del módulo sobre lesiones en estructuras contráctiles y partes blandas.",
+      "context_after": "Enumera las lesiones más comunes en estas estructuras: ligamentos, meniscos, huesos y cartílagos, y sus lentos tiempos de regeneración."
+    },
+    {
+      "id": "VTT-3-002",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:05:40",
+      "start_seconds": 146,
+      "end_seconds": 340,
+      "duration_seconds": 194,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=146",
+      "title": "Fases de regeneración en ligamentos y manejo conservador (Grados I y II)",
+      "summary": "La curación ligamentosa es lenta. La fase de remodelación (sustitución de colágeno III por I) empieza a las 6 semanas. En grados I y II, las primeras semanas combinan isometría, movilización sin dolor y contraste térmico. Progresivamente, de la semana 2-3 en adelante, se incorpora cadena cinética cerrada (sentadillas parciales), priorizando el trabajo propioceptivo antes de liberar la pliometría específica a la semana 6.",
+      "literal_quote": "La remodelación comienza a partir de la sexta semana, donde ya se empieza a sustituir el colágeno tipo III por el tipo I y la estructura se vuelve algo más resistente.",
+      "full_transcript": "En cuanto a los ligamentos, existen las diferentes fases de regeneración, como ocurría en lo muscular. En este caso, es algo más lento: una fase inflamatoria de las primeras horas, una fase proliferativa hasta las primeras seis semanas y la remodelación comienza a partir de la sexta semana, donde ya se empieza a sustituir el colágeno tipo III por el tipo I y la estructura se vuelve algo más resistente... Cuando tenemos un grado uno en cuanto a una lesión de ligamentos, una microrrotura... los primeros días se debe aplicar hielo y protocolos de contraste para poder vascularizar la zona... A partir de esa semana, entre la primera y la tercera semana, ya podríamos comenzar con trabajo en cinética cerrada de manera progresiva, como una sentadilla parcial, trabajos propioceptivos... Finalmente, la fase tres, a partir de la tercera hasta la sexta semana o en adelante, ya sí que trabajos de fuerza sin restricción... En el caso de una afección de ligamento con una rotura parcial, un grado dos... a partir de la segunda semana progresar en trabajos en cadena cinética cerrada... sobre todo progresando de lo bilateral a lo unilateral... Y en la última fase, a partir de la sexta semana, todo tipo de trabajo de fuerza sin restricción, de pliometría, pasando de estabilidad a inestabilidad.",
+      "keywords": [
+        "ligamentos",
+        "colageno",
+        "grado-uno",
+        "grado-dos",
+        "cadena-cinetica-cerrada",
+        "propiocepcion",
+        "fase-proliferativa"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuándo comienza la fase de remodelación en una lesión de ligamentos?",
+        "¿Qué tipo de colágeno se forma a partir de la sexta semana en una lesión ligamentosa?",
+        "¿Cómo se progresa en el entrenamiento de fuerza para un esguince grado II?"
+      ],
+      "related_terms": [
+        "colágeno",
+        "tipo",
+        "I",
+        "cadena",
+        "cinética",
+        "cerrada",
+        "trabajo",
+        "propioceptivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que las estructuras pasivas tienen un mecanismo de regeneración lento y limitado.",
+      "context_after": "Transición a la explicación sobre el manejo de roturas de ligamentos completas o de grado III."
+    },
+    {
+      "id": "VTT-3-003",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:05:40",
+      "end_timestamp": "00:08:21",
+      "start_seconds": 340,
+      "end_seconds": 501,
+      "duration_seconds": 161,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=340",
+      "title": "Manejo de roturas completas de ligamento (Grado III) y herramientas neuromusculares",
+      "summary": "Ante un grado III (rotura completa) la aproximación es muy cautelosa, a menudo quirúrgica. En las primeras semanas se emplea el 'cross education' (entrenar el miembro sano), estimulación eléctrica, o BFR en descarga. La carga inicia en la sexta semana de forma guiada, progresando a marcha hacia el mes cuatro, cuando recién se libera la pliometría asimétrica y cambios de dirección.",
+      "literal_quote": "Hacer trabajos de cross education, es decir, trabajo del miembro sano... trabajos de activación neuromuscular, sobre todo más a nivel mental, de reclutamiento de fibra.",
+      "full_transcript": "Y en el caso de un grado tres, de una rotura completa, donde ya hay discontinuidad de ligamentos... donde muchas veces incluso se requiere cirugía, se requiere sustituir por una plastia diferente, es mucho más complejo todo. Las primeras semanas, sobre todo en cuanto a trabajos de fuerza, es prácticamente solo movilidad, algún isométrico o concéntrico, pero en rangos muy controlados y hacer trabajos de cross education, es decir, trabajo del miembro sano, de otro miembro sano, trabajos de activación neuromuscular, sobre todo más a nivel mental, a nivel de reclutamiento de fibra... o trabajos con electroestimulación o incluso con BFR, restricción de flujo. Este tipo de cosas van a ayudar, pero sobre todo en descarga. A partir de la sexta semana, se podría comenzar ese trabajo en cadena cinética cerrada, pero con bastante estabilidad, progresando en cuanto a aspectos propioceptivos... hasta poco a poco ir liberando y hasta poco a poco ir hacia trabajos unipodales... A partir del cuarto mes en adelante, ya tendríamos posibilidad de hacer todo tipo de fuerza prácticamente sin restricciones, progresar en cuanto a la pliometría a nivel unipodal y con inestabilidad, y en cuanto a la especificidad, a todo gesto deportivo. Habitualmente, como los ligamentos son estructuras con gran función estabilizadora, todo lo que tenga que ver con los cambios de dirección, etcétera, van a ser aspectos bastante limitantes y aspectos para los que debemos preparar al deportista.",
+      "keywords": [
+        "grado-tres",
+        "cirugia",
+        "cross-education",
+        "electroestimulacion",
+        "bfr",
+        "cuarto-mes",
+        "cambios-de-direccion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el 'cross education' y cuándo se utiliza en readaptación?",
+        "¿Qué herramientas ayudan a la activación neuromuscular en la fase temprana de una rotura grado III?",
+        "¿En qué mes se suele iniciar la readaptación sin restricciones tras una lesión de grado III de ligamentos?"
+      ],
+      "related_terms": [
+        "cross",
+        "education",
+        "BFR",
+        "activación",
+        "neuromuscular",
+        "cadena",
+        "cinética",
+        "cerrada"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases de recuperación en los esguinces de grado I y II.",
+      "context_after": "Se utiliza el Ligamento Cruzado Anterior (LCA) como caso de estudio principal para ilustrar este protocolo de larga duración."
+    },
+    {
+      "id": "VTT-3-004",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:08:22",
+      "end_timestamp": "00:11:57",
+      "start_seconds": 502,
+      "end_seconds": 717,
+      "duration_seconds": 215,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=502",
+      "title": "Protocolos prácticos de Ligamento Cruzado Anterior (LCA)",
+      "summary": "En la reconstrucción del LCA, las primeras semanas priorizan control de edema, ganancia de ROM y reactivación del cuádriceps (vasto medial) para vencer la inhibición recíproca. Se usa cross education. A la semana 6 inician squats y zancadas con carga en cadena cerrada. Semanas 10-12 preparan la marcha, y a partir del cuarto mes se busca potencia deportiva y cambios de dirección agresivos.",
+      "literal_quote": "En las primeras fases, sobre todo, control del edema, movilizaciones, tratar de ganar la extensión y la flexión, trabajos de reclutamiento y de activación muscular, especialmente por esa inhibición recíproca que se produce.",
+      "full_transcript": "Uno de los ejemplos más comunes en el deporte es el ligamento cruzado anterior. Hay multitud de protocolos para los trabajos de recuperación del ligamento cruzado anterior, que por supuesto requiere intervención quirúrgica la mayoría de las veces... En las primeras fases, sobre todo, control del edema, movilizaciones, tratar de ganar la extensión y la flexión, trabajos de reclutamiento y de activación muscular, especialmente por esa inhibición recíproca que se produce, sobre todo a nivel de la musculatura del cuádriceps y del vasto medial oblicuo. También trabajos de cross education del miembro sano... y todo el trabajo neurocognitivo que sea prácticamente en descarga, sin apoyar. Si es solo el ligamento y no hay afección de otro menisco, incluso a partir de la segunda o tercera semana ya podríamos empezar esos apoyos y el reaprendizaje de patrones motores básicos, como un cuarto de sentadilla... Hacia la sexta semana, empezar con algo de carga, sobre todo en cadena cinética cerrada, en rangos muy controlados... A partir de ahí, en la fase tres, incluiríamos todo tipo de variantes del squat, trabajos de zancada y ejercicios que progresen de apoyo bimodal a apoyo asimétrico, y poco a poco a apoyo unipodal. Alrededor de la semana 10 o 12, nos preparemos para la marcha y la carrera... A partir del cuarto mes en adelante, optimizar al deportista con requerimientos de fuerza que necesite para evitar descompensaciones entre una pierna y otra, trabajos de potencia específicos de deporte... y todos los aspectos específicos de la modalidad, como los cambios de dirección, el sprint, los saltos, las deceleraciones, etcétera.",
+      "keywords": [
+        "lca",
+        "ligamento-cruzado-anterior",
+        "edema",
+        "vasto-medial-oblicuo",
+        "inhibicion-reciproca",
+        "marcha",
+        "cuarto-mes"
+      ],
+      "entities": [
+        "LCA"
+      ],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son los objetivos principales en las primeras fases post-cirugía de LCA?",
+        "¿Qué músculo sufre inhibición recíproca tras una rotura de LCA?",
+        "¿En qué semana se inicia la preparación para la carrera en una rehabilitación de LCA?"
+      ],
+      "related_terms": [
+        "ligamento",
+        "cruzado",
+        "anterior",
+        "inhibición",
+        "recíproca",
+        "cuádriceps",
+        "vasto",
+        "medial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Principios generales del manejo del ligamento de grado III, el uso del cross education y BFR.",
+      "context_after": "Se cambia de estructura para analizar el proceso de readaptación de los meniscos."
+    },
+    {
+      "id": "VTT-3-005",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:11:58",
+      "end_timestamp": "00:16:18",
+      "start_seconds": 718,
+      "end_seconds": 978,
+      "duration_seconds": 260,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=718",
+      "title": "La complejidad de la recuperación meniscal: Meniscectomía vs. Sutura",
+      "summary": "Los tiempos en lesiones de menisco varían drásticamente según la intervención. Una meniscectomía (retirar parte rota) permite cargas parciales a la cuarta semana y alta exigencia a la octava. Por el contrario, una sutura meniscal requiere 6 semanas sin apoyo antes de iniciar cargas controladas, postergando la fuerza y sobrecarga hasta el tercer mes. En ambas, se debe evitar la flexión profunda y rotación tempranas.",
+      "literal_quote": "Si se decide una meniscectomía... el proceso va a ir mucho más rápido que si se opta por una reparación meniscal con sutura, que será mucho más delicada y requerirá de mucho más tiempo de recuperación.",
+      "full_transcript": "Con respecto a los meniscos, es una de las estructuras más complejas de nuestra rodilla... Por ejemplo, si se decide una meniscectomía, es decir, retirar la parte afectada, el proceso va a ir mucho más rápido que si se opta por una reparación meniscal con sutura, que será mucho más delicada y requerirá de mucho más tiempo de recuperación... En el caso de la retirada de la parte rota, las cuatro primeras semanas se realizan trabajos similares a los de la primera fase del LCA... A partir de la cuarta semana, se incluyen trabajos en carga, en cadena cinética cerrada de manera parcial... A partir de la octava semana, se trabajan todas las fuerzas sin restricción... Si, por el contrario, se decide una operación con sutura y reparación meniscal, todo se alarga mucho más, ya que las primeras seis semanas prácticamente no se podrá apoyar y los trabajos deberán ser en descarga... A partir de la sexta semana, se trabajan en carga, comenzando por la cadena cinética cerrada con ejercicios como la sentadilla... Finalmente, a partir de la semana 12 en adelante, es decir, a partir del tercer mes, se puede progresar con fuerza, con sobrecarga e incluso con bastante trabajo de control motor para devolver la estabilidad a la rodilla... Sabiendo cuál es la función de los meniscos y cuáles son sus limitaciones, en este caso todo lo relacionado con la flexión profunda y la rotación en la rodilla, debemos tratar de evitar o alargar en el tiempo estos estímulos para que en las primeras semanas no se produzca ningún riesgo de comprometer esta estructura.",
+      "keywords": [
+        "meniscos",
+        "meniscectomia",
+        "sutura-meniscal",
+        "flexion-profunda",
+        "rotacion-rodilla",
+        "descarga",
+        "tercer-mes"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia de tiempos de recuperación existe entre una meniscectomía y una sutura de menisco?",
+        "¿Cuántas semanas sin apoyo requiere una reparación meniscal con sutura?",
+        "¿Qué movimientos deben evitarse en las primeras fases de una recuperación de menisco?"
+      ],
+      "related_terms": [
+        "meniscectomía",
+        "sutura",
+        "meniscal",
+        "flexión",
+        "profunda",
+        "rotación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación detallada de la línea temporal de rehabilitación de un Ligamento Cruzado Anterior.",
+      "context_after": "Se cambia a la temática de fracturas óseas y fracturas por estrés en el deporte."
+    },
+    {
+      "id": "VTT-3-006",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:16:20",
+      "end_timestamp": "00:19:35",
+      "start_seconds": 980,
+      "end_seconds": 1175,
+      "duration_seconds": 195,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=980",
+      "title": "Recuperación de fracturas óseas y el impacto en la consolidación",
+      "summary": "Las fracturas óseas tienen regeneración lenta. Las dos primeras fases obligan a trabajo sin apoyo, compensando con entrenamiento del resto del cuerpo (para no perder forma). A partir de la semana 4-8 se usa carga parcial y luego impacto progresivo, que resulta biológicamente necesario para estimular el callo óseo. Las fracturas por estrés en el fútbol (5º metatarsiano, navicular) tienen alto índice de recaída y la pliometría temprana es un fuerte limitante.",
+      "literal_quote": "En la última fase, es importante recalcar que el trabajo de impacto favorece la consolidación y la regeneración del hueso.",
+      "full_transcript": "En cuanto a las fracturas óseas, aquí sí es un aspecto mucho más limitante, porque su regeneración suele ser bastante más lenta. No voy a detenerme mucho... pero sabemos que, sobre todo al principio, debemos ser muy cautelosos y normalmente se mantiene el trabajo en descarga en las primeras dos fases debido a toda la sensibilidad. A partir de la tercera fase, ya se puede ir aplicando carga y, en la última fase, es importante recalcar que el trabajo de impacto favorece la consolidación y la regeneración del hueso... el jugador trabaja en descarga, pero puede entrenar el resto de estructuras de cualquier forma que no implique esta estructura directamente y que no comprometa su rendimiento... Las primeras cuatro semanas se realiza reposo prácticamente sin apoyo, trabajo de tren superior y de otras estructuras sin carga. A partir de la cuarta hasta la octava semana, se inicia la carga parcial de manera progresiva con ejercicios sin impacto. En la última fase, se introduce impacto progresivo, buscando la preparación para el trote... que también va a ayudar a la consolidación del callo óseo. Como dato curioso, estas son las lesiones por fracturas por estrés que más se suelen producir y que tienen más riesgo de recaída, como la del quinto metatarsiano, que suele ser habitual en deportes como el fútbol... Al igual que la del navicular o del peroné, que es una lesión grave, ya que impide el apoyo, o la tibia. En fútbol sí solemos ver bastantes fracturas por estrés, pero suelen ser principalmente fisuras o fracturas parciales... aunque también deben tener una consideración en cuanto a los trabajos a realizar, especialmente los de impacto y pliométricos, que son los que realmente nos van a limitar bastante.",
+      "keywords": [
+        "fracturas-oseas",
+        "trabajo-impacto",
+        "callo-oseo",
+        "fractura-por-estres",
+        "quinto-metatarsiano",
+        "pliometria",
+        "navicular"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante introducir trabajo de impacto en la última fase de una fractura ósea?",
+        "¿Cuáles son las fracturas por estrés más comunes en el fútbol?",
+        "¿Cómo debe entrenar un jugador de fútbol durante las primeras fases de una fractura ósea?"
+      ],
+      "related_terms": [
+        "consolidación",
+        "del",
+        "hueso",
+        "callo",
+        "óseo",
+        "quinto",
+        "metatarsiano",
+        "fracturas",
+        "por",
+        "estrés"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las suturas de menisco y meniscectomía.",
+      "context_after": "Se concluye el módulo sobre lesiones pasivas resumiendo la dosificación mecánica y la perspectiva sensoriomotora."
+    },
+    {
+      "id": "VTT-3-007",
+      "video_title": "Lesiones en estructuras pasivas o no contráctiles",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:19:36",
+      "end_timestamp": "00:20:35",
+      "start_seconds": 1176,
+      "end_seconds": 1235,
+      "duration_seconds": 59,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1176",
+      "title": "Conclusión: el equilibrio entre dosificación mecánica y recuperación sensoriomotora",
+      "summary": "El manejo de estructuras pasivas exige comprender que la curación depende de la dosificación de la carga mecánica (impacto y torsión). Paralelamente, es indispensable que el entrenamiento de fuerza reactive la función sensorial de la articulación para prevenir recaídas, devolviendo la estabilidad y el control neuromotor a la estructura.",
+      "literal_quote": "Lo más importante es tener claro que la articulación no es solo una estructura mecánica, sino también una estructura sensorial.",
+      "full_transcript": "Como conclusión de este apartado sobre estructuras pasivas y partes no contráctiles, sabemos que su recuperación es mucho más lenta y depende de la carga mecánica que apliquemos. Por lo tanto, la dosificación de impacto y de torsiones, así como el control del rango articular, serán factores clave a considerar en el proceso de los trabajos de fuerza. Lo más importante es tener claro que la articulación no es solo una estructura mecánica, sino también una estructura sensorial, y los trabajos de readaptación deben estar enfocados en recuperar la sensibilidad de los mecanismos receptores, lo que nos ayuda a mantener la estabilidad, recuperar el control neuromotor y, sobre todo, a aplicar correctamente la función de estas estructuras en nuestro deporte y evitar recaídas.",
+      "keywords": [
+        "carga-mecanica",
+        "dosificacion-impacto",
+        "estructura-sensorial",
+        "mecanismos-receptores",
+        "estabilidad",
+        "prevencion-recaidas"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Resumen"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores clave a considerar en el trabajo de fuerza para estructuras pasivas?",
+        "¿Por qué el enfoque de readaptación en estructuras pasivas debe incluir la sensibilidad de los receptores?",
+        "¿Cómo influye la dosificación de la carga mecánica en la prevención de recaídas?"
+      ],
+      "related_terms": [
+        "dosificación",
+        "de",
+        "impacto",
+        "estructura",
+        "sensorial",
+        "control",
+        "neuromotor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se describe el tratamiento de las fracturas por estrés, específicamente los problemas que causan en el alto rendimiento.",
+      "context_after": "Finaliza el fragmento de la clase sobre estructuras no contráctiles."
+    }
+  ]
+}

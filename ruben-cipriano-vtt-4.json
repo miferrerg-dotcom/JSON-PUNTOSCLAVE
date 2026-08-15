@@ -1,0 +1,323 @@
+{
+  "video": {
+    "video_id": "VTT-4",
+    "video_title": "Control neuromuscular en la readaptación de lesiones",
+    "speaker": "Rubén Cipriano",
+    "total_duration": "00:13:04",
+    "total_duration_seconds": 784,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "VTT-4-001",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:45",
+      "start_seconds": 1,
+      "end_seconds": 105,
+      "duration_seconds": 104,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Importancia del control neuromuscular y el circuito sensitivo-motor",
+      "summary": "Tener fuerza muscular no es suficiente si no se controla el movimiento. Tras una lesión, es vital recuperar la sensibilidad del control neuromuscular, ya que los músculos y articulaciones actúan como órganos propioceptivos (vía aferente) que condicionan tanto el control voluntario como el control reflejo y anticipatorio.",
+      "literal_quote": "Al final, un deportista puede tener la fuerza suficiente y aun así lesionarse si no controla correctamente el movimiento en situaciones reales o si no tiene ese control de toda su cadena.",
+      "full_transcript": "Siguiendo con el apartado del control neuromuscular, para mí uno de los aspectos más importantes a tener en cuenta es la recuperación de lesiones deportivas, ya que independientemente de si son estructuras pasivas o estructuras contráctiles blandas, uno de los factores más importantes a recuperar tras una lesión es la sensibilidad de este control neuromuscular, que se ve también afectado por las lesiones. En este bloque analizaremos cómo el sistema nervioso organiza el movimiento y cómo se puede recuperar tras una lesión. Al final, un deportista puede tener la fuerza suficiente y aun así lesionarse si no controla correctamente el movimiento en situaciones reales o si no tiene ese control de toda su cadena, de todo su cuerpo en general. Para ello, si vemos el circuito de retroalimentación, si vemos los músculos como efectores del movimiento o la articulación con esa función estabilizadora, también dijimos esa función sensitiva de ambos de aportar información. Tenemos esa vía deferente del control voluntario, de lo que queremos hacer cuando tenemos ese tiempo para poder decidir... o tenemos ese control reflejo, ese control anticipatorio, esa respuesta, por así decirlo, inconsciente, que es lo que nos va a condicionar el movimiento, tanto de nuestra estructura muscular como de la articulación que conecta esta musculatura.",
+      "keywords": [
+        "control-neuromuscular",
+        "fuerza",
+        "circuito-sensitivo",
+        "control-voluntario",
+        "control-reflejo",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué no es suficiente tener solo fuerza tras una lesión deportiva?",
+        "¿Qué función cumplen los músculos y articulaciones además de ser efectores del movimiento?",
+        "¿Cuál es la diferencia entre el control voluntario y el control anticipatorio?"
+      ],
+      "related_terms": [
+        "control",
+        "neuromuscular",
+        "sistema",
+        "nervioso",
+        "control",
+        "reflejo",
+        "vía",
+        "sensitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se finaliza la sección enfocada a recuperar puramente la fuerza y se introduce el factor del sistema nervioso.",
+      "context_after": "Se detalla cómo el cerebelo procesa la información y la diferencia entre respuestas de feedforward y feedback."
+    },
+    {
+      "id": "VTT-4-002",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:01:47",
+      "end_timestamp": "00:03:45",
+      "start_seconds": 107,
+      "end_seconds": 225,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=107",
+      "title": "Mecanismos de control motor: Feedforward vs Feedback post-lesión",
+      "summary": "El cerebelo coordina la información sensorial. El 'feedforward' es un control anticipatorio subconsciente que estabiliza ante perturbaciones, un automatismo que se pierde al lesionarse. Por otro lado, el 'feedback' es reactivo y consciente. La lesión altera la información sensorial, haciendo al deportista más dependiente del feedback lento y menos eficiente.",
+      "literal_quote": "...tras una lesión se pierde este automatismo, se alteran esos timing de respuesta y también se tiene mayor dependencia del feedback posterior...",
+      "full_transcript": "Para ello, tenemos la vía ascendente, donde recibimos la información a través de los mecanorreceptores o a través de las referencias sensoriales, de la vía propioceptiva, vía vestibular, etcétera. Y nuestro cerebelo será el que se encarga de coordinar esta información, de retroalimentar y de dar ese feedback para poder controlar el movimiento... Conociendo este circuito, encontramos los principales mecanismos de control motor, que pueden ser el feedforward, ese control anticipatorio, esa activación basada en experiencias previas, como decimos, subconsciente, que trata de estabilizar, de preparar al cuerpo para todo tipo de cargas, de perturbaciones... y que tras una lesión se pierde este automatismo, se alteran esos timing de respuesta y también se tiene mayor dependencia del feedback posterior... El feedback al final es reactivo, es tras ser procesado, es consciente, es una corrección de movimiento después de un estímulo... Y también tras una lesión, se ve afectada esa alteración de la información sensorial, se detecta peor el movimiento y también se suelen tener respuestas más lentas. Por lo tanto, estos dos aspectos, tanto el aspecto anticipatorio, el feedforward, como el feedback, son aspectos bastante importantes en el deporte... y que la mayoría o muchas veces no se tienen en cuenta en la recuperación de lesiones.",
+      "keywords": [
+        "feedforward",
+        "feedback",
+        "control-anticipatorio",
+        "cerebelo",
+        "automatismo",
+        "tiempo-respuesta",
+        "vias-sensoriales"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el feedforward y cómo se ve afectado tras una lesión?",
+        "¿Por qué un jugador lesionado depende más del feedback reactivo?",
+        "¿Qué papel juega el cerebelo en la retroalimentación del movimiento?"
+      ],
+      "related_terms": [
+        "feedforward",
+        "feedback",
+        "control",
+        "anticipatorio",
+        "automatismo",
+        "retraso",
+        "de",
+        "respuesta"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del circuito de control reflejo y voluntario en la cadena de movimiento.",
+      "context_after": "Se presenta el modelo secuencial de fases para trabajar el control neuromuscular desde la clínica hasta el campo."
+    },
+    {
+      "id": "VTT-4-003",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:03:55",
+      "end_timestamp": "00:05:52",
+      "start_seconds": 235,
+      "end_seconds": 352,
+      "duration_seconds": 117,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=235",
+      "title": "Fases de progresión del control neuromuscular",
+      "summary": "El proceso avanza secuencialmente: 1) Estabilidad estática y concienciación corporal. 2) Movilidad activa controlada y coordinación agonista/antagonista. 3) Control dinámico unipodal con cargas. 4) Patrones funcionales de fuerza (saltos, sentadillas). 5) Control motor específico (sprint, cambios de dirección). 6) Procesamiento automático bajo fatiga y presión (objetivo final).",
+      "literal_quote": "...que finalmente, todo esto se pueda hacer a través de un procesamiento automático, donde también de manera anticipatoria, de manera inconsciente, pueda ser llevado a cabo, incluso en entornos de alta exigencia, con trabajo bajo fatiga...",
+      "full_transcript": "Desde lo más básico, desde la lesión, hasta lo más específico, hasta el deporte, encontramos una primera fase o un primer estadio de control articular básico, de una estabilidad estática, de controlar el dolor, controlar el movimiento, concienciación corporal, de activación muscular, de isometrías, continuando con una fase de movilidad activa controlada, siendo capaz de... controlar el rango de movimiento completo, tener una buena coordinación entre la musculatura implicada, agonista, antagonista... Continuando a un control dinámico unipodal, es decir, desde esa movilidad activa controlada a un trabajo ya en apoyo de manera unipodal... El siguiente estadio, el cuatro, sería los patrones de movimiento funcional, patrones de movimiento básicos de fuerza, como puede ser una sentadilla o unos desplazamientos, progresar a los saltos... A un control motor específico de cada deporte, en este caso, habilidades como el sprint, los cambios de dirección, aceleración, deceleración. Y que finalmente, todo esto se pueda hacer a través de un procesamiento automático, donde también de manera anticipatoria, de manera inconsciente, pueda ser llevado a cabo, incluso en entornos de alta exigencia, con trabajo bajo fatiga, bajo presión, etcétera, que al final será este objetivo final de la recuperación de lesiones, de la readaptación deportiva.",
+      "keywords": [
+        "fases-progresion",
+        "movilidad-activa",
+        "control-unipodal",
+        "patrones-funcionales",
+        "procesamiento-automatico",
+        "fatiga",
+        "automatismo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las seis fases para recuperar el control neuromuscular?",
+        "¿Qué se busca en el estadio del control motor dinámico unipodal?",
+        "¿Cuál es el objetivo final de la readaptación neuromotriz?"
+      ],
+      "related_terms": [
+        "estabilidad",
+        "estática",
+        "control",
+        "dinámico",
+        "procesamiento",
+        "automático",
+        "trabajo",
+        "bajo",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de cómo se altera la propiocepción y se depende del feedback tras la lesión.",
+      "context_after": "Se ofrecen ejemplos prácticos y ejercicios concretos para las fases 1 y 2 (descarga y bipodal)."
+    },
+    {
+      "id": "VTT-4-004",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:06:26",
+      "end_timestamp": "00:08:52",
+      "start_seconds": 386,
+      "end_seconds": 532,
+      "duration_seconds": 146,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=386",
+      "title": "Aplicación práctica: Fases de control inicial y bipodal",
+      "summary": "En la Fase 1 (descarga), se prioriza la coordinación intersegmentaria sin apoyo y la activación muscular consciente y deliberada (ej. vasto medial). En la Fase 2 (control bipodal), se busca dominar el centro de masas utilizando biofeedback visual (plataformas de fuerza) y se inician transferencias de carga con perturbaciones leves en patrones básicos.",
+      "literal_quote": "En una segunda fase, donde comenzaríamos con un control bipodal, podemos trabajar con algunos elementos que nos den feedback, como una plataforma de fuerzas donde tengamos en imagen nuestro centro de masas...",
+      "full_transcript": "La primera fase, una fase que hablamos de control inicial, un ejemplo de una lesión de rodilla, de ligamento, de menisco, que la primera fase es totalmente en descarga, donde comenzamos con trabajos que pueden ser de esa coordinación de un miembro con otro, derecha con izquierda... Hay una concienciación también para la activación muscular, en este caso de la musculatura importante, como puede ser el cuádriceps, el vasto medial oblicuo, una concienciación de manera consciente, de manera deliberada de esa musculatura clave... Un trabajo de coordinación en diferentes segmentos, en este caso en descarga, estamos sentados, no tiene apoyo, pero ponemos algunos estímulos... O un trabajo reactivo también, donde tiene que hacer un trabajo más integral de todo el cuerpo... En una segunda fase, donde comenzaríamos con un control bipodal, podemos trabajar con algunos elementos que nos den feedback, como una plataforma de fuerzas donde tengamos en imagen nuestro centro de masas y donde podamos ver, en función de nuestro movimiento corporal, controlar ese centro de masas o trabajo de transferencia de cargas, trabajos de comienzo de patrones básicos como un cuarto de sentadilla, trabajos de transferencia de diferentes patrones laterales, incluso con alguna pequeña perturbación... Al final, buscando ese control global de manera consciente y esa estabilidad básica.",
+      "keywords": [
+        "control-inicial",
+        "descarga",
+        "coordinacion",
+        "vasto-medial",
+        "control-bipodal",
+        "plataforma-fuerzas",
+        "biofeedback",
+        "centro-de-masas"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué tipo de ejercicios se realizan en la fase de control inicial sin apoyo?",
+        "¿Cómo se utiliza una plataforma de fuerzas en la fase de control bipodal?",
+        "¿Por qué se introducen perturbaciones leves en ejercicios básicos como la sentadilla?"
+      ],
+      "related_terms": [
+        "activación",
+        "consciente",
+        "vasto",
+        "medial",
+        "transferencia",
+        "de",
+        "cargas",
+        "biofeedback"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se definieron las fases teóricas progresivas del control neuromuscular.",
+      "context_after": "Se detallan ejemplos avanzados con apoyo unipodal, componentes reactivos y traslado al campo."
+    },
+    {
+      "id": "VTT-4-005",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:08:54",
+      "end_timestamp": "00:11:19",
+      "start_seconds": 534,
+      "end_seconds": 679,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=534",
+      "title": "Fases avanzadas: Control unipodal, reactividad y transferencia al caos",
+      "summary": "En la Fase 3, se trabaja a una pierna introduciendo focos atencionales externos y elementos desestabilizadores (ej. inclinar el dedo gordo) para automatizar el gesto. Posteriormente, la fase reactiva integra saltos, asimetrías de carga, fatiga y neurocognición (toma de decisiones ante luces), culminando en el campo en situaciones reales con caos y oposición.",
+      "literal_quote": "Comenzar con trabajos también más reactivos, con algunas pequeñas perturbaciones, con alguna reacción ante estímulos... donde las repeticiones no sean todas iguales, donde cada repetición sea diferente, donde se trabaje bajo fatiga...",
+      "full_transcript": "En una tercera fase, donde ya podríamos buscar ese control unipodal, donde ya podemos empezar con ejercicios a una sola pierna muy básicos, incluso buscar que el jugador tenga una atención en foco externo para que vaya poco a poco, de manera inconsciente... adquiriendo ese patrón. Progresar también con algunos elementos que comprometan la estabilidad de manera ligera... En este caso, como el dedo gordo del pie, ponemos un plano inclinado para que tenga que hacer mayor incidencia ese dedo gordo del pie y nos ayude a ganar esa estabilidad unipodal. Pasando a una fase más dinámica, más reactiva, que puede ser ese trabajo de reaprendizaje de saltos, de aterrizajes, de cambio de dirección, ese trabajo neurocognitivo, resistido o asistido... Comenzar con trabajos también más reactivos, con algunas pequeñas perturbaciones, con alguna reacción ante estímulos, como pueden ser diferentes reacciones a diferentes estímulos de colores... O incluso trabajos de fuerza donde se mantenga esa sobrecarga y además esas perturbaciones, donde las repeticiones no sean todas iguales, donde cada repetición sea diferente, donde se trabaje bajo fatiga, donde tenga esa toma de decisión... Incluso podría haber otra fase que sería un trabajo específico en campo de fuerza, también resistido o asistido, y con mucha más incertidumbre, toma de decisión, oposición, caos, etcétera.",
+      "keywords": [
+        "control-unipodal",
+        "foco-externo",
+        "fase-reactiva",
+        "neurocognitivo",
+        "perturbaciones",
+        "fatiga",
+        "caos",
+        "incertidumbre"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué utilidad tiene el foco externo en la readaptación a una pierna?",
+        "¿Cómo se introduce la incertidumbre y el caos en la fase reactiva?",
+        "¿Por qué es importante que las repeticiones de fuerza no sean idénticas en la fase dinámica?"
+      ],
+      "related_terms": [
+        "foco",
+        "externo",
+        "trabajo",
+        "neurocognitivo",
+        "incertidumbre",
+        "reacción",
+        "ante",
+        "estímulos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de los ejercicios para las fases tempranas sin carga (fase 1) y apoyos simétricos (fase 2).",
+      "context_after": "Presentación del cuadrante definitivo que cruza los niveles de Fuerza vs Control Neuromotor para decidir el alta."
+    },
+    {
+      "id": "VTT-4-006",
+      "video_title": "Control neuromuscular en la readaptación de lesiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:11:20",
+      "end_timestamp": "00:13:04",
+      "start_seconds": 680,
+      "end_seconds": 784,
+      "duration_seconds": 104,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=680",
+      "title": "El cuadrante Fuerza-Control como criterio de Return to Play",
+      "summary": "Para un retorno seguro, no basta evaluar la fuerza. Un cuadrante Fuerza-Control indica que tanto Baja Fuerza/Bajo Control como Alta Fuerza/Bajo Control representan alto riesgo de recaída y fallas en la readaptación. El Return to Play solo es óptimo en el cuadrante de Alta Fuerza con Alto Control, asegurando respuestas automatizadas robustas.",
+      "literal_quote": "Si tenemos una alta tasa de fuerza, pero con un control bajo... la aplicación o la transferencia va a ser mínima y también va a haber un alto riesgo de recaída... Aquí, para mí, significa que hay un error durante el proceso.",
+      "full_transcript": "Finalmente, como decimos, no solo nos basta con tener fuerza, sino que tras una lesión es realmente importante recuperar la fuerza, pero también recuperar ese control. Aquí vemos, por ejemplo, cómo integraríamos esa transferencia en cuanto a fuerza y control neuromuscular. Si vemos un cuadrante con fuerza baja y control bajo, tendremos un riesgo muy alto de lesión o de recaída, un déficit global, tanto estructural como neuromuscular, y tendremos a un deportista muy vulnerable. Si tenemos un control alto, pero tenemos poca fuerza, vamos a tener un déficit en cuanto a fuerza y, por lo tanto, va a necesitar mejorar su carga... Puede ocurrir el caso contrario, que tengamos una alta tasa de fuerza, pero con un control bajo. Por lo tanto, la aplicación o la transferencia va a ser mínima y también va a haber un alto riesgo de recaída... Y aquí, para mí, significa que hay un error durante el proceso, ya que nos hemos centrado únicamente en la capacidad de fuerza y nos hemos olvidado totalmente de recuperar el control tras la lesión. Al final, lo que debemos buscar y lo óptimo es el apartado verde a la derecha arriba: alta fuerza y alto control, donde podemos asegurar que el objetivo de return to play se va a cumplir, donde podemos casi asegurar que el retorno al deporte es seguro, que tenemos la fuerza suficiente, el control automatizado y, por lo tanto, la respuesta será la más óptima posible.",
+      "keywords": [
+        "cuadrante-fuerza-control",
+        "return-to-play",
+        "riesgo-recaida",
+        "alta-fuerza",
+        "alto-control",
+        "evaluacion",
+        "transferencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué ocurre si un deportista recupera la fuerza pero tiene bajo control neuromuscular?",
+        "¿Cómo se determina que un jugador está en el estado óptimo para el Return to Play?",
+        "¿Qué cuadrantes de Fuerza-Control indican un error en el proceso de readaptación?"
+      ],
+      "related_terms": [
+        "alta",
+        "fuerza",
+        "alto",
+        "control",
+        "riesgo",
+        "de",
+        "recaída",
+        "return",
+        "to",
+        "play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases avanzadas y cómo integrar neurocognición en la readaptación indoor y en campo.",
+      "context_after": "Finaliza el análisis del bloque de readaptación neuromuscular."
+    }
+  ]
+}

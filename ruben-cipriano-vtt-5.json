@@ -1,0 +1,266 @@
+{
+  "video": {
+    "video_id": "VTT-5",
+    "video_title": "Configuración de sesiones de fuerza y conclusiones",
+    "speaker": "Rubén Cipriano",
+    "total_duration": "00:11:22",
+    "total_duration_seconds": 682,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "VTT-5-001",
+      "video_title": "Configuración de sesiones de fuerza y conclusiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:00:52",
+      "end_timestamp": "00:01:53",
+      "start_seconds": 52,
+      "end_seconds": 113,
+      "duration_seconds": 61,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=52",
+      "title": "Fundamentos para el diseño: contexto, objetivos y justificación de la dosis",
+      "summary": "Para configurar una sesión de fuerza en readaptación, es prioritario conocer el contexto de la lesión, la fase biológica y el perfil del deportista. Se debe definir claramente la dosis (volumen, intensidad, frecuencia) y la finalidad de cada ejercicio (ejercicio diana vs complementario), evitando copiar rutinas sin justificación profesional.",
+      "literal_quote": "No se trata solo de hacer ejercicios porque los vi en Instagram... sino por qué hago cada ejercicio, cuánta dosis hago de cada ejercicio, cuál es el ejercicio diana...",
+      "full_transcript": "Para mí uno de los aspectos principales es conocer el contexto de la lesión, la fase biológica del tejido y la característica del sujeto. Como hemos dicho, hay deportistas que son de una manera o de otra, que toleran mejor la carga de una manera u otra, que tienen gustos diferentes. Por ejemplo, hay jugadores a los que les gusta más el trabajo funcional y otros a los que les gusta más el trabajo analítico... También es importante tener muy claro cuáles son los objetivos y los contenidos de la sesión, es decir, los objetivos de la sesión y los contenidos a trabajar en ella, definir la carga, la intensidad, el volumen, la densidad, la frecuencia. No se trata solo de hacer ejercicios porque los vi en Instagram, en redes sociales, etcétera, sino por qué hago cada ejercicio, cuánta dosis hago de cada ejercicio, cuál es el ejercicio diana, cuál es el ejercicio complementario o compensatorio, para enfocarlo a la lesión.",
+      "keywords": [
+        "diseño-sesiones",
+        "dosis",
+        "ejercicio-diana",
+        "volumen",
+        "intensidad",
+        "fase-biologica",
+        "readaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los fundamentos para diseñar una sesión de fuerza en readaptación?",
+        "¿Por qué es importante definir un ejercicio diana vs complementario?",
+        "¿Qué variables de carga se deben definir al configurar una sesión de entrenamiento?"
+      ],
+      "related_terms": [
+        "contexto",
+        "de",
+        "la",
+        "lesión",
+        "dosis",
+        "ejercicio",
+        "diana",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente introduce el apartado final de la presentación, enfocado en cómo configura sus propias sesiones de fuerza.",
+      "context_after": "Se detalla la importancia de la biomecánica y los tipos de contracción al elegir ejercicios."
+    },
+    {
+      "id": "VTT-5-002",
+      "video_title": "Configuración de sesiones de fuerza y conclusiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:01:54",
+      "end_timestamp": "00:03:35",
+      "start_seconds": 114,
+      "end_seconds": 215,
+      "duration_seconds": 101,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=114",
+      "title": "Criterios biomecánicos y anatómicos en la selección de ejercicios",
+      "summary": "El diseño de la sesión exige determinar el tipo de contracción predominante según la fase biológica. Se debe analizar la anatomía funcional, si el segmento es biarticular o monoarticular, el patrón dominante (cadera, rodilla, tobillo) y variables biomecánicas como el brazo de momento, la palanca y los vectores de fuerza.",
+      "literal_quote": "Dependiendo de la fase, va a predominar la contracción isométrica, la concéntrica, la excéntrica o la pliométrica... Todo lo que tiene que ver con la biomecánica, por qué aplico la fuerza de determinada manera...",
+      "full_transcript": "En cuanto a lo que tiene que ver con el diseño, también hay que tener en cuenta cuál es el tipo de contracción predominante. Dependiendo de la fase, va a predominar la contracción isométrica, la concéntrica, la excéntrica o la pliométrica. Otra cuestión es conocer las características del segmento lesionado, si es un segmento biarticular, monoarticular, si va a trabajar haciendo su función principal o una función secundaria, y cuáles son las necesidades de la articulación adyacente o afectada... Todo lo que tiene que ver con la anatomía funcional, si trabajamos en condiciones de alargamiento o de acortamiento muscular... cuál es el patrón articular dominante, si es un trabajo o un ejercicio dominante de cadera, de rodilla, o donde necesitamos dominancia de tronco o de tobillo... Todo lo que tiene que ver con la biomecánica, por qué aplico la fuerza de determinada manera, en qué eje de rotación, en brazo de momento, palanca, dónde está el centro de masas. Todo ello a tener en cuenta. También los patrones motores implicados, la cadena cinética...",
+      "keywords": [
+        "contraccion-muscular",
+        "anatomia-funcional",
+        "biomecanica",
+        "brazo-momento",
+        "patron-articular",
+        "eje-rotacion",
+        "cadena-cinetica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué criterios biomecánicos influyen en la selección de un ejercicio de fuerza?",
+        "¿Cómo afecta la anatomía funcional al diseño de una sesión de readaptación?",
+        "¿Qué significa seleccionar un ejercicio por su patrón articular dominante?"
+      ],
+      "related_terms": [
+        "tipo",
+        "de",
+        "contracción",
+        "brazo",
+        "de",
+        "momento",
+        "patrón",
+        "articular",
+        "dominante"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del propósito, la dosis y la clasificación de los ejercicios en la sesión.",
+      "context_after": "Se avanza sobre los medios materiales, superficies de apoyo y herramientas externas de estímulo."
+    },
+    {
+      "id": "VTT-5-003",
+      "video_title": "Configuración de sesiones de fuerza y conclusiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:04:04",
+      "end_timestamp": "00:05:56",
+      "start_seconds": 244,
+      "end_seconds": 356,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=244",
+      "title": "Selección de sobrecargas, bases de apoyo y estimulación externa",
+      "summary": "Se debe elegir el tipo de sobrecarga (isotónica, isocinética, inercial) y la complejidad de la superficie de apoyo (estable, inestable, vibratoria). Además, es válido incorporar herramientas de estimulación externa como electroestimulación, BFR (restricción de flujo sanguíneo) o 'cross education' para potenciar los objetivos de readaptación.",
+      "literal_quote": "Con qué medio voy a trabajar, qué tipo de sobrecarga, si es una sobrecarga isotónica, isocinética, inercial o con componente elástico... o herramientas como el cross education, de entrenar el miembro sano...",
+      "full_transcript": "Con qué medio voy a trabajar, qué tipo de sobrecarga, si es una sobrecarga isotónica, isocinética, inercial o con componente elástico. La posición corporal, si vamos a trabajar de pie, sentados, tumbados, en posición de split stance, de rodillas, en función de lo que queramos incidir y conseguir. Al hilo de esto, el apoyo, si la base del apoyo es unipodal, bipodal, bipodal simétrico o bipodal asimétrico. Cuáles son los requerimientos neuromusculares de cada una de estas posiciones. Si trabajamos en diferentes superficies de apoyo: superficie estable, el suelo, superficie inestable, superficie inclinada, superficie declinada, incluso superficie deslizante, variante o vibratoria. Todas las herramientas que podemos utilizar... Características a tener en cuenta. Herramientas que podemos utilizar, todos los aspectos neurocognitivos, perceptivos, de toma de decisión... Estimulación externa o extra que podemos añadir, como la electroestimulación, trabajos con vibración, trabajos de BFR, de restricción de flujo sanguíneo, que nos van a ayudar en determinadas situaciones a conseguir nuestros objetivos. O herramientas como el cross education, de entrenar el miembro sano, esa transferencia del miembro sano al miembro afectado.",
+      "keywords": [
+        "sobrecarga-inercial",
+        "superficies-apoyo",
+        "estimulacion-externa",
+        "bfr",
+        "cross-education",
+        "electroestimulacion",
+        "apoyo-unipodal"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipos de sobrecarga se pueden utilizar en el entrenamiento de readaptación?",
+        "¿Qué es el BFR y cómo se integra en las sesiones de fuerza?",
+        "¿Por qué es importante variar la base de apoyo durante la recuperación de lesiones?"
+      ],
+      "related_terms": [
+        "BFR",
+        "cross",
+        "education",
+        "superficie",
+        "inestable",
+        "sobrecarga",
+        "inercial"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las variables anatómicas y biomecánicas de los ejercicios.",
+      "context_after": "El enfoque se desplaza hacia la evaluación de desequilibrios musculares y la variabilidad técnica."
+    },
+    {
+      "id": "VTT-5-004",
+      "video_title": "Configuración de sesiones de fuerza y conclusiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:06:14",
+      "end_timestamp": "00:08:41",
+      "start_seconds": 374,
+      "end_seconds": 521,
+      "duration_seconds": 147,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=374",
+      "title": "Evaluación de eslabones débiles y personalización de la sesión",
+      "summary": "Es fundamental evaluar los ratios agonista-antagonista y las asimetrías para corregir eslabones débiles, compensaciones o déficits de movilidad que eleven el riesgo de recidiva. La sesión debe justificarse técnicamente y adaptarse dinámicamente a la tolerancia y respuesta progresiva de cada deportista.",
+      "literal_quote": "También tener en cuenta cuáles son los eslabones débiles del deportista... Por supuesto, todo esto se debe ajustar según la respuesta del jugador, según los criterios de progresión y según la tolerancia.",
+      "full_transcript": "Tener en cuenta la calidad de movimiento, la correcta ejecución, el control neuromuscular, o si, por el contrario, nos interesan las perturbaciones, la variabilidad, que no haya dos repeticiones iguales. Tener en cuenta todo esto. También los ratios o desequilibrios musculares, los diferentes test, ratio agonista-antagonista, miembro izquierdo con miembro derecho. Aspectos que también debemos considerar para reducir el riesgo de recaída o de relesión... También tener en cuenta cuáles son los eslabones débiles del deportista, no solo producidos por la lesión o a consecuencia de la lesión, sino aspectos a mejorar, como déficit en cuanto a movilidad, estabilidad, diferentes compensaciones en segmentos adyacentes... No hago un ejercicio porque sí, o porque lo vi en redes sociales, o porque lo vi en un libro y me gustó, sino que tengo en cuenta prácticamente todas estas cosas a la hora de diseñar una sesión de entrenamiento, a la hora de hacer un ejercicio concreto. Me puedes preguntar el porqué y seguramente alguno de estos aspectos irá incluido en ello... Por supuesto, todo esto se debe ajustar según la respuesta del jugador, según los criterios de progresión y según la tolerancia de cada uno de nuestros deportistas a lo largo de todas las fases y de todo el proceso de recuperación de lesiones.",
+      "keywords": [
+        "desequilibrios-musculares",
+        "ratios-agonista-antagonista",
+        "eslabones-debiles",
+        "compensaciones",
+        "tolerancia-jugador",
+        "variabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario identificar los eslabones débiles del deportista?",
+        "¿Qué importancia tienen los ratios musculares agonista-antagonista?",
+        "¿Cómo se ajusta la carga y dificultad de la sesión según el perfil del jugador lesionado?"
+      ],
+      "related_terms": [
+        "eslabones",
+        "débiles",
+        "ratios",
+        "musculares",
+        "tolerancia",
+        "respuesta",
+        "del",
+        "jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Uso de herramientas avanzadas y bases de apoyo complejas en la sesión.",
+      "context_after": "Se procede a enumerar las conclusiones finales que engloban todo el contenido de la charla."
+    },
+    {
+      "id": "VTT-5-005",
+      "video_title": "Configuración de sesiones de fuerza y conclusiones",
+      "speaker": "Rubén Cipriano",
+      "start_timestamp": "00:08:44",
+      "end_timestamp": "00:10:20",
+      "start_seconds": 524,
+      "end_seconds": 620,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=524",
+      "title": "La readaptación moderna: de la curación tisular a la reconstrucción del rendimiento",
+      "summary": "El proceso de readaptación va más allá de la sanación de tejidos; busca reconstruir el rendimiento deportivo. Exige progresar la fuerza hasta la aplicación específica del mecanismo lesional y recuperar el control neuromuscular. El alta definitiva o 'Return to Play' debe basarse en criterios funcionales y no solo temporales, asegurando la máxima tolerancia.",
+      "literal_quote": "La readaptación moderna no es solo curar tejidos, sino también reconstruir la capacidad de la función... El objetivo final es devolver al deportista a un cuerpo capaz de tolerar las demandas reales del deporte.",
+      "full_transcript": "Finalmente, como conclusiones de toda la charla, podemos decir que la readaptación es un proceso de reconstrucción del rendimiento, no solo de curación tisular, de curación del tejido. El tipo de tejido y la fase biológica nos van a determinar la progresión de las cargas... La fuerza debe evolucionar desde el desarrollo de ella hasta la aplicación específica, es decir, desde recuperar la función, la fuerza principal... hasta la aplicación específica en el deporte y en el mecanismo lesional, en cómo se lesionó. Uno de los aspectos fundamentales... es recuperar el control neuromuscular, ya que no solo en jugadores lesionados, sino también en jugadores sanos, esto nos va a reducir mucho el riesgo de lesión y el riesgo de recaída... Finalmente, el retorno al deporte debe basarse no solo en el tiempo, sino también en criterios funcionales. Como decimos, la readaptación moderna no es solo curar tejidos, sino también reconstruir la capacidad de la función. El objetivo final es devolver al deportista a un cuerpo capaz de tolerar las demandas reales del deporte, los peores escenarios posibles, y siempre con seguridad y con el máximo rendimiento.",
+      "keywords": [
+        "reconstruccion-rendimiento",
+        "curacion-tisular",
+        "mecanismo-lesional",
+        "control-neuromuscular",
+        "criterios-funcionales",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Resumen",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia la readaptación moderna de la simple curación de una lesión?",
+        "¿En qué deben basarse las decisiones de retorno al deporte (Return to Play)?",
+        "¿Por qué es crítico recuperar el control neuromuscular tras una lesión?"
+      ],
+      "related_terms": [
+        "reconstrucción",
+        "del",
+        "rendimiento",
+        "criterios",
+        "funcionales",
+        "mecanismo",
+        "lesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre la individualización de la sesión basada en eslabones débiles y tolerancia.",
+      "context_after": "El ponente se despide, agradece a la audiencia y deja sus vías de contacto para cerrar la charla."
+    }
+  ]
+}
