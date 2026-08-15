@@ -1,0 +1,318 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+    "speaker": "Roberto Molina",
+    "total_duration": "00:17:31",
+    "total_duration_seconds": 1051,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:04:17",
+      "start_seconds": 2,
+      "end_seconds": 257,
+      "duration_seconds": 255,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Comunicación bidireccional y la gestión humana del jugador",
+      "summary": "La gestión humana es tan importante como la deportiva, ya que los problemas personales y emocionales de los atletas afectan directamente a su rendimiento. Molina subraya la necesidad de escuchar para comprender (y no solo para contestar) y cita el caso de Daniel Miret, quien emplea reuniones individuales diarias y breves para clarificar los roles del equipo.",
+      "literal_quote": "No de escucharles con la intención de escuchar para hablar, sino de escuchar para comprender, para aplicar... Esta comunicación con los jugadores puede ser un game changer.",
+      "full_transcript": "Aterrizamos en el apartado siete de esta presentación, que aborda la comunicación... el trabajo en equipo eficaz comienza y termina con la comunicación... La comunicación con los jugadores implica que debemos ser conscientes del papel relevante que tiene la gestión de los jugadores. Tanto o más es la gestión del grupo humano. El saber qué sucede con los jugadores... fuera de la pista, va a tener un impacto directo en lo que sucede con ellos dentro de la misma. No son máquinas... lo que nos pasa en el ámbito personal se ve reflejado... hace que estos aspectos anímicos, emocionales, psicológicos y personales puedan fluctuar e influenciar de manera significativa en su rendimiento... No de escucharles con la intención de escuchar para hablar, sino de escuchar para comprender, para aplicar... En uno de los grupos de trabajo en los que tuve la suerte de trabajar con el entrenador del ACB de la Penya de Joventut, Daniel Miret... tenía establecido tener al menos dos reuniones individuales con los jugadores. Se sentaba con ellos fuera de la pista... En muchas ocasiones, que el jugador tenga claro el rol pasa porque el entrenador o alguien del staff se siente con ese jugador... Esta comunicación con los jugadores puede ser un game changer.",
+      "keywords": [
+        "comunicacion",
+        "jugadores",
+        "gestion-grupo-humano",
+        "empatia",
+        "daniel-miret",
+        "game-changer"
+      ],
+      "entities": [
+        "Coach K",
+        "Daniel Miret",
+        "Penya de Joventut"
+      ],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la comunicación bidireccional con el jugador?",
+        "¿Qué dinámica implementaba Daniel Miret con sus jugadores?",
+        "¿Cómo afecta el contexto personal y emocional al rendimiento de un atleta?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "bidireccional",
+        "gestión",
+        "del",
+        "jugador",
+        "comunicación",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Anteriormente se analizó el framework de la toma de decisiones y cómo comunicar el output de forma sencilla.",
+      "context_after": "Tras explicar la comunicación con el jugador, se pasa a abordar la comunicación transversal con el resto del cuerpo técnico y médico."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:04:18",
+      "end_timestamp": "00:08:46",
+      "start_seconds": 258,
+      "end_seconds": 526,
+      "duration_seconds": 268,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=258",
+      "title": "El staff multidisciplinar y la comunicación informal",
+      "summary": "En organizaciones complejas, coordinar a médicos y fisioterapeutas externos es un reto. A pesar de posibles barreras de idioma (como relata en su experiencia con la Selección Alemana), la comunicación informal es vital: el S&C Coach debe aprovechar el tiempo en la sala de tratamiento o el gimnasio para absorber información que no entra en las reuniones oficiales.",
+      "literal_quote": "No vamos a tener tiempo todos los días para tener una reunión de una hora... existen muchos tiempos... para entender y absorber información... de forma informal.",
+      "full_transcript": "Además de la comunicación con los jugadores, está la comunicación con el staff. Un staff multidisciplinar... me encuentro formando parte del staff de la vigente campeona del mundo y campeona de Europa, la selección alemana de baloncesto. Sin embargo, no hablo nada de alemán y el entrenador jefe, Alex Mumbrú, tampoco habla alemán... No ser capaz de entender el idioma de la otra persona no significa que no pueda haber una comunicación, una empatía y que se construyan sinergias. Con intención y con atención, se aprende mucho... A medida que el rendimiento sube en la escala, normalmente la logística alrededor también aumenta. Por lo tanto, nos encontramos en staff en los que tenemos que coordinarnos... con médico... fisioterapeutas... Preparadores físicos y readaptadores... ¿de dónde conseguimos sacar el tiempo disponible para comunicarnos con ellos? La comunicación no siempre va a ser formal u organizada... No vamos a tener tiempo todos los días para tener una reunión de una hora... Sin embargo, existen muchos tiempos... en los que no hace falta sentarnos en torno a una mesa con papel y boli para estar informados... es interesante que nosotros... tengamos la oportunidad de compartir momentos en su lugar de trabajo, en su habitación de recuperación, en los lugares de tratamiento, para conocer cómo trabajan y para obtener información.",
+      "keywords": [
+        "staff-multidisciplinar",
+        "comunicacion-informal",
+        "barrera-idiomatica",
+        "fisioterapeutas",
+        "sinergias"
+      ],
+      "entities": [
+        "Selección Alemana de Baloncesto",
+        "Alex Mumbrú",
+        "Federación Española de Baloncesto"
+      ],
+      "topics": [
+        "Comunicación",
+        "Staff Management",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se gestiona la comunicación en un staff multidisciplinar complejo?",
+        "¿Qué importancia tiene la comunicación informal para un preparador físico?",
+        "¿Qué anécdota expone Roberto Molina sobre la barrera idiomática en selecciones?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "informal",
+        "staff",
+        "multidisciplinar",
+        "comunicación",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de la empatía y la gestión humana de los jugadores mediante reuniones diarias.",
+      "context_after": "Se cambia de tema hacia el apartado número ocho: la gestión de la incertidumbre y la tolerancia al riesgo de lesión."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:08:48",
+      "end_timestamp": "00:12:26",
+      "start_seconds": 528,
+      "end_seconds": 746,
+      "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=528",
+      "title": "La gestión de la incertidumbre y el riesgo de lesiones",
+      "summary": "El alto rendimiento exige aprender a tolerar la incertidumbre, puesto que no existen decisiones perfectas y las lesiones siempre acompañarán al deporte (incluso con la mejor tecnología, como se evidencia en la NBA). La clave reside en realizar ajustes continuos en el microciclo sin caer en la impulsividad.",
+      "literal_quote": "Si estamos hablando de alto rendimiento y no somos capaces de gestionar la incertidumbre, este mundo se nos va a hacer bastante complicado... no existe una decisión perfecta y ello conlleva a que siempre haya riesgo.",
+      "full_transcript": "Nos adentramos en el apartado número ocho: la gestión de la incertidumbre. Si estamos hablando de alto rendimiento y no somos capaces de gestionar la incertidumbre, este mundo se nos va a hacer bastante complicado. ¿Por qué? Porque no existe una decisión perfecta y ello conlleva a que siempre haya riesgo. Esos riesgos hay que medirlos... hay que tener tolerancia a ese riesgo... nunca va a ser la decisión perfecta y no vamos a poder estar 100 % seguros de que es la decisión adecuada... tenemos que ser conscientes de que las lesiones son parte del día a día... a pesar de que las estrategias de recuperación cada vez son mayores... vemos los análisis y los reports, por ejemplo, de la NBA durante la temporada pasada, que el índice de lesión no había bajado, incluso se había revertido, es decir, se había aumentado. Las causas pueden ser porque la densidad competitiva es más alta... o porque cada vez las demandas del juego son más exhaustivas... Por los motivos que sean, las lesiones nos van a acompañar y tenemos que ser capaces de tolerarlas... Y esto nos lleva a un loop, a un feedback, es decir, a un ajuste continuo... Tenemos que realizar ajustes y readaptaciones a medida que el entorno evoluciona, siempre teniendo en cuenta una cosa: realizar ajustes en nuestra programación nunca debe hacerse con impulsividad.",
+      "keywords": [
+        "incertidumbre",
+        "riesgo",
+        "lesiones",
+        "densidad-competitiva",
+        "impulsividad",
+        "ajuste-continuo"
+      ],
+      "entities": [
+        "NBA"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario tener tolerancia a la incertidumbre en el alto rendimiento?",
+        "¿Qué ocurre con las lesiones en ligas como la NBA a pesar de la tecnología?",
+        "¿Por qué se deben evitar las decisiones impulsivas al readaptar la programación?"
+      ],
+      "related_terms": [
+        "gestión",
+        "de",
+        "la",
+        "incertidumbre",
+        "riesgo",
+        "toma de decisiones",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Recomendación de acudir a las salas de tratamiento de fisioterapia para obtener datos informales del staff.",
+      "context_after": "Se abren las conclusiones finales del webinar, resumiendo los puntos vitales de la ponencia."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:12:28",
+      "end_timestamp": "00:14:10",
+      "start_seconds": 748,
+      "end_seconds": 850,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=748",
+      "title": "El valor de los datos y el peligro del Data Overload",
+      "summary": "Molina concluye que la evidencia científica es útil pero no es la verdad absoluta. El valor de cualquier dato cambia drásticamente según el contexto competitivo. Además, alerta contra el exceso de Excels y gráficas: la monitorización es un medio, y a menudo, menos datos resultan en mejores decisiones.",
+      "literal_quote": "Más datos no implica tomar mejores decisiones. Las mejores decisiones, en ocasiones, se toman con menos datos. Menos es más.",
+      "full_transcript": "Llegamos al apartado de las conclusiones. Esto sería los «take away» de esta presentación... en primer lugar, la evidencia científica, que sabemos que es necesaria para pasar y que sea sobre lo que construimos nuestras decisiones, pero no es la única verdad, no es suficiente por sí misma. En segundo lugar, el contexto determina el valor del dato. El dato que obtenemos no tiene el mismo valor si se obtiene en una competición que en un entrenamiento. No tiene el mismo valor si se obtiene en una competición de pretemporada amistosa que en una fase eliminatoria... En tercer lugar, la monitorización no tiene que ser el objetivo, sino el medio. No debemos inundarnos de pantallas, de indicadores, de barras, de gráficos, de pilas de datos en Excel. Tenemos que entender que son una herramienta para tomar mejores decisiones, pero que lo que sucede está fuera de la pantalla. En muchas ocasiones nos cerramos a leer datos, fórmulas y valores... cuando lo que está pasando a veces lo entendemos mirándola en la pista. Por ello, y esto es clave, más datos no implica tomar mejores decisiones. Las mejores decisiones, en ocasiones, se toman con menos datos. Menos es más.",
+      "keywords": [
+        "evidencia-cientifica",
+        "contexto",
+        "monitorizacion",
+        "exceso-datos",
+        "menos-es-mas",
+        "toma-decisiones"
+      ],
+      "entities": [
+        "Excel"
+      ],
+      "topics": [
+        "Data Science",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué la ciencia no es suficiente por sí misma para tomar decisiones deportivas?",
+        "¿Cómo afecta el contexto competitivo al valor de los datos obtenidos?",
+        "¿Por qué se dice que tener más datos no implica tomar mejores decisiones?"
+      ],
+      "related_terms": [
+        "ciencia",
+        "contexto",
+        "exceso",
+        "de",
+        "datos",
+        "data science",
+        "evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre la necesidad de aceptar los riesgos y la incertidumbre en el control de carga.",
+      "context_after": "El ponente expone el quinto 'takeaway' centrándose en el concepto de la individualización deportiva."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:14:11",
+      "end_timestamp": "00:15:06",
+      "start_seconds": 851,
+      "end_seconds": 906,
+      "duration_seconds": 55,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=851",
+      "title": "Igualdad vs Equidad: La clave de la individualización",
+      "summary": "La quinta conclusión establece que para lograr la excelencia en el deporte de equipo, es imprescindible individualizar. No se pueden obtener los mismos resultados aplicando el mismo estímulo a todos, porque igualdad y equidad no son lo mismo; la equidad exige darle a cada atleta lo que necesita.",
+      "literal_quote": "Igualdad y equidad no son lo mismo. Para que todos los jugadores alcancen el máximo nivel de rendimiento posible, no les vamos a poder proporcionar a cada uno de ellos el mismo estímulo.",
+      "full_transcript": "En quinto lugar, la individualización es imprescindible en deportes de equipo. Hemos hablado que, de manera general, cuando estamos programando o planificando, un gran porcentaje del trabajo va a ser común a todos los jugadores. Sin embargo, la clave, la diferencia, la excelencia y el alto rendimiento lo vamos a conseguir cuando individualizamos las necesidades de cada uno de los jugadores, proporcionándoles lo que necesitan para llegar a su máximo rendimiento, porque igualdad y equidad no son lo mismo. Para que todos los jugadores alcancen el máximo nivel de rendimiento posible, no les vamos a poder proporcionar a cada uno de ellos el mismo estímulo. Por lo tanto, igual estímulo de entrenamiento no va a lograr iguales resultados. Sin embargo, para conseguir una equidad en sus resultados, tenemos que conocer qué es lo que tenemos que hacer con ellos.",
+      "keywords": [
+        "individualizacion",
+        "igualdad-vs-equidad",
+        "excelencia",
+        "estimulo",
+        "deportes-equipo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre igualdad y equidad al individualizar el entrenamiento?",
+        "¿Por qué no funciona dar el mismo estímulo de entrenamiento a todos los jugadores?",
+        "¿Cómo se logra la excelencia en un deporte de equipo?"
+      ],
+      "related_terms": [
+        "equidad",
+        "individualización",
+        "estímulo",
+        "metodología",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Crítica a la dependencia exclusiva de los datos (Data overload) con la máxima 'menos es más'.",
+      "context_after": "Se enuncian las últimas conclusiones sobre la importancia de la comunicación y el rol activo del preparador físico."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:15:07",
+      "end_timestamp": "00:17:31",
+      "start_seconds": 907,
+      "end_seconds": 1051,
+      "duration_seconds": 144,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=907",
+      "title": "El verdadero rol del S&C Coach y el High Performance",
+      "summary": "Para cerrar, se resalta que la comunicación interpersonal es un pilar del rendimiento deportivo (algo que no se enseña en las universidades). Además, el rol del preparador físico debe trascender la mera cuantificación de cargas, convirtiéndose en un agente activo que toma excelentes decisiones cada día.",
+      "literal_quote": "High performance is not about having more data, but about making better decisions in the right [moment].",
+      "full_transcript": "La sexta conclusión... La comunicación es parte del rendimiento. Sin embargo, en las carreras no nos enseñan, no nos muestran o nos dan estrategias de cómo comunicar, de cómo transmitir información, de cómo empatizar. Estamos trabajando con personas, con atletas de rendimiento, en contextos de mucha presión. Por lo tanto, dominar la comunicación es un factor clave. Séptimo punto: la incertidumbre es inherente al rendimiento. Va a estar siempre... La octava es que el rendimiento depende de la calidad de las decisiones que tomamos de forma diaria, en el día a día. No esperar a empezar a tomar buenas decisiones... cuando la competición llega. Es decir, hay que trabajar... el proceso de la toma de decisiones, igual que todo, se entrena fuera de la competición... Por último, el rol que tenemos como preparadores físicos debe trascender la aplicación de las cargas. Es decir, somos más que una persona que se sienta a cuantificar quién debe entrenar más o cuánto se debe entrenar. Debemos tomar decisiones, comunicar y tener una parte más activa en todo el proceso del entrenamiento. Me gustaría terminar la presentación con una pequeña frase que dice así: 'High performance is not about having more data, but about making better decisions in the right'. Muchas gracias por vuestra atención. Ha sido un placer.",
+      "keywords": [
+        "comunicacion",
+        "rol-preparador-fisico",
+        "toma-decisiones",
+        "high-performance",
+        "cuantificacion-cargas"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Professional Experience",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la comunicación es considerada una parte del rendimiento deportivo?",
+        "¿Debe el rol del preparador físico limitarse a cuantificar las cargas?",
+        "¿Qué mensaje final transmite Roberto Molina sobre el alto rendimiento?"
+      ],
+      "related_terms": [
+        "rol",
+        "del",
+        "preparador",
+        "toma",
+        "de",
+        "decisiones",
+        "professional experience",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la diferencia entre equidad e igualdad en la individualización de cargas.",
+      "context_after": "Fin de la presentación y despedida oficial del webinar."
+    }
+  ]
+}

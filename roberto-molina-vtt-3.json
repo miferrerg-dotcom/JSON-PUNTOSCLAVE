@@ -1,0 +1,167 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+    "speaker": "Roberto Molina",
+    "total_duration": "00:07:06",
+    "total_duration_seconds": 426,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:09",
+      "start_seconds": 1,
+      "end_seconds": 129,
+      "duration_seconds": 128,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "El Framework de la Decisión: Input y calidad de datos",
+      "summary": "El proceso de toma de decisiones se divide en tres fases: input, procesamiento y output. En la fase de input es vital identificar las fuentes de información (médico, jugador, tecnología), el momento de recolección (entrenamiento vs competición) y asegurar la calidad, fiabilidad y validez de los datos.",
+      "literal_quote": "Decidir es transformar los datos obtenidos en una acción... En el momento del input, necesitamos distinguir cuáles son nuestras fuentes de información.",
+      "full_transcript": "Nos adentramos en el punto cinco de esta presentación: el framework de la decisión. Cómo tomamos la decisión, en qué contexto y cuál es el marco que nos ayuda a tomar las decisiones. Tenemos que ver este proceso dividido en tres momentos: el momento del input, el momento del procesamiento de la información y el momento del output. Para ello, debemos remarcar que decidir es transformar los datos obtenidos en una acción. En el momento del input, necesitamos distinguir cuáles son nuestras fuentes de información. Es decir, en qué nos basamos o cuáles son las variables que nos aportan esa información, ya sea a nivel humano, de donde recibimos la información: del médico, del entrenador ayudante, del jugador directamente, o si estamos obteniendo la información de la estadística de partido o de algún sistema de trackeo que utilizamos durante el partido o la competición. Además, el tiempo. ¿Qué queremos decir con el tiempo? Cuándo se recoge esa información. Se recoge pre entrenamiento, durante el entrenamiento, después del entrenamiento, o esto está sucediendo durante la competición, porque durante la competición todos los tiempos se reducen exponencialmente... Y por último, la calidad de la información que obtenemos. ¿Qué queremos decir con calidad? La fiabilidad. ¿Es consistente la información que estamos recibiendo? ¿Es sensible... ¿Detecta los cambios relevantes? ¿Es válida? ¿Mide lo que realmente nos importa que mida?",
+      "keywords": [
+        "toma-decisiones",
+        "input",
+        "fuentes-informacion",
+        "calidad-datos",
+        "fiabilidad",
+        "validez"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Data Science"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres fases del framework de toma de decisiones?",
+        "¿Qué factores se deben considerar en la fase de input de datos?",
+        "¿Cómo influye el momento de recolección (tiempo) en la validez de un dato?"
+      ],
+      "related_terms": [
+        "framework",
+        "de",
+        "la",
+        "decisión",
+        "input",
+        "toma de decisiones",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se finaliza el análisis del decálogo de responsabilidades del preparador físico.",
+      "context_after": "Se avanza a la siguiente fase del framework, enfocada en cómo se procesan y contextualizan los datos obtenidos."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:02:09",
+      "end_timestamp": "00:03:19",
+      "start_seconds": 129,
+      "end_seconds": 199,
+      "duration_seconds": 70,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=129",
+      "title": "Procesamiento de datos: Contexto y sesgo profesional",
+      "summary": "Durante el procesamiento, el contexto modifica el significado de los datos. Es necesario filtrar y priorizar la información relevante, entendiendo que esta interpretación estará sesgada tanto por la experiencia del preparador físico como por el contexto competitivo (amistoso, clasificatoria o eliminatoria).",
+      "literal_quote": "En el procesamiento de la información, tenemos que saber que el contexto modifica el significado del dato.",
+      "full_transcript": "Todo ello va a ser el contexto, el framework, para ahora analizar y procesar esta información. En el procesamiento de la información, tenemos que saber que el contexto modifica el significado del dato. La integración de los datos va a llevar un paso en el que vamos a tener que filtrar lo que realmente es relevante de lo que no lo es. Por lo tanto, priorizar lo que va a tener un peso significativo, un peso mayor en la toma de la decisión. Esto va a estar sesgado en mayor o menor medida en función de la experiencia del profesional, en función de la experiencia del preparador físico y sobre todo también del background que tiene en ese contexto específico, va a poder tomar mejores o peores decisiones. Por último, en esta fase de procesamiento, el contexto competitivo. Si se está hablando de un entrenamiento, de una competición, y si es una competición, si es un partido amistoso, si es un partido de clasificatoria, si es un partido de eliminatoria, tendrá un peso diferente.",
+      "keywords": [
+        "procesamiento",
+        "contexto",
+        "sesgo",
+        "experiencia",
+        "filtrado",
+        "priorizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el contexto al significado de los datos deportivos?",
+        "¿Por qué la experiencia del preparador físico sesga el procesamiento de la información?",
+        "¿Qué rol juega el tipo de competición al interpretar los datos?"
+      ],
+      "related_terms": [
+        "procesamiento",
+        "de",
+        "la",
+        "información",
+        "contexto",
+        "toma de decisiones",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables de calidad y fiabilidad en la fase de input.",
+      "context_after": "Se explica el paso final de este framework: el output y cómo ejecutar la decisión."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:03:19",
+      "end_timestamp": "00:06:37",
+      "start_seconds": 199,
+      "end_seconds": 397,
+      "duration_seconds": 198,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=199",
+      "title": "Output de la decisión y la simplicidad en la comunicación",
+      "summary": "El output implica ajustar la carga o modificar la sesión mediante una instrucción verbal sencilla. Molina cita una anécdota de Xavi Schelling con Gregg Popovich en la NBA: pese a presentar un informe ultra-detallado, el técnico solo quería saber 'qué hacemos mañana'. La calidad de la decisión reside en comunicarla de forma eficaz.",
+      "literal_quote": "La calidad de la toma de decisiones no depende solo de los datos, sino de cómo comunicamos esos datos.",
+      "full_transcript": "Con todo esto mezclado en la coctelera, llegamos al output, es decir, a la toma de decisión. Es un proceso muy complejo, pero este proceso complejo tiene que llevar una consecuencia, es decir, ajustar una carga, modificar la sesión o tomar una decisión. Este proceso complejo que hemos mostrado anteriormente tiene que llevar una comunicación sencilla, tiene que ir adjunto a una instrucción verbal sencilla. Pueden ser decisiones individuales o decisiones colectivas... Pero fijaos, hay una frase que me quedó marcada de Xavi Schelling, que contaba cuando comenzó a trabajar con Popovich en los San Antonio Spurs en NBA... Xavi Schelling contaba que en una de sus primeras reuniones con el equipo, con el staff técnico, llevaba un report que había elaborado en un solo A4 para que fuese conciso. Sin embargo, para introducir todos los datos, toda la información que quería reflejar... lo redujo todo para que entrase en ese A4. Y en el momento de la reunión... Popovich, el entrenador jefe de San Antonio Spurs, después de dejarle contarlo todo, dice: 'Sí, esto está muy bien, pero no necesito tantos datos. Necesito saber qué hacemos mañana'. Todo ello simplifica la ecuación. Nosotros, como profesionales, como preparadores físicos con conocimiento científico, tenemos que tener en cuenta todas las variables y tener la máxima información posible. Sin embargo, tenemos que ser capaces de analizarla, de filtrarla y de manifestar y de comunicar una decisión que tiene que ser sencilla y fácil... Por lo tanto, la calidad de la toma de decisiones no depende solo de los datos, sino de cómo comunicamos esos datos.",
+      "keywords": [
+        "output",
+        "comunicacion-sencilla",
+        "nba",
+        "popovich",
+        "san-antonio-spurs",
+        "toma-decisiones"
+      ],
+      "entities": [
+        "Xavi Schelling",
+        "Gregg Popovich",
+        "San Antonio Spurs",
+        "NBA",
+        "Brose Bamberg"
+      ],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Anécdota",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué lección aprendió Xavi Schelling de Gregg Popovich en la NBA?",
+        "¿Por qué un análisis de datos complejo debe traducirse en una instrucción verbal sencilla?",
+        "¿De qué depende realmente la calidad de la toma de decisiones según Molina?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "sencilla",
+        "output",
+        "decisión",
+        "comunicación",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del procesamiento de la información y la alteración de su significado por contexto y sesgos.",
+      "context_after": "Se procede a aplicar esta teoría en tres casos prácticos vividos con la Selección Alemana de Baloncesto en 2025."
+    }
+  ]
+}

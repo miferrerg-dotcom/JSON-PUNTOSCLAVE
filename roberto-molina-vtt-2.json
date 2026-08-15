@@ -1,0 +1,355 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+    "speaker": "Roberto Molina",
+    "total_duration": "00:11:56",
+    "total_duration_seconds": 716,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:55",
+      "start_seconds": 2,
+      "end_seconds": 115,
+      "duration_seconds": 113,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Responsabilidad 1: Educación y adherencia del jugador",
+      "summary": "El primer pilar del preparador físico es generar una cultura de trabajo. Por mejores instalaciones que tenga un club, estas serán ineficaces si no existe el hábito en el jugador de acudir de forma autónoma antes y después de los entrenamientos.",
+      "literal_quote": "Podemos tener la mejor sala del mundo... Sin embargo, si no tenemos la cultura asentada de que nuestros jugadores vengan de forma individual, previo al entrenamiento, y se queden después... van a ser ineficaces las instalaciones.",
+      "full_transcript": "Con todo ello llegamos al cuarto punto de esta presentación: el rol del preparador físico. Creo que lo vamos a abordar como si fuese un decálogo, es decir, las 10 responsabilidades que un preparador físico... debería cumplir. La primera de ellas es la educación y la adherencia de nuestros jugadores. Podemos tener la mejor sala del mundo para entrenar, hacer pesas, trabajar fuerza y potenciar la prevención de lesiones. Sin embargo, si no tenemos la cultura asentada de que nuestros jugadores vengan de forma individual, previo al entrenamiento, y se queden después de los entrenamientos, van a ser ineficaces las instalaciones que tengamos. Por eso, la educación y la adherencia de nuestros jugadores se irá construyendo poco a poco a lo largo de la temporada... en la selección lo que procuramos es continuar la pauta de trabajo del jugador y para ello se necesita establecer un contacto previo a la concentración...",
+      "keywords": [
+        "preparador-fisico",
+        "educacion",
+        "adherencia",
+        "cultura-trabajo",
+        "instalaciones",
+        "selecciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es la primera responsabilidad del preparador físico según Roberto Molina?",
+        "¿Por qué unas buenas instalaciones no garantizan el éxito en el entrenamiento?",
+        "¿Cómo se gestiona la adherencia al trabajo en equipos y selecciones?"
+      ],
+      "related_terms": [
+        "educación",
+        "adherencia",
+        "cultura",
+        "de",
+        "trabajo",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre el decálogo de responsabilidades del S&C Coach.",
+      "context_after": "El decálogo avanza hacia la segunda responsabilidad: el diseño de las tareas y dinámicas de equipo."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:01:56",
+      "end_timestamp": "00:03:25",
+      "start_seconds": 116,
+      "end_seconds": 205,
+      "duration_seconds": 89,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=116",
+      "title": "Responsabilidad 2: Diseño de tareas y transferencia",
+      "summary": "Las tareas de activación y las dinámicas de 'team building' deben estar bien diseñadas y buscar una transferencia real. Es clave utilizar la ciencia y mantener un enfoque riguroso, evitando que las actividades lúdicas confundan el rol profesional del preparador físico.",
+      "literal_quote": "En lugar de ser un profesional que utiliza la ciencia... y una ejecución lo más profesional posible, con divertirnos y otras actividades que no tienen nada que ver.",
+      "full_transcript": "En segundo lugar, el segundo punto de este decálogo: el diseño de las tareas y la transferencia de las mismas. Creo que las imágenes hablan por sí mismas, en las que todos pensamos en las tareas de activación previas al entrenamiento... También actividades en las que, aunque la ciencia no profundiza tanto, en momentos puntuales sí que son muy interesantes poder implementar con nuestros grupos las dinámicas de team building o tareas socioafectivas en las que buscamos cambiar un poquito una dinámica o un estado anímico que no está en la línea que queremos, y estas actividades vemos que pueden ayudarnos sin abusar de ellas, porque abusando de este tipo de tareas se puede confundir fácilmente nuestra profesión. En lugar de ser un profesional que utiliza la ciencia... y un punto de vista y una ejecución lo más profesional posible, con divertirnos y otras actividades que no tienen nada que ver.",
+      "keywords": [
+        "diseno-tareas",
+        "transferencia",
+        "team-building",
+        "activacion",
+        "profesionalismo",
+        "socioafectivo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué precauciones hay que tener al usar dinámicas de team building?",
+        "¿Por qué es importante el diseño de tareas en la preparación física?",
+        "¿Cómo debe equilibrarse la diversión con el uso de la ciencia en las activaciones?"
+      ],
+      "related_terms": [
+        "diseño",
+        "de",
+        "tareas",
+        "team",
+        "building",
+        "transferencia",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la importancia de la educación y adherencia del jugador al entrenamiento invisible.",
+      "context_after": "Se detalla el tercer punto del decálogo relacionado con la nutrición y recuperación dentro de la competición."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:03:25",
+      "end_timestamp": "00:04:14",
+      "start_seconds": 205,
+      "end_seconds": 254,
+      "duration_seconds": 49,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=205",
+      "title": "Responsabilidad 3: Gestión de la recuperación inmediata",
+      "summary": "La recuperación no ocurre solo al terminar el evento; debe comenzar durante el propio partido aportando frutas, zumos y suplementación. Posteriormente, el S&C Coach debe dirigir estrategias activas o pasivas (bañeras de frío, electroestimulación) según los minutos jugados.",
+      "literal_quote": "El poder proporcionar a nuestros jugadores... frutas, zumos y geles de suplementación durante el partido nos va a ayudar a ganar tiempo, no solamente intracompetición, sino poscompetición.",
+      "full_transcript": "Tercer punto de nuestro decálogo: la gestión de la recuperación, empezando inmediatamente durante el partido. Aquí, si cabe, toma todavía un papel más importante la recuperación durante el partido y la competición. Por eso, el poder proporcionar a nuestros jugadores, como vemos en la imagen, frutas, zumos y geles de suplementación durante el partido nos va a ayudar a ganar tiempo, no solamente intracompetición, sino poscompetición. Además, qué estrategias vamos a seguir, si vamos a utilizar bañeras de frío, trabajo de electroestimulación, suplementación pospartido o la recuperación activa de forma individual o grupal en función de los minutos que han jugado. Todo esto, como preparadores físicos, si no lo dirigimos, deberíamos tener una parte importante en la misma.",
+      "keywords": [
+        "gestion-recuperacion",
+        "suplementacion",
+        "intracompeticion",
+        "baneras-frio",
+        "electroestimulacion",
+        "minutos-jugados"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo debe iniciar la estrategia de recuperación de un jugador?",
+        "¿Qué rol tiene el preparador físico en la suplementación intracompetición?",
+        "¿Qué estrategias de recuperación pospartido se mencionan en el decálogo?"
+      ],
+      "related_terms": [
+        "gestión",
+        "de",
+        "la",
+        "recuperación",
+        "intracompetición",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de diseñar tareas con base científica y no caer solo en el entretenimiento.",
+      "context_after": "Se presenta un vídeo práctico de un preparador físico de élite para ilustrar el trabajo en plena temporada."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:04:15",
+      "end_timestamp": "00:06:48",
+      "start_seconds": 255,
+      "end_seconds": 408,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=255",
+      "title": "Responsabilidad 4: Optimización del rendimiento físico en temporada",
+      "summary": "A través del trabajo de Giannis Idri en el INSEP de Francia, se evidencia la obligación de seguir desarrollando el potencial físico del atleta incluso en calendarios congestionados. La optimización y la mejora física no deben reservarse únicamente para el 'off-season'.",
+      "literal_quote": "Esta optimización de rendimiento físico... podríamos pensar que sucede durante el off-season... Sin embargo, todo este trabajo está siendo realizado durante la temporada.",
+      "full_transcript": "La cuarta: me gustaría mostraros un vídeo de un gran compañero y profesional, Giannis Idri... que trabaja para INSEP en Francia, así como para la Federación Francesa de Baloncesto. No me equivocaría diciendo que es uno de los preparadores físicos con más conocimiento a nivel científico e investigación. Utiliza la tecnología... Pero no os he mostrado este vídeo con la finalidad de: 'Pues otro reel de redes sociales'. No. Esta optimización de rendimiento físico, este trabajo realizado con un deportista de alto rendimiento... podríamos pensar que sucede durante el off-season, fuera de temporada. Sin embargo, todo este trabajo está siendo realizado durante la temporada. A pesar de lo congestionado de los calendarios de competición... en los que nos encontramos con ventanas muy cortas para poder desarrollar y hacer mejor a nuestros jugadores, es importante el punto número uno que hemos dicho de la educación del jugador... para poder buscar estímulos, píldoras de trabajo que ayuden no solamente a recuperar, sino a desarrollar el potencial físico de nuestros atletas.",
+      "keywords": [
+        "optimizacion-rendimiento",
+        "insep",
+        "off-season",
+        "calendario-congestionado",
+        "desarrollo-fisico",
+        "pildoras-trabajo"
+      ],
+      "entities": [
+        "Giannis Idri",
+        "INSEP",
+        "Federación Francesa de Baloncesto"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué es importante entrenar el potencial físico durante la temporada regular?",
+        "¿Qué ejemplo utiliza Roberto Molina para hablar de optimización en temporada?",
+        "¿El desarrollo físico solo debe trabajarse durante el off-season?"
+      ],
+      "related_terms": [
+        "optimización",
+        "del",
+        "rendimiento",
+        "temporada",
+        "metodología",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de las estrategias nutricionales y de recuperación inmediatas al partido.",
+      "context_after": "El decálogo continúa con la necesidad imperativa de individualizar los estímulos dentro de la carga global del equipo."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:06:48",
+      "end_timestamp": "00:08:43",
+      "start_seconds": 408,
+      "end_seconds": 523,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=408",
+      "title": "Responsabilidades 5 y 6: Individualización y adaptación del microciclo",
+      "summary": "El trabajo colectivo requiere adaptación individual para potenciar las debilidades y capacidades de cada atleta, comunicando siempre el propósito de las tareas. Además, el microciclo clásico queda obsoleto, transformándose en una adaptación constante frente a los viajes y la disponibilidad de instalaciones.",
+      "literal_quote": "Aunque el global o el general va a ser común para todos, necesitamos... individualizar no solamente las cargas, sino las tareas... El microciclo deja de ser una estructura cerrada y es una constante evolución.",
+      "full_transcript": "En el punto número cinco, la individualización del entrenamiento... Que aunque el global o el general va a ser común para todos, necesitamos, como buenos profesionales de alto rendimiento, individualizar no solamente las cargas, sino las tareas que proponemos a los jugadores, buscando potenciar sus puntos débiles y potenciar en última instancia su rendimiento. Por lo tanto, es fundamental planificar las tareas para cada jugador, buscando las adaptaciones, las regresiones, las progresiones que más les puedan ayudar. Y no solo eso, sino... es importante comunicarlo. Es importante que conozcan qué es lo que tienen que hacer, no solamente dejarles el papel en la pizarra... sino comunicarles cuál es el sentido y cuál es la intención de lo que estamos trabajando. En el sexto punto, la planificación y la adaptación del microciclo. Anteriormente... hablábamos que el microciclo deja de ser una estructura cerrada y es una constante evolución y una constante adaptación, ya que tenemos que jugar con las variables que nos vamos encontrando, no solamente del calendario de competición... sino también nuestras cargas de trabajo en función de los viajes, disponibilidad de pista, de contacto. Todo esto constituye un arte.",
+      "keywords": [
+        "individualizacion",
+        "microciclo",
+        "adaptacion-constante",
+        "progresiones",
+        "regresiones",
+        "comunicacion-objetivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué el microciclo de entrenamiento debe estar en constante adaptación?",
+        "¿De qué sirve individualizar las tareas en deportes de equipo?",
+        "¿Qué variables obligan a reajustar el microciclo en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "individualización",
+        "microciclo",
+        "adaptación",
+        "control de carga",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo introducir microdosis de desarrollo de fuerza en medio del calendario competitivo.",
+      "context_after": "Molina expone las responsabilidades ligadas al cuerpo médico y las decisiones que limitan el tiempo en pista de los jugadores."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:08:43",
+      "end_timestamp": "00:10:26",
+      "start_seconds": 523,
+      "end_seconds": 626,
+      "duration_seconds": 103,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=523",
+      "title": "Responsabilidades 7 y 8: Comunicación y gestión de la disponibilidad",
+      "summary": "La comunicación bidireccional con jugadores, entrenadores y el staff biomédico es prioritaria (llamada la misión 007). Esta comunicación soporta la prevención de lesiones, donde el S&C Coach debe actuar como un arquitecto, priorizando la disponibilidad a largo plazo aunque esto implique sacrificar minutos de un jugador clave.",
+      "literal_quote": "Como arquitectos de esta preparación física, tenemos que ser capaces de pensar en el largo plazo y de buscar cuáles son los momentos en los que el jugador puede recuperar para intentar que siempre esté disponible.",
+      "full_transcript": "La responsabilidad, no la he numerado la siete, sino la 007, porque es una misión muy difícil: la comunicación con el staff técnico y médico. No quiero decir que sea difícil comunicarse, sino que quizás sea una de las más relevantes. La comunicación con los tres pilares... tanto con jugadores, que es obvia, con entrenadores, con cuerpo técnico y con el staff biomédico... La prevención de lesiones y gestión de la disponibilidad formaría la octava de estas 10 responsabilidades... No solamente pensando en la prevención de lesiones en ejercicios con gomas, con bosus... sino la prevención de lesiones también, en muchas ocasiones, va orientada al trabajo de fuerza, al trabajo de movilidad, al trabajo pliométrico. Y esto acompañado de la gestión de la disponibilidad, es decir, nuestros jugadores referentes, probablemente tengamos que ser capaces de sacrificarlos en el sentido de no ponerlos en pista, de darles descanso, porque nuestros entrenadores van a querer tenerlos en pista el máximo tiempo posible. Pero como arquitectos de esta preparación física, tenemos que ser capaces de pensar en el largo plazo y de buscar cuáles son los momentos en los que el jugador puede recuperar...",
+      "keywords": [
+        "comunicacion",
+        "staff-biomedico",
+        "prevencion-lesiones",
+        "gestion-disponibilidad",
+        "descanso",
+        "arquitectos-preparacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres pilares de comunicación esenciales para un preparador físico?",
+        "¿Qué significa la gestión de la disponibilidad en jugadores clave?",
+        "¿Por qué un preparador físico debe ir contra la voluntad del entrenador de jugar con su estrella?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "prevención",
+        "de",
+        "lesiones",
+        "disponibilidad",
+        "staff management",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "La necesidad de individualizar planes y adaptar el microciclo a los recursos de pista y viajes.",
+      "context_after": "Se concluye el decálogo integrando los datos de la monitorización tecnológica con la observación directa."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:10:26",
+      "end_timestamp": "00:11:56",
+      "start_seconds": 626,
+      "end_seconds": 716,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=626",
+      "title": "Responsabilidades 9 y 10: Monitorización y toma de decisiones",
+      "summary": "Es vital integrar las dos realidades del entrenamiento: lo que ocurre empíricamente en la cancha y lo que muestran los datos en la pantalla. Esta información culmina en la responsabilidad más importante: la toma de decisiones sobre la carga antes, durante y después de cada sesión para reajustar planificaciones futuras.",
+      "literal_quote": "Tomar decisiones sobre la carga de entrenamiento antes de la sesión, a medida que la sesión se va desarrollando y una vez terminado, ajustar lo que vamos a realizar en las próximas sesiones.",
+      "full_transcript": "La novena de los puntos centralistas sería la monitorización en la interpretación de la carga. Aquí está claro, tenemos dos realidades dentro del mismo escenario. Tenemos lo que está sucediendo en el campo, lo que pasa con los jugadores, lo que pasa con el balón y la canasta, y en un segundo plano, lo que nos dicen las pantallas, lo que estamos recogiendo en los datos. Tenemos que ser capaces de integrar e interpretar ambos. Y por último, diría que la más importante, es la toma de decisiones sobre la carga del entrenamiento en tres momentos. Tomar decisiones sobre la carga de entrenamiento antes de la sesión, tomar decisiones sobre la carga de entrenamiento a medida que la sesión se va desarrollando y una vez terminado, ajustar lo que vamos a realizar en las próximas sesiones y ver de todo lo que habíamos planificado, qué es lo que hemos podido llevar a cabo, qué es lo que hemos tenido que recortar y por qué... Para poder entender en qué quizás no nos hayamos equivocado, pero cuál ha sido el diseño previo, por qué no hemos podido completar ese 100 % del diseño y cómo reajustar para próximas sesiones.",
+      "keywords": [
+        "monitorizacion",
+        "interpretacion-carga",
+        "toma-decisiones",
+        "datos",
+        "ajuste-sesiones",
+        "planificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Data Science",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres momentos en los que se debe tomar decisiones sobre la carga?",
+        "¿Por qué es necesario cruzar lo que se ve en la cancha con lo que muestran las pantallas?",
+        "¿Qué debe hacer el preparador físico una vez terminada la sesión de entrenamiento?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "toma",
+        "de",
+        "decisiones",
+        "control de carga",
+        "data science"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del delicado balance de comunicar los riesgos de lesión al entrenador y frenar a los jugadores referentes.",
+      "context_after": "Se concluye que gestionar todas estas responsabilidades convierte el trabajo en un reto logístico y analítico enorme (referencia a Minority Report)."
+    }
+  ]
+}

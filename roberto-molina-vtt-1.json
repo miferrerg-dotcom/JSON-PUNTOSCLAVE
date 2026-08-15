@@ -1,0 +1,307 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+    "speaker": "Roberto Molina",
+    "total_duration": "00:13:00",
+    "total_duration_seconds": 780,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:03:15",
+      "start_seconds": 4,
+      "end_seconds": 195,
+      "duration_seconds": 191,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4",
+      "title": "El rol de los datos y el factor humano en la toma de decisiones",
+      "summary": "A través de un caso real en un torneo internacional, Roberto Molina ilustra que aunque los datos son claros (un jugador clave mostraba signos de fatiga y bajo wellness), la decisión final de jugar o descansar siempre recae en el staff, ya que implica asumir riesgos tácticos o de lesión.",
+      "literal_quote": "Los datos son importantes, pero no toman decisiones. Las personas, los entrenadores, los preparadores físicos, sí que las tomamos.",
+      "full_transcript": "Hola a todos. Bienvenidos a esta ponencia... Para presentarles una radiografía sobre quién soy, mi nombre es Roberto Molina y he trabajado para clubes como Bilbao Basket... Brose Bamberg... Selección Alemana de Baloncesto... Quiero empezar con una situación real. Teníamos un partido internacional, era el tercer encuentro en cinco días. Uno de nuestros jugadores, que era clave, llega al entrenamiento con previos signos de fatiga. Tenía bajo «wellness», había dormido muy mal... y los datos estaban claros. Pero la decisión, sin embargo, quizás no tanto. Si entrenaba, aumentaba el riesgo de lesión, si jugaba, estábamos forzando al jugador, pero si, por otro lado, lo sentábamos, comprometíamos la preparación táctica y el rendimiento del equipo. Por lo tanto, ese día me di cuenta de que los datos son importantes, pero no toman decisiones. Las personas, los entrenadores, los preparadores físicos, sí que las tomamos.",
+      "keywords": [
+        "toma-decisiones",
+        "fatiga",
+        "wellness",
+        "alto-rendimiento",
+        "datos"
+      ],
+      "entities": [
+        "Roberto Molina",
+        "Bilbao Basket",
+        "Brose Bamberg",
+        "Federación Española de Baloncesto",
+        "Selección Alemana de Baloncesto"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué rol juegan los datos en la toma de decisiones según Roberto Molina?",
+        "¿Cómo afecta la fatiga de un jugador clave en las decisiones del staff?",
+        "¿Quién toma realmente las decisiones en el deporte de alto rendimiento?"
+      ],
+      "related_terms": [
+        "toma",
+        "de",
+        "decisiones",
+        "fatiga",
+        "datos",
+        "professional experience"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del webinar y presentación de la trayectoria del ponente.",
+      "context_after": "Se describe la brecha existente entre las recomendaciones de la ciencia y la realidad caótica del alto rendimiento."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:03:17",
+      "end_timestamp": "00:06:11",
+      "start_seconds": 197,
+      "end_seconds": 371,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=197",
+      "title": "Limitaciones del entorno: Calendario, recursos y presión",
+      "summary": "El entorno real rompe los modelos científicos rígidos. Las planificaciones clásicas (microciclos) se convierten en adaptaciones constantes debido a la alta densidad de partidos, la variabilidad interindividual de los jugadores, la variación de recursos del staff y la fuerte presión externa por obtener resultados a corto plazo.",
+      "literal_quote": "El microciclo que tanto utilizamos deja de ser un diseño para ser una adaptación constante.",
+      "full_transcript": "Este es el problema que nos encontramos en el alto rendimiento, y es que hay una brecha entre lo que nos dice la ciencia... y lo que vemos en el día a día... Todo ello está pasando en un entorno con limitaciones. ¿Qué limitaciones tenemos en ese entorno? En primer lugar, que estamos muchas veces atados por el calendario competitivo... en baloncesto nos encontramos con semanas de dos y tres partidos seguidas... Además, los recursos disponibles del staff varían muchísimo... El entorno... va a romper cualquier modelo rígido. ¿Qué queremos decir con esto? Que sí, que existe una narrativa ideal de lo que la ciencia del deporte nos dice... pero luego la realidad es mucho más caótica. En semanas sin competición podemos planificar... pero en semanas con doble partido, todo esto cambia. El microciclo que tanto utilizamos deja de ser un diseño para ser una adaptación constante. La congestión competitiva va a determinar cómo trabajamos. La variabilidad interindividual va a definir enormemente nuestro quehacer... Y además, la presión por el resultado. En muchas organizaciones, la filosofía o la cultura de trabajar a largo plazo no existe.",
+      "keywords": [
+        "brecha-ciencia",
+        "calendario-competitivo",
+        "microciclo",
+        "presion-resultado",
+        "adaptacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las principales limitaciones del entorno de alto rendimiento?",
+        "¿Por qué el microciclo tradicional no funciona en entornos de alta densidad competitiva?",
+        "¿Cómo afecta la presión por el resultado a la planificación deportiva?"
+      ],
+      "related_terms": [
+        "limitaciones",
+        "del",
+        "entorno",
+        "microciclo",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del caso práctico sobre la toma de decisiones basada en datos.",
+      "context_after": "El ponente empieza a desgranar de forma concreta cuáles son las limitaciones reales de la ciencia y las métricas."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:06:11",
+      "end_timestamp": "00:08:44",
+      "start_seconds": 371,
+      "end_seconds": 524,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=371",
+      "title": "Data Overload y limitaciones del RPE por contexto",
+      "summary": "Transferir la ciencia del laboratorio a la pista es complejo y suele derivar en 'Data Overload' (exceso de datos). Además, herramientas subjetivas como el RPE de la sesión no tienen valores absolutos: 700 Unidades Arbitrarias en pretemporada no tienen la misma repercusión física que el mismo valor durante unos playoffs congestionados.",
+      "literal_quote": "Ese RPE multiplicado por el tiempo de sesión, aunque nos dé un valor absoluto igual, puede ser distinto en función del momento de la temporada.",
+      "full_transcript": "Y aquí llegamos a las limitaciones de la ciencia... La transferencia de lo que nos dicen los estudios. Una cosa es lo que sucede en el laboratorio... y otra cosa es lo que luego podemos realmente aplicar en la pista de juego... Además, el efecto del data overload, que en muchas ocasiones nos sucede, que nos perdemos entre papeles y entre Excels... La naturaleza de las métricas. En esa naturaleza... tenemos que saber cómo es su aplicabilidad, así como la fiabilidad... Esas limitaciones, por ejemplo, se traducen en la herramienta del RPE de la sesión... Ese RPE multiplicado por el tiempo de sesión, aunque nos dé un valor absoluto igual, puede ser distinto en función del momento de la temporada. Es decir, una sesión en la que obtiene, vamos a decir arbitrariamente, 700 UAs, un jugador en pretemporada no tiene la misma repercusión que la misma valoración de 700 unidades arbitrarias del mismo jugador, pero en lugar de pretemporada, en un contexto de playoff en el que jugamos tres partidos en cinco días.",
+      "keywords": [
+        "data-overload",
+        "rpe",
+        "unidades-arbitrarias",
+        "contexto-temporada",
+        "metricas"
+      ],
+      "entities": [
+        "RPE"
+      ],
+      "topics": [
+        "Data Science",
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué significa el Data Overload en la preparación física?",
+        "¿Por qué un mismo valor de RPE tiene diferente impacto según el momento de la temporada?",
+        "¿Qué limitaciones tiene la transferencia de ciencia del laboratorio a la pista?"
+      ],
+      "related_terms": [
+        "data",
+        "overload",
+        "rpe",
+        "limitaciones",
+        "ciencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre la presión por los resultados y las limitaciones del calendario.",
+      "context_after": "Se detallan otras barreras tecnológicas, específicamente el uso de frecuencia cardíaca y GPS."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:08:46",
+      "end_timestamp": "00:09:50",
+      "start_seconds": 526,
+      "end_seconds": 590,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=526",
+      "title": "Frecuencia Cardíaca y barreras tecnológicas (GPS)",
+      "summary": "En deportes intermitentes como el baloncesto, los dispositivos de frecuencia cardíaca muestran un retraso respecto a la acción real. Adicionalmente, el uso de GPS y dispositivos inerciales es económicamente restrictivo y a menudo inviable por la falta de instalación de antenas en pabellones visitantes.",
+      "literal_quote": "La frecuencia cardíaca que nos muestran los dispositivos no corresponde exactamente con la acción que está sucediendo... El coste es muy elevado y la instalación de los mismos no nos permite utilizarlo siempre.",
+      "full_transcript": "La frecuencia cardíaca. Pues bien, la frecuencia cardíaca pasa un poco lo mismo... conocemos que para deportes intermitentes tiene sus limitaciones, ya que la frecuencia cardíaca que nos muestran los dispositivos no corresponde exactamente con la acción que está sucediendo en el campo, sino con las anteriores. Y este +18 no es que sea para mayores de edad, sino porque no todo el mundo tiene acceso a ello. El tema de GPS o dispositivos inerciales de movimiento, ya que el coste es muy elevado y la instalación de los mismos no nos permite utilizarlo siempre. Hay veces, en función de qué tecnología utilicemos, solamente se puede recoger información en lugares donde tengamos instaladas las antenas. Pero claro, si viajamos o vamos a pabellones en los que no tenemos esas antenas, ya tenemos ahí un vacío.",
+      "keywords": [
+        "frecuencia-cardiaca",
+        "deportes-intermitentes",
+        "gps",
+        "dispositivos-inerciales",
+        "antenas"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué problema presenta la frecuencia cardíaca en deportes intermitentes?",
+        "¿Cuáles son las barreras para usar GPS en el baloncesto profesional?",
+        "¿Por qué no siempre se pueden recoger datos inerciales cuando se juega de visitante?"
+      ],
+      "related_terms": [
+        "frecuencia",
+        "cardíaca",
+        "gps",
+        "tecnología",
+        "control de carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la limitación contextual del RPE de sesión.",
+      "context_after": "El ponente conecta estas limitaciones tecnológicas con su propia experiencia académica en la tesis doctoral."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:09:56",
+      "end_timestamp": "00:10:55",
+      "start_seconds": 596,
+      "end_seconds": 655,
+      "duration_seconds": 59,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=596",
+      "title": "El contraste entre el rigor de los Papers y la práctica real",
+      "summary": "La evidencia científica no debe tomarse como una verdad absoluta. A través de la elaboración de su tesis doctoral, Molina constató que aunque las tablas de Excel y los estudios académicos son perfectos ('el papel lo soporta todo'), sus conclusiones muchas veces no concuerdan con lo que realmente se puede aplicar en pista.",
+      "literal_quote": "De lo que sucedía en los papers... a lo que veíamos que sucedía en la realidad, no siempre concordaba... la evidencia científica en la que nos tenemos que basar... no puede ser nuestra verdad absoluta.",
+      "full_transcript": "Recientemente, el año pasado terminé mi tesis doctoral. Mi tesis doctoral fue sobre monitorización de carga, precisamente en deportes de equipo con tecnología lochos. En esta tesis doctoral, el paper todo lo aguanta, el papel todo lo soporta. Es decir, es genial. Recoges toda la información, tienes tus tablas de Excel, fantástico. Y sacas tus conclusiones, ves cómo se comportan las tendencias. Pero, ¿qué sucede? De lo que sucedía en los papers, de lo que veíamos que los datos nos daban, a lo que podíamos aplicar, lo que veíamos que sucedía en la realidad, no siempre concordaba, a veces se nos iba. Entonces, una cosa es lo que nos dice la ciencia, la evidencia científica en la que nos tenemos que basar y nos tiene que ayudar a tomar decisiones, pero no puede ser nuestra verdad absoluta.",
+      "keywords": [
+        "tesis-doctoral",
+        "papers",
+        "evidencia-cientifica",
+        "monitorizacion",
+        "aplicabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Por qué la evidencia científica no es la verdad absoluta en el deporte?",
+        "¿Qué contraste encontró Roberto Molina entre su tesis doctoral y la pista?",
+        "¿A qué se refiere la frase 'el papel todo lo soporta' en ciencia deportiva?"
+      ],
+      "related_terms": [
+        "papers",
+        "evidencia",
+        "científica",
+        "realidad",
+        "professional experience"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las limitaciones tecnológicas con antenas y GPS en pabellones visitantes.",
+      "context_after": "Se relata una anécdota con un técnico de la NBA sobre las limitaciones logísticas del staff."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:11:01",
+      "end_timestamp": "00:13:00",
+      "start_seconds": 661,
+      "end_seconds": 780,
+      "duration_seconds": 119,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=661",
+      "title": "Limitaciones logísticas: Ratio Entrenador-Jugador (NBA vs Europa)",
+      "summary": "Una anécdota con el asistente técnico de Orlando Magic durante el Eurobasket ilustra la brecha de recursos humanos en el alto rendimiento. Mientras la NBA opera con un ratio de un entrenador por cada 1 o 2 jugadores, en Europa es común contar con un cuerpo técnico muy reducido (5 entrenadores para 16 jugadores), limitando drásticamente la capacidad de individualizar la carga táctica y física.",
+      "literal_quote": "Tenemos que estar un entrenador con cada jugador... el ratio de entrenador-jugador en NBA es mucho más bajo.",
+      "full_transcript": "quería hablar sobre una experiencia que ocurrió el verano pasado con un entrenador de NBA... Estábamos en la preparación del Eurobasket y... uno de nuestros entrenadores ayudantes era el primer entrenador ayudante de Orlando Magic. Era el primer día de entrenamiento... Cuando explicábamos cómo nos íbamos a dividir... nos dice: 'Vale, pero ¿cómo lo vamos a hacer?' Le decimos: '¿Cómo que cómo lo vamos a hacer?' Dice: 'Sí, somos solo cinco entrenadores... si tenemos 16 chicos... no podemos hacer todo esto'. Decimos: '¿A qué te refieres?' Dice: 'Tenemos que estar un entrenador con cada jugador'. Y entonces él nos explicó que la realidad con la que trabajan en NBA es totalmente diferente... el ratio de entrenador-jugador en NBA es mucho más bajo. Es decir, están casi un entrenador con cada jugador o un entrenador con dos jugadores. Entonces, para él, que pudi এশিয়ারramos estar llevando un entrenamiento con una selección internacional con cinco entrenadores en pista para 16 jugadores, no lo entendía. Esta fue una situación que os cuento porque creo que refleja muy bien las limitaciones, no solo de la ciencia, sino las limitaciones del entorno, la aplicabilidad de lo que queremos hacer en el día a día.",
+      "keywords": [
+        "nba",
+        "ratio-entrenador",
+        "limitaciones-logisticas",
+        "eurobasket",
+        "orlando-magic"
+      ],
+      "entities": [
+        "NBA",
+        "Eurobasket",
+        "Orlando Magic"
+      ],
+      "topics": [
+        "Staff Management",
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Anécdota",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué diferencia en el ratio entrenador-jugador existe entre la NBA y Europa?",
+        "¿Qué anécdota demuestra las limitaciones logísticas del entorno deportivo?",
+        "¿Por qué es difícil aplicar programas individualizados con pocos entrenadores?"
+      ],
+      "related_terms": [
+        "nba",
+        "ratio",
+        "entrenadores",
+        "logística",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se enfatizó que el conocimiento científico teórico no siempre concuerda con la realidad.",
+      "context_after": "Cierre de la anécdota sobre el choque cultural y logístico entre la NBA y el entorno europeo."
+    }
+  ]
+}

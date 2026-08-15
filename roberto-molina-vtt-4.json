@@ -1,0 +1,162 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+    "speaker": "Roberto Molina",
+    "total_duration": "00:08:51",
+    "total_duration_seconds": 531,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:58",
+      "start_seconds": 1,
+      "end_seconds": 178,
+      "duration_seconds": 177,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Caso 1: El dilema del jugador franquicia frente a los datos",
+      "summary": "Ante indicadores alarmantes de fatiga, mala recuperación intermitente, bajo wellness y molestias musculares, la ciencia y los datos recomendaban reducir la carga de un jugador franquicia. Sin embargo, su rol de líder y su rotunda negativa a descansar impidieron modificar su rutina, demostrando cómo la voluntad y estatus del jugador pueden anular la teoría.",
+      "literal_quote": "La realidad, en este caso, no corresponde con la ciencia. La acción no encajaba con lo que los valores de ciencia nos indicaban que debíamos hacer.",
+      "full_transcript": "Vamos a abordar el primero de los casos que hemos puesto como prácticos. En él hablamos de nuestro jugador franquicia. ¿Qué sucedió en este contexto que hemos explicado anteriormente? Selección nacional, verano de 2025, preparación del Eurobasket. Este jugador, que hemos llamado jugador franquicia, era un jugador con mucho peso específico, importante, con un rol muy significativo dentro del equipo. Al terminar el entrenamiento, observamos que la distancia recorrida era la mayor de todo el resto de jugadores... su frecuencia cardíaca media no era significativamente mayor... Sin embargo, observábamos que su capacidad de recuperación en periodos intermitentes... estaba entre los que menos recuperaban. A todo esto le sumamos que sus valores de readiness, el cuestionario de wellness previo... obtuvo en torno al 50%... el jugador manifestaba cansancio, fatiga, preocupación y malos indicadores de sueño. Y si todo esto fuese poco... el cuerpo biomédico nos comunicó que tenía molestias físicas a nivel de musculatura de cadena posterior... La ciencia nos estaría mandando señales de alerta, red flags... Sin embargo, ¿qué sucedió con la realidad? La realidad es que un jugador franquicia en el equipo, líder dentro y fuera de la pista, al exponerle que debíamos modificar sus rutinas de entrenamiento... él se opuso. Porque no creía estar tan limitado, decía que tenía que dar ejemplo al resto de compañeros y que sabía gestionarse. Por lo tanto, la realidad, en este caso, no corresponde con la ciencia.",
+      "keywords": [
+        "jugador-franquicia",
+        "fatiga",
+        "wellness",
+        "red-flags",
+        "eurobasket",
+        "toma-decisiones"
+      ],
+      "entities": [
+        "Eurobasket"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Data Science",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué un jugador franquicia puede negarse a modificar su entrenamiento pese a tener malos datos físicos?",
+        "¿Qué indicadores alertaron al staff de la fatiga del jugador franquicia?",
+        "¿Cómo choca la evidencia científica con la realidad del liderazgo en una selección?"
+      ],
+      "related_terms": [
+        "jugador",
+        "franquicia",
+        "datos",
+        "físicos",
+        "toma de decisiones",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó previamente el framework de toma de decisiones y el procesamiento de los datos.",
+      "context_after": "El ponente avanza hacia un segundo caso práctico, centrado en el trabajo compensatorio y los minutos de juego."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:03:04",
+      "end_timestamp": "00:06:14",
+      "start_seconds": 184,
+      "end_seconds": 374,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=184",
+      "title": "Caso 2: Entrenamiento compensatorio en alta densidad competitiva",
+      "summary": "En torneos con partidos casi diarios, la ciencia dicta que los jugadores con menos de 10 minutos en pista deben realizar sesiones compensatorias. Sin embargo, en un entorno de selección con tiempos cortos no se puede forzar una cultura de trabajo, dependiendo de la comunicación y, en última instancia, de la voluntad del jugador, que suele preferir descansar.",
+      "literal_quote": "Esta situación... cuando trabajamos con selecciones, cuando trabajamos en competiciones de corta duración, no siempre se puede llevar a cabo... Muchas veces el jugador va a querer realizarlo o va a preferir descansar.",
+      "full_transcript": "El segundo de los casos en los que nos encontramos es un caso compensatorio. ¿Qué queremos decir con un caso compensatorio? Vamos a situarnos en un caso donde la densidad competitiva es muy alta. Estamos hablando de fases eliminatorias en las que hay una fase de grupos y en las que se juegan partidos en días consecutivos o incluso en días alternos... Los jugadores cuya presencia en minutos del partido, en juego, en alta intensidad, en competición, está por debajo de 10 minutos, no hay lugar para implementar o equilibrar las cargas durante los entrenamientos... Por lo tanto, sería necesario implementar entrenamientos compensatorios, aparte de forma individual, en los que el jugador se exponga y reciba los estímulos tanto cardiovasculares como musculares... Esto es lo que la ciencia nos dice. ¿Cuál es la realidad? La realidad es que esta situación... cuando trabajamos con selecciones, cuando trabajamos en competiciones de corta duración, no siempre se puede llevar a cabo, porque... el margen para influir, para modificar, para generar cultura de trabajo es más grande [en clubes]. Sin embargo, si estamos hablando de trabajo con selecciones... el margen de maniobra es mucho más corto. En esta ocasión lo que tenemos que procurar es ayudar al jugador. ¿Cómo ayudamos al jugador? Mediante la comunicación, mediante la información de el qué, el porqué y el cómo vamos a realizar tareas compensatorias. Ahora, con jugadores internacionales, en estos contextos, muchas veces el jugador va a querer realizarlo o va a preferir descansar, porque él conoce su rutina, su cuerpo o lo que necesita.",
+      "keywords": [
+        "entrenamiento-compensatorio",
+        "densidad-competitiva",
+        "selecciones",
+        "comunicacion",
+        "descanso"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es el entrenamiento compensatorio y para qué jugadores está indicado?",
+        "¿Por qué es difícil aplicar programas compensatorios en competiciones cortas de selecciones?",
+        "¿Qué papel juega la comunicación a la hora de convencer a un jugador para entrenar postpartido?"
+      ],
+      "related_terms": [
+        "entrenamiento",
+        "compensatorio",
+        "densidad",
+        "competitiva",
+        "control de carga",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del caso de un jugador franquicia que se negó a reducir sus cargas de entrenamiento.",
+      "context_after": "Presentación del tercer y último escenario práctico sobre el proceso de reincorporación deportiva (Return to play)."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:06:23",
+      "end_timestamp": "00:08:51",
+      "start_seconds": 383,
+      "end_seconds": 531,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=383",
+      "title": "Caso 3: Return to Play frente al criterio clínico y la experiencia",
+      "summary": "Ante el regreso de una lesión (Return to Play), un jugador mostraba dolor limitante y resultados muy deficientes en los tests físicos (gold standard). Aunque los datos indicaban que no debía jugar, la ausencia de alteraciones en pruebas de imagen y el conocimiento previo que el equipo médico tenía de su historial resultaron en una decisión arriesgada pero exitosa de reintegrarlo al equipo.",
+      "literal_quote": "El jugador se pudo recuperar, a pesar de que los gold standard de los test... no mostraban resultados satisfactorios... la realidad fue diferente a los datos objetivos o los datos científicos que teníamos.",
+      "full_transcript": "Presentamos un caso de return to play, un caso curioso. En esta situación, el jugador no entrenaba con el grupo, se encontraba totalmente aparte. La proximidad de la competición era inminente... Además, los test que realizábamos al jugador, los gold standard, los test de return to play, nos mostraban que el jugador estaba lejos de los umbrales o de los resultados óptimos para poder volver a jugar. De acuerdo con este contexto que hemos presentado, la evidencia científica nos recomendaría que el jugador no está en condiciones de jugar. ¿Cuál es la realidad? La realidad es muy diferente... este jugador, que ya tenía experiencia con la selección y que había trabajado con el grupo biomédico en ocasiones anteriores, estaba manifestando un cuadro similar a concentraciones previas. La sintomatología en camilla, manipulación y exploración era limitante. Manifestaba dolor, limitación y no podía entrenar con el equipo. Sin embargo, las imágenes de las pruebas realizadas, resonancia, ecografía, no mostraban alteraciones significativas. Por lo tanto, y ante el conocimiento del cuerpo biomédico... se decidió que el jugador, a pesar de la proximidad competitiva, iba a ser capaz de volver a competir y entrenar con el grupo, a pesar de que tuviéramos tan poco tiempo de margen. Y efectivamente, esa fue la realidad. El jugador se pudo recuperar, a pesar de que los gold standard de los test y retest que ejecutábamos... no mostraban resultados satisfactorios y la sintomatología del jugador en días previos no era muy esperanzadora... Sin embargo, la realidad fue diferente a los datos objetivos o los datos científicos que teníamos.",
+      "keywords": [
+        "return-to-play",
+        "gold-standard",
+        "pruebas-imagen",
+        "criterio-clinico",
+        "lesiones",
+        "sintomatologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué un jugador puede ser dado de alta pese a tener malos resultados en los test de Return to Play?",
+        "¿Qué importancia tiene el historial clínico previo en la toma de decisiones de retorno al juego?",
+        "¿Cómo influyen las pruebas de imagen frente al dolor subjetivo en el Return to Play?"
+      ],
+      "related_terms": [
+        "return",
+        "to",
+        "play",
+        "criterio",
+        "clínico",
+        "lesiones",
+        "evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de la comunicación y el contexto en tareas compensatorias durante competiciones de selecciones.",
+      "context_after": "El vídeo cierra la exposición de los casos prácticos, en los que la realidad termina colisionando con los parámetros científicos estrictos."
+    }
+  ]
+}
