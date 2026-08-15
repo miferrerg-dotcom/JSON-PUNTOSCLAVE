@@ -269,36 +269,84 @@
       "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
       "speaker": "Roberto Molina",
       "start_timestamp": "00:15:07",
-      "end_timestamp": "00:17:31",
+      "end_timestamp": "00:16:43",
       "start_seconds": 907,
-      "end_seconds": 1051,
-      "duration_seconds": 144,
+      "end_seconds": 1003,
+      "duration_seconds": 96,
       "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=907",
-      "title": "El verdadero rol del S&C Coach y el High Performance",
-      "summary": "Para cerrar, se resalta que la comunicación interpersonal es un pilar del rendimiento deportivo (algo que no se enseña en las universidades). Además, el rol del preparador físico debe trascender la mera cuantificación de cargas, convirtiéndose en un agente activo que toma excelentes decisiones cada día.",
-      "literal_quote": "High performance is not about having more data, but about making better decisions in the right [moment].",
-      "full_transcript": "La sexta conclusión... La comunicación es parte del rendimiento. Sin embargo, en las carreras no nos enseñan, no nos muestran o nos dan estrategias de cómo comunicar, de cómo transmitir información, de cómo empatizar. Estamos trabajando con personas, con atletas de rendimiento, en contextos de mucha presión. Por lo tanto, dominar la comunicación es un factor clave. Séptimo punto: la incertidumbre es inherente al rendimiento. Va a estar siempre... La octava es que el rendimiento depende de la calidad de las decisiones que tomamos de forma diaria, en el día a día. No esperar a empezar a tomar buenas decisiones... cuando la competición llega. Es decir, hay que trabajar... el proceso de la toma de decisiones, igual que todo, se entrena fuera de la competición... Por último, el rol que tenemos como preparadores físicos debe trascender la aplicación de las cargas. Es decir, somos más que una persona que se sienta a cuantificar quién debe entrenar más o cuánto se debe entrenar. Debemos tomar decisiones, comunicar y tener una parte más activa en todo el proceso del entrenamiento. Me gustaría terminar la presentación con una pequeña frase que dice así: 'High performance is not about having more data, but about making better decisions in the right'. Muchas gracias por vuestra atención. Ha sido un placer.",
+      "title": "Conclusiones (III): Comunicación, incertidumbre y decisiones",
+      "summary": "La comunicación interpersonal y la empatía son habilidades vitales que rara vez se enseñan en la carrera. Asimismo, se debe aceptar que la incertidumbre es inherente al deporte de élite. El rendimiento final se fundamenta en la calidad de las decisiones diarias, una habilidad que debe entrenarse rutinariamente fuera de la competición.",
+      "literal_quote": "El rendimiento depende de la calidad de las decisiones que tomamos de forma diaria, en el día a día. No esperar a empezar a tomar buenas decisiones... cuando la competición llega.",
+      "full_transcript": "La sexta conclusión de esta ponencia... La comunicación es parte del rendimiento. Sin embargo, en las carreras no nos enseñan, no nos muestran o nos dan estrategias de cómo comunicar, de cómo transmitir información, de cómo empatizar. Estamos trabajando con personas, con atletas de rendimiento, en contextos de mucha presión. Por lo tanto, dominar la comunicación es un factor clave. Séptimo punto: la incertidumbre es inherente al rendimiento. Va a estar siempre. Decíamos en la diapositiva anterior que no ser capaces de gestionar el riesgo... no es una buena fórmula para poder trabajar en el alto rendimiento... La octava es que el rendimiento depende de la calidad de las decisiones que tomamos de forma diaria, en el día a día. No esperar a empezar a tomar buenas decisiones... cuando la competición llega. Es decir, hay que trabajar... el proceso de la toma de decisiones, igual que todo, se entrena fuera de la competición. Hay que entrenarlo, ejecutarlo y ejercitarlo en el día a día, detrás de las cortinas y de los focos, de forma rutinaria.",
       "keywords": [
         "comunicacion",
-        "rol-preparador-fisico",
+        "incertidumbre",
         "toma-decisiones",
-        "high-performance",
-        "cuantificacion-cargas"
+        "rendimiento",
+        "entrenamiento-diario"
       ],
       "entities": [],
       "topics": [
+        "Comunicación",
         "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la comunicación se considera una parte del rendimiento deportivo?",
+        "¿Cuándo se debe entrenar el proceso de toma de decisiones?",
+        "¿Cómo afecta la incertidumbre al trabajo en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "incertidumbre",
+        "toma",
+        "de",
+        "decisiones",
+        "comunicación",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la diferencia entre equidad e igualdad en la individualización de cargas.",
+      "context_after": "Molina cierra reflexionando sobre el verdadero rol del preparador físico y su icónica frase sobre el alto rendimiento."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance Environments",
+      "speaker": "Roberto Molina",
+      "start_timestamp": "00:16:44",
+      "end_timestamp": "00:17:31",
+      "start_seconds": 1004,
+      "end_seconds": 1051,
+      "duration_seconds": 47,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1004",
+      "title": "El verdadero rol del S&C Coach y la frase final de High Performance",
+      "summary": "El preparador físico es más que un simple cuantificador de cargas de entrenamiento. Su rol exige ser un agente activo que decide y comunica. La ponencia culmina con una reflexión final: el alto rendimiento no se basa en acumular datos, sino en tomar las decisiones correctas con la información adecuada.",
+      "literal_quote": "High performance is not about having more data, but about making better decisions with the right information.",
+      "full_transcript": "Por último, el rol que tenemos como preparadores físicos debe trascender la aplicación de las cargas. Es decir, somos más que una persona que se sienta a cuantificar quién debe entrenar más o cuánto se debe entrenar. Debemos tomar decisiones, comunicar y tener una parte más activa en todo el proceso del entrenamiento. Me gustaría terminar la presentación con una pequeña frase que dice así: 'High performance is not about having more data, but about making better decisions with the right information'. Muchas gracias por vuestra atención. Ha sido un placer.",
+      "keywords": [
+        "rol-preparador-fisico",
+        "cuantificacion-cargas",
+        "high-performance",
+        "toma-decisiones",
+        "right-information"
+      ],
+      "entities": [],
+      "topics": [
         "Professional Experience",
-        "Comunicación"
+        "Toma de Decisiones"
       ],
       "content_type": [
         "Reflexión",
         "Metodología"
       ],
       "search_questions": [
-        "¿Por qué la comunicación es considerada una parte del rendimiento deportivo?",
         "¿Debe el rol del preparador físico limitarse a cuantificar las cargas?",
-        "¿Qué mensaje final transmite Roberto Molina sobre el alto rendimiento?"
+        "¿Qué mensaje final transmite Roberto Molina sobre el alto rendimiento?",
+        "¿Por qué es importante tomar decisiones con la información correcta en lugar de tener más datos?"
       ],
       "related_terms": [
         "rol",
@@ -308,10 +356,10 @@
         "de",
         "decisiones",
         "professional experience",
-        "comunicación"
+        "toma de decisiones"
       ],
       "relevance_score": 5,
-      "context_before": "Explicación de la diferencia entre equidad e igualdad en la individualización de cargas.",
+      "context_before": "Explicación de la importancia de entrenar las decisiones a diario y dominar la comunicación interpersonal.",
       "context_after": "Fin de la presentación y despedida oficial del webinar."
     }
   ]
