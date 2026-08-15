@@ -1,0 +1,310 @@
+{
+  "video": {
+    "video_id": "V_RUBEN_02",
+    "video_title": "Fuerza en Euroliga: Planificación o reacción",
+    "speaker": "Rubén Portes",
+    "total_duration": "00:15:07",
+    "total_duration_seconds": 907,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_RUBEN_02-001",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:00:26",
+      "end_timestamp": "00:02:27",
+      "start_seconds": 26,
+      "end_seconds": 147,
+      "duration_seconds": 121,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=26",
+      "title": "Rotaciones cortas y homogeneidad de la carga neuromuscular",
+      "summary": "El análisis de los tiempos de juego en el Valencia Basket muestra un patrón de rotaciones muy cortas (3 a 4 minutos). Esto exige a los jugadores dar el máximo esfuerzo en pista, lo que genera una alta carga neuromuscular y resulta en una exposición a la demanda física muy homogénea en toda la plantilla.",
+      "literal_quote": "Nuestros jugadores normalmente saltan a la cancha y tienen que dar el máximo en esos tres o cuatro minutos que están en cancha, y que esto representa una homogeneidad en lo que tiene que ver con la carga en el grupo.",
+      "full_transcript": "Esta es una gráfica que representa la media de rotaciones o el tiempo de las rotaciones que se realizan durante un partido en cada uno de los equipos. Si nos fijamos en nuestro equipo, como os he comentado, trabajo para Valencia Basket, vemos que está dentro del rango de entre los tres y cuatro minutos por rotación. Es uno de los rangos más cortos de toda la liga, junto con París. ¿Eso qué quiere decir? Que nuestros jugadores normalmente saltan a la cancha y tienen que dar el máximo en esos tres o cuatro minutos que están en cancha, y que esto representa una homogeneidad en lo que tiene que ver con la carga en el grupo. Sabemos que vamos a tener tiempos de descanso largos, que va a haber muchos jugadores involucrados en la rotación y que son esfuerzos de muy alta demanda en cada momento. Esto vendrá un poco después, porque nuestro ritmo de juego también es muy elevado. Es uno de los más elevados de la liga. Nuestro juego tiene que ver con mucha carrera arriba y abajo de la pista y por eso nuestras rotaciones son cortas. Esto quiere decir que el jugador está sometido a una carga neuromuscular alta cada vez que está en pista. Esto también va a afectar a nuestro trabajo de fuerza. Va a determinar cuál es la demanda reina para nuestros jugadores cuando están en pista. Sabemos que esa carga a nivel muscular va a ser muy alta, porque ese desplazamiento a altas intensidades arriba y abajo de la cancha va a estar muy presente para todos ellos. Y en este gráfico vemos que por ello nuestras rotaciones son cortas y nos dan una homogeneidad de la exposición de la demanda muy alta.",
+      "keywords": [
+        "rotaciones",
+        "homogeneidad",
+        "carga-neuromuscular",
+        "valencia-basket",
+        "esfuerzo-maximo",
+        "intensidad"
+      ],
+      "entities": [
+        "Valencia Basket",
+        "París"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el tiempo de rotación a la carga física del jugador en Valencia Basket?",
+        "¿Qué relación hay entre las rotaciones cortas y la carga neuromuscular?",
+        "¿Por qué es homogénea la exposición a la carga en equipos con rotaciones cortas?"
+      ],
+      "related_terms": [
+        "tiempo de rotación",
+        "carga neuromuscular",
+        "alta intensidad",
+        "ritmo de juego elevado"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha discutido previamente la homogeneidad de la plantilla en cuanto a anotación y minutos entre titulares y suplentes.",
+      "context_after": "El análisis se traslada de las rotaciones internas del equipo a una comparativa general del ritmo de juego (pace) entre la NBA y la Euroliga."
+    },
+    {
+      "id": "V_RUBEN_02-002",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:02:28",
+      "end_timestamp": "00:04:20",
+      "start_seconds": 148,
+      "end_seconds": 260,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=148",
+      "title": "Aumento del ritmo de juego (Pace) en Euroliga vs. NBA",
+      "summary": "Se compara el ritmo de juego (pace) entre la NBA (4 posesiones por minuto) y la Euroliga (3,5 posesiones por minuto). El incremento constante del pace en el baloncesto europeo implica mayores desplazamientos a alta velocidad, lo que exige adaptar el trabajo de fuerza para dotar al deportista de tolerancia muscular.",
+      "literal_quote": "Lo que está haciendo el juego es crecer en cuanto a ese pace, esa demanda neuromuscular de alta carga neuromuscular, de mucho desplazamiento, alta velocidad, arriba y abajo, mucho cambio de posesión constante.",
+      "full_transcript": "Si analizamos el juego en general, esta gráfica es una gráfica comparativa de todo lo que tiene que ver con el ritmo de juego, ese ir arriba y abajo de la cancha de la NBA, comparada con la Euroliga. Nos vamos a fijar sobre todo en el gráfico superior izquierdo, que nos dice los segundos por posesión. Estamos hablando que la NBA puede tener en torno a 14 segundos por posesión, el pace podría ser hasta más alto incluso. Y en Euroliga estamos en torno a esos 16, 17 segundos. ¿Esto qué hace? Hace que en la NBA se juegue más o menos a cuatro posesiones por minuto y en Euroliga, actualmente, se juegue en torno a 3,5 posesiones por minuto. No estamos tan lejos. Lo que está haciendo el juego es crecer en cuanto a ese pace, esa demanda neuromuscular de alta carga neuromuscular, de mucho desplazamiento, alta velocidad, arriba y abajo, mucho cambio de posesión constante. Y eso va a afectar a la demanda que nuestros jugadores tienen en pista. Y, por tanto, nosotros nos vamos a tener que adaptar a esa demanda en el trabajo de fuerza que le vamos a dar al deportista. Dentro de esto, como os he comentado, nuestro equipo es un equipo que se enmarca dentro de los más altos en cuanto a pace de la Euroliga. Sabemos que vamos a tener que ofrecer en muchas ocasiones lo contrario a lo que el jugador tiene en pista para poder darle esa contrapartida, esa carga, esa tolerancia tisular o muscular a esa demanda que va a tener en pista. Ya estamos viendo ciertas pistas de lo que vamos a querer aportar al deportista cuando esté fuera de la pista. Esta pregunta de cómo ha cambiado el juego hace que también cambie el enfoque del trabajo de fuerza que nosotros vamos a realizar con el jugador, inevitablemente. Si el juego cambia, nosotros cambiamos con él. Y esto está claro.",
+      "keywords": [
+        "pace",
+        "nba",
+        "euroliga",
+        "ritmo-de-juego",
+        "tolerancia-tisular",
+        "posesiones",
+        "fuerza"
+      ],
+      "entities": [
+        "NBA",
+        "Euroliga"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias de posesiones por minuto entre la NBA y la Euroliga?",
+        "¿Cómo afecta el aumento del pace al entrenamiento de fuerza?",
+        "¿Qué significa tener que aportar tolerancia tisular fuera de la pista?"
+      ],
+      "related_terms": [
+        "ritmo de juego",
+        "posesiones por minuto",
+        "tolerancia muscular",
+        "alta velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que las rotaciones cortas someten al jugador a una alta carga neuromuscular cada vez que está en pista.",
+      "context_after": "Se presenta el efecto que tiene este aumento histórico del pace sobre la salud de los jugadores, específicamente analizando la tasa de lesiones."
+    },
+    {
+      "id": "V_RUBEN_02-003",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:04:21",
+      "end_timestamp": "00:06:51",
+      "start_seconds": 261,
+      "end_seconds": 411,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=261",
+      "title": "Correlación entre el incremento del pace y las lesiones de tejidos blandos",
+      "summary": "El análisis histórico de la NBA muestra que el aumento del ritmo de juego provoca un incremento proporcional en las lesiones musculares y de tejidos blandos. El jugador está atravesando un periodo de adaptación biológica ante las nuevas demandas, siendo el entrenamiento de fuerza vital para proporcionar protección.",
+      "literal_quote": "Vemos cómo conforme aumenta el pace y conforme aumenta esa carga neuromuscular, aumenta el número de lesiones de soft tissue, de tejido blando o tejido muscular.",
+      "full_transcript": "¿Cómo nos afectan esos cambios? Aquí hay una gráfica de un histórico de NBA. No es Euroliga, es NBA, pero me gusta utilizarla porque aquí vemos cómo se ha ido incrementando ese pace del que se habla en la NBA. En la Euroliga es lo mismo, por eso he puesto la gráfica anterior, la que compara NBA con Euroliga, cuatro posesiones por minuto, 3,5 por minuto. Y vemos cómo se refleja también un cambio en la tendencia de lesiones musculares en la NBA. Vemos cómo conforme aumenta el pace y conforme aumenta esa carga neuromuscular, aumenta el número de lesiones de soft tissue, de tejido blando o tejido muscular. ¿Por qué? Porque esa demanda cambia y probablemente se esté generando un periodo de adaptación a ese cambio de demanda. El jugador de baloncesto tenía un fenotipo determinado durante un periodo de tiempo y con el aumento de ese pace, de esa carga neuromuscular y de ese ritmo de juego de carrera arriba y abajo más frecuente, el jugador está generando una adaptación a esa demanda y hay un incremento de lesiones en tejidos blandos. Esto nos lleva a plantearnos, como profesionales del trabajo de fuerza y, en este caso, como profesional que trabaja con jugadores de baloncesto en Euroliga, y que hemos visto que tiene cierta similitud y que poco a poco se acerca a todo lo que estamos viendo en NBA, sé que ese ritmo de juego está aumentando en Euroliga y las demandas del jugador aumentan y yo tengo que cambiar con ellas, tengo que ver qué tipo de trabajo le puedo ofrecer al deportista para ofrecerle una protección contra esas lesiones en tejidos blandos o lesiones musculares que potencialmente puedan tener con ese aumento de distancia a alta velocidad. Como hemos visto al principio, esa frase de Daniel Kahneman, si la traducimos un poco a lo que nosotros queremos, el estar mucho tiempo en pista nos va a hacer muy expertos en la tarea, va a reducir la demanda a nivel de energía y nos va a generar un estado de protección a ese tipo de lesiones. Una vez que generemos esa adaptación, tendremos una protección a ese alto pace o alto ritmo de juego a nivel muscular.",
+      "keywords": [
+        "lesiones",
+        "soft-tissue",
+        "tejido-blando",
+        "pace",
+        "adaptacion",
+        "proteccion",
+        "nba"
+      ],
+      "entities": [
+        "NBA",
+        "Euroliga",
+        "Daniel Kahneman"
+      ],
+      "topics": [
+        "Lesiones",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué han aumentado las lesiones de tejidos blandos en la NBA?",
+        "¿Qué relación hay entre el aumento de la velocidad de juego y las lesiones musculares?",
+        "¿Cómo ayuda el entrenamiento de fuerza a prevenir las lesiones por el aumento de pace?"
+      ],
+      "related_terms": [
+        "lesiones de tejido blando",
+        "periodo de adaptación",
+        "incremento del pace",
+        "fenotipo del jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló el crecimiento en las posesiones por minuto y cómo Euroliga se está acercando a los volúmenes históricos de la NBA.",
+      "context_after": "Se explora la evolución física que están experimentando los jugadores para adaptarse biológicamente a estas exigencias cambiantes."
+    },
+    {
+      "id": "V_RUBEN_02-004",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:06:51",
+      "end_timestamp": "00:09:05",
+      "start_seconds": 411,
+      "end_seconds": 545,
+      "duration_seconds": 134,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=411",
+      "title": "La evolución hacia un nuevo arquetipo del deportista",
+      "summary": "Para afrontar los constantes cambios de dirección y la necesidad de correr a altas velocidades, el arquetipo del jugador de baloncesto está evolucionando. Se observa una transición de perfiles pesados y voluminosos hacia atletas más finos, delgados y adaptados biológicamente a las demandas atléticas del juego moderno.",
+      "literal_quote": "Poco a poco parece que vamos viendo jugadores más finos, más delgados y que cumplen perfectamente con las demandas del juego. Es más, parecen más adaptados a las demandas que el juego tiene hoy en día.",
+      "full_transcript": "Comparto un marco sobre todos los pensamientos que se pueden tener en cuenta a la hora de plantear un trabajo de fuerza. No es entrar en un gimnasio y proponer una serie de ejercicios basados en la evidencia y basados en la adaptación fisiológica, sino que tienes que tener en cuenta para qué los quieres utilizar y cómo se van a generar esas adaptaciones en el deportista al que tú se las estás aplicando. Y por ello comparto todos estos cambios en el juego que potencialmente se están dando durante los últimos años. Dejo fuera todo lo que tuvo que ver con el COVID, porque obviamente fue una etapa en la que se generaron muchas lesiones debido al parón y a esa situación que se dio, que nadie controló y que a la vuelta produjo muchas lesiones. Dejando eso aparte, si vemos la foto completa, vemos que el juego está cambiando y que nosotros tenemos que cambiar con él y que como profesionales debemos de ser capaces de ofrecer una caja de herramientas al jugador que le proteja de todo lo que tiene que ver con estas lesiones. ¿Cuáles son las demandas del juego hoy en día? ¿Qué repercusión tienen todos estos factores que os he comentado anteriormente con respecto al cambio de ritmo de juego y demás? Parece, si observamos el juego, que puede haber un cambio progresivo del arquetipo del deportista. Anteriormente, y si observamos a groso modo, podía ser que hubiese jugadores más pesados, con volúmenes musculares mayores, pero poco a poco parece que vamos viendo jugadores más finos, más delgados y que cumplen perfectamente con las demandas del juego. Es más, parecen más adaptados a las demandas que el juego tiene hoy en día. Esto también nos tiene que hacer plantearnos el tipo de trabajo que nosotros tenemos que hacer. Puede ser que se estén convirtiendo más o estén más cercanos a atletas los jugadores de hoy en día. Hay mucha carrera arriba y abajo y hay mucha demanda a nivel neuromuscular, y eso obviamente tiene que afectar a nuestro trabajo.",
+      "keywords": [
+        "arquetipo",
+        "deportista",
+        "fenotipo",
+        "evolucion",
+        "jugadores-delgados",
+        "altas-velocidades"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo ha cambiado el perfil físico del jugador de baloncesto moderno?",
+        "¿Por qué los jugadores actuales son más finos y delgados?",
+        "¿Qué impacto tiene el arquetipo del jugador en el diseño del entrenamiento de fuerza?"
+      ],
+      "related_terms": [
+        "arquetipo del deportista",
+        "adaptación fisiológica",
+        "perfil atlético",
+        "volumen muscular"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha explicado que el periodo de adaptación a las nuevas demandas tácticas ha aumentado la tasa de lesiones de tejidos blandos.",
+      "context_after": "Se entra de lleno a analizar la diferenciación en las cargas de entrenamiento basándose en los calendarios competitivos y la participación individual de cada jugador."
+    },
+    {
+      "id": "V_RUBEN_02-005",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:09:05",
+      "end_timestamp": "00:12:12",
+      "start_seconds": 545,
+      "end_seconds": 732,
+      "duration_seconds": 187,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=545",
+      "title": "Volumen competitivo y el reto del trabajo compensatorio",
+      "summary": "El calendario de Euroliga proporciona por sí mismo la demanda física, a diferencia de ligas con un partido semanal. Esto supone un gran reto para el trabajo compensatorio: es difícil replicar en pista los estímulos de alta velocidad y pista completa para los jugadores que no disponen de muchos minutos, debiendo el trabajo de fuerza equilibrar estos déficits.",
+      "literal_quote": "Si no están jugando, nosotros necesitamos darle un estímulo que compense eso que ellos no están haciendo. El trabajo de fuerza también es otra herramienta que va a compensar esto.",
+      "full_transcript": "Como digo, hay una mayor demanda de adaptación a altas velocidades. El juego cambia más veces de sentido y, por tanto, el jugador corre más. Entonces, hay una mayor demanda de adaptación a esas altas velocidades. Eso va a cambiar la demanda a nivel muscular del jugador también. Hay mayores diferencias entre jugadores en cuanto a volumen competitivo. Es decir, como estamos haciendo en esta certificación, ¿qué diferencias hay entre las distintas competiciones y entre los distintos sexos? ¿Qué demandas competitivas tienen unas ligas y otras? Esto va a afectar inherentemente al tipo de propuesta de trabajo que nosotros vamos a hacer. No es lo mismo un calendario excesivamente comprimido que uno con un partido a la semana. Yo he tenido la suerte de poderme adaptar a ambos. He estado en equipos en ACB, por ejemplo, en los que hay un partido a la semana, y eso te hace, como preparador físico, plantearte muchas más cosas aparte del trabajo de fuerza. Tienes que saber distribuir muy bien las cargas durante la semana para poder llegar de la manera más fresca posible el fin de semana. Cuando hay tantos partidos, como por ejemplo en Euroliga, esa labor se facilita mucho, porque la carga y la demanda te las da el propio calendario. Entonces, ¿hay diferencias entre los jugadores? Sí, porque depende del calendario y de los jugadores dentro de ese calendario que están más o menos expuestos a la competición, vamos a hacer un tipo de propuesta u otro. Luego, hay una mayor dificultad a nivel compensatorio. Como hemos dicho, hay que analizar el contexto y realmente ver qué necesito dentro del contexto que tengo. Es decir, si quiero realizar un trabajo compensatorio con un jugador a día de hoy, resulta difícil, porque tengo que tener en cuenta, si estamos hablando de trabajo en pista y trabajo de condición, si le puedo dar posición o no, o si necesito hacer un trabajo de cancha completa porque necesito el trabajo de velocidad que luego va a requerir la pista y la competición. Conforme aumenta el nivel y el ritmo de juego, tenemos que plantearnos si eso nos presenta mayores dificultades a nivel compensatorio. Esos jugadores que no juegan, que no tienen tanta exposición, ¿vamos a poder darles el estímulo necesario? Porque esto es clave. Si no están jugando, nosotros necesitamos darle un estímulo que compense eso que ellos no están haciendo. El trabajo de fuerza también es otra herramienta que va a compensar esto. Entonces, ¿qué tipo de trabajo de fuerza? ¿Qué demandas quiero darle al jugador en ese trabajo de fuerza? ¿Son las mismas en un jugador que ha jugado mucho en un partido que en uno que ha jugado menos? Obviamente, no. Pero, ¿qué le voy a dar al que ha jugado menos y qué le voy a dar al que ha jugado más? ¿Qué volumen le voy a dar al que ha jugado menos y qué le voy a dar al que ha jugado más? Todas estas cosas las tenemos que tener en cuenta a la hora de proponer el trabajo.",
+      "keywords": [
+        "trabajo-compensatorio",
+        "volumen-competitivo",
+        "calendario",
+        "exposicion",
+        "acb",
+        "euroliga",
+        "estimulo"
+      ],
+      "entities": [
+        "ACB",
+        "Euroliga"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo afecta jugar un partido a la semana en comparación con la Euroliga a la hora de planificar?",
+        "¿Cuáles son los retos de realizar un trabajo compensatorio en un calendario denso?",
+        "¿Qué papel juega el trabajo de fuerza en los jugadores que no tienen minutos de partido?"
+      ],
+      "related_terms": [
+        "volumen competitivo",
+        "trabajo compensatorio",
+        "calendario comprimido",
+        "estímulo necesario"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la evolución biológica del perfil del jugador hacia atletas más delgados y adaptados al ritmo actual.",
+      "context_after": "Tras evidenciar la dificultad de aplicar los volúmenes, se exponen datos duros sobre la magnitud de las fuerzas a las que se someten los jugadores en pista."
+    },
+    {
+      "id": "V_RUBEN_02-006",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:12:15",
+      "end_timestamp": "00:15:07",
+      "start_seconds": 735,
+      "end_seconds": 907,
+      "duration_seconds": 172,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=735",
+      "title": "Magnitud de la demanda mecánica: la gravedad de las desaceleraciones",
+      "summary": "Utilizando datos de Damian Harper, se evidencia que la desaceleración es la acción física más agresiva, absorbiendo cerca de 6 veces el peso corporal (>135 repeticiones por partido sobre 8g). El objetivo del trabajo de fuerza es generar consistencia y protección tisular para tolerar repetidamente estas cargas sin sufrir lesiones por fatiga.",
+      "literal_quote": "Si miramos las desaceleraciones, se dan en torno a 6 veces el peso corporal de un deportista en una desaceleración. Es mucho y es el valor más alto que se da entre esas tres acciones físicas.",
+      "full_transcript": "Cuando digo conocer la magnitud y la especificidad de la demanda, debemos conocer qué soporta el jugador cuando está en la pista. Estos gráficos nos los dio Damian Harper y nos hablan sobre cuáles son las demandas acelerativas, desacelerativas y de máxima velocidad del jugador en cuanto a esa masa corporal multiplicada por tantas veces como el deportista tenga que absorberla durante todas estas acciones. Si miramos las desaceleraciones, se dan en torno a 6 veces el peso corporal de un deportista en una desaceleración. Es mucho y es el valor más alto que se da entre esas tres acciones físicas: la desaceleración, la máxima velocidad y la aceleración. Si miramos la aceleración, es un 4.4, también es un valor alto, y si miramos la máxima velocidad, un 2.2. Es decir, ¿qué nos dice esto? Nos dice que en cualquiera de estas acciones, que se van a repetir muchas veces en el juego, como vamos a ver en el siguiente gráfico, si miramos las desaceleraciones, en torno a 135 por partido, superiores a 8 g, carrera 82, aterrizaje 57, etcétera. Todo esto nos dice que la demanda de fuerza y del trabajo de fuerza es muy elevada. Todo lo que tiene que ver con soportar tu propio peso corporal, en este caso, por ejemplo, en una desaceleración multiplicado por seis, y hacerlo de manera continua, constante y eficiente, nos va a permitir a la larga estar más protegidos contra las lesiones. Si yo expongo a un jugador de manera continuada a seis veces su peso corporal durante un periodo de tiempo competitivo en un partido, hacia el final de ese partido, normalmente ese jugador estará menos protegido debido a la fatiga contra la lesión. Son valores muy altos y que hay que tener en cuenta a la hora de qué volumen, qué intensidad, con qué jugador y cuándo quiero ejecutar ese trabajo de fuerza para darle esa protección necesaria de cara a poder afrontar ese calendario competitivo tan exigente. Como yo os digo, nuestro equipo es muy homogéneo y voy a tener una línea media bastante consistente en cuanto a qué tipo de volúmenes y qué tipo de intensidades quiero ofrecer a mis jugadores cuando estoy haciendo el trabajo de fuerza. Pero eso lo veremos un poco más adelante. Tenemos que tener en cuenta todos estos factores a la hora de proponer el trabajo de fuerza que se presenta, según esto, por ejemplo, que estamos viendo aquí, totalmente indispensable en los jugadores de baloncesto hoy en día.",
+      "keywords": [
+        "desaceleracion",
+        "damian-harper",
+        "fuerza-mecanica",
+        "peso-corporal",
+        "fatiga",
+        "proteccion",
+        "prevencion-lesiones"
+      ],
+      "entities": [
+        "Damian Harper"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Lesiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué demanda mecánica supone una desaceleración en baloncesto?",
+        "¿Cuántas veces su peso corporal soporta un jugador en una desaceleración?",
+        "¿Por qué aumenta el riesgo de lesión al final de los partidos debido a los impactos mecánicos?"
+      ],
+      "related_terms": [
+        "demanda acelerativa",
+        "peso corporal multiplicado",
+        "tolerancia a la fatiga",
+        "magnitud de la demanda"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de compensar con trabajo de fuerza los estímulos que los jugadores suplentes pierden al no jugar en pista grande.",
+      "context_after": "Cierre del fragmento justificando la obligatoriedad del trabajo de fuerza para proteger de la magnitud real de la competición actual."
+    }
+  ]
+}

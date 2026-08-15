@@ -1,0 +1,305 @@
+{
+  "video": {
+    "video_id": "V_RUBEN_01",
+    "video_title": "Fuerza en Euroliga: Planificación o reacción",
+    "speaker": "Rubén Portes",
+    "total_duration": "00:15:14",
+    "total_duration_seconds": 914,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_RUBEN_01-001",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:00",
+      "start_seconds": 1,
+      "end_seconds": 120,
+      "duration_seconds": 119,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Presentación y experiencia profesional de Rubén Portes",
+      "summary": "Rubén Portes presenta su trayectoria profesional como preparador físico en el baloncesto español y europeo. Su experiencia en diferentes niveles (ACB, Euroliga, Liga Femenina, categorías FEB) le proporciona una base sólida para determinar las metodologías óptimas según cada contexto.",
+      "literal_quote": "Toda esta experiencia que he ido adquiriendo durante los años me dé una base para pensar y discurrir sobre qué es lo óptimo en cada momento...",
+      "full_transcript": "Hola a todos y bienvenidos a esta ponencia sobre fuerza en Euroliga, enmarcada dentro de la certificación de Performance Science Specialist. Mi nombre es Rubén Portes. Estoy muy contento de estar aquí hoy y es un honor para mí poder formar parte del cartel de ponentes de esta certificación. Hoy me gustaría compartir con vosotros todo lo que tiene que ver con el trabajo de fuerza en Euroliga: cómo se distribuye, qué tipos de trabajo podemos hacer, cómo se puede programar todo ese trabajo de fuerza dentro de un calendario que realmente no da un respiro. Primero me voy a presentar. Me llamo Rubén Portes Sánchez, soy parte del Advisory Board de la NSCA España y mi experiencia como preparador físico, o como, en este caso, director de trabajo de fuerza y readaptación o de rendimiento en ciertos clubes, ha recorrido distintas etapas del baloncesto español. Empecé con baloncesto de formación, en baloncesto de torodones, y de ahí pasé a baloncesto feudo en la Liga ACB, para dar el salto luego a Breogán de Lugo, donde pasé tres años muy buenos, y de ahí firmé por el Valencia Basket, donde en la actualidad desarrollo esa labor de coordinador de trabajo de fuerza y readaptación en el equipo masculino de ACB y Euroliga. Soy miembro del USA Weightlifting y de la NSCA, como os he comentado, formo parte del Advisory Board. Y en toda esa experiencia que os he comentado, he tenido la suerte de entrenar en prácticamente casi todas las ligas de baloncesto español y europeo, en tercera FEB, segunda FEB, primera FEB y todo lo que tiene que ver con Eurocup, Euroliga y Liga EBA, liga femenina. ¿Por qué cuento todo esto? Porque para mí es importante que toda esta experiencia que he ido adquiriendo durante los años me dé una base para pensar y discurrir sobre qué es lo óptimo en cada momento y teniendo en cuenta todos los contextos a los que estamos sometidos en el día a día.",
+      "keywords": [
+        "euroliga",
+        "preparador-fisico",
+        "experiencia-profesional",
+        "fuerza",
+        "valencia-basket",
+        "nsca"
+      ],
+      "entities": [
+        "Rubén Portes",
+        "Euroliga",
+        "NSCA",
+        "Valencia Basket",
+        "USA Weightlifting",
+        "Breogán de Lugo"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Quién es Rubén Portes y cuál es su experiencia profesional?",
+        "¿Cuál es el recorrido profesional de Rubén Portes en el baloncesto?",
+        "¿Por qué es importante la experiencia previa para planificar en Euroliga?"
+      ],
+      "related_terms": [
+        "experiencia profesional",
+        "trayectoria",
+        "preparador físico",
+        "advisory board"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se introduce el concepto central del webinar: la tensión entre planificar el trabajo y la necesidad de reaccionar ante los imprevistos de un calendario denso."
+    },
+    {
+      "id": "V_RUBEN_01-002",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:02:37",
+      "end_timestamp": "00:06:08",
+      "start_seconds": 157,
+      "end_seconds": 368,
+      "duration_seconds": 211,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=157",
+      "title": "Planificación vs. Reacción en el calendario de Euroliga",
+      "summary": "La planificación es fundamental para tener un plan base (Plan A), pero en competiciones de alta densidad como la Euroliga, siempre debe existir un componente de reacción (Plan B). Factores imprevistos deportivos y extradeportivos obligan a ajustar las cargas sin comprometer la frescura de los jugadores.",
+      "literal_quote": "Siempre tiene que haber un componente de reacción porque hay muchos factores que no vamos a controlar, sobre todo dentro de un calendario tan denso como es el calendario de Euroliga.",
+      "full_transcript": "me gustaría compartir con vosotros la ponencia de hoy, que se titula \"Fuerza en Euroliga\". En este caso es planificación o reacción. ¿Por qué la he llamado así? Planificación, porque nosotros siempre tendemos a planificar, nos gusta basarnos, estar seguros en base a una planificación que nosotros podamos hacer de qué es lo que queremos, con lo que sabemos que tenemos por delante. Y he incluido reacción, porque muchas veces dentro de la planificación, que debe de estar ahí, que debe de ser planteada por parte del profesional que se dedica a nuestro ámbito, siempre tiene que haber un componente de reacción. Y tiene que haber un componente de reacción porque hay muchos factores que no vamos a controlar, sobre todo dentro de un calendario tan denso como es el calendario de Euroliga... Ya sabéis que el eslogan de la Euroliga es: \"Every game counts\". Y es cierto que cada partido cuenta, es una guerra y tienes que estar preparado y lo más fresco posible para poder afrontarlo y con el mayor número de efectivos... Este calendario nos invita a que nosotros podemos tener un plan A, que es una línea recta de lo que nos gustaría hacer, incluyendo todas las sesiones... Ya veis que es un calendario con muchísimos partidos... va a ser una carretera más parecida al plan B, que aparece en esta foto. Va a ser una carretera que nos va a llevar por la necesidad de conducir en diferentes direcciones, dependiendo de cómo vaya cada partido. Va a haber que ajustar cosas, dependiendo de, no solo del resultado del partido deportivo, sino de qué nos va ofreciendo el partido en cuanto a factores que no están planificados y que van a afectar físicamente a los jugadores... tienes que apoyarte mucho, sobre todo en toda la gente que te rodea y también en los jugadores, claro que sí, para tomar las mejores decisiones y hacer la mejor composición del lugar de trabajo que quieres hacer sin afectar la disponibilidad y la frescura del jugador de cara a la competición.",
+      "keywords": [
+        "planificacion",
+        "reaccion",
+        "calendario",
+        "euroliga",
+        "adaptabilidad",
+        "frescura"
+      ],
+      "entities": [
+        "Euroliga"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario combinar planificación y reacción en Euroliga?",
+        "¿Cómo afecta el calendario de Euroliga al entrenamiento de fuerza?",
+        "¿Qué diferencia hay entre el Plan A y el Plan B en el entrenamiento deportivo?"
+      ],
+      "related_terms": [
+        "planificación y reacción",
+        "ajuste de cargas",
+        "factores incontrolables",
+        "disponibilidad del jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Rubén Portes presenta su trayectoria profesional como preparador físico en el baloncesto español y europeo.",
+      "context_after": "Se utiliza una cita de Daniel Kahneman para explicar cómo la experiencia y la repetición de tareas en la cancha disminuyen las demandas energéticas de los jugadores."
+    },
+    {
+      "id": "V_RUBEN_01-003",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:06:44",
+      "end_timestamp": "00:08:10",
+      "start_seconds": 404,
+      "end_seconds": 490,
+      "duration_seconds": 86,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=404",
+      "title": "Disminución de demandas de energía y disponibilidad del jugador",
+      "summary": "Apoyándose en una cita de Daniel Kahneman, se explica que cuanto más tiempo pasa un jugador en la cancha, más experto se vuelve y menores son sus demandas de energía. Por ello, el objetivo principal del programa de fuerza es garantizar la máxima disponibilidad del jugador para competir.",
+      "literal_quote": "El objetivo primordial que yo tengo en cuenta para mí mismo cuando desarrollo un programa de fuerza es la disponibilidad del jugador.",
+      "full_transcript": "También quería añadir esta frase, porque es muy importante para todo lo que es la planificación del trabajo de fuerza, creo que para dentro de cualquier entorno profesional. Y es una frase de Daniel Kahneman, de su libro \"Piensa rápido, piensa despacio\", que dice que cuando te conviertes experto en una tarea, sus demandas de energía decrecen. ¿Eso qué quiere decir? Que si lo trasladamos al baloncesto, cuanto más tiempo esté el jugador en pista, menores van a ser las demandas de energía para el jugador. ¿Por qué? Porque se va a convertir más experto en esa tarea. Va a ser más capaz de desarrollar todo lo que debe desarrollar en cancha cuando esté, porque va a adquirir una experiencia acumulada que le va a permitir ser más eficiente en el desarrollo de esa tarea. Me gusta mucho esta frase porque realmente el objetivo primordial que yo tengo en cuenta para mí mismo cuando desarrollo un programa de fuerza es la disponibilidad del jugador. Cuanto más disponibilidad tenga el jugador, mejor estaré yo haciendo mi trabajo y sobre todo, mejor va a ser el jugador de manera específica en la tarea que está desarrollando. Por tanto, todo el plan que yo tengo en base a lo que quiero desarrollar con el jugador, tiene que ver con que el jugador esté en pista. Y por eso comparto con vosotros esta frase, de que lo que quiero es que esté mucho tiempo en pista para que sea muy experto y muy eficiente en el desarrollo de esa tarea, de todo lo que tiene que desarrollar y de todo lo que le pide el entrenador cuando está en la pista.",
+      "keywords": [
+        "daniel-kahneman",
+        "demanda-energia",
+        "experiencia",
+        "disponibilidad",
+        "eficiencia",
+        "fuerza"
+      ],
+      "entities": [
+        "Daniel Kahneman"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo aplica Rubén Portes la teoría de Daniel Kahneman al baloncesto?",
+        "¿Por qué disminuyen las demandas de energía en jugadores expertos?",
+        "¿Cuál es el objetivo principal de un programa de fuerza en baloncesto profesional?"
+      ],
+      "related_terms": [
+        "demandas de energía",
+        "disponibilidad del jugador",
+        "eficiencia en la tarea",
+        "experiencia acumulada"
+      ],
+      "relevance_score": 5,
+      "context_before": "La planificación es fundamental para tener un plan base (Plan A), pero en competiciones de alta densidad como la Euroliga, siempre debe existir un componente de reacción (Plan B).",
+      "context_after": "Se detalla la importancia de evaluar el contexto del individuo frente al contexto del equipo para poder personalizar las cargas y tareas."
+    },
+    {
+      "id": "V_RUBEN_01-004",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:08:10",
+      "end_timestamp": "00:09:30",
+      "start_seconds": 490,
+      "end_seconds": 570,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=490",
+      "title": "Análisis del contexto individual y de equipo",
+      "summary": "Para programar correctamente el trabajo físico, es esencial analizar y cruzar el contexto individual de cada jugador con el contexto colectivo del equipo. Esta interrelación dicta cuándo aplicar ciertos volúmenes de trabajo en función de lo que el jugador requiere y lo que el equipo demanda de él.",
+      "literal_quote": "Siempre hay que estar constantemente analizando el contexto de los dos, de los individuos que tenemos, del equipo y de cómo se relacionan entre ambos.",
+      "full_transcript": "En base a eso, tenemos que hacer unos análisis del contexto. Qué contexto me encuentro en cada momento para desarrollar el tipo de tarea que yo quiero desarrollar. Y dentro del contexto, dentro de este mundo profesional, sobre todo hablando de Euroliga, que estamos, el contexto puede ser, en este caso, individual o puede ser el contexto del equipo. Siempre estamos analizando el contexto individual del jugador y el contexto del equipo y cómo se interrelacionan entre ellos, cuál es el contexto individual del jugador, qué afecta al jugador en ese momento, cómo está el jugador en ese momento y cómo eso se interrelaciona con el contexto del equipo, qué necesita el equipo en ese momento del jugador o cuál es el momento del equipo con respecto al momento del jugador. Todo esto hay que analizarlo porque yo tengo que ser capaz de, por ejemplo, imprimir o darle al jugador un volumen de trabajo X cuando lo necesita u otro cuando el equipo, por ejemplo, necesita otra cosa del jugador. Entonces, siempre hay que estar constantemente analizando el contexto de los dos, de los individuos que tenemos, del equipo y de cómo se relacionan entre ambos. Esto para mí es clave para determinar qué tipo de tarea, qué tipo de contenido quiero desarrollar en cuanto a la fuerza o en cuanto a la condición, o en cuanto a cualquier otra cosa que yo quiera ejecutar con un individuo de este equipo.",
+      "keywords": [
+        "contexto-individual",
+        "contexto-equipo",
+        "analisis",
+        "volumen",
+        "carga",
+        "toma-decisiones"
+      ],
+      "entities": [
+        "Euroliga"
+      ],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipos de contextos deben analizarse para programar el entrenamiento?",
+        "¿Cómo se relacionan el contexto individual y el del equipo?",
+        "¿Por qué es importante analizar el momento del equipo al dosificar la carga de un jugador?"
+      ],
+      "related_terms": [
+        "contexto individual",
+        "contexto del equipo",
+        "volumen de trabajo",
+        "interrelación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Apoyándose en una cita de Daniel Kahneman, se explica que cuanto más tiempo pasa un jugador en la cancha, más experto se vuelve y menores son sus demandas de energía.",
+      "context_after": "Se presenta un caso práctico comparando el perfil de viaje de dos jugadores de la misma posición y su capacidad para recuperarse tras los viajes."
+    },
+    {
+      "id": "V_RUBEN_01-005",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:09:30",
+      "end_timestamp": "00:12:40",
+      "start_seconds": 570,
+      "end_seconds": 760,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=570",
+      "title": "El perfil de viaje y su impacto en la fatiga del jugador",
+      "summary": "Se expone el caso de dos jugadores con igual rol y posición, pero distintas situaciones personales (uno casado y con hijos, el otro soltero). Su 'perfil de viaje' varía: el primero descansa más al viajar (perfil positivo), el segundo descansa menos al perder sus rutinas de casa (perfil negativo). Esto altera drásticamente la gestión de carga post-viaje para cada uno.",
+      "literal_quote": "Ya solo con ese perfil de viaje me va a afectar a la forma en la que yo trabajo con ellos cuando vuelven de ese viaje.",
+      "full_transcript": "Si miramos el contexto individual, quería compartir dos ejemplos que son curiosos. Aquí tenemos un jugador de 32 años que juega en la posición de cuatro y tiene un rol de titular... ¿Qué perfil de viaje tiene? Cuando hablo de perfil de viaje me refiero a que ese perfil de viaje es positivo porque es un jugador de 32 años que está casado y tiene hijos pequeños. ¿Qué pasa cuando este jugador viaja? Cuando viaja, descansa, porque cuando está en casa tiene que recoger a sus niños, llevarlos al colegio y luego cuando llega a casa hace el vida de padre... Entonces, ¿cuál es su perfil de viaje? Positivo. El viaje le afecta positivamente a ese jugador, porque cuando está de viaje descansa. Luego tenemos otro perfil, que es del jugador número dos, que tiene 25 años y que juega en la misma posición que el jugador número uno. Tiene un rol de titular también... Sin embargo, el perfil de viaje de este jugador número dos es negativo, porque este jugador no está casado y no tiene hijos. Entonces, cuando está en casa, está descansando. Cuando viaja le cuesta mucho más descansar, porque tiene unos hábitos cuando está en casa, unos horarios que no puede cumplir cuando está fuera. ¿A qué me refiero y por qué comparto esto con vosotros...? yo no voy a poder aplicar el mismo programa de fuerza a los dos jugadores, y los dos son cuatros que tienen un rol de jugador titular... ya solo con ese perfil de viaje me va a afectar a la forma en la que yo trabajo con ellos cuando vuelven de ese viaje. Uno va a estar más preparado para soportar la carga que yo le voy a pedir y el otro va a ver ciertas cosas que le van a ser detrimentales para su rendimiento si yo elijo con el jugador número dos imponer una semana, sobre todo al principio, de mucha carga después de un viaje. Todas estas cosas las tenemos que tener en cuenta para organizar todo el trabajo de fuerza que queremos hacer...",
+      "keywords": [
+        "perfil-de-viaje",
+        "descanso",
+        "fatiga",
+        "contexto-personal",
+        "carga-individualizada"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué es el perfil de viaje y cómo afecta al rendimiento?",
+        "¿Cómo influye la situación familiar en el descanso de un jugador durante los viajes?",
+        "¿Por qué dos jugadores en la misma posición pueden requerir cargas distintas tras un viaje?"
+      ],
+      "related_terms": [
+        "perfil de viaje positivo",
+        "perfil de viaje negativo",
+        "descanso y recuperación",
+        "individualización de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para programar correctamente el trabajo físico, es esencial analizar y cruzar el contexto individual de cada jugador con el contexto colectivo del equipo.",
+      "context_after": "Se analiza la homogeneidad del equipo en comparación con el resto de la liga y cómo esto reduce la necesidad de entrenamientos compensatorios profundos."
+    },
+    {
+      "id": "V_RUBEN_01-006",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:12:40",
+      "end_timestamp": "00:15:14",
+      "start_seconds": 760,
+      "end_seconds": 914,
+      "duration_seconds": 154,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=760",
+      "title": "Homogeneidad del equipo y diseño del volumen de fuerza",
+      "summary": "El análisis de datos revela que el equipo posee una gran homogeneidad de roles: los titulares promedian menos minutos/puntos que en otros equipos, y los suplentes promedian más. Esta paridad reduce drásticamente la necesidad de programar volúmenes asimétricos o grandes cantidades de trabajo compensatorio de fuerza.",
+      "literal_quote": "Esa línea media debe de ser mantenida en todos los trabajos que nosotros realicemos con ellos, porque necesitamos prácticamente lo mismo de todos.",
+      "full_transcript": "Si nos vamos al contexto del equipo, aquí empezamos a ver que nosotros tenemos unos titulares y unos suplentes que con respecto al resto de la liga, en Euroliga, no son habituales. Como veis ahí de azul, la media de nuestros jugadores titulares en cuanto a anotación es menor a la de medias de jugadores titulares del resto de los equipos, pero la media de los jugadores de banquillo es superior al resto de los jugadores de banquillo del resto de los equipos. ¿Eso qué quiere decir? Que nuestro equipo tiene una homogeneidad de roles también durante el juego y en la aportación que los jugadores hacen al equipo. Esa línea media debe de ser mantenida en todos los trabajos que nosotros realicemos con ellos, porque necesitamos prácticamente lo mismo de todos. Si vamos a analizar cuáles son las medias de asistencias, puntos y rebotes en nuestros jugadores comparados con el resto de los de la liga, veremos que en los mejores jugadores que nosotros tenemos, las medias sobre puntos, asistencias y rebotes son menores con respecto a las medias de la liga. Esto nos vuelve a decir que nuestro equipo es muy homogéneo. No tenemos grandes estrellas que necesiten estar en pista mucho tiempo. Tenemos mucha homogeneidad con respecto a los roles en nuestro equipo. Esto también va a afectar al trabajo de fuerza que nosotros vamos a realizar, porque necesitamos tener en cuenta mucho el volumen que vamos a ejecutar con cada uno de los jugadores... Si ponemos el ejemplo opuesto, si esto fuese al contrario... y nosotros tuviésemos tres o cuatro jugadores dominantes en nuestro equipo, que jugasen muchos más minutos y que aportasen mucho más que el resto de sus compañeros, el trabajo compensatorio de fuerza cobraría mucho más sentido. En este caso, nosotros en nuestro equipo tenemos mucho menos trabajo compensatorio que en otros equipos donde yo he estado. Todo esto hay que tenerlo en cuenta, sobre todo en cuanto a volúmenes y en cuanto al tipo de trabajo que nosotros queremos desarrollar... Tenemos que tener muy en cuenta la homogeneidad que nuestro equipo presenta en conjunto.",
+      "keywords": [
+        "homogeneidad",
+        "roles",
+        "trabajo-compensatorio",
+        "volumen",
+        "minutos",
+        "euroliga"
+      ],
+      "entities": [
+        "Euroliga"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la homogeneidad de la plantilla a la programación de fuerza?",
+        "¿Cuándo cobra sentido el trabajo compensatorio de fuerza en un equipo?",
+        "¿Qué revelan los datos de aportación de titulares frente al banquillo en este equipo de Euroliga?"
+      ],
+      "related_terms": [
+        "homogeneidad de roles",
+        "trabajo compensatorio",
+        "distribución de minutos",
+        "volumen de entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expone el caso de dos jugadores con igual rol y posición, pero distintas situaciones personales y cómo esto altera la gestión de carga post-viaje.",
+      "context_after": "El fragmento termina invitando a reflexionar sobre cómo adaptar los estímulos y cargas en función de la analítica del equipo."
+    }
+  ]
+}
