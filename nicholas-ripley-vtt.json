@@ -1,0 +1,1122 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Accurate data collection of force-time data",
+    "speaker": "Nicholas Ripley",
+    "total_duration": "01:10:35",
+    "total_duration_seconds": 4235,
+    "source_file": "WEBVTT",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:01:54",
+      "end_timestamp": "00:02:46",
+      "start_seconds": 114,
+      "end_seconds": 166,
+      "duration_seconds": 52,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=114",
+      "title": "El futuro de las ciencias del deporte y la IA",
+      "summary": "La integración de la inteligencia artificial y el modelado predictivo está transformando la ciencia del deporte, pasando de tecnologías de 'caja negra' que solo aportan datos a sistemas que ofrecen información aplicable mediante el trabajo interdisciplinar.",
+      "literal_quote": "We're now going past the stage where we had a range of technologies, these black box technologies, which give us a lot of data. And the use of AI and other kind of machine learning technologies is then leading to integration of this technology... to lead to that actionable insight.",
+      "full_transcript": "So, one of the things as part of my role as an academic is to look at the future and look at where it is we are as sport scientists. And I think the sport science trend is progressing further with the emphasis on artificial intelligence technology and predictive modeling. We're now going past the stage where we had a range of technologies, these black box technologies, which give us a lot of data. And the use of AI and other kind of machine learning technologies is then leading to integration of this technology, enabling that coach interaction, whether it's within an interdisciplinary team or between interdisciplinary teams, to lead to that actionable insight. And this is a big part of where sports science is going, and force plates in particular are a driving field behind that.",
+      "keywords": [
+        "inteligencia-artificial",
+        "machine-learning",
+        "sports-science",
+        "tecnologia",
+        "modelado-predictivo"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Hacia dónde se dirigen las ciencias del deporte con la inteligencia artificial?",
+        "¿Qué rol juega el machine learning en el análisis deportivo?"
+      ],
+      "related_terms": [
+        "inteligencia artificial",
+        "machine learning",
+        "modelos predictivos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar y presentación de su experiencia profesional.",
+      "context_after": "Se explica por qué la altura de salto no es suficiente para medir la fatiga neuromuscular y cómo entran en juego las leyes de Newton."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:02:47",
+      "end_timestamp": "00:04:14",
+      "start_seconds": 167,
+      "end_seconds": 254,
+      "duration_seconds": 87,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=167",
+      "title": "Más allá de la altura de salto en la monitorización",
+      "summary": "La altura de salto es la métrica más común del CMJ, pero no cuenta toda la historia respecto a la fatiga. El análisis de datos fuerza-tiempo, fundamentado en las leyes de Newton, permite entender cómo el atleta altera su rendimiento bajo fatiga.",
+      "literal_quote": "That doesn't give the full story. And providing further indication through force-time data acquisition and analysis gives us more information on how that athlete has changed their performance with the presence of fatigue.",
+      "full_transcript": "But why do we need to look at force-time data itself? There's a really good study that came out earlier this year by Marques et al, who identified jump height, which is the most common metric taken from a countermovement jump, especially when looking at neuromuscular function in terms of monitoring fatigue. That doesn't give the full story. And providing further indication through force-time data acquisition and analysis gives us more information on how that athlete has changed their performance with the presence of fatigue. And this is primarily driven by Newton's laws. If we think about Newton's law of motion, force equals mass times acceleration, when we rearrange that formula, our relative force production, so force divided by our mass, determines our acceleration. When we consider sporting scenarios where we're impacted and constrained by time and we have impulse, within sport, when we're constrained to hundredths of a second, we have to produce as much force as possible relative to my mass to accelerate and reach the resultant velocity. So that relative impulse dictates my movement velocity.",
+      "keywords": [
+        "cmj",
+        "altura-salto",
+        "impulso",
+        "fuerza-tiempo",
+        "fatiga-neuromuscular",
+        "leyes-newton"
+      ],
+      "entities": [
+        "Marques et al"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la altura de salto no es suficiente para medir la fatiga?",
+        "¿Qué información adicional aporta la curva fuerza-tiempo en el CMJ?"
+      ],
+      "related_terms": [
+        "altura de salto",
+        "impulso",
+        "fatiga neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "La integración de la inteligencia artificial y el modelado predictivo está transformando la ciencia del deporte.",
+      "context_after": "El análisis del tirón isométrico (IMTP) y su fuerte asociación con el rendimiento deportivo."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:05:23",
+      "end_timestamp": "00:08:00",
+      "start_seconds": 323,
+      "end_seconds": 480,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=323",
+      "title": "Evolución de las plataformas de fuerza a soluciones de campo",
+      "summary": "Las plataformas de fuerza han pasado de ser sistemas estáticos, caros y exclusivos de laboratorios (gold standard) a soluciones de campo económicas, portátiles e inalámbricas que muestran buena validez concurrente.",
+      "literal_quote": "We do have a good body of evidence on this, highlighting pretty good consistency and concurrent validity between force plates and their gold standard counterparts.",
+      "full_transcript": "So when we think about force-time data, and the most common way of collecting force data, is typically via the use of force plates. And force plates for a long time were off-limits to practitioners in some way, that they were purely for labs and specialist spaces. And that's sort of what we see here with AMTI and Kistler force plates being those gold standard, high resolution, but expensive force plates. Typically, these are less portable in nature, and they tend to be found ground embedded in these lab-based scenarios. However, the actual history of force plates becomes a lot earlier... published in 1895, highlighting the potential utilization of force-time data well over 100 years ago. But as we know, the increase in technology availability is definitely progressing this field further, especially moving those force plates from what has been typically lab-based into the field. And we've had this relative explosion of force plate manufacturers and availability. And that's what we see here, a range of force plate manufacturers that are presenting portable, wireless in some cases, force plate solutions, which have pushed practitioners to utilize these force plates readily with over 50% of football practitioners using them. But how do these force plates compare to the gold standard? We do have a good body of evidence on this, highlighting pretty good consistency and concurrent validity between force plates and their gold standard counterparts... because they're relatively cheap. They're inexpensive in comparison to these gold standard measures.",
+      "keywords": [
+        "plataformas-fuerza",
+        "amti",
+        "kistler",
+        "validez-concurrente",
+        "tecnologia-portatil"
+      ],
+      "entities": [
+        "AMTI",
+        "Kistler"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo ha evolucionado el acceso a las plataformas de fuerza para preparadores físicos?",
+        "¿Son válidas las plataformas de fuerza portátiles frente a los estándares de laboratorio?"
+      ],
+      "related_terms": [
+        "plataformas de fuerza",
+        "gold standard",
+        "tecnología portátil"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explica por qué el análisis de fuerza-tiempo tiene asociación con acciones críticas como el sprint máximo.",
+      "context_after": "Aunque las plataformas portátiles son económicas y válidas, presentan diferencias de hardware y software que dificultan la comparación entre marcas."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:08:58",
+      "end_timestamp": "00:10:34",
+      "start_seconds": 538,
+      "end_seconds": 634,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=538",
+      "title": "Diferencias de software y hardware entre fabricantes",
+      "summary": "Cada marca de plataformas portátiles utiliza diferentes componentes de hardware y software propietario (distintos umbrales de inicio, definiciones de fase y cálculos de dinámica inversa), lo que hace ineficaz comparar datos entre diferentes marcas.",
+      "literal_quote": "Although there's general agreement between the proprietary software themselves... there's a varying use of thresholds, which is essential for movement initiation... So it does present a challenge and potentially ineffective if you were trying to compare between force plate manufacturers.",
+      "full_transcript": "Between the portable force plates and gold standard, we have hardware differences, whether it's the use of different strain gauge type devices, piezoelectric or conventional strain gauges. We also have software differences And this becomes more apparent when we start to compare between these portable manufacturers. So if we were comparing between Hawking Dynamics, ForceDecks, maybe even Kumu, all of them will use slightly different proprietary softwares to maximize their utilization. And Justin Merrigan's done a really nice body of work around this, comparing the software between force plate manufacturers and to a custom MATLAB script. Although there's general agreement between the proprietary software themselves in terms of metric identification and accuracy, between softwares, there's a varying use of thresholds, which is essential for movement initiation. In some software companies, there's the ability to manually adjust that. There's a use of different phase definitions, especially for jumps, and the integration of force-time data through forward dynamics also is slightly different potentially between force plate manufacturers. So it does present a challenge and potentially ineffective if you were trying to compare between force plate manufacturers.",
+      "keywords": [
+        "hawkin-dynamics",
+        "forcedecks",
+        "software-propietario",
+        "dinamica-inversa",
+        "umbrales-inicio",
+        "hardware"
+      ],
+      "entities": [
+        "Hawking Dynamics",
+        "ForceDecks",
+        "Kumu",
+        "Justin Merrigan",
+        "MATLAB"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Se pueden comparar los datos de fuerza de diferentes fabricantes de plataformas?",
+        "¿Qué diferencias de software existen entre marcas de plataformas de fuerza?"
+      ],
+      "related_terms": [
+        "software propietario",
+        "comparativa entre plataformas",
+        "dinámica inversa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las plataformas de fuerza han pasado a ser soluciones de campo económicas, portátiles e inalámbricas con buena validez concurrente.",
+      "context_after": "Se subraya la necesidad de tener Procedimientos Operativos Estándar (SOP) rigurosos basándose en el principio de Garbage in, garbage out."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:10:44",
+      "end_timestamp": "00:12:00",
+      "start_seconds": 644,
+      "end_seconds": 720,
+      "duration_seconds": 76,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=644",
+      "title": "Procedimientos Operativos Estándar (SOP) y principio GAGO",
+      "summary": "Para la captura de datos aplica el principio GAGO (Garbage In, Garbage Out). Sin SOPs claros para controlar ruido, artefactos de movimiento y calibración, el software asimilará datos erróneos que pueden derivar en planes de entrenamiento ineficaces o peligrosos.",
+      "literal_quote": "If you don't ensure that movement artifacts, noise, and improper calibration aren't managed within your operating procedures, this could lead to erroneous results.",
+      "full_transcript": "And this should arguably go back to the GAGO principle, the principle of garbage in, garbage out. If you don't ensure that movement artifacts, noise, and improper calibration aren't managed within your operating procedures, this could lead to erroneous results. When we think about the proprietary software's interaction with these erroneous results, leading to ineffective training plans, in some cases, potentially dangerous training plans. So we need to ensure, as the practitioners on the ground, that we have clear, standardized operating procedures to ensure we're putting accurate and reliable data into the force plates. This could come through the standardization of the setup, through the standardization of the tests and the cueing, and we'll talk about these a little bit more now. But we need to ensure whatever we're putting into it, we are trusting is accurate and reliable to ensure we can make meaningful decisions on the back end.",
+      "keywords": [
+        "gago",
+        "garbage-in-garbage-out",
+        "sop",
+        "procedimientos-estandar",
+        "calibracion",
+        "ruido-datos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el principio GAGO en ciencias del deporte?",
+        "¿Por qué es necesario tener procedimientos operativos estándar al usar plataformas de fuerza?"
+      ],
+      "related_terms": [
+        "SOP",
+        "procedimientos operativos estándar",
+        "calidad de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Existen diferencias técnicas que hacen ineficaz comparar datos entre diferentes marcas de plataformas.",
+      "context_after": "Uno de los aspectos más ignorados de la estandarización es la rigidez de la superficie del suelo."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:12:03",
+      "end_timestamp": "00:14:26",
+      "start_seconds": 723,
+      "end_seconds": 866,
+      "duration_seconds": 143,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=723",
+      "title": "Estandarización ambiental y el problema de los suelos blandos",
+      "summary": "Las plataformas de fuerza deben ubicarse sobre superficies rígidas como el hormigón. Suelos amortiguados (canchas de baloncesto, suelos de goma) absorben el impacto, generando hasta un 16% de reducción artificial en las fuerzas pico registradas.",
+      "literal_quote": "With a sprung floor, such as a basketball court, leading to a 16% reduction in the peak forces attained... that means compliance in the environment needs to be minimized.",
+      "full_transcript": "Fritz identified really early on that force plates need to be positioned on a rigid surface, and they use the example concrete, and this was to ensure we got valid measures of the vertical ground reaction forces. If we place it on different surfaces, we get potentially different measures of ground reaction forces... There's different flooring types, whether it's rubber floor, whether it's turf... If we're changing the flooring, we're going to change the force time measurements, and particularly the ground reaction forces and peak ground reaction forces explicitly. So this video shows on a weightlifting platform, which is thought of as a rigid surface, showing large deviation in the force time... you can see there's a large amount of compliance in the floor itself. So this presents an issue for practitioners, especially if performing reactive tasks like a rebound-based jump... And work from Smith and Jones has really progressed onto this, finding that differences in flooring can lead to either increases or larger reductions in the peak forces attained when dropping a known load onto the force plates. With a sprung floor, such as a basketball court, leading to a 16% reduction in the peak forces attained. So that 16% reduction presents a key issue if we are assessing reactive jump characteristics, where we need our athletes to be as elastic as possible, and that means compliance in the environment needs to be minimized.",
+      "keywords": [
+        "superficies-rigidas",
+        "suelo-amortiguado",
+        "fuerza-pico",
+        "ground-reaction-forces",
+        "estandarizacion-ambiental",
+        "compliance"
+      ],
+      "entities": [
+        "Fritz",
+        "Smith and Jones"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Precaución",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Se pueden usar plataformas de fuerza sobre el césped o pista de baloncesto?",
+        "¿Cómo afecta el tipo de suelo a la medición de fuerza pico?"
+      ],
+      "related_terms": [
+        "superficies rígidas",
+        "amortiguación del suelo",
+        "fuerza pico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se deben establecer procedimientos estandarizados para capturar datos de fuerza y evitar el GAGO.",
+      "context_after": "La configuración técnica de la propia plataforma, especialmente la frecuencia de muestreo, es igual de determinante que el entorno físico."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:14:32",
+      "end_timestamp": "00:16:49",
+      "start_seconds": 872,
+      "end_seconds": 1009,
+      "duration_seconds": 137,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=872",
+      "title": "Importancia de la frecuencia de muestreo (Sampling frequency)",
+      "summary": "Para test de salto (CMJ) el mínimo funcional es 1000 Hz, ya que una menor frecuencia puede sobreestimar la altura un 4%. Para isométricos multiarticulares bastan 500 Hz. Sin embargo, frecuencias altas en isométricos monoarticulares pueden causar ruido que afecta la detección de umbrales de inicio (RFD).",
+      "literal_quote": "For a countermovement jump, 1,000 hertz is a functional minimum to collect jump data... Lower frequencies can overestimate jump height by about 4%... Interestingly, for a single-joint isometric task, the increased frequency is probably suboptimal.",
+      "full_transcript": "Another area we need to consider, which is different between manufacturers... is sampling frequency. Different force plate manufacturers have different sampling frequencies embedded. Some have fixed sampling frequencies, some have variable sampling frequencies that can be practitioner-chosen. And that presents an issue in that you need a standard frequency for a standard test... So for instance, for a countermovement jump, 1,000 hertz is a functional minimum to collect jump data. Lower frequencies can overestimate jump height by about 4%, as identified by Streu et al. This could then lead to these erroneous results. For isometric assessments, it does appear we can go lower. So around 500 hertz ensures accurate and reliable peak force and rapid force assessments within a multi-joint isometric task. Interestingly, for a single-joint isometric task, the increased frequency is probably suboptimal. With a greater sampling frequency, we have a greater resolution, and with the low system weight, we have greater variation within the force-time trace... This doesn't necessarily impact the peak force... But what this does affect is the identification of an accurate onset threshold for measures of rapid force, both force at set time points and rate force development.",
+      "keywords": [
+        "frecuencia-muestreo",
+        "sampling-frequency",
+        "hertz",
+        "1000hz",
+        "500hz",
+        "rfd",
+        "umbral-inicio"
+      ],
+      "entities": [
+        "Streu et al"
+      ],
+      "topics": [
+        "Data Science"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué frecuencia de muestreo es óptima para evaluar un CMJ?",
+        "¿Por qué demasiados hercios pueden ser perjudiciales para tests de articulación única?"
+      ],
+      "related_terms": [
+        "frecuencia de muestreo",
+        "tasa de registro",
+        "ruido"
+      ],
+      "relevance_score": 4,
+      "context_before": "El entorno físico y los suelos amortiguados afectan las métricas de fuerza.",
+      "context_after": "Se analiza cómo el tipo de indicación que se le da al atleta (cueing) modifica el resultado biomecánico del salto o test."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:16:50",
+      "end_timestamp": "00:18:42",
+      "start_seconds": 1010,
+      "end_seconds": 1122,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1010",
+      "title": "Efectos de las instrucciones verbales (Cueing) en el rendimiento",
+      "summary": "Las instrucciones verbales alteran tanto la estrategia de movimiento como el resultado de la fuerza. Pedir empujar 'lo más rápido posible' mejora la RFD pero reduce la fuerza máxima; pedir empujar 'lo más fuerte posible' mejora la fuerza pico pero perjudica la RFD.",
+      "literal_quote": "If I cue to push as fast as possible, I get very good rapid force measures, but a lower peak force. If I cue to push as hard as possible, I get good peak force and lower rapid force. So we need to be aware that the cueing should be appropriate for the task and consistent.",
+      "full_transcript": "Verbal cueing has an effect on performance. We know if we cue differently, for instance, a countermovement jump, it affects both the jump strategy and the jump outcome. Similarly, for the isometric assessments, if I cue to push as fast as possible, I get very good rapid force measures, but a lower peak force. If I cue to push as hard as possible, I get good peak force and lower rapid force. So we need to be aware that the cueing should be appropriate for the task and consistent. So if we look at something like the countermovement jump, where we want to maintain hands on hips, we want to be as fast as possible, this combined cue ensuring an appropriate jump strategy. We want to avoid tucking the legs... When we think about a countermovement jump, it's predominantly going to be knee and hip-driven. Whereas when we consider reactive jumps, such as a rebound or a drop jump, we want it to be ankle-driven, both in the landing... So we want to see fast, quick rebounds... We want to cue for speed, but maximize jump outcome.",
+      "keywords": [
+        "cueing",
+        "instrucciones-verbales",
+        "rfd",
+        "fuerza-pico",
+        "estrategia-salto",
+        "biomecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Precaución"
+      ],
+      "search_questions": [
+        "¿Cómo afectan las instrucciones verbales al test de fuerza isométrica?",
+        "¿Debería decirle a mi atleta que empuje fuerte o rápido?"
+      ],
+      "related_terms": [
+        "instrucciones verbales",
+        "estrategia de salto",
+        "foco atencional"
+      ],
+      "relevance_score": 5,
+      "context_before": "La frecuencia de muestreo adecuada es crucial según la prueba de fuerza a realizar.",
+      "context_after": "Se aplica este mismo concepto de estandarización verbal al tirón isométrico a mitad de muslo (IMTP), debatiendo las directrices de diversos expertos."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:18:48",
+      "end_timestamp": "00:20:30",
+      "start_seconds": 1128,
+      "end_seconds": 1230,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1128",
+      "title": "Estandarización y Cueing en el IMTP",
+      "summary": "Existen debates sobre el 'cueing' para el IMTP: referenciar la barra (tirar hacia arriba) vs. referenciar el suelo (empujar los pies). En deportes de equipo, pedir que tiren de la barra frecuentemente provoca que el atleta flexione codos y encoja hombros, perdiendo el foco en las piernas.",
+      "literal_quote": "What we find is if we do reference the bar and pull vertical on the bar, we end up with athletes trying to flex at the elbows and shrug rather than using the lower limbs. And because the use of the force plates restricts the forces only through the feet... we need to ensure that the forces are being applied appropriately.",
+      "full_transcript": "For the isometric mid-thigh pull, the standardization published by Professor Paul Comfort identified the athlete should be cued to push their feet into the ground as fast and as hard as possible. However, recent discussions with Professor Greg Haff have identified a reference to the bar could be used. So still suggesting to push your feet into the ground, but while pulling vertically on the bar. And Greg uses this rationale as if we don't reference the bar, the athletes may tend to fall into just performing in the extension rather than trying to leverage the forces pushed under the bar... Professor Greg Haff references work around tactical and special forces, who are regularly aware of what it takes in this task to reference the bar. However, a lot of our work and Professor Paul Comfort's work is focused on team sport athletes who might not be as familiar with resistance training... And what we find is if we do reference the bar and pull vertical on the bar, we end up with athletes trying to flex at the elbows and shrug rather than using the lower limbs. And because the use of the force plates restricts the forces only through the feet and not anything through the bar in a fixed rig system, we need to ensure that the forces are being applied appropriately.",
+      "keywords": [
+        "imtp",
+        "isometric-mid-thigh-pull",
+        "cueing",
+        "shrugging",
+        "fuerza-isometrica",
+        "estandarizacion"
+      ],
+      "entities": [
+        "Professor Paul Comfort",
+        "Professor Greg Haff"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Decisión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo instruir a un atleta para un Isometric Mid-Thigh Pull?",
+        "¿Por qué fallan los atletas de deportes de equipo al hacer IMTP referenciando la barra?"
+      ],
+      "related_terms": [
+        "IMTP",
+        "instrucciones verbales",
+        "aislamiento de piernas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Debe estandarizarse el 'cueing' según la tarea a evaluar para evitar sesgos.",
+      "context_after": "Se revisan consideraciones fundamentales del análisis de datos pre-test: el pesaje estático del atleta sobre la placa de fuerza."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:20:58",
+      "end_timestamp": "00:22:46",
+      "start_seconds": 1258,
+      "end_seconds": 1366,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1258",
+      "title": "El período de pesaje estable (Weigh-in) y umbral de inicio",
+      "summary": "Para saltos o isométricos, se necesita un pesaje estable de al menos 1 segundo para identificar con precisión el umbral de inicio del movimiento. El estándar óptimo es usar de 3 a 5 desviaciones estándar del período de pesaje para detectar el inicio real.",
+      "literal_quote": "This needs to be a really stable one-second weigh-in period. The reason this needs to be a stable one-second weigh-in period is for the accurate identification of onset. And we see the work from Owen et al identifying five standard deviations of a weigh-in period being an optimal identification of movement onset.",
+      "full_transcript": "For jumps and isometric assessments, we need a weigh-in protocol. We need to weigh the athletes. And typically, this is done off a minimum one-second weigh-in period, which for most portable manufacturers of force plates have this built into the system. This is for accurate identification of movement onset, but it also identifies the participant's mass, which is needed for the formant forward dynamics procedures. But this needs to be a really stable one-second weigh-in period. The reason this needs to be a stable one-second weigh-in period is for the accurate identification of onset. And we see the work from Owen et al identifying five standard deviations of a weigh-in period being an optimal identification of movement onset, especially when we backtrack 30 milliseconds to accurately start to identify some of the subtle movements prior to that unweighting phase... If we have larger variability within that weigh-in period, i.e., the athlete's not standing very still, then we get a less accurate onset threshold, which can impact rapid force assessment measures within isometric tasks, or it can affect phase identification within jump assessments. Within isometric assessments, very similar. The work from Dos Santos and Gopi identified anywhere from three to five standard deviations of the weigh-in period being an appropriate onset threshold.",
+      "keywords": [
+        "weigh-in",
+        "pesaje-estable",
+        "umbral-inicio",
+        "5-sd",
+        "desviacion-estandar",
+        "dinamica-inversa"
+      ],
+      "entities": [
+        "Owen et al",
+        "Dos Santos",
+        "Gopi"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué el atleta debe estar quieto 1 segundo antes de saltar en la plataforma?",
+        "¿Cómo se define el umbral de inicio (onset threshold) en mediciones de fuerza?"
+      ],
+      "related_terms": [
+        "fase de pesaje",
+        "estabilización",
+        "umbral de inicio"
+      ],
+      "relevance_score": 5,
+      "context_before": "Existen debates sobre el 'cueing' para el IMTP: referenciar la barra vs. referenciar el suelo.",
+      "context_after": "Se repasan las especificidades de ejecución para varios tipos de saltos comunes (Squat Jump, CMJ, Drop Jump)."
+    },
+    {
+      "id": "V03-011",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:23:08",
+      "end_timestamp": "00:25:22",
+      "start_seconds": 1388,
+      "end_seconds": 1522,
+      "duration_seconds": 134,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1388",
+      "title": "Protocolos específicos para test de saltos (SJ, CMJ, Drop Jump)",
+      "summary": "En el Squat Jump se evita el contramovimiento; en el Drop Jump, tras el salto se debe aterrizar y permanecer quieto 1 segundo en la plataforma para identificar con exactitud la altura real de caída, mitigando así el margen de error de variabilidad (20-30%).",
+      "literal_quote": "We then want athletes to remain still for one second following the landing from the drop jump. And the reason for this drop landing approach is, and that one-second weigh-in period after the landing, is to get an accurate identification of fall height.",
+      "full_transcript": "If we think about the most simple test being performed on force plates being a squat jump, a purely propulsive action... For something like a squat jump, we want to avoid that initial countermovement. So we want that purely propulsive action and remaining on the force platform at the end of the jump. The countermovement jump, very similar trend. We see that stable one-second quiet weigh-in period, followed by that rapid dip and high propulsive action to accelerate that mass... starting after this one-second period, as well as then landing on the force plate at the end for the accurate measurement of jump performance. Drop jumps being an assessment of reactive capabilities, we don't see an initial force trace. But what we see should be a short, high spike in force aiming for sub 250 milliseconds ground contact time to classify as a plyometric task. We then want athletes to remain still for one second following the landing from the drop jump. And the reason for this drop landing approach is, and that one-second weigh-in period after the landing, is to get an accurate identification of fall height. Within drop jumps, we have anywhere from 20% to 30% variability in fall height. So having an accurate identification allows us as practitioners to monitor this over time.",
+      "keywords": [
+        "squat-jump",
+        "cmj",
+        "drop-jump",
+        "altura-caida",
+        "protocolo-salto",
+        "tiempo-contacto"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué consideraciones hay al hacer un drop jump en plataforma de fuerza?",
+        "¿Por qué el atleta debe quedarse quieto al aterrizar de un Drop Jump?"
+      ],
+      "related_terms": [
+        "protocolos de saltos",
+        "estabilización post-aterrizaje"
+      ],
+      "relevance_score": 4,
+      "context_before": "Para saltos o isométricos, se necesita un pesaje inicial estable de al menos 1 segundo.",
+      "context_after": "Se expone la limitación matemática de las plataformas al medir múltiples saltos consecutivos (10/5 rebotes)."
+    },
+    {
+      "id": "V03-012",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:26:03",
+      "end_timestamp": "00:27:15",
+      "start_seconds": 1563,
+      "end_seconds": 1635,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1563",
+      "title": "Limitaciones de los saltos de rebote múltiple (10/5 test)",
+      "summary": "Es computacionalmente difícil integrar datos fuerza-tiempo a lo largo de varios impactos seguidos en plataformas de fuerza. Por ello, la mayoría de los programas estiman la altura del salto mediante el tiempo de vuelo, generando inexactitudes en la métrica RSI.",
+      "literal_quote": "Because it's hard to integrate the force time data when doing multiple assessments like this. So we can't get an accurate identification of acceleration and ultimately displacement across this many jumps. So most software companies will use flight time to estimate the jump height for each rebound task.",
+      "full_transcript": "And then our final rebound jump assessment is something like a multi-rebound. So similar to a 10 to five or a 10 to five-based assessment, which is very commonly used, can be interpreted with more simplistic technologies such as contact mats and jump pads. The issue with using those technologies is they determine jump height by flight time. So there is some inaccuracies in there. However, if we're performing jumps like this with force plates, it may provide the same measures. And the reason why is because it's hard to integrate the force time data when doing multiple assessments like this. So we can't get an accurate identification of acceleration and ultimately displacement across this many jumps. So most software companies will use flight time to estimate the jump height for each rebound task. So this presents an issue when looking at the jump height themselves and the reactive strength index, that ratio metric. So we need to be aware of the limitations of this jump task when performing this test with athletes.",
+      "keywords": [
+        "10-5-test",
+        "rebotes-multiples",
+        "tiempo-vuelo",
+        "rsi",
+        "reactivity",
+        "limitaciones-software"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Precaución",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Miden bien las plataformas de fuerza el test 10/5 de saltos múltiples?",
+        "¿Por qué se usa el tiempo de vuelo para calcular la altura en saltos de rebote continuo?"
+      ],
+      "related_terms": [
+        "saltos múltiples",
+        "integración fuerza-tiempo",
+        "cálculo por tiempo de vuelo"
+      ],
+      "relevance_score": 4,
+      "context_before": "En el Drop Jump se debe aterrizar y estabilizar durante 1 segundo para identificar la altura de caída con precisión.",
+      "context_after": "Se destaca un error muy frecuente al realizar el test del Isometric Mid-Thigh Pull."
+    },
+    {
+      "id": "V03-013",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:28:13",
+      "end_timestamp": "00:29:12",
+      "start_seconds": 1693,
+      "end_seconds": 1752,
+      "duration_seconds": 59,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1693",
+      "title": "Uso imprescindible de correas (straps) en IMTP",
+      "summary": "Realizar el IMTP sin correas de agarre es un error común que genera una pérdida promedio de 1000 Newtons, lo que en realidad termina midiendo únicamente la fuerza de agarre del atleta y no la fuerza máxima de sus miembros inferiores.",
+      "literal_quote": "We know there's about 1,000 newtons difference on average when we don't use straps. So if we're not using straps, we're merely getting an assessment of an athlete's grip strength rather than their lower limb force-generating capabilities.",
+      "full_transcript": "One of the common errors I see within practitioners, especially on social media, is not having the use of straps. And this presents an issue for practitioners because we know there's about 1,000 newtons difference on average when we don't use straps. So if we're not using straps, we're merely getting an assessment of an athlete's grip strength rather than their lower limb force-generating capabilities. So straps are essential, and common reasons why to exclude them are time constraints, pain from the athletes, and experience. So practitioners need to get experience using straps, especially in time-constrained environments, to rapidly be able to strap athletes to the bar and stay on the bar. I would also familiarize athletes with the use of straps in resistance training, performing exercises such as deadlifts and weightlifting movements to encourage their familiarity.",
+      "keywords": [
+        "imtp",
+        "straps",
+        "correas-agarre",
+        "fuerza-agarre",
+        "isometric-mid-thigh-pull",
+        "errores-comunes"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Precaución",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Es necesario usar straps en el Isometric Mid-Thigh Pull?",
+        "¿Qué pasa si evalúo el IMTP sin usar correas de agarre?"
+      ],
+      "related_terms": [
+        "correas de agarre",
+        "grip strength",
+        "fuerza isométrica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Existen protocolos claros y consideraciones mecánicas para ejecutar los tests de fuerza correctamente.",
+      "context_after": "El foco se traslada a las consideraciones metodológicas de alternativas isométricas, como el Iso Squat y el Belt Squat."
+    },
+    {
+      "id": "V03-014",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:29:16",
+      "end_timestamp": "00:31:08",
+      "start_seconds": 1756,
+      "end_seconds": 1868,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1756",
+      "title": "Isometric Squat frente al Belt Squat",
+      "summary": "Para evitar el dolor de espalda y la carga axial en atletas con el torso largo (ej. baloncestistas) al hacer Isometric Squat, se adopta cada vez más el Isometric Belt Squat. Aunque genera mayores picos de fuerza, aún carece de procedimientos operativos estandarizados (SOP).",
+      "literal_quote": "Typically, what we're finding from the research and from practice is that the belt squat produces higher peak forces than the isometric squat and the isometric mid-thigh pull... Despite both being reliable for peak and rapid force, we currently don't have standard procedures for an isometric belt squat.",
+      "full_transcript": "Other multi-joint isometric assessments include the isometric squat. So the isometric squat is a lot more conventionally used, typically used with similar knee and hip joint angles as the isometric mid-thigh pull... However, one of the common issues with an isometric squat is the role of axial loading and the potential of back pain, especially in individuals who may possess longer trunks and longer upper torsos, particularly in athletes such as basketball players, which we're starting to see more of a transition across to a belt squat... However, despite both being reliable for peak and rapid force, we currently don't have standard procedures for an isometric belt squat. It's still maybe this will work, maybe that'll work. There's no consistency or published standard guidelines. We also have large variability in the test designs themselves in terms of what belt to use. How do you link the belt through to the force plates or through to a solid surface?... Typically, what we're finding from the research and from practice is that the belt squat produces higher peak forces than the isometric squat and the isometric mid-thigh pull. So we need to be aware of these differences in the test designs...",
+      "keywords": [
+        "isometric-squat",
+        "belt-squat",
+        "carga-axial",
+        "dolor-espalda",
+        "fuerza-pico",
+        "estandarizacion"
+      ],
+      "entities": [
+        "Giuliano",
+        "Marshall et al"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Comparativa",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué alternativa existe al Isometric Squat para evitar la compresión de columna?",
+        "¿Es mejor el Belt Squat que el Isometric Squat tradicional?"
+      ],
+      "related_terms": [
+        "isometric squat",
+        "belt squat",
+        "carga axial"
+      ],
+      "relevance_score": 4,
+      "context_before": "Realizar el IMTP sin correas de agarre es un error común que genera una pérdida promedio de 1000 Newtons.",
+      "context_after": "Se detallan precauciones vitales al revisar la curva de fuerza y detectar intentos inválidos (ej. contramovimiento)."
+    },
+    {
+      "id": "V03-015",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:33:10",
+      "end_timestamp": "00:34:27",
+      "start_seconds": 1990,
+      "end_seconds": 2067,
+      "duration_seconds": 77,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1990",
+      "title": "Análisis de la curva de fuerza y pre-tensión",
+      "summary": "Realizar un contramovimiento inicial infla artificialmente la RFD en tests isométricos. Además, si el pico de fuerza se alcanza al final del tirón, suele ser por una compensación postural. Es crítico tener el peso del sistema al final para calcular la pre-tensión y las fuerzas netas reales.",
+      "literal_quote": "If we're using the countermovement or the athlete uses a countermovement, they're going to artificially inflate their rapid force-generating characteristics... So net peak forces need to be accurately identified by an inclusion of pre-tension.",
+      "full_transcript": "So between these two force time traces, one of the issues we see is an unstable weigh-in period and a resulting countermovement. These should be tried to be avoided, and if they can't be avoided, trying to repeat and remove trials when necessary. So if we're using the countermovement or the athlete uses a countermovement, they're going to artificially inflate their rapid force-generating characteristics. We also see peak forces achieved at the end of the pull. This is likely through a dynamic shift in joint position, whether it's through moving through into more hip extension or knee flexion to achieve this. So the peak force is achieved at the end of the mid-thigh pull. This should be repeated as a trial... And finally, we don't have an accurate measure of system weight at the end of the movement. This is important to consider if an athlete has possessed pre-tension or not. So we need to ensure that the athlete accurately gets a system weight at the end to measure pre-tension at the beginning. This would enable us to identify accurately net peak forces, which are more critical for performance and acceleration of mass. So net peak forces need to be accurately identified by an inclusion of pre-tension.",
+      "keywords": [
+        "curva-fuerza",
+        "contramovimiento",
+        "rfd",
+        "pre-tension",
+        "net-peak-force",
+        "analisis-datos"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Precaución"
+      ],
+      "search_questions": [
+        "¿Cómo detectar un intento inválido en un test de fuerza isométrica?",
+        "¿Qué ocurre si el atleta realiza un contramovimiento antes del IMTP?"
+      ],
+      "related_terms": [
+        "pre-tensión",
+        "fuerza neta pico",
+        "contramovimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Existen diferentes métodos para evaluar de manera isométrica a los atletas, cada uno con ventajas y retos de estandarización.",
+      "context_after": "Se debaten los métodos de discriminación de intentos válidos mediante umbrales absolutos vs relativos de variabilidad de fuerza."
+    },
+    {
+      "id": "V03-016",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:34:28",
+      "end_timestamp": "00:35:50",
+      "start_seconds": 2068,
+      "end_seconds": 2150,
+      "duration_seconds": 82,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2068",
+      "title": "Umbrales de variabilidad: absolutos vs relativos",
+      "summary": "El umbral absoluto estándar de 250N para evaluar la fiabilidad entre intentos no es apto para atletas de bajo peso (ej. jóvenes), ya que puede representar casi el 100% de su masa corporal. Se recomienda transitar hacia umbrales relativos (5% al 15% de la fuerza pico).",
+      "literal_quote": "However, that 250-newton threshold is an absolute value. It doesn't provide a relative interpretation... If they use that 250-newton threshold, it could equate to up to 100% of an athlete's body mass... So relative thresholds are likely to be included.",
+      "full_transcript": "However, that 250-newton threshold is an absolute value. It doesn't provide a relative interpretation. There is some work that's started to use a 15% relative threshold to determine between-trial repetitions, and the work by Moskop, which was performed using youth gymnasts, is a really good example of this. If they use that 250-newton threshold, it could equate to up to 100% of an athlete's body mass, with up to 50% if they're post peak high velocity. So this presents an issue for practitioners if you use an absolute threshold versus athletes, and even the post peak high velocity athletes would have to produce a huge amount of force to potentially be identified as actually a larger variation in the movement. So relative thresholds are likely to be included. 15% could be considered quite large if we're considering 15% of peak force, but 5% to 10% might be important to track as well. But further research is needed on this to identify an appropriate threshold. So for using for senior athletes, I would suggest the use of a 250 newton between trial threshold.",
+      "keywords": [
+        "umbral-absoluto",
+        "umbral-relativo",
+        "imtp",
+        "variabilidad",
+        "fiabilidad-entre-intentos",
+        "250N"
+      ],
+      "entities": [
+        "Moskop"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia de fuerza es aceptable entre repeticiones de un IMTP?",
+        "¿Por qué un umbral de 250N no sirve para atletas jóvenes o de bajo peso?"
+      ],
+      "related_terms": [
+        "umbral relativo",
+        "variabilidad entre ensayos",
+        "umbral absoluto"
+      ],
+      "relevance_score": 4,
+      "context_before": "Realizar un contramovimiento inicial infla artificialmente la RFD en tests isométricos. Obtener el pico de fuerza al final del movimiento indica compensación.",
+      "context_after": "Expansión a nuevos tests isométricos enfocados en aislar músculos de articulación única."
+    },
+    {
+      "id": "V03-017",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:35:57",
+      "end_timestamp": "00:38:09",
+      "start_seconds": 2157,
+      "end_seconds": 2289,
+      "duration_seconds": 132,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2157",
+      "title": "Tests isométricos monoarticulares y posición",
+      "summary": "Están ganando popularidad pruebas aisladas para isquiosurales y flexores plantares. Las variaciones angulares (cadera/rodilla) alteran la relación longitud-tensión y activan distintos componentes musculares. Además, direccionar el esfuerzo (vertical vs. horizontal) cambia la sensibilidad a la fatiga.",
+      "literal_quote": "We know position affects the force time characteristics. When we change the knee and hip angle, we're changing the length tension relationship, which ultimately affects the force output. This also impacts the muscle activation, shifting between a lateral or medial component of the hamstrings.",
+      "full_transcript": "While multi-joint assessments are increasingly popular, particularly within team sports, single joint assessments are starting to progress even further. And we see that within the plantarflexus with a range of different test designs starting to be used, either to isolate the soleus, or to favor more of a combined gastrocnemius and soleus action. What we see across these test designs typically is that they possess good reliability for peak force. No identification of rapid force measures have been identified yet for the plantarflexus... Similar to the plant flexors, we have a wide variety of isometric hamstring assessments, and again, they show pretty good consistency and good reliability for measures of peak force. However, there's a variety in the test positions with some that lack efficacy. We know position affects the force time characteristics. When we change the knee and hip angle, we're changing the length tension relationship, which ultimately affects the force output. This also impacts the muscle activation, shifting between a lateral or medial component of the hamstrings... The work of the 9020 has further identified the use of vector cues. Whether we cue an athlete to push horizontally or vertically changes the force outcome, as well as changing the sensitivity of that test to fatigue...",
+      "keywords": [
+        "isometria-monoarticular",
+        "isquiotibiales",
+        "plantarflexores",
+        "relacion-longitud-tension",
+        "vectores-fuerza",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se evalúa isométricamente a los isquiotibiales?",
+        "¿Qué impacto tiene el ángulo de la cadera o rodilla en un test de isquiotibiales?"
+      ],
+      "related_terms": [
+        "evaluaciones monoarticulares",
+        "vectores de fuerza",
+        "posición de testeo"
+      ],
+      "relevance_score": 4,
+      "context_before": "El umbral absoluto estándar de 250N para evaluar la fiabilidad entre intentos no es apto para atletas de bajo peso.",
+      "context_after": "Inclusión de metodologías monoarticulares hacia las extremidades superiores con enfoque clínico (ASH Test)."
+    },
+    {
+      "id": "V03-018",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:38:35",
+      "end_timestamp": "00:39:32",
+      "start_seconds": 2315,
+      "end_seconds": 2372,
+      "duration_seconds": 57,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2315",
+      "title": "Evaluación isométrica de tren superior (ASH Test)",
+      "summary": "Las plataformas de fuerza son aplicables a valoraciones clínicas del tren superior (hombro). El ASH test detecta cambios fiables y diferencias concretas entre deportistas asintomáticos y pacientes sintomáticos de dolor de hombro, ideal para procesos de rehabilitación.",
+      "literal_quote": "But we also see that this assessment is sensitive to detect change, specifically change in asymptomatic versus symptomatic patients with shoulder pain. So we can start to use these force plates and force assessment designs in clinical settings and in that rehabilitation process.",
+      "full_transcript": "Isometric assessments are not only saved for the lower body. The inclusion of upper body isometric assessments such as the ASH test, which assess isometric shoulder strength in three different positions, which are clinically relevant to sports of overhead and swimming-based sports. What we see is that the assessment is arguably quite reliable for peak force, with some reliability identified recently for rapid force development as well. But we also see that this assessment is sensitive to detect change, specifically change in asymptomatic versus symptomatic patients with shoulder pain. So we can start to use these force plates and force assessment designs in clinical settings and in that rehabilitation process to monitor fatigue, to monitor symptoms, and potentially start to improve our athletes' health and performance.",
+      "keywords": [
+        "ash-test",
+        "tren-superior",
+        "rehabilitacion",
+        "hombro",
+        "pacientes-sintomaticos",
+        "fuerza-isometrica"
+      ],
+      "entities": [
+        "ASH test"
+      ],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Se pueden usar plataformas de fuerza para evaluar el tren superior?",
+        "¿Qué es el test ASH y para qué se usa en fisioterapia?"
+      ],
+      "related_terms": [
+        "test ASH",
+        "tren superior",
+        "rehabilitación de hombro"
+      ],
+      "relevance_score": 4,
+      "context_before": "Están ganando popularidad pruebas aisladas para isquiosurales y flexores plantares.",
+      "context_after": "El uso de plataformas para tests balísticos del tren superior (como flexiones con palmada) presenta serios inconvenientes técnicos."
+    },
+    {
+      "id": "V03-019",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:39:37",
+      "end_timestamp": "00:40:53",
+      "start_seconds": 2377,
+      "end_seconds": 2453,
+      "duration_seconds": 76,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2377",
+      "title": "Limitaciones de flexiones pliométricas en sensores uniaxiales",
+      "summary": "Realizar un countermovement push-up genera un arco de traslación pivotando sobre los pies. Al no ser un empuje puramente vertical, las plataformas uniaxiales calculan datos erróneos, por lo que no se recomiendan los tests balísticos de tren superior en estos dispositivos.",
+      "literal_quote": "When we consider a lot of the portable force plate solutions are uniaxial, they only assess vertical force production. However, a pushup like this would move it in a bit of an arc... So we're not then going to assess vertical-only force production.",
+      "full_transcript": "The final assessment I'm going to discuss is the use of a countermovement push-up, such as a countermovement jump, where we're expecting this take off the platform. However, the work here has a clear limitation. A force plate will assume the center of mass is traveling primarily vertically and only in that vertical plane. When we consider a lot of the portable force plate solutions are uniaxial, they only assess vertical force production. However, a pushup like this would move it in a bit of an arc. It has an axis around the feet. The fulcrum is the feet, so it will arc up and round. So we're not then going to assess vertical-only force production. So this can lead to inaccurate results, inaccurate interpretation, and ineffective programming and assessment. My suggestion would be to remove an upper body ballistic test using force plates such as this and favor more isometric and dynamic assessments which are more conventional in nature. But a countermovement push-up where you lead with a takeoff is inaccurate use of a force plate in this case.",
+      "keywords": [
+        "countermovement-push-up",
+        "plataformas-uniaxiales",
+        "fuerza-vertical",
+        "arco-movimiento",
+        "fulcro",
+        "test-balistico"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Precaución",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Se pueden medir flexiones explosivas en plataformas portátiles?",
+        "¿Por qué falla el cálculo de un countermovement push-up en la plataforma de fuerza?"
+      ],
+      "related_terms": [
+        "flexión pliométrica",
+        "sensores uniaxiales",
+        "fuerzas no verticales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las plataformas de fuerza son aplicables a valoraciones clínicas isométricas del tren superior (hombro).",
+      "context_after": "Se cambia de la recolección de datos a cómo analizar la inmensa cantidad de métricas que arrojan los softwares de fuerza."
+    },
+    {
+      "id": "V03-020",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:42:51",
+      "end_timestamp": "00:46:07",
+      "start_seconds": 2571,
+      "end_seconds": 2767,
+      "duration_seconds": 196,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2571",
+      "title": "Framework PODS para el análisis de métricas",
+      "summary": "Ante la saturación de métricas de los software (50 a >100), el marco de trabajo PODS (Person, Outcome, Driver, Strategy) permite estructurar la información: persona (masa), resultado (altura), métricas impulsadoras (RFD) y estrategia técnica (desplazamiento) para dar sentido a los datos.",
+      "literal_quote": "We need a framework to try and minimize the amount of data we're looking at. And one of the ways we can do that is... this PODS framework, looking at the use of the person... Then we need to consider the outcome... What force and driver metrics... What is the strategy to achieve that jump height?",
+      "full_transcript": "Within these two force plate manufacturers, we can get anywhere from 50 to 106 different metrics. And this presents an issue when we consider how, as practitioners, we're going to identify meaningful metrics that have implications on performance and metrics that are reliable and can be translated to coaches. We also see there's a difference in terminology... So we need a framework to try and minimize the amount of data we're looking at. And one of the ways we can do that is one of the drivers that I've been pushing is this PODS framework, looking at the use of the person, and this is the athlete, and this is the most important cog in the system, is what is the athlete saying? If it's for fatigue monitoring purposes, has their mass changed? Because my mass changes in fatigue through jump height alone... Then we need to consider the outcome. What is the outcome of the assessment? Is it the jump height? Is it the peak force they've performed in an isometric assessment?... But what underpins that outcome? And that's where the work from Marquez really strongly highlights, that we need to understand how they achieve the outcome. What force and driver metrics, so space-specific forces, and rate of force developments, potentially for isometric assessments or rapid force assessments are underpinning that peak force? What is the strategy to achieve that force? What is the strategy to achieve that jump height? What displacement have they gone through? And using this framework provides a really clear strategy to enhance practitioner interpretation.",
+      "keywords": [
+        "pods-framework",
+        "saturacion-metricas",
+        "estrategia-salto",
+        "analisis-datos",
+        "interpretacion-resultados"
+      ],
+      "entities": [
+        "Marquez"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo no abrumarse con las métricas de las plataformas de fuerza?",
+        "¿Qué significa el modelo PODS en biomecánica deportiva?"
+      ],
+      "related_terms": [
+        "marco de trabajo PODS",
+        "filtrado de métricas",
+        "estrategia vs resultado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los tests balísticos en el tren superior generan mediciones inconsistentes en plataformas de un solo eje vertical.",
+      "context_after": "Se utiliza este tipo de enfoques sistemáticos para estudiar la fase de aterrizaje en un salto, muy útil para el control de carga."
+    },
+    {
+      "id": "V03-021",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:46:08",
+      "end_timestamp": "00:48:51",
+      "start_seconds": 2768,
+      "end_seconds": 2931,
+      "duration_seconds": 163,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2768",
+      "title": "El análisis de aterrizajes para detectar fatiga",
+      "summary": "El impulso total del aterrizaje debe ser idéntico al propulsivo (por mera física), pero la estrategia para disipar esa fuerza cambia. Bajo fatiga, el atleta prolonga la duración del aterrizaje y disminuye las fuerzas pico absorbidas.",
+      "literal_quote": "So if they're going to hit the ground at the same momentum, their impulse needs to be the same. But what has changed is how they've dissipated those forces. So how they've extended that landing duration to decrease the forces experienced.",
+      "full_transcript": "So the one I've not really discussed is the use of landing. And landings, it's interesting within practice, because some practitioners love landing, especially medical and physiotherapists. They like to watch the landing to ensure mitigating injury risk. But when we think about it in a biomechanical term, the forces and the time experienced within the landing are going to be the same regardless of the jump height because of the impulse. So the landing is going to be identical to the propulsive impulse. The landing impulse is going to be identical to the propulsive impulse because it's dictated by the force and the momentum that mass hits the ground with. What does change is the peak forces, though. The peak forces achieved and the time that force is applied over, that could change, and that might be worth monitoring... Rebelo used this as a method to monitor fatigue, and this was from a drop landing, not necessarily from a countermovement jump itself. But he identified that with increased fatigue, the landing phase increased, so the duration of that landing and the resultant impact forces load. So that force time trace that may have looked like that subsequently was increased the duration with a lower height because they've still got to decelerate the same mass because they fall from a near identical height with a near identical body mass. So if they're going to hit the ground at the same momentum, their impulse needs to be the same. But what has changed is how they've dissipated those forces. So how they've extended that landing duration to decrease the forces experienced. And this is pretty reliable, and we see good absolute and relative reliability identified through a drop landing task. However, it is massively impacted by cueing again... So if we are going to monitor landing, we need to use consistent standardized cueing.",
+      "keywords": [
+        "landing-mechanics",
+        "aterrizaje",
+        "absorcion-impacto",
+        "fatiga",
+        "drop-landing",
+        "tiempo-aterrizaje"
+      ],
+      "entities": [
+        "Rebelo"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Indicador"
+      ],
+      "search_questions": [
+        "¿Cómo medir la fatiga analizando la caída en un salto?",
+        "¿Cambian las fuerzas de aterrizaje cuando el atleta está fatigado?"
+      ],
+      "related_terms": [
+        "fase de aterrizaje",
+        "disipación de fuerzas",
+        "duración del aterrizaje"
+      ],
+      "relevance_score": 4,
+      "context_before": "El marco de trabajo PODS (Person, Outcome, Driver, Strategy) permite estructurar e interpretar cómo el atleta (su estrategia y fuerzas) produce un resultado.",
+      "context_after": "Se profundiza en los ratios o índices de fuerza como el RSI o DSI, que pueden esconder perfiles engañosos si no se abren sus componentes."
+    },
+    {
+      "id": "V03-022",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:48:51",
+      "end_timestamp": "00:51:11",
+      "start_seconds": 2931,
+      "end_seconds": 3071,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2931",
+      "title": "Desglosando métricas de ratio (DSI)",
+      "summary": "En métricas como el Dynamic Strength Index (DSI) no basta con observar el ratio final. Un atleta muy fuerte puede tener un ratio desbalanceado requiriendo trabajo pliométrico, mientras que uno débil con un ratio 'equilibrado' simplemente necesita ganar fuerza base, no más pliometría.",
+      "literal_quote": "Whereas athlete one and two down at this 20 newtons per kilogram, you're probably going to argue they just need to get stronger. They don't need to increase their ballistic capabilities yet... We're not looking at single ratio metrics alone.",
+      "full_transcript": "Ratio metrics are increasingly prevalent within sport. Whether it's ratio metric from a single assessment, such as reactive strength index modified or reactive strength index, whether it's a combination of tasks, such as the dynamic strength index. Which is the conclusion of a countermovement jump, peak propulsive force, and peak force in an isometric mid-thigh pull... If we consider the dynamic strength index, where an athlete of lower than 0.6, as in athlete one, needs to work on ballistic training. Between 0.6 and 0.8, an athlete needs a combined training approach... Whereas an athlete above 0.8, so 0.8 to 1, needs to work on strength-generating capabilities. If we don't look at the component parts, we just follow this framework. We go, okay, athlete one needs to work on jumping, athlete two needs to work on a little bit of both, athlete three needs to work on strength. However, looking at the component parts, we actually see that athlete three is incredibly strong in comparison to athlete one and two. So it completely flips what we perceive because now we see that athlete three is really strong, so potentially we really need to look at how he's applied that force in that jump strategy... So he probably needs more ballistic and plyometric training. Whereas athlete one and two down at this 20 newtons per kilogram, you're probably going to argue they just need to get stronger. They don't need to increase their ballistic capabilities yet, because we know if we increase strength, their ability to use the stretch shortening cycle is also going to increase. So primarily, we need to ensure we're looking at the constituent parts. We're not looking at single ratio metrics alone.",
+      "keywords": [
+        "dsi",
+        "dynamic-strength-index",
+        "ratio-metrics",
+        "fuerza-base",
+        "pliometria",
+        "componentes"
+      ],
+      "entities": [
+        "Chris Bishop"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Precaución",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el Índice de Fuerza Dinámica (DSI)?",
+        "¿Por qué no hay que fiarse de un solo número en los ratios de fuerza?"
+      ],
+      "related_terms": [
+        "DSI",
+        "análisis de ratios",
+        "fuerza relativa vs pliometría"
+      ],
+      "relevance_score": 5,
+      "context_before": "Bajo fatiga, el atleta prolonga la duración del aterrizaje y disminuye las fuerzas pico absorbidas.",
+      "context_after": "Se aplica la misma lógica de los componentes subyacentes a la medición y categorización de asimetrías de miembros."
+    },
+    {
+      "id": "V03-023",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:51:12",
+      "end_timestamp": "00:55:58",
+      "start_seconds": 3072,
+      "end_seconds": 3358,
+      "duration_seconds": 286,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3072",
+      "title": "Contextualización de las asimetrías",
+      "summary": "Una asimetría alta entre piernas no es intrínsecamente mala si el atleta es muy fuerte. Se usa un cuadrante: ser 'asimétrico y fuerte' es funcional. El riesgo real, o la verdadera 'bandera roja', es ser 'simétrico pero débil' o 'asimétrico y débil'.",
+      "literal_quote": "So if our asymmetry is high, but we're also strong, that's not a bad thing... We could be symmetrical, but if we are weak, we're at increased risk of injury anyway. So we need to get stronger, and that red flag is a large asymmetry and being weak.",
+      "full_transcript": "And asymmetry is always a bit of a contentious topic around, is an asymmetry actually bad? If we get an asymmetry value, is it inherently a poor system? And arguably, there's a lot of issues with asymmetries themselves. And we see that when we look at the different asymmetry equations we could use... So again, we still need to look at the constituent parts regardless of what method we look at the asymmetries... So Dos Santos followed this up and provided really clear considerations when interpreting asymmetries... What is the equation? What thresholds are we looking at?... What about the athlete themselves, the most important piece of this? Are they in a fatigued state? Are they coming back from injury?... If a sport has asymmetrical actions, they're likely to possess inherent asymmetries, which are not injury risk at all... Out of athlete A and B, if we didn't look at the constituent parts and only considered the asymmetry, we'd say athlete B is at a lower risk of injury. But both athlete A and athlete B got substantially weaker... athlete B reduced his asymmetry substantially, but also got substantially weaker on his dominant limb. So this presents an issue because strength is a key risk factor for future injuries. So if our asymmetry is high, but we're also strong, that's not a bad thing. And this is the framework that should be used when assessing asymmetries. And this was identified by Dos Santos in this kind of quadrant-based system. We can be symmetrical and strong. That is the best-case scenario. But we can also be asymmetrical and strong. We can have a high-performance output and have a difference between limbs. So there's maybe a window for development in the non-dominant limb or the lower quality limb, but it's not a bad thing We could be symmetrical, but if we are weak, we're at increased risk of injury anyway. So we need to get stronger, and that red flag is a large asymmetry and being weak.",
+      "keywords": [
+        "asimetrias",
+        "fuerza",
+        "riesgo-lesion",
+        "cuadrante",
+        "simetria",
+        "weakness"
+      ],
+      "entities": [
+        "Dos Santos"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Decisión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Tener asimetría en las piernas aumenta el riesgo de lesión?",
+        "¿Cómo se interpreta el cuadrante de asimetrías de fuerza?"
+      ],
+      "related_terms": [
+        "asimetría",
+        "fuerza unilateral",
+        "bandera roja"
+      ],
+      "relevance_score": 5,
+      "context_before": "En métricas como el Dynamic Strength Index (DSI) no basta con observar el ratio final. Un atleta puede tener un ratio equilibrado pero requerir fuerza base.",
+      "context_after": "Se enfoca el análisis al ámbito clínico de la rehabilitación de LCA y los déficits ocultos en la producción de fuerza."
+    },
+    {
+      "id": "V03-024",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "00:58:38",
+      "end_timestamp": "01:00:10",
+      "start_seconds": 3518,
+      "end_seconds": 3610,
+      "duration_seconds": 92,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3518",
+      "title": "Déficit de Rapid Force en el RTP de Ligamento Cruzado (LCA)",
+      "summary": "Tras una reconstrucción de LCA, los atletas recuperan la fuerza pico, pero a menudo presentan déficits ocultos en el desarrollo rápido de fuerza (RFD). La pierna lesionada apenas alcanza un 50-60% de su capacidad relativa, lo que es crítico ya que las roturas de LCA ocurren en fracciones de segundo.",
+      "literal_quote": "We can see rapid force within the injured limb only produced between 50% and 60% of their relative peak force, whereas the uninjured limb was closer to 80%... But when we consider ACLs, the incidence happens within under half a second.",
+      "full_transcript": "That returns to sport and that-- We have the considerations that Matt Taberner presented in that ACL rehabilitation. Using the isometric assessments seen here, we've tested a female athlete's return to performance from an ACL. What we see over the time period is an increase in peak force and a decrease in the interlimb differences. And this is observed for both the injured and uninjured limb. However, their rapid force production was still down, especially when normalized to peak force. So we can see rapid force within the injured limb only produced between 50% and 60% of their relative peak force, whereas the uninjured limb was closer to 80%. So this presents an issue where our athletes still not be able to produce force rapidly, and this is consistent across the literature in rapid force assessments for post-ACL injury, is that this is a clear feature that is often neglected. But when we consider ACLs, the incidence happens within under half a second. We need the ability to produce force rapidly, both for the quadriceps and the hamstrings, to ensure stability of the knee.",
+      "keywords": [
+        "acl",
+        "lca",
+        "return-to-play",
+        "rapid-force",
+        "rfd",
+        "fuerza-explosiva",
+        "deficit"
+      ],
+      "entities": [
+        "Matt Taberner"
+      ],
+      "topics": [
+        "Return to Play"
+      ],
+      "content_type": [
+        "Indicador",
+        "Precaución"
+      ],
+      "search_questions": [
+        "¿Por qué falla la readaptación del ligamento cruzado anterior?",
+        "¿Qué es más importante tras una lesión de LCA: la fuerza pico o el desarrollo de la fuerza?"
+      ],
+      "related_terms": [
+        "readaptación de LCA",
+        "desarrollo rápido de la fuerza",
+        "tasa de producción de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Una asimetría alta entre piernas no es intrínsecamente mala si el atleta es muy fuerte. El riesgo real es ser débil.",
+      "context_after": "Finalmente, se destaca el papel de un analista o científico deportivo: transformar toneladas de datos fríos en visualizaciones claras y 'sabiduría' aplicable."
+    },
+    {
+      "id": "V03-025",
+      "video_title": "Accurate data collection of force-time data",
+      "speaker": "Nicholas Ripley",
+      "start_timestamp": "01:04:28",
+      "end_timestamp": "01:08:35",
+      "start_seconds": 3868,
+      "end_seconds": 4115,
+      "duration_seconds": 247,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3868",
+      "title": "Data Literacy y Visualización de Datos",
+      "summary": "Los datos deben contar una historia mediante una correcta visualización. Hay que maximizar el ratio dato/tinta (sin gráficos saturados), mostrar valores reales, proveer contexto mediante Z-scores, identificar a tu público y visualizar la dispersión o el margen de error de las métricas.",
+      "literal_quote": "We're trying to convey a message in this. We're collecting this data to convey a message, and the way we do that, we don't just collect data. We give the data context... In most cases, we should attempt to show the actual data. We shouldn't hide data under bar charts.",
+      "full_transcript": "So we've collected our data, we know the purposes behind our data... but how do you report it? And that's predominantly through data visualization. The use of data analysis and reporting is an essential skill in strength and conditioning employment. For sports scientists, it's over 40%... And what it comes down to is data literacy, and this requires us to be able to collect data, but also then clean it, make sure it's accurate and reliable, ensure we can analyze and visualize it, but also then off the back end, communicate stories from it. And I really like that word, stories, because that is what we're trying to do. We're trying to convey a message in this. We're collecting this data to convey a message, and the way we do that, we don't just collect data. We give the data context. We provide it some information. Is it in-season, pre-season?... So that context then becomes information. If we provide meaning to that... So if we had knowledge, we know if we see that drop in peak force, there's the potential of relating to demands of the sport, potential risk to injury, and that's where we then provide that insight... So these kind of wisdoms, these stories that we're trying to convey, need to be presented well and presented effectively... The first one is thinking about the data earning ratio. We want to ensure we're maximizing the data that's being presented, removing clutter... Know the purpose of the data. What is the visualization you're trying to present?... In most cases, we should attempt to show the actual data. We shouldn't hide data under bar charts... We should embed within context, and one of the ways we can embed within context is the use of normative datasets, the creation of Z-scores and T-scores... and then finally, display uncertainty. We know a single data point is not going to be the exact value. There's always going to be a range. We're going to have some noise within that signal. So providing an indication of that noise provides an understanding if a change is a true change.",
+      "keywords": [
+        "data-visualization",
+        "data-literacy",
+        "visualizacion-datos",
+        "contexto",
+        "z-score",
+        "ruido-senal"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe presentar un preparador físico sus datos?",
+        "¿Cuáles son los principios de visualización de datos en ciencias del deporte?"
+      ],
+      "related_terms": [
+        "Data Literacy",
+        "ratio dato-tinta",
+        "Z-scores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Tras una reconstrucción de LCA, los atletas recuperan la fuerza pico, pero a menudo presentan déficits ocultos en el desarrollo rápido de fuerza (RFD).",
+      "context_after": "Se concluye el webinar recordando la importancia de seguir procedimientos operativos estándar y asegurar que cada test sirva para obtener conocimiento accionable."
+    }
+  ]
+}
