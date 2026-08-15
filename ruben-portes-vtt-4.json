@@ -1,0 +1,293 @@
+{
+  "video": {
+    "video_id": "V_RUBEN_04",
+    "video_title": "Fuerza en Euroliga: Planificación o reacción",
+    "speaker": "Rubén Portes",
+    "total_duration": "00:15:36",
+    "total_duration_seconds": 936,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_RUBEN_04-001",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:03:26",
+      "start_seconds": 2,
+      "end_seconds": 206,
+      "duration_seconds": 204,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Integración de la movilidad y la condición física en la rutina diaria",
+      "summary": "Para optimizar el tiempo, el trabajo de movilidad se incluye estratégicamente en activaciones previas o calentamientos, reduciendo la carga y aumentando el rango de movimiento. La condición física se trabaja de forma específica en la pista o mediante trabajos compensatorios para aquellos jugadores con menor exposición competitiva, jóvenes o en retorno de lesión.",
+      "literal_quote": "Por ejemplo, la movilidad la vamos a poder hacer en activaciones específicas previas... la condición la vamos a realizar en entrenamientos en pista, que va a ser cuando más específica sea y más se vaya a acercar a la demanda que vamos a tener en competición.",
+      "full_transcript": "Dentro de esa optimización del tiempo, lo que vamos a intentar es darle cabida a todas las capacidades que nosotros queremos trabajar dentro de todas las opciones que tenemos en la organización diaria del equipo. Por ejemplo, si hablamos de trabajo de movilidad o de condición... Por ejemplo, la movilidad la vamos a poder hacer en activaciones específicas previas a ciertas sesiones de entrenamiento que no van a tener una sesión de fuerza específica antes o después, dependiendo de la preferencia del jugador... Tenemos que ser capaces de marcar esas activaciones previas a la cancha, que las vamos a poder utilizar como trabajo de movilidad. Los calentamientos en pista también los vamos a poder utilizar como trabajo de movilidad con otras características... ¿cómo podemos realizar un trabajo de movilidad previo en una activación? ...podemos reducir la resistencia de la carga o podemos reducir la carga a un ejercicio específico y podemos aumentar el rango de movimiento a unos rangos que habitualmente en un trabajo de fuerza específico no llegaríamos... En cuanto a la condición, la vamos a realizar en entrenamientos en pista, que va a ser cuando más específica sea y más se vaya a acercar a la demanda que vamos a tener en competición... También lo vamos a hacer en trabajos compensatorios, en jugadores con menos exposición competitiva o en jugadores con necesidades o con demandas especiales o específicas, que pueden ser, en este caso, jugadores jóvenes, jugadores que vuelven de lesión o jugadores que tienen que mejorar un aspecto determinado.",
+      "keywords": [
+        "optimizacion-tiempo",
+        "movilidad",
+        "condicion-fisica",
+        "activaciones",
+        "trabajo-compensatorio",
+        "rango-movimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuándo se debe trabajar la movilidad en un calendario denso?",
+        "¿Cómo se puede aumentar el rango de movimiento en las activaciones previas?",
+        "¿Quiénes deben realizar trabajos compensatorios de condición física?"
+      ],
+      "related_terms": [
+        "activaciones previas",
+        "trabajos compensatorios",
+        "rango de movimiento",
+        "exposición competitiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Anteriormente se definió la fuerza como la capacidad reina y la necesidad absoluta de optimizar las ventanas de tiempo disponibles.",
+      "context_after": "Se detallan las diferentes formas y momentos de incluir específicamente el trabajo analítico de fuerza durante las sesiones dirigidas."
+    },
+    {
+      "id": "V_RUBEN_04-002",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:03:26",
+      "end_timestamp": "00:05:12",
+      "start_seconds": 206,
+      "end_seconds": 312,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=206",
+      "title": "Formatos de implementación del trabajo de fuerza en el calendario",
+      "summary": "El entrenamiento de fuerza se organiza en la plantilla a través de distintos formatos: sesiones específicas dirigidas y planificadas en calendario, actividades orientadas a la mejora (ej. ejercicios en cancha con implementos contra resistencia), y sesiones compensatorias exclusivas para equilibrar el déficit mecánico en quienes no tuvieron suficientes minutos de juego.",
+      "literal_quote": "Si nosotros ya nos dirigimos directamente al tema que nos ocupa hoy, que es la fuerza, lo vamos a intentar incluir, por ejemplo, dentro de sesiones específicas dirigidas... Podemos tener actividades orientadas a la mejora... Luego tenemos las sesiones compensatorias...",
+      "full_transcript": "Si nosotros ya nos dirigimos directamente al tema que nos ocupa hoy, que es la fuerza, lo vamos a intentar incluir, por ejemplo, dentro de sesiones específicas dirigidas, que son esas sesiones que nosotros vamos a incluir dentro del calendario de la plantilla. Que vamos a decir: tal día, a tal hora, tenemos una sesión de trabajo de fuerza... que va a ser planificada y dirigida por el profesional, y el deportista ya sabe que tiene que cumplir con ella. Podemos tener actividades orientadas a la mejora, que van a tener que ver con trabajos previos a la pista muy específicos para cada jugador y que no requieren estar en el gimnasio, sino que, por ejemplo, va a ser en cancha con implementos determinados... un ejercicio contra resistencia en avance con un bote de balón... Además... cuando se acaba la sesión específica de fuerza, es posible que tengamos que salir a pista y estar trabajando de manera individual durante cuatro o cinco minutos con cada jugador, con una tarea específica que le va a ayudar a mejorar su fuerza específica en su demanda competitiva determinada. Luego tenemos las sesiones compensatorias en las que, como os he dicho, va a haber jugadores que no han estado expuestos todo lo necesario a ese estímulo competitivo y les vamos a dar, mediante una sesión de fuerza, ese estímulo a nivel muscular o mecánico que necesita o que no ha tenido durante la competición.",
+      "keywords": [
+        "sesiones-especificas",
+        "actividades-mejora",
+        "sesiones-compensatorias",
+        "resistencia",
+        "estimulo-mecanico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué tipos de sesiones de fuerza se pueden programar en baloncesto profesional?",
+        "¿Qué son las actividades orientadas a la mejora de la fuerza en cancha?",
+        "¿Por qué son importantes las sesiones compensatorias de fuerza post-partido?"
+      ],
+      "related_terms": [
+        "sesiones dirigidas",
+        "implementos en cancha",
+        "déficit mecánico",
+        "estímulo competitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la integración de los cubos de movilidad y condición en las activaciones y el campo.",
+      "context_after": "El ponente amplía el uso de las sesiones de testeo, explicando cómo éstas también sirven como un poderoso estímulo de activación de fuerza."
+    },
+    {
+      "id": "V_RUBEN_04-003",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:05:12",
+      "end_timestamp": "00:06:17",
+      "start_seconds": 312,
+      "end_seconds": 377,
+      "duration_seconds": 65,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=312",
+      "title": "El doble propósito de las sesiones de testeo isométrico",
+      "summary": "Las pruebas de evaluación isométrica no solo cumplen la función de medir datos, sino que se utilizan estratégicamente como un entrenamiento de fuerza en sí mismo. Estas sesiones son ideales para activaciones previas al partido o para tratar condiciones clínicas, como tendinopatías, generando una activación muscular efectiva y segura.",
+      "literal_quote": "Por último, las sesiones de testeo las incluyo dentro del trabajo de fuerza porque muchas veces nos ayudan... a realizar, por ejemplo, una sesión previa un día de partido o activar a un jugador, por ejemplo, con una tendinopatía.",
+      "full_transcript": "Por último, las sesiones de testeo las incluyo dentro del trabajo de fuerza porque muchas veces nos ayudan en determinado tipo de casos a realizar, por ejemplo, una sesión previa un día de partido o activar a un jugador, por ejemplo, con una tendinopatía. Todo ese tipo de sesiones específicas de testeo en fuerza isométrica nos van a ayudar, en momentos específicos y con jugadores determinados, van a ser muy prácticas y las incluyo dentro de todo lo que tiene que ver con el trabajo de fuerza. Dentro de nuestras sesiones de testeo, solemos incluir todo tipo de movimientos: de flexión, de extensión, de abducción. Entonces, cuando el jugador termina esa sesión de testeo, que incluye una serie de repeticiones de activación previas, va a estar realmente muy activado y va a haber hecho un trabajo isométrico que le va a servir incluso para la mejora a nivel de capacidad muscular.",
+      "keywords": [
+        "sesiones-testeo",
+        "fuerza-isometrica",
+        "activacion",
+        "tendinopatia",
+        "capacidad-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se incluyen las sesiones de testeo dentro del trabajo de fuerza?",
+        "¿Cómo ayuda el testeo isométrico a jugadores con tendinopatía?",
+        "¿Qué beneficio físico secundario aporta una sesión de testeo isométrico?"
+      ],
+      "related_terms": [
+        "testeo isométrico",
+        "activación muscular",
+        "tendinopatía",
+        "activación previa al partido"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los distintos formatos para aplicar entrenamiento de fuerza, como las sesiones dirigidas o compensatorias.",
+      "context_after": "Se hace una distinción profunda entre orientar los ejercicios hacia un componente puramente mecánico versus uno neuromuscular."
+    },
+    {
+      "id": "V_RUBEN_04-004",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:06:17",
+      "end_timestamp": "00:08:11",
+      "start_seconds": 377,
+      "end_seconds": 491,
+      "duration_seconds": 114,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=377",
+      "title": "Diferenciación entre el componente mecánico y neuromuscular de la fuerza",
+      "summary": "Al programar la fuerza, el preparador debe distinguir entre dos componentes clave: el mecánico (mayor tiempo bajo tensión, menor velocidad de contracción, orientado a tolerancia tisular y cargas altas recurrentes) y el neuromuscular (menor carga, ejecución muy rápida en corto tiempo, ideal para generar explosividad). El contexto dictará cuál aplicar.",
+      "literal_quote": "Podemos tener un componente mecánico de la fuerza, el aumento de esa tolerancia tisular... O tenemos ese componente neuromuscular en el que vamos a buscar que esa demanda neuromuscular sea mayor...",
+      "full_transcript": "Si miramos los componentes de la fuerza, a los que nosotros podemos estar atentos dentro de un calendario de Euroliga o dentro del marco de trabajo de un jugador de Euroliga, podemos tener un componente mecánico de la fuerza, el aumento de esa tolerancia tisular a la carga. Un aumento de la tolerancia a esa carga va a ser en una menor velocidad de contracción, normalmente, y va a haber un mayor tiempo bajo tensión. Ese va a ser un componente que nosotros vamos a utilizar, como vamos a ver después, por ejemplo, en jugadores que han tenido una carga competitiva más alta... O tenemos ese componente neuromuscular en el que vamos a buscar que esa demanda neuromuscular sea mayor y en el que vamos a utilizar, por necesidad, una menor carga a una mayor velocidad de contracción, y va a haber un menor tiempo bajo tensión, pero nos va a obligar a hacer ese esfuerzo en un menor tiempo y con un menor tiempo disponible para realizar esa contracción... Dependiendo de lo que necesitemos, tenemos que ser capaces de dar uno u otro. Y aunque no es el tema que nos ocupa, igualmente la pista. No son lo mismo las demandas que nosotros le pedimos a un jugador que realice en un esfuerzo en media pista, en tres por tres, que en cancha completa. Entonces, tenemos que saber identificar qué necesita el jugador o qué componente necesita el jugador en mayor medida para ser capaz de dárselo...",
+      "keywords": [
+        "componente-mecanico",
+        "componente-neuromuscular",
+        "tolerancia-tisular",
+        "tiempo-bajo-tension",
+        "velocidad-contraccion",
+        "euroliga"
+      ],
+      "entities": [
+        "Euroliga"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre el componente mecánico y neuromuscular del entrenamiento de fuerza?",
+        "¿Cuándo se debe aplicar un mayor tiempo bajo tensión en el trabajo de fuerza?",
+        "¿Cómo afectan las demandas de la cancha a la elección del componente de fuerza a trabajar?"
+      ],
+      "related_terms": [
+        "componente mecánico",
+        "componente neuromuscular",
+        "tiempo bajo tensión",
+        "tolerancia tisular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el uso de las pruebas isométricas como medio de activación muscular y testeo simultáneo.",
+      "context_after": "Se introducen los cuatro perfiles de exposición competitiva que determinan cómo se aplicarán estos componentes mecánicos y neuromusculares."
+    },
+    {
+      "id": "V_RUBEN_04-005",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:08:11",
+      "end_timestamp": "00:13:18",
+      "start_seconds": 491,
+      "end_seconds": 798,
+      "duration_seconds": 307,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=491",
+      "title": "Ajuste de fuerza para jugadores con carga alta e intermitente",
+      "summary": "Para los jugadores de alta carga competitiva recurrente (que en este equipo juegan un máximo de 25 min), el trabajo post-partido se centra en el componente mecánico (fuerza máxima/submáxima) complementado con movilidad. Los de carga intermitente son más complejos: requieren una mezcla de ambos componentes (mecánico y neuromuscular) imitando los movimientos explosivos que no pudieron completar en la pista debido a la irregularidad de sus minutos.",
+      "literal_quote": "La fuerza, para estos jugadores [con carga alta recurrente], tiene un componente más mecánico... Su trabajo de fuerza, en este caso [con carga intermitente], va a estar más orientado a un componente también mecánico, pero también va a tener un componente neuromuscular.",
+      "full_transcript": "Si nos vamos a los perfiles de trabajo específico de la fuerza, vamos a tener un perfil de jugadores con alta carga competitiva de manera recurrente... Vamos a tener jugadores con carga competitiva intermitente... Jugadores con carga competitiva insuficiente... y jugadores con necesidades de desarrollo específica... Si nos vamos a esos jugadores con carga competitiva recurrente, vamos a tener que utilizar, por ejemplo, las activaciones previas a entrenamientos, intentando explorar movimientos en todos los planos para ser capaces de darles también... ese componente de movilidad necesario para volver a resetearles... Tenemos también, o podemos desarrollar esos programas de fuerza en sesiones específicas, normalmente pospartidos. Aquí ya es muy personal... pero normalmente, si se propone y se suele hacer de manera habitual, no suele haber ningún problema y es un muy buen momento para darle... al deportista un estímulo de trabajo de fuerza continuado poscompetitivo para que el día siguiente pueda ser de descanso total. Normalmente... el que más juegue esté en torno a 24 o 25 minutos, y eso nos permite ser un poco más extensos en el trabajo de fuerza pospartido. La fuerza, para estos jugadores, tiene un componente más mecánico. Estamos moviéndonos dentro de una fuerza máxima o submáxima... Si nos vamos al perfil de jugadores con carga competitiva intermitente... Habrá sesiones específicas también pospartido... Su trabajo de fuerza, en este caso, va a estar más orientado a un componente también mecánico, pero también va a tener un componente neuromuscular... vamos a intentar darles un movimiento que se asemeje un poco más a esa carga que no han tenido en la pista, al contrario que sus compañeros, que sí han estado durante un tiempo suficiente en la pista como para tener ese estímulo neuromuscular suficiente. El volumen de trabajo va a depender un poco del contexto en ellos... a veces están entre lo que podemos considerar una carga alta o una carga baja... quizás sean los más dependientes de contexto del grupo...",
+      "keywords": [
+        "carga-recurrente",
+        "carga-intermitente",
+        "post-partido",
+        "componente-mecanico",
+        "componente-neuromuscular",
+        "fuerza-maxima"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica la fuerza en jugadores con alta carga de minutos?",
+        "¿Por qué los jugadores de carga intermitente necesitan estímulos neuromusculares post-partido?",
+        "¿Es conveniente entrenar fuerza el mismo día después del partido?"
+      ],
+      "related_terms": [
+        "carga competitiva recurrente",
+        "carga competitiva intermitente",
+        "trabajo pospartido",
+        "movimientos explosivos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se diferenció previamente entre usar fuerzas con tiempos bajo tensión largos y cargas veloces neuromusculares.",
+      "context_after": "El análisis de perfiles de carga concluye describiendo qué hacer con aquellos que directamente no juegan (insuficientes) o son jóvenes en desarrollo."
+    },
+    {
+      "id": "V_RUBEN_04-006",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:13:18",
+      "end_timestamp": "00:15:36",
+      "start_seconds": 798,
+      "end_seconds": 936,
+      "duration_seconds": 138,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=798",
+      "title": "Maximización del volumen de fuerza en perfiles con déficit competitivo",
+      "summary": "Los jugadores descartados de convocatoria (carga insuficiente) o jóvenes (desarrollo específico) requieren un abanico completo de trabajo físico. Para compensar la falta de minutos, se les aplican volúmenes de fuerza significativamente más altos y estímulos neuromusculares fuertes para forzar adaptaciones, igualarlos al grupo titular y protegerlos ante lesiones.",
+      "literal_quote": "El volumen de trabajo de fuerza de estos jugadores es más alto, o es un volumen de fuerza alto para generar adaptaciones, si lo comparamos con el de sus compañeros... para que esos valores lleguen a los que nosotros esperamos para poder competir y para poder estar con un nivel óptimo de protección a nivel lesional.",
+      "full_transcript": "Vamos a tener los jugadores con carga competitiva insuficiente y ahí vamos a tener... ese trabajo de movilidad previo... Vamos a tener las sesiones específicas pre y pospartido, en las que vamos a poder darles, si no están convocados, un trabajo más extenso... El trabajo de fuerza con ellos tiene ya un volumen más alto, como he dicho con anterioridad, y un componente también más alto de carga neuromuscular. Porque lo que queremos es, como hemos dicho y como no repetiré veces suficiente en esta ponencia, darle al jugador lo que no está teniendo. Darle al jugador ese estímulo que no está teniendo para precisamente que esté preparado para soportarlo. Y como he dicho, el volumen de trabajo de fuerza de estos jugadores es más alto, o es un volumen de fuerza alto para generar adaptaciones, si lo comparamos con el de sus compañeros. Por último, tenemos jugadores con necesidades de desarrollo específicas y... van a estar con sus compañeros en el partido, sentados en la banda, si no están convocados, pero tienen que trabajar el día de partido también. Es un abanico de trabajo de fuerza completo, es decir, vamos a darle todo lo que es ese trabajo en toda la curva completa de la fuerza. Y el volumen es un volumen de trabajo de fuerza alto para que, como he dicho, sean capaces de generar las adaptaciones suficientes, sobre todo para estar al nivel de sus compañeros que más juegan o de estar al nivel de la media de sus compañeros. Si tienen valores... que no son los óptimos, vamos a tener que darles un volumen suficiente para que esos valores lleguen a los que nosotros esperamos para poder competir y para poder estar con un nivel óptimo de protección a nivel lesional.",
+      "keywords": [
+        "carga-insuficiente",
+        "desarrollo-especifico",
+        "volumen-alto",
+        "curva-fuerza",
+        "adaptaciones",
+        "prevencion-lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué volumen de fuerza requieren los jugadores que no son convocados para los partidos?",
+        "¿Cómo se iguala el estado de forma de los jugadores jóvenes con el del grupo titular?",
+        "¿Por qué los jugadores con carga insuficiente necesitan estímulos neuromusculares altos?"
+      ],
+      "related_terms": [
+        "carga competitiva insuficiente",
+        "necesidades de desarrollo específicas",
+        "volumen de trabajo alto",
+        "protección lesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que los jugadores con alta carga solo requieren un trabajo mecánico post-partido de mantenimiento.",
+      "context_after": "Finalización de la exposición sobre los 4 perfiles y cómo la distribución de estímulos se diseña de manera hiperindividualizada según el ritmo de la liga."
+    }
+  ]
+}

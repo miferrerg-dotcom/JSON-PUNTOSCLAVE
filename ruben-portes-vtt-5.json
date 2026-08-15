@@ -1,0 +1,341 @@
+{
+  "video": {
+    "video_id": "V_RUBEN_05",
+    "video_title": "Fuerza en Euroliga: Planificación o reacción",
+    "speaker": "Rubén Portes",
+    "total_duration": "00:19:30",
+    "total_duration_seconds": 1170,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_RUBEN_05-001",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:02:43",
+      "start_seconds": 3,
+      "end_seconds": 163,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Estructura de las activaciones previas al entrenamiento",
+      "summary": "Las activaciones previas buscan reducir el estado de alerta del jugador mediante estimulación neurocognitiva. A partir de ahí, se exploran rangos de movimiento poco habituales con movimientos lentos y bilaterales, transicionando a unilaterales de estabilización, finalizando con tareas multiarticulares de carga cognitiva leve. Siempre en volúmenes bajos.",
+      "literal_quote": "Lo que me gusta utilizar es una activación neurocognitiva al principio para reducir ese estado de alerta y esa restricción de movimiento que el jugador va a tener bajo el efecto de esa carga continuada.",
+      "full_transcript": "Si entramos en lo que tiene que ver con el contenido de cada una de esas acciones que nosotros hemos seleccionado para darle estímulo a cada perfil de deportista que tenemos dentro de la plantilla, entramos en todo lo que tiene que ver con activaciones previas a entrenamientos en las que queremos explorar todos los movimientos en todos los planos para hacer al jugador más rico en todo lo que tiene que ver con su capacidad de moverse en las demandas que va a tener luego en pista. Lo que me gusta utilizar es una activación neurocognitiva al principio para reducir ese estado de alerta y esa restricción de movimiento que el jugador va a tener bajo el efecto de esa carga continuada que tiene. Entonces, vamos a reducir ese estado de alerta primero con ejercicios de estimulación neurocognitiva y a partir de ahí, vamos a empezar a hacer movimientos lentos para aumentar el rango de movimiento, por ejemplo, a nivel bilateral, de menor a mayor rango de movimiento, en movimientos o en rangos de movimiento que habitualmente el deportista no alcanza, para mejorar, como hemos dicho, mediante el trabajo de fuerza o mediante carga externa, esa capacidad de moverse en esos rangos necesarios. Luego podemos, por ejemplo, transicionar a movimientos unilaterales en los que va a haber un componente de estabilización alto, aunque nos vamos a mover todavía a velocidades lentas y con cargas bajas. Pero sí que vamos a movernos en esos rangos que no son habituales para el deportista, para también explorarlos y para darles esa riqueza en el movimiento. Podemos terminar, por ejemplo, con movimientos multiarticulares, con esa necesidad de estabilización, en la que haya una necesidad coordinativa y en la que pongamos el último componente, que es ese componente a nivel cognitivo que vamos a tener que dar a ese último momento previo a la siguiente actividad que vamos a hacer, que pueda ser, por ejemplo, entrar en pista o tener una sesión de fuerza específica con el deportista en cuestión. Si luego tenemos en cuenta el volumen, es un volumen bajo, porque es un trabajo que nosotros vamos a realizar previo o como activación a una actividad posterior. Entonces, siempre trabajamos en volúmenes bajos esas activaciones y quizá con un mayor componente de ejercicios, un mayor número de ejercicios, pero con un volumen bajo de repeticiones. Esto nos hace, como decimos, explorar el movimiento en todos los planos sin sobrecargar al deportista previo a ese esfuerzo que tiene que realizar, bien sea en pista o en ese trabajo específico de fuerza.",
+      "keywords": [
+        "activaciones-previas",
+        "neurocognitiva",
+        "rango-movimiento",
+        "estabilizacion",
+        "volumen-bajo",
+        "movimientos-lentos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran las activaciones previas al entrenamiento?",
+        "¿Qué función tiene la activación neurocognitiva en baloncesto?",
+        "¿Por qué se utilizan movimientos lentos y de bajo volumen antes de la pista?"
+      ],
+      "related_terms": [
+        "estado de alerta",
+        "estimulación neurocognitiva",
+        "rango de movimiento",
+        "trabajo multiarticular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Anteriormente se definió qué hacer con los jugadores de carga insuficiente frente a los de alta carga, marcando la necesidad de optimizar ventanas temporales.",
+      "context_after": "Se detalla cómo es la sesión específica postpartido para el perfil de jugador que ha acumulado muchos minutos."
+    },
+    {
+      "id": "V_RUBEN_05-002",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:02:44",
+      "end_timestamp": "00:04:51",
+      "start_seconds": 164,
+      "end_seconds": 291,
+      "duration_seconds": 127,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=164",
+      "title": "Sesiones postpartido para jugadores con alta carga",
+      "summary": "Para los jugadores que superan los 12 minutos (considerada alta carga por el estilo de juego del equipo), la sesión postpartido se centra en movimientos bilaterales lentos al 80% del RM (RPE 8). El objetivo es mantener tensión mecánica suficiente para preparar los tejidos sin añadir excesivo volumen.",
+      "literal_quote": "Si nosotros tenemos este tipo de jugador, lo que vamos a tender es a darle movimientos bilaterales en torno a ese 8 RP o a un 80 % del RM, a una menor velocidad y a un bajo volumen.",
+      "full_transcript": "Si miramos esas sesiones, por ejemplo, específicas postpartidos para esos jugadores que van a tener una mayor carga competitiva, y que cada uno pone en ese sentido su línea base donde quiere, puede ser 12 minutos o puede ser 15 minutos, dependiendo de cuál es el contexto que tengas. Para nosotros, por ejemplo, un jugador que ha jugado entre 10 y 12 minutos, es un jugador que ya ha tenido una carga competitiva alta, porque nuestro estilo de juego así lo demanda. El jugador está en pista y está ejerciendo un esfuerzo de un nivel muy alto. La exigencia que tiene por parte tanto del cuerpo técnico como del estilo de juego que nosotros ejecutamos es muy elevada y la densidad competitiva también lo es. Es posible que a los dos días tengamos otro partido. Entonces, tenemos que tener en cuenta eso para determinar y delimitar qué jugadores tienen una carga competitiva alta y cuál no tanto. También hay que tener en cuenta el contexto de si son jugadores que habitualmente están en ese entorno de minutos o que hoy han jugado ese número de minutos por una cuestión excepcional. Si habitualmente juegan 12 minutos, podría no ser una carga alta o no ser tan alta que un jugador que habitualmente juega 20 y hoy, por ejemplo, ha jugado 12. Hay que tener en cuenta todos esos factores. Pero aquí necesitamos poner o dibujar una línea base y la dibujamos, por ejemplo, en los 12 minutos. Entonces, si nosotros tenemos este tipo de jugador, lo que vamos a tender es a darle movimientos bilaterales en torno a ese 8 RP o a un 80 % del RM, a una menor velocidad y a un bajo volumen, obviamente, porque ese trabajo ya está hecho dentro de la competición. Entonces, vamos a darle, como hemos comentado antes, lo que no ha tenido durante ese periodo competitivo, y son movimientos lentos y con una alta demanda a nivel de intensidad, a nivel de esfuerzo, en los que vamos a intentar mover esa carga y tener ese tiempo de baja tensión suficiente para preparar esas estructuras y esos tejidos para soportar esa carga que el jugador tiene de manera normalmente habitual.",
+      "keywords": [
+        "alta-carga",
+        "postpartido",
+        "8-rpe",
+        "80-rm",
+        "tiempo-bajo-tension",
+        "movimientos-bilaterales"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué trabajo de fuerza se hace postpartido con jugadores de alta carga?",
+        "¿Por qué se consideran 12 minutos como alta carga en este contexto?",
+        "¿A qué RPE deben trabajar los jugadores que han jugado muchos minutos?"
+      ],
+      "related_terms": [
+        "carga competitiva alta",
+        "línea base de minutos",
+        "tensión mecánica",
+        "preparación de tejidos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló la activación inicial neurocognitiva previa al entrenamiento en pista.",
+      "context_after": "Se contrasta este enfoque con el diseño de sesión postpartido para jugadores que no han alcanzado el umbral de los 12 minutos."
+    },
+    {
+      "id": "V_RUBEN_05-003",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:04:51",
+      "end_timestamp": "00:06:13",
+      "start_seconds": 291,
+      "end_seconds": 373,
+      "duration_seconds": 82,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=291",
+      "title": "Sesiones postpartido para jugadores con baja carga",
+      "summary": "Para los jugadores con menos de 12 minutos, el enfoque cambia a un RPE 7 (60-70% RM) incrementando la velocidad de ejecución. Aunque se mantiene un volumen bajo por imprevisibilidad táctica de futuros partidos, se introducen sobrecargas excéntricas para compensar el déficit neuromuscular.",
+      "literal_quote": "Vamos a utilizar, por ejemplo, movimientos con una carga ligeramente inferior en torno a ese 7 RP... en los que la velocidad de ejecución ya va a aumentar porque buscamos ese mayor componente neuromuscular.",
+      "full_transcript": "Si nosotros nos vamos, por ejemplo, a esos jugadores que tienen una carga un poquito más baja o son jugadores que a lo mejor habitualmente están por debajo de los 12 minutos, vamos a utilizar, por ejemplo, movimientos con una carga ligeramente inferior en torno a ese 7 RP, un 60, 70 %, por ejemplo, en los que la velocidad de ejecución ya va a aumentar porque buscamos ese mayor componente neuromuscular, ese mayor componente de respuesta un poco más rápida a nivel muscular. Pero también vamos a mantener ese bajo volumen porque no sabemos cuál va a ser el contexto del jugador en los siguientes partidos. Es un jugador que habitualmente participa, que normalmente no está por encima de esos 12 minutos, pero que podría, por circunstancias, tener que estar por encima de ellos dentro de dos días, por ejemplo. Entonces, mantenemos ese bajo volumen, pero ya incluimos ejercicios, por ejemplo, que tienen que ver con sobrecargas excéntricas, tienen que ver con movimientos más rápidos en los que se debe de producir esa fuerza de manera más eficaz en un menor tiempo posible. De esa forma les acercamos un poco a esa cantidad de carga que no han sido capaces de, o que no tienen habitualmente durante ese tiempo de competición y que sus compañeros con mayores minutos acumulados sí han tenido.",
+      "keywords": [
+        "baja-carga",
+        "7-rpe",
+        "60-70-rm",
+        "velocidad-ejecucion",
+        "sobrecarga-excentrica",
+        "componente-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo entrenan fuerza los jugadores con pocos minutos postpartido?",
+        "¿Por qué se mantiene un volumen bajo incluso en jugadores con baja carga?",
+        "¿Qué intensidad de RPE se utiliza para buscar respuestas neuromusculares rápidas?"
+      ],
+      "related_terms": [
+        "componente neuromuscular",
+        "sobrecargas excéntricas",
+        "producción rápida de fuerza",
+        "respuesta muscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que los jugadores de alta carga trabajan lento y pesado (RPE 8) para preparar tejidos.",
+      "context_after": "Se pasa al extremo opuesto: los jugadores no convocados que necesitan un volumen y agresividad mucho mayores para igualar al grupo."
+    },
+    {
+      "id": "V_RUBEN_05-004",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:06:13",
+      "end_timestamp": "00:08:50",
+      "start_seconds": 373,
+      "end_seconds": 530,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=373",
+      "title": "Entrenamiento exhaustivo y uso de pliometría en no convocados",
+      "summary": "Los jugadores descartados requieren un entrenamiento de fuerza mucho más extenso, rápido y complejo. A diferencia de los habituales (donde la pliometría se evita por ser muy agresiva y restarles margen competitivo), los no convocados sí realizan pliometría, trabajos unilaterales y control motor bajo carga para suplir la ausencia de estímulo en la pista.",
+      "literal_quote": "En mi caso particular, no habitúo a incluir, por ejemplo, trabajo de pliometría, porque es un trabajo agresivo... En esos jugadores [no convocados]... sí que debo de ser capaz de darles estímulo... de pliometría.",
+      "full_transcript": "Y si nos vamos, por ejemplo, a jugadores no convocados, obviamente con ellos realizaremos un trabajo muchísimo más completo, a mayor velocidad, con mayor volumen y probablemente con una mayor complejidad de ejecución. Por ejemplo, nos vamos a poder ir a trabajos unilaterales, nos vamos a poder ir a trabajos más complejos en cuanto a su ejecución. Pero de nuevo, debemos analizar el contexto. ¿Por qué? Porque, por ejemplo, estos jugadores no convocados, en algún momento, en muchas realidades de muchos equipos, tienen que a lo mejor jugar un partido con el equipo de una menor categoría o de jugadores más jóvenes. Entonces, tenemos que tener cuidado con esa carga que nosotros vamos a darle, porque quizá necesite estar al máximo nivel al día siguiente o en dos días, o quizá venga de jugar un partido con ese equipo el día anterior. Entonces, como siempre, analizar el contexto, pero obviamente vamos a ser capaces de esos jugadores que si habitualmente no están convocados, necesitan un estímulo mucho más amplio que sus compañeros que sí están teniendo ese estímulo competitivo. Entonces, en esos jugadores podemos realizar ejercicios como los que estamos viendo en cuanto a trabajos unilaterales con sobrecargas excéntricas, podemos introducir ese trabajo de pliometría, podemos trabajar en distintas capacidades, como vemos en esa imagen, podemos trabajar en temas relacionados a nivel neuromuscular, de control motor, de velocidad, a nivel coordinativo, bajo carga. Podemos trabajar de una manera mucho más amplia porque el margen de error es un poquito mayor que en el resto de sus compañeros. Por poner un ejemplo, en jugadores con carga competitiva alta, que están habitualmente convocados, o carga competitiva no tan alta, que están habitualmente convocados, en mi caso particular, no habitúo a incluir, por ejemplo, trabajo de pliometría, porque es un trabajo agresivo que no sé cuánto margen me deja de cara a la necesidad que van a tener de tener una mayor demanda competitiva en los días posteriores a ese trabajo. Por tanto, no suelo incluir ese trabajo en jugadores que normalmente están convocados o que normalmente están expuestos a la competición. En esos jugadores en los que yo analizo el contexto y veo que no están teniendo esa demanda, ni siquiera están pudiendo quizás entrenar, porque la densidad competitiva es tan alta que no están habiendo los entrenamientos suficientes, sí que debo de ser capaz de darles estímulo a nivel de de trabajo, por ejemplo, de pliometría que le vaya a ayudar a completar o a llenar, como hemos dicho antes, ese cubo que ahora mismo no está lleno porque el calendario no permite llenarlo.",
+      "keywords": [
+        "no-convocados",
+        "pliometria",
+        "complejidad",
+        "sobrecargas-excentricas",
+        "trabajo-unilateral",
+        "estimulo-amplio"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Toma de decisiones"
+      ],
+      "search_questions": [
+        "¿Por qué se evita la pliometría en jugadores que compiten habitualmente?",
+        "¿Qué tipo de ejercicios de fuerza realizan los jugadores no convocados?",
+        "¿Qué se debe tener en cuenta antes de aplicar alta carga a un jugador descartado?"
+      ],
+      "related_terms": [
+        "trabajo agresivo",
+        "complejidad de ejecución",
+        "control motor bajo carga",
+        "margen de error"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se definieron los RPEs y velocidades para los jugadores de baja carga.",
+      "context_after": "Se proveen ejemplos exactos de series, repeticiones y ejercicios que configuran las rutinas de estos tres perfiles."
+    },
+    {
+      "id": "V_RUBEN_05-005",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:08:51",
+      "end_timestamp": "00:13:26",
+      "start_seconds": 531,
+      "end_seconds": 806,
+      "duration_seconds": 275,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=531",
+      "title": "Propuestas prácticas de series, repeticiones y ratio tracción-empuje",
+      "summary": "Se exponen esquemas reales de entrenamiento. Alta carga: 3x6 en pierna (flexo/extensión), un empuje y una tracción superior. Baja carga: 4x6 y adición de Farmer Carry para reorientación postural. No convocados: 3x6 combinando rodilla y cadera, un empuje y dos tracciones superiores, desequilibrando hacia la tracción para contrarrestar la pérdida postural por falta de carga competitiva.",
+      "literal_quote": "En estos casos [no convocados], mi propuesta es tener un ratio en el que hagamos un mayor número de tracciones que de empujes por favorecer esa corrección postural del deportista.",
+      "full_transcript": "Como decimos, cuando entramos en este tipo de ejemplos tan específicos, es muy difícil llenar todos los cubos para todo el mundo en todos los contextos, pero que sirva como una guía para orientarse... Luego, las características de las sesiones de trabajo de fuerza. Como hemos dicho antes, los jugadores con alta carga competitiva... Normalmente, va a incluir la sesión un trabajo, un ejercicio de flexo-extensión de rodilla o de cadera, uno de los dos, y nos vamos a ir a un volumen normalmente de tres series y seis repeticiones, en las que la primera va a ser un approach set o una serie en la que vamos a incluir un peso que nos va a ayudar a volver a ganar ese rango de movimiento... Y vamos a realizar dos series con una mayor carga. Luego vamos a tener un ejercicio de tren superior de empuje, igualmente, esas tres por seis repeticiones con una serie de acercamiento de approach y otro ejercicio de tracción. Dependiendo de las sesiones... vamos a ir cambiando entre rodilla y cadera, o entre empuje vertical y horizontal... Los jugadores con baja carga competitiva... van a trabajar también con un ejercicio de flexo-extensión de rodilla o cadera, pero el volumen, como veis, es un poquito mayor. Vamos a añadir una serie más... tres series que bien pueden ser de seis o de cinco repeticiones... un ejercicio de tren superior de empuje... cuatro por seis también, y luego un ejercicio de tren superior de tracción, y normalmente vamos a intentar hacer un ejercicio de transporte de peso, por ejemplo, un farmer carry... Y en estos jugadores que tienen una menor carga competitiva nos va a ayudar a darles una mayor... capacidad de reorientación postural... Si nos vamos a jugadores no convocados... Vamos a ir a un ejercicio de flexo-extensión de rodilla y uno de cadera... tres por seis de ambos ejercicios para darle un poco de mayor volumen... Vamos a ir con un ejercicio de tren superior de empuje y vamos a ir con dos ejercicios de tren superior de tracción vertical y horizontal. En estos casos, mi propuesta es tener un ratio en el que hagamos un mayor número de tracciones que de empujes por favorecer esa corrección postural del deportista, que normalmente tiende a perderla con el aumento o con la ausencia de la carga. Es una propuesta, pero a mí me gusta desequilibrar, en este caso, la balanza hacia la tracción versus el empuje. Y luego vamos a realizar ese trabajo de transporte...",
+      "keywords": [
+        "series",
+        "repeticiones",
+        "traccion",
+        "empuje",
+        "farmer-carry",
+        "correccion-postural",
+        "approach-set"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cuál es el volumen de series y repeticiones propuesto para cada perfil de jugador?",
+        "¿Por qué se desequilibra la balanza hacia ejercicios de tracción en jugadores no convocados?",
+        "¿Qué beneficios tiene el Farmer Carry para los jugadores de baloncesto?"
+      ],
+      "related_terms": [
+        "approach set",
+        "reorientación postural",
+        "flexo-extensión de rodilla y cadera",
+        "ratio tracción-empuje"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se justificó la intensidad y el uso de herramientas como pliometría según la participación competitiva.",
+      "context_after": "Se habla sobre cómo flexibilizar estas prescripciones priorizando las preferencias del jugador y promoviendo la adherencia."
+    },
+    {
+      "id": "V_RUBEN_05-006",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:13:26",
+      "end_timestamp": "00:16:34",
+      "start_seconds": 806,
+      "end_seconds": 994,
+      "duration_seconds": 188,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=806",
+      "title": "Individualización, reprogramación y cultura de compromiso",
+      "summary": "Para lograr adherencia, es fundamental adaptar el trabajo a las preferencias del jugador. Además, se debe tener la flexibilidad de 'romper' la planificación si el jugador reporta agotamiento mental, reprogramando la sesión. Se recomienda tener siempre plataformas isométricas portátiles en los viajes para mantener los hábitos y asentar la cultura de compromiso.",
+      "literal_quote": "Podemos tener una sesión postpartido en la que el jugador nos va a pedir: 'Rubén, hoy no puedo, no tengo la cabeza para hacerlo'. Tenemos que ser capaces de entender esa situación y de reprogramar.",
+      "full_transcript": "En cuanto a las características de las sesiones de trabajo de fuerza, principalmente van a ser: el contenido final de la sesión va a estar ajustado a las necesidades individuales... La más que famosa individualización va a tener que estar presente en todo momento... Si el jugador propone una serie de ejercicios que según su historial le van mejor que otros, vamos a observar, vamos a dar una opinión, pero en muchos casos vamos a tender a darle al jugador lo que va a ser capaz de darle una consistencia a la ejecución del programa que nosotros vamos a proponer. Queremos que sea muy consistente en la ejecución del programa y por eso vamos a tener muy en cuenta cuáles son sus preferencias... Luego tenemos la programación de las sesiones, que en este caso, para mí siempre está para romperla. Nosotros programamos y muchas veces... podemos tener una sesión postpartido en la que el jugador nos va a pedir: \"Rubén, hoy no puedo, no tengo la cabeza para hacerlo. Por favor, déjame que venga mañana o pospone la sesión a otro momento\". Tenemos que ser capaces de entender esa situación y de reprogramar esa sesión en un momento que sea más positivo para el jugador, porque precisamente, como hemos dicho antes, ¿planificación o reacción? Ambas. Planificamos y a la vez reaccionamos a cuáles son las circunstancias de trabajo del momento... Obviamente, si nos piden romperla cada semana, se va a complicar la situación. Pero si son momentos puntuales, tenemos que ser capaces de romperla en aras de que el jugador tenga una adherencia a nuestro programa mayor. Siempre preparados para trabajar sin material... En mi caso, siempre llevamos esa plataforma, por ejemplo, de trabajo isométrico, en las que vamos a ser capaces de dar ese trabajo, no muy invasivo... previo a cualquier sesión de entrenamiento, aunque estemos fuera de casa. Y con la ejecución y el paso de las sesiones creamos esa cultura de compromiso con el plan establecido. Nosotros lo que queremos es que el jugador se comprometa con el plan... Eso es lo que nos va a dar las mayores victorias en la planificación que nosotros hagamos del trabajo y nos va a ayudar a que la reacción tenga que ser la mínima posible.",
+      "keywords": [
+        "individualizacion",
+        "adherencia",
+        "reprogramacion",
+        "cultura-compromiso",
+        "preferencias",
+        "plataformas-isometricas"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Toma de decisiones"
+      ],
+      "search_questions": [
+        "¿Por qué es importante incorporar las preferencias del jugador al planificar?",
+        "¿Cuándo es necesario romper y reprogramar una sesión de fuerza postpartido?",
+        "¿Cómo se mantiene la cultura de compromiso cuando el equipo viaja?"
+      ],
+      "related_terms": [
+        "cultura de compromiso",
+        "adherencia al programa",
+        "plataforma de trabajo isométrico",
+        "fatiga mental"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se pautaron los esquemas fijos de entrenamiento para cada perfil de jugador en la plantilla.",
+      "context_after": "Se presenta visualmente la planificación mensual que surge al aplicar todas estas políticas de adaptabilidad y constancia."
+    },
+    {
+      "id": "V_RUBEN_05-007",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:16:34",
+      "end_timestamp": "00:19:30",
+      "start_seconds": 994,
+      "end_seconds": 1170,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=994",
+      "title": "Distribución mensual: sesiones breves y recurrentes frente a densas",
+      "summary": "Analizando un mes completo (enero), la estrategia metodológica demuestra una clara preferencia por sesiones de fuerza cortas y recurrentes (ej. activaciones de tiempo bajo tensión isométricas antes de un partido) en lugar de sesiones largas que podrían ser canceladas. Esto permite sortear el agresivo calendario de Euroliga.",
+      "literal_quote": "Yo siempre he sido partidario de sesiones cortas recurrentes, más que sesiones más largas y en menor cantidad.",
+      "full_transcript": "Y por último, como he comentado, la consistencia en el contexto individual y colectivo es la clave para mí en este tipo de situaciones. Y aquí os pongo un ejemplo de cómo se ha programado un mes como el de enero... y en el que vemos cómo están repartidas todas las sesiones de fuerza que nosotros hemos tenido durante el mes, más esas activaciones previas a determinados partidos para cumplir con un número mínimo de sesiones a la semana. ¿Cómo hacemos esas sesiones previas? Yo, por ejemplo, me gusta llamarlo activaciones de tiempo bajo tensión, en las que vamos a utilizar esa plataforma de isométricos y en las que vamos a utilizar un mayor o menor tiempo bajo tensión, pero lo vamos a tener... para, por ejemplo, activar previo al entrenamiento prepartido que vamos a tener cuando estamos en la carretera, cuando estamos fuera. Como veis, es una organización que tiene una programación bastante exhaustiva. Muchas veces o hay veces que no se puede cumplir, pero normalmente hemos sido capaces de ejecutar este programa con éxito. Entonces, planificar cuándo es mejor realizar la sesión, cuándo vamos a ser lo menos invasivos posible, cuándo vamos a dejar al jugador tiempo para que recupere lo máximo posible los esfuerzos que se le pide hacer y cuándo vamos a ser capaces de darle al jugador el mínimo estímulo que va a necesitar. En mi caso, yo siempre he sido partidario de sesiones cortas recurrentes, más que sesiones más largas y en menor cantidad. Por eso se ven todas esas sesiones de trabajo de fuerza, porque preferimos ser recurrentes y breves a tener todo focalizado en una sesión de fuerza que a lo mejor no se va a poder producir y hemos perdido todo ese tiempo de trabajo. Que sirva como ejemplo para que en todos los contextos se pueda abordar y se puede tener un plan establecido y a la vez se tiene que poder maniobrar sobre ese plan. Espero que la ponencia haya podido ayudar un poco a dar una visión global sobre cómo se puede organizar ese trabajo de fuerza dentro de un calendario como el de la Euroliga.",
+      "keywords": [
+        "planificacion-mensual",
+        "sesiones-cortas",
+        "recurrentes",
+        "euroliga",
+        "tiempo-bajo-tension",
+        "estimulo"
+      ],
+      "entities": [
+        "Euroliga"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué son mejores las sesiones cortas y recurrentes en un calendario apretado?",
+        "¿Qué son las activaciones de tiempo bajo tensión?",
+        "¿Cómo se distribuye mensualmente el trabajo de fuerza en un equipo de Euroliga?"
+      ],
+      "related_terms": [
+        "sesiones cortas recurrentes",
+        "activaciones de tiempo bajo tensión",
+        "mínimo estímulo necesario",
+        "calendario de la Euroliga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de ser flexibles y reprogramar si el jugador está fatigado, apoyándose en una cultura de compromiso.",
+      "context_after": "Cierre y despedida final del webinar."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "video": {
+    "video_id": "V_RUBEN_03",
+    "video_title": "Fuerza en Euroliga: Planificación o reacción",
+    "speaker": "Rubén Portes",
+    "total_duration": "00:15:01",
+    "total_duration_seconds": 901,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V_RUBEN_03-001",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:03:16",
+      "start_seconds": 3,
+      "end_seconds": 196,
+      "duration_seconds": 193,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Producción rápida de fuerza y prevención de lesiones (LCA)",
+      "summary": "En un contexto de alto ritmo competitivo, la capacidad de producir fuerza rápidamente es vital. Basado en un estudio de la NBA sobre el ligamento cruzado anterior, se destaca que los primeros 33 milisegundos tras el contacto inicial pueden precipitar una lesión por valgo de rodilla. Un programa de fuerza efectivo dota al jugador de protección ante estas situaciones biomecánicas extremas.",
+      "literal_quote": "Esa toma de decisión en esos 33 milisegundos... puede significar una lesión o no. Esa capacidad que nosotros tengamos de desarrollar un programa de fuerza efectivo con un deportista nos va a ayudar a que todo este tipo de situaciones estén un poco más controladas.",
+      "full_transcript": "Si avanzamos un poco conociendo todas estas demandas y siendo conscientes de que el jugador va a tener que estar preparado para desarrollarlas en ese calendario que hemos visto anteriormente... Tenemos que tener en cuenta que dentro de esta ponencia hablamos de fuerza y que en este tipo de situaciones... en el que hay un ritmo muy alto de juego y una cantidad de partidos grande, tenemos que tener en cuenta que esa fuerza, cuanto más rápido se produzca, quizás, y solo quizás, porque no creo que haya verdades absolutas, nos dé una mayor protección y un mayor rendimiento... Si aplicas un programa de entrenamiento de fuerza de manera eficaz, esa curva de velocidad se va a mover un poco, de forma que el deportista va a ser capaz de desarrollar esa fuerza más rápido... Nuestro objetivo es ese: ayudar al deportista a que en este juego tan rápido y de tanta demanda de cambios de posesión, de dirección, de distancias recorridas a alta velocidad, el jugador sea capaz de tener un mayor rendimiento y que esto esté casado con una mayor prevención de lesiones. Aquí os comparto un estudio que se hizo con un histórico de datos NBA, en el que se estudiaba a nivel biomecánico y a nivel de patrones situacionales asociados a la lesión del ACL, del ligamento cruzado anterior. Aquí se concluyó que ese incremento, por ejemplo, en el valgo de rodilla, entre el contacto inicial con el balón y el contacto inicial más 33 milisegundos, puede ser visto como algo que precipita esta lesión en el ligamento cruzado anterior... Esa toma de decisión en esos 33 milisegundos como estamos viendo ahí, puede significar una lesión o no. Esa capacidad que nosotros tengamos de desarrollar un programa de fuerza efectivo con un deportista nos va a ayudar a que todo este tipo de situaciones estén un poco más controladas.",
+      "keywords": [
+        "produccion-fuerza",
+        "velocidad",
+        "nba",
+        "acl",
+        "ligamento-cruzado",
+        "valgo-rodilla",
+        "prevencion-lesiones"
+      ],
+      "entities": [
+        "NBA"
+      ],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es importante producir fuerza rápidamente en baloncesto?",
+        "¿Qué relación hay entre los 33 milisegundos posteriores al contacto y las lesiones de LCA?",
+        "¿Cómo ayuda un programa de fuerza a prevenir lesiones de ligamento cruzado?"
+      ],
+      "related_terms": [
+        "curva de fuerza y velocidad",
+        "valgo de rodilla",
+        "contacto inicial",
+        "prevención de lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Previamente se habló de la necesidad de compensar y preparar al jugador ante las altísimas cargas mecánicas del juego, como las desaceleraciones extremas.",
+      "context_after": "Se presenta una analogía sobre las capacidades físicas básicas del jugador utilizando la metáfora de los cubos."
+    },
+    {
+      "id": "V_RUBEN_03-002",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:03:41",
+      "end_timestamp": "00:04:53",
+      "start_seconds": 221,
+      "end_seconds": 293,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=221",
+      "title": "La analogía de los cubos de Gray Cook y Michael Boyle",
+      "summary": "Se utiliza la analogía de 'functional movement' para estructurar las capacidades del jugador: primero moverse bien, luego ser lo suficientemente fuerte, posteriormente desarrollar esa fuerza en el escaso tiempo disponible (potencia) y finalmente mantenerla el máximo tiempo posible a máxima intensidad (condición).",
+      "literal_quote": "Los cubos propuestos son el movimiento, la fuerza... y la condición. Primero hay que moverse bien... luego ser lo suficientemente fuerte... luego desarrollar esa fuerza en el tiempo.",
+      "full_transcript": "Si nos vamos a una analogía que a mí me gusta mucho y que tiene que ver con la línea de trabajo de functional movement, de Gray Cook y de Michael Boyle, está la analogía de los cubos, en la que nosotros intentamos mirar qué capacidades físicas necesita el jugador para afrontar todas las demandas que va a tener que afrontar en la competición y en el día a día. Los cubos propuestos son el movimiento, la fuerza, en este caso la potencia y la condición. Primero hay que moverse bien. La propuesta es moverse bien, luego la propuesta es ser lo suficientemente fuerte para poder moverte, luego desarrollar esa fuerza en el tiempo que tienes determinado para poder desarrollarla. En este caso, en el baloncesto, es muy poco. Y que seas capaz de desarrollarlo durante el máximo tiempo posible, a la máxima intensidad posible. Con esto lo que intentamos es llenar todos esos cubos. Queremos llenar todos los cubos posibles para que el jugador sea lo más capaz posible de desarrollar sus habilidades atléticas dentro de la pista de baloncesto.",
+      "keywords": [
+        "analogia-cubos",
+        "gray-cook",
+        "michael-boyle",
+        "functional-movement",
+        "movilidad",
+        "potencia",
+        "condicion"
+      ],
+      "entities": [
+        "Gray Cook",
+        "Michael Boyle"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿En qué consiste la analogía de los cubos de Gray Cook y Michael Boyle?",
+        "¿Cuáles son las fases de desarrollo físico según el 'functional movement'?",
+        "¿Qué importancia tiene el tiempo disponible para aplicar fuerza en baloncesto?"
+      ],
+      "related_terms": [
+        "functional movement",
+        "habilidades atléticas",
+        "desarrollo de potencia",
+        "tiempo determinado"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia de que el entrenamiento de fuerza tenga impacto real en la protección articular ante demandas biomecánicas de alta velocidad.",
+      "context_after": "Tras establecer los pilares del desarrollo físico, se pasa a explicar cómo se evalúa este estado en cada jugador para personalizar las intervenciones."
+    },
+    {
+      "id": "V_RUBEN_03-003",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:04:53",
+      "end_timestamp": "00:07:21",
+      "start_seconds": 293,
+      "end_seconds": 441,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=293",
+      "title": "Evaluación de valores base y asimetrías",
+      "summary": "Es fundamental planificar conociendo el contexto individual mediante la evaluación de valores base y asimetrías. Aunque existe controversia sobre si las asimetrías son limitantes, conocerlas a través de test isométricos y plataformas de fuerza (CMJ) permite decidir si es necesario intervenir médicamente o preventivamente según el historial lesivo del jugador.",
+      "literal_quote": "Yo sí quiero conocer cuáles son esas asimetrías. ¿Voy a actuar sobre ellas? No lo sé. Si el historial de lesiones me dice que lo tengo que hacer, quizá lo haga.",
+      "full_transcript": "Dentro de la intención de llenar todos los cubos, tenemos que ser capaces de planificar... En este caso, si evaluamos el contexto individual, evaluamos los valores base y, por ejemplo, las asimetrías que el deportista tiene. Aquí hay mucha controversia y mucha gente pensando que esas asimetrías pueden no ser determinantes, y en muchos casos puede ser que no lo sean. Como he dicho, yo no tengo una verdad absoluta sobre nada de lo que le pasa a un deportista cuando está en pista porque hay muchos factores que lo afectan. Pero yo sí quiero conocer cuáles son esas asimetrías. ¿Voy a actuar sobre ellas? No lo sé. Si fuera necesario, si el historial de lesiones me dice que lo tengo que hacer, quizá lo haga. Pero como mínimo las quiero conocer, quiero evaluar cuáles son esos valores base y esas asimetrías. ¿Cómo lo voy a hacer? Eso depende del material que yo tenga y de los medios que yo tenga para hacerlo. En este caso, por poner un ejemplo, nosotros lo hacemos mediante un desarrollo de la fuerza isométrica en una serie de pruebas y ahí determinamos cuáles son esas asimetrías, además del uso de las plataformas de fuerza para todo lo que tiene que ver con saltos de CMJ y demás. Ahí vamos a tener una foto de qué tenemos delante. Otra cosa es que luego ya queramos actuar sobre ello o no, pero para el programa de fuerza sí me gusta recoger todos esos datos.",
+      "keywords": [
+        "asimetrias",
+        "valores-base",
+        "evaluacion",
+        "fuerza-isometrica",
+        "cmj",
+        "plataformas-fuerza",
+        "historial-lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante medir las asimetrías en los jugadores aunque exista controversia?",
+        "¿Qué pruebas se utilizan para evaluar los valores base de fuerza?",
+        "¿Cómo influye el historial de lesiones en la decisión de tratar una asimetría?"
+      ],
+      "related_terms": [
+        "valores base",
+        "fuerza isométrica",
+        "saltos CMJ",
+        "plataformas de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha definido qué capacidades se buscan rellenar (movilidad, fuerza, potencia, condición) en el deportista.",
+      "context_after": "Se detalla cómo este contexto evaluado debe adaptarse y reorientarse durante las fases donde la carga de competición aumenta considerablemente."
+    },
+    {
+      "id": "V_RUBEN_03-004",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:07:21",
+      "end_timestamp": "00:09:18",
+      "start_seconds": 441,
+      "end_seconds": 558,
+      "duration_seconds": 117,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=441",
+      "title": "Adaptación del trabajo de fuerza en periodos de alta densidad",
+      "summary": "Durante las fases de máxima densidad competitiva, la propia densidad de partidos proporciona el estímulo físico. No se debe frenar el trabajo de fuerza, pero sí reaccionar y adaptarlo; por ejemplo, evitando el uso de la barra hexagonal en jugadores cuya zona lumbar presenta mayor tensión en esos momentos.",
+      "literal_quote": "¿Eso quiere decir que tenemos que frenar nuestro estímulo? No... Pero sí que hay que tenerlo en cuenta para que... quizá en cierto deportista no voy a utilizar, por ejemplo, una barra hexagonal.",
+      "full_transcript": "¿Cuándo tenemos que tener una observación especial? Durante todo lo que tiene que ver con periodos de máxima densidad competitiva. Además, tenemos que ser capaces de evaluar el contexto constantemente... Los periodos, como he comentado, de mayor densidad nos hacen ser un poco más precavidos, sobre todo porque la densidad está dando el estímulo. ¿Eso quiere decir que tenemos que frenar nuestro estímulo? No, no hay que frenarlo, que desaparezca. Pero sí que hay que tenerlo en cuenta para que, por ejemplo, en ciertos deportistas hay momentos en los que cuando hay una densidad mayor, son más sensibles a ciertos tipos de movimientos, sobre todo bajo carga. Entonces, quizá en cierto deportista no voy a utilizar, por ejemplo, una barra hexagonal cuando tengamos un periodo de mayor densidad. ¿Por qué? Porque quizá su zona lumbar sea más propensa a presentar tensión durante esos periodos. Entonces, ¿voy a hacer una elección distinta de ejercicios? Probablemente lo haga, porque el jugador en ese momento lo necesita y yo tengo que ser capaz de reconocer y de dar esa propuesta. Eso entra dentro de evaluar el contexto constantemente.",
+      "keywords": [
+        "densidad-competitiva",
+        "ajuste-cargas",
+        "barra-hexagonal",
+        "zona-lumbar",
+        "adaptacion",
+        "estimulo"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se debe adaptar el entrenamiento de fuerza durante alta densidad de partidos?",
+        "¿Por qué se podría evitar la barra hexagonal en un periodo competitivo intenso?",
+        "¿Deben suspenderse los estímulos de fuerza cuando el calendario aprieta?"
+      ],
+      "related_terms": [
+        "densidad competitiva",
+        "movimientos bajo carga",
+        "tensión lumbar",
+        "elección de ejercicios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo evaluar las asimetrías y valores iniciales de los jugadores.",
+      "context_after": "Se presentan ejemplos reales de marcadores de rendimiento usando plataformas de fuerza para guiar estas adaptaciones en el día a día."
+    },
+    {
+      "id": "V_RUBEN_03-005",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:09:18",
+      "end_timestamp": "00:13:32",
+      "start_seconds": 558,
+      "end_seconds": 812,
+      "duration_seconds": 254,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=558",
+      "title": "Tiempo de estabilización como marcador de rendimiento (Drop Landings)",
+      "summary": "El uso de plataformas de fuerza para medir el tiempo de estabilización en los aterrizajes (drop landings) actúa como brújula del programa. Un jugador con alta carga que mantiene o mejora sus tiempos indica éxito; uno con carga menor que empeora sus tiempos requiere orientar el trabajo hacia componentes neuromusculares para mejorar la eficiencia del aterrizaje.",
+      "literal_quote": "El jugador que tiene alta carga competitiva y mantiene sus valores, para nosotros puede ser que sea una victoria. Nosotros queremos mantener esa capacidad.",
+      "full_transcript": "Los marcadores de rendimiento... deben ayudar a la toma de decisiones, aunque creo que no la tienen que condicionar por completo. Este caso es un ejemplo práctico que solemos utilizar dentro de nuestro grupo de trabajo y es dentro de las plataformas de fuerza y los saltos MJ, utilizamos ese tiempo de estabilización, en todo lo que tiene que ver con drop landings. Marcamos un histórico, como vemos aquí, de tres jugadores distintos para utilizarlo como ejemplo. Tenemos un jugador de alta carga competitiva en la gráfica superior izquierda, otro jugador de alta competitiva en la gráfica superior derecha y un jugador de carga competitiva intermitente o con menor carga competitiva en la gráfica inferior. Si vemos los tiempos de estabilización, obviamente cuanto menor es el tiempo, más interesante es para nosotros, menor tiempo está utilizando para estabilizarse y, por tanto, tiene un patrón de aterrizaje, en este caso, más eficiente... Realmente, el jugador que tiene alta carga competitiva y mantiene sus valores, para nosotros puede ser que sea una victoria. Nosotros queremos mantener esa capacidad... no son malas noticias el ser capaz de mantener las capacidades de fuerza de un jugador mientras que está soportando una alta carga competitiva. Por tanto, vamos a intentar cambiar el programa de entrenamiento... Si vemos el jugador con alta carga competitiva en el margen superior derecho, obviamente, vamos a tener que seguir con ese programa de entrenamiento, porque está yendo muy bien... Y el jugador con la carga competitiva intermitente, nos puede orientar a que tenemos que ser capaces de trabajar un poco más en esa parcela, quizás neuromuscular o con mayor componente neuromuscular, para ser capaz de darle esa reducción necesaria en ese tiempo de estabilización... Yo siempre soy partidario de no hacer cambios muy grandes de manera brusca. Entonces, poco a poco, si necesitamos reorientar ese programa de entrenamiento de fuerza, lo iríamos reorientando con pequeños cambios, quizás semanales.",
+      "keywords": [
+        "drop-landings",
+        "tiempo-estabilizacion",
+        "plataformas-fuerza",
+        "marcador-rendimiento",
+        "componente-neuromuscular",
+        "carga-competitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Qué mide el tiempo de estabilización en los drop landings?",
+        "¿Cómo se interpreta un mantenimiento de los valores de fuerza en jugadores con alta carga competitiva?",
+        "¿Qué decisión se toma si un jugador con carga intermitente empeora sus tiempos de estabilización?"
+      ],
+      "related_terms": [
+        "drop landings",
+        "tiempo de estabilización",
+        "marcador de rendimiento",
+        "patrón de aterrizaje eficiente"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se remarcó la importancia de adaptar ejercicios sin frenar el estímulo durante épocas de alta densidad.",
+      "context_after": "Concluye con una reflexión sobre por qué la fuerza sigue siendo la capacidad reina y la necesidad de optimizar el tiempo disponible para entrenarla."
+    },
+    {
+      "id": "V_RUBEN_03-006",
+      "video_title": "Fuerza en Euroliga: Planificación o reacción",
+      "speaker": "Rubén Portes",
+      "start_timestamp": "00:13:32",
+      "end_timestamp": "00:15:01",
+      "start_seconds": 812,
+      "end_seconds": 901,
+      "duration_seconds": 89,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=812",
+      "title": "La fuerza como capacidad reina y optimización del tiempo",
+      "summary": "La fuerza se erige como el trabajo analítico principal ya que, por sí misma, mejora la movilidad y la condición física del atleta. Dado que la condición aeróbica/anaeróbica ya se trabaja extensivamente en la pista, el preparador físico debe optimizar meticulosamente las escasas ventanas de tiempo disponibles para introducir el volumen necesario de fuerza.",
+      "literal_quote": "Probablemente la condición va a ser un factor que se va a trabajar de manera muy extensiva cuando el jugador esté en pista. Dentro de que ese trabajo de fuerza cobra tanta importancia, tenemos que optimizarlo en el tiempo.",
+      "full_transcript": "Entre las capacidades principales, para mí, quizá la principal sea la fuerza, porque la fuerza es capaz de darnos, según la evidencia, una mayor movilidad solo con el trabajo de por sí de la misma. Y también es capaz de darnos una mayor condición, una mayor capacidad de estar en pista, va a mejorar nuestra condición, y por tanto, para mí va a ser el valor rey o el trabajo rey que vamos a tener que realizar con el jugador de baloncesto de manera analítica. ¿Por qué? Porque probablemente la condición va a ser un factor que se va a trabajar de manera muy extensiva cuando el jugador esté en pista. Dentro de que ese trabajo de fuerza cobra tanta importancia, tenemos que optimizarlo en el tiempo. Tenemos que ser capaces de hacer una optimización del tiempo suficiente, que seamos capaces de introducir ese volumen de trabajo de fuerza necesario para que el jugador sea capaz de mejorar en el resto de, como hemos mencionado en esa analogía, los cubos restantes. Vamos a analizar muy bien todo el tiempo que tenemos disponible para hacerlo y vamos a intentar ubicar todo el trabajo en el tiempo que el jugador, los que compiten más y los que compiten menos, tienen disponible para ello. Pero siempre, como hemos mencionado con anterioridad, analizando ese contexto individual y ese contexto deportivo del grupo en cada momento.",
+      "keywords": [
+        "fuerza",
+        "capacidad-reina",
+        "optimizacion-tiempo",
+        "condicion-fisica",
+        "volumen-trabajo",
+        "movilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la fuerza se considera la capacidad principal en el entrenamiento de baloncesto?",
+        "¿Cómo se relaciona el trabajo de fuerza con el trabajo de condición en la pista?",
+        "¿Por qué es un desafío optimizar el tiempo para el entrenamiento de fuerza?"
+      ],
+      "related_terms": [
+        "capacidad reina",
+        "optimización del tiempo",
+        "trabajo analítico",
+        "volumen de fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el uso del tiempo de estabilización como marcador para ajustar las cargas neuromusculares.",
+      "context_after": "Cierre del fragmento reforzando que el análisis constante del contexto individual y de equipo dicta dónde ubicar el trabajo."
+    }
+  ]
+}
