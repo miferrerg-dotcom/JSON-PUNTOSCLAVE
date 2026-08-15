@@ -1,0 +1,1067 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+    "speaker": "Rodrigo Alvira",
+    "total_duration": "01:13:16",
+    "total_duration_seconds": 4396,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "00:00",
+      "end_timestamp": "07:16",
+      "start_seconds": 0,
+      "end_seconds": 436,
+      "duration_seconds": 436,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y trayectoria profesional",
+      "summary": "Rodrigo Alvira presenta su visión del arte del entrenamiento en la era de la IA. Relata su trayectoria desde el baloncesto universitario y su paso por Dubái, hasta su trabajo en diversas universidades estadounidenses y su rol actual en los Detroit Pistons de la NBA.",
+      "literal_quote": "Se trata de conocer la visión del arte del entrenamiento, lo que para mí es el arte del entrenamiento en la era de la inteligencia artificial en la que vivimos hoy en día.",
+      "full_transcript": "Bienvenidos a mi charla. Mi nombre es Rodrigo Alvira, soy preparador físico en Detroit Pistons, en la NBA, en Estados Unidos. Se trata de conocer la visión del arte del entrenamiento, lo que para mí es el arte del entrenamiento en la era de la inteligencia artificial en la que vivimos hoy en día, y cómo se puede integrar. Cómo la parte del arte que nosotros tenemos que conocer, que aprendemos a través de la experiencia y de trabajar mucho, es la que nos define como algo diferente a una inteligencia artificial. Hablando un poco de mi carrera, vine a Estados Unidos en 2014 para jugar al baloncesto. Pasé a trabajar como preparador físico en Dubái durante casi medio año. Después de eso volví a España un tiempo. Después cursé un máster y trabajé en la Universidad de Missouri. Trabajé en Grand Canyon University y, desde 2024, trabajo a tiempo completo con el equipo únicamente de NBA, Detroit Pistons.",
+      "keywords": [
+        "trayectoria",
+        "nba",
+        "detroit pistons",
+        "arte del entrenamiento",
+        "inteligencia artificial",
+        "experiencia"
+      ],
+      "entities": [
+        "Rodrigo Alvira",
+        "Detroit Pistons",
+        "NBA",
+        "Grand Canyon University",
+        "Universidad de Missouri"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es la trayectoria profesional de Rodrigo Alvira?",
+        "¿Qué visión tiene Rodrigo Alvira sobre el arte del entrenamiento?",
+        "¿Dónde trabaja actualmente Rodrigo Alvira?"
+      ],
+      "related_terms": [
+        "experiencia",
+        "profesional",
+        "nba",
+        "arte",
+        "entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "El ponente introduce el concepto central de su charla: la diferencia entre la ciencia del entrenamiento y el arte de entrenar."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "07:16",
+      "end_timestamp": "10:11",
+      "start_seconds": 436,
+      "end_seconds": 611,
+      "duration_seconds": 175,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=436",
+      "title": "El arte de entrenar frente a la evidencia científica",
+      "summary": "Se establece la diferencia entre el entrenamiento basado estrictamente en evidencia y el 'arte' de entrenar. El arte se define como la capacidad de crear un contexto propio y aplicar criterio para adaptar la ciencia a un entorno complejo y cambiante.",
+      "literal_quote": "El arte es la capacidad de introducir esa evidencia en el día a día, en un contexto que tenga sentido, en un sistema que sea tuyo.",
+      "full_transcript": "El entrenamiento moderno tiene una base científica sólida y la ciencia nos ha dado herramientas extraordinarias. Sabemos cuantificar la tensión mecánica, calcular volumen óptimo, diseñar programas basados en evidencia y medir el entrenamiento y el rendimiento con precisión. Pero existe una dimensión del entrenamiento que los números no alcanzan a capturar, y a esa dimensión la llamamos el arte de entrenar. El arte es la capacidad de introducir esa evidencia en el día a día, en un contexto que tenga sentido, en un sistema que sea tuyo. El arte está en crear tu propio contexto, en crear un sistema que sea flexible al contexto en el que te encuentras. Es crear un filtro propio que adquieres a través de tu experiencia para saber lo que es útil y lo que no. Creo que enseñamos ciencia, pero no enseñamos criterio propio. Y la única manera de hacer eso es entender que no hay nada que sea exactamente cierto; controlar a un cuerpo tan cambiante y tan volátil es muy complejo.",
+      "keywords": [
+        "arte de entrenar",
+        "evidencia científica",
+        "criterio propio",
+        "contexto",
+        "flexibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es el arte de entrenar según Rodrigo Alvira?",
+        "¿Cómo se diferencia el arte de la evidencia científica en el entrenamiento?",
+        "¿Por qué es importante tener criterio propio en la preparación física?"
+      ],
+      "related_terms": [
+        "evidencia",
+        "científica",
+        "criterio",
+        "arte",
+        "entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Rodrigo Alvira resume su carrera profesional.",
+      "context_after": "Se profundiza en el concepto de entrenar dentro del caos en lugar de intentar controlar todas las variables."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "10:11",
+      "end_timestamp": "12:15",
+      "start_seconds": 611,
+      "end_seconds": 735,
+      "duration_seconds": 124,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=611",
+      "title": "Entrenar dentro del caos incontrolable",
+      "summary": "Se expone la necesidad de entrenar 'dentro del caos' en lugar de intentar controlarlo. El objetivo del profesional debe ser crear la capacidad de manejar herramientas para adaptarse al momento, asumiendo que el deporte es un entorno volátil.",
+      "literal_quote": "Yo no quiero controlar algo que sé que no puedo controlar. Mi objetivo es trabajar dentro de lo incontrolable, tener los recursos y la capacidad de adaptarme al caos.",
+      "full_transcript": "Hay una diferencia entre controlar el caos y entrenar dentro de él. Yo no quiero controlar algo que sé que no puedo controlar. Muchas personas buscan controlar todo a su alrededor en vez de trabajar dentro de lo incontrolable. Entender que la mayoría de las cosas son incontrolables, como pasa en el deporte. Mi objetivo es trabajar dentro de lo incontrolable, tener los recursos y tener la capacidad de adaptarme a lo incontrolable y al caos, y entrenar dentro de ello según las necesidades que tenga en ese momento y que van a cambiar además constantemente. Nuestro objetivo no es crear un Excel que nos sirva de por vida, es crear una capacidad de manejar herramientas para el momento en el que nos pueda valer. Haz trabajo de una hora que te sirva para que luego lo que podrían ser dos horas al día se conviertan en 15 minutos. Ese es el arte de entrenar.",
+      "keywords": [
+        "caos",
+        "adaptación",
+        "entorno incontrolable",
+        "herramientas",
+        "flexibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué significa entrenar el caos?",
+        "¿Por qué no se debe intentar controlar todas las variables en el entrenamiento?"
+      ],
+      "related_terms": [
+        "caos",
+        "incontrolable",
+        "adaptabilidad",
+        "flexibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la diferencia entre ciencia y arte, y la necesidad de tener un criterio propio.",
+      "context_after": "El ponente clasifica los tres tipos principales de entrenadores según su uso de la ciencia y el arte."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "12:15",
+      "end_timestamp": "15:39",
+      "start_seconds": 735,
+      "end_seconds": 939,
+      "duration_seconds": 204,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=735",
+      "title": "Los tres perfiles de entrenadores: ciencia, arte e integración",
+      "summary": "Clasifica a los profesionales en tres perfiles: el científico loco (que busca control total), el artista puro (guiado solo por sensaciones) y el integrador. Defiende que el integrador es el más eficaz porque utiliza el dato como límite pero aplica su propio arte para conectar con el atleta.",
+      "literal_quote": "La parte del dato quiero derivarla a alguien más... pero la parte del arte quiero que sea mía, porque es la que me hace convencer a muchos deportistas.",
+      "full_transcript": "Dentro de todos los entrenadores hay tres categorías. El científico loco, el tío que es de laboratorio, que quiere que todo esté controlado, que no casa nunca con un equipo profesional porque no entiende de adaptación ni del caos. Al otro lado tenemos a alguien que es todo arte, es decir, no hay ciencia, meto lo que me parece, todo va a través de sensaciones y acaba sin tener ningún tipo de sentido. Para mí, la unión de esos dos mundos, las personas que son muy buenas, son las que saben unir las dos. Le suelen dar más importancia a la parte del arte, pero conocen lo suficiente de la ciencia que les permite entrenar dentro de qué raíles y límites deben de estar trabajando. La parte del dato quiero derivarla a alguien más, pero la parte del arte quiero que sea mía, quiero que sea mi contexto, porque es la que me hace convencer a muchos deportistas de que esto es lo que tenemos que hacer: entender sus gestos faciales, conocer sus necesidades a nivel mental.",
+      "keywords": [
+        "perfiles de entrenadores",
+        "científico loco",
+        "arte y ciencia",
+        "integración del dato",
+        "conexión con el atleta"
+      ],
+      "entities": [
+        "Joel Seedman"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres perfiles de entrenadores según Alvira?",
+        "¿Por qué es necesario unir la ciencia con el arte al entrenar deportistas de élite?"
+      ],
+      "related_terms": [
+        "ciencia",
+        "arte",
+        "integración",
+        "conexión",
+        "dato"
+      ],
+      "relevance_score": 4,
+      "context_before": "Argumentación sobre la importancia de ser adaptable y moverse dentro del caos.",
+      "context_after": "Se introduce un caso real sobre cómo usar los datos (ratio agudo/crónico) en el día a día."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "15:39",
+      "end_timestamp": "18:25",
+      "start_seconds": 939,
+      "end_seconds": 1105,
+      "duration_seconds": 166,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=939",
+      "title": "Trackeo de velocidad y el ratio agudo/crónico",
+      "summary": "Muestra un ejemplo real de cómo el trackeo de velocidad máxima y el ratio agudo/crónico pueden alertar sobre una falta de estímulo. Un deportista con historial de lesiones deja de tocar el 80% de su velocidad máxima en pista, generando una 'bandera roja'.",
+      "literal_quote": "Trackeo cuántos días lleva un deportista sin tocar el 80 % de esa velocidad máxima, que es un indicador para mí de que alguien no está pudiendo llegar a ciertos niveles.",
+      "full_transcript": "Tengo un ejemplo bastante interesante de una aplicación real acerca de esto. Aquí es donde la aplicación del dato, del arte y del contexto cobran vida. Por ponerles un ejemplo: una de las cosas que yo trackeo es cuántos días lleva un deportista sin conseguir ciertos objetivos a nivel de velocidad. Es decir, si tú eres capaz de llegar a 20 kilómetros por hora, cuántos días llevas sin tocar el 80 % de esa velocidad máxima, que es un indicador para mí de que alguien no está pudiendo llegar a ciertos niveles. Esto se puede medir acerca del ratio agudo/crónico. Nos encontramos con un deportista que tiene una historia de lesiones de isquios, y nos damos cuenta de que partido por partido el ratio va bajando de las zonas óptimas, de la carretera verde, y empieza a entrar en una zona roja que es falta de entrenamiento. Y una de las cosas que surge es esa red flag que nos indica que este deportista no está llegando a esas intensidades necesarias.",
+      "keywords": [
+        "trackeo de velocidad",
+        "ratio agudo crónico",
+        "velocidad máxima",
+        "bandera roja",
+        "falta de entrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se utiliza el ratio agudo/crónico para trackear la velocidad?",
+        "¿Qué significa que un deportista no toque el 80% de su velocidad máxima?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "máxima",
+        "ratio",
+        "agudo/crónico",
+        "trackeo",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de los perfiles de entrenadores y el manejo del dato.",
+      "context_after": "Se analiza el porqué de esta bajada de velocidad, diferenciando entre la capacidad del atleta y la oportunidad del contexto táctico."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "18:25",
+      "end_timestamp": "21:57",
+      "start_seconds": 1105,
+      "end_seconds": 1317,
+      "duration_seconds": 212,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1105",
+      "title": "Oportunidad vs. Capacidad en la toma de decisiones",
+      "summary": "Al analizar la 'bandera roja' de baja velocidad, se descartan problemas de 'capacidad' (tests de fuerza y salto normales) y se descubre que es una falta de 'oportunidad' debido a un cambio táctico (jugar a media pista). El arte está en decidir cómo suplementar esa carga.",
+      "literal_quote": "Aquí ya no es una pregunta de capacidad, es una pregunta de oportunidad. La oportunidad no ha existido para que esa persona llegue a estas velocidades.",
+      "full_transcript": "Al pensar nos damos cuenta de que no hay sintomatología, de que todos los test a nivel biomecánico, de fuerza local y los test balísticos como el salto, son buenos. Entonces, lo primero que hacemos es mirar el contexto con el grupo de analítica. Empezamos a observar que en los últimos partidos, en correlación con esa bajada de carga, las acciones de pista abierta no están sucediendo. Estamos jugando mucho más en media pista. Entonces te das cuenta de que aquí ya no es una pregunta de capacidad, es una pregunta de oportunidad. La oportunidad no ha existido para que esa persona llegue a estas velocidades. Nuestro trabajo es reemplazar esa cantidad, pero no sabes si quieres reemplazarla si no sabes el porqué. Ahí está el arte: detectar la bandera roja, analizar el contexto y darte cuenta si es oportunidad o capacidad. El tratamiento es darle las oportunidades de manera artificial (en cinta o sprints controlados) o natural, para mantenerle en la zona óptima.",
+      "keywords": [
+        "oportunidad vs capacidad",
+        "contexto táctico",
+        "toma de decisiones",
+        "reemplazo de carga",
+        "rendimiento en pista"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo diferenciar entre oportunidad y capacidad en el rendimiento físico?",
+        "¿Cómo afecta el contexto táctico del partido a las métricas de carga del deportista?"
+      ],
+      "related_terms": [
+        "oportunidad",
+        "capacidad",
+        "táctica",
+        "toma",
+        "decisiones",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de la caída del ratio agudo/crónico en velocidad máxima.",
+      "context_after": "Se establecen las cuatro leyes fundamentales del arte del entrenamiento."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "21:57",
+      "end_timestamp": "26:26",
+      "start_seconds": 1317,
+      "end_seconds": 1586,
+      "duration_seconds": 269,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1317",
+      "title": "Ley 1: La fuerza es reina y las cualidades derivadas",
+      "summary": "Primera ley: todas las cualidades físicas son derivadas de la fuerza. El trabajo de fuerza es independiente del trabajo en pista, y el objetivo final no es aumentar fuerza ilimitadamente, sino crear una base sólida controlando el volumen para no interferir negativamente con el campo.",
+      "literal_quote": "Todas las cualidades que existen a nivel físico, de rendimiento, de output, son derivadas. Todo depende de la cantidad de fuerza que yo expreso.",
+      "full_transcript": "Dentro del arte de entrenamiento, para mí hay cuatro leyes. La primera de todas es que la fuerza es reina. Conforme analizas te das cuenta de que el resto, todas las cualidades que existen a nivel físico, de rendimiento, son derivadas. Todo depende de la cantidad de fuerza que yo expreso. La máxima potencia se expresa cuando ejerzo una fuerza máxima contra X carga. Nos perdemos en equiparar las fases del gimnasio con las de pista. El trabajo de fuerza puede ser cíclico sin tener que ir en conjunto con la pista; lo único que debe cambiar es la cantidad de trabajo para estar más frescos en pista. Hacerse fuerte ayuda hasta cierto punto, luego no hay que buscar más carga. Lo controlamos para que no afecte de manera negativa al rendimiento, no para que afecte de manera positiva infinitamente, simplemente para que no tenga una interferencia negativa una vez se han maximizado las propiedades.",
+      "keywords": [
+        "fuerza máxima",
+        "cualidades derivadas",
+        "interferencia negativa",
+        "volumen de entrenamiento",
+        "potencia"
+      ],
+      "entities": [
+        "Vadillo"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué se considera a la fuerza como la cualidad principal en el entrenamiento?",
+        "¿Cuál es el límite del entrenamiento de fuerza en el deporte de élite?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "máxima",
+        "potencia",
+        "interferencia",
+        "volumen"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del caso de reemplazo de carga por falta de oportunidad táctica.",
+      "context_after": "Presentación de la segunda ley: la variabilidad y el ensayo y error."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "26:26",
+      "end_timestamp": "28:05",
+      "start_seconds": 1586,
+      "end_seconds": 1685,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1586",
+      "title": "Ley 2: El entrenamiento es prueba y error",
+      "summary": "Segunda ley: no existe garantía científica absoluta para cada individuo. El entrenador debe tener múltiples recursos y aplicar variabilidad, ya que los métodos pueden dejar de funcionar a lo largo de la temporada.",
+      "literal_quote": "El entrenamiento que nosotros realizamos es prueba y error... nunca sabes a ciencia exacta que algo va a ayudar a un deportista.",
+      "full_transcript": "La segunda ley para mí es la ley de prueba y error. El momento en el que te des cuenta de que todo el entrenamiento que nosotros realizamos es prueba y error, es decir, que nunca sabes a ciencia exacta que algo va a ayudar a un deportista, antes te darás cuenta de la importancia que tiene la variabilidad dentro del entrenamiento. Tienes que ser como una navaja suiza, tener 10.000 herramientas posibles para ayudar a ese deportista. Aunque tenemos principios (como que los tendones responden mejor a cargas lentas y altas), la selección de ejercicios cambia mucho y tenemos que probarlas. No vamos a hacer daño, pero ninguna será mejor que otra hasta que lo probemos. Además, puede ir cambiando a lo largo de la temporada. Cuando una herramienta deja de funcionar, necesitas una nueva para adaptarte al cambio.",
+      "keywords": [
+        "prueba y error",
+        "variabilidad",
+        "herramientas de entrenamiento",
+        "adaptabilidad",
+        "recursos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el entrenamiento se considera prueba y error?",
+        "¿Qué importancia tiene la variabilidad de herramientas en la preparación física?"
+      ],
+      "related_terms": [
+        "prueba",
+        "y",
+        "error",
+        "variabilidad",
+        "adaptación",
+        "herramientas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de los límites de la fuerza y la interferencia negativa.",
+      "context_after": "Se postula la tercera ley, priorizando el terreno de juego sobre el gimnasio."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "28:05",
+      "end_timestamp": "29:42",
+      "start_seconds": 1685,
+      "end_seconds": 1782,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1685",
+      "title": "Ley 3: El campo y la pista como principal entrenamiento",
+      "summary": "Tercera ley: la mejora real de habilidades se da ejecutando la acción deportiva, no en el gimnasio. Establece una proporción donde el trabajo de pista debe ser muy superior al de fuerza.",
+      "literal_quote": "El campo de juego y la pista son el mejor entrenamiento para la mejora del rendimiento.",
+      "full_transcript": "La tercera ley para mí es que el campo de juego y la pista son el mejor entrenamiento para la mejora del rendimiento. Si yo no salto en la acción real para hacer un mate, todo el trabajo adyacente que yo haga en el gimnasio no mejora la habilidad en sí si no la realizo. La habilidad en sí tiene que estar en proporciones de tres a uno, cuatro a uno o cinco a uno sobre el trabajo adyacente. Es decir, por cada hora de gimnasio que hago, estoy tres o cuatro horas de pista mejorando habilidades específicas como la velocidad con balón, el primer paso o el salto vertical. Tenemos que ser capaces de introducir nuestros conocimientos en la pista. El fútbol lo lleva haciendo muchos años muy bien, introduciendo el conocimiento del preparador físico en el trabajo de campo.",
+      "keywords": [
+        "transferencia al campo",
+        "rendimiento real",
+        "proporción de entrenamiento",
+        "habilidades específicas"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Dónde se consigue la verdadera mejora del rendimiento deportivo?",
+        "¿Cuál es la proporción ideal entre el trabajo de gimnasio y el de pista?"
+      ],
+      "related_terms": [
+        "pista",
+        "campo",
+        "transferencia",
+        "habilidad",
+        "específica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de la variabilidad y prueba y error en el entrenamiento.",
+      "context_after": "Introducción de la cuarta ley sobre cómo tratar las fortalezas y debilidades."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "29:42",
+      "end_timestamp": "32:22",
+      "start_seconds": 1782,
+      "end_seconds": 1942,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1782",
+      "title": "Ley 4: Trabajar debilidades para la salud del tejido",
+      "summary": "Cuarta ley: en contra de la norma habitual, se debe entrenar lo opuesto a las fortalezas naturales del deportista en el gimnasio. El fin es modificar las propiedades viscoelásticas del tejido para prevenir lesiones, no potenciar el rendimiento directo.",
+      "literal_quote": "Soy de la opinión de que hay que darle al deportista que es muy bueno en algo lo contrario... para mantener la integridad de cualquier tejido.",
+      "full_transcript": "Y la cuarta ley: unos dicen que hay que mejorar aquello en lo que el deportista es bueno dándole más de eso. Yo soy de la opinión de que hay que darle lo contrario. El trabajo de fuerza se vuelve importantísimo a la hora de mantener la salud y la integridad del tejido. No busco potenciar sus habilidades, eso lo hará en pista. En el gimnasio quiero darle las propiedades al tejido que no tiene. Si un deportista es lento por naturaleza pero absorbe bien impacto, le doy trabajo rápido para que desarrolle un tejido más capaz. Si un deportista es muy elástico y reactivo, le doy contracciones lentas, pesadas y fuerza mantenida, porque sabemos que esas capacidades viscoelásticas van a cambiar la manera en que el tejido se comporta. Nos dejamos de querer mejorar el rendimiento, y le damos las propiedades al tejido que no tiene para mantenerlos sanos.",
+      "keywords": [
+        "salud del tejido",
+        "trabajo de debilidades",
+        "capacidades viscoelásticas",
+        "prevención de lesiones",
+        "estímulo opuesto"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se deben entrenar las debilidades de un deportista en el gimnasio?",
+        "¿Cómo afecta el trabajo de fuerza a la salud del tejido viscoelástico?"
+      ],
+      "related_terms": [
+        "debilidades",
+        "salud",
+        "tisular",
+        "prevención",
+        "viscoelástico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia del trabajo principal en cancha frente al gimnasio.",
+      "context_after": "Se presenta el concepto de 'Movimiento Integrado' como la aplicación práctica de estas leyes."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "32:22",
+      "end_timestamp": "37:21",
+      "start_seconds": 1942,
+      "end_seconds": 2241,
+      "duration_seconds": 299,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1942",
+      "title": "El concepto de Movimiento Integrado (Integrated Movement)",
+      "summary": "Se introduce el 'Integrated Movement', derivado del jiu-jitsu. Es una integración basada en Movilidad, Coordinación entre segmentos articulares y 'Yielding' (la capacidad de ceder o controlar el cuerpo a altas velocidades relajando antagonistas).",
+      "literal_quote": "Es una integración de movilidad, coordinación y yielding... La capacidad de controlar los segmentos en posiciones de mayor rango.",
+      "full_transcript": "Ahora vamos con la parte más práctica, de cómo yo integro un tipo de entrenamiento que me parece superefectivo: el 'movimiento integrado'. Es un concepto derivado del jiu-jitsu. Es una pirámide sin pico, porque el pico es la pista. Se basa en la integración de movilidad, coordinación y yielding. Yielding es la capacidad de manejar y controlar (ceder). Es integrar la movilidad, coordinar segmentos en rangos difíciles de controlar y, al meter velocidad, ponerlo todo junto en el yielding. Muchas veces hay demasiada activación del tejido antagonista y el agonista no puede llegar a sus rangos, es un juego entre ambos. La movilidad son acciones pasivas a más activas cerca del suelo (crawling). La coordinación integra esos rangos (movimientos extremos de cadera, tobillo) desplazándose. Es poner el Constraint-led approach para que el cuerpo se organice por sí solo a través de constreñimientos.",
+      "keywords": [
+        "movimiento integrado",
+        "yielding",
+        "coordinación segmental",
+        "movilidad",
+        "constraint-led approach"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el Movimiento Integrado?",
+        "¿Qué significa el término yielding en el entrenamiento deportivo?",
+        "¿Cómo funciona el Constraint-led approach en la movilidad?"
+      ],
+      "related_terms": [
+        "movimiento",
+        "integrado",
+        "yielding",
+        "coordinación",
+        "constraint-led"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición sobre la adaptación del tejido y la cuarta ley del entrenamiento.",
+      "context_after": "El ponente explica que el mejor feedback para validar este sistema es el subjetivo que aporta el atleta."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "37:21",
+      "end_timestamp": "40:24",
+      "start_seconds": 2241,
+      "end_seconds": 2424,
+      "duration_seconds": 183,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2241",
+      "title": "La superioridad del feedback subjetivo sobre las métricas",
+      "summary": "Para evaluar la eficacia del Movimiento Integrado, el feedback más valioso es que el deportista exprese sentirse ligero y sin dolor. Esto supera la importancia de pequeñas mejoras numéricas en tests como el salto vertical.",
+      "literal_quote": "Todo el feedback que yo he recibido a lo largo de mi carrera con este tipo de trabajo es subjetivo... 'me encuentro mejor que nunca'.",
+      "full_transcript": "Para mí este sistema integra deporte, rendimiento y salud del tejido. Cuando me preguntan qué feedback observo, realmente el feedback que recibo es subjetivo. El deportista viene y te dice: 'Noto que tengo mucho más rango, me noto menos rígido, descanso mejor, en pista estoy mejorando cosas porque ya no tengo una sobreactivación'. Nuestro premio a veces es decir que saltó 5 cm más, pero lo que debería importarnos es que nos diga 'me encuentro mejor que nunca'. Si llevas años con dolor crónico y un veterano te dice que se siente genial, eso vale más que cualquier test. Prefiero que mejore 2 cm en el salto pero que me diga 'estoy haciendo los mejores mates de mi vida, me voy de cualquier defensor'. Aquí gana el arte y pierden los números.",
+      "keywords": [
+        "feedback subjetivo",
+        "sensaciones del deportista",
+        "ausencia de dolor",
+        "evaluación cualitativa",
+        "arte vs números"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es más importante el feedback subjetivo del deportista que los tests numéricos?",
+        "¿Qué tipo de mejoras reportan los deportistas con el Movimiento Integrado?"
+      ],
+      "related_terms": [
+        "sensaciones",
+        "subjetivo",
+        "feedback",
+        "dolor",
+        "test"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición teórica de la pirámide de Movimiento Integrado.",
+      "context_after": "Se presenta la idea del 'Daylight Performer' y su relación con la calidad de vida."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "40:24",
+      "end_timestamp": "44:07",
+      "start_seconds": 2424,
+      "end_seconds": 2647,
+      "duration_seconds": 223,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2424",
+      "title": "El concepto del Daylight Performer y el sistema parasimpático",
+      "summary": "Introduce el 'Daylight Performer': un atleta debe funcionar bien en su vida diaria (caminar sin dolor). Es vital que aprenda a salir de su estado de compresión (rendimiento) y entrar en expansión (relajación parasimpática).",
+      "literal_quote": "Nos olvidamos de su capacidad de rendir en su día a día, su capacidad de caminar sin dolor, de levantarse por la mañana sin sentir rigidez.",
+      "full_transcript": "Otra de las ideas dentro del movimiento integrado es el 'Daylight Performer'. Cuando un test mejora, veo mejora en ese cuerpo al moverse en el día a día. Cuando hablamos de deportistas de élite que rinden cada noche, nos olvidamos de su capacidad de rendir en su día a día: caminar sin dolor, jugar con sus hijos, no cojear por casa. Actividades que no exigen rendimiento máximo, sino la capacidad de ceder (yielding) y controlar el cuerpo. Nuestro trabajo es permitir que rindan al máximo, pero también que se recuperen: salir de un estado constante de compresión y entrar a un sistema parasimpático de relajación o expansión. Nos comprimimos para rendir y nos expandimos para relajarnos. Incluso en personas sedentarias, la meta es que pasen de una fase a otra con facilidad.",
+      "keywords": [
+        "daylight performer",
+        "calidad de vida",
+        "sistema parasimpático",
+        "compresión",
+        "expansión",
+        "recuperación"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué significa el término Daylight Performer?",
+        "¿Cómo se relaciona la compresión y la expansión con el sistema nervioso parasimpático?"
+      ],
+      "related_terms": [
+        "daylight",
+        "performer",
+        "compresión",
+        "expansión",
+        "recuperación",
+        "parasimpático"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre la importancia de sentirse sin dolor y ligero en la pista.",
+      "context_after": "Se detallan visualmente las cuatro fases de la pirámide de Movimiento Integrado."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "44:07",
+      "end_timestamp": "46:33",
+      "start_seconds": 2647,
+      "end_seconds": 2793,
+      "duration_seconds": 146,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2647",
+      "title": "La pirámide de fases del Movimiento Integrado",
+      "summary": "Se resume la estructura del sistema en cuatro fases ascendentes: Trabajo Posicional (estático), Roll & Crawl (rodar y gatear), Flow (integración y desplazamiento continuo) y Deep Tier Plyos (pliometría reactiva profunda).",
+      "literal_quote": "Dentro de esta pirámide, de la base a la cumbre, tenemos la parte de trabajo posicional, roll and crawl, flow y deep tier plyos.",
+      "full_transcript": "Dentro de esta pirámide de las partes más importantes, de la base a la cumbre, tenemos la parte de trabajo posicional (positional). Esto es casi estirar, con estiramientos diferentes. Luego la parte de roll and crawl (rodar y gatear), movimientos en los que empezamos a integrar posiciones entre segmentos. Roll y crawl con flow es añadir un paso de complejidad, ponerlo todo junto para desplazarnos de manera lateral o vertical. Y al final está la parte de deep tier plyos, que sería todo el trabajo de pliometría que no se clasificaría clásicamente así porque son tiempos de contacto por encima (0.3 - 0.4s), pero es un trabajo reactivo que añade velocidad y mete esta parte compleja de rangos a movimientos más veloces.",
+      "keywords": [
+        "trabajo posicional",
+        "roll and crawl",
+        "flow",
+        "deep tier plyos",
+        "progresión"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases de la pirámide del Movimiento Integrado?",
+        "¿Cómo se define el trabajo posicional?"
+      ],
+      "related_terms": [
+        "posicional",
+        "roll",
+        "crawl",
+        "flow",
+        "deep",
+        "tier",
+        "plyos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de la relajación parasimpática.",
+      "context_after": "Se entra al detalle de la primera fase, el Trabajo Posicional y su mecánica biomecánica."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "46:33",
+      "end_timestamp": "50:42",
+      "start_seconds": 2793,
+      "end_seconds": 3042,
+      "duration_seconds": 249,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2793",
+      "title": "Fase Posicional: Presión pasiva y tensión activa",
+      "summary": "Se explica en detalle el mecanismo de la fase posicional: se aprovecha la presión física del suelo para relajar pasivamente la musculatura antagonista, mientras se ejerce tensión activa en la agonista, permitiendo mayor rango articular.",
+      "literal_quote": "Al nosotros estar contra el suelo, el suelo nos permite relajarnos a la vez que movernos sobre una estructura.",
+      "full_transcript": "La parte posicional son los fundamentos. La clave está en la combinación de presión activa con el suelo. Si nosotros de manera activa no podemos mover estructuras porque una está en tensión, al estar contra el suelo, el suelo nos da una presión pasiva que relaja la musculatura antagonista para que entremos en ciertos rangos. La tensión activa muscular se compagina con esa presión del suelo, creando una oportunidad única para movernos en mayores rangos. Piensa en terapia manual integrada dentro del movimiento. Buscamos que la cadera se mueva mientras la pelvis opuesta se mantiene estabilizada. El suelo ejerce presión pasiva sobre la abducción mientras de manera activa manejamos el glúteo. Esto permite abrir la zona dorsal y la rotación del hombro.",
+      "keywords": [
+        "presión pasiva del suelo",
+        "tensión activa",
+        "relajación muscular",
+        "rango articular",
+        "terapia manual integrada"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el principio de presión pasiva y tensión activa en la movilidad?",
+        "¿Por qué se compara la fase posicional con la terapia manual?"
+      ],
+      "related_terms": [
+        "presión",
+        "pasiva",
+        "tensión",
+        "activa",
+        "suelo",
+        "rango"
+      ],
+      "relevance_score": 4,
+      "context_before": "Enumeración rápida de las fases de la pirámide.",
+      "context_after": "Se abordan los implementos físicos que se usan para mejorar esta fase posicional."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "50:42",
+      "end_timestamp": "53:38",
+      "start_seconds": 3042,
+      "end_seconds": 3218,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3042",
+      "title": "Implementos y aplicaciones prácticas de la Fase Posicional",
+      "summary": "La fase posicional es ideal para recuperación, movilidad y calentamiento, mejorando la propiocepción en atletas y sedentarios. Se apoya en implementos como alfombras de jiu-jitsu, balones medicinales, foam rollers y mobility sticks.",
+      "literal_quote": "Utilizamos implementos para forzar diferentes tipos de posiciones, como puede ser balones medicinales... los foam rollers también para posicionamiento.",
+      "full_transcript": "Este trabajo de bajo esfuerzo se usa para recuperación, movilidad, días libres, calentamiento o introducción al movimiento en sedentarios, mejorando la propiocepción. Para los implementos, a mí me gusta hacerlo sobre césped o suelos cómodos, como alfombras de jiu-jitsu. Utilizamos implementos para forzar diferentes tipos de posiciones, como balones medicinales para trabajo de hombro o para aumentar la presión abriendo y cerrando la zona torácica contra el suelo. Los foam rollers también se usan para mantener el posicionamiento de la pelvis. El mobility stick nos ayuda para coordinar segmentos del tren superior y tren inferior en trabajo más estático.",
+      "keywords": [
+        "recuperación",
+        "propiocepción",
+        "implementos de movilidad",
+        "balón medicinal",
+        "foam roller",
+        "alfombras de jiu-jitsu"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué implementos se utilizan en el trabajo posicional del movimiento integrado?",
+        "¿Para qué se usan los balones medicinales en el suelo?"
+      ],
+      "related_terms": [
+        "recuperación",
+        "implementos",
+        "foam",
+        "roller",
+        "movilidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación mecánica de la presión pasiva contra el suelo.",
+      "context_after": "Transición natural de las posturas estáticas al movimiento con la fase Roll y Crawl."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "53:38",
+      "end_timestamp": "56:20",
+      "start_seconds": 3218,
+      "end_seconds": 3380,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3218",
+      "title": "Fase Roll y Crawl: Coordinación y motor espinal",
+      "summary": "En esta fase, la prioridad es coordinar segmentos corporales eliminando las extremidades (brazos y piernas). Se usa la espina dorsal como transmisión de movimiento (spinal engine) y el peso de las piernas para facilitar la rotación de pelvis y sacro.",
+      "literal_quote": "Lo que empieza a predominar bastante es la coordinación entre segmentos. Si nosotros no coordinamos bien... no podemos alcanzar movimiento.",
+      "full_transcript": "La segunda parte es roll, crawl y flow. Creamos un puente entre posición, rango y movimiento. Los principios de presión activa se mantienen, pero lo que empieza a predominar es la coordinación entre segmentos. El baby crawl es pura coordinación eliminando los miembros de brazos y piernas, controlando la espina dorsal como motor o transmisión de movimiento (spinal engine), creando un despertar de la columna. Pasamos a rotaciones (rolls), facilitando la apertura por el exterior del sacro y la rotación interna de la pelvis utilizando el peso de la pierna para rotar hacia un lado y hacia el otro. Esto integra el movimiento y usa la columna como transmisión.",
+      "keywords": [
+        "roll and crawl",
+        "coordinación segmental",
+        "spinal engine",
+        "apertura del sacro",
+        "rotación de pelvis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es el objetivo del baby crawl en la metodología de Alvira?",
+        "¿Cómo se utiliza la columna vertebral en la fase de Roll y Crawl?"
+      ],
+      "related_terms": [
+        "coordinación",
+        "segmentos",
+        "espina",
+        "dorsal",
+        "rotación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Uso de implementos en el suelo para la movilidad estática.",
+      "context_after": "Se añade el desplazamiento total conectando los movimientos en la fase Flow."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "56:20",
+      "end_timestamp": "59:53",
+      "start_seconds": 3380,
+      "end_seconds": 3593,
+      "duration_seconds": 213,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3380",
+      "title": "Fase Flow: Integración cíclica y movilidad de tobillo",
+      "summary": "El Flow es la integración activa con desplazamiento. Destaca el trabajo del complejo pie-tobillo para ganar dorsiflexión. Es más exigente a nivel neuromuscular y se utiliza como calentamiento o activación pre-pista, muchas veces sumando kettlebells.",
+      "literal_quote": "Flow es la integración de todo... estamos trabajando mucho el complejo pie-tobillo, buscando aumentar esa capacidad de dorsiflexión.",
+      "full_transcript": "El flow implica desplazarnos y ponerlo todo junto, incluso usando las manos. Estamos trabajando mucho el complejo pie-tobillo, buscando aumentar la capacidad de dorsiflexión de los dedos del pie, desde el quinto hasta el primer metatarso, y ganando movilidad en la rodilla con rotaciones internas y externas de la cadera al presionar con el suelo. Dejamos de usar los brazos y de manera controlada realizamos el movimiento. Es un trabajo funcional al rango que ya es mucho más activo, ideal para preparación pre-pista y activación neuromuscular. Yo recomiendo series cortas de 15 minutos en total para no hacerlo tedioso. Aquí introducimos kettlebells y balones medicinales grandes bajo el torso para forzar la posición y abrir las costillas frontal o lateralmente.",
+      "keywords": [
+        "flow",
+        "desplazamiento",
+        "dorsiflexión",
+        "complejo pie-tobillo",
+        "activación pre-pista",
+        "kettlebells"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué rol juega el complejo pie-tobillo en la fase Flow?",
+        "¿Cómo se debe implementar el Flow como calentamiento previo a la pista?"
+      ],
+      "related_terms": [
+        "flow",
+        "dorsiflexión",
+        "tobillo",
+        "activación",
+        "desplazamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del uso del peso corporal en el gateo para rotar la cadera.",
+      "context_after": "Habiendo logrado movilidad y coordinación, el ponente explica cómo añadir velocidad en rangos profundos."
+    },
+    {
+      "id": "V02-019",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "59:53",
+      "end_timestamp": "01:04:00",
+      "start_seconds": 3593,
+      "end_seconds": 3840,
+      "duration_seconds": 247,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3593",
+      "title": "Pliometría de Rango Profundo (Deep Tier Plyos)",
+      "summary": "La etapa avanzada es el 'Deep Tier Plyos'. Desafía el sistema buscando velocidad en rangos articulares extremos, evitando la rigidez tradicional. Al hacerlo, el sistema nervioso se ve obligado a reorganizarse sin activar sus mecanismos de protección por la alta velocidad.",
+      "literal_quote": "Buscamos aprovechar esa velocidad para desafiar estos rangos y al sistema, que ha de reorganizarse para poder entrar en esos rangos a alta velocidad.",
+      "full_transcript": "Pasamos a la parte de pliometría, la cumbre sin pico. Es el antagonista directo a la pliometría tradicional porque buscamos aplicar principios de velocidad sin la rigidez característica. Aprovechamos la velocidad para desafiar los rangos y obligar al sistema a reorganizarse para entrar a esos rangos a alta velocidad. Cuando vamos a altas velocidades, los mecanismos protectores se activan; si el deportista no ha trabajado lento previamente, no podrá acceder a esos rangos. Empezamos con saltos en posiciones bilaterales y de split (delante, atrás y de lado a lado). Requiere muchísima fuerza porque estás en rangos muy profundos. Sugiero hacerlo en sesiones aparte fuera de temporada, o como contraste intermitente con el trabajo de fuerza. Genera unas agujetas brutales si haces apenas 10-15 minutos.",
+      "keywords": [
+        "deep tier plyos",
+        "pliometría profunda",
+        "velocidad sin rigidez",
+        "mecanismos de protección",
+        "saltos en split"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿En qué se diferencia la pliometría de rango profundo de la tradicional?",
+        "¿Por qué el cuerpo activa mecanismos de protección al aplicar alta velocidad?"
+      ],
+      "related_terms": [
+        "pliometría",
+        "rango",
+        "profundo",
+        "velocidad",
+        "rigidez",
+        "fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del flow cíclico para activar neuromuscularmente.",
+      "context_after": "Se presentan herramientas y modificaciones para intensificar estos saltos pliométricos."
+    },
+    {
+      "id": "V02-020",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "01:04:00",
+      "end_timestamp": "01:05:52",
+      "start_seconds": 3840,
+      "end_seconds": 3952,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3840",
+      "title": "Variaciones e implementos en pliometría profunda",
+      "summary": "Para modificar los Deep Tier Plyos, se introducen cargas externas, planos inclinados para forzar la pronación/supinación del pie, y superficies como las dunas de arena o el Bosu, no por inestabilidad, sino para acceder a distintos rangos de movilidad articular.",
+      "literal_quote": "La aplicación del Bosu para mí es útil, no por la estabilidad o inestabilidad, sino por los rangos a los cuales nosotros podemos acceder.",
+      "full_transcript": "Se pueden implementar cargas externas para forzar esa relajación y ángulos. Los suelos en ángulo me gustan mucho porque introducimos conceptos de pronación y supinación del pie y rotación de la tibia sobre el fémur. Modificamos el tren superior con balones o gomas aislando el tren inferior. También usamos alturas variables, elevando la pierna anterior o posterior. La aplicación del Bosu es útil, no por la inestabilidad, sino por los rangos a los cuales podemos acceder para aplicar presión en pronación o supinación. También uso las 'dunas', dos bloques de arena súper útiles para cambiar los ángulos de pisada y que utilizo mucho para rehabilitaciones.",
+      "keywords": [
+        "implementos pliométricos",
+        "suelos en ángulo",
+        "bosu",
+        "dunas de arena",
+        "pronación y supinación"
+      ],
+      "entities": [
+        "Bosu"
+      ],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Para qué se utiliza el Bosu o las dunas de arena en la metodología de Alvira?",
+        "¿Cómo se altera la rotación de la tibia usando suelos en ángulo?"
+      ],
+      "related_terms": [
+        "bosu",
+        "dunas",
+        "arena",
+        "pronación",
+        "supinación",
+        "ángulo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación teórica y aplicación práctica de la pliometría de rango profundo.",
+      "context_after": "El autor pasa a mostrar un caso de estudio clínico integrando toda esta teoría."
+    },
+    {
+      "id": "V02-021",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "01:05:52",
+      "end_timestamp": "01:08:29",
+      "start_seconds": 3952,
+      "end_seconds": 4109,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3952",
+      "title": "Caso de estudio: Tendinopatía rotuliana y abordaje tradicional",
+      "summary": "Analiza a un jugador de vóley con tendinopatía rotuliana por sobrecarga, que presentaba mala dorsiflexión y dominancia excesiva de rodilla. Inicialmente, se le aplicó el tratamiento clínico tradicional: isometrías largas (30-45s) y fuerza con sobrecarga excéntrica.",
+      "literal_quote": "Lo primero que hicimos es el tratamiento tradicional de tendinopatía... utilizamos isometrías de larga duración de manera local y movimientos globales.",
+      "full_transcript": "Esto es un caso de estudio de un deportista de vóley. Tenía degradación de tejido, tendinopatía rotuliana por sobreuso, con dolor, falta de dorsiflexión en movimientos lentos y rápidos, exceso de valgo en la rodilla opuesta por compensación, flexión de tronco muy pronunciada y baja participación de la cadera (dominancia de rodilla exagerada). Lo primero que hicimos es el tratamiento tradicional de tendinopatía. Utilizamos isometrías de larga duración de manera local (extensión de rodilla 30-45s) y global (split squat). Luego corta duración de isometrías a más niveles de fuerza de aguante. Después fuerza lenta, excéntricos acentuados y por último sobrecarga excéntrica con dispositivos isoinerciales.",
+      "keywords": [
+        "tendinopatía rotuliana",
+        "isometría",
+        "sobrecarga excéntrica",
+        "dominancia de rodilla",
+        "caso de estudio"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué síntomas biomecánicos presentaba el jugador de vóley del caso de estudio?",
+        "¿Cuáles son los pasos del tratamiento tradicional de fuerza para la tendinopatía rotuliana?"
+      ],
+      "related_terms": [
+        "tendinopatía",
+        "rotuliana",
+        "isometría",
+        "excéntrica",
+        "dorsiflexión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las variantes en la pliometría profunda.",
+      "context_after": "Se explica cómo se integró el trabajo de Movimiento Integrado para corregir la causa biomecánica subyacente."
+    },
+    {
+      "id": "V02-022",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "01:08:29",
+      "end_timestamp": "01:11:09",
+      "start_seconds": 4109,
+      "end_seconds": 4269,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4109",
+      "title": "Aplicación de Movimiento Integrado en rehabilitación",
+      "summary": "Para curar definitivamente al atleta del caso, se aplicó la pirámide de Movimiento Integrado. Se trabajó en su capacidad de 'ceder' (yielding) y en la conciencia propioceptiva del talón, abordando el exceso de rigidez provocado por estar siempre sobre las punteras.",
+      "literal_quote": "Una de las cosas que le faltaba al deportista es la capacidad de yielding que hemos dicho, de ceder, que no tenía y estaba en un estado de activación constante.",
+      "full_transcript": "¿Cómo introducimos el movimiento integrado? En la parte posicional el objetivo era la apertura de la pelvis y conciencia del talón y dorsiflexión. Al deportista le faltaba la capacidad de yielding, de ceder; estaba en activación constante sobre las punteras, muy rígido e incapaz de relajarse o expandir. En el gateo y flow, usamos posiciones supinas para la apertura de rotación interna/externa de cadera y el control de la espina dorsal, integrando la cadena posterior (isquio-glúteo) que estaba débil. En la parte de Deep Tier plyos, utilizamos muchas posiciones de split unilateral porque su flexión de tronco mandaba la carga a estructuras equivocadas en posiciones bilaterales, trabajando así de manera más segura.",
+      "keywords": [
+        "yielding",
+        "conciencia de talón",
+        "rehabilitación activa",
+        "cadena posterior",
+        "movimiento integrado"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se solucionó la falta de yielding en la rehabilitación del caso de estudio?",
+        "¿Por qué se usaron saltos en split unilateral en lugar de bilaterales con el paciente de tendinopatía?"
+      ],
+      "related_terms": [
+        "yielding",
+        "ceder",
+        "conciencia",
+        "talón",
+        "split",
+        "unilateral"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso del trabajo isométrico tradicional.",
+      "context_after": "Conclusión del webinar sobre la importancia de combinar la ciencia del síntoma con el arte de buscar la causa original."
+    },
+    {
+      "id": "V02-023",
+      "video_title": "El arte del entrenamiento en la era de la inteligencia artificial",
+      "speaker": "Rodrigo Alvira",
+      "start_timestamp": "01:11:09",
+      "end_timestamp": "01:13:16",
+      "start_seconds": 4269,
+      "end_seconds": 4396,
+      "duration_seconds": 127,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4269",
+      "title": "La diferencia entre la ciencia del tejido y el arte del movimiento",
+      "summary": "Cierre del webinar: la ciencia aporta protocolos para sanar el tejido afectado (el tendón), pero es el 'arte' del entrenador el que identifica y corrige el patrón biomecánico deficiente que causó la sobrecarga inicial, evitando recaídas futuras.",
+      "literal_quote": "La ciencia sabemos que ayuda al tendón, pero luego tenemos que entender qué es lo que está limitando. Hay algo que ha provocado que ese tendón llegue al estado en el que está.",
+      "full_transcript": "Aquí es donde está la diferenciación: la ciencia ayuda al tendón, pero tenemos que entender qué es lo que lo está limitando. Hay algo que ha provocado que ese tendón llegue al estado en el que está y algo que tenemos que cambiar dentro del movimiento para que no vuelva a suceder. Las tendinopatías muchas veces son sobrecarga, pero a veces la carga total no ha sido demasiada; simplemente hay maneras más eficientes de que ese deportista empiece a moverse para que eso no pase con tanta facilidad. Ahí es donde entra la ciencia y entra el arte. Empezad a implementar este tipo de trabajo dentro de vuestro sistema de la manera que tenga sentido. Muchas gracias a todos.",
+      "keywords": [
+        "ciencia y arte",
+        "causa de la lesión",
+        "eficiencia de movimiento",
+        "prevención de recaídas",
+        "sobrecarga"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Cierre"
+      ],
+      "search_questions": [
+        "¿Por qué es insuficiente tratar solo el tendón dañado según Rodrigo Alvira?",
+        "¿Cómo ayuda el arte del entrenamiento a la eficiencia de movimiento?"
+      ],
+      "related_terms": [
+        "ciencia",
+        "arte",
+        "tendón",
+        "sobrecarga",
+        "eficiencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Uso práctico del Movimiento Integrado en una lesión.",
+      "context_after": "Finalización de la presentación y despedida."
+    }
+  ]
+}
