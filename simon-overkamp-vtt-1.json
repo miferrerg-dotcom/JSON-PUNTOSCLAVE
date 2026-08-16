@@ -1,0 +1,109 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:44",
+    "total_duration_seconds": 284,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-1-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:23",
+      "end_timestamp": "00:02:00",
+      "start_seconds": 23,
+      "end_seconds": 120,
+      "duration_seconds": 97,
+      "timestamp_url": "?t=23",
+      "title": "Experiencia profesional y contexto en el alto rendimiento",
+      "summary": "Simon Oberkamm expone su trayectoria, desde su formación en fútbol americano y powerlifting en EE. UU. hasta su rol actual como jefe de preparación física de la Federación Alemana de Balonmano, aplicando el entrenamiento basado en la velocidad.",
+      "literal_quote": "I am now in my fourth year as the head of strength and conditioning for the German Handball Federation.",
+      "full_transcript": "Un poco sobre mí y mis antecedentes. Yo mismo nunca he sido jugador de balonmano. Vengo de una formación en fútbol americano universitario y también como levantador de pesas olímpico y powerlifter competitivo. Pasé un total de unos 10 años en EE. UU., no solo jugando al fútbol, obteniendo mi licenciatura y mi maestría en campos relacionados con la ciencia del ejercicio. Pero también entrené tanto a nivel universitario como a nivel profesional, principalmente en la NFL. Después de regresar a Alemania, comencé mi puesto como científico deportivo en el Centro de Entrenamiento Olímpico en Magdeburgo, que fue cuando entré por primera vez en contacto con el deporte del balonmano, entrenando al actual ganador de la Liga de Campeones, SC Magdeburg, y también terminé mi doctorado allí, tratando sobre el entrenamiento basado en la velocidad en la sala de pesas con el deporte del balonmano. Ahora estoy en mi cuarto año como jefe de preparación física de la Federación Alemana de Balonmano. Estoy a cargo tanto de la selección nacional masculina como de la femenina, pero también superviso todos los equipos de nivel junior y de desarrollo, tanto de pista cubierta como en la versión de playa de nuestro juego.",
+      "keywords": [
+        "background",
+        "experiencia-profesional",
+        "vbt",
+        "balonmano"
+      ],
+      "entities": [
+        "Simon Oberkamm",
+        "NFL",
+        "SC Magdeburg",
+        "Federación Alemana de Balonmano"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es la experiencia profesional de Simon Oberkamm?",
+        "¿Qué rol tiene Simon Oberkamm en la Federación Alemana de Balonmano?"
+      ],
+      "related_terms": [
+        "experiencia",
+        "profesional",
+        "federación",
+        "alemana"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "Se introducen los temas clave sobre monitorización de carga que estructurarán la sesión."
+    },
+    {
+      "id": "WEBVTT-1-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:03:34",
+      "end_timestamp": "00:04:44",
+      "start_seconds": 214,
+      "end_seconds": 284,
+      "duration_seconds": 70,
+      "timestamp_url": "?t=214",
+      "title": "Monitorización: la importancia de medir frente a adivinar",
+      "summary": "Se define la monitorización como la observación continua para recolectar datos y optimizar el rendimiento. Se subraya que en el deporte profesional las decisiones deben basarse en evidencias objetivas, ya que lo que no se mide se convierte en simples suposiciones.",
+      "literal_quote": "It is important to know that we can only manage what we measure. So if we're not measuring something, we're only guessing what we're doing.",
+      "full_transcript": "La monitorización se define como una observación continua y en desarrollo de los procesos y evoluciones dentro de un atleta o dentro de equipos individuales. Así que es casi siempre lo mismo. Monitorizamos algo, así que recolectamos datos, llegamos a una conclusión e intentamos optimizar ese conjunto de datos, y esperamos que mediante nuestra intervención de entrenamiento, por ejemplo, si alguien no es lo suficientemente fuerte, necesitamos fortalecer a esa persona, su rendimiento aumentará y su probabilidad de lesión disminuirá. Es importante saber que solo podemos gestionar lo que medimos. Así que, si no estamos midiendo algo, solo estamos adivinando lo que hacemos. Por lo tanto, sin el control de los procesos dentro de un equipo, nosotros como entrenadores no podemos saber si nuestro control de entrenamiento es realmente preciso. Como dije, se reduce a una suposición (guesstimation), y especialmente dentro del deporte profesional, estamos intentando alejarnos de las suposiciones tanto como sea posible, y más bien tener una opinión informada basada en los datos que recopilamos con nuestros atletas.",
+      "keywords": [
+        "monitorizacion",
+        "medicion",
+        "datos",
+        "gestion",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es la monitorización en el deporte profesional?",
+        "¿Por qué es importante medir en lugar de adivinar?"
+      ],
+      "related_terms": [
+        "gestionar",
+        "lo",
+        "que",
+        "se",
+        "mide",
+        "toma",
+        "de",
+        "decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se delinean los objetivos formativos de la sesión y la diferencia entre carga y estrés.",
+      "context_after": "Finaliza la introducción conceptual a la monitorización."
+    }
+  ]
+}

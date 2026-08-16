@@ -1,0 +1,120 @@
+{
+  "video": {
+    "video_id": "WEBVTT-10",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:23",
+    "total_duration_seconds": 263,
+    "source_file": "WEBVTT-10",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-10-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:03:06",
+      "start_seconds": 2,
+      "end_seconds": 186,
+      "duration_seconds": 184,
+      "timestamp_url": "?t=2",
+      "title": "Estrategias de recuperación y el factor de individualización",
+      "summary": "Las estrategias de recuperación más eficientes son el sueño profundo (fases REM) y la correcta sincronización (timing) de la nutrición. A esto se suman herramientas complementarias de recuperación activa (carrera suave, yoga, meditación) y pasiva (masajes, inmersiones térmicas), las cuales deben ser elegidas individualmente por cada jugador sin imposiciones obligatorias por parte del staff.",
+      "literal_quote": "Scientifically proven and especially tested over time, there are two recovery strategies that are proven to be most efficient, with number one being sleep.",
+      "full_transcript": "Last but not least, I wanted to talk about recovery and some of the recovery strategies we're using within the German Handball Federation. First and foremost, scientifically proven and especially tested over time, there are two recovery strategies that are proven to be most efficient, with number one being sleep. And that's just not time or hours of sleep, but also the sleep quality, so the phases that our athletes spend in REM, or rapid eye movement phases, so actually quality deep sleep. And then on the other side, food, and I would add hydration or beverages in there as well. And again, it's not just about sufficient amounts or sufficient amounts of calories and macron and micronutrients, but also the quality of food and especially, again, tournament situation, time constraint always been our biggest enemy, the timing of the nutrition or the timing of the feeding. Apart from those, we have a few different additional recovery strategies, and I would divide them by active and passive recovery measurements. On the active side, we got very low-intensity exercise. That's our walk in the park. That might be our very slow recovery run the morning after a game. And there's stretching in there or foam rolling or myofascial release, meditations or anything that helps our mind get our mind off of the task of being professional athletes. Different muscle relaxation techniques, such as yoga, and really anything else you can really think of there. And on the passive side, we got massage or physiotherapy treatment. We got heat and cold immersion. We got acupuncture, compression, and anything along those lines. And like I mentioned earlier, the top two being sleep and nutrition, food and hydration. All these are very individual. So I think for us as a professional setup, it's our responsibility to provide the athletes with the opportunity to use those modalities, but we should never push somebody in a certain direction or make any of those mandatory.",
+      "keywords": [
+        "recuperacion",
+        "sueno",
+        "fase-rem",
+        "nutricion",
+        "recuperacion-activa",
+        "recuperacion-pasiva",
+        "individualizacion"
+      ],
+      "entities": [
+        "German Handball Federation"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las estrategias de recuperación más eficientes en el deporte?",
+        "¿Qué diferencia hay entre la recuperación activa y pasiva?",
+        "¿Debe el staff imponer los métodos de recuperación a los atletas?"
+      ],
+      "related_terms": [
+        "sueño",
+        "calidad",
+        "nutrición",
+        "recuperación",
+        "activa",
+        "recuperación",
+        "pasiva",
+        "individualización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el principio de dosis mínima y la prescripción de intensidad para optimizar el entrenamiento con poco tiempo.",
+      "context_after": "El ponente concluye la charla reflexionando sobre la justificación de las decisiones en el entrenamiento."
+    },
+    {
+      "id": "WEBVTT-10-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:03:08",
+      "end_timestamp": "00:04:16",
+      "start_seconds": 188,
+      "end_seconds": 256,
+      "duration_seconds": 68,
+      "timestamp_url": "?t=188",
+      "title": "El propósito del entrenamiento y el principio de dosis mínima",
+      "summary": "En el alto rendimiento, la diferencia radica en ejecutar las bases mejor que la competencia. Toda decisión dentro del programa de entrenamiento debe tener un propósito claro justificado: reducir el riesgo de lesiones o aumentar el rendimiento. Si una intervención no cumple estos criterios, debe excluirse aplicando el principio de dosis mínima.",
+      "literal_quote": "Winners don't do different things, they just do things differently.",
+      "full_transcript": "I would like to finish this with a quote, and it's always been kind of close to me. 'Winners don't do different things, they just do things differently.' I think most of us know most of the things we talked about. We know of the importance of monitoring, and we know of the importance of proper strength training. We know of the importance of good sleep and good food. We know all of this, but when it comes to setting yourself apart, we need to be better at those things than the competition is. We need to organize better, we need to prepare better, and first and foremost, we must keep the best interest of athletes in mind, and we must know our why. So if anything we do and does not lead to, hey, this reduces the risk of injury, or hey, this increases their level of performance. So we, again, minimum dosage, we might think about excluding that from our training program or excluding that from our training week. So thank you guys very much for listening to me today, and hope to see you again. Bye-bye.",
+      "keywords": [
+        "dosis-minima",
+        "prevencion-lesiones",
+        "rendimiento",
+        "organizacion",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología",
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el principio de dosis mínima en el alto rendimiento?",
+        "¿Qué criterios justifican incluir un ejercicio en la rutina de un atleta?",
+        "¿Cómo se marca la diferencia en el deporte profesional?"
+      ],
+      "related_terms": [
+        "dosis",
+        "mínima",
+        "reducción",
+        "de",
+        "lesiones",
+        "aumento",
+        "de",
+        "rendimiento",
+        "propósito"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis sobre la importancia de brindar opciones de recuperación individuales a los jugadores.",
+      "context_after": "Cierre de la presentación magistral y despedida del webinar."
+    }
+  ]
+}

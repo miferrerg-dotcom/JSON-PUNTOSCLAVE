@@ -1,0 +1,163 @@
+{
+  "video": {
+    "video_id": "WEBVTT-9",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:46",
+    "total_duration_seconds": 286,
+    "source_file": "WEBVTT-9",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-9-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:27",
+      "start_seconds": 1,
+      "end_seconds": 87,
+      "duration_seconds": 86,
+      "timestamp_url": "?t=1",
+      "title": "Carga vs. Estrés y la fluctuación diaria del 1RM",
+      "summary": "En el entrenamiento de fuerza, la carga se refiere al peso objetivo levantado (ej. 200 libras), mientras que el estrés (strain) es la respuesta individual del atleta a ese estímulo. El 1RM puede fluctuar hasta un 18% diario (casi 40 libras de diferencia) debido al estrés, la falta de sueño o una recuperación incompleta.",
+      "literal_quote": "From a strength training perspective, the weight we're lifting is our load, and the intensity we're training with is the strain.",
+      "full_transcript": "Cuando se trata de entrenamiento de fuerza, también debemos distinguir entre carga (load) y estrés (strain). Volviendo a la famosa cita de Arnold Schwarzenegger, '200 libras siempre van a ser 200 libras', lo cual, desde la perspectiva de la carga, tiene cierta razón. Pero si observamos el estrés o la respuesta individual que tiene un atleta a esas 200 libras, en realidad no podría estar más equivocado. Tengan en cuenta que el máximo de una repetición (1RM) diaria de cualquier ejercicio dado, digamos una sentadilla para demostrar, puede fluctuar un 18%. Así que si observas las 200 libras, estamos viendo una diferencia de casi 40 libras en un día cualquiera basada en las circunstancias: estrés, sueño, recuperación incompleta, todas esas cosas. Por lo tanto, desde una perspectiva de entrenamiento de fuerza, el peso que levantamos es nuestra carga, y la intensidad con la que entrenamos es el estrés. Y para describir adecuadamente el entrenamiento de fuerza, necesitamos un grado de prescripción de estrés como nuestra intensidad.",
+      "keywords": [
+        "load",
+        "strain",
+        "1rm",
+        "entrenamiento-fuerza",
+        "fluctuacion"
+      ],
+      "entities": [
+        "Arnold Schwarzenegger"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre load y strain en el entrenamiento de fuerza?",
+        "¿Cuánto puede fluctuar el 1RM de un atleta cada día?",
+        "¿Qué factores afectan la fuerza máxima diaria de un deportista?"
+      ],
+      "related_terms": [
+        "carga",
+        "estrés",
+        "fuerza",
+        "máxima",
+        "1RM",
+        "intensidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis previo sobre los efectos residuales de la fuerza y la dosificación de estímulos compensatorios en torneos.",
+      "context_after": "Se introduce el principio de dosis mínima y la asignación eficiente del tiempo de entrenamiento."
+    },
+    {
+      "id": "WEBVTT-9-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:02:56",
+      "start_seconds": 89,
+      "end_seconds": 176,
+      "duration_seconds": 87,
+      "timestamp_url": "?t=89",
+      "title": "El principio de dosis mínima y la asignación de tiempo",
+      "summary": "Es fundamental conocer la preparación (readiness) y fatiga diaria del atleta para aplicar el principio de 'dosis mínima', buscando el mínimo impacto necesario para alcanzar el objetivo. Todo entrenamiento debe enfocarse estrictamente en reducir lesiones o mejorar el rendimiento, dado el escaso tiempo disponible en los torneos.",
+      "literal_quote": "I've always been a big fan of the minimal dosage principle, especially in season. So what is the minimum impact we need to confront our players with to reach whatever is the goal...",
+      "full_transcript": "Así que debemos tener en cuenta la preparación diaria, es decir, su disposición para entrenar fuerza ese día, y su fatiga diaria. Eso, obviamente, va a salir de nuestros procesos de monitorización. Y siempre he sido un gran fan del principio de dosis mínima, especialmente durante la temporada. Entonces, ¿cuál es el mínimo impacto al que necesitamos enfrentar a nuestros jugadores para alcanzar cualquiera que sea el objetivo para dicha sesión o para dicho bloque de entrenamiento? Debemos ser sensibles en cuanto a la asignación del tiempo de entrenamiento. Cualquier entrenamiento que prescribamos debe tener un cierto propósito o debe llevar a nuestros atletas a reducir el riesgo de lesión o a aumentar su rendimiento, o mejor ambos, porque solo tenemos un tiempo limitado para entrenar. Y tengan en cuenta que es aún peor durante un torneo. Así que si asignamos tiempo de entrenamiento a algo, debe asegurarse de que sea para beneficiar a nuestros atletas.",
+      "keywords": [
+        "dosis-minima",
+        "readiness",
+        "fatiga",
+        "prevencion-lesiones",
+        "torneos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué es el principio de dosis mínima en el deporte?",
+        "¿Cómo se optimiza el tiempo de entrenamiento durante un torneo?",
+        "¿Qué objetivos debe tener siempre una sesión de fuerza?"
+      ],
+      "related_terms": [
+        "dosis",
+        "mínima",
+        "asignación",
+        "de",
+        "tiempo",
+        "rendimiento",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre cómo el 1RM varía diariamente según la fatiga y el estrés del deportista.",
+      "context_after": "Se detallan los métodos y herramientas específicos para prescribir esta intensidad de forma precisa."
+    },
+    {
+      "id": "WEBVTT-9-003",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:02:58",
+      "end_timestamp": "00:04:46",
+      "start_seconds": 178,
+      "end_seconds": 286,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=178",
+      "title": "Herramientas tecnológicas y subjetivas para prescribir intensidad",
+      "summary": "Para prescribir la intensidad adecuada (strain) se utilizan porcentajes del 1RM, escalas subjetivas como RPE o RIR, y el seguimiento de la velocidad de la barra mediante acelerómetros. Identificar la caída en la velocidad concéntrica ayuda a prevenir el fallo neuromuscular y el sobreentrenamiento.",
+      "literal_quote": "All these different ways to prescribe strain or prescribe intensity are there for us and our athletes to make sure we reach the point of them having a benefit from the lift without running risk of overtraining...",
+      "full_transcript": "Aquí hay un resumen de la prescripción de estrés (strain). Como muchos saben, no solo tenemos la oportunidad de prescribir el estrés o la intensidad mediante un porcentaje basado en el máximo de una repetición (1RM), sino que también podemos hacerlo a través del RPE, una escala del 1 al 10, igual que hacemos con nuestra monitorización, o RIR, repeticiones en reserva. Es decir, un número de repeticiones que el atleta podría haber completado con el peso en la barra sin llegar al fallo muscular. También tenemos la oportunidad de medir la velocidad de la barra, a través de un acelerómetro. Sabemos que la barra, durante la fase concéntrica de un levantamiento, se mueve a cierta velocidad, y si la velocidad del movimiento concéntrico cae a un cierto punto (que se describe individualmente según el ejercicio), el atleta se está acercando al fallo neuromuscular, o no será capaz de completar el ejercicio, lo que también se llama MVC, contracción voluntaria mínima. Todas estas diferentes maneras de prescribir el estrés o la intensidad están ahí para nosotros y nuestros atletas para asegurarnos de que alcancemos el punto en que obtengan un beneficio del levantamiento sin correr el riesgo de sobreentrenarlos o aumentar su riesgo de lesión y, por lo tanto, disminuir su nivel de rendimiento.",
+      "keywords": [
+        "strain-prescription",
+        "rpe",
+        "rir",
+        "velocidad-barra",
+        "fallo-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué herramientas se utilizan para prescribir la intensidad en el entrenamiento de fuerza?",
+        "¿Cómo ayuda medir la velocidad de la barra en el gimnasio?",
+        "¿Qué es el fallo neuromuscular y cómo evitarlo?"
+      ],
+      "related_terms": [
+        "RPE",
+        "RIR",
+        "velocidad",
+        "de",
+        "la",
+        "barra",
+        "fallo",
+        "neuromuscular",
+        "sobreentrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se destacó la necesidad de aplicar la dosis mínima efectiva en los entrenamientos por la falta de tiempo.",
+      "context_after": "Finaliza la explicación sobre la monitorización del entrenamiento de fuerza en el deporte de élite."
+    }
+  ]
+}

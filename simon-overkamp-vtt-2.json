@@ -1,0 +1,103 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:03:43",
+    "total_duration_seconds": 223,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:13",
+      "end_timestamp": "00:02:41",
+      "start_seconds": 13,
+      "end_seconds": 161,
+      "duration_seconds": 148,
+      "timestamp_url": "?t=13",
+      "title": "Diferencia fundamental entre carga (load) y estrés (strain)",
+      "summary": "Se establece la distinción clave entre carga y estrés. La carga es un factor objetivo, mientras que el estrés es la respuesta individual del atleta a esa carga, la cual varía según su descanso, el momento de la temporada y estresores externos.",
+      "literal_quote": "Load being an objective factor, being a stressor put on our different systems of our athletes, and strain is the individual response.",
+      "full_transcript": "Cuando hablamos de carga frente a estrés, necesitamos definirlos. La carga es muy objetiva. Como dijo Arnold Schwarzenegger, 200 libras en la barra siempre serán 200 libras. Pero esa misma carga puede resultar en un estrés muy diferente. En balonmano, la carga proviene de distintos estresores: juego, entrenamiento, vida, trabajo, estudios, lesiones o enfermedades. Todo esto añade carga a nuestros sistemas. El estrés, por otro lado, es la respuesta individual del atleta a esa carga. El mismo peso no genera el mismo estrés un lunes por la mañana en un atleta descansado que al final de una larga temporada. No podemos adivinar la respuesta; necesitamos encontrar formas de descubrir qué estrés genera cierta carga, y ese es el principio de la monitorización.",
+      "keywords": [
+        "load",
+        "strain",
+        "carga-objetiva",
+        "respuesta-individual",
+        "monitorizacion"
+      ],
+      "entities": [
+        "Arnold Schwarzenegger"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre load y strain?",
+        "¿Qué factores externos afectan el estrés de un atleta?"
+      ],
+      "related_terms": [
+        "carga objetiva",
+        "estrés individual",
+        "respuesta",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción a la necesidad de medir frente a adivinar en el deporte profesional.",
+      "context_after": "Análisis de las variables específicas que componen la carga de entrenamiento."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:02:42",
+      "end_timestamp": "00:03:43",
+      "start_seconds": 162,
+      "end_seconds": 223,
+      "duration_seconds": 61,
+      "timestamp_url": "?t=162",
+      "title": "Variables y contextos que definen la carga de entrenamiento",
+      "summary": "Para cuantificar correctamente la carga deportiva, se deben considerar diversas variables como el tipo de entrenamiento, la intensidad, el volumen, la densidad entre sesiones y la fase específica del macrociclo en la que se encuentra el equipo.",
+      "literal_quote": "So all these different sorts of training are going to be putting different kind of loads on our players.",
+      "full_transcript": "Hablando un poco más sobre la carga en el deporte, tenemos las cosas obvias: la carga de la competición y la del entrenamiento. Debemos poner en perspectiva qué tipo de entrenamiento estamos analizando: ¿es entrenamiento de balonmano, de velocidad, o de pesas? Todos estos diferentes tipos de entrenamiento impondrán distintos tipos de cargas. Si nos mantenemos en el concepto del entrenamiento, debemos preguntarnos: ¿cuál fue la intensidad? ¿Cuál fue el volumen? Algo muy importante es cuánto tiempo tuvimos entre las sesiones, es decir, qué tan denso fue el programa, y en qué fase del entrenamiento nos encontramos. ¿Estamos en un bloque de fuerza absoluta, hipertrofia o competición? En competición entrenamos menos, por lo que la sesión individual podría ser más dura para los atletas.",
+      "keywords": [
+        "volumen",
+        "intensidad",
+        "densidad",
+        "fase-entrenamiento",
+        "variables-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué variables componen la carga de entrenamiento?",
+        "¿Cómo afecta la fase de entrenamiento a la carga?"
+      ],
+      "related_terms": [
+        "volumen",
+        "intensidad",
+        "fase de entrenamiento",
+        "densidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición del estrés como respuesta individual a la carga.",
+      "context_after": "Fin del fragmento analizado sobre variables de carga."
+    }
+  ]
+}

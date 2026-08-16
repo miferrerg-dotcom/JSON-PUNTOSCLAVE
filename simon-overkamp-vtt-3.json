@@ -1,0 +1,153 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:46",
+    "total_duration_seconds": 286,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:25",
+      "start_seconds": 1,
+      "end_seconds": 85,
+      "duration_seconds": 84,
+      "timestamp_url": "?t=1",
+      "title": "Factores individuales que influyen en la carga del atleta",
+      "summary": "Se destaca que los deportistas son seres humanos con contextos únicos. La carga debe individualizarse considerando la edad de entrenamiento, genética, nutrición, historial de lesiones y, en el caso de las mujeres, el ciclo menstrual, ya que afecta las cualidades físicas y el riesgo de lesiones.",
+      "literal_quote": "So load can be very individual too. So we got to put into perspective who we are working with here.",
+      "full_transcript": "Aparte del contexto deportivo, tratamos con atletas, por supuesto, también tratamos con seres humanos. Así que la carga también puede ser muy individual. Tenemos que poner en perspectiva con quién estamos trabajando aquí. Tenemos que observar su edad de entrenamiento, su género, su composición genética, las hormonas, lo que obviamente será un factor clave al programar para atletas femeninas. Teniendo en cuenta que en diferentes partes de su ciclo menstrual, diferentes cualidades de entrenamiento pueden entrenarse a distinto nivel o con diferente efectividad, y algunas pueden incluso reducir o aumentar el riesgo de lesiones si no prestamos atención a esos detalles. Tenemos que observar el estado de nutrición e hidratación. ¿Cómo durmieron? ¿Vuelven de una lesión? ¿Son propensos a lesionarse? ¿Han estado enfermos? ¿Están lidiando con el jet lag?",
+      "keywords": [
+        "factores-individuales",
+        "ciclo-menstrual",
+        "nutricion",
+        "genetica",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué factores individuales influyen en la carga de un atleta?",
+        "¿Cómo afecta el ciclo menstrual al entrenamiento deportivo?"
+      ],
+      "related_terms": [
+        "carga",
+        "individual",
+        "ciclo",
+        "menstrual",
+        "prevención",
+        "de",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la diferencia entre la carga (load) como un factor objetivo y el estrés (strain) como la respuesta individual del atleta.",
+      "context_after": "Se pasa a analizar los factores y estresores externos que también suman a la carga del deportista profesional."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:01:26",
+      "end_timestamp": "00:03:07",
+      "start_seconds": 86,
+      "end_seconds": 187,
+      "duration_seconds": 101,
+      "timestamp_url": "?t=86",
+      "title": "Estresores externos y factores sociales en el deporte profesional",
+      "summary": "Además de la carga física, el atleta enfrenta múltiples estresores externos como el clima, los viajes y la altitud. A esto se suman las presiones profesionales y sociales: medios de comunicación, patrocinadores, redes sociales, controles antidopaje, familia y expectativas del entorno.",
+      "literal_quote": "There's different kind of stresses that come with professional sports, such as media or sponsors, which is always very challenging for our athletes to juggle.",
+      "full_transcript": "Por otro lado, también tenemos factores de carga externa, diferentes climas, diferente temperatura. ¿Entrenamos o competimos a diferentes altitudes? ¿A qué hora del día entrenamos? ¿Cómo viajamos y qué tan lejos? Hay diferentes tipos de estrés que vienen con el deporte profesional, como los medios o los patrocinadores, lo cual siempre es un reto para nuestros atletas equilibrar. El estrés de los controles antidopaje, cosas que pasan por su mente, y por supuesto, la comercialización personal a través de las redes sociales y cómo es la percepción del atleta. Los factores de carga social pueden ser la familia, los amigos, con ciertas expectativas o demandas hacia los atletas. Los entrenadores, por supuesto, son un factor; la educación, el trabajo paralelo y todos los involucrados en el staff del equipo.",
+      "keywords": [
+        "estresores-externos",
+        "carga-social",
+        "viajes",
+        "redes-sociales",
+        "presion-profesional"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores de carga externa en el deporte?",
+        "¿Qué tipo de estrés social afecta a los atletas profesionales?"
+      ],
+      "related_terms": [
+        "factores",
+        "externos",
+        "clima",
+        "estrés",
+        "social",
+        "entorno"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de los factores genéticos, fisiológicos y de salud internos del deportista.",
+      "context_after": "Transición hacia las herramientas y opciones que existen para monitorizar toda esta carga acumulada."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:03:16",
+      "end_timestamp": "00:04:46",
+      "start_seconds": 196,
+      "end_seconds": 286,
+      "duration_seconds": 90,
+      "timestamp_url": "?t=196",
+      "title": "Monitorización subjetiva y cuestionarios psicométricos",
+      "summary": "Para convertir la carga en estrés medible (strain), se utilizan métodos de monitorización subjetiva como los cuestionarios psicométricos diarios y las escalas RPE/RIR. Estas herramientas permiten evaluar la calidad del sueño, el estado de ánimo, el estrés y el dolor muscular percibido por el deportista.",
+      "literal_quote": "We distinguish between subjective forms of monitoring and objective form of monitoring. On the subjective side, we got so-called psychometric questionnaires.",
+      "full_transcript": "Estamos analizando la monitorización. Tenemos diferentes opciones. Distinguimos entre formas subjetivas y objetivas de monitorización. En el lado subjetivo, tenemos los llamados cuestionarios psicométricos. Incluyen preguntas como cuántas horas dormiste anoche, cómo calificarías tu calidad de sueño en una escala del 1 al 10, qué tan estresado estás hoy, cómo es tu estado de ánimo, qué tan adolorido estás hoy en una escala del 1 al 10. Todo lo que nos da la oportunidad de transferir la carga a estrés (strain), porque generalmente estos cuestionarios se envían a los atletas por la mañana al despertar, para poder incluir el estrés del día anterior, ya sea por competición, entrenamiento o lesión. Así, el atleta da perspectiva a la carga que prescribimos. Luego, obviamente tenemos como opción de monitorización subjetiva hacer que los atletas usen un método RPE o RIR.",
+      "keywords": [
+        "monitorizacion-subjetiva",
+        "cuestionarios-psicometricos",
+        "rpe",
+        "rir",
+        "strain"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué son los cuestionarios psicométricos en el deporte?",
+        "¿Cómo se mide la carga subjetiva de un atleta?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "subjetiva",
+        "rpe",
+        "rir",
+        "calidad",
+        "del",
+        "sueño"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la multiplicidad de estresores tanto individuales como externos y sociales que afectan al atleta.",
+      "context_after": "Fin del fragmento. Se continuará con la profundización en los métodos RPE y monitorización objetiva."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "video": {
+    "video_id": "WEBVTT-6",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:30",
+    "total_duration_seconds": 270,
+    "source_file": "WEBVTT-6",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-6-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:17",
+      "start_seconds": 1,
+      "end_seconds": 197,
+      "duration_seconds": 196,
+      "timestamp_url": "?t=1",
+      "title": "Demandas metabólicas e intermitencia en el balonmano",
+      "summary": "El balonmano exige acciones de alta intensidad de seis a ocho segundos, repetidas entre 55 y 85 veces por partido. Debido a su naturaleza intermitente y a la recuperación incompleta, el entrenamiento no solo debe buscar picos de fuerza, sino desarrollar resiliencia y capacidad de amortiguación anaeróbica para minimizar la caída del rendimiento.",
+      "literal_quote": "The key to success is not just raising the bar, getting them as strong, as powerful as possible, but we also want to make sure that their decline in performance is as small as possible.",
+      "full_transcript": "Sabemos que distinguimos entre carga metabólica y carga mecánica. Y si hablamos de carga metabólica, necesitamos estar familiarizados con los requisitos metabólicos en el deporte del balonmano. Así que necesitamos saber qué deben ser capaces de rendir o compensar nuestros atletas cuando compiten en su deporte. El deporte del balonmano es, por definición, un deporte basado en la fuerza y la fuerza-velocidad, pero en lo que respecta a sus demandas metabólicas, lo principal son las acciones de alta intensidad de unos seis a ocho segundos, dependiendo un poco de la posición y el estilo de juego. Estas acciones de alta intensidad luego se cambian por acciones de muy baja intensidad. Y ahora el desafío es que el balonmano, en cuanto a sus requisitos físicos, es intermitente. Así que los períodos de descanso no son suficientes para que nuestro sistema metabólico se recupere por completo. Así que no solo necesitan ser fuertes y potentes, sino repetir eso entre 55 y 85 veces por partido. Obviamente su rendimiento disminuirá, pero la clave del éxito no es solo hacerlos más fuertes, sino asegurarnos de que la caída en su rendimiento sea lo más pequeña posible. Necesitamos aumentar su capacidad metabólica y su resiliencia, su capacidad de amortiguación anaeróbica para manejar el lactato. Todos los sistemas de energía necesitan estar preparados en un entorno que desafíe esta naturaleza intermitente.",
+      "keywords": [
+        "carga-metabolica",
+        "intermitencia",
+        "resiliencia",
+        "lactato",
+        "sistemas-energeticos"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son las demandas metabólicas del balonmano?",
+        "¿Cómo afecta la intermitencia al rendimiento en el balonmano?"
+      ],
+      "related_terms": [
+        "carga",
+        "metabólica",
+        "alta",
+        "intensidad",
+        "fatiga",
+        "tolerancia",
+        "al",
+        "lactato"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se introdujo la diferencia entre la carga metabólica y mecánica en el análisis del rendimiento.",
+      "context_after": "Se aborda el impacto del estrés cognitivo y la toma de decisiones en la fatiga acumulada del jugador."
+    },
+    {
+      "id": "WEBVTT-6-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:03:17",
+      "end_timestamp": "00:04:30",
+      "start_seconds": 197,
+      "end_seconds": 270,
+      "duration_seconds": 73,
+      "timestamp_url": "?t=197",
+      "title": "Toma de decisiones bajo presión y estrés cognitivo",
+      "summary": "Un factor crucial en el deporte es el estrés derivado de la necesidad de tomar decisiones correctas bajo limitaciones de tiempo extremas. Este estrés cognitivo acelera la fatiga física, por lo que es indispensable incorporar ejercicios de toma de decisiones cuando el jugador ya se encuentra fatigado.",
+      "literal_quote": "The necessity of making the right decision within a small time frame adds stress, and the stress also adds on to the part of them fatiguing earlier.",
+      "full_transcript": "Otro aspecto importante de los requisitos metabólicos y físicos del balonmano es el tema del estrés. Estrés en el sentido de toma de decisiones bajo presión. Así que pasar el balón, tirar, bloquear, robar... Todas estas cosas están bajo una restricción de tiempo muy estrecha, por lo que los jugadores deben ser capaces de tomar la decisión correcta incluso cuando están fatigados. Y la necesidad de tomar la decisión correcta en un pequeño marco de tiempo añade estrés, y este estrés también contribuye a que se fatiguen antes. Así que ese es otro punto clave a la hora de entrenar a nuestros jugadores: no solo necesitan ser capaces de ser fuertes, potentes, saltar, correr y lanzar incluso estando fatigados, sino que siempre tiene sentido añadir el aspecto de la toma de decisiones en ese estado.",
+      "keywords": [
+        "toma-decisiones",
+        "estres-cognitivo",
+        "fatiga",
+        "entrenamiento",
+        "presion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el estrés cognitivo a la fatiga en el balonmano?",
+        "¿Por qué es importante entrenar la toma de decisiones bajo fatiga?"
+      ],
+      "related_terms": [
+        "toma",
+        "de",
+        "decisiones",
+        "estrés",
+        "fatiga",
+        "entrenamiento",
+        "cognitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la necesidad de preparar los tres sistemas energéticos para soportar las demandas metabólicas y la intermitencia del deporte.",
+      "context_after": "Finaliza el análisis de los requerimientos físicos y mentales específicos del balonmano."
+    }
+  ]
+}

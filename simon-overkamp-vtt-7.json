@@ -1,0 +1,116 @@
+{
+  "video": {
+    "video_id": "WEBVTT-7",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:37",
+    "total_duration_seconds": 277,
+    "source_file": "WEBVTT-7",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-7-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:02:24",
+      "start_seconds": 2,
+      "end_seconds": 144,
+      "duration_seconds": 142,
+      "timestamp_url": "?t=2",
+      "title": "Monitorización de la carga mecánica mediante tecnología LPS",
+      "summary": "Para cuantificar la carga mecánica en deportes de interior como el balonmano, se emplea tecnología de posicionamiento local (LPS) en lugar de GPS. El sistema mide cerca de 180 métricas de rendimiento, permitiendo establecer una línea base individual para cada atleta y detectar excesos o déficits de entrenamiento.",
+      "literal_quote": "In indoor sports such as handball, we use an LPS positioning device equipped with an accelerometer, and it helps us to measure diverse performance parameters...",
+      "full_transcript": "No solo rastreamos y monitorizamos datos metabólicos, sino también carga mecánica. Lo hacemos en la Federación Alemana de Balonmano con un sistema llamado KINEXON. Es similar a los sistemas de rastreo GPS que se usan especialmente en el fútbol europeo, donde los atletas usan dispositivos rastreadores debajo de un chaleco en el área de la columna torácica y cervical. En deportes de interior como el balonmano, utilizamos un dispositivo de posicionamiento LPS equipado con un acelerómetro, el cual nos ayuda a medir diversos parámetros de rendimiento. Medimos la distancia total que corren los atletas, cambios de dirección, velocidad máxima, número de aceleraciones y deceleraciones, y también la cantidad y altura de los saltos. En total, somos capaces de rastrear unas 180 métricas. La forma más fácil de describir cómo monitorizar la carga mecánica con un dispositivo como este es recordando el principio de la línea base individual. Una vez establecida, sabemos si alguien está por encima o por debajo de su capacidad (over o under reaching), y podemos comparar esos datos crudos para entender los cambios en el atleta.",
+      "keywords": [
+        "carga-mecanica",
+        "lps",
+        "kinexon",
+        "metricas",
+        "linea-base"
+      ],
+      "entities": [
+        "KINEXON",
+        "Federación Alemana de Balonmano",
+        "LPS",
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué tecnología se usa para medir la carga mecánica en balonmano?",
+        "¿Cuáles son las diferencias entre el uso de GPS y LPS en el deporte?",
+        "¿Qué métricas de carga mecánica se evalúan con el sistema LPS?"
+      ],
+      "related_terms": [
+        "carga",
+        "mecánica",
+        "lps",
+        "kinexon",
+        "línea",
+        "base"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación previa sobre la medición de la carga metabólica en el jugador.",
+      "context_after": "Aplicación práctica de estos datos mecánicos en la prevención de lesiones y diseño de entrenamientos."
+    },
+    {
+      "id": "WEBVTT-7-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:04:37",
+      "start_seconds": 146,
+      "end_seconds": 277,
+      "duration_seconds": 131,
+      "timestamp_url": "?t=146",
+      "title": "Aplicación de métricas: Return to Play, periodización y compensación",
+      "summary": "La línea base mecánica se aplica en tres áreas críticas: definir protocolos de 'Return to Play' asegurando alcanzar el 95% del rendimiento previo a la lesión, periodizar la semana mediante un sistema de niveles por tarea, y diseñar sesiones de compensación en torneos para los jugadores con pocos minutos.",
+      "literal_quote": "We can incorporate individual metrics as a benchmark within return to sports protocols.",
+      "full_transcript": "Podemos incorporar métricas individuales como un punto de referencia dentro de los protocolos de 'Return to Sports'. Si sabemos que un atleta corría a 30 kilómetros por hora antes de una lesión del ligamento cruzado anterior (LCA), y ahora estamos en la última fase para reincorporarlo al juego, queremos asegurarnos de que alcance al menos el 95% antes de ponerlo a entrenar con contacto, reduciendo así el riesgo de que vuelva a lesionarse. Además, podemos periodizar nuestra semana de entrenamiento según las diferentes cargas mecánicas de los entrenamientos del equipo, estableciendo un sistema de niveles (tier system) para saber qué carga administra cada ejercicio específico. Y por último, al establecer esta línea base, se vuelve fundamental durante los torneos con diferentes tiempos de juego. Podemos usar esos datos para nuestras sesiones de compensación de partidos. Si hay jugadores que no jugaron mucho, o nada en absoluto, intentamos que alcancen esos números y esa carga mecánica que normalmente tendrían en un entrenamiento o partido para mantenerlos en forma competitiva.",
+      "keywords": [
+        "return-to-play",
+        "lca",
+        "periodizacion",
+        "sesiones-compensacion",
+        "benchmarking"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se utilizan las métricas de carga mecánica en protocolos Return to Play?",
+        "¿Qué porcentaje de rendimiento previo a la lesión se busca en el balonmano?",
+        "¿Qué es una sesión de compensación en un torneo internacional?"
+      ],
+      "related_terms": [
+        "return",
+        "to",
+        "play",
+        "periodización",
+        "compensación",
+        "de",
+        "partidos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del uso de métricas LPS para establecer perfiles de carga mecánica.",
+      "context_after": "Finalización de la explicación sobre la compensación del volumen y la intensidad durante los campeonatos."
+    }
+  ]
+}

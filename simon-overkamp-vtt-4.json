@@ -1,0 +1,109 @@
+{
+  "video": {
+    "video_id": "WEBVTT-4",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:49",
+    "total_duration_seconds": 289,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-4-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:07",
+      "start_seconds": 1,
+      "end_seconds": 187,
+      "duration_seconds": 186,
+      "timestamp_url": "?t=1",
+      "title": "Monitorización subjetiva y la comunicación como 'gold standard'",
+      "summary": "Se analiza el uso de escalas RPE y cuestionarios psicométricos para cuantificar el estrés (strain) post-entrenamiento. Se destaca que, a pesar de usar estas herramientas, la comunicación directa entre entrenador y atleta sigue siendo el 'gold standard' para interpretar datos y detectar estresores externos.",
+      "literal_quote": "To me, that's still the gold standard of monitoring. So having a talk between coach and athlete...",
+      "full_transcript": "Así que cuando hablamos del RPE, índice de esfuerzo percibido, o el método RIR, repeticiones en reserva, obviamente nos viene a la mente el entrenamiento de fuerza, pero especialmente en el RPE, calificando del 1 al 10 qué tan agotadora fue la actividad o sesión previa. También puede ser muy útil en el concepto general de monitorización que los atletas califiquen el agotamiento de una práctica o competición. Así no solo sabemos la duración del entrenamiento prescrito, sino también el estrés (strain) que esa actividad generó. Es muy útil saber la perspectiva de los atletas a posteriori para la monitorización a largo plazo. Aparte de estas opciones subjetivas, la comunicación con el entrenador sigue permitida. Para mí, tener una charla entre entrenador y atleta sigue siendo el 'gold standard' de la monitorización. Los buenos entrenadores saben cómo se sienten sus atletas solo por cómo los miran o entran al gimnasio. Si las respuestas del cuestionario psicométrico nos hacen levantar una ceja, es buen momento para hablar y preguntar: '¿Qué pasa? ¿Es el entrenamiento o hay otro estresor en tu vida?', como una relación o un bebé recién nacido que dificulta el sueño.",
+      "keywords": [
+        "rpe",
+        "rir",
+        "monitorizacion-subjetiva",
+        "gold-standard",
+        "comunicacion",
+        "strain"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuál es el gold standard en la monitorización de atletas?",
+        "¿Cómo se complementan los cuestionarios psicométricos con la comunicación directa?"
+      ],
+      "related_terms": [
+        "rpe",
+        "rir",
+        "estrés",
+        "comunicación",
+        "entrenador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se introducen los cuestionarios psicométricos como forma de monitorización subjetiva diaria.",
+      "context_after": "Se pasa a detallar las métricas de monitorización objetiva como el ACWR y los biomarcadores."
+    },
+    {
+      "id": "WEBVTT-4-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:03:07",
+      "end_timestamp": "00:04:49",
+      "start_seconds": 187,
+      "end_seconds": 289,
+      "duration_seconds": 102,
+      "timestamp_url": "?t=187",
+      "title": "Monitorización objetiva: ACWR, biomarcadores y contexto",
+      "summary": "La monitorización objetiva requiere comparar la carga aguda con la crónica (ACWR) para entender el contexto real del atleta. Además, se introducen herramientas adicionales como el análisis de biomarcadores sanguíneos y la medición de la carga metabólica y mecánica.",
+      "literal_quote": "It only helps us if we know their baseline, if we know the context.",
+      "full_transcript": "Y luego también tenemos herramientas u opciones de monitorización objetiva. Tenemos la oportunidad de comparar la sesión o semana de entrenamiento con nuestra línea base. Al hacer esto, se llama ACWR (ratio de carga de trabajo aguda a crónica). Si medimos algo, solo nos ayuda si conocemos su línea base y el contexto. Si tenemos un entrenamiento extremadamente agotador, como habilidad de sprints repetidos, debemos mirar el contexto de entrenamiento: '¿Qué más hicieron esta semana? ¿Es realmente un pico o es una intensidad de línea base?'. Siempre ayuda poner estas sesiones individuales en contexto y perspectiva. También tenemos la oportunidad de analizar biomarcadores en sangre cuando nuestro personal médico extrae muestras, como creatina quinasa, urea, creatinina, lactato, todas estas cosas. Y luego, obviamente, cuanto más regularmente lo hagamos, más información nos dará. Y luego, como mencionaré en un minuto, también tenemos la oportunidad de rastrear tanto la carga metabólica como la mecánica.",
+      "keywords": [
+        "acwr",
+        "monitorizacion-objetiva",
+        "biomarcadores",
+        "creatina-quinasa",
+        "lactato",
+        "carga-metabolica"
+      ],
+      "entities": [
+        "ACWR"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el ACWR en el control de carga deportiva?",
+        "¿Qué biomarcadores se utilizan para la monitorización objetiva?"
+      ],
+      "related_terms": [
+        "acwr",
+        "biomarcadores",
+        "línea base",
+        "contexto",
+        "lactato"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se subraya la importancia de la comunicación directa entrenador-atleta en la monitorización subjetiva.",
+      "context_after": "Se introducirá el seguimiento específico de la carga metabólica y mecánica."
+    }
+  ]
+}

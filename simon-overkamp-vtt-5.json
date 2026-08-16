@@ -1,0 +1,113 @@
+{
+  "video": {
+    "video_id": "WEBVTT-5",
+    "video_title": "Load monitoring in elite handball",
+    "speaker": "Simon Oberkamm",
+    "total_duration": "00:04:20",
+    "total_duration_seconds": 260,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-5-001",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:49",
+      "start_seconds": 3,
+      "end_seconds": 109,
+      "duration_seconds": 106,
+      "timestamp_url": "?t=3",
+      "title": "Score de 'Readiness' y monitorización en tiempo real",
+      "summary": "La combinación de métricas objetivas y subjetivas genera un 'score de readiness' que indica la preparación del atleta. Como ejemplo, se muestran datos reales de la selección femenina analizando fatiga, calidad y cantidad de sueño, dolor muscular y estado de ánimo tras un partido.",
+      "literal_quote": "If we are looking at a combination of the two, that leads us to the score of readiness. How ready are my athletes to train today, or how ready are my athletes to compete today?",
+      "full_transcript": "Sabemos que tenemos diferentes opciones para monitorizar: opciones objetivas y opciones subjetivas. Si observamos una combinación de ambas, eso nos lleva al 'score de readiness' (puntuación de preparación). ¿Qué tan preparados están mis atletas para entrenar hoy, o qué tan preparados están para competir hoy? Si puedo guiarlos rápidamente por estos semicírculos, estos son en realidad datos en tiempo real de nuestra selección nacional femenina. Así que esta es la puntuación, 76%, por lo que 76 de 100 es la preparación total del equipo. Y luego esto significa fatiga. Así que obtuvimos una puntuación de 7.3, que también se traduce en un 73% de fatiga. La calidad del sueño está en el 75%. El tiempo de sueño, es decir, el tiempo en horas, está en 8.7, por lo que estamos bastante contentos con eso. Su dolor muscular general (soreness) está en 7.2, y esto es algo a lo que quizás debamos estar atentos. Y su estado de ánimo general está en un 8.3, lo cual es explicable porque esta fue la mañana después de un partido que ganamos, por lo que estaban de bastante buen humor. Como pueden ver, esos son datos de la vida real, y obviamente es solo un recorte de un día, y el objetivo principal es vigilar las tendencias aquí, tanto las tendencias individuales como las tendencias como equipo.",
+      "keywords": [
+        "readiness",
+        "monitorizacion",
+        "fatiga",
+        "sueno",
+        "seleccion-femenina"
+      ],
+      "entities": [
+        "Selección Nacional Femenina"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula el score de readiness en los deportistas?",
+        "¿Qué métricas componen la puntuación de readiness en el balonmano?"
+      ],
+      "related_terms": [
+        "readiness",
+        "fatiga",
+        "calidad del sueño",
+        "datos",
+        "en",
+        "tiempo",
+        "real"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaban las métricas de monitorización objetiva y subjetiva, así como sus ventajas.",
+      "context_after": "El análisis se traslada al cálculo del volumen de entrenamiento multiplicando los minutos por la escala RPE."
+    },
+    {
+      "id": "WEBVTT-5-002",
+      "video_title": "Load monitoring in elite handball",
+      "speaker": "Simon Oberkamm",
+      "start_timestamp": "00:01:57",
+      "end_timestamp": "00:04:20",
+      "start_seconds": 117,
+      "end_seconds": 260,
+      "duration_seconds": 143,
+      "timestamp_url": "?t=117",
+      "title": "Cálculo de carga (Volumen x RPE) y ratio ACWR",
+      "summary": "Se explica cómo cuantificar la carga multiplicando el volumen total de entrenamiento (en minutos) por el valor subjetivo de RPE. Además, se introduce el ratio ACWR, estableciendo la zona óptima entre 0.8 y 1.3 (80%-130%) respecto a la línea base para evitar el sobreentrenamiento y reducir el riesgo de lesión.",
+      "literal_quote": "We know that there is a relationship between the acute and the chronic load, and everything that's outside of the range from 0.8 to 1.3... is highly correlated to an increased risk of injury.",
+      "full_transcript": "Aparte de la preparación (readiness), tenemos la carga de entrenamiento (training load), que también se relaciona con lo que hablamos antes. Tenemos el volumen de entrenamiento, por ejemplo: 60 minutos de balonmano, 90 minutos de fuerza, 25 minutos de velocidad. Eso nos da una cantidad de números, una cantidad de minutos, que obviamente se traduce en carga. Pero la parte realmente interesante viene con la escala RPE del 1 al 10. Si miramos este gráfico de aquí, tenemos una cantidad total de números que luego se multiplica por la puntuación que le dio el jugador individual. Así que si el día anterior tuvimos 100 minutos de entrenamiento total, ya sea de fuerza, rendimiento o balonmano, con una puntuación de cuatro por parte del atleta, eso nos lleva a 4 por 100 es 400. Y si miras la línea amarilla, que es la línea base, y luego la línea verde y azul, que es la proporción de lo que está sucediendo en total (carga crónica) y lo que está sucediendo ahora mismo (carga aguda). Llegamos de nuevo al ACWR (ratio de carga de trabajo aguda a crónica), que creo que Gabaldon en 2012 puso en perspectiva por primera vez. Sabemos que existe una relación entre la carga aguda y crónica, y todo lo que está fuera del rango de 0.8 a 1.3, o si se prefiere, del 80% al 130% de su línea base (lo que es óptimo para ellos o a lo que están acostumbrados). Cualquier cosa por debajo es subentrenamiento, y por encima es 'overreaching' o sobreentrenamiento, lo cual está altamente correlacionado con un mayor riesgo de lesión.",
+      "keywords": [
+        "training-load",
+        "rpe",
+        "acwr",
+        "volumen",
+        "carga-aguda",
+        "carga-cronica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula la carga de entrenamiento total utilizando RPE?",
+        "¿Qué es el ACWR y cuál es su rango óptimo para evitar lesiones?"
+      ],
+      "related_terms": [
+        "carga",
+        "aguda",
+        "y",
+        "crónica",
+        "acwr",
+        "riesgo",
+        "de",
+        "lesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de medir la preparación del atleta utilizando el índice de Readiness.",
+      "context_after": "Conclusión de la explicación técnica sobre las métricas de carga en el balonmano de élite."
+    }
+  ]
+}
