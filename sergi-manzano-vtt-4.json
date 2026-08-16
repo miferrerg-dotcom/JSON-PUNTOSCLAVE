@@ -1,0 +1,377 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+    "speaker": "Sergio Manzano",
+    "total_duration": "00:23:59",
+    "total_duration_seconds": 1439,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:00:24",
+      "end_timestamp": "00:03:22",
+      "start_seconds": 24,
+      "end_seconds": 202,
+      "duration_seconds": 178,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=24",
+      "title": "El conflicto biológico entre sobrecarga y especificidad",
+      "summary": "Existe un conflicto entre la sobrecarga mecánica y la especificidad. La sobrecarga mecánica incide en factores periféricos (musculares), mientras que la especificidad pura (sobrecarga por variación) se enfoca en adaptaciones centrales y neurales. Según Dan Cleather, debemos decidir si priorizar el impulso mecánico o la sobrecarga por variación (coordinativa).",
+      "literal_quote": "Cuando usamos sobrecargar este gesto deportivo mediante esta sobrecarga mecánica, lo que estamos incidiendo es más en estos factores periféricos... cuando maximizamos esta especificidad... nos estamos centrando mucho más en estas adaptaciones a nivel central.",
+      "full_transcript": "Cuando hablamos de la relación sobrecarga y especificidad, nos encontramos que ambos principios se encuentran en conflicto, que tienen esta relación negativa. ¿Por qué? Porque cuando usamos sobrecargar este gesto deportivo mediante esta sobrecarga mecánica, lo que estamos incidiendo es más en estos factores periféricos, aunque van a existir también adaptaciones a nivel neural, pero estamos incidiendo principalmente a nivel periférico, a nivel del músculo. Entonces, cuando maximizamos esta especificidad y trabajamos muy cerca con esta sobrecarga por variación, cerca de esta especificidad coordinativa del gesto deportivo, nos estamos centrando mucho más en estas adaptaciones a nivel central y neural. Lo que os vengo a proponer yo no es ni una ni otra, porque desde mi punto de vista, como veremos ahora, tienen cabida ambas en nuestro entrenamiento, favoreciendo más una u otra en función de nuestro contexto y nuestros atletas. Pero aquí os traigo lo que serían las propuestas de Dan Cleather, un biomecánico y entrenador bastante famoso de Reino Unido, que nos propone que para seleccionar esos ejercicios que buscan generar esa transferencia positiva al gesto específico, tenemos que hacernos principalmente dos preguntas... si el ejercicio permite una sobrecarga en términos del impulso mecánico o si el ejercicio permite la posibilidad de sobrecarga en términos de variación.",
+      "keywords": [
+        "conflicto",
+        "sobrecarga-mecanica",
+        "factores-perifericos",
+        "especificidad",
+        "adaptaciones-centrales",
+        "impulso-mecanico",
+        "variacion"
+      ],
+      "entities": [
+        "Dan Cleather"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el conflicto entre sobrecarga y especificidad?",
+        "¿Dónde se habla de las diferencias entre adaptaciones periféricas y centrales?",
+        "¿Cómo se aplican los conceptos de Dan Cleather sobre impulso mecánico y variación?"
+      ],
+      "related_terms": [
+        "conflicto",
+        "factores",
+        "periféricos",
+        "adaptaciones",
+        "neurales",
+        "impulso",
+        "mecánico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del bloque final, donde se relacionan todos los principios expuestos anteriormente.",
+      "context_after": "Se compara directamente el desarrollo de la transferencia desde el enfoque tradicional frente al enfoque coordinativo."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:03:23",
+      "end_timestamp": "00:06:01",
+      "start_seconds": 203,
+      "end_seconds": 361,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=203",
+      "title": "Enfoque tradicional vs coordinativo en la transferencia",
+      "summary": "Para transferir entrenamiento, el modelo tradicional aplica una sobrecarga general (como peso muerto o sentadilla) que progresivamente pierde correspondencia dinámica específica. El modelo coordinativo, en cambio, elimina los ejercicios generales para mantenerse siempre cerca del patrón específico usando variaciones o constreñimientos (ej. cargada a una pierna para simular el toe-off de la carrera).",
+      "literal_quote": "Si nos vamos más al enfoque coordinativo, si os fijáis, en estos ejercicios generales ya no existe una categoría de ejercicios... Nos quedamos siempre cerca de ese patrón coordinativo específico del gesto que queremos mejorar.",
+      "full_transcript": "Aquí lo que os he puesto, lo que sería este artículo de transfer of training, os he puesto lo que sería en función de las dos propuestas, un enfoque más coordinativo o un enfoque más tradicional en el desarrollo de la federación. Y aquí podemos ver cómo pasamos, si clasificamos los ejercicios desde más generales a más específicos, cómo ambos tipos de filosofías... enfocan estos tipos de entrenamiento y estas transferencias. Si vamos a la sobrecarga tradicional, nos vemos que cuando nos acercamos al ejercicio deportivo, simplemente lo que estamos intentando es sobrecargar, por ejemplo, a nivel de lastrado o después con más ejercicios de pliometría. Y a medida que nos alejamos, esos criterios del principio de correspondencia dinámica vamos cumpliendo cada vez menos hasta que llegamos a ejercicios más generales... como podrían ser peso muerto o sentadilla. Entonces, si nos vamos más al enfoque coordinativo, si os fijáis, en estos ejercicios generales ya no existe una categoría de ejercicios, porque ya no llegamos a este nivel de generalidad. Nos quedamos siempre cerca de ese patrón coordinativo específico del gesto que queremos mejorar. Entonces, si os fijáis, lo más lejos que nos encontraremos serán, por ejemplo, ejercicios que buscan simular estos elementos atractores o estos elementos estables del gesto, como podría ser esta cargada a una pierna que busca simular un atractor clave de la carrera, que es este movimiento de toe off. Y después... acercándonos mucho más a este aspecto técnico y coordinativo, mucho más que al desarrollo de capacidades como sería en la otra filosofía.",
+      "keywords": [
+        "transferencia",
+        "enfoque-tradicional",
+        "enfoque-coordinativo",
+        "ejercicios-generales",
+        "patron-coordinativo",
+        "atractores",
+        "toe-off"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre las diferencias entre el enfoque tradicional y coordinativo?",
+        "¿Dónde se habla de eliminar los ejercicios generales en el entrenamiento?",
+        "¿Cómo se aplican las variaciones para simular el toe-off en la carrera?"
+      ],
+      "related_terms": [
+        "enfoque",
+        "tradicional",
+        "coordinativo",
+        "correspondencia",
+        "dinámica",
+        "patrón",
+        "atractores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el conflicto entre adaptaciones periféricas y neurales (sobrecarga mecánica vs variación).",
+      "context_after": "Se detalla cómo integrar de forma complementaria ambos modelos en la periodización y en la estructura de la sesión diaria."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:06:02",
+      "end_timestamp": "00:09:12",
+      "start_seconds": 362,
+      "end_seconds": 552,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=362",
+      "title": "Modelos complementarios a nivel macro (periodización) y micro (sesión)",
+      "summary": "Ambos modelos tienen cabida. A nivel macro: las fases preparatorias usan variación coordinativa para que el atleta explore su gesto y revele fortalezas, las cuales se enfatizarán en competición. A nivel micro (sesión): el calentamiento actúa como ventana de exploración coordinativa, reservando la parte principal de la sesión para la sobrecarga mecánica pesada.",
+      "literal_quote": "A nivel mucho más micro, la sesión, lo trato similar, en el sentido de que el calentamiento de la sesión muchas veces en mi filosofía es tratarlo como un ambiente también de exploración... y cuando llegamos a esa parte principal de la sesión... es mucho más esa sobrecarga mecánica.",
+      "full_transcript": "Lo que os proponía es esta pregunta de si pueden ser estos modelos complementarios. Desde mi punto de vista... ambos tienen cabida en fases preparatorias y fases competitivas, pero me gusta mucho proponer esta sobrecarga por variación en estas fases preparatorias, sobre todo para promover un poco la exploración a nivel del gesto técnico o el gesto deportivo y ver un poco cómo el atleta responde a diferentes sobrecargas por variación... para yo poder ver un poco cuáles son sus fortalezas y después poderlo enfatizar en fases más competitivas o más cerca de la competición. Y desde un punto de vista de la sobrecarga más mecánica, lo mismo, teniendo en cuenta mucho el individuo, quizás al inicio, ejercicios más generales... y a medida que nos acercamos a estas fases competitivas, sabiendo un poco cómo responde mi individuo a cargas más altas, a cargas más bajas, establecer su estrategia también específica. Esto sería un enfoque mucho más macro, pero a nivel mucho más micro, la sesión, lo trato similar, en el sentido de que el calentamiento de la sesión muchas veces en mi filosofía es tratarlo como un ambiente también de exploración, en el sentido de ya no solo prepararnos para la sesión... sino también enfocar esa especificidad que vamos a tratar. Por ejemplo, si estamos tratando esa aceleración... establecer diferentes tipos de drills o de técnicas que le permita al atleta explorar alrededor de ese patrón específico en función de cuáles sean quizás sus debilidades a nivel técnico... Y a medida que nos vamos más acercando a la parte principal de la sesión y esta parte explorativa ha permitido al atleta desarrollar quizás esa mayor conciencia por el gesto, cuando llegamos a esa parte principal de la sesión, desde mi punto de vista, es mucho más esa sobrecarga mecánica, cargar el gesto dentro de lo que nosotros prioricemos.",
+      "keywords": [
+        "modelos-complementarios",
+        "fases-preparatorias",
+        "exploracion-tecnica",
+        "microciclo",
+        "calentamiento",
+        "sobrecarga-mecanica",
+        "variacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre integrar la variación y la sobrecarga mecánica?",
+        "¿Dónde se habla de usar el calentamiento como ambiente de exploración técnica?",
+        "¿Cómo se aplican los modelos complementarios en las fases preparatorias y competitivas?"
+      ],
+      "related_terms": [
+        "modelos",
+        "complementarios",
+        "exploración",
+        "calentamiento",
+        "fases",
+        "preparatorias",
+        "parte",
+        "principal"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se contrastó la pérdida de correspondencia del enfoque tradicional frente al mantenimiento estricto del patrón en el enfoque coordinativo.",
+      "context_after": "El ponente plantea una pregunta crítica: ¿Es realmente lo más específico siempre lo que más nos mejora?"
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:09:12",
+      "end_timestamp": "00:11:45",
+      "start_seconds": 552,
+      "end_seconds": 705,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=552",
+      "title": "El riesgo de lo hiperespecífico y el 'Transfer Lag Time'",
+      "summary": "Asumir que lo más específico siempre es mejor (ej. hacer siempre HIIT para mejorar VO2 máx) es un error, ya que las mejoras rápidas a corto plazo también decaen rápido. A largo plazo, se debe contemplar el 'transfer lag time': el tiempo de retraso necesario entre mejorar capacidades generales de fuerza y lograr integrarlas de forma coordinada en el gesto deportivo.",
+      "literal_quote": "El hecho de que haya este delay o lag time entre mejorar mis capacidades de producción de fuerza más a nivel general... y transferirlas a ese gesto específico... hace que a largo plazo nosotros estemos limitando muchas veces al deportista.",
+      "full_transcript": "Una pregunta que nosotros podemos desarrollar como entrenadores... es preguntarnos si siempre lo más específico es lo que más nos mejora. Esto es un error que veo muy comúnmente, ya no solo en el nivel de entrenamiento de fuerza, pero en la literatura en general. Por ejemplo, cuando hacemos investigaciones sobre el concepto de consumo máximo de oxígeno... si comparan el entrenamiento continuo versus el entrenamiento interválico de alta intensidad... siempre gana el entrenamiento interválico. Nuestra concepción es que lo que más mejora ese consumo máximo de oxígeno es trabajar a altas intensidades... pero también nos tenemos que preguntar qué nos mejora más a largo plazo. Porque el hecho de que me mejore mucho a corto plazo, ese pico de rendimiento inicial va a implicar que también va a caer mucho más rápido si cesamos ese entrenamiento. Creo que muchas veces es importante plantearnos... lo más específico nos va a mejorar a corto plazo, pero ¿qué es lo que nos mejora o cuáles son las combinaciones que nos pueden mejorar a largo plazo? ¿Por qué? Porque ocurre lo que se llama transfer lag time. Ese lag time que se produce entre que yo mejoro una capacidad motora, una capacidad física, una capacidad de producir fuerzas y el tiempo en que yo lo puedo aplicar de forma correcta y coordinada en el gesto deportivo. El hecho de que haya este delay o lag time entre mejorar mis capacidades de producción de fuerza más a nivel general, a nivel mecánico, y transferirlas a ese gesto específico, el hecho de que no ocurra de forma directa, tal como podía ocurrir si yo enfoco un entrenamiento supereespecífico, que va a mejorar a corto plazo, hace que a largo plazo nosotros estemos limitando muchas veces al deportista, porque no estamos dando tiempo a que se produzca esa transferencia de adaptaciones.",
+      "keywords": [
+        "hiperespecifico",
+        "transfer-lag-time",
+        "vo2-max",
+        "corto-plazo",
+        "largo-plazo",
+        "delay-adaptativo",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el 'transfer lag time'?",
+        "¿Dónde se habla del riesgo de priorizar únicamente lo más específico?",
+        "¿Cómo se aplican las combinaciones para el rendimiento a largo plazo frente a corto plazo?"
+      ],
+      "related_terms": [
+        "transfer",
+        "lag",
+        "time",
+        "delay",
+        "corto",
+        "plazo",
+        "largo",
+        "plazo",
+        "hiperespecífico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la coexistencia de los modelos coordinativo y mecánico en la periodización y en la estructura de la sesión.",
+      "context_after": "Se presenta el modelo de individualización como vía obligatoria de doble sentido frente a las demandas puras del deporte."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:11:45",
+      "end_timestamp": "00:15:00",
+      "start_seconds": 705,
+      "end_seconds": 900,
+      "duration_seconds": 195,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=705",
+      "title": "La relación de doble sentido: Demandas del deporte y Profiling individual",
+      "summary": "La especificidad no debe mirarse solo desde las demandas del deporte (un solo sentido), sino como un flujo bidireccional que integre el perfil del atleta. Se recomienda usar tecnología (plataformas de fuerza) para crear un 'profiling' (ej. categorizar al atleta en el cuadrante fuerza-velocidad o en arquetipos de sprinters metabólicos, elásticos o musculares) para adaptar la especificidad.",
+      "literal_quote": "Muchas veces este principio de especificidad se enfoca solo desde las demandas del deporte, como un callejón de un solo sentido... nosotros como entrenadores debemos tener una visión de doble sentido.",
+      "full_transcript": "Hemos hablado de esta relación de sobrecarga y especificidad y hemos comentado que hablaríamos también de la relación entre principio de especificidad e individualización. Muchas veces este principio de especificidad se enfoca solo desde las demandas del deporte, como un callejón de un solo sentido. Es decir, el atleta se debe amoldar a las especificidades o a las demandas del deporte en todo momento. Pero desde mi punto de vista, nosotros como entrenadores debemos tener una visión de doble sentido. Es decir, qué nos demanda el deporte y qué perfil tiene el deportista y cómo yo puedo adaptar esas demandas de especificidad para que él o ella pueda afrontar esa especificidad del deporte de una forma mucho más eficiente. Por ejemplo, aquí lo que he puesto creo que sería la clasificación de ejercicios muy común o muy famosa propuesta por Bondarchuk, que nos clasifica los ejercicios en función de su especificidad... Introduce este concepto importante de relacionar este componente de especificidad a nivel individual. ¿Por qué es importante? Porque nosotros, también ahora con el desarrollo que ha habido a nivel de sistemas de valoración, de tecnología, plataformas de fuerza... El hecho de nosotros disponer cada vez de más tecnología... y de poder crear sistemas de valoración y poder hacer ese profiling de atletas y clasificar esos atletas, creo que nos da un punto de partida muy bueno a la hora de poder plantear esa especificidad del entrenamiento. ¿Cómo influye esto? Porque nosotros, en función del atleta que nos encontremos... Una, en función del cuadrante de esa fuerza-velocidad... Y la otra, esta propuesta, por ejemplo, por Mujadidi, en este caso más específico a nivel de tipología de sprinters, los enfoca a nivel más concéntrico, más musculares, más elásticos, más dependientes a esos componentes elásticos... y después el componente metabólico o un estilo más metabólico... Las clasificaciones, los diferentes arquetipos en los que clasificamos deportistas, desde mi punto de vista, son ese punto de partida en cómo nosotros vamos a abordar la especificidad.",
+      "keywords": [
+        "especificidad-bidireccional",
+        "profiling-individual",
+        "bondarchuk",
+        "plataformas-fuerza",
+        "cuadrante-fuerza-velocidad",
+        "arquetipos-sprinters",
+        "mujadidi"
+      ],
+      "entities": [
+        "Bondarchuk",
+        "Mujadidi"
+      ],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la relación de doble sentido entre el deporte y el perfil del atleta?",
+        "¿Dónde se habla de la clasificación de arquetipos de sprinters o cuadrantes fuerza-velocidad?",
+        "¿Cómo se aplica el profiling individual usando plataformas de fuerza?"
+      ],
+      "related_terms": [
+        "callejón",
+        "de",
+        "un",
+        "solo",
+        "sentido",
+        "profiling",
+        "arquetipos",
+        "bondarchuk"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expuso que perseguir únicamente las mejoras rápidas y específicas a corto plazo limita el verdadero potencial a largo plazo.",
+      "context_after": "Se ejemplifica cómo la individualización debe prevalecer en fases críticas competitivas, usando ejemplos históricos de atletas de élite."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:18:24",
+      "end_timestamp": "00:20:22",
+      "start_seconds": 1104,
+      "end_seconds": 1222,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1104",
+      "title": "Potenciación individual vs Especificidad: El caso de Ben Johnson",
+      "summary": "Para rendir a corto plazo (fase competitiva), se deben priorizar los estímulos que potencien al atleta física y psicológicamente (sus fortalezas). Como ejemplo, el velocista Ben Johnson realizaba fuerza dinámica máxima justo antes de competir en los Juegos Olímpicos, lo que desafiaba la especificidad clásica del sprint, pero servía como su modelo exacto de potenciación nerviosa.",
+      "literal_quote": "Encontrar esos estímulos de entrenamiento que le potencien no solo a nivel fisiológico, sino también a nivel psicológico... nos puede dar mucha información sobre cómo orientar nuestra especificidad... Siempre pongo el ejemplo de Ben Johnson.",
+      "full_transcript": "También es importante considerar a corto plazo el hecho de saber qué potencia o a qué responde mejor el individuo, es decir, sus fortalezas. Encontrar esos estímulos de entrenamiento que le potencien no solo a nivel fisiológico, sino también a nivel psicológico, qué prefiere en el entrenamiento o qué le potencia, nos puede dar mucha información sobre cómo orientar nuestra especificidad y nuestra sobrecarga a lo largo del proceso de entrenamiento. Siempre pongo el ejemplo de Ben Johnson, un sprinter muy famoso, que rompía con lo que quizás nos parece lógico. Semanas antes, o una semana antes de correr en los Juegos Olímpicos, él estaba haciendo fuerza dinámica máxima en el gimnasio. ¿Eso va en contra de la concepción de la especificidad de algunos? Puede ser. En su caso, ¿por qué funcionaba? Porque su modelo o su modo de potenciación a nivel individual, partiendo de todo lo que sea específico o no para la modalidad de sprint, era eso: fuerza dinámica máxima, en este caso a nivel de potenciación de este sistema nervioso. Estos aspectos nos van a dar muchísima información sobre cómo gestionar la especificidad, no solo desde el punto de vista del deporte, sino también desde el punto de vista de la individualidad del deportista.",
+      "keywords": [
+        "potenciacion-individual",
+        "fisiologico",
+        "psicologico",
+        "ben-johnson",
+        "fuerza-dinamica-maxima",
+        "juegos-olimpicos",
+        "fortalezas"
+      ],
+      "entities": [
+        "Ben Johnson"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la potenciación individual a corto plazo?",
+        "¿Dónde se habla del ejemplo de Ben Johnson realizando fuerza dinámica máxima?",
+        "¿Cómo se aplican los estímulos psicológicos y fisiológicos en la competición?"
+      ],
+      "related_terms": [
+        "potenciación",
+        "fuerza",
+        "dinámica",
+        "máxima",
+        "estímulos",
+        "fisiológicos",
+        "psicológicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que perfilar arquetipos individuales ayuda a definir la ruta del entrenamiento.",
+      "context_after": "El vídeo procede al resumen y conclusiones finales enlazando todos los principios (sobrecarga, variación y especificidad) a través de la individualización."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "Principios Clásicos del Entrenamiento: Relación entre Especificidad, Sobrecarga e Individualización",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:20:22",
+      "end_timestamp": "00:23:59",
+      "start_seconds": 1222,
+      "end_seconds": 1439,
+      "duration_seconds": 217,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1222",
+      "title": "Conclusión: La individualidad como moderador global de los principios",
+      "summary": "Resumen del webinar: Los principios deben ser un idioma común. Existe una evolución desde la dosis general hacia la dosis individual iterativa (sobrecarga progresiva mediante variación cuantitativa o cualitativa). Finalmente, pese a los conflictos entre especificidad y sobrecarga, la individualización se alza como el moderador absoluto que rige todas las adaptaciones del proceso.",
+      "literal_quote": "Por último, determinar... este principio de individualidad como moderador de todos los principios del entrenamiento y de todas las adaptaciones que vamos a conseguir durante el proceso.",
+      "full_transcript": "Como resumen de la presentación, sería la necesidad o la utilidad de proponer este enfoque basado en principios para que todos los profesionales del proceso de entrenamiento hablen el mismo idioma. Aunque nuestra aplicación sea distinta... sabemos que trabajamos sobre unas bases comunes. Cuando hablamos de este principio de sobrecarga... Partimos de una dosis-respuesta general cuando, al principio, no podemos conocer al deportista... y mediante la iteración y el monitoreo del entrenamiento, ajustar en función de nuestras necesidades. Cuando hablamos del principio de variación, proponíamos la variación cuantitativa o cualitativa y la tratamos como un medio que permite la sobrecarga progresiva... Después, al hablar de especificidad y de los diferentes modelos, también relacionamos especificidad y transferencia con el conflicto inherente que existe entre sobrecarga y especificidad. Nuestra metodología... va a existir en un continuo donde podemos elegir una sobrecarga mucho más coordinativa... o una sobrecarga más tradicional, más mecánica... Por último, hemos terminado con que especificidad y transferencia siempre tienen que ser considerados a diferentes niveles, ya sea a nivel macro... y a nivel del microciclo y la sesión, y deben ir acorde con el perfil del atleta, es decir, con la individualidad del atleta... Por último, determinar, como nos menciona esta gráfica o como les he intentado transmitir, este principio de individualidad como moderador de todos los principios del entrenamiento y de todas las adaptaciones que vamos a conseguir durante el proceso de entrenamiento. Esto ha sido todo. Muchísimas gracias por su atención.",
+      "keywords": [
+        "resumen",
+        "idioma-comun",
+        "dosis-respuesta",
+        "variacion",
+        "conflicto-inherente",
+        "individualidad",
+        "moderador-global"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano en la conclusión sobre la individualidad?",
+        "¿Dónde se habla de los principios del entrenamiento como idioma común?",
+        "¿Cómo se aplica la individualización como moderador de todas las adaptaciones?"
+      ],
+      "related_terms": [
+        "resumen",
+        "idioma",
+        "común",
+        "individualidad",
+        "moderador",
+        "dosis-respuesta"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se expuso el caso de la priorización de la potenciación del atleta antes de grandes campeonatos.",
+      "context_after": "Fin del webinar."
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+    "speaker": "Sergio Manzano",
+    "total_duration": "00:21:56",
+    "total_duration_seconds": 1316,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:02:25",
+      "start_seconds": 2,
+      "end_seconds": 145,
+      "duration_seconds": 143,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Introducción al principio de especificidad y su naturaleza descriptiva",
+      "summary": "Se introduce el principio de especificidad y el concepto de transferencia. Apoyándose en Chris Beardsley, se aclara que los principios son elementos descriptivos, no explanatorios, y que la especificidad debe analizarse desde una visión holística (mecánica y metabólica) que integra biomecánica, fisiología y aprendizaje motor.",
+      "literal_quote": "Tenemos que tener en cuenta que estos principios de entrenamiento son elementos descriptivos y no explanatorios.",
+      "full_transcript": "Una vez hemos explorado lo que serían las bases metodológicas y diferentes formas de aplicar este principio de sobrecarga en nuestros procesos de entrenamiento, lo que vendría después, desde mi punto de vista, es un principio relacionado, que muchas veces crea confusión, tanto a nivel de cómo lo conceptualizamos en cada uno de nuestros procesos de entrenamiento y también cuando lo hablamos con compañeros de profesión. Cada uno tiene su visión de cómo es su aplicación a nivel de un principio de especificidad. Es este concepto de cómo de específicos o cuán de específicos debemos ser con nuestros estímulos de entrenamiento y este concepto de transferencia, que puede ocurrir a distintos niveles, que justifica que un entrenamiento sea más específico. Este autor, Chris Beardsley, nos indica que nuestra justificación, muchas veces, de este principio de especificidad sigue esta relación circular. Como cuando hablamos al principio de lo que era este enfoque basado en los principios, tenemos que tener en cuenta que estos principios de entrenamiento son elementos descriptivos y no explanatorios. Porque si fueran explanatorios, lo que nos estaría diciendo esto es que cualquier estímulo que no sea el más específico que queremos mejorar, no tendría un efecto positivo sobre el rendimiento. El hecho de que tengamos un gran abanico de formas de aplicar este principio de especificidad hace que tengamos que ponerle atención y una reflexión crítica a cuáles son los elementos que componen esta especificidad y cómo los podemos tener en cuenta en nuestro proceso de nuestro día a día. Generalmente, lo que encontramos es que cuando hablamos de especificidad, normalmente la dividimos entre los conceptos de especificidad más mecánica y la especificidad más metabólica. Lo que es importante entender también es que una visión holística de este principio de especificidad depende no solo de un área dentro de la cinesiología o el estudio del movimiento, sino que depende de diferentes áreas y de cómo interaccionan estas áreas a nivel de biomecánica, fisiología y también aprendizaje motor.",
+      "keywords": [
+        "principio-especificidad",
+        "transferencia",
+        "elementos-descriptivos",
+        "vision-holistica",
+        "biomecanica",
+        "fisiologia",
+        "aprendizaje-motor"
+      ],
+      "entities": [
+        "Chris Beardsley"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el principio de especificidad?",
+        "¿Dónde se habla de que los principios son descriptivos y no explanatorios?",
+        "¿Cómo se aplica la visión holística de la especificidad?"
+      ],
+      "related_terms": [
+        "especificidad",
+        "transferencia",
+        "elementos",
+        "descriptivos",
+        "visión",
+        "holística"
+      ],
+      "relevance_score": 4,
+      "context_before": "Fin de la sección dedicada al principio de sobrecarga.",
+      "context_after": "Se procede a desglosar las diferencias exactas entre la especificidad mecánica y metabólica, así como los modelos de optimización aplicables."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:05:15",
+      "start_seconds": 146,
+      "end_seconds": 315,
+      "duration_seconds": 169,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=146",
+      "title": "Especificidad mecánica/metabólica y modelos de optimización (Forward vs Inverse)",
+      "summary": "Se diferencian dos especificidades: mecánica (cinemática y cinética) y metabólica (sustratos energéticos). En biomecánica, existen dos enfoques para entender el rendimiento de un gesto: 'Forward optimization' (desglosar la física del movimiento) e 'Inverse optimization' (usar a los atletas de élite como modelo de eficiencia).",
+      "literal_quote": "Cuando utilizamos un modelo de forward optimization, lo que estamos utilizando es la física fundamental... Cuando hablamos de inverse optimization... es utilizar la técnica de los atletas de élite, para determinar cómo se mueve y tener esos puntos clave.",
+      "full_transcript": "Cuando hablamos de especificidad mecánica, nos estamos refiriendo a la cinemática o a la descripción del movimiento y, al mismo tiempo, nos referimos a la cinética o a las fuerzas que influencian o que determinan ese movimiento. Y cuando hablamos de esa especificidad metabólica, nos estamos refiriendo a ese uso específico de sustratos energéticos o de vías energéticas, ya sean más oxidativas o más glucolíticas, que tenemos en nuestro gesto específico o en nuestro gesto que determinamos como de rendimiento. Cuando hablamos de este concepto de especificidad mecánica, más enfocado a la biomecánica, existen principalmente dentro de la biomecánica dos formas de determinar el rendimiento, cómo se consigue el rendimiento de un gesto o de un patrón motor específico. Estos modelos se acostumbran a denominar forward optimization o inverse optimization. Quizás no los conocen por sus nombres, pero van a ver que seguramente están familiarizados con ellos y utilizan uno u otro en su modelo de día a día o en sus procesos de entrenamiento. Cuando utilizamos un modelo de forward optimization, lo que estamos utilizando es la física fundamental o los diferentes factores mecánicos y desglosándolos para determinar cuáles son esos factores mecánicos que determinan el rendimiento de ese patrón específico. Por ejemplo, en el salto vertical, esa altura de salto viene determinada por ciertos factores mecánicos. Por ejemplo, nosotros disponemos de cierta tecnología que nos permita valorar estos factores tanto cinéticos como cinemáticos, podemos o tenemos la forma de medir esos factores que debemos mejorar para optimizar nuestro rendimiento. La otra forma, a partir de aquí, creamos ese modelo biomecánico y determinamos cuál es el modelo o la forma más eficiente de generar esa altura de salto. Cuando hablamos de inverse optimization, lo que estamos refiriendo es girarlo un poco. Lo que estamos haciendo ahora es no crear un modelo desde un punto de partida, sino utilizar los atletas de élite, o sea, la técnica de los atletas de élite, para determinar cómo se mueve y tener esos puntos clave de la técnica que nos digan cuál es el mejor o la forma para determinar esa mejor forma de realizar un gesto deportivo o la forma más eficiente de realizar un gesto deportivo. Estas dos perspectivas nos determinan un poco el concepto de cuando analizamos un gesto deportivo y esa especificidad mecánica.",
+      "keywords": [
+        "especificidad-mecanica",
+        "especificidad-metabolica",
+        "forward-optimization",
+        "inverse-optimization",
+        "cinematica",
+        "cinetica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el forward y el inverse optimization?",
+        "¿Dónde se habla de la diferencia entre especificidad mecánica y metabólica?",
+        "¿Cómo se aplican los modelos biomecánicos para analizar el gesto deportivo?"
+      ],
+      "related_terms": [
+        "forward",
+        "optimization",
+        "inverse",
+        "optimization",
+        "especificidad",
+        "mecánica",
+        "metabólica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que la especificidad no es un concepto explanatorio absoluto, sino descriptivo e interrelacionado.",
+      "context_after": "El ponente amplía la visión explicando cómo esta especificidad interactúa con la periodización macro y el perfil individual del deportista."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:05:15",
+      "end_timestamp": "00:07:43",
+      "start_seconds": 315,
+      "end_seconds": 463,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=315",
+      "title": "Periodización, demandas del deporte y el perfil individual (peaking/tapering)",
+      "summary": "La especificidad evoluciona durante la periodización (de general a específico). Sin embargo, un error común es basar el trabajo solo en las demandas del deporte ignorando las fortalezas y debilidades individuales, lo cual es crítico en estrategias de peaking y tapering para deportes individuales.",
+      "literal_quote": "Muchas veces... se trata esta especificidad solo desde lo que sería la visión de las demandas deportivas, pero no se tiene en cuenta cuál es el perfil del atleta... y que esto tiene una influencia muy importante.",
+      "full_transcript": "Lo que hay que entender, cogiendo un poco de visión de halcón, es que esta especificidad, este principio de especificidad, tiene normalmente o a nivel de periodización ha tenido unas ondulaciones muy establecidas, o se tienen unas ondulaciones muy establecidas en los diferentes modelos de periodización, en los que normalmente empezamos con estímulos más generales, más alejados de la competición, y a medida que llegamos a esa competición, tendemos a estimular de una forma mucho más específica y más alineada a ese gesto específico o esos patrones específicos de nuestro deporte. Pero muchas veces, desde un punto de vista, se trata esta especificidad solo desde lo que sería la visión de las demandas deportivas, pero no se tiene en cuenta cuál es el perfil del atleta, o sea, ese principio de individualización, y que esto tiene una influencia muy importante en cómo tratamos esa especificidad a lo largo del proceso de entrenamiento. Porque cada atleta se nos va a presentar con ciertas fortalezas y debilidades que habremos valorado en ese sistema de valoración que habremos hecho, quizás a principio de temporada, y que daremos un seguimiento. Nos tenemos que plantear cómo vamos a enfocar ese trabajo de fortalezas y debilidades y cómo esto se relaciona, si estas fortalezas y debilidades se relacionan, a cómo yo lo estoy afrontando desde una perspectiva del deporte. Es decir, yo quizás tengo un deportista cuyas dinámicas de fortalezas y debilidades no se alinean a lo que le pide el deporte, es decir, la especificidad del deporte. A veces esto puede crear un conflicto, por ejemplo, cuando estamos haciendo estrategias de tapering o peaking, porque si nosotros solo nos basamos en el estímulo específico del deporte, quizás a nivel individual no es la mejor estrategia para estimular esas fortalezas a nivel de cada individuo. Tenemos que tener en cuenta ambas y ver si podemos encontrar un punto medio y tener en cuenta más el componente individual, porque especialmente cuando hablamos de deportes individuales, esta estrategia de peaking y de tapering va a venir muy influenciada, ya no tanto por la especificidad competitiva, sino también por esa especificidad individual determinada por esos puntos fuertes del atleta.",
+      "keywords": [
+        "periodizacion",
+        "perfil-atleta",
+        "fortalezas-debilidades",
+        "tapering",
+        "peaking",
+        "demandas-deportivas",
+        "individualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el conflicto entre demandas deportivas y perfil individual?",
+        "¿Dónde se habla de las estrategias de peaking y tapering en relación a la especificidad?",
+        "¿Cómo se aplica el principio de individualización en la periodización hacia la competición?"
+      ],
+      "related_terms": [
+        "peaking",
+        "tapering",
+        "perfil",
+        "individual",
+        "demandas",
+        "deportivas",
+        "fortalezas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron las formas de entender el movimiento biomecánico.",
+      "context_after": "Se define formalmente qué es la transferencia del entrenamiento y cómo evaluar sus modalidades y efectos."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:07:43",
+      "end_timestamp": "00:13:02",
+      "start_seconds": 463,
+      "end_seconds": 782,
+      "duration_seconds": 319,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=463",
+      "title": "Transferencia del entrenamiento: Modalidades (primaria, secundaria, terciaria) y efectos",
+      "summary": "La transferencia es la influencia de una tarea entrenada sobre otra no entrenada. Opera en modalidades primaria (directa), secundaria (estructural, ej. masa muscular) y terciaria (prevención de lesiones a largo plazo). Su efecto puede ser positivo, neutro o negativo (interferencia).",
+      "literal_quote": "La transferencia de entrenamiento... es el grado en que una respuesta a una tarea o situación de entrenamiento influye en la respuesta de otra tarea o situación no entrenada.",
+      "full_transcript": "Cuando hablamos de ese principio de especificidad, un elemento o un término clave que va asociado es el grado de transferencia o la transferencia de entrenamiento. Cuando hablamos de la transferencia de entrenamiento, que es un término que se utiliza mucho cuando hablamos de aprendizaje motor... es el grado en que una respuesta a una tarea o situación de entrenamiento influye en la respuesta de otra tarea o situación no entrenada. En este caso, nosotros tendríamos un gesto de referencia... y después todos los estímulos que vayan dirigidos a mejorar ese gesto específico, me van a generar más o menos transferencia... Seguro que ustedes... se van a encontrar en un extremo de un continuum o en otro... si nosotros nos quedamos muy cerca de esta técnica o de este gesto específico, o nos vamos más lejos y sacrificamos un poco este aspecto técnico o este aspecto más coordinativo y nos vamos a sobrecargar mediante aspectos más mecánicos... La transferencia puede ocurrir a diferentes niveles y nos podemos hacer principalmente dos preguntas. Uno: ¿cuál es la modalidad de transferencia? Aquí también podríamos hablar de mecanismos de transferencia o... cuál es el efecto de esta... Cuando hablamos de una transferencia primaria, es esa transferencia que es directa entre el gesto que estoy entrenando y el gesto específico... Cuando hablamos de esta vía más secundaria, estamos hablando de mecanismos que inicialmente parecen que no tienen una relación directa... pero podemos hablar de factores estructurales, es decir, un aumento, por ejemplo, de la masa muscular... que puede conllevar a una mejora de mi fuerza relativa y, consecuentemente, a aumentar el rendimiento de aceleración. Y a nivel de efecto terciario sería alejarnos aún más... y, por ejemplo, esto podría hacer referencia a hacer que un atleta sea más robusto y a nivel de prevención de lesiones... Y cuando hablamos de este efecto de transferencia, hablamos de que puede ser positivo, neutro o negativo. Uno de los grandes problemas... es que muchas veces nosotros, a nivel de entrenamiento, proponemos gran variedad de estímulos... y muchas veces no nos permite discernir entre si un estímulo de entrenamiento está teniendo un efecto positivo, neutro o incluso negativo de interferencia. Entonces... tenemos que tener muy en cuenta cómo tenemos marcado nuestro microciclo... y que las variaciones que se producen... sean suficientes para promover esa sobrecarga y esa adaptación, pero tampoco muy diferentes, porque si no, nosotros no somos capaces de determinar qué funciona y qué no funciona.",
+      "keywords": [
+        "transferencia",
+        "aprendizaje-motor",
+        "modalidades-transferencia",
+        "transferencia-primaria",
+        "transferencia-secundaria",
+        "prevencion-lesiones",
+        "interferencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre las modalidades de la transferencia (primaria, secundaria, terciaria)?",
+        "¿Dónde se habla de la transferencia y el aprendizaje motor?",
+        "¿Cómo se aplican las variaciones en el microciclo para medir los efectos de transferencia?"
+      ],
+      "related_terms": [
+        "transferencia",
+        "efecto",
+        "positivo",
+        "negativo",
+        "neutro",
+        "interferencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la integración del perfil individual del atleta junto con las demandas del deporte en la periodización.",
+      "context_after": "Tras conceptualizar la transferencia de forma amplia, el foco recae en cómo evaluar estrictamente la especificidad mecánica a través de 5 criterios formales."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:13:04",
+      "end_timestamp": "00:17:45",
+      "start_seconds": 784,
+      "end_seconds": 1065,
+      "duration_seconds": 281,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=784",
+      "title": "Criterios del principio de correspondencia para la especificidad mecánica",
+      "summary": "Para evaluar la especificidad mecánica de un ejercicio respecto al gesto competitivo, se usan 5 criterios: 1. Amplitud y dirección (ROM, postura, vectores). 2. Regiones de fuerza acentuadas. 3. Dinámica del esfuerzo (estrés mecánico/sobrecarga). 4. Marcos temporales (ventanas de aplicación de fuerza). 5. Régimen de producción de fuerza (tipo de contracción). Cumplir 2 o 3 criterios ya genera correspondencia.",
+      "literal_quote": "Un ejercicio para que tenga un cierto grado de efectividad no tiene que cumplir con todos los elementos o todos los criterios... sino que solo con cumplir dos, tres criterios, ya nos estamos acercando un poco a estas características mecánicas.",
+      "full_transcript": "Hemos hablado de esta especificidad mecánica, y estas dos formas de sobrecarga más a nivel coordinativo... y una filosofía de sobrecarga mecánica. Cuando hablamos de esa sobrecarga a nivel mecánico o esa especificidad mecánica, la forma que se suele valorar esa especificidad mecánica es mediante lo que se conoce como el principio de correspondencia... Es decir, nosotros tenemos un gesto que queremos específico de referencia, lo que queremos mejorar a nivel de rendimiento, y después, todos los ejercicios o algunos ejercicios que nosotros queremos aplicar al entrenamiento, los valoramos en función de estos diferentes criterios para determinar cómo de similares a nivel mecánico son estos del gesto específico. Y esto nos permite determinar esta especificidad mecánica del gesto. Entonces, ¿cuáles son estos criterios? Principalmente son cinco. El primero siendo esta amplitud y dirección de los movimientos. Más que nada vendría a decir el rango de movimiento específico del ejercicio en comparación al gesto específico de referencia. Esto también podría incluir ya no solo estos rangos de movimiento, sino también las posturas... el vector a partir del que se aplica la fuerza. El segundo criterio sería las regiones de fuerza acentuadas, es decir, dónde de mi gesto deportivo específico se producen esos ángulos, esos picos de producción de fuerza, para intentar poder replicarlos. La tercera... sería las dinámicas de esfuerzo que se comentan. Esto... nos pregunta si el estrés mecánico del ejercicio... es superior al requerido en el gesto deportivo. Esto nos habla de la necesidad de sobrecarga. El cuarto sería a nivel de marcos temporales, aspectos más a nivel espacio-temporal... ¿cuál es el marco temporal de producción de fuerza del gesto deportivo? Diferentes gestos deportivos tienen diferentes ventanas temporales... por ejemplo, si ahora aquí en la derecha tienen ejemplos de sprint lineal, en la fase de aceleración tenemos una ventana temporal un poquito más grande a nivel de 200, 220 milisegundos... algo que se disminuye cuando llegamos a las fases de máxima velocidad, llegando incluso a esos 100, 120 milisegundos. Y por último, pero no menos importante, es el régimen de producción de fuerza. ¿Es este similar al gesto deportivo? Aquí no estamos haciendo referencia a ese tipo de contracción que se produce... ya sea isométrica, ya sea a nivel de ciclo de entrenamiento-acortamiento, a nivel excéntrico, a nivel concéntrico. Entonces, un aspecto importante con todos estos criterios es que un ejercicio para que tenga un cierto grado de efectividad no tiene que cumplir con todos los elementos o todos los criterios... sino que solo con cumplir dos, tres criterios, ya nos estamos acercando un poco a estas características mecánicas que definen el gesto deportivo específico.",
+      "keywords": [
+        "principio-correspondencia",
+        "especificidad-mecanica",
+        "amplitud-direccion",
+        "dinamica-esfuerzo",
+        "marcos-temporales",
+        "regimen-fuerza",
+        "ventanas-fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Framework",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el principio de correspondencia y sus 5 criterios?",
+        "¿Dónde se habla de las ventanas de fuerza o marcos temporales en la especificidad mecánica?",
+        "¿Cómo se aplican los criterios para valorar si un ejercicio tiene transferencia mecánica?"
+      ],
+      "related_terms": [
+        "principio",
+        "de",
+        "correspondencia",
+        "amplitud",
+        "marcos",
+        "temporales",
+        "régimen",
+        "de",
+        "producción"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron las modalidades (primaria, secundaria, terciaria) y efectos de la transferencia.",
+      "context_after": "Se presenta el modelo opuesto de especificidad: enfocarse puramente en la coordinación y estabilidad del aprendizaje motor, popularizado por Frans Bosch."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:17:45",
+      "end_timestamp": "00:20:28",
+      "start_seconds": 1065,
+      "end_seconds": 1228,
+      "duration_seconds": 163,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1065",
+      "title": "Sobrecarga coordinativa y los atractores de la técnica",
+      "summary": "El modelo de Hans/Frans Bosch entiende el entrenamiento de fuerza como 'coordinación frente a resistencia'. En lugar de aplicar grandes sobrecargas mecánicas, busca identificar los 'atractores' (elementos estables de la técnica) e introducir variaciones y perturbaciones que obliguen a estabilizarlos, logrando un gesto final altamente eficiente.",
+      "literal_quote": "Lo que propone es que, en vez de sobrecargar a nivel mecánico... busca encontrar esos factores estables dentro de la técnica... que él llama atractores.",
+      "full_transcript": "El otro extremo o el concepto de esta sobrecarga mediante la variación nos habla del concepto, sobre todo propuesto por el entrenador Hans Bosch, que nos dice que el entrenamiento de fuerza, en este caso, es entrenamiento de coordinación frente a resistencia. Entonces, lo que nos propone este entrenador es que la especificidad y para que se produzca transferencia, debemos respetar mucho el gesto técnico y este elemento de aprendizaje motor y este elemento de coordinación que ocurre en el gesto deportivo. Y cuando nosotros aplicamos, por ejemplo, este estímulo de entrenamiento de fuerza, debemos respetar esas bases... Empezando por la intención, la intencionalidad del gesto, la coordinación intramuscular e intramuscular, y después también aspectos a nivel propioceptivo y exteroceptivo. ¿Qué propone este autor? Lo que propone es que, en vez de sobrecargar a nivel mecánico como habíamos visto anteriormente, busca encontrar esos factores estables dentro de la técnica. Por ejemplo, si hablamos de locomoción y carrera, esos elementos que él llama atractores de la técnica son los elementos estables que se encuentran en diferentes individuos. Entrena esos efectos atractores o elementos atractores, elementos estables de la técnica, mediante la variación con ciertos elementos perturbadores o modificando diferentes aspectos del gesto deportivo para promover la mayor estabilidad de estos elementos atractores y un gesto específico mucho más eficiente. Lo que encontramos, por ejemplo, cuando hablamos de este aprendizaje motor es que en las primeras etapas de aprendizaje de cualquier técnica hay mucha variabilidad. Lo que buscamos con este tipo de entrenamiento, cuando nos enfocamos más en la sobrecarga mediante variación, es hacer estos elementos atractores, estos elementos estables de la técnica, mucho más estables. De esta forma, se propone mediante estos autores que la transferencia al gesto deportivo específico va a ser mucho mayor que la propuesta cuando nos enfocamos más en las capacidades físicas y proponemos esta sobrecarga mecánica.",
+      "keywords": [
+        "entrenamiento-coordinacion",
+        "aprendizaje-motor",
+        "atractores",
+        "elementos-perturbadores",
+        "variabilidad",
+        "estabilidad-tecnica",
+        "sobrecarga-variacion"
+      ],
+      "entities": [
+        "Hans Bosch"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre los atractores de la técnica en el entrenamiento de coordinación?",
+        "¿Dónde se habla del modelo de Hans Bosch de coordinación frente a resistencia?",
+        "¿Cómo se aplican las perturbaciones para estabilizar los elementos técnicos?"
+      ],
+      "related_terms": [
+        "coordinación",
+        "frente",
+        "a",
+        "resistencia",
+        "atractores",
+        "aprendizaje",
+        "motor",
+        "perturbaciones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los criterios para evaluar la especificidad puramente mecánica o de correspondencia dinámica.",
+      "context_after": "Se plantea una reflexión crítica sobre el uso excesivo de este modelo, advirtiendo del peligro de generar interferencias en habilidades ya automatizadas de la élite."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Principios Clásicos del Entrenamiento: Especificidad y Transferencia",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:20:29",
+      "end_timestamp": "00:21:56",
+      "start_seconds": 1229,
+      "end_seconds": 1316,
+      "duration_seconds": 87,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1229",
+      "title": "Reflexión crítica: El riesgo de interferencia en el aprendizaje motor",
+      "summary": "Aplicar sobrecarga a gestos técnicos muy cercanos a la especificidad deportiva, especialmente en atletas de élite cuyos movimientos son altamente automáticos, puede resultar contraproducente y causar interferencia negativa en el aprendizaje motor. Se debe evaluar siempre la etapa de aprendizaje del deportista.",
+      "literal_quote": "Puede que, intentando mejorar esa transferencia a nivel específico por el hecho de pasarnos con la sobrecarga, tengamos el efecto contrario, un efecto negativo a nivel de interferencia.",
+      "full_transcript": "Desde mi perspectiva general, propongo también una reflexión crítica de este modelo. Aunque nos mantengamos cerca de esta especificidad a nivel coordinativo, debemos tener en cuenta que el hecho de trabajar tan cerca de esta especificidad del gesto deportivo, que por ejemplo en población de élite es muy automático, conlleva un posible efecto de interferencia a nivel de aprendizaje motor cuando intentamos aplicar cierta sobrecarga a ese gesto específico. Puede que, intentando mejorar esa transferencia a nivel específico por el hecho de pasarnos con la sobrecarga, tengamos el efecto contrario, un efecto negativo a nivel de interferencia. Desde mi punto de vista, es un modelo muy interesante, pero tenemos que plantearnos también cuál es el nivel de aprendizaje y en qué etapa se encuentra de aprendizaje técnico el deportista para quizás evitar esta posible interferencia a nivel de aprendizaje motor en el gesto deportivo específico.",
+      "keywords": [
+        "interferencia",
+        "aprendizaje-motor",
+        "sobrecarga",
+        "automatizacion",
+        "poblacion-elite",
+        "efecto-negativo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el riesgo de interferencia en el aprendizaje motor?",
+        "¿Dónde se habla del peligro de sobrecargar gestos altamente automatizados?",
+        "¿Cómo se aplica la etapa de aprendizaje técnico a la toma de decisiones en especificidad?"
+      ],
+      "related_terms": [
+        "interferencia",
+        "negativa",
+        "automatización",
+        "aprendizaje",
+        "motor",
+        "etapa",
+        "de",
+        "aprendizaje"
+      ],
+      "relevance_score": 4,
+      "context_before": "El modelo de entrenamiento de coordinación frente a resistencia sugiere usar perturbaciones para afianzar elementos técnicos.",
+      "context_after": "El vídeo o fragmento provisto finaliza abordando el concepto de la interferencia motora."
+    }
+  ]
+}

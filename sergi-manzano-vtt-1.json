@@ -1,0 +1,466 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Principios Clásicos del Entrenamiento",
+    "speaker": "Sergio Manzano",
+    "total_duration": "00:18:25",
+    "total_duration_seconds": 1105,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:03:08",
+      "start_seconds": 2,
+      "end_seconds": 188,
+      "duration_seconds": 186,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2",
+      "title": "Introducción y reflexión crítica sobre las metodologías",
+      "summary": "Sergio Manzano introduce su ponencia buscando estimular una reflexión crítica sobre las metodologías de entrenamiento, proponiendo dar un paso atrás frente a la sobrecarga de datos actual para hacer consciente lo inconsciente basándose en los principios clásicos.",
+      "literal_quote": "Lo que busco es estimular una reflexión crítica de las metodologías, de cómo abordamos nuestras metodologías de entrenamiento, siendo los principios del entrenamiento la base de todo ello.",
+      "full_transcript": "Hola a todos y a todas. Bienvenidos y bienvenidas a mi ponencia en este módulo de High Performance and Specialist, HSPS. Mi nombre es Sergio Manzano y les traigo mi ponencia, en la que voy a intentar abordar los principios clásicos del entrenamiento desde una perspectiva integrativa y cómo, desde este enfoque basado en los principios, puedo optimizar la metodología de cada uno de ustedes aplicándola a cualquier contexto a nivel de rendimiento, y de esta forma optimizar nuestra toma de decisiones para mejorar el rendimiento deportivo y también la prevención de lesiones. Un poco de background: como muchos de ustedes, tengo un background en Ciencias del Deporte, tanto a nivel de grado como en máster. Actualmente, estoy cursando un doctorado en la Universidad Jyväskylä, en Finlandia... Lo que busco es estimular una reflexión crítica de las metodologías, de cómo abordamos nuestras metodologías de entrenamiento, siendo los principios del entrenamiento la base de todo ello. En el contexto actual, con este 'data overload' y la sobrecarga de información constante por las redes sociales... mi idea es intentar hacer este ejercicio de echar un paso atrás, ver lo que ya conocemos y cómo estamos integrando estas bases de entrenamiento, y hacer consciente lo inconsciente para encontrar estas interrelaciones presentes en elementos que ya tenemos por dados.",
+      "keywords": [
+        "principios-entrenamiento",
+        "reflexion-critica",
+        "metodologia",
+        "data-overload",
+        "prevencion-lesiones",
+        "rendimiento-deportivo"
+      ],
+      "entities": [
+        "Sergio Manzano",
+        "Universidad Jyväskylä",
+        "INEF Lleida"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la reflexión crítica de las metodologías?",
+        "¿Dónde se habla de la sobrecarga de datos y los principios de entrenamiento?",
+        "¿Cómo se aplica el enfoque basado en principios en el rendimiento y prevención de lesiones?"
+      ],
+      "related_terms": [
+        "reflexión",
+        "crítica",
+        "metodologías",
+        "data",
+        "overload",
+        "principios",
+        "clásicos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la ponencia.",
+      "context_after": "Se presenta la idea de que los principios del entrenamiento representan una 'simplicidad elegante' que se alcanza después de superar etapas de conocimiento complejo."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:03:09",
+      "end_timestamp": "00:04:46",
+      "start_seconds": 189,
+      "end_seconds": 286,
+      "duration_seconds": 97,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=189",
+      "title": "La simplicidad elegante tras la complejidad del entrenamiento",
+      "summary": "Se describe el proceso de aprendizaje del entrenador, que pasa de visiones blanco o negro a un bucle de complejidad, hasta finalmente descifrar los elementos más importantes que optimizan el entrenamiento (la 'elegante simplicidad' de los principios).",
+      "literal_quote": "Los principios son la simplicidad que se encuentra después de la complejidad.",
+      "full_transcript": "Para empezar, me gusta mucho poner esta frase cuando hablamos de principios de entrenamiento, porque al final, este autor nos dice: 'Los principios son la simplicidad que se encuentra después de la complejidad'. Creo que refleja muy bien el proceso de aprendizaje que tenemos cuando empezamos. Lo vemos todo muy blanco o negro, muy simplista, creemos que lo sabemos todo. Después llegamos y nos damos cuenta de que no sabemos tanto y a partir de ahí entramos en un bucle de complejidad, intentando integrar todo lo que vamos aprendiendo, hasta que llegamos a descifrar los elementos más importantes y los que tienen más peso en optimizar el proceso de entrenamiento, y encontramos estas interrelaciones que hacen que nuestro proceso de entrenamiento sea mucho mejor. Llegamos a esta elegante simplicidad. Esta es mi idea o cómo quiero enfocar esta presentación.",
+      "keywords": [
+        "simplicidad",
+        "complejidad",
+        "aprendizaje",
+        "principios",
+        "optimizacion",
+        "entrenador"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la simplicidad tras la complejidad?",
+        "¿Dónde se habla del bucle de complejidad en el aprendizaje del entrenador?",
+        "¿Cómo se aplica la elegante simplicidad en la optimización del entrenamiento?"
+      ],
+      "related_terms": [
+        "simplicidad",
+        "complejidad",
+        "bucle",
+        "de",
+        "aprendizaje",
+        "interrelaciones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Sergio Manzano introduce su ponencia buscando estimular una reflexión crítica sobre las metodologías de entrenamiento.",
+      "context_after": "Se establece que los principios actúan como traductores entre la teoría biológica y las reglas de actuación diaria del entrenador."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:04:46",
+      "end_timestamp": "00:06:22",
+      "start_seconds": 286,
+      "end_seconds": 382,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=286",
+      "title": "Traducción de leyes biológicas a reglas de actuación",
+      "summary": "Los principios se ubican entre la teoría científica y la aplicación práctica diaria. Actúan traduciendo leyes biológicas estables, como la supercompensación, en guías y reglas de actuación para prescribir metodologías.",
+      "literal_quote": "Los métodos de entrenamiento, como se dice, son muchos, pero los principios son pocos.",
+      "full_transcript": "Inicialmente, cuando hablamos de lo que es un enfoque basado en principios, me gusta poner esta gráfica, que creo que muestra los dos grandes extremos de pensar y hacer, los dos grandes enfoques. Los principios se encuentran un poco en el medio, porque tenemos el concepto de teoría, lo que se liga más a la ciencia, a los estudios, a lo que sacamos de la evidencia científica, y después, lo que realmente aplicamos en el día a día, cómo actuamos en nuestro día como entrenadores, como preparadores o como agentes del entrenamiento. Los principios, al final, lo que hacen es traducir esas leyes biológicas que nosotros tenemos presentes, como puede ser la ley de supercompensación a nivel biológico, y las traducimos a reglas de actuación. Los principios de entrenamiento no son algo que se tenga que dar explícitamente para que un proceso de entrenamiento funcione, se puede dar de formas distintas... pero son elementos descriptores y ciertamente estables. Un elemento, por qué no sería estable, es el tema de los métodos. Los métodos de entrenamiento, como se dice, son muchos, pero los principios son pocos.",
+      "keywords": [
+        "leyes-biologicas",
+        "reglas-actuacion",
+        "supercompensacion",
+        "teoria-practica",
+        "metodos",
+        "principios"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre las leyes biológicas y reglas de actuación?",
+        "¿Dónde se habla de la diferencia entre métodos y principios?",
+        "¿Cómo se aplican los principios como puente entre teoría y práctica?"
+      ],
+      "related_terms": [
+        "leyes",
+        "biológicas",
+        "reglas",
+        "de",
+        "actuación",
+        "supercompensación",
+        "teoría",
+        "práctica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe el proceso de aprendizaje del entrenador, que pasa de visiones blanco o negro a un bucle de complejidad, hasta llegar a la elegante simplicidad.",
+      "context_after": "Se destaca la importancia de usar estos principios como un lenguaje común entre profesionales para superar el sesgo de confirmación."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:06:23",
+      "end_timestamp": "00:08:55",
+      "start_seconds": 383,
+      "end_seconds": 535,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=383",
+      "title": "El lenguaje común y la superación del sesgo de confirmación",
+      "summary": "Los principios sirven como lenguaje común para distintos profesionales del área. Se advierte sobre el sesgo de confirmación y el riesgo de diseñar planes basándose solo en experiencias propias previas ('priors'), limitando la optimización.",
+      "literal_quote": "El hecho de ser críticos con lo que ya sabemos y con lo que tenemos establecido y siempre estar abiertos a este aprendizaje, creo que es un factor muy importante.",
+      "full_transcript": "Los principios de entrenamiento son, desde ese punto de vista, el lenguaje común de los diferentes agentes implicados en el proceso de entrenamiento y debería ser una forma de entendernos entre nosotros y tener esa base en común. ¿Por qué? Porque cada uno de nosotros partimos de diferentes puntos, de diferentes experiencias prácticas y también a nivel teórico, a nivel de ciencia. Eso nos lleva muchas veces a tener ese sesgo de confirmación o ese punto de partida diferente, e intentar ver todo desde nuestro punto de perspectiva. Esto hace que muchas veces nos quedemos en ese concepto de, si vemos esta gráfica, en el 'what we know now', en lo que sabemos ahora, y siempre tomamos decisiones a partir de lo que sabemos o de lo que creemos y queremos saber. El hecho de no explorar y ir un poco más allá de lo que no sabemos o lo que quizás nos puedan aportar otros profesionales... nos pone límite a veces en esa optimización del proceso de entrenamiento. Aquí, creo que en esta frase lo pone muy bien este gran entrenado a nivel de resistencia, Steve Magness, que nos dice que muchas veces miramos de analizar las cosas desde nuestra perspectiva y le ponemos un sobreénfasis a lo que conocemos actualmente o lo que nos ha funcionado a nosotros... el hecho de ser críticos con lo que ya sabemos... y siempre estar abiertos a este aprendizaje, creo que es un factor muy importante. Todo lo mencionado hasta ahora creo que se muestra muy bien en esta gráfica... si nosotros empezamos siempre con unos 'priors' determinados por nuestra experiencia... diseñamos estos planes de entrenamiento que tienen toda la complejidad y toda la incertidumbre ligada a la complejidad de trabajar con deportistas.",
+      "keywords": [
+        "lenguaje-comun",
+        "sesgo-confirmacion",
+        "experiencia",
+        "priors",
+        "incertidumbre",
+        "complejidad-biologica"
+      ],
+      "entities": [
+        "Steve Magness"
+      ],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el sesgo de confirmación en el diseño de planes?",
+        "¿Dónde se habla de los principios como lenguaje común?",
+        "¿Cómo se aplica la apertura al aprendizaje frente a la incertidumbre y complejidad biológica?"
+      ],
+      "related_terms": [
+        "lenguaje",
+        "común",
+        "sesgo",
+        "de",
+        "confirmación",
+        "priors",
+        "incertidumbre"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los principios se ubican entre la teoría científica y la aplicación práctica diaria. Actúan traduciendo leyes biológicas estables.",
+      "context_after": "El ponente introduce el concepto de dinámicas de estrés adaptativas, centradas en el modelo universal de fitness-fatiga."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:08:56",
+      "end_timestamp": "00:10:29",
+      "start_seconds": 536,
+      "end_seconds": 629,
+      "duration_seconds": 93,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=536",
+      "title": "Dinámicas de estrés y el modelo fitness-fatiga",
+      "summary": "Se presenta el modelo de fitness-fatiga como el mejor reflejo de la biología adaptativa. Una dosis de entrenamiento aumenta el rendimiento pero genera fatiga, y la diferencia entre ambas (preparedness) dicta la respuesta general al estrés.",
+      "literal_quote": "La introducción de esta dosis de entrenamiento tiene un factor positivo, como sería un aumento del fitness o del nivel, pero esto conlleva una fatiga asociada.",
+      "full_transcript": "Antes de entrar a estos principios del entrenamiento, creo que es muy importante revisitar un poco estas dinámicas de estrés que están presentes en el proceso de entrenamiento. Desde mi punto de vista, la teoría más importante, o la que mejor refleja nuestra biología y cómo nos adaptamos a los estímulos a nivel de entrenamiento, es este modelo de fitness-fatiga, tan conocido, que nos indica que la introducción de esta dosis de entrenamiento tiene un factor positivo, como sería un aumento del fitness o del nivel, pero esto conlleva una fatiga asociada. La diferencia entre ambas, teniendo en cuenta que muchas veces esta fatiga se va a disipar antes que el rendimiento o el fitness, se va a mostrar en un preparedness o la oportunidad de mostrar este rendimiento en un tiempo concreto. Este modelo de adaptación va muy ligado a cómo nosotros enfocamos ese proceso de monitorización a nivel de aplicación de una dosis en función de ciertos objetivos y ver en qué estado se encuentra ese deportista, ver esa dosis-respuesta y tener en cuenta qué herramientas de monitorización utilizo para avanzar esos procesos del entrenamiento.",
+      "keywords": [
+        "modelo-fitness-fatiga",
+        "dinamicas-estres",
+        "preparedness",
+        "dosis-respuesta",
+        "monitorizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el modelo fitness-fatiga?",
+        "¿Dónde se habla de las dinámicas de estrés y preparedness?",
+        "¿Cómo se aplica la monitorización dosis-respuesta en el entrenamiento?"
+      ],
+      "related_terms": [
+        "modelo",
+        "fitness-fatiga",
+        "preparedness",
+        "dosis-respuesta",
+        "dinámicas",
+        "de",
+        "estrés"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se advierte sobre el sesgo de confirmación y el riesgo de diseñar planes basándose solo en experiencias propias previas ('priors').",
+      "context_after": "Aunque el modelo fitness-fatiga da una visión general, se profundiza en cómo distintos estímulos requieren análisis de carga biomecánica vs fisiológica."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:10:29",
+      "end_timestamp": "00:12:17",
+      "start_seconds": 629,
+      "end_seconds": 737,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=629",
+      "title": "Diferenciación de la carga y variabilidad adaptativa",
+      "summary": "Más allá de la dosis general, estímulos de diferente naturaleza (carga fisiológica vs. biomecánica) conllevan adaptaciones y tiempos de recuperación distintos en diversos sistemas biológicos, requiriendo un control inter e intra individual.",
+      "literal_quote": "Nuestros procesos de entrenamiento deberán respetar esta variabilidad adaptativa que ocurre, ya no solo en diferentes sistemas biológicos... sino también estas diferencias interindividuales.",
+      "full_transcript": "Eso, lo que hemos hablado a nivel de fitness-fatiga, nos demuestra lo que sería una dosis general o una dosis-respuesta general del entrenamiento. Pero nosotros sabemos que diferentes estímulos de entrenamiento, diferentes naturalezas del estímulo de entrenamiento conllevan adaptaciones distintas, tanto a nivel crónico como a nivel agudo. Esto lleva a que nosotros hagamos estas distinciones cuando monitorizamos la carga del entrenamiento entre, por ejemplo, esta carga más fisiológica o esta carga más biomecánica. A partir de aquí, en función de la tecnología de la que disponemos y las métricas que consideramos más relevantes, ya sea a nivel de carga externa o de carga interna, estos son los que nos informan sobre este proceso de entrenamiento. Aquí en la derecha también podemos ver que diferentes tipos de estímulo, diferentes naturalezas de estímulo, nos llevan, en este caso a nivel agudo, a unas recuperaciones completamente distintas. Desde mi punto de vista, cuando hablamos de estas dinámicas de estrés, tenemos que tener en cuenta, primero de todo, esta visión general a nivel adaptativo, pero después también irnos a esta visión específica de diferentes naturalezas de entrenamiento, de diferentes efectos a nivel de recuperación en función de la naturaleza de la dosis de entrenamiento. Nuestros procesos de entrenamiento deberán respetar esta variabilidad adaptativa que ocurre, ya no solo en diferentes sistemas biológicos o diferentes órganos, como podría ser el músculo, tendón o hueso, sino también estas diferencias interindividuales que nos encontramos día a día como profesionales, esas diferencias de recuperación, por ejemplo, ante un mismo estímulo entre diferentes individuos.",
+      "keywords": [
+        "variabilidad-adaptativa",
+        "carga-fisiologica",
+        "carga-biomecanica",
+        "recuperacion",
+        "diferencias-interindividuales",
+        "tejidos"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la variabilidad adaptativa de los sistemas biológicos?",
+        "¿Dónde se habla de diferenciar entre carga fisiológica y biomecánica?",
+        "¿Cómo se aplica la diferenciación de estímulos en la recuperación deportiva?"
+      ],
+      "related_terms": [
+        "variabilidad",
+        "adaptativa",
+        "carga",
+        "fisiológica",
+        "biomecánica",
+        "diferencias",
+        "interindividuales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presenta el modelo de fitness-fatiga como el mejor reflejo de la biología adaptativa general.",
+      "context_after": "El avance en la tecnología y la gran cantidad de datos ha llevado a la posibilidad de modelar las respuestas adaptativas utilizando inteligencia artificial."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:12:17",
+      "end_timestamp": "00:14:01",
+      "start_seconds": 737,
+      "end_seconds": 841,
+      "duration_seconds": 104,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=737",
+      "title": "Modelaje de la dosis-respuesta con Inteligencia Artificial",
+      "summary": "El aumento de recursos tecnológicos, big data e IA permite modelar y simular la dosis-respuesta de los estímulos, creando diferentes escenarios para predecir el rendimiento deportivo.",
+      "literal_quote": "Este modelaje y simulación de la dosis-respuesta de esos procesos... e intentar predecir este rendimiento, están cada vez más presentes.",
+      "full_transcript": "Esta optimización del proceso de entrenamiento y este aumento de recursos tecnológicos ha llegado, especialmente con la llegada de la inteligencia artificial, a la posibilidad de realizar este modelaje, a la posibilidad de modelar estas dosis-respuesta que ocurren durante el proceso de entrenamiento. Este modelaje y simulación de la dosis-respuesta de esos procesos que estamos hablando a nivel de fitness, fatiga, e intentar predecir este rendimiento, están cada vez más presentes o van a estar cada vez más presentes a nivel de ciencias del deporte. Podríamos considerarlo un poco osado, un poco atrevido quizás, decir que podemos predecir el rendimiento, pero desde mi punto de vista, este aspecto de modelaje, de simulación es muy útil, teniendo en cuenta que podemos variar diferentes métricas que nos sean de interés para poder determinar diferentes escenarios y diferentes rendimientos en función de estas métricas. Creo que es un área que se está desarrollando muchísimo, especialmente alineada con áreas como el big data o a nivel de informática, y que tiene mucho futuro a nivel de procesamiento de los datos del entrenamiento.",
+      "keywords": [
+        "inteligencia-artificial",
+        "modelaje",
+        "simulacion",
+        "big-data",
+        "prediccion-rendimiento",
+        "procesamiento-datos"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Análisis de Datos",
+        "Data Science"
+      ],
+      "content_type": [
+        "Explicación",
+        "Innovación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre el modelaje de dosis-respuesta con inteligencia artificial?",
+        "¿Dónde se habla de predecir el rendimiento deportivo con big data?",
+        "¿Cómo se aplica la simulación de escenarios basada en métricas deportivas?"
+      ],
+      "related_terms": [
+        "modelaje",
+        "simulación",
+        "inteligencia",
+        "artificial",
+        "big",
+        "data",
+        "predicción"
+      ],
+      "relevance_score": 4,
+      "context_before": "Más allá de la dosis general, estímulos de diferente naturaleza (carga fisiológica vs. biomecánica) conllevan adaptaciones y tiempos de recuperación distintos.",
+      "context_after": "Tras revisar las dinámicas de estrés, se presentan formalmente los 8 principios básicos de entrenamiento que actúan sobre estas biometrías."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:14:01",
+      "end_timestamp": "00:15:47",
+      "start_seconds": 841,
+      "end_seconds": 947,
+      "duration_seconds": 106,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=841",
+      "title": "Los ocho principios clave y la individualización",
+      "summary": "Se presentan 8 principios fundamentales de entrenamiento: priorización, sobrecarga, variación, especificidad, secuencialidad, reversibilidad y compatibilidad. La individualización actúa como embudo central que condiciona a todos los demás.",
+      "literal_quote": "Aquí les presento lo que son mis ocho principios clave del entrenamiento, teniendo en cuenta que la individualización actúa como el embudo.",
+      "full_transcript": "Ahora hemos hablado un poco de estas dinámicas de estrés a nivel de entrenamiento. Vamos ya a lo que sería la temática general de la presentación, que son estos principios del entrenamiento. Aquí les propongo los que yo considero más importantes, añadiendo algunos que quizás no están tan popularizados, como podría ser este principio de priorización. Aquí les presento lo que son mis ocho principios clave del entrenamiento, teniendo en cuenta que la individualización actúa como el embudo, como ese principio que interactúa con todos los otros. Al final, el individuo, este humano atleta que podemos concebir, es un principio o es un elemento que nos va a condicionar a todos, a cómo aplicamos estos principios de entrenamiento en todos los niveles. Aquí pueden ver el principio de priorización, principio de sobrecarga, variación, especificidad, muy conocidos. También a nivel de secuencialidad, cómo secuencializamos esos estímulos, ya sea a nivel macro o a nivel micro, como podría ser a nivel de la sesión. Esa reversibilidad de esos estímulos. Si nosotros dejamos de aplicar ese estímulo, perdemos esas adaptaciones, pero depende también, no todas las adaptaciones las perdemos igual de rápido. Esos son aspectos a nivel adaptativo que tenemos que tener en cuenta. La compatibilidad de los estímulos, seguro que les recuerda a nivel de, por ejemplo, el fenómeno de interferencia, que se puede encontrar entre lo que se llama entrenamiento concurrente. Y teniendo en cuenta ese componente holístico de cómo van a interactuar todos estos principios.",
+      "keywords": [
+        "principios-entrenamiento",
+        "individualizacion",
+        "sobrecarga",
+        "especificidad",
+        "variacion",
+        "reversibilidad",
+        "compatibilidad",
+        "priorizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre los ocho principios clave del entrenamiento?",
+        "¿Dónde se habla de la individualización como embudo de los principios?",
+        "¿Cómo se aplican los fenómenos de interferencia en la compatibilidad de estímulos?"
+      ],
+      "related_terms": [
+        "priorización",
+        "sobrecarga",
+        "variación",
+        "especificidad",
+        "individualización",
+        "reversibilidad",
+        "compatibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "El aumento de recursos tecnológicos, big data e IA permite modelar y simular la dosis-respuesta de los estímulos.",
+      "context_after": "Se detalla cómo estos principios tienen un componente de fractalidad, aplicándose tanto en la priorización macro como en la programación del día a día (micro)."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Principios Clásicos del Entrenamiento",
+      "speaker": "Sergio Manzano",
+      "start_timestamp": "00:15:47",
+      "end_timestamp": "00:18:25",
+      "start_seconds": 947,
+      "end_seconds": 1105,
+      "duration_seconds": 158,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=947",
+      "title": "Fractalidad: Priorización macro y programación micro",
+      "summary": "Los principios de entrenamiento tienen 'fractalidad' (existen en múltiples niveles). La priorización (enfoque top-down) aborda el macro-management de objetivos y calendario, mientras que la programación (enfoque bottom-up) consiste en manipular variables en el micro-management y la sesión diaria.",
+      "literal_quote": "Estos principios del entrenamiento... tienen un componente de fractalidad. Fractalidad significa que existen en diferentes niveles de nuestro proceso o nuestra planificación a nivel del entrenamiento.",
+      "full_transcript": "Nosotros nos vamos a focalizar principalmente en estos principios básicos de sobrecarga y especificidad, teniendo en cuenta también variación e individualización. ¿Cómo se muestra esto a nivel de priorización y programación? Porque estos principios del entrenamiento que les he mencionado, desde mi punto de vista, tienen un componente de fractalidad. Fractalidad significa que existen en diferentes niveles de nuestro proceso o nuestra planificación a nivel del entrenamiento. Cuando hablamos de esta priorización, muchas veces nos estamos refiriendo a este macro management, el management a nivel macro del entrenamiento, este establecimiento de objetivos, este establecimiento del calendario competitivo, de las diferentes fases del entrenamiento. Y cuando nos vamos más a programación, es este micro management, esta manipulación de las variables del entrenamiento, para optimizar el rendimiento tanto a corto como a largo plazo. Muchas veces se hace la distinción entre este enfoque de top-down, que sería enfocarlo mucho más desde la planificación, desde la priorización, y tenerlo mucho más controlado desde arriba. Está mucho más establecido desde un principio, desde el nivel de la priorización. Y el otro, un enfoque más bottom-up, que sería tener unas bases establecidas a nivel de priorización, pero dejar que el día a día o dejar que el microciclo y el mesociclo sean las unidades clave en cómo nosotros llevamos a cabo ese proceso de entrenamiento. Estos principios del entrenamiento que hemos mencionado, especialmente si hablamos de sobrecarga y especificidad, se van a encontrar o los vamos a tener que tener en cuenta cuando hablemos del nivel de la priorización... o a nivel de microciclo y de nivel de sesión.",
+      "keywords": [
+        "fractalidad",
+        "priorizacion",
+        "programacion",
+        "macro-management",
+        "micro-management",
+        "top-down",
+        "bottom-up"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Sergio Manzano sobre la fractalidad en el entrenamiento?",
+        "¿Dónde se habla del enfoque top-down y bottom-up en priorización?",
+        "¿Cómo se aplica la manipulación de variables en el micro-management?"
+      ],
+      "related_terms": [
+        "fractalidad",
+        "priorización",
+        "programación",
+        "macro",
+        "management",
+        "top-down",
+        "bottom-up"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presentan 8 principios fundamentales de entrenamiento con la individualización actuando como embudo central.",
+      "context_after": "El fragmento concluye detallando cómo los principios de sobrecarga, especificidad y variación interactúan profundamente con la individualización a diferentes niveles."
+    }
+  ]
+}
