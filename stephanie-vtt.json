@@ -1,0 +1,893 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+    "speaker": "Stephanie Domínguez",
+    "total_duration": "01:00:15",
+    "total_duration_seconds": 3615,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:01:41",
+      "end_timestamp": "00:03:47",
+      "start_seconds": 101,
+      "end_seconds": 227,
+      "duration_seconds": 126,
+      "timestamp_url": "?t=101",
+      "title": "De la teoría a la toma de decisiones en el alto rendimiento",
+      "summary": "Aunque el conocimiento científico y académico es la base, el verdadero impacto de un profesional del rendimiento radica en la capacidad de convertir ese conocimiento en decisiones que mejoren el entorno y la vida del atleta.",
+      "literal_quote": "La ciencia, que todo este conocimiento es el fundamento de nuestro trabajo... Pero son las decisiones que tomamos con esa información las que realmente van a generar un impacto.",
+      "full_transcript": "Llegué a la conclusión... de que podía compartirles más cómo ha sido mi experiencia, mi camino en esto y también mi rol actual... cómo ha sido esa transición para tomar decisiones reales dentro de un equipo de alto rendimiento. Porque con el tiempo, como les he dicho, en esta corta carrera hasta ahora, he entendido que sí, que la ciencia, que todo este conocimiento es el fundamento de nuestro trabajo, es el fundamento de nuestra profesión... Pero son las decisiones que tomamos con esa información las que realmente van a generar un impacto en nuestro entorno, en el rendimiento de nuestro equipo o impactar la vida de nuestro atleta individual.",
+      "keywords": [
+        "ciencia-aplicada",
+        "toma-de-decisiones",
+        "transicion",
+        "alto-rendimiento",
+        "performance-scientist"
+      ],
+      "entities": [
+        "Javi",
+        "NCA Spain"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre conocer la teoría y aplicarla en el alto rendimiento?",
+        "¿Cuál es el verdadero generador de impacto en el rol del performance scientist?",
+        "¿Cómo se vincula el conocimiento científico con la toma de decisiones en el deporte?"
+      ],
+      "related_terms": [
+        "ciencia",
+        "aplicada",
+        "decisiones",
+        "impacto",
+        "alto",
+        "rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Agradecimientos iniciales a la organización y contextualización de la presentación sobre su trayectoria.",
+      "context_after": "Se presentan las diferentes fases que la ponente abordará sobre su carrera profesional y su evolución."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:08:34",
+      "end_timestamp": "00:09:46",
+      "start_seconds": 514,
+      "end_seconds": 586,
+      "duration_seconds": 72,
+      "timestamp_url": "?t=514",
+      "title": "El verdadero valor: Transformar conocimiento en confianza",
+      "summary": "Existen aprendizajes que no se encuentran en artículos ni libros, sino que surgen al integrar un cuerpo técnico. El valor del científico deportivo está en transformar la información en soluciones que generen confianza en un contexto cambiante.",
+      "literal_quote": "Nuestro verdadero valor como profesionales está en nuestra capacidad para transformar todo ese conocimiento en decisiones que generan confianza, que resuelven problemas.",
+      "full_transcript": "A lo largo de este corto recorrido, también he comprendido que existe una gran diferencia entre conocer esa ciencia... y aplicarla en el entorno de alto rendimiento. Hay situaciones que ningún libro, artículo científico o certificación pueden enseñarte. Son aprendizajes que solo llegan cuando formas parte de un cuerpo técnico, cuando debes tomar decisiones con información limitada, comunicarte con entrenadores y atletas, y adaptarte a contextos que constantemente están cambiando... Fue ahí donde comencé a entender que la ciencia es el fundamento de nuestro trabajo, pero que nuestro verdadero valor como profesionales está en nuestra capacidad para transformar todo ese conocimiento en decisiones que generan confianza, que resuelven problemas y que contribuyan al desarrollo y al rendimiento de nuestro atleta.",
+      "keywords": [
+        "confianza",
+        "resolucion-problemas",
+        "adaptabilidad",
+        "cuerpo-tecnico",
+        "conocimiento-practico"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Dónde reside el verdadero valor de un científico deportivo?",
+        "¿Qué aprendizajes no se pueden obtener en los libros académicos?",
+        "¿Cómo influye la toma de decisiones con información limitada en la generación de confianza?"
+      ],
+      "related_terms": [
+        "valor",
+        "profesional",
+        "confianza",
+        "solución",
+        "de",
+        "problemas",
+        "adaptabilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "La ponente explica su transición inicial desde el interés por ser jugadora hacia la preparación física.",
+      "context_after": "Presenta su actual privilegio de ser performance scientist para selecciones juveniles de Estados Unidos."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:11:27",
+      "end_timestamp": "00:14:04",
+      "start_seconds": 687,
+      "end_seconds": 844,
+      "duration_seconds": 157,
+      "timestamp_url": "?t=687",
+      "title": "El choque entre la base académica y el entorno real",
+      "summary": "La formación universitaria provee una base científica indispensable, pero al ingresar al fútbol profesional se evidencia una brecha significativa. Habilidades diarias cruciales sobre el funcionamiento de un equipo no se enseñan en el entorno académico.",
+      "literal_quote": "Entendí que muchas de las habilidades que más utilizaría en mi trabajo no aparecerían en un libro ni formaban parte de un examen.",
+      "full_transcript": "Durante la universidad aprendemos lo que es la fisiología, biomecánica, entrenamiento, nutrición y metodología. Construimos una base muy sólida científica indispensable para ejercer nuestra profesión... Más sin embargo, cuando entré por primera vez a un entorno de fútbol profesional, descubrí que existía una diferencia muy grande entre saber la ciencia... y aplicar todo eso dentro de un equipo, cómo funciona un equipo en el día a día, cómo funciona tu rol dentro de un equipo y de un cuerpo técnico al día a día. Fue ahí donde entendí que muchas de las habilidades que más utilizaría en mi trabajo no aparecerían en un libro ni formaban parte de un examen. Ese fue el momento en que realmente comenzó mi transición de la teoría a la práctica... Sin embargo, muy pronto descubrí que el trabajo iba mucho más allá del conocimiento científico y del conocimiento técnico.",
+      "keywords": [
+        "base-academica",
+        "fisiologia",
+        "entorno-profesional",
+        "habilidades-practicas",
+        "cuerpo-tecnico"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Qué diferencia existe entre lo aprendido en la universidad y el trabajo en un equipo profesional?",
+        "¿Qué base científica se considera indispensable para la profesión?",
+        "¿Qué papel juegan las habilidades no académicas en el día a día de un equipo de fútbol?"
+      ],
+      "related_terms": [
+        "universidad",
+        "ciencia",
+        "habilidades",
+        "prácticas",
+        "día",
+        "a",
+        "día"
+      ],
+      "relevance_score": 4,
+      "context_before": "Narra sus inicios llenos de ilusión tras graduarse de la universidad.",
+      "context_after": "Se introducen las tres áreas principales de aprendizaje en su experiencia con FC Dallas."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:16:21",
+      "end_timestamp": "00:17:58",
+      "start_seconds": 981,
+      "end_seconds": 1078,
+      "duration_seconds": 97,
+      "timestamp_url": "?t=981",
+      "title": "Interacción y alineación de objetivos con el cuerpo técnico",
+      "summary": "El preparador físico no trabaja de forma aislada; su labor debe estar al servicio de la idea de juego y del modelo de entrenamiento del entrenador principal. Toda recomendación debe responder a las necesidades tácticas y competitivas reales.",
+      "literal_quote": "Aprender a alinear los objetivos del rendimiento físico con las prioridades tácticas y competitivas del equipo.",
+      "full_transcript": "La interacción con el cuerpo técnico... empecé a entender lo que el rol del preparador físico dentro de un cuerpo técnico era y cómo se construía esa relación de confianza con el entrenador. Entendí que el preparador físico no trabaja de manera aislada. Es un trabajo en equipo y nuestro trabajo está al servicio también de una idea de juego y de un modelo de entrenamiento. Por ejemplo, entender cómo la metodología del director técnico y el modelo de juego determinaban ciertas demandas físicas del equipo. Y eso era importante para mí saberlo... Aprender a alinear los objetivos del rendimiento físico con las prioridades tácticas y competitivas del equipo. Siempre ir a la par del cuerpo técnico, de las necesidades también del jugador... Aprendí también que siempre, con toda esa información, una buena recomendación era aquella que respondía a una necesidad real del contexto y que podía ser utilizada para apoyar la toma de decisiones.",
+      "keywords": [
+        "cuerpo-tecnico",
+        "modelo-de-juego",
+        "demandas-fisicas",
+        "alineacion-tactica",
+        "toma-de-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe alinearse el rendimiento físico con la táctica del equipo?",
+        "¿Por qué es importante que el preparador físico entienda el modelo de juego?",
+        "¿Qué constituye una buena recomendación dentro de un cuerpo técnico?"
+      ],
+      "related_terms": [
+        "modelo",
+        "de",
+        "juego",
+        "táctica",
+        "rendimiento",
+        "físico",
+        "necesidad",
+        "del",
+        "contexto"
+      ],
+      "relevance_score": 5,
+      "context_before": "La ponente define sus tres principales áreas de desarrollo en el club FC Dallas.",
+      "context_after": "A continuación, se detalla la importancia de la comunicación como habilidad técnica esencial."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:18:00",
+      "end_timestamp": "00:18:52",
+      "start_seconds": 1080,
+      "end_seconds": 1132,
+      "duration_seconds": 52,
+      "timestamp_url": "?t=1080",
+      "title": "Comunicación: Una habilidad técnica esencial",
+      "summary": "La capacidad de transmitir información y recomendaciones de manera clara y rápida es crucial en el alto rendimiento, dado que el tiempo suele ser limitado y las decisiones, especialmente durante partidos, requieren inmediatez.",
+      "literal_quote": "Comunicar es una habilidad técnica... saber qué información dar para dar una buena recomendación y saber transmitirla de una manera clara.",
+      "full_transcript": "Comunicar es una habilidad técnica y esto es algo que también fui aprendiendo, que la comunicación entre el preparador físico y el performance scientist con el cuerpo técnico era importante también estar preparada, saber cómo llevar el mensaje, saber qué información dar para dar una buena recomendación Y saber transmitirla de una manera clara. Porque en el día a día a veces tienes poco tiempo o tienes que tomar decisiones rápido antes o durante un partido. Es importante poder transmitir todo eso de una manera clara para la persona que lo va a escuchar.",
+      "keywords": [
+        "comunicacion",
+        "habilidad-tecnica",
+        "transmision-informacion",
+        "toma-de-decisiones-rapida",
+        "cuerpo-tecnico"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Habilidad"
+      ],
+      "search_questions": [
+        "¿Por qué se considera a la comunicación como una habilidad técnica en ciencias del deporte?",
+        "¿Qué desafío de tiempo enfrentan los profesionales al comunicar información en los partidos?",
+        "¿Cómo debe estructurarse un mensaje técnico para que sea efectivo?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "clara",
+        "habilidad",
+        "técnica",
+        "tiempo",
+        "limitado",
+        "mensaje"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo las recomendaciones físicas deben alinearse con las tácticas del equipo.",
+      "context_after": "Se introduce el segundo pilar de aprendizaje en Dallas: la interacción directa con los jugadores."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:18:59",
+      "end_timestamp": "00:22:20",
+      "start_seconds": 1139,
+      "end_seconds": 1340,
+      "duration_seconds": 201,
+      "timestamp_url": "?t=1139",
+      "title": "La interacción con jugadores: Personas antes que atletas",
+      "summary": "Construir relaciones sólidas y fomentar una comunicación bidireccional honesta es fundamental. A menudo, la información más valiosa sobre el estado de un jugador se obtiene escuchando en una conversación, por encima de los datos provistos por tecnologías como GPS o plataformas de fuerza.",
+      "literal_quote": "Muchas veces la información más valiosa no proviene de un GPS o de una plataforma de fuerza, proviene de una conversación que tienes con el jugador.",
+      "full_transcript": "Otra de las áreas muy importantes que aprendí en mi primera oportunidad con el FC Dallas fue la interacción con los jugadores... Siempre hay que recordar que antes que atletas, son personas. Personas con una historia diferente, con una personalidad distinta y, sobre todo, con una manera muy particular de responder, ya sea a entrenos, a otras personas, a la información que reciben... Aprender a construir esas relaciones y llevarlas al día a día era importante para generar confianza... y fomentar una comunicación bidireccional con el jugador, permitir que el jugador también comparta cómo se siente. Eso creo que es de lo que más me he llevado conmigo: que pueda ser honesto, que se sienta con confianza de ser honesto y que si en un momento llega a necesitar ayuda, te la pueda pedir. Dentro de esto aprendí que escuchar también es tan importante como evaluar. Muchas veces la información más valiosa no proviene de un GPS o de una plataforma de fuerza, proviene de una conversación que tienes con el jugador.",
+      "keywords": [
+        "interaccion-jugadores",
+        "comunicacion-bidireccional",
+        "confianza",
+        "empatia",
+        "evaluacion-subjetiva"
+      ],
+      "entities": [
+        "FC Dallas",
+        "GPS"
+      ],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es vital ver a los jugadores como personas antes que como atletas?",
+        "¿Qué herramienta de recolección de información es a veces superior al GPS según la ponente?",
+        "¿Cómo beneficia la comunicación bidireccional al rendimiento del jugador?"
+      ],
+      "related_terms": [
+        "conversación",
+        "escuchar",
+        "confianza",
+        "empatía",
+        "tecnología",
+        "vs",
+        "interacción"
+      ],
+      "relevance_score": 5,
+      "context_before": "La ponente termina de explicar la comunicación efectiva con el cuerpo técnico.",
+      "context_after": "Se detalla cómo el manejo del tono de voz ayuda a gestionar los momentos emocionales de los jugadores."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:22:34",
+      "end_timestamp": "00:23:25",
+      "start_seconds": 1354,
+      "end_seconds": 1405,
+      "duration_seconds": 51,
+      "timestamp_url": "?t=1354",
+      "title": "El manejo del tono de voz según la situación del equipo",
+      "summary": "El preparador físico debe ajustar su enfoque comunicativo al contexto: puede requerir ser motivador, correctivo o, en momentos de estrés y malas rachas, servir como ancla de calma para los deportistas.",
+      "literal_quote": "Manejar diferentes enfoques según el momento, ya sea que necesitas corrección, motivar o a veces... somos la calma.",
+      "full_transcript": "El manejo de tono de voz también fue importante para mí... Manejar diferentes enfoques según el momento, ya sea que necesitas corrección, motivar o a veces, y muchas veces también, somos la calma. Si hay un momento de estrés en el entreno o en un partido, o un jugador está viviendo una mala racha, somos también esa voz de calma para ellos. Ese fue un gran aprendizaje que me llevé de mi experiencia en Dallas.",
+      "keywords": [
+        "tono-de-voz",
+        "liderazgo",
+        "calma",
+        "motivacion",
+        "manejo-de-estres"
+      ],
+      "entities": [
+        "Dallas"
+      ],
+      "topics": [
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Estrategia"
+      ],
+      "search_questions": [
+        "¿Qué rol juega el tono de voz del staff de rendimiento durante entrenamientos?",
+        "¿Cómo debe actuar un profesional de rendimiento en momentos de estrés del equipo?",
+        "¿Cuáles son los diferentes enfoques de comunicación según el momento deportivo?"
+      ],
+      "related_terms": [
+        "tono",
+        "de",
+        "voz",
+        "estrés",
+        "calma",
+        "motivación",
+        "regulación",
+        "emocional"
+      ],
+      "relevance_score": 4,
+      "context_before": "Discusión sobre la superioridad cualitativa de las conversaciones honestas frente a los datos duros del GPS.",
+      "context_after": "Transición temática hacia su experiencia en selecciones nacionales y su rol híbrido actual."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:24:24",
+      "end_timestamp": "00:26:05",
+      "start_seconds": 1464,
+      "end_seconds": 1565,
+      "duration_seconds": 101,
+      "timestamp_url": "?t=1464",
+      "title": "Los cinco pilares del rol híbrido en Selecciones",
+      "summary": "En selecciones nacionales, el Performance Scientist ejecuta un rol híbrido y multifacético compuesto por cinco pilares: planificación general, estrategias de periodización, programación física, planificación nutricional y monitorización diaria del atleta.",
+      "literal_quote": "Considero que dentro de este rol tenemos un rol híbrido... apoyamos al cuerpo técnico mediante los que consideramos los cinco pilares fundamentales.",
+      "full_transcript": "Si tuviera que resumir mi trabajo en este momento, mi rol en una sola frase, diría que mi función consiste en conectar toda esa ciencia, el conocimiento con la toma de decisiones dentro del entorno del alto rendimiento. También considero que dentro de este rol tenemos un rol híbrido, porque nos ponemos varios sombreros para llevar diferentes áreas del alto rendimiento... Todo esto implica apoyar no solo al atleta, sino al cuerpo técnico mediante los que consideramos los cinco pilares fundamentales de la práctica dentro de nuestro rol, que son la planificación, las estrategias de periodización, que van armando un plan físico, una periodización de entreno, la programación física, la planificación nutricional, que también es muy importante dentro de nuestro entorno, y el monitoreo diario del atleta, lo que vamos viendo día a día, como responden a los entrenos, a los viajes, la recuperación y todo eso.",
+      "keywords": [
+        "rol-hibrido",
+        "planificacion",
+        "periodizacion",
+        "nutricion",
+        "monitoreo",
+        "selecciones-nacionales"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Marco de trabajo"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cinco pilares fundamentales del Performance Scientist en selecciones?",
+        "¿En qué consiste el rol híbrido de un profesional del rendimiento?",
+        "¿Cómo integra el científico deportivo las estrategias de periodización y nutrición?"
+      ],
+      "related_terms": [
+        "planificación",
+        "periodización",
+        "programación",
+        "física",
+        "nutrición",
+        "monitoreo",
+        "diario"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación de su actual posición trabajando con selecciones juveniles masculinas de EE.UU.",
+      "context_after": "Se destaca que este rol híbrido es inviable sin la colaboración constante del resto de especialistas."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:27:00",
+      "end_timestamp": "00:29:34",
+      "start_seconds": 1620,
+      "end_seconds": 1774,
+      "duration_seconds": 154,
+      "timestamp_url": "?t=1620",
+      "title": "Colaboración interdisciplinar: Uniendo perspectivas",
+      "summary": "Ninguna disciplina optimiza el rendimiento de manera aislada. El cuerpo técnico, los médicos, nutricionistas y operaciones observan al jugador desde ópticas diferentes. El trabajo científico consiste en integrar y sintetizar esa información para decisiones colegiadas.",
+      "literal_quote": "Ninguna disciplina por sí sola optimiza el rendimiento de un atleta... En el alto rendimiento, las mejores decisiones rara vez pertenecen a una sola disciplina.",
+      "full_transcript": "Una lección muy importante que me llevo... es que ninguna disciplina por sí sola optimiza el rendimiento de un atleta. Cada persona... observamos al jugador desde una perspectiva diferente. Por ejemplo, el cuerpo técnico piensa en el rendimiento competitivo. El \"performance medicine\"... busca mantener la disponibilidad de los jugadores... La nutrición piensa en optimizar la preparación de los atletas y el \"team administrator\" en llevar una operación positiva... Y mi trabajo consiste en integrar parte de esa información de cada uno de ellos y colaborar con todos para apoyar el proceso de toma de decisiones... En el alto rendimiento, las mejores decisiones rara vez pertenecen a una sola disciplina. Son el resultado de la colaboración entre diferentes especialistas que trabajan hacia un mismo objetivo.",
+      "keywords": [
+        "colaboracion-interdisciplinar",
+        "performance-medicine",
+        "optimizacion-rendimiento",
+        "staff",
+        "toma-de-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es un error trabajar de manera aislada en departamentos de alto rendimiento?",
+        "¿Cuáles son las perspectivas individuales que conforman el análisis completo de un jugador?",
+        "¿Cómo se sintetizan las decisiones de alto rendimiento?"
+      ],
+      "related_terms": [
+        "perspectivas",
+        "disciplinas",
+        "colaboración",
+        "integración",
+        "de",
+        "información"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se mencionaron las tareas múltiples (híbridas) que realiza un científico del deporte.",
+      "context_after": "Se exponen los prejuicios comunes sobre el perfil del analista de datos y la amplitud real del cargo."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:29:50",
+      "end_timestamp": "00:31:55",
+      "start_seconds": 1790,
+      "end_seconds": 1915,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=1790",
+      "title": "Responsabilidades más allá de los datos (GPS y Gráficas)",
+      "summary": "Existe la idea errónea de que el Performance Scientist solo maneja tecnología y gráficas frente a un ordenador. En realidad, abarcan preparación física general, fuerza, recuperación, cargas, hidratación y coordinación logística global de nutrición y suplementación.",
+      "literal_quote": "Lo primero que imaginan es alguien encargado de los datos, tal vez del GPS... Y aunque esa es una parte muy importante... el rol abarca mucho más que la tecnología.",
+      "full_transcript": "Cuando las personas escuchan el término \"performance scientist\", muchas veces o no tienen idea de lo que hacemos... o lo primero que imaginan es alguien encargado de los datos, tal vez del GPS, del monitoreo de cargas, se imaginan gráficas, alguien en un computador. Y aunque esa es una parte muy importante de nuestro trabajo, es solo una pequeña porción... Si observamos aquí el alcance de nuestras responsabilidades, vemos que el rol abarca mucho más que la tecnología. Pueden ver que llevo la preparación física y el desarrollo, ayudando con estrategias de recuperación, planeando la periodización de los entrenos, manejando las cargas... y también los programas de fuerza. También la integración de la tecnología... Dentro de la nutrición, ayudar con los suplementos, las estrategias de hidratación, llevar un menú que vaya concorde a nuestro plan de entrenamiento...",
+      "keywords": [
+        "gps",
+        "preparacion-fisica",
+        "nutricion",
+        "tecnologia-deportiva",
+        "monitoreo-de-cargas",
+        "fuerza"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué prejuicio común existe respecto al rol de performance scientist?",
+        "¿Qué áreas de trabajo maneja el departamento de ciencias del deporte además de la tecnología?",
+        "¿Cómo se integra el diseño del menú nutricional en las funciones del preparador físico?"
+      ],
+      "related_terms": [
+        "datos",
+        "computador",
+        "gráficas",
+        "preparación",
+        "física",
+        "nutrición",
+        "tecnología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre la unión de todas las disciplinas (médica, técnica) en las decisiones de grupo.",
+      "context_after": "Se detallan otras labores accesorias del cargo como el scouting y la comunicación externa."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:31:58",
+      "end_timestamp": "00:34:13",
+      "start_seconds": 1918,
+      "end_seconds": 2053,
+      "duration_seconds": 135,
+      "timestamp_url": "?t=1918",
+      "title": "Identificación de talento e intercambio con los clubes",
+      "summary": "En selecciones nacionales, es vital proveer perfiles físicos a los ojeadores. Asimismo, se requiere un flujo de comunicación constante con los clubes para gestionar la transición y continuidad de la carga física del jugador, dado el corto tiempo de las concentraciones.",
+      "literal_quote": "Algo muy importante dentro de selecciones nacionales... es la comunicación con los clubes de los jugadores. Poder intercambiar esa información, ya que en selecciones nacionales no tenemos la oportunidad de tener al jugador día a día.",
+      "full_transcript": "Otra cosa importante es que también ayudamos en el proceso de identificación de talento y de desarrollo, ayudando a los scouts a dar información de lo que vemos en un perfil físico del jugador. Mantener siempre esa colaboración entre otros departamentos... Algo muy importante dentro de selecciones nacionales, que es de las primeras cosas que tenemos que manejar, es la comunicación con los clubes de los jugadores. Poder intercambiar esa información, ya que en selecciones nacionales no tenemos la oportunidad de tener al jugador día a día y solamente los vemos tres o cuatro veces al año... Es importante que podamos tener esa comunicación con los clubes para tener más información y ayudar y apoyar la transición del jugador del club a selección y de selección a club. También somos parte de proyectos de investigación...",
+      "keywords": [
+        "scouting",
+        "identificacion-de-talento",
+        "comunicacion-clubes",
+        "transicion-club-seleccion",
+        "perfil-fisico"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Proceso",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo apoya el departamento de rendimiento al área de scouting?",
+        "¿Por qué es fundamental la comunicación continua con los clubes de origen en una selección?",
+        "¿Qué rol juega la investigación en las etapas fuera de concentración?"
+      ],
+      "related_terms": [
+        "identificación",
+        "de",
+        "talento",
+        "clubes",
+        "transición",
+        "información",
+        "scouts"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se aclara que la posición no se limita únicamente al análisis numérico y control de GPS.",
+      "context_after": "Se entra en profundidad sobre cómo la inestabilidad de una selección afecta el diseño de entrenamientos."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:36:51",
+      "end_timestamp": "00:38:27",
+      "start_seconds": 2211,
+      "end_seconds": 2307,
+      "duration_seconds": 96,
+      "timestamp_url": "?t=2211",
+      "title": "Diferencias de planificación: Club (estable) vs. Selección (cambiante)",
+      "summary": "Trabajar en selecciones difiere radicalmente de los clubes. Mientras el club ofrece una rutina estable, las selecciones implican contextos sumamente variables, con constantes cambios de país, climas, horarios y tiempos de viaje entre cada concentración.",
+      "literal_quote": "En un club normalmente trabajamos dentro de una estructura relativamente estable y en selecciones nacionales prácticamente todo puede cambiar de concentración a concentración.",
+      "full_transcript": "Una de las mayores diferencias entre club y selección... es ver que en un club normalmente trabajamos dentro de una estructura relativamente estable y en selecciones nacionales prácticamente todo puede cambiar de concentración a concentración. Como ven aquí, tan solo este año he estado ya en cinco países... se pueden dar cuenta de que aunque el objetivo deportivo puede ser el mismo, el contexto nunca lo es. Cada país implica diferentes condiciones ambientales, diferentes horarios, diferentes tiempos de viaje y, con eso, también diferentes instalaciones. Todo esto influye en la manera en que planificamos una concentración...",
+      "keywords": [
+        "diferencias-club-seleccion",
+        "contexto-inestable",
+        "viajes-internacionales",
+        "logistica",
+        "planificacion-adaptable"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es la principal diferencia logística entre trabajar en un club y en una selección nacional?",
+        "¿Qué factores ambientales afectan drásticamente las concentraciones internacionales?",
+        "¿Cómo impacta el contexto de viaje en la estabilidad del entrenamiento deportivo?"
+      ],
+      "related_terms": [
+        "club",
+        "vs",
+        "selección",
+        "viajes",
+        "entorno",
+        "cambiante",
+        "clima",
+        "horarios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del ciclo mundialista juvenil y los horizontes a largo plazo en el desarrollo.",
+      "context_after": "Descripción exhaustiva de la fase de planificación logística previa a que los jugadores viajen."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:38:29",
+      "end_timestamp": "00:41:07",
+      "start_seconds": 2309,
+      "end_seconds": 2467,
+      "duration_seconds": 158,
+      "timestamp_url": "?t=2309",
+      "title": "Fase previa de planificación logística en concentraciones",
+      "summary": "El éxito físico inicia mucho antes del primer entrenamiento. Reuniendo información sobre fechas de vuelo, disponibilidad y calidad de instalaciones y cronogramas de comidas, se crea el andamiaje del cual dependerán los niveles de carga física a exigir.",
+      "literal_quote": "Una gran parte de nuestro trabajo ocurre antes de que comience el primer entreno... Analizamos aspectos como la convocatoria, los itinerarios de viaje, los horarios de llegada, las instalaciones...",
+      "full_transcript": "Nuestro trabajo, por eso, comienza mucho antes de que el primer jugador llegue al hotel de concentración. Como lo ven aquí, una gran parte de nuestro trabajo ocurre antes de que comience el primer entreno. Una vez ya definido el contexto, iniciamos esta fase, que es la fase previa de planificación, donde empezamos a reunir toda la información necesaria para construir un plan específico... Analizamos aspectos como la convocatoria, los itinerarios de viaje, los horarios de llegada, las instalaciones, como antes lo comentaba, el alojamiento... los horarios de alimentación, el calendario de entrenamiento y de competencia... Cada uno de estos tiene un impacto sobre la planificación del rendimiento... ¿Por qué? Porque, por ejemplo, los horarios de llegada pueden afectar el tiempo de recuperación que tenemos previo al primer entreno. La disponibilidad de instalaciones nos ayuda o nos afecta la estructura de nuestras sesiones.",
+      "keywords": [
+        "planificacion-previa",
+        "logistica",
+        "viajes",
+        "infraestructura",
+        "recuperacion-viajes"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué elementos se evalúan antes del inicio de una concentración internacional?",
+        "¿De qué manera los horarios de los vuelos alteran el planteamiento físico del primer entrenamiento?",
+        "¿Cómo afectan las infraestructuras hoteleras en las estrategias de recuperación de la plantilla?"
+      ],
+      "related_terms": [
+        "logística",
+        "itinerarios",
+        "instalaciones",
+        "alimentación",
+        "tiempo",
+        "de",
+        "recuperación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Contraste sobre la estabilidad de los clubes frente al caos estructural de las competiciones internacionales.",
+      "context_after": "Fusión de esta información logística con las metas técnico-tácticas del seleccionador."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:41:14",
+      "end_timestamp": "00:43:20",
+      "start_seconds": 2474,
+      "end_seconds": 2600,
+      "duration_seconds": 126,
+      "timestamp_url": "?t=2474",
+      "title": "Alineación del plan físico con el objetivo del torneo",
+      "summary": "Con el esquema logístico mapeado, se integra con el calendario de partidos y las intenciones del cuerpo técnico. Existen ventanas enfocadas puramente a la competencia (ganar) y otras destinadas a observar y desarrollar a nuevos prospectos.",
+      "literal_quote": "Durante esta fase, conjunto al cuerpo técnico, vamos construyendo este plan de entrenamiento y vamos conversando las prioridades... y cómo podemos alinear los objetivos físicos con los objetivos tácticos y competitivos.",
+      "full_transcript": "Ya teniendo más detalles de la logística, ya nos da un punto de partida. Es aquí cuando ya vamos entendiendo las fechas... Ya teníamos, por ejemplo, aquí las fechas de partidos, los días que íbamos a tener entre partido, ya sabemos días disponibles de entreno... Así que durante esta fase, conjunto al cuerpo técnico, vamos construyendo este plan de entrenamiento y vamos conversando las prioridades de cada sesión, lo que queremos lograr durante la concentración... y cómo podemos alinear los objetivos físicos con los objetivos tácticos y competitivos. Este de aquí es un ejemplo de una competencia, pero muchas veces también las concentraciones son de siete a 10 días y puede ser que solo tengamos uno o dos partidos... y también el objetivo de la concentración a veces es competencia, ir a competir, ganar, a veces es desarrollo, por ejemplo ver a los jugadores.",
+      "keywords": [
+        "calendario-de-partidos",
+        "competencia-vs-desarrollo",
+        "alineacion-fisico-tactica",
+        "cuerpo-tecnico",
+        "objetivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo difiere la planificación física entre un microciclo de competencia y uno de desarrollo de talento?",
+        "¿Por qué el volumen de partidos amistosos modifica la carga planeada para toda la ventana internacional?",
+        "¿De qué manera negocia el equipo físico las prioridades de la sesión con los directores técnicos?"
+      ],
+      "related_terms": [
+        "prioridades",
+        "tácticas",
+        "desarrollo",
+        "competencia",
+        "plan",
+        "de",
+        "entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Recopilación de información externa (hoteles, instalaciones, tiempos de vuelo).",
+      "context_after": "Análisis de qué sucede cuando los planes sufren modificaciones repentinas en la realidad operativa."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:43:24",
+      "end_timestamp": "00:47:33",
+      "start_seconds": 2604,
+      "end_seconds": 2853,
+      "duration_seconds": 249,
+      "timestamp_url": "?t=2604",
+      "title": "Adaptabilidad frente a limitaciones dinámicas (Dynamic Constraints)",
+      "summary": "Por mejor estructura que exista, el deporte implica restricciones dinámicas: asimetrías en las temporadas de cada jugador en sus respectivos clubes, clima adverso, cancelaciones u oponentes variables. Tener un plan sólido sirve primordialmente para poder pivotar y adaptarse rápidamente ante la adversidad.",
+      "literal_quote": "Mientras tengamos un plan, nos da la oportunidad de adaptarnos más rápido y de no siempre estar pensando: \"¿Ahora qué sigue?\"",
+      "full_transcript": "Incluso con una planificación bien estructurada, sabemos que existen múltiples factores que pueden modificar nuestro plan... En la universidad aprendemos a planificar en escenarios ideales... Cuando llegas a un equipo de alto rendimiento... te enseña a planificar en escenarios reales. Algo que he aprendido es que hay que estar siempre preparados para adaptarse... Especialmente con selecciones lo he visto más en la fase de la temporada de cada jugador. Tenemos jugadores que nos llegan... que han estado en temporada ya por cinco o seis meses y tenemos también jugadores que talvez sí han estado en temporada, pero que no han jugado... así como otros jugadores que talvez están en fase de transición... Otros que llamamos \"dynamic constraints\"... la calidad del oponente, la disponibilidad de jugadores, las condiciones ambientales, la transmisión televisiva... Algo que me gustaría comentar sobre eso... era que mientras tengamos un plan, nos da la oportunidad de adaptarnos más rápido y de no siempre estar pensando: \"¿Ahora qué sigue?\"... ya llevamos un plan para poder tener la habilidad de adaptarnos más rápido a los cambios.",
+      "keywords": [
+        "dynamic-constraints",
+        "adaptabilidad",
+        "fase-de-temporada",
+        "estado-de-forma",
+        "contingencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los denominados \"dynamic constraints\" (limitaciones dinámicas) en el fútbol?",
+        "¿Cómo afecta que jugadores provengan de diferentes fases de su liga local a una misma selección?",
+        "¿Por qué tener un plan es útil incluso si el contexto exige cambiarlo por completo?"
+      ],
+      "related_terms": [
+        "adaptabilidad",
+        "cambios",
+        "imprevistos",
+        "clima",
+        "ritmo",
+        "competitivo",
+        "plan",
+        "flexible"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desarrollo del plan teórico enfocado al partido según la meta deportiva.",
+      "context_after": "Se transiciona a la recolección de métricas diarias con GPS y dispositivos para avalar estas adaptaciones."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:48:05",
+      "end_timestamp": "00:51:08",
+      "start_seconds": 2885,
+      "end_seconds": 3068,
+      "duration_seconds": 183,
+      "timestamp_url": "?t=2885",
+      "title": "Uso crítico de la tecnología: Primero definir la pregunta",
+      "summary": "Ante el bombardeo de nuevas tecnologías de evaluación, el punto de partida jamás debe ser la herramienta en sí, sino la pregunta específica que el cuerpo técnico necesita resolver. La tecnología facilita el dato, pero el criterio profesional decide la acción.",
+      "literal_quote": "Mi primer paso... es primero definir la pregunta que quiero responder... ¿qué tecnología y qué herramienta me va a ayudar a responder eso? ... la tecnología debe ser vista como una herramienta para que nos ayude a tomar mejores decisiones.",
+      "full_transcript": "Hoy contamos con una enorme cantidad de herramientas para medir cualquier aspecto del atleta... Todo eso representa una oportunidad, pero también un reto, porque la cantidad de datos disponibles no siempre representa una mejor comprensión del atleta. Nuestro primer paso... es primero definir la pregunta que quiero responder ¿Qué es lo que necesito saber en ese momento?... Y así voy escogiendo cuál tecnología o cuál herramienta utilizar. Ahora, ¿qué información realmente nos va a ayudar a responder esa pregunta? Entonces, ¿qué tecnología y qué herramienta me va a ayudar a responder eso? Porque aunque hay muchas cosas que ayudan ahora en este momento... en nuestro contexto no siempre vamos a tener el tiempo de utilizar todas o de digerir todos esos datos... Y de eso, ¿qué acciones voy a tomar con esa información? Porque la tecnología debe ser vista como una herramienta para que nos ayude a tomar mejores decisiones, siempre acompañada de un buen criterio profesional.",
+      "keywords": [
+        "criterio-profesional",
+        "tecnologia-deportiva",
+        "preguntas-clave",
+        "saturacion-de-datos",
+        "toma-de-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué error es común al tratar con grandes volúmenes de datos deportivos?",
+        "¿Cuál es el primer paso metodológico antes de usar cualquier dispositivo tecnológico?",
+        "¿Por qué es preferible elegir pocas herramientas de testeo en lugar de monitorizarlo todo?"
+      ],
+      "related_terms": [
+        "tecnología",
+        "herramienta",
+        "pregunta",
+        "criterio",
+        "profesional",
+        "exceso",
+        "de",
+        "datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables y adaptaciones impredecibles.",
+      "context_after": "Se cambia de tema hacia la filosofía personal y su metodología formativa para la vida post-retiro del jugador."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:51:46",
+      "end_timestamp": "00:54:41",
+      "start_seconds": 3106,
+      "end_seconds": 3281,
+      "duration_seconds": 175,
+      "timestamp_url": "?t=3106",
+      "title": "Impactar el desarrollo integral humano del jugador",
+      "summary": "El trabajo en categorías formativas no debe ceñirse únicamente al campo físico. Debe estructurarse un entorno de aprendizaje que forme personas integrales, con capacidad de tomar decisiones dentro del vestuario, gestionar vínculos humanos y prepararse para el futuro extra deportivo.",
+      "literal_quote": "Acordarme de que el desarrollo no termina cuando finaliza el entrenamiento, que contribuimos a ese desarrollo de la persona.",
+      "full_transcript": "Todas estas decisiones para mí deben responder siempre a una misma pregunta: ¿cómo beneficia esto? ¿Cómo lo voy a ayudar para que en esa concentración esté preparado para competir a su máximo nivel...? Pero también, ¿cómo lo voy a apoyar para que él regrese a su club y continúe haciendo ese buen trabajo...? Y a la larga, que para mí es muy importante... es cómo voy a impactar la vida de ese jugador durante su carrera o después, al terminar... Buscamos crear un entorno que favorezca al aprendizaje, al desarrollo y al rendimiento de nuestro jugador... La formación integral es algo que para mí, especialmente trabajando con categorías menores, es algo en lo que siempre pienso... Acordarme de que el desarrollo no termina cuando finaliza el entrenamiento, que contribuimos a ese desarrollo de la persona, que podemos ayudarlos no solo a correr más rápido, pero a tomar mejores decisiones dentro de un vestidor... o cómo maneja sus relaciones con sus compañeros... a llevar su carrera más allá de solo ser un jugador.",
+      "keywords": [
+        "desarrollo-integral",
+        "filosofia",
+        "formacion-humana",
+        "entorno-de-aprendizaje",
+        "categorias-menores"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Filosofía"
+      ],
+      "search_questions": [
+        "¿De qué manera aporta un cuerpo técnico a la vida extra deportiva de las categorías menores?",
+        "¿Por qué es fundamental que un rendimiento físico considere al individuo humano detrás del jugador?",
+        "¿Cómo influyen los entornos de aprendizaje estructurados en el vestuario de un equipo?"
+      ],
+      "related_terms": [
+        "desarrollo",
+        "integral",
+        "formación",
+        "humana",
+        "vida",
+        "post-retiro",
+        "aprendizaje"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del uso del hardware evaluativo y el rol de la duda analítica.",
+      "context_after": "Estructuración de herramientas prácticas para independizar las capacidades intelectuales del futbolista."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "El rol del Performance Scientist: De la teoría a la práctica",
+      "speaker": "Stephanie Domínguez",
+      "start_timestamp": "00:55:02",
+      "end_timestamp": "01:00:15",
+      "start_seconds": 3302,
+      "end_seconds": 3615,
+      "duration_seconds": 313,
+      "timestamp_url": "?t=3302",
+      "title": "Fomento de la autonomía y conclusión del rol profesional",
+      "summary": "El objetivo final del científico deportivo es educar al atleta para que entienda su proceso y participe activamente. El éxito implica que el jugador gane herramientas de autosuficiencia a futuro, independizándose del staff. Se concluye que ser estudiante perpetuo es imperativo en una industria donde la ciencia evoluciona.",
+      "literal_quote": "Nuestro objetivo no es que el jugador dependa de nosotros por el resto de su carrera... es darle esas herramientas para que tome mejores decisiones. La ciencia seguirá evolucionando... pero siempre necesitaremos profesionales capaces de interpretar.",
+      "full_transcript": "Y el jugador autónomo es algo que aprendí más cuando llegué a selecciones nacionales... Es tener el objetivo de ayudar al jugador a comprender su propio proceso. Cuando él entiende su proceso y por qué hacemos las cosas, comienza a participar activamente. Nuestro objetivo no es que el jugador dependa de nosotros por el resto de su carrera y por el resto de su vida, es darle esas herramientas para que tome mejores decisiones... son personas que van a tener una historia también después de su deporte... ayudarles como seres humanos a estar más preparados. Creo que eso también ayuda al final del día a cómo compiten, cómo entrenan... Quisiera terminar compartiendo una reflexión... Hoy sigo creyendo que la ciencia es el fundamento de nuestra profesión, pero nuestro verdadero valor como profesionales está en la manera en que utilizamos todo ese conocimiento para servir a nuestros deportistas... La ciencia seguirá evolucionando, la tecnología seguirá cambiando... Pero siempre necesitaremos profesionales capaces de interpretar esa información, colaborar con otras disciplinas y tomar decisiones que benefician al atleta... Nunca dejemos de ser estudiantes, continuemos preparándonos.",
+      "keywords": [
+        "jugador-autonomo",
+        "empoderamiento",
+        "aprendizaje-continuo",
+        "conclusiones",
+        "criterio-humano"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Qué implica fomentar un 'jugador autónomo' y cómo lo beneficia?",
+        "¿Cuál es el valor que los profesionales humanos retienen a pesar del avance tecnológico?",
+        "¿Por qué un miembro del staff de rendimiento afirma que no busca que el jugador dependa permanentemente de él?"
+      ],
+      "related_terms": [
+        "autonomía",
+        "empoderamiento",
+        "herramientas",
+        "estudiante",
+        "perpetuo",
+        "futuro",
+        "profesional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre el impacto integral del entrenamiento en individuos jóvenes.",
+      "context_after": "Fin del webinar, mensaje final de aprendizaje permanente y agradecimientos a la entidad promotora."
+    }
+  ]
+}
