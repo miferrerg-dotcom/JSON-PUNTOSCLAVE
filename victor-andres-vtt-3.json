@@ -1,0 +1,338 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "Del quirófano al movimiento (Parte 3)",
+    "speaker": "Víctor Jiménez Arsay",
+    "total_duration": "00:19:46",
+    "total_duration_seconds": 1186,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:01:26",
+      "end_timestamp": "00:04:20",
+      "start_seconds": 86,
+      "end_seconds": 260,
+      "duration_seconds": 174,
+      "timestamp_url": "?t=86",
+      "title": "Entrenamiento cruzado y ejercicios isométricos tempranos",
+      "summary": "Trabajar la extremidad sana o el tren superior beneficia directamente al miembro operado gracias a las neuronas espejo (entrenamiento cruzado), reduciendo la pérdida de fuerza y masa muscular. Además, realizar ejercicios isométricos en la zona dañada sin movimiento articular mejora la conexión muscular y bombea el derrame articular sin estresar la plastia.",
+      "literal_quote": "Además, ya hay muchísimos estudios que corroboran, gracias a la neurona espejo o el entrenamiento cruzado... que si tú activas o empiezas a trabajar la fuerza en la pierna contralateral, obtienes una menor pérdida de fuerza y masa muscular.",
+      "full_transcript": "Trabajo de activación o de ejercicio físico, y es que podemos empezar a trabajar el miembro contralateral y el resto del cuerpo. Parece algo muy obvio, pero lo podemos hacer sin ningún problema. El resto del cuerpo, porque vamos a estresar la estructura dañada. Si tenemos, por ejemplo, una lesión en el miembro inferior, podemos trabajar perfectamente el tren superior. Si tenemos una lesión en el tren superior, podemos trabajar el tren inferior. Y no solo eso, podemos trabajar o activar el miembro contralateral. [...] Además, ya hay muchísimos estudios que corroboran, gracias a la neurona espejo o el entrenamiento cruzado, como se suele llamar, que si tú activas o empiezas a trabajar la fuerza en la pierna contralateral, obtienes una menor pérdida de fuerza y masa muscular, menos rigidez, puede incluso aumentar la rapidez con la que recuperas el rango articular y puede incluso bajar los umbrales de dolor. [...] Quedándonos en la parte isométrica, podemos hacer una activación muscular sin movimiento articular y, por tanto, sin estresar la estructura dañada. La función que tienen estos ejercicios o estos movimientos isométricos es que disminuye la pérdida de masa muscular, mejora esa conexión del músculo y ayuda a bajar el dolor. Incluso actúa un poco como una especie de bombeo del líquido, del drenaje, de ese derrame articular de la rodilla.",
+      "keywords": [
+        "entrenamiento-cruzado",
+        "neuronas-espejo",
+        "isometricos",
+        "derrame-articular",
+        "activacion-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios del entrenamiento cruzado o neuronas espejo en una lesión?",
+        "¿Por qué se recomiendan los ejercicios isométricos en los primeros días postquirúrgicos?",
+        "¿Cómo se puede drenar el derrame articular sin poner en riesgo la plastia?"
+      ],
+      "related_terms": [
+        "entrenamiento cruzado",
+        "isométricos",
+        "neurona espejo",
+        "bombeo",
+        "plastia"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente introduce la que considera la diapositiva más importante del webinar, enumerando las estrategias a utilizar desde el primer día.",
+      "context_after": "Se avanza hacia el trabajo específico de la musculatura estabilizadora en lugar de focalizarse únicamente en el cuádriceps."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:04:21",
+      "end_timestamp": "00:06:24",
+      "start_seconds": 261,
+      "end_seconds": 384,
+      "duration_seconds": 123,
+      "timestamp_url": "?t=261",
+      "title": "Foco en la musculatura estabilizadora sobre el cuádriceps",
+      "summary": "Suele existir una obsesión errónea por activar el cuádriceps intensamente tras la operación. Al contraerse con brazos de palanca largos, el cuádriceps tira de la tibia y puede estresar la estructura reparada. Es más seguro y efectivo priorizar el core (abdominal y del pie), el glúteo medio y las articulaciones adyacentes para prevenir recidivas, trabajando de manera segura en descarga.",
+      "literal_quote": "Un error frecuente es pensar que tenemos que activar el cuádriceps a toda costa... al insertarse en la parte anterior de la tibia, cuando se contrae con brazos de palanca largos, genera un bajón anterior. Por tanto, podría estresar esa estructura.",
+      "full_transcript": "El siguiente punto es activación de la musculatura estabilizadora. Esta musculatura está formada por el core, el core abdominal, que vamos a diferenciarlo porque ahora se ha puesto muy de moda... Está el core abdominal y luego el core del pie. Y luego, por otro lado, está el glúteo. Más concretamente, el glúteo medio, que es el principal estabilizador de la pelvis, que nos va a proteger de un posible valgo dinámico y una posible recidiva en un futuro. [...] Casi siempre suele estar en las articulaciones supra o intrayacentes. Entonces, ¿por qué no podemos empezar ya a trabajar o activar esa musculatura que no hace daño a nadie, nos va a venir bien para el futuro y encima la plástia ni se inmuta? Vamos a incluirlo. [...] Un error frecuente es pensar que tenemos que activar el cuádriceps a toda costa con un montón de ejercicios, porque ya os vengo a decir que el tener más fuerza del cuádriceps no está relacionado con menos roturas del ligamento cruzado anterior. No os obsesionéis con prestarle demasiada atención a ese músculo, porque además el cuádriceps, al insertarse en la parte anterior de la tibia, cuando se contrae con brazos de palanca largos, genera un bajón anterior. Por tanto, podría estresar esa estructura.",
+      "keywords": [
+        "cuadriceps",
+        "musculatura-estabilizadora",
+        "core",
+        "gluteo-medio",
+        "valgo-dinamico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué activar intensamente el cuádriceps puede ser peligroso en fases iniciales de una cirugía de rodilla?",
+        "¿Qué músculos componen la musculatura estabilizadora a priorizar tras una lesión?",
+        "¿Qué relación hay entre la fuerza del cuádriceps y la prevención de roturas del LCA?"
+      ],
+      "related_terms": [
+        "estabilizadora",
+        "cuádriceps",
+        "glúteo medio",
+        "plastia",
+        "brazos de palanca"
+      ],
+      "relevance_score": 5,
+      "context_before": "Beneficios de los ejercicios isométricos y del entrenamiento del miembro contralateral.",
+      "context_after": "El ponente explica cómo tratar la musculatura que, por su naturaleza fisiológica, se vuelve rígida ante una lesión."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:06:26",
+      "end_timestamp": "00:09:00",
+      "start_seconds": 386,
+      "end_seconds": 540,
+      "duration_seconds": 154,
+      "timestamp_url": "?t=386",
+      "title": "Estrategias para relajar la musculatura tónica",
+      "summary": "Ante el dolor, la musculatura tónica tiende fisiológicamente al acortamiento y la rigidez. Para disminuir su tono se recomiendan estiramientos prolongados (más de 90 segundos para afectar al sistema nervioso), uso de calor, foam roller y masajes superficiales. Las terapias manuales o percusiones muy profundas que causan dolor deben evitarse, pues generan un efecto rebote de mayor acortamiento.",
+      "literal_quote": "Si yo quiero relajar una estructura, no puedo generar dolor, porque en el momento que aparece dolor, aparece rigidez y nos tendemos a acortar. Así que tened mucho cuidado.",
+      "full_transcript": "Lo que podemos incluir también es... el control del tono, la musculatura tónica. Esto va a ir un poco relacionado con lo que ya hemos comentado anteriormente. Cuando hay dolor o lesión, nos encontramos que la musculatura tónica, la tendencia que tiene es hacia el acortamiento [...] Os he dado ahí una serie de ejemplos, de estrategias que podemos hacer para bajar el tono de esa musculatura tónica de la pierna, por ejemplo, estiramientos. Se recomiendan que sean estiramientos que superen los 60 segundos. A mí me gustan más los 90, porque así tiene efecto en el sistema nervioso y genera ese momento de elongación. Luego también podemos utilizar el calor, la termoterapia... utilizar el foam roller, que mejora la viscosidad del tejido para bajar el tono. [...] Con el massage stick hay que andar con cuidado, porque mucha gente se obsesiona en profundizar demasiado y generamos un efecto rebote, incluso. Tienen que ser unas percusiones más tirando a livianas y ligeras que percusiones profundas. [...] El masaje, lo mismo, que no sea superprofundo, que sea más bien tirando hacia relajante o descontracturante, pero relajado. Si no, generamos lo mismo. Si yo quiero relajar una estructura, no puedo generar dolor, porque en el momento que aparece dolor, aparece rigidez y nos tendemos a acortar.",
+      "keywords": [
+        "musculatura-tonica",
+        "estiramientos",
+        "foam-roller",
+        "efecto-rebote",
+        "relajacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuánto deben durar los estiramientos para relajar la musculatura tónica y afectar al sistema nervioso?",
+        "¿Por qué un masaje demasiado profundo puede ser contraproducente en un músculo acortado?",
+        "¿Qué herramientas se recomiendan para reducir el tono muscular post-lesión?"
+      ],
+      "related_terms": [
+        "tono",
+        "acortamiento",
+        "viscosidad",
+        "rebote",
+        "dolor"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del peligro de activar el cuádriceps de forma agresiva mediante brazos de palanca largos.",
+      "context_after": "Se hace énfasis en las articulaciones infraadyacentes, centrando la atención en el papel vital del pie."
+    },
+    {
+      "id": "WEBVTT-3-004",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:09:01",
+      "end_timestamp": "00:12:52",
+      "start_seconds": 541,
+      "end_seconds": 772,
+      "duration_seconds": 231,
+      "timestamp_url": "?t=541",
+      "title": "El pie como núcleo estabilizador y su impacto en la rodilla",
+      "summary": "El pie es el 'rey de la estabilidad' y tiene un impacto biomecánico directo en la rodilla. Funciona mecánicamente como un trípode (talón, primer dedo, quinto dedo). Si el músculo flexor largo del primer dedo no sostiene la bóveda plantar, el pie colapsa (pronación). Esta pronación genera una rotación tibial interna que arrastra la rodilla hacia un valgo dinámico, principal mecanismo de rotura del LCA.",
+      "literal_quote": "Si hay una caída de la bóveda plantar... se genera un movimiento que se llama pronación, y esa pronación genera una rotación tibial interna, que a su vez va a arrastrar la rodilla hacia la parte más medial. ¿Cómo se rompe la rodilla? Con valgo rodilla.",
+      "full_transcript": "Ya que hemos hablado de estabilidad, hay una estructura que para mí es el rey de los reyes de la estabilidad, que es el pie. El pie suele estar muy olvidado cuando hablamos de prevención, rehabilitación y más. [...] ¿Por qué? Porque es un factor postural y propioceptivo. Es importante tener estos cuatro conceptos... El primero es el trípode. [...] En el pie, a mí me gusta siempre destacar tres puntos. Uno es el calcáneo, el talón. Otro es el primer dedo del pie y otro es el quinto dedo del pie. Eso forma el trípode. Lo enlazo un poco con el segundo punto, en el primer dedo del pie hay un músculo que pasa por debajo de la vuelta del pie, que es el flexor largo del primer dedo. Ese es el músculo de los más importantes, junto igual al glúteo, al que tenemos que prestar atención a la hora de prevenir lesiones en general, no solo de la rodilla... ¿Por qué es importante? Porque es el que mantiene la bóveda plantar alta. Si hay una caída de la bóveda plantar o no hay una buena activación de ese primer dedo del pie, lo que va a ocurrir es lo que os he comentado antes, que la bóveda plantar se cae hacia adentro. Si se cae hacia adentro la bóveda plantar, se genera un movimiento que se llama pronación, y esa pronación genera una rotación tibial interna, que a su vez va a arrastrar la rodilla hacia la parte más medial. ¿Cómo se rompe la rodilla? Con valgo rodilla, que es cuando la rodilla se va hacia adentro.",
+      "keywords": [
+        "pie",
+        "boveda-plantar",
+        "tripode-plantar",
+        "pronacion",
+        "valgo-de-rodilla",
+        "flexor-largo-primer-dedo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Biomecánica"
+      ],
+      "search_questions": [
+        "¿Qué función tiene el músculo flexor largo del primer dedo en la prevención de lesiones?",
+        "¿Cómo influye la pronación del pie en la rotura del ligamento cruzado anterior?",
+        "¿Cuáles son los tres puntos de apoyo que forman el trípode plantar?"
+      ],
+      "related_terms": [
+        "pie",
+        "trípode",
+        "bóveda",
+        "pronación",
+        "valgo",
+        "rotación tibial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Gestión del tono en la musculatura acortada e hipermovilidad compensatoria en articulaciones vecinas.",
+      "context_after": "Se cambia de tema para abordar la salud mental y la gestión emocional del deportista tras la operación."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:12:52",
+      "end_timestamp": "00:14:35",
+      "start_seconds": 772,
+      "end_seconds": 875,
+      "duration_seconds": 103,
+      "timestamp_url": "?t=772",
+      "title": "Gestión mental y psicológica post-quirúrgica",
+      "summary": "El aspecto mental y psicológico es fundamental, especialmente en deportistas de alto nivel que sufren episodios severos de ansiedad tras pasar por quirófano. Incorporar psicólogos al equipo, aplicar técnicas de imaginación motora de gestos deportivos, o recurrir al yoga y la meditación ayuda a disminuir el estrés, lo que repercute directamente en la relajación muscular y facilita el aumento del rango articular.",
+      "literal_quote": "El comportamiento del trabajo mental en general es superinteresante en estos casos de recuperación postquirúrgica con pacientes deportistas... les viene el bajón, les viene toda la ansiedad, esas preocupaciones.",
+      "full_transcript": "No me quiero olvidar del papel y de la importancia de la cabeza del jugador, de la mente, que en estos casos es superimportante. Así que el comportamiento del trabajo mental en general es superinteresante en estos casos de recuperación postquirúrgica con pacientes deportistas, además de alto nivel, que, como ya hemos dicho, les viene el bajón, les viene toda la ansiedad, esas preocupaciones. Entonces es superimportante darle esa importancia, que podemos hacerlo también desde el día uno después de la cirugía. Aquí os he dejado cuatro estrategias... Uno de ellos es la imaginación motora. Podemos imaginarnos hacer el deporte, hacer el gesto, movernos, eso nos va a ayudar mucho. Luego, el componente psicológico, como ya os he explicado antes, el trabajo multidisciplinar, incorporar, por qué no, a una psicóloga dentro del equipo. Y, por otro lado, hacer yoga, meditación, cualquier estrategia que nos haga calmarnos y bajar el nivel de estrés y de ansiedad. ¿Todo esto para qué nos va a ayudar? Para lo que hemos comentado: a aumentar la confianza, va incluso a disminuir la rigidez, el hecho de dejarse un poco más tratar. Por lo tanto, si disminuye la rigidez, vamos a aumentar el rango articular más fácil y, sobre todo, lo vamos a estar preparando para dar la vuelta otra vez al deporte.",
+      "keywords": [
+        "trabajo-mental",
+        "ansiedad",
+        "imaginacion-motora",
+        "psicologia-deportiva",
+        "rango-articular"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué estrategias psicológicas se pueden usar en la recuperación de un deportista operado?",
+        "¿Cómo afecta el estrés y la ansiedad a la rigidez física de la articulación?",
+        "¿Qué es la imaginación motora y para qué sirve en rehabilitación?"
+      ],
+      "related_terms": [
+        "psicología",
+        "ansiedad",
+        "imaginación",
+        "confianza",
+        "rigidez"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación puramente biomecánica sobre cómo las estructuras del pie afectan al colapso de la rodilla.",
+      "context_after": "Se vuelve al aspecto muscular, destacando un músculo específico para proteger la cirugía de ligamento cruzado."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:14:36",
+      "end_timestamp": "00:16:15",
+      "start_seconds": 876,
+      "end_seconds": 975,
+      "duration_seconds": 99,
+      "timestamp_url": "?t=876",
+      "title": "El isquiotibial como protector mecánico del ligamento cruzado",
+      "summary": "El isquiotibial es un músculo peculiar: flexiona la rodilla, extiende la cadera, pero su función más vital es la propioceptiva y de protección sobre el Ligamento Cruzado Anterior. Previene que la tibia se desplace excesivamente hacia adelante, evitando así que se ponga en riesgo de tensión la nueva plastia, convirtiéndolo en el músculo más importante a priorizar sobre el cuádriceps.",
+      "literal_quote": "Si me das a elegir entre que solo tengo que trabajar un músculo entre el cuadriceps y el isquio, sin duda te elijo el isquio. ¿Por qué? Porque es el que me va a limitar o me va a proteger de que la tibia se desplace hacia adelante poniendo en tensión la plastia.",
+      "full_transcript": "Uno de los tejidos que vamos a tener que prestar más atención en este tipo de prevención y de rehabilitación del cruzado, que es el isquiotibial. Como ya os he explicado antes, también es un músculo peculiar, porque por un lado moviliza la pierna, moviliza la rodilla, en este caso es flexor de rodilla, también es extensor de cadera, que no se os olvide. Pero, por otro lado, también tiene esa función protectora del ligamento cruzado anterior, la función propioceptiva, como ya os he introducido antes. Si me das a elegir entre que solo tengo que trabajar un músculo entre el cuadriceps y el isquio, sin duda te elijo el isquio. ¿Por qué? Porque es el que me va a limitar o me va a proteger de que la tibia se desplace hacia adelante poniendo en tensión la plastia o el ligamento cruzado anterior. Los dos hay que trabajarlos, uno porque tiende a la atrofia, hemos dicho que es un músculo fásico, el cuadriceps, y otro que tiende un poco más hacia la rigidez, que es el isquiotibial. No hay que olvidarse de este supermúsculo muy importante... porque el trabajo de isquio va a proteger al cruzado, y eso se puede hacer desde el día uno, porque generamos un cierto movimiento de traslación posterior de la tibia y es totalmente seguro.",
+      "keywords": [
+        "isquiotibial",
+        "ligamento-cruzado-anterior",
+        "traslacion-anterior-tibia",
+        "propiocepcion",
+        "proteccion-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el isquiotibial protege mecánicamente al ligamento cruzado anterior?",
+        "Entre el cuádriceps y el isquiotibial, ¿cuál es prioritario trabajar para proteger la plastia y por qué?",
+        "¿Qué función propioceptiva cumple la musculatura posterior en la rodilla?"
+      ],
+      "related_terms": [
+        "isquiotibial",
+        "tibia",
+        "protección",
+        "plastia",
+        "traslación posterior"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estrategias de control del estrés y visualización para disminuir la rigidez articular post-cirugía.",
+      "context_after": "Se proporcionan las recomendaciones finales para que el deportista trabaje por su cuenta en el hogar."
+    },
+    {
+      "id": "WEBVTT-3-007",
+      "video_title": "Del quirófano al movimiento (Parte 3)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:16:15",
+      "end_timestamp": "00:19:46",
+      "start_seconds": 975,
+      "end_seconds": 1186,
+      "duration_seconds": 211,
+      "timestamp_url": "?t=975",
+      "title": "Pautas domiciliarias y prioridad de la extensión de rodilla",
+      "summary": "Dado que el terapeuta está pocas horas con el paciente, se deben pautar 'deberes' en casa: isométricos, frío, nutrición alta en proteínas, control del sueño y manejo de la cicatriz. Una recomendación postural vital es no colocar nunca almohadas debajo de la rodilla flexionada al descansar, ya que la mayor prioridad en toda la rehabilitación inicial es conseguir que la rodilla permanezca en extensión completa (cero grados).",
+      "literal_quote": "Si hay que priorizar algo en la rehabilitación es que la rodilla tiene que estar extendida y tiene que estar en cero grados cuando el paciente está en esa posición sentado o tumbado.",
+      "full_transcript": "También podemos mandar el trabajo para casa, que creo que es superinteresante este aspecto, porque la mayor parte del tiempo lo pasan solos. Si tiene 24 horas al día y nosotros estamos con él una, si acaso, hay que también mandarle deberes. [...] son realizar contracciones isométricas, como hemos dicho, del cuadriceps y movimiento, apretando bien fuerte hacia abajo, hacia una almohada o hacia una toalla, colocar fríos si sienten que les duele mucho, trabajar el rango articular, controlarlo. [...] y darle una pauta de alimentación, posiblemente el aumento de las proteínas, como se va a mover menos, que disminuye un poco la ingesta de hidratos de carbono. Estrategias del sueño, superimportante, el sueño es reparador, es donde más va a recuperar. [...] Evitar ciertas posturas, por ejemplo, colocar almohadas debajo de la rodilla, que nos van a entorpecer la extensión de la rodilla y nos va a dificultar luego la marcha, porque la extensión es lo más importante. Si hay que priorizar algo en la rehabilitación es que la rodilla tiene que estar extendida y tiene que estar en cero grados cuando el paciente está en esa posición sentado o tumbado. [...] Luego, el tratamiento de la cicatriz, la curación... cómo manipular la cicatriz con jabón específico para eso. [...] Sobre todo, quiero que quede claro que es momento de eliminar el miedo al movimiento tras la cirugía, el reposo no es una opción, especialmente en deportistas de alto rendimiento.",
+      "keywords": [
+        "deberes-domiciliarios",
+        "extension-completa",
+        "cero-grados",
+        "alimentacion-postquirurgica",
+        "reposo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las pautas domiciliarias recomendadas para un paciente recién operado de rodilla?",
+        "¿Por qué es un error colocar una almohada debajo de la rodilla operada al descansar?",
+        "¿Cuál es el objetivo de rango articular más importante en las primeras fases de rehabilitación del LCA?"
+      ],
+      "related_terms": [
+        "deberes",
+        "extensión",
+        "cero grados",
+        "sueño",
+        "cicatriz",
+        "reposo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de trabajar el isquiotibial desde el primer día.",
+      "context_after": "El ponente despide el webinar invitando a perder el miedo al movimiento."
+    }
+  ]
+}

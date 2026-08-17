@@ -1,0 +1,242 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "Del quirófano al movimiento (Parte 2)",
+    "speaker": "Víctor Jiménez Arsay",
+    "total_duration": "00:16:27",
+    "total_duration_seconds": 987,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "Del quirófano al movimiento (Parte 2)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:02:51",
+      "start_seconds": 4,
+      "end_seconds": 171,
+      "duration_seconds": 167,
+      "timestamp_url": "?t=4",
+      "title": "Comportamiento de las fibras musculares ante la lesión",
+      "summary": "Los músculos responden de manera diferente a las lesiones según su composición. Las fibras Tipo I (tónicas, lentas, aeróbicas) se encargan de la postura y tienden al acortamiento y a la rigidez, generando puntos gatillo. Las fibras Tipo II (fásicas, rápidas, anaeróbicas) generan movimiento y tienden hacia la hipotonía o flacidez al sufrir una lesión.",
+      "literal_quote": "Las fibras tipo I son fibras rojas, normalmente se les denomina tónicas. ¿Por qué? Porque la tendencia, cuando se trabaja o hay una lesión, es hacia el acortamiento.",
+      "full_transcript": "Aquí os dejo una tabla a modo de resumen, para que entendáis que no todos los músculos responden igual cuando hay lesión o incluso cuando no se trabaja de forma correcta. Hemos dicho que hay fibras tipo I, fibras tipo II y fibras tipo IIa. Las fibras tipo I son fibras rojas, normalmente se les denomina tónicas. ¿Por qué? Porque la tendencia, cuando se trabaja o hay una lesión, es hacia el acortamiento. Suelen ser fibras cortitas, porque son encargadas de la postura, ya lo veremos más adelante. La postura y de dar estabilidad. Son fibras que están muy cerquita de la articulación, son de contracción lenta y poco fatigables, porque si se encargan de la postura, tienen que estar diseñadas para que no se fatiguen rápido [...] Por el contrario, tenemos las fibras tipo II, que son blancas, fásicas, encargadas de dar movimiento y potencia. Suelen ser fibras con un tamaño más largo, con brazos de palanca más largos para generar más movimiento. [...] los tónicos, que seguramente os suenen, el trapecio, los isquiotibiales, los suboccipitales, son músculos que tienden más a generar puntos gatillo, a romperse, porque tienden hacia la rigidez, mientras, por el contrario, los músculos que están situados hacia la derecha son los que tienden más hacia la hipotonía y a quedarse flácidos cuando veis una lesión.",
+      "keywords": [
+        "fibras-tipo-1",
+        "fibras-tipo-2",
+        "acortamiento",
+        "hipotonia",
+        "musculatura-tonica"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo responden las fibras musculares Tipo I y Tipo II ante una lesión?",
+        "¿Qué músculos tienden al acortamiento tras una lesión?",
+        "¿Cuál es la función principal de las fibras musculares fásicas?"
+      ],
+      "related_terms": [
+        "fibras tipo I",
+        "fibras tipo II",
+        "tónicas",
+        "fásicas",
+        "acortamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clasificación anatómica general de las fibras musculares.",
+      "context_after": "Se aplica este conocimiento teórico para definir el tratamiento práctico (elongar o fortalecer) en articulaciones lesionadas."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "Del quirófano al movimiento (Parte 2)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:02:51",
+      "end_timestamp": "00:05:13",
+      "start_seconds": 171,
+      "end_seconds": 313,
+      "duration_seconds": 142,
+      "timestamp_url": "?t=171",
+      "title": "Tratamiento específico: Elongar vs Fortalecer",
+      "summary": "Ante el dolor o lesión articular, es crucial identificar los músculos implicados y su tipo de fibra predominante. Los músculos tónicos (Tipo I) deben tratarse bajando el tono o elongándolos. Por el contrario, los músculos fásicos (Tipo II), dada su tendencia a la flacidez, deben ser el foco de activación y fortalecimiento.",
+      "literal_quote": "En unos tendremos que elongarlos y en otros activarlos o fortalecerlos. Parece algo simple, pero a veces lo simple es lo más efectivo la mayoría de las veces.",
+      "full_transcript": "Es importante tener esto muy claro, porque si tenemos presente las dos tablas, vamos a responder a la siguiente pregunta, y es: ¿qué ocurre realmente y qué debemos hacer cuando hay una lesión o aparece dolor en alguna articulación? Vamos a ver que dentro de una articulación va a haber músculos con tendencias hacia el acortamiento y otros con tendencia a la flacidez. Podemos hacer una clasificación, primero identificando la articulación de qué músculos tienen más predominancia de fibras tipo I, que son las fibras lentas, esos músculos van a tender hacia el acortamiento. Por lo tanto, el tratamiento de esos músculos tiene que ser, evidentemente, bajar el tono o elongar. Por el contrario, también vamos a encontrarnos músculos con predominancia de fibras tipo II. ¿Qué va a ocurrir en esos, a diferencia de los otros? Que como tienen más tendencia a la flacidez y hacia la hipotonía, van a ser los músculos que nos centremos nosotros en fortalecer y en activar. Esto parece simple, pero es superimportante. Identificamos la articulación y a partir de ahí vemos qué músculos se insertan en esa articulación [...] En unos tendremos que elongarlos y en otros activarlos o fortalecerlos. Parece algo simple, pero a veces lo simple es lo más efectivo la mayoría de las veces.",
+      "keywords": [
+        "elongacion",
+        "fortalecimiento",
+        "activacion-muscular",
+        "tratamiento-articular",
+        "hipotonia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué tratamiento requiere un músculo lesionado predominantemente tónico?",
+        "¿Cómo se decide qué músculos elongar y cuáles fortalecer en una articulación?",
+        "¿Qué hacer cuando aparece dolor en una articulación según el tipo de fibra?"
+      ],
+      "related_terms": [
+        "elongar",
+        "fortalecer",
+        "activar",
+        "tratamiento",
+        "tono"
+      ],
+      "relevance_score": 5,
+      "context_before": "Diferenciación entre el comportamiento de las fibras musculares ante una lesión.",
+      "context_after": "El ponente introduce una serie de preguntas clave para afinar aún más el tratamiento sin miedo ni inseguridades."
+    },
+    {
+      "id": "WEBVTT-2-003",
+      "video_title": "Del quirófano al movimiento (Parte 2)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:05:13",
+      "end_timestamp": "00:08:16",
+      "start_seconds": 313,
+      "end_seconds": 496,
+      "duration_seconds": 183,
+      "timestamp_url": "?t=313",
+      "title": "Preguntas clave para contextualizar la lesión y perder el miedo",
+      "summary": "Para rehabilitar con seguridad se deben considerar 4 factores: 1) Contexto deportivo y tipo de lesión (e.g. demandas de planos frontales en tenistas vs sagitales en corredores). 2) Tiempos biológicos y mecanismos de estrés del tejido dañado (blando vs duro). 3) Evaluación de articulaciones adyacentes (el 90-95% de los problemas provienen de articulaciones vecinas). 4) Implicación de musculatura tónica vs fásica.",
+      "literal_quote": "También estas preguntas que nos podemos hacer son para perder ese miedo, esas inseguridades a mover, activar, a trabajar, sabiendo que estamos haciendo bien las cosas.",
+      "full_transcript": "También estas preguntas que nos podemos hacer son para perder ese miedo, esas inseguridades a mover, activar, a trabajar, sabiendo que estamos haciendo bien las cosas, baja nuestro miedo y nuestra ansiedad. Así que la primera pregunta es acerca de la lesión y el tipo de deporte. Obviamente, de nada sirve el no contextualizar la lesión. Tenemos que identificar si ha sido mecánico o condicional, qué deporte practica. No es lo mismo, por ejemplo, rehabilitar o entrenar a un tenista que a un corredor [...] Por otro lado, tenemos que hacernos la otra pregunta, que es acerca del tejido que se ha dañado en esa lesión. [...] sabemos que un tejido blando son seis semanas, un tejido duro son dos meses y medio [...] Luego, después de eso, cómo estresamos o ponemos en tensión al tejido dañado. Por ejemplo, se me ocurre el supraespinoso. [...] La siguiente pregunta podríamos hacer es cuáles son las articulaciones que están por encima o por debajo, las supra o las infraadyacentes. ¿Por qué? Porque si solamente nos centramos en la articulación dañada, nos vamos a perder un montón de cosas. Ya os aseguro yo, que ya iremos viendo, que el 90, 95 % de los problemas no vienen de la propia articulación. Normalmente, vienen por problemas de las articulaciones de arriba o las de abajo [...] Y luego, lo que os comentaba antes, qué musculatura está implicada, la musculatura tónica y la musculatura fásica.",
+      "keywords": [
+        "contextualizacion",
+        "evaluacion-lesional",
+        "articulaciones-adyacentes",
+        "mecanismo-lesional",
+        "tejido-dañado"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las preguntas clave para evaluar una lesión sin miedo?",
+        "¿De dónde provienen la mayoría de los problemas articulares según el ponente?",
+        "¿Por qué es importante el deporte que practica el paciente para su rehabilitación?"
+      ],
+      "related_terms": [
+        "lesión",
+        "tejido",
+        "articulaciones supraadyacentes",
+        "articulaciones infraadyacentes",
+        "contexto"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre elongar musculatura tónica y fortalecer musculatura fásica.",
+      "context_after": "Se presenta un caso práctico complejo: la reconstrucción del Ligamento Cruzado Anterior."
+    },
+    {
+      "id": "WEBVTT-2-004",
+      "video_title": "Del quirófano al movimiento (Parte 2)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:08:16",
+      "end_timestamp": "00:14:48",
+      "start_seconds": 496,
+      "end_seconds": 888,
+      "duration_seconds": 392,
+      "timestamp_url": "?t=496",
+      "title": "Caso Práctico: Propiocepción y Ligamentización en LCA",
+      "summary": "El Ligamento Cruzado Anterior (LCA) no solo estabiliza mecánicamente, sino que posee mecanorreceptores que brindan retroalimentación propioceptiva para que músculos (como los isquiotibiales) frenen movimientos peligrosos. Al romperse el LCA y reemplazarse con una plastia, se pierde esta información. El proceso para que el cuerpo transforme la plastia en ligamento y regenere estos receptores (ligamentización) tarda aproximadamente 1 año, marcando los verdaderos tiempos seguros para el Return to Play.",
+      "literal_quote": "Para que tengáis de referencia, el proceso de ligamentización, ese proceso de que la plastia se transforma en ligamento con sus nuevos mecanorreceptores, dura aproximadamente un año. Por eso, por muy bien que esté el paciente, os aseguro que hasta el año no es seguro volver.",
+      "full_transcript": "Hoy me voy a centrar concretamente en una de las lesiones más comunes y difíciles de gestionar y de manejar, que es la reconstrucción del ligamento cruzado anterior. [...] Tiene una función, por un lado, estabilizadora y propioceptiva. No lo veáis como si fuera un cordón que está colocado entre medias del fémur y la tibia [...] Lo interesante de este ligamento, de todos en general, es que todos los ligamentos poseen mecanorreceptores. Son receptores posturales que tienen que ver con la propiocepción de la rodilla [...] Esos mecanorreceptores informan, cuando se empieza a elongar o a estirar esa estructura, al cerebro [...] para que se active e impida que ese movimiento siga desplazando, porque si no, automáticamente se va a romper. ¿Qué ocurre cuando hay lesión? Que esos mecanorreceptores no están. Por eso sentimos esa inestabilidad [...] Por otro lado, ¿qué tipos de plastia nos podemos encontrar? Las plastias autólogas [...] y, por otro lado, tenemos otras plastias que son de cadáver. [...] ¿Qué ocurre cuando se sustituye? Os lo he avanzado. Los mecanorreceptores no están y hasta más o menos un año no vuelve a producirse el proceso de ligamentización, que es un proceso de transformación de la plastia hacia un ligamento para que tengan las mismas propiedades. [...] Para que tengáis de referencia, el proceso de ligamentización, ese proceso de que la plastia se transforma en ligamento con sus nuevos mecanorreceptores, dura aproximadamente un año. Por eso, por muy bien que esté el paciente, os aseguro que hasta el año no es seguro volver, porque todavía no se ha finalizado ese proceso.",
+      "keywords": [
+        "lca",
+        "ligamentizacion",
+        "mecanorreceptores",
+        "propiocepcion",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué función cumplen los mecanorreceptores en el ligamento cruzado anterior?",
+        "¿Qué es el proceso de ligamentización y cuánto tarda?",
+        "¿Por qué es peligroso volver a jugar antes del año tras una operación de LCA?"
+      ],
+      "related_terms": [
+        "ligamento cruzado anterior",
+        "plastia",
+        "propiocepción",
+        "mecanorreceptores",
+        "ligamentización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Preguntas clave para el abordaje seguro de una lesión.",
+      "context_after": "Se presenta la fase inicial o 'Fase Cero' antes de empezar con los planes de entrenamiento."
+    },
+    {
+      "id": "WEBVTT-2-005",
+      "video_title": "Del quirófano al movimiento (Parte 2)",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:14:48",
+      "end_timestamp": "00:16:27",
+      "start_seconds": 888,
+      "end_seconds": 987,
+      "duration_seconds": 99,
+      "timestamp_url": "?t=888",
+      "title": "Fase Cero: Confianza y comunicación interdisciplinar",
+      "summary": "Antes de comenzar la prescripción de ejercicios en el proceso de rehabilitación, existe una 'Fase Cero' vital que consiste en ganarse la confianza del deportista para reducir su miedo. Explicarle la lesión, el mecanismo y anticipar los tratamientos es fundamental. El éxito de la recuperación depende también de una comunicación fluida entre el equipo médico, físico y el entorno de la persona.",
+      "literal_quote": "Esta fase cero para mí te diría que es la más importante. Tiene como objetivo principal ganarte la confianza del deportista, ya que os aseguro que puedes ser el mejor fisio, el mejor preparador... pero si el paciente tiene miedo y no confía en ti... no va a haber éxito.",
+      "full_transcript": "Antes de empezar ya a prescribir ejercicio y qué hacer, me gustaría añadir una fase cero antes de empezar a hacer, y es la siguiente. Esta fase cero para mí te diría que es la más importante. Tiene como objetivo principal ganarte la confianza del deportista, ya que os aseguro que puedes ser el mejor fisio, el mejor preparador, tener 10.000 cursos de todo tipo, pero si el paciente tiene miedo y no confía en ti, os aseguro que por muy bien que hagáis las planificaciones y lo que tengáis en la cabeza, no vais a poder trabajar y no va a haber éxito en la recuperación del deportista. Por lo que, por un lado, tenemos que ganar esa confianza para transmitirle calma, que eso al final va de la mano. Por otro lado, tenemos que explicarle muy bien la lesión, el mecanismo lesional, en qué ha consistido, cómo se ha roto y, sobre todo, las fases de tratamiento, qué va a ocurrir, para que él se anticipe a lo que vamos a empezar a incluir y no tenga ese miedo de decir qué va a pasar. Y sobre todo la comunicación interdisciplinar, que haya una comunicación fluida entre diferentes profesionales que le lleven, ya sea médico, por supuesto, preparador físico, fisioterapeuta, enfermeras, incluso la familia es muy importante, pareja, familia, todo eso superimportante.",
+      "keywords": [
+        "fase-cero",
+        "confianza",
+        "comunicacion-interdisciplinar",
+        "miedo-lesional",
+        "gestion-paciente"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es la Fase Cero en el tratamiento de una lesión?",
+        "¿Por qué es vital ganarse la confianza del paciente antes de aplicar tratamientos?",
+        "¿Quiénes deben estar involucrados en la comunicación interdisciplinar durante una lesión?"
+      ],
+      "related_terms": [
+        "confianza",
+        "comunicación",
+        "fase cero",
+        "miedo",
+        "anticipación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del proceso de ligamentización y Return to Play del LCA.",
+      "context_after": "El vídeo procede a iniciar la prescripción detallada del trabajo (fin del fragmento analizado)."
+    }
+  ]
+}

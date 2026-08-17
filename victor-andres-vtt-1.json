@@ -1,0 +1,244 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "Del quirófano al movimiento",
+    "speaker": "Víctor Jiménez Arsay",
+    "total_duration": "00:15:55",
+    "total_duration_seconds": 955,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-1-001",
+      "video_title": "Del quirófano al movimiento",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:04:21",
+      "start_seconds": 3,
+      "end_seconds": 261,
+      "duration_seconds": 258,
+      "timestamp_url": "?t=3",
+      "title": "Importancia de la intervención precoz tras cirugía",
+      "summary": "La recuperación debe comenzar días u horas tras la cirugía, no semanas después [1-3]. Existe un falso mito de que el movimiento es peligroso; sin embargo, el verdadero riesgo reside en la inactividad y los periodos prolongados de reposo [4, 5]. El ejercicio físico debe aplicarse con criterio clínico desde el primer día [6].",
+      "literal_quote": "La recuperación no debería empezar semanas después de una cirugía, debería empezar días o incluso horas después de que el paciente pase por quirófano.",
+      "full_transcript": "Hola a todos, soy Víctor Jiménez Arsay y os doy la bienvenida a este webinar, que tiene como título: \"Del quirófano al movimiento\", donde hablaremos principalmente de la importancia del ejercicio físico precoz tras una cirugía. Sobre todo, en esta sesión, que tendrá una duración aproximada de unos 45, 50 minutos, quiero compartir una idea de la que poca gente habla y que, en mi opinión, es muy importante en un proceso de recuperación. La recuperación no debería empezar semanas después de una cirugía, debería empezar días o incluso horas después de que el paciente pase por quirófano. Que no se me malinterprete, no quiero echarle la bronca ni la culpa a los médicos o a los cirujanos, que quede claro. Pero sí es cierto que la realidad es que, a mi modo de ver, se debería empezar mucho antes de lo que se suele prescribir, porque el ejercicio físico no tiene que verse como algo malo o peligroso. (...) ¿Dónde creéis vosotros que está el verdadero riesgo? ¿Está, por un lado, en el movimiento, en el ejercicio físico? ¿O realmente el riesgo está en la inactividad, en esos períodos de reposo prolongados? Muchas veces damos por hecho que moverse es arriesgado, cuando en realidad es todo lo contrario.",
+      "keywords": [
+        "intervencion-precoz",
+        "recuperacion",
+        "ejercicio-fisico",
+        "inactividad",
+        "kinesiofobia"
+      ],
+      "entities": [
+        "Víctor Jiménez Arsay"
+      ],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Víctor Jiménez Arsay sobre la intervención precoz?",
+        "¿Cuándo debe comenzar la recuperación tras una cirugía?",
+        "¿Dónde se encuentra el verdadero riesgo postquirúrgico?"
+      ],
+      "related_terms": [
+        "intervención",
+        "precoz",
+        "reposo",
+        "recuperación",
+        "inactividad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del webinar y presentación del ponente.",
+      "context_after": "Se explican las causas comunes por las cuales aún se sigue prescribiendo reposo prolongado y las consecuencias negativas de no aplicar ejercicio temprano."
+    },
+    {
+      "id": "WEBVTT-1-002",
+      "video_title": "Del quirófano al movimiento",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:04:50",
+      "end_timestamp": "00:07:01",
+      "start_seconds": 290,
+      "end_seconds": 421,
+      "duration_seconds": 131,
+      "timestamp_url": "?t=290",
+      "title": "Consecuencias del reposo prolongado",
+      "summary": "A pesar de la evidencia, se sigue prescribiendo reposo prolongado por miedo a romper estructuras o eludir responsabilidades [7-9]. Esto genera consecuencias negativas como atrofia, rigidez articular postquirúrgica, pérdida de control motor (amnesia muscular) y kinesiofobia [10, 11]. Muchas veces se prescribe reposo para proteger, pero acaba generando el efecto contrario [12].",
+      "literal_quote": "Muchas veces se prescribe reposo para proteger, pero realmente acaba generando lo contrario, justo lo contrario.",
+      "full_transcript": "¿Por qué aún así se sigue mandando tanto reposo? Aquí viene la siguiente diapositiva, porque todavía hoy seguimos viendo muchísimos casos en los que el mensaje que se da tras una cirugía es: \"No, por favor, no te muevas, ten mucho cuidado, a ver si te vas a romper algo\", o incluso: \"No, vete, vas a empezar la rehabilitación o el proceso de recuperación en 15 días, tres semanas\". Quince días, tres semanas, para un deportista es como condenarlo al desastre total. (...) Todo esto, en lugar de ayudar al deportista, el hecho de no mandar ejercicio físico pronto, lo que le estamos generando es mayor atrofia, porque con el paso de los días el músculo pierde tono, pierde activación. La probabilidad de que aparezcan rigideces postquirúrgicas aumenta muchísimo. También hay una pérdida de control motor, esa conexión mente-músculo de la que muchas veces la gente habla. (...) Y luego, obviamente, también aparece la kinescofobia, ese miedo al movimiento. Cuanto más tardemos, más miedo vamos a tener a mover esa articulación.",
+      "keywords": [
+        "reposo-prolongado",
+        "atrofia",
+        "control-motor",
+        "kinesiofobia",
+        "rigidez"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las consecuencias de prescribir reposo prolongado?",
+        "¿Por qué los médicos siguen prescribiendo reposo excesivo?",
+        "¿Qué es la kinesiofobia y cuándo aparece?"
+      ],
+      "related_terms": [
+        "reposo",
+        "atrofia",
+        "rigidez",
+        "kinesiofobia"
+      ],
+      "relevance_score": 5,
+      "context_before": "La recuperación debe comenzar días u horas tras la cirugía, no semanas después. Existe un falso mito de que el movimiento es peligroso.",
+      "context_after": "El ponente aborda el miedo de los propios profesionales a dañar los tejidos recién operados y explica los tiempos biológicos reales de cicatrización."
+    },
+    {
+      "id": "WEBVTT-1-003",
+      "video_title": "Del quirófano al movimiento",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:07:01",
+      "end_timestamp": "00:10:40",
+      "start_seconds": 421,
+      "end_seconds": 640,
+      "duration_seconds": 219,
+      "timestamp_url": "?t=421",
+      "title": "Tiempos de cicatrización biológica por tipo de tejido",
+      "summary": "Es extremadamente difícil romper una estructura operada, lo cual se evidencia al observar directamente cirugías [12-14]. Los tejidos blandos (músculo, ligamento, tendón) tardan aproximadamente 6 semanas en cicatrizar, mientras que los duros (hueso) tardan unos 2.5 meses [15]. El ligamento cruzado anterior (LCA) se engloba como tejido duro porque requiere que el hueso abrace la plastia en los túneles femorales y tibiales [15, 16]. Las prótesis no requieren estos tiempos de espera porque van directamente ancladas [17, 18].",
+      "literal_quote": "Un tejido blando, músculo, ligamento o tendón, aproximadamente tarda seis semanas en cicatrizar. En cambio, un tejido duro, el hueso, tarda aproximadamente dos meses, dos meses y medio en consolidar.",
+      "full_transcript": "Esto nos lleva a plantearnos la siguiente pregunta: ¿cuánto de fácil o difícil es dañar una estructura operada? Es normal. Yo soy el primero que reconoce que esa pregunta me la hice cuando empecé a trabajar con deportistas lesionados... Os puedo decir que se me quitó ese miedo rápido de la cabeza yendo a quirófano. (...) Se me quitó por completo el miedo y dije: \"Vale, para que yo rompa algo, la probabilidad es mínima o incluso nula\". (...) Os he hecho dos grandes grupos, a grosso modo, no lo toméis a rajatabla. Un tejido blando, músculo, ligamento o tendón, aproximadamente tarda seis semanas en cicatrizar. En cambio, un tejido duro, el hueso, tarda aproximadamente dos meses, dos meses y medio en consolidar. Os he puesto aquí también las excepciones. Por ejemplo, el ligamento cruzado anterior es un tejido blando, pero yo lo englobo dentro del grupo de tejido duro, ya que como en la operación tocamos tanto tibia como fémur, hacemos los túneles tibiales y femorales, tenemos que esperar esos dos meses y medio que tarda el hueso en abrazar la plastia... Y el tendón de Aquiles, al tratarse del tendón más potente del cuerpo... tenemos que guardar un poquito más de tiempo. Luego también os he puesto las prótesis de cadera y de rodilla. No hay que esperar tiempos como tal... Las prótesis casi siempre van ancladas, bien sujetas al hueso y a la plastia.",
+      "keywords": [
+        "tiempos-cicatrizacion",
+        "tejido-blando",
+        "tejido-duro",
+        "ligamento-cruzado-anterior",
+        "protesis"
+      ],
+      "entities": [
+        "Doctor Prieto",
+        "Doctor Clares"
+      ],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuánto tiempo tarda en cicatrizar un tejido blando versus uno duro?",
+        "¿Por qué el ligamento cruzado anterior se trata como un tejido duro?",
+        "¿Es fácil dañar una estructura recién operada?"
+      ],
+      "related_terms": [
+        "tejido",
+        "cicatrización",
+        "consolidación",
+        "LCA",
+        "prótesis"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha discutido el miedo al movimiento y las consecuencias negativas del reposo prolongado.",
+      "context_after": "Con los tiempos de cicatrización claros, se explica cómo iniciar progresivamente el trabajo de fuerza y los beneficios que esto aporta en la fase temprana."
+    },
+    {
+      "id": "WEBVTT-1-004",
+      "video_title": "Del quirófano al movimiento",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:10:40",
+      "end_timestamp": "00:13:46",
+      "start_seconds": 640,
+      "end_seconds": 826,
+      "duration_seconds": 186,
+      "timestamp_url": "?t=640",
+      "title": "Beneficios de la activación muscular temprana",
+      "summary": "El trabajo de fuerza inicial no implica cargas pesadas, sino una leve activación muscular para mantener la conexión neuromuscular y evitar amnesias musculares (como rotaciones compensatorias en la marcha) [19, 20]. Intervenir pronto disminuye la pérdida de fuerza, aumenta la vascularización (facilitando la llegada de células reparadoras), disminuye el dolor y la rigidez articular, previniendo el riesgo de kinesiofobia [21-23].",
+      "literal_quote": "Trabajo de fuerza lo veo como empezar a dar un estímulo al tejido y al cuerpo de forma progresiva y siempre adaptado al momento de la recuperación.",
+      "full_transcript": "Cuando hablamos del trabajo de fuerza, se puede empezar desde el día uno, pero siempre teniendo en cuenta estos tiempos de cicatrización o de consolidación del tejido. (...) Trabajo de fuerza lo veo como empezar a dar un estímulo al tejido y al cuerpo de forma progresiva y siempre adaptado al momento de la recuperación. Es decir, para no perder la conexión entre músculo, por ejemplo, en esas fases tempranas, es una leve activación muscular sin estresar la estructura. Y, por ejemplo, en el cruzado es evidente. (...) si no hacemos ese periodo de adaptación a la carga... aparecen esas amnesias musculares que hacen que pierdas la conexión entre músculo y el cliente y empiezas a adoptar posturas, por ejemplo, en la marcha, llevando una rotación interna de cadera y no utiliza para nada el cuádriceps. (...) Aquí es donde quiero hablaros de los beneficios que tiene el empezar pronto... Por un lado, vamos a disminuir esa fuerza muscular. Por otro lado, vamos a aumentar la vascularización y la circulación en esa estructura y, si aumentamos la vascularización del tejido, van a llegar más células para reparar la estructura. Vamos a disminuir el dolor y, por tanto, la rigidez... Vamos a aumentar la activación neuromuscular... Vamos a disminuir el riesgo y la kinesiofobia del paciente.",
+      "keywords": [
+        "activacion-muscular",
+        "trabajo-fuerza",
+        "vascularizacion",
+        "amnesia-muscular",
+        "conexion-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios de hacer ejercicio en la fase temprana postquirúrgica?",
+        "¿En qué consiste el trabajo de fuerza los primeros días tras la cirugía?",
+        "¿Qué ocurre si no hay adaptación a la carga tras una operación de cruzado?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "activación",
+        "vascularización",
+        "amnesia",
+        "kinesiofobia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Clasificación de los tiempos biológicos de cicatrización según el tipo de tejido.",
+      "context_after": "Tras exponer los beneficios clínicos del ejercicio precoz, se introduce un repaso anatómico sobre la musculatura y las fibras."
+    },
+    {
+      "id": "WEBVTT-1-005",
+      "video_title": "Del quirófano al movimiento",
+      "speaker": "Víctor Jiménez Arsay",
+      "start_timestamp": "00:13:46",
+      "end_timestamp": "00:15:55",
+      "start_seconds": 826,
+      "end_seconds": 955,
+      "duration_seconds": 129,
+      "timestamp_url": "?t=826",
+      "title": "Composición y tipos de fibras musculares",
+      "summary": "El aparato locomotor está compuesto por huesos, músculos y articulaciones [24, 25]. No todos los músculos tienen la misma composición de fibras, aunque todos poseen una mezcla [25, 26]. Se clasifican principalmente en fibras tipo 1 (lentas, tónicas, encargadas de la postura), fibras tipo 2 (rápidas, encargadas de la movilidad) y tipo 2a (mixtas, con capacidad de adaptación morfológica según el estímulo recibido) [27, 28].",
+      "literal_quote": "Por un lado, tenemos las fibras tipo uno, que son las fibras lentas, que son fibras tónicas, encargadas de la postura. Por otro lado, tenemos las fibras tipo dos, que son básicas, son fibras rápidas, encargadas de dar más movilidad.",
+      "full_transcript": "Antes de seguir, quiero hacer un breve repaso anatómico y fisiológico para refrescar algunos conceptos que igual tenemos olvidados... ¿De qué está formado el aparato locomotor? Aquí hay tres grandes grupos. Por un lado están los huesos, por otro lado están los músculos y por otro lado las articulaciones. Hoy únicamente me voy a centrar en la parte más muscular... ¿Creéis que todos los músculos son iguales en cuanto a su composición? En cuanto al tipo de fibra, me refiero. Evidentemente no. (...) los músculos no es que solo posean fibras tipo uno, solo fibras tipo dos o fibras tipo 2a. Todos los músculos están formados por un conjunto de fibras... Por un lado, tenemos las fibras tipo uno, que son las fibras lentas, que son fibras tónicas, encargadas de la postura. Por otro lado, tenemos las fibras tipo dos, que son básicas, son fibras rápidas, encargadas de dar más movilidad, más movimiento. Y luego están unas fibras... que son las fibras tipo 2a, que son mixtas porque tienen la capacidad de adaptarse a la carga que reciben. Por lo tanto, si esas fibras tipo 2a se trabajan de forma lenta, van a transformarse en fibras tipo uno. Si, por el contrario, trabajamos de forma rápida, van a transformarse en fibras tipo dos...",
+      "keywords": [
+        "fibras-musculares",
+        "aparato-locomotor",
+        "fibras-tipo-1",
+        "fibras-tipo-2",
+        "anatomia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se dividen los tipos de fibras musculares?",
+        "¿Qué función tienen las fibras musculares lentas o de tipo 1?",
+        "¿Qué característica especial tienen las fibras tipo 2a?"
+      ],
+      "related_terms": [
+        "fibras",
+        "tipo 1",
+        "tipo 2",
+        "músculo",
+        "adaptación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de los beneficios del estímulo muscular progresivo en las etapas de rehabilitación.",
+      "context_after": "Final del fragmento proporcionado (el ponente procede a mostrar diferencias visuales de las fibras en la presentación)."
+    }
+  ]
+}
