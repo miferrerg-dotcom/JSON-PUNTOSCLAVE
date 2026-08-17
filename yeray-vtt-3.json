@@ -1,0 +1,484 @@
+{
+  "video": {
+    "video_id": "WEBVTT-3",
+    "video_title": "S&C Coaching and Performance Systems in Women's Football",
+    "speaker": "Yeray Abreu",
+    "total_duration": "00:31:32",
+    "total_duration_seconds": 1892,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-3-001",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:03:30",
+      "start_seconds": 5,
+      "end_seconds": 210,
+      "duration_seconds": 205,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=5",
+      "title": "Predicción vs Prevención y batería de test multidisciplinar",
+      "summary": "Los test no deben usarse para predecir si un jugador se lesionará, sino para prevenir. Algunos jugadores, si nos basamos únicamente en los test, no podrían competir. Se propone una valoración multidisciplinar (anamnesis, fuerza-velocidad, podología) para diseñar programas preventivos individualizados, sencillos y directos.",
+      "literal_quote": "Para mí no es lo mismo predecir que prevenir, y no me gusta utilizar los test como medida de predicción, sí como medida de prevención.",
+      "full_transcript": "Entramos en el control de la carga, cómo vamos a ir gestionando y monitorizando al jugador para ir avanzando. Previamente, quiero explicar cómo entiendo yo estos procesos de control. Para mí no es lo mismo predecir que prevenir, y no me gusta utilizar los test como medida de predicción, sí como medida de prevención. Con lo cual, si intentamos monitorizar o screen, en este caso testear a los jugadores para predecir, no es lo mismo que para prevenir. ¿Por qué? Porque te vas a encontrar jugadores... que si fuese por los test no podrían competir. Si únicamente tuviésemos que atender a los test, no podrían competir... yo voy a intentar poner en conjunto todas las áreas que ayuden al jugador a rendir. Entonces, aquí tiene que ser una actuación multidisciplinar... anamnesis, rendimiento de fuerza-velocidad, cardiovascular, biomecánica de la pisada con la podología, antropometría... Y lo que yo creo que deberíamos ayudar al jugador es el preventivo individualizado. Finalmente, ¿qué va a tener? Un trabajo de fuerza preventiva, un trabajo de liberación miofascial... intentar ser sencillos, escuetos, directos y que el jugador lo entienda.",
+      "keywords": [
+        "prediccion",
+        "prevencion",
+        "test",
+        "multidisciplinar",
+        "preventivo-individualizado",
+        "liberacion-miofascial"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué los test deben usarse para prevenir y no para predecir en el deporte?",
+        "¿Qué áreas incluye una valoración multidisciplinar integral del jugador?",
+        "¿Cómo debe ser el programa preventivo que se le entrega al futbolista?"
+      ],
+      "related_terms": [
+        "batería",
+        "de",
+        "test",
+        "medida",
+        "de",
+        "prevención",
+        "actuación",
+        "multidisciplinar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre control de carga y monitorización del jugador en su regreso al campo.",
+      "context_after": "Se detallan los resultados específicos de la batería de test y cómo se interpretan los datos de dinamometría muscular."
+    },
+    {
+      "id": "WEBVTT-3-002",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:03:30",
+      "end_timestamp": "00:06:12",
+      "start_seconds": 210,
+      "end_seconds": 372,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=210",
+      "title": "Interpretación de datos y dinamometría muscular para la preactivación",
+      "summary": "Se recogen datos de performance (CMJ, Squad Jump, RSI) y dinamometría muscular para evaluar sinergias y asimetrías (ratios cuádriceps-isquio, isquio-glúteo, aductores-abductores). Estos resultados se interpretan en conjunto para crear rutinas de preactivación, excéntricos o píldoras preventivas adaptadas al historial lesivo.",
+      "literal_quote": "Atender a los jugadores de manera preventiva no significa que no podamos mandar también trabajo, pequeñas píldoras de fuerza, atendiendo a su historial lesivo.",
+      "full_transcript": "Entonces, yo intento poner todo esto en común... en el que vemos cómo dependiendo del área, de la respuesta neuromuscular, de la respuesta de fuerza, del perfil fuerza-velocidad... damos una respuesta final, un resumen final de las áreas a solicitar o a sobresolicitar o que están más inhibidas. Y luego, este es otro tipo de test también, en el que hablamos un poco más de performance... en el que vemos contra move jam, squad jam, las relaciones RCI, para ver cómo el jugador rinde. Y, por otra parte, dinamometría muscular... cómo reacciona la musculatura en base a la sinergia antagonista y sinergista... Aquí, si no me equivoco, es cuádriceps e isquio, el ratio entre ellos, y aprovechando la evidencia donde deberían estar esos rangos... aductor y abductores y la relación entre ellos. Y luego, de esto que tengo, lo interpreto junto con mis compañeros para llegar a un preventivo individualizado, de manera que sea durante el día una preactivación... Atender a los jugadores de manera preventiva no significa que no podamos mandar también trabajo, pequeñas píldoras de fuerza, atendiendo a su historial lesivo.",
+      "keywords": [
+        "dinamometria-muscular",
+        "ratios-musculares",
+        "cmj",
+        "rsi",
+        "preactivacion",
+        "historial-lesivo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué información aporta la dinamometría muscular en el perfil del jugador?",
+        "¿Cuáles son los ratios musculares clave que se evalúan en prevención de lesiones?",
+        "¿Cómo se traduce el análisis de datos en un preventivo individualizado?"
+      ],
+      "related_terms": [
+        "dinamometría",
+        "muscular",
+        "perfil",
+        "fuerza-velocidad",
+        "sinergia",
+        "antagonista"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que los test deben ser una herramienta de prevención y no de exclusión deportiva.",
+      "context_after": "Se avanza al tema del control de la carga interna y externa, así como la disposición (readiness) del jugador."
+    },
+    {
+      "id": "WEBVTT-3-003",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:06:12",
+      "end_timestamp": "00:09:30",
+      "start_seconds": 372,
+      "end_seconds": 570,
+      "duration_seconds": 198,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=372",
+      "title": "Tolerancia a la carga, readiness y cuadrantes modulares",
+      "summary": "Es vital monitorizar si una carga externa baja genera una carga interna (RPE) alta, lo que indica mala adaptación. Se debe evaluar el 'readiness' y la preparación psicológica (miedo a recaída) para decidir si modificar el entrenamiento. Se utilizan los cuadrantes modulares de Marcos Chena para analizar las dimensiones del juego y la variabilidad del estímulo.",
+      "literal_quote": "Si el jugador responde bien a esta carga, continúo entrenando. Si el jugador no responde bien, tengo que modificar mi entrenamiento y reestructurar para el día siguiente.",
+      "full_transcript": "En el siguiente punto, cómo manejamos esta carga en el jugador... Si la carga interna, en este caso, es una carga interna alta, que el jugador en el RPE te puede marcar alto, pero realmente la carga externa es baja... hay una mala adaptación, porque el jugador está tolerando mal o está entendiendo que una carga baja le genera bastante fatiga... Si los factores biomecánicos, el estrés emocional, la ansiedad, el entrenamiento y el descanso han ido bien, veo cómo es su percepción al bienestar. Si el jugador responde bien a esta carga, continúo entrenando. Si el jugador no responde bien, tengo que modificar mi entrenamiento y reestructurar para el día siguiente... Si el jugador no está preparado mentalmente... para contextos que le van a exponer a una posible recaída, tienen que estar preparados para eso... Aquí cito también otra vez de nuevo a Marcos Llena (Chena), en el que todos estos cuadrantes modulares... va a haber una respuesta diferencial a cómo debería distribuir la carga en cuanto a volumen e intensidad... La variabilidad del estímulo, si estoy haciendo trabajos muy complejos y el jugador no tiene esa riqueza motriz y se está colapsando. O al contrario, si no le estoy desafiando a nivel motriz.",
+      "keywords": [
+        "carga-interna",
+        "carga-externa",
+        "readiness",
+        "adaptacion",
+        "marcos-chena",
+        "riqueza-motriz"
+      ],
+      "entities": [
+        "Marcos Chena"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significa que un jugador tenga una carga interna alta con una carga externa baja?",
+        "¿Qué factores psicológicos afectan el 'readiness' de un jugador lesionado?",
+        "¿Qué utilidad tienen los cuadrantes modulares de Marcos Chena en la distribución de la carga?"
+      ],
+      "related_terms": [
+        "RPE",
+        "percepción",
+        "al",
+        "bienestar",
+        "variabilidad",
+        "del",
+        "estímulo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de interpretar la batería de pruebas y crear rutinas preactivas personalizadas.",
+      "context_after": "Se presenta una alternativa metodológica para aquellos contextos donde no se disponga de tecnología GPS."
+    },
+    {
+      "id": "WEBVTT-3-004",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:09:30",
+      "end_timestamp": "00:13:00",
+      "start_seconds": 570,
+      "end_seconds": 780,
+      "duration_seconds": 210,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=570",
+      "title": "Cuantificación subjetiva y adaptaciones del Acute Chronic Work Ratio (ACWR)",
+      "summary": "Sin GPS, la carga se puede cuantificar multiplicando RPE, tiempo y complejidad de la tarea. Sobre el ACWR, aunque el nivel óptimo general es 0.8-1.3, este es individual. En readaptación, la carga crónica es nula, por lo que el riesgo agudo se dispara artificialmente (>120%) y la 'regla del 10%' no funciona. Se sugiere acortar el ratio de 28 días a métricas de 3 (agudo) y 7 días (crónico).",
+      "literal_quote": "La regla del 10 % en las readaptaciones no va a funcionar, porque la primera semana que tú salgas al campo... ya te van a salir un 80 %. Entonces, esta regla no la voy a utilizar.",
+      "full_transcript": "Por otro lado, si no dispongo de GPS, no significa que no pueda cuantificar la carga... Y esos datos van a ser con una carga subjetiva del esfuerzo, sobre todo el RPE, por el tiempo, por la unidad compleja de la tarea. Es decir, yo puedo estructurar cuánto complejas son mis tareas del uno al 10... Que teniendo los GPS puedo establecer el ratio de carga aguda crónica. Entiendo que esto está progresando y que no es una herramienta fiable para generalizar o universalizar a todo el grupo, porque es una regla no dinámica... Yo entiendo los niveles óptimos como 0,8 o 1,3, que es lo que nos dice la evidencia, pero hay jugadores que pueden estar en 1,5... ¿Qué pasa? Que yo entiendo que si estamos por debajo de 0,8, también es un perfil de riesgo... Tenemos que entender que cuando tenemos jugadores, la carga crónica que ha tenido previamente es nula, porque puede estar tres semanas solamente caminando... todos los trabajos que haga a posteriori siempre va a saltarme como un 120 % de lo que estaba acostumbrado a hacer. Entonces, acorto mi ratio, en vez de 21 días, a tres, siete. Es decir, tres días como agudo a siete crónico... También la regla del 10 % en las readaptaciones no va a funcionar, porque la primera semana que tú salgas al campo... ya te van a salir un 80 %. Entonces, esta regla no la voy a utilizar.",
+      "keywords": [
+        "cuantificacion-subjetiva",
+        "acwr",
+        "carga-aguda",
+        "carga-cronica",
+        "regla-del-10",
+        "riesgo-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Return to Play",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se puede cuantificar la carga de entrenamiento si no se dispone de un GPS?",
+        "¿Por qué la regla del 10% en el aumento de la carga no funciona en jugadores lesionados?",
+        "¿Cómo se debe adaptar el Acute Chronic Work Ratio (ACWR) en un proceso de readaptación?"
+      ],
+      "related_terms": [
+        "carga",
+        "subjetiva",
+        "del",
+        "esfuerzo",
+        "unidad",
+        "compleja",
+        "de",
+        "la",
+        "tarea",
+        "ratio",
+        "de",
+        "carga",
+        "aguda",
+        "crónica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Uso de RPE y 'readiness' para detectar mala adaptación cuando las cargas externas son teóricamente bajas.",
+      "context_after": "Se discuten las limitaciones del GPS a la hora de monitorizar el estrés real provocado por los trabajos metabólicos y de gimnasio."
+    },
+    {
+      "id": "WEBVTT-3-005",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:13:00",
+      "end_timestamp": "00:17:35",
+      "start_seconds": 780,
+      "end_seconds": 1055,
+      "duration_seconds": 275,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=780",
+      "title": "Limitaciones del GPS, trabajo en gimnasio y Dashboard de control",
+      "summary": "El GPS no registra el trabajo cardiovascular, de potencia o de fuerza realizado en gimnasio, por lo que el ACWR en campo puede parecer artificialmente alto aunque el jugador esté condicionado. Se presenta un dashboard para monitorizar High Speed Running, aceleraciones, deceleraciones, asimetría (step balance) y porcentajes de velocidad máxima acumulados.",
+      "literal_quote": "Realmente el GPS no me está dando lo que realmente está pasando... no solo es lo que estamos haciendo en campo, sino también tenemos que tener en consideración lo que hacemos en el gimnasio.",
+      "full_transcript": "Aquí resalto también este estudio de Ting-Awe (Tim Gabbett) en el que comenta que la capacidad de meter un RCA o capacidad de meter high speed running acumulativo como compensatorio... el estudio lo que quiere mencionar es que tenemos que incorporar esos HIIT breves para que luego el agudo crónico no tenga ese pico y los jugadores no estén en riesgo. ¿Qué pasa? Que cuando me lo llevo este estudio a mí, digo: cuando yo estoy en la sala y estamos trabajando a nivel cardiovascular, anaeróbico y después también soy capaz de meter un RPA, capacidad de meter en potencia, en fuerza, realmente el GPS no me lo está dando... Tengo que entender que aunque a mí el agudo crónico me salga alto, el jugador viene de estar acostumbrado a un nivel condicional que he podido darle... Quiero resaltar con esto que no solo es lo que estamos haciendo en campo, sino también tenemos que tener en consideración lo que hacemos en el gimnasio. Aquí comparto también uno de mis dashboards para cuantificar la carga, en el que resalto las aceleraciones y deceleraciones... la distancia recorrida total cubierta y el metro minuto... el high speed running, la distancia sprint y la velocidad... Y luego, por otro lado, puedo poner el step balance para ver la simetría de carrera... Y luego, esto también me resulta interesante porque dependiendo de su máxima velocidad que tengamos disponible en el GPS, podemos ver porcentajes de entre el 45 y 65 % de esa velocidad.",
+      "keywords": [
+        "limitaciones-gps",
+        "dashboard",
+        "high-speed-running",
+        "step-balance",
+        "trabajo-gimnasio",
+        "tim-gabbett"
+      ],
+      "entities": [
+        "Tim Gabbett (Ting-Awe)",
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones del GPS a la hora de calcular el Acute Chronic Work Ratio en un jugador lesionado?",
+        "¿Qué métricas incluye el dashboard de Yeray Abreu para el control de carga externa?",
+        "¿Por qué es importante medir la simetría de carrera o step balance en readaptación?"
+      ],
+      "related_terms": [
+        "high",
+        "speed",
+        "running",
+        "step",
+        "balance",
+        "velocidad",
+        "máxima"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ajuste de los ratios de carga aguda/crónica y la refutación de la regla del 10% de progresión clásica.",
+      "context_after": "Se detalla cómo diseñar la semana de cargas (sinergia) en función de si la lesión ha sido corta, media o larga."
+    },
+    {
+      "id": "WEBVTT-3-006",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:17:35",
+      "end_timestamp": "00:20:00",
+      "start_seconds": 1055,
+      "end_seconds": 1200,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1055",
+      "title": "Sinergia de cargas según la duración de la lesión",
+      "summary": "La progresión de la carga se planifica según la duración de la lesión: lesiones cortas utilizan un modelo de mantenimiento cuantitativo progresivo; lesiones medias y largas emplean una sinergia fluctuante (ondulante) que replica la estructura del grupo, alcanzando un 60-80% de la carga colectiva antes de reintegrarse.",
+      "literal_quote": "Y así va a tener una mejor reincorporación al equipo, a la sinergia ondulante del grupo.",
+      "full_transcript": "¿Cómo evoluciona y cómo podemos intervenir en la sinergia de cargas durante el return to play? Como nombré antes, si la lesión es corta y no tenemos que atender tanto a la optimización, sino a mantenimiento, voy a meter una capacidad más cuantitativa y cualitativa... Si 14, 28 días tengo con él tres sesiones... una semana a lo mejor va a ser más progresión cuantitativa exponencial y otra va a tener una sinergia fluctuante, parecida o simulando lo que va a tener el grupo. Y así va a tener una mejor reincorporación al equipo, a la sinergia ondulante del grupo. Luego, la lesión de larga duración... Como vimos aquí en el modelo dos de la lesión de media duración, estaríamos ya en fases finales entre 60 y 80%... que es más o menos lo que suele ser un entrenamiento en comparación con la competición. Un entrenamiento de grupo puede estar en un 60, 70%, hablando como un high metabolic load distance... Y aquí en el modelo dos, a lo mejor todavía estarían 40, 60%, pero ahí sí tendré esa carga ondulante... Esto depende del contexto de la liga, del staff, va a depender de cómo yo genere esa carga ondulante, parecido o no. Si el -4 y -3 son las cargas altas de la sesión en el grupo.",
+      "keywords": [
+        "sinergia-cargas",
+        "sinergia-ondulante",
+        "reincorporacion",
+        "lesion-larga-duracion",
+        "lesion-corta-duracion",
+        "high-metabolic-load-distance"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo debe progresar la carga en una lesión de media o larga duración?",
+        "¿Qué porcentaje de la carga colectiva debe alcanzar el jugador antes de reincorporarse al grupo?",
+        "¿Qué es la sinergia ondulante en la planificación del Return to Play?"
+      ],
+      "related_terms": [
+        "sinergia",
+        "de",
+        "cargas",
+        "progresión",
+        "cuantitativa",
+        "exponencial",
+        "carga",
+        "ondulante"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del uso del dashboard de métricas de GPS cruzado con el trabajo condicional de gimnasio.",
+      "context_after": "Se presenta el concepto de 'Dynamic Competitive Profile' para utilizar datos de partidos previos como referencia en la recuperación."
+    },
+    {
+      "id": "WEBVTT-3-007",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:20:00",
+      "end_timestamp": "00:24:10",
+      "start_seconds": 1200,
+      "end_seconds": 1450,
+      "duration_seconds": 250,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1200",
+      "title": "Dynamic Competitive Profile: evaluación del rendimiento previo",
+      "summary": "Para guiar el Return to Play, se analiza cómo rendía el jugador 3-4 semanas antes de lesionarse. Se evalúan métricas (High Metabolic Load Distance, High Speed Running, Aceleraciones/Deceleraciones) durante los partidos y días previos (MD-3, MD-4). Se valora la 'profundidad' del volumen para entender qué porcentaje de la distancia total es de alta intensidad.",
+      "literal_quote": "Yo no voy a ir a su máximo que ha registrado durante toda la temporada o el año anterior. Voy a intentar que el jugador vuelva como estaba antes, o mejor incluso, como estaba antes de la lesión.",
+      "full_transcript": "Y aquí entro en algo que también va a tener que disponer de atención... ¿Cómo rinde el jugador durante la semana? Es decir, aquí voy a hablar de un jugador apto, en el que el jugador, ¿qué hacía previo a lesionarse? ... Y nuevamente veo tres, cuatro semanas... para ver el estado previo a la lesión. Es decir, cuál es su estado de performance antes de lesionarse... Yo no voy a ir a su máximo que ha registrado durante toda la temporada o el año anterior. Voy a intentar que el jugador vuelva como estaba antes, o mejor incluso, como estaba antes de la lesión... Vemos que el día de partido está en un punto en el que tenía una media de cercano a ocho... Y luego, por encima de los 1300 es high metabolic. Esto es sencillo, para entenderlo, cómo está el -3, cómo está el -5, cómo está el -2, cómo el -4. Cómo el grupo trabaja antes de que se lesionase y cómo este jugador participa... Luego, aquí meto también trabajos de sprint, high speed running y en el eje Z, que significa la profundidad del puntero, meto los metros acumulados de distancia. Es decir, de este sprint y este high speed running, cuánto es de la distancia total, porque no es lo mismo correr en cuatro kilómetros todo a sprint o a high speed running, que correr la misma distancia a sprint y a high speed running, pero en ocho kilómetros... High metabolic load distance y player load, relaciono la carga neuromuscular con la carga más metabólica... ¿Qué pasa con los jugadores que son sustituidos o que entras como sustituciones? Que no tienen tanta competición. Vemos que el match day empieza a aparecer muy por debajo de un -3, de un -4...",
+      "keywords": [
+        "dynamic-competitive-profile",
+        "rendimiento-previo",
+        "high-metabolic-load-distance",
+        "high-speed-running",
+        "profundidad-volumen",
+        "player-load"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es el Dynamic Competitive Profile y cómo se utiliza en readaptación?",
+        "¿Por qué es importante evaluar los 3 o 4 partidos previos a la lesión del jugador?",
+        "¿Qué significa la 'profundidad' (eje Z) en el análisis de distancias a alta intensidad?"
+      ],
+      "related_terms": [
+        "estado",
+        "de",
+        "performance",
+        "high",
+        "metabolic",
+        "load",
+        "distance",
+        "eje",
+        "Z"
+      ],
+      "relevance_score": 5,
+      "context_before": "Determinación de la progresión de la carga semanal ondulante y el volumen total para la reincorporación al grupo.",
+      "context_after": "Se explica cómo utilizar estos perfiles competitivos dinámicos para diseñar los objetivos exactos de las sesiones de campo."
+    },
+    {
+      "id": "WEBVTT-3-008",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:24:10",
+      "end_timestamp": "00:28:06",
+      "start_seconds": 1450,
+      "end_seconds": 1686,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1450",
+      "title": "Programación basada en porcentajes del perfil competitivo y tipo de lesión",
+      "summary": "Las sesiones de RTP buscan alcanzar porcentajes específicos de las métricas competitivas (basado en estudios como Rabet 2020). Los objetivos se modulan según el tipo de lesión: una afectación en el recto anterior restringe aceleraciones y golpeos, mientras que una lesión isquiosural limita el HSR. Las tareas en campo se diseñan para cumplir estos objetivos cuantitativos.",
+      "literal_quote": "Dependiendo también de la lesión, si es un recto anterior femoral, me va a incapacitar mucho más las aceleraciones, deceleraciones y los golpeos... Y dependiendo de si es una lesión en la región isquiosural, me va mucho más a limitar las velocidades altas y la capacidad acelerativa.",
+      "full_transcript": "Y aquí ya entro en lo que hablamos de dynamic competitive profile o perfil dinámico competitivo... En este estudio de Rabet de 2020, vemos cómo ellos establecen porcentajes de la competición para entender qué porcentaje deberían tener en menos cuatro, menos tres, menos dos y menos uno... en la readaptación, voy a intentar ayudar al jugador a cubrir esos porcentajes antes de incorporarse al grupo. Aquí, el Dynamic Competitive Profile, veo que el jugador... antes de lesionarse actuaba en esos tres o cuatro partidos antes y en estos menos cuatro y menos tres acumulando 8 km... Al igual en high metabolic distance y en máxima velocidad, alcanzaba un 29 máximo... High speed running acumulaba cerca de 270 m... Entonces, yo voy a intentar basarme e incluso intentar mejorarlo. Depende de cuánto era de exigente el entrenamiento antes en la readaptación. ¿Cómo? Antes de la sesión planifico... Estaría entre un 50 y un 60 % de la carga completa del grupo. Es decir, la semana total debe estar en dos o 2,5 de match day... Dependiendo también de la lesión, si es un recto anterior femoral, me va a incapacitar mucho más las aceleraciones, deceleraciones y los golpeos, porque es un mecanismo de lesión... Y dependiendo de si es una lesión en la región isquiosural, me va mucho más a limitar las velocidades altas y la capacidad acelerativa... antes de la sesión, con estos porcentajes del Dynamic Competitive Profile, yo ya voy estableciendo porcentajes de la sesión en base a lo que yo entiendo como esas variables... Y qué pasa? Que yo puedo ir al campo y voy viendo con objetivos lo que yo quiero cubrir... muchas veces los ejercicios los voy a ir acondicionando a la complejidad motriz que va teniendo el ejercicio y también así voy llegando a esos valores que he marcado previamente.",
+      "keywords": [
+        "programacion",
+        "perfil-competitivo",
+        "tipo-de-lesion",
+        "recto-anterior",
+        "isquiosural",
+        "rabet-2020"
+      ],
+      "entities": [
+        "Rabet 2020"
+      ],
+      "topics": [
+        "Return to Play",
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el tipo de lesión a los objetivos marcados en una sesión de campo?",
+        "¿Qué variables restringe una lesión en el recto anterior femoral versus una lesión isquiosural?",
+        "¿Cómo se utilizan los porcentajes de partido para planificar los días de entrenamiento en readaptación?"
+      ],
+      "related_terms": [
+        "perfil",
+        "dinámico",
+        "competitivo",
+        "recto",
+        "anterior",
+        "femoral",
+        "región",
+        "isquiosural",
+        "porcentajes",
+        "de",
+        "la",
+        "competición"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del perfil competitivo previo y la 'profundidad' del volumen de alta intensidad.",
+      "context_after": "Se concluye explicando cómo interpretar los datos post-sesión para autorizar a un jugador a entrenar o a competir."
+    },
+    {
+      "id": "WEBVTT-3-009",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:28:06",
+      "end_timestamp": "00:31:32",
+      "start_seconds": 1686,
+      "end_seconds": 1892,
+      "duration_seconds": 206,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1686",
+      "title": "Análisis post-sesión y la diferencia entre apto para entrenar vs competir",
+      "summary": "Al finalizar la sesión, se comparan los datos reales de carga con el perfil competitivo previo. Es crucial entender que un jugador puede alcanzar o superar el 100% de la carga de un entrenamiento intensivo (MD-3), pero eso puede representar solo el 50% de la carga de un partido oficial. Esta relativización permite autorizar el alta de entrenamiento separada del alta competitiva (ej. jugar solo 30 min).",
+      "literal_quote": "El perfil puede estar óptimo para entrenar, pero no para competir... Por eso digo que utilizamos los datos para relativizar, para entender, no para dar altas solamente competitivas o deportivas.",
+      "full_transcript": "Luego, después de la sesión, puedo ver cuánto porcentaje me he acercado a ese Dynamic Competitive Profile. Aquí podemos ver en colores las distancias... he hecho un 34 % de lo que podría hacer en partido. Luego, aquí, por ejemplo, he hecho un 50 % de lo que haría en partido. Incluso en rojo vemos llamativamente que ha hecho un 90 % de high speed running de lo que haría en su perfil. Con esta información, yo luego la traduzco de tal forma que si comparo también, no solo con el partido, pero puedo comparar con el menos cuatro y con el menos tres, puedo ver que esta sesión de martes de readaptación ha hecho, por ejemplo, en player load y en distancia, más de un 100 % de lo que suele hacer en un menos cuatro, pero en partido no ha hecho ni un 40 %... Yo puedo relativizar lo que es la recuperación para competir y lo que es la recuperación para entrenar. El perfil puede estar óptimo para entrenar, pero no para competir... Cuando yo interpreto esto y puedo ver que incluso en high speed running, si yo hago sesiones interválicas, voy a superar hasta un 160 % de lo que puede hacer en un menos cuatro... Pero en partido, como vemos, no llegó ni al 60. El jugador a lo mejor en este contexto no estaba teniendo high speed running durante el menos cuatro y menos tres... Posiblemente sea uno de los factores de riesgo... Por eso digo que utilizamos los datos para relativizar, para entender, no para dar altas solamente competitivas o deportivas... El jugador puede estar disponible para competir o entrenar a lo mejor un 70 % en los primeros días o un 100 % incluso, y a lo mejor competir 20 o 30 minutos o media parte... nuestra labor es acercar esta ciencia a la realidad, pero sin olvidarnos de contextualizar dónde estamos trabajando... E individualizarlo siempre a estos procesos.",
+      "keywords": [
+        "analisis-post-sesion",
+        "apto-entrenar",
+        "apto-competir",
+        "relativizacion-datos",
+        "alta-deportiva",
+        "alta-competitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Decisión",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre que un jugador esté preparado para entrenar y preparado para competir?",
+        "¿Por qué superar los datos de una sesión MD-3 no asegura que el jugador pueda jugar 90 minutos?",
+        "¿Para qué se utilizan los datos del Dynamic Competitive Profile después de la sesión de readaptación?"
+      ],
+      "related_terms": [
+        "Dynamic",
+        "Competitive",
+        "Profile",
+        "alta",
+        "competitiva",
+        "alta",
+        "deportiva",
+        "relativizar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Planificación cuantitativa de la sesión de campo basándose en el tipo de lesión del futbolista.",
+      "context_after": "Fin del módulo sobre Return to Play y control de la carga por parte de Yeray Abreu."
+    }
+  ]
+}

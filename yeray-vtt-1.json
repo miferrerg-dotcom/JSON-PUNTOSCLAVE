@@ -1,0 +1,461 @@
+{
+  "video": {
+    "video_id": "WEBVTT-1",
+    "video_title": "S&C Coaching and Performance Systems in Women's Football",
+    "speaker": "Yeray Abreu",
+    "total_duration": "00:21:44",
+    "total_duration_seconds": 1304,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-1-001",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:35",
+      "start_seconds": 0,
+      "end_seconds": 215,
+      "duration_seconds": 215,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y visión no dogmática de la readaptación",
+      "summary": "Presentación del proceso de return to play. Se enfatiza la importancia de no adoptar una postura dogmática en el entrenamiento, sino de entender e interpretar el contexto metodológico en la era de los datos, basándose siempre en principios básicos.",
+      "literal_quote": "No podemos ser dogmáticos en base a una idea. Sabiendo, obviamente, que siempre hay unos principios básicos en el entrenamiento.",
+      "full_transcript": "Muy buenas a todos. Me presento, soy Yeray Abreu. Vamos a hablar en este módulo sobre el return to play process, el proceso de readaptación... Por eso, como deducción, a la hora de intentar entender metodologías y procesos, ya que estamos en una era de datos, en una era en que hay muchas metodologías que sirven, me decido a tener una praxis que no es dogmática, sino que intentamos entender qué es necesario en cada contexto... Pero no podemos ser dogmáticos en base a una idea.",
+      "keywords": [
+        "return-to-play",
+        "readaptacion",
+        "dogmatismo",
+        "contexto",
+        "principios-basicos",
+        "metodologia"
+      ],
+      "entities": [
+        "Yeray Abreu"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué enfoque recomienda Yeray Abreu para el return to play?",
+        "¿Por qué es importante no ser dogmático en la readaptación deportiva?",
+        "¿Cómo influye la era de los datos en las metodologías de entrenamiento?"
+      ],
+      "related_terms": [
+        "return",
+        "to",
+        "play",
+        "process",
+        "readaptación",
+        "metodologías"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación sobre el módulo de return to play process.",
+      "context_after": "Se define el término de reconditioning abordando al deportista como un ente complejo más allá de la estructura lesionada."
+    },
+    {
+      "id": "WEBVTT-1-002",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "03:35",
+      "end_timestamp": "05:08",
+      "start_seconds": 215,
+      "end_seconds": 308,
+      "duration_seconds": 93,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=215",
+      "title": "El reconditioning como proceso integral",
+      "summary": "El reconditioning no es solo físico, sino técnico y táctico. El deportista debe ser visto como un sistema complejo, y el objetivo final debe ser prepararlo para rendir y competir a un gran nivel, minimizando el riesgo de recaídas.",
+      "literal_quote": "El atleta no podemos verlo como un deportista únicamente. Tenemos que verlo como una persona compleja, con muchos sistemas que pueden fluctuar.",
+      "full_transcript": "Dentro del término de reconditioning o readaptación... Podríamos ver que esto se define como un proceso de reestructuración a nivel físico del atleta, pero no solo físico. También hablamos técnico. El atleta no podemos verlo como un deportista únicamente. Tenemos que verlo como una persona compleja, con muchos sistemas que pueden fluctuar e interaccionar en su proceso de readaptación y que tiene que competir luego a un gran nivel con su club. El objetivo que nos tenemos que marcar es prepararlo para competir.",
+      "keywords": [
+        "reconditioning",
+        "readaptacion",
+        "sistema-complejo",
+        "rendimiento",
+        "prevencion-recaidas",
+        "competitivo"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Definición",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se define el proceso de reconditioning?",
+        "¿Qué sistemas interactúan en el deportista durante la readaptación?",
+        "¿Cuál es el objetivo final tras sanar una lesión según Yeray Abreu?"
+      ],
+      "related_terms": [
+        "reconditioning",
+        "reestructuración",
+        "rendimiento",
+        "competición"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción a la necesidad de huir de dogmatismos y centrarse en los principios del entrenamiento.",
+      "context_after": "Se analiza el equilibrio entre el conocimiento científico y la evidencia práctica en la toma de decisiones."
+    },
+    {
+      "id": "WEBVTT-1-003",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "05:08",
+      "end_timestamp": "07:38",
+      "start_seconds": 308,
+      "end_seconds": 458,
+      "duration_seconds": 150,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=308",
+      "title": "Evidencia científica vs Evidencia práctica y el valor del error",
+      "summary": "Es vital equilibrar la 'evidence-based knowledge' (ciencia) con la 'practical-based evidence' (práctica). Tomar decisiones, evaluar resultados y cometer errores es parte fundamental del crecimiento y progreso del profesional.",
+      "literal_quote": "La práctica se basa en la evidencia científica, pero evidencia científica que pueda ser llevada a la práctica.",
+      "full_transcript": "Entre enfoque y abordaje... Tenemos que entender que una cosa es la evidencia, otra cosa es la práctica. En el círculo este de la izquierda podemos ver evidence-based knowledge, en el que basamos todo en la ciencia, y practical-based evidence, en el que se puede basar sobre la práctica. No solo podemos abordar uno, porque si no, no avanzaríamos sin la evidencia. Me gusta citar aquí a Miguel Ángel Campos, que dice que la práctica se basa en la evidencia científica, pero evidencia científica que pueda ser llevada a la práctica... Porque si nunca te equivocas, no estás progresando. Es imposible.",
+      "keywords": [
+        "evidencia-cientifica",
+        "practica",
+        "toma-de-decisiones",
+        "aprendizaje",
+        "error",
+        "desarrollo-profesional"
+      ],
+      "entities": [
+        "Miguel Ángel Campos"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre la evidencia científica y la práctica según el webinar?",
+        "¿Por qué es importante equivocarse en el proceso de readaptación?",
+        "¿Cómo debe aplicarse la evidencia científica en el deporte?"
+      ],
+      "related_terms": [
+        "evidence-based",
+        "knowledge",
+        "practical-based",
+        "evidence",
+        "toma",
+        "de",
+        "decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que el reconditioning busca adaptar de nuevo a la jugadora al contexto competitivo.",
+      "context_after": "Se destaca la implicación de todo el staff multidisciplinar en todas las fases de la recuperación y la diferencia entre rehab focus y reconditioning focus."
+    },
+    {
+      "id": "WEBVTT-1-004",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "07:38",
+      "end_timestamp": "09:20",
+      "start_seconds": 458,
+      "end_seconds": 560,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=458",
+      "title": "Implicación multidisciplinar y foco en el deportista",
+      "summary": "El proceso de recuperación requiere la intervención de todos los profesionales en todo momento (fisios, médicos, técnicos, psicólogos). El foco no debe estar en la 'lesión', sino en el 'deportista lesionado', evolucionando de un rehab focus a un reconditioning focus.",
+      "literal_quote": "Hay que olvidarse de que no trabajamos con lesionados, trabajamos con personas. Trabajamos con deportistas lesionados, no con lesiones.",
+      "full_transcript": "Mi perspectiva es que durante todo el proceso todos los profesionales debemos estar involucrados con el jugador... No significa que el nutricionista o el psicólogo debe estar durante todo el proceso. No significa que el doctor se deba olvidar del jugador... Hay que olvidarse de que no trabajamos con lesionados, trabajamos con personas. Y tampoco trabajamos con lesiones... Trabajamos con deportistas lesionados, no con lesiones... Aquí lo vemos como un rehab focus y luego como un reconditioning focus, en el que entra en juego el rendimiento.",
+      "keywords": [
+        "staff-multidisciplinar",
+        "deportista-lesionado",
+        "rehab-focus",
+        "reconditioning-focus",
+        "comunicacion",
+        "personas"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Staff Management",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Quién debe involucrarse en el proceso de recuperación de un jugador?",
+        "¿Cuál es la diferencia entre tratar una lesión y tratar a un deportista lesionado?",
+        "¿Qué roles juegan el rehab focus y reconditioning focus?"
+      ],
+      "related_terms": [
+        "equipo",
+        "multidisciplinar",
+        "rehab",
+        "focus",
+        "reconditioning",
+        "focus"
+      ],
+      "relevance_score": 4,
+      "context_before": "Reflexión sobre el valor de la práctica frente a la evidencia pura y el aprendizaje tras las decisiones.",
+      "context_after": "Se avanza hacia la toma de decisiones basada en el razonamiento clínico y en la búsqueda de la riqueza motriz para el deportista."
+    },
+    {
+      "id": "WEBVTT-1-005",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "09:20",
+      "end_timestamp": "12:26",
+      "start_seconds": 560,
+      "end_seconds": 746,
+      "duration_seconds": 186,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=560",
+      "title": "Razonamiento clínico y riqueza motriz",
+      "summary": "El deportista es un sistema hipercomplejo. El profesional debe emplear el razonamiento clínico para seleccionar métodos y herramientas adaptadas a la cultura, edad y creencias del jugador, dotándolo de una gran 'riqueza motriz' (espectro de posibilidades de movimiento).",
+      "literal_quote": "Para mí, el razonamiento clínico es la estructura vital de lo que yo hago como profesional.",
+      "full_transcript": "Entendemos que comprendemos al deportista como un sistema hipercomplejo. Aquí nombro a Seirulo... tenemos que utilizar múltiples herramientas para que nos ayuden a progresar en esta recuperación... para que tenga una riqueza motriz y el jugador, después de este proceso, no sea tan lineal o tan simplista en la paleta de colores... Para mí, el razonamiento clínico es la estructura vital de lo que yo hago como profesional. Lo primero, tenemos que integrar el conocimiento... seleccionar qué métodos son más adecuados... tiene que depender también de la cultura en la que esté, de la creencia de los jugadores... Ahí también pueden entrar factores intrínsecos como la edad.",
+      "keywords": [
+        "razonamiento-clinico",
+        "riqueza-motriz",
+        "sistema-hipercomplejo",
+        "adaptabilidad",
+        "paleta-de-colores",
+        "criterios-progresion"
+      ],
+      "entities": [
+        "Seirulo"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué significa la riqueza motriz en el return to play?",
+        "¿En qué se basa el razonamiento clínico de un readaptador?",
+        "¿Qué factores influyen en la selección de métodos de entrenamiento?"
+      ],
+      "related_terms": [
+        "razonamiento",
+        "clínico",
+        "riqueza",
+        "motriz",
+        "sistema",
+        "hipercomplejo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que hay que enfocar el proceso en la persona (deportista) y no solo en la lesión (rehab).",
+      "context_after": "Se critica la linealidad de la readaptación y se enfatiza que la recuperación fluctúa por diversas causas externas."
+    },
+    {
+      "id": "WEBVTT-1-006",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "12:26",
+      "end_timestamp": "14:05",
+      "start_seconds": 746,
+      "end_seconds": 845,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=746",
+      "title": "Fluctuación del proceso RTP y evaluación funcional",
+      "summary": "El Return to Play no es una línea ascendente estándar; está sujeto a fluctuaciones psicológicas, sociales y de fatiga (ej. Ramadán). No hay que entrenar solo músculos, sino la funcionalidad y destreza específica del movimiento.",
+      "literal_quote": "Deberíamos huir siempre de las rectas estandarizadas en el proceso de return to play. No es tan bonito ni tan lineal como parece.",
+      "full_transcript": "Cito a Michael Boyle. Es una frase mítica en que no solamente hay que entrenar músculos, sino entrenar movimientos, pero desde la perspectiva de que la funcionalidad del sujeto, la aplicación de fuerza y la destreza específica... Para mi gusto, deberíamos huir siempre de las rectas estandarizadas en el proceso de return to play. No es tan bonito ni tan lineal como parece... Simplemente, ya solo por lo psicológico, social, incluso por la demanda o estrés de la competición, podremos ver cómo fluctúa la readaptación... esto ya lo mencionaba Rami Saudí, que el ramadán y el descanso tienen que ver con los procesos de recuperación... realmente un proceso de readaptación siempre es fluctuante.",
+      "keywords": [
+        "fluctuacion",
+        "linealidad",
+        "entrenar-movimientos",
+        "estres",
+        "return-to-play",
+        "evaluacion"
+      ],
+      "entities": [
+        "Michael Boyle",
+        "Rami Saudí"
+      ],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué el proceso de return to play no es lineal?",
+        "¿Qué factores provocan fluctuaciones en la readaptación?",
+        "¿Cuál es el enfoque de Michael Boyle respecto al entrenamiento de fuerza?"
+      ],
+      "related_terms": [
+        "entrenar",
+        "movimientos",
+        "rectas",
+        "estandarizadas",
+        "fluctuación"
+      ],
+      "relevance_score": 4,
+      "context_before": "La importancia del razonamiento clínico y de dotar al jugador de diferentes herramientas motoras.",
+      "context_after": "Análisis del uso de vectores de movimiento y la diferencia entre herramientas gravitacionales e inerciales (flywheel)."
+    },
+    {
+      "id": "WEBVTT-1-007",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "14:05",
+      "end_timestamp": "17:11",
+      "start_seconds": 845,
+      "end_seconds": 1031,
+      "duration_seconds": 186,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=845",
+      "title": "Vectores, variabilidad y resistencia gravitacional vs DRS",
+      "summary": "Se analiza el movimiento deportivo desde la jerarquización de estructuras (ej. Marcos Chena) y el trabajo en diferentes vectores. La resistencia gravitacional es lineal y útil estructuralmente, mientras que los dispositivos inerciales o poleas cónicas (DRS) generan variabilidad, repeticiones caóticas y un mayor desafío motriz y neuromuscular.",
+      "literal_quote": "Cuando trabajamos con un dispositivo flywheel o con DRS, tenemos que entender que cada repetición es variable... simula un poco más ese desafío motriz de cara a la competición.",
+      "full_transcript": "Quiero citar aquí a Marcos Chena... partiendo de una valoración funcional, progresa hacia unos patrones de movimiento dentro de algo básico... y luego empezamos a dar un poquito más de direccionalidad a esas fuerzas, atendiendo a los vectores... Entendemos el entrenamiento como diferentes vectores que actúan... Tenemos que entender que unos medios gravitacionales nos van a dar una resistencia gravitacional muy lineal, axial... hay una independencia hacia la gravedad y un estrés mecánico... Cuando trabajamos con un dispositivo flywheel o con DRS, tenemos que entender que cada repetición es variable... Entonces, se va a generar un pequeño caos en cada repetición, al igual que la respuesta neuromuscular, con lo cual simula un poco más ese desafío motriz de cara a la competición.",
+      "keywords": [
+        "vectores",
+        "resistencia-gravitacional",
+        "flywheel",
+        "drs",
+        "desafio-motriz",
+        "variabilidad"
+      ],
+      "entities": [
+        "Marcos Chena"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre la resistencia gravitacional y la inercial/DRS?",
+        "¿Por qué es importante el entrenamiento en distintos vectores?",
+        "¿Cómo aumentan el desafío motriz los dispositivos flywheel?"
+      ],
+      "related_terms": [
+        "medios",
+        "gravitacionales",
+        "dispositivo",
+        "flywheel",
+        "DRS",
+        "vectores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideración de que la recuperación deportiva fluctúa y depende de factores como la carga externa o el estrés psicológico.",
+      "context_after": "Se presenta el modelo de correspondencia dinámica y la progresión de ejercicios hacia escenarios estocásticos."
+    },
+    {
+      "id": "WEBVTT-1-008",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "17:11",
+      "end_timestamp": "20:04",
+      "start_seconds": 1031,
+      "end_seconds": 1204,
+      "duration_seconds": 173,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1031",
+      "title": "Correspondencia dinámica y estímulos estocásticos",
+      "summary": "Implementación del modelo de correspondencia dinámica de Gerard Moras y el DRS de Fernando Hernández Abad. El objetivo es evolucionar las tareas desde controles cerrados hacia escenarios con estímulos cambiantes y eventos estocásticos (ej. señales auditivas, colores) para desafiar cognitivamente al jugador.",
+      "literal_quote": "Son eventos estocásticos que tiene que ir decidiendo durante la práctica, si tiene que hacer una salida anteroposterior abierta o pivotando.",
+      "full_transcript": "Me baso en este enfoque en el sistema de correspondencia dinámica que nos da Gerard Moras y también en el DRS o Dynamic Reactional System, en el que habla Fernando Hernández Abad... utilizo también bastante la línea de progresión de Gerard Moras, en el que partiendo de un movimiento deportivo y una habilidad básica, vamos a intentar incorporar ejercicios más estructurales, más específicos o más globales... en el de abajo, el jugador va cambiando dependiendo de estímulos... auditivos, en el que le voy diciendo dependiendo un número o un color, le voy diciendo el tipo de ejercicio que puede hacer. Son eventos estocásticos que tiene que ir decidiendo durante la práctica.",
+      "keywords": [
+        "correspondencia-dinamica",
+        "drs",
+        "eventos-estocasticos",
+        "toma-de-decision",
+        "estimulos-auditivos",
+        "progresion-ejercicios"
+      ],
+      "entities": [
+        "Gerard Moras",
+        "Fernando Hernández Abad"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿En qué consiste el sistema de correspondencia dinámica de Gerard Moras?",
+        "¿Cómo se integran los estímulos estocásticos en la readaptación?",
+        "¿Qué utilidad tiene usar señales auditivas o de colores durante el ejercicio?"
+      ],
+      "related_terms": [
+        "correspondencia",
+        "dinámica",
+        "DRS",
+        "eventos",
+        "estocásticos",
+        "estímulos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Diferenciación entre las máquinas de poleas convencionales y el DRS o flywheel que generan inestabilidad motriz.",
+      "context_after": "Se cierran los principios generales y se listan los 8 pilares determinantes para evaluar y programar un proceso de Return to Play completo."
+    },
+    {
+      "id": "WEBVTT-1-009",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "20:04",
+      "end_timestamp": "21:44",
+      "start_seconds": 1204,
+      "end_seconds": 1304,
+      "duration_seconds": 100,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1204",
+      "title": "Aspectos clave determinantes del proceso de Return to Play",
+      "summary": "Existen 8 pilares fundamentales para diseñar el proceso RTP: el contexto competitivo, la naturaleza/gravedad de la lesión, la evolución biológica del jugador, su estado físico, su estado psicológico, la respuesta y tolerancia al entrenamiento, el consenso del equipo multidisciplinar y los criterios de progresión clínicos y físicos.",
+      "literal_quote": "Intentamos siempre profesionalizar todos estos procesos para profesionalizar sobre todo nuestra vocación a nuestro gremio.",
+      "full_transcript": "Como parte final del enfoque y abordaje, entendemos que el proceso de return to play, para mí, se va a basar en estos ocho aspectos... el contexto competitivo, dependiendo de dónde estemos trabajando... Intentamos siempre profesionalizar todos estos procesos para profesionalizar sobre todo nuestra vocación a nuestro gremio. Luego, la naturaleza y la gravedad de la lesión... la biología nos dice que cada persona es diferente, incluso la misma persona no se va a repetir la misma lesión... El estado físico actual en el que estemos con ese jugador, el estado psicológico también, obviamente, la respuesta al entrenamiento, cómo va tolerando esas cargas, y tanto la opinión de un equipo multidisciplinar, que es básico, en el que estemos fisios, médicos dentro del staff médico, y luego dentro del staff técnico, el entrenador y performance. Y luego, criterios de progresión.",
+      "keywords": [
+        "return-to-play",
+        "gravedad-lesion",
+        "estado-psicologico",
+        "estado-fisico",
+        "equipo-multidisciplinar",
+        "criterios-progresion"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Framework",
+        "Síntesis"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores principales para programar el Return to Play?",
+        "¿Cómo afecta el contexto competitivo a la readaptación de una lesión?",
+        "¿Qué profesionales conforman la evaluación multidisciplinar en un RTP?"
+      ],
+      "related_terms": [
+        "proceso",
+        "de",
+        "return",
+        "to",
+        "play",
+        "criterios",
+        "de",
+        "progresión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la progresión desde movimientos funcionales base hacia estímulos estocásticos integrales.",
+      "context_after": "[Fin del fragmento] Se concluye la base teórica de la programación de una readaptación deportiva, probablemente dando pie a los ejemplos prácticos en la siguiente sección."
+    }
+  ]
+}

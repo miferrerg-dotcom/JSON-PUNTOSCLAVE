@@ -1,0 +1,466 @@
+{
+  "video": {
+    "video_id": "WEBVTT-4",
+    "video_title": "S&C Coaching and Performance Systems in Women's Football",
+    "speaker": "Yeray Abreu",
+    "total_duration": "00:32:51",
+    "total_duration_seconds": 1971,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-4-001",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:04:42",
+      "start_seconds": 4,
+      "end_seconds": 282,
+      "duration_seconds": 278,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4",
+      "title": "Física del ejercicio y medios tradicionales vs sobrecarga excéntrica",
+      "summary": "Al diseñar tareas mediante razonamiento clínico, es vital entender la representación física de la fuerza y velocidad. Una sentadilla en máquina Smith pierde velocidad y fuerza en la extensión final. Incorporar bandas o realizar saltos con carga (CMJ) genera diferentes picos de velocidad y una verdadera sobrecarga excéntrica.",
+      "literal_quote": "La velocidad, si solo hago Smith machine con sentadilla normal, en estos últimos grados de extensión y flexión de la rodilla... desaparece por completo la velocidad y la fuerza.",
+      "full_transcript": "A la hora de diseñar tareas, como dije, hablamos del razonamiento clínico... dependiendo del grado de participación de nuestras estructuras musculares o articulares... deberemos entender que nuestro proceso de readaptación debería incorporar un ejercicio antes o después. La representación, en este caso, de la velocidad y de la fuerza no es lo mismo con un medio, con Smith machine, con Smith machine más banda y con contra movement jump con carga... Vemos que la actuación de la goma... va a dar mayor resistencia... Y si lo incorporo con un salto, quito la banda y me quedo con 20 kilos, ¿qué pasa? Que el pico es mayor... al trabajar con carga pesada hay un pico excéntrico, pero no significa sobrecarga excéntrica. Si le meto en un trabajo una banda heavy... ya hay un pico por encima... Y cuando ya meto un salto con contramovimiento, esto sí que es una sobrecarga excéntrica acentuada... Entonces, la velocidad, si solo hago Smith machine con sentadilla normal, en estos últimos grados de extensión y flexión de la rodilla, hasta aquí, desaparece por completo la velocidad y la fuerza.",
+      "keywords": [
+        "fisica-del-ejercicio",
+        "smith-machine",
+        "sobrecarga-excentrica",
+        "velocidad",
+        "bandas-elasticas",
+        "cmj"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué la máquina Smith genera pérdida de velocidad y fuerza en los grados finales de extensión?",
+        "¿Qué diferencia hay entre usar peso libre y usar bandas elásticas en la sobrecarga excéntrica?",
+        "¿Cómo se logra una sobrecarga excéntrica acentuada según el webinar?"
+      ],
+      "related_terms": [
+        "Smith",
+        "machine",
+        "sobrecarga",
+        "excéntrica",
+        "contramovimiento",
+        "razonamiento",
+        "clínico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre diseño de tareas dentro del proceso de readaptación deportiva.",
+      "context_after": "Se contrasta el uso de pesos libres o máquinas axiales con los dispositivos inerciales o flywheel."
+    },
+    {
+      "id": "WEBVTT-4-002",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:04:43",
+      "end_timestamp": "00:07:23",
+      "start_seconds": 283,
+      "end_seconds": 443,
+      "duration_seconds": 160,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=283",
+      "title": "Uso de tecnología inercial (Flywheel) para picos de velocidad y fuerza",
+      "summary": "Los dispositivos inerciales (flywheel o poleas cónicas) someten al cuerpo a una fuerza constante, generando picos de velocidad y fuerza en los últimos grados articulares (ej. yo-yo squat). Reducen la carga axial gravitatoria sobre la columna y meniscos, siendo ideales para fases específicas de la readaptación.",
+      "literal_quote": "La inercia me somete a la fuerza casi constante, empujando y resistiendo durante la fase concéntrica y excéntrica.",
+      "full_transcript": "Por una parte de mi metodología, me gusta mucho incluir los flywheel device, los dispositivos de tecnología inercial. Cito... a Alejandro Muñoz... Miren la diferencia que tiene en comparación con los métodos axiales. Es decir, la inercia me somete a la fuerza casi constante, empujando y resistiendo durante la fase concéntrica y excéntrica... La velocidad sube, está más alta en esta parte, que es la que antes carecíamos, y la potencia sube, baja, completamente igual en la excéntrica que en la concéntrica. Entender cómo es el flywheel device también nos va a ayudar a saber cuándo incorporarlo... Vemos que el pico de velocidad es justo en el momento concéntrico-excéntrico. Pongámonos en un ejercicio de sentadilla básico... Cuando subes y estiras arriba en un yo-yo squat... estoy metiendo una máxima velocidad y estoy metiendo una máxima fuerza... e incluso puedo casi quitarle la gravedad en la influencia de esa presión en un disco vertebral o a nivel de meniscos, pero sí puedo recibir esa fuerza y puedo percibir esa velocidad.",
+      "keywords": [
+        "flywheel",
+        "tecnologia-inercial",
+        "fuerza-constante",
+        "yo-yo-squat",
+        "reduccion-carga-axial",
+        "alejandro-munoz"
+      ],
+      "entities": [
+        "Alejandro Muñoz"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué beneficios tiene la tecnología inercial frente a las cargas gravitacionales?",
+        "¿Cómo se comporta la curva de potencia en un ejercicio con dispositivo flywheel?",
+        "¿Por qué es útil el yo-yo squat para evitar presión en los discos vertebrales?"
+      ],
+      "related_terms": [
+        "flywheel",
+        "device",
+        "tecnología",
+        "inercial",
+        "carga",
+        "axial",
+        "yo-yo",
+        "squat"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las limitaciones cinemáticas en máquinas gravitacionales en los últimos grados de extensión.",
+      "context_after": "Se presenta un caso práctico clínico abordando la recuperación de una lesión en el recto anterior femoral."
+    },
+    {
+      "id": "WEBVTT-4-003",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:07:23",
+      "end_timestamp": "00:10:42",
+      "start_seconds": 443,
+      "end_seconds": 642,
+      "duration_seconds": 199,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=443",
+      "title": "Regeneración biológica del recto anterior femoral",
+      "summary": "En el caso práctico de una lesión en el recto anterior femoral, la fase de regeneración biológica incluye evitar el desentrenamiento mediante trabajo del core y tren superior. Se utiliza isometría, movilidad activa y se potencia la cadena posterior (isquiosurales) para inhibir neuromuscularmente la cadena anterior.",
+      "literal_quote": "Activar la cadena posterior está demostrado que nos ayuda a inhibir la cadena anterior, siempre que no tenga molestia en la flexión de cadera.",
+      "full_transcript": "Vamos a ver la recuperación de un recto anterior femoral... Primero, la parte de regeneración biológica, con una radiografía, con un polis, programa preventivo... consumo energético con el trabajo de miembro superior y core para evitar el desentrenamiento. Y si puede meter trabajo de bici cuando podamos flexionar y extender sin molestia... Si el jugador en la isometría ya empieza a no tener dolor y podemos ir aumentando el tiempo... Si es posible hacer movilidad activa, evitar inmovilizaciones y producir efectos adversos en la cicatrización... incorporo en el primer ejercicio una isometría en pequeño lunge... agrupo también un trabajo de core... Puedo meter una pequeña activación isométrica en un dead bug, en el que sabemos que el foco está en el core, pero puedo hacer una sinergia de activaciones entre core, dorsal o serrato y recto anterior femoral... Obviamente, empiezo a potenciar la cadena opuesta, en este caso la cadena posterior, en isquiosurales en la patada en la polea cónica... Activar la cadena posterior está demostrado que nos ayuda a inhibir la cadena anterior, siempre que no tenga molestia en la flexión de cadera.",
+      "keywords": [
+        "regeneracion-biologica",
+        "recto-anterior-femoral",
+        "core",
+        "isometria",
+        "cadena-posterior",
+        "inhibicion-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se evita el desentrenamiento en la fase de regeneración biológica del recto anterior femoral?",
+        "¿Por qué se entrena la cadena posterior cuando hay una lesión en el recto anterior?",
+        "¿Qué ejercicios son recomendados en la primera fase de recuperación de una lesión muscular?"
+      ],
+      "related_terms": [
+        "regeneración",
+        "biológica",
+        "recto",
+        "anterior",
+        "femoral",
+        "cadena",
+        "posterior",
+        "isometría"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las herramientas y vectores de fuerza que se aplicarán posteriormente en la rehabilitación.",
+      "context_after": "Se transita a la siguiente fase de la lesión, introduciendo perturbaciones y reeducación funcional activa."
+    },
+    {
+      "id": "WEBVTT-4-004",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:10:42",
+      "end_end_timestamp": "00:14:32",
+      "start_seconds": 642,
+      "end_seconds": 872,
+      "duration_seconds": 230,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=642",
+      "title": "Reeducación funcional, perturbaciones y excéntricos",
+      "summary": "En la reeducación funcional se aplican estímulos dinámicos y de variabilidad, con rotaciones, incertidumbre y perturbaciones (ej. con Keiser). Progresa el trabajo excéntrico en cadena posterior y la pliometría básica, evaluando siempre la maduración del tejido cicatrizal ecoguiado antes de iniciar la carrera.",
+      "literal_quote": "Le estoy ayudando o lo estoy perturbando... cada repetición es variable, porque tanto tú como la variación mecánica van a estar dando el incentivo al movimiento.",
+      "full_transcript": "En la siguiente diapo vemos la siguiente fase... reeducación funcional. Ya vemos una salida cruzada... a una plataforma giratoria, pero no estoy metiendo un patrón de flexión-extensión, no estoy activando el recto anterior femoral en exceso. Estoy metiendo un pivotaje... Voy metiendo activación de aductores y abductores con incertidumbre... con un DRS también agarrado él y yo con una posición de split para el jugador, en la que dependiendo de si yo lo ayudo o no, la resistencia va a ser más variable... Le estoy ayudando o lo estoy perturbando en ese sentido... Por último, activar la cadena posterior en excéntrico... Me lo enseñó Oliver Gonzalo Escó... me gustó bastante cómo solicitas la cadera y las regiones isquiosurales en un gesto tan específico como ese, en el que tú participas con el jugador y cada repetición es variable, porque tanto tú como la variación mecánica van a estar dando el incentivo al movimiento... Y por último, una rotación con un pequeño salto pliométrico... A medida que avanzo a la fase de reeducación funcional, vamos a ver un control ecoguiado con una fisioterapeuta, si es posible, para ver si está la maduración del tejido tisular cicatrizando bien... Tiene una buena educación coordinativa en todo esto. Puedo iniciar la carrera.",
+      "keywords": [
+        "reeducacion-funcional",
+        "perturbaciones",
+        "incertidumbre",
+        "excentricos",
+        "control-ecoguiado",
+        "keiser"
+      ],
+      "entities": [
+        "Oliver Gonzalo Escó",
+        "Keiser"
+      ],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se introduce la incertidumbre en los ejercicios de reeducación funcional?",
+        "¿Qué indicador clínico se debe verificar antes de iniciar la carrera tras una lesión tisular?",
+        "¿Qué utilidad tienen las perturbaciones manuales en los ejercicios con poleas inerciales?"
+      ],
+      "related_terms": [
+        "reeducación",
+        "funcional",
+        "control",
+        "ecoguiado",
+        "incertidumbre",
+        "pliometría"
+      ],
+      "relevance_score": 4,
+      "context_before": "Abordaje biológico inicial en camilla y rutinas de core e isometría para la lesión del recto anterior.",
+      "context_after": "Se analizan los perfiles de aceleración y deceleración y se presenta la 'Rugby Squat' como alternativa táctica."
+    },
+    {
+      "id": "WEBVTT-4-005",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:14:33",
+      "end_timestamp": "00:18:44",
+      "start_seconds": 873,
+      "end_seconds": 1124,
+      "duration_seconds": 251,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=873",
+      "title": "Reentrenamiento: Aceleración vs deceleración y la Rugby Squat",
+      "summary": "El reentrenamiento incorpora fuerza oscilatoria y evalúa asimetrías. Se utilizan sistemas axiales para mejorar la aceleración y dispositivos inerciales para la deceleración. Destaca la 'Rugby Squat' frente a la sentadilla tradicional, porque expone al recto anterior femoral a extensión de cadera y flexión de rodilla simultánea, simulando la biomecánica del golpeo.",
+      "literal_quote": "La exposición en el recto anterior femoral es en una flexión de cadera y flexión de rodilla, cosa que en un golpeo no sucede. Hay una extensión completa de cadera y hay una flexión de rodilla.",
+      "full_transcript": "Si entramos en la fase tres de reentrenamiento, vamos a ver los contenidos ya más propios a nivel condicional, haciendo unas pruebas funcionales de asimetrías... Valorando si esos ejercicios dinámicos pueden ser ejercicios de fuerza oscilatoria, en los que el tiempo de reacción entre la parte concéntrica y excéntrica se disminuye, que va más de acuerdo a lo que suele ser un sprint... La fuerza en cuatro dimensiones, cómo pasamos a ver el perfil de aceleración y deceleración... los sistemas axiales son más promotores de mejorar la fuerza en la aceleración y los dispositivos inerciales son más promotores de mejorar la deceleración. Los landing and holds me sirven como pliometría básica para progresar a los jumps y los hops... La carrera lineal, pasar a carrera en otros planos... a niveles condicionales en high speed running, en porcentaje de sprint y hacerlo a nivel complejo... La rugby squat también es un ejercicio lateral que yo utilizo primordial en mi patrón de movimiento en los lesionados. En este caso, en el recto anterior femoral, tiene mucha cabida. Problemas que puedo ver en la rugby squat, en las sentadillas o derivantes de ellas, que al final la exposición en el recto anterior femoral es en una flexión de cadera y flexión de rodilla, cosa que en un golpeo no sucede. Hay una extensión completa de cadera y hay una flexión de rodilla en la que la musculatura biarticular está en su máxima exposición al estiramiento... Este siguiente ejercicio lo pongo como ejemplo de isometría máxima... deceleración con la hexagonal a nivel asimétrico.",
+      "keywords": [
+        "reentrenamiento",
+        "fuerza-oscilatoria",
+        "rugby-squat",
+        "aceleracion",
+        "deceleracion",
+        "mecanica-de-golpeo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué dispositivos son mejores para trabajar la aceleración y cuáles para la deceleración?",
+        "¿Por qué la sentadilla tradicional no imita bien el gesto mecánico de un golpeo de balón?",
+        "¿Qué beneficios tiene la 'Rugby Squat' en la readaptación del recto anterior femoral?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "oscilatoria",
+        "perfil",
+        "de",
+        "aceleración",
+        "deceleración",
+        "rugby",
+        "squat"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de ejercicios para reeducar la funcionalidad y lograr un paso transitorio a la carrera.",
+      "context_after": "Explicación de la fase previa a la reincorporación competitiva mediante microdosis de alta calidad."
+    },
+    {
+      "id": "WEBVTT-4-006",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:19:11",
+      "end_timestamp": "00:22:24",
+      "start_seconds": 1151,
+      "end_seconds": 1344,
+      "duration_seconds": 193,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1151",
+      "title": "Preoptimización, microdosis de fuerza e integración al microciclo",
+      "summary": "En la preoptimización se trata al deportista casi como apto. Tras controles de imagen (resonancia) y evaluar la tolerancia a la carga (Player Load, HIA), se da el alta deportiva. El trabajo de fuerza complementario se aplica en 'microdosis' tras el campo, mediante series de contrastes breves que no generen fatiga, buscando adaptarse a la ondulación de la semana competitiva.",
+      "literal_quote": "Los trabajos que van a ser en campo, en el gimnasio, post, si son posibles, pueden ser más de contrastes... de dos, tres series a tres, cuatro repeticiones. Que no fatiguen, evitando la fatiga para que tenga la calidad del estímulo.",
+      "full_transcript": "Por último, en la última fase, la fase de preoptimización, en la que al atleta lo podemos tratar como un jugador casi apto. Entonces vamos a ver cómo va tolerando ejercicios o micro exposiciones a competición o entrenamiento... la resonancia magnética daría un salto cualitativo a la hora de la imagen y control para saber cómo está este tejido. Para seguir, si tiene asimilación de cargas también en los trabajos que vaya haciendo más exigentes, como trabajos de fuerza para la valoración de perfil, fuerza, velocidad, la pliometría o la capacidad de repetir esfuerzo... Si va asimilando esas cargas, vamos a dar una alta deportiva. Y se puede incorporar al grupo... Cuando ya el jugador pasa al grupo y se incorpora, aunque sea a nivel parcial, vamos a atender más a la recuperación... el perfil fuerza-velocidad lo vamos a meter en pequeñas microdosis. Es decir, pequeñas microdosis posesión... Los trabajos que van a ser en campo, en el gimnasio, post, si son posibles, pueden ser más de contrastes. Contrastes más cortos, a lo mejor de dos, tres series a tres, cuatro repeticiones. Que no fatiguen, evitando la fatiga para que tenga la calidad del estímulo... Si el jugador es capaz de tolerar todas estas estructuras, pasamos a que la sinergia del microciclo competitivo, es decir, que el jugador tenga adaptación a cómo ondula la carga durante la semana, le vamos a dar una alta competitiva.",
+      "keywords": [
+        "preoptimizacion",
+        "alta-deportiva",
+        "alta-competitiva",
+        "microdosis",
+        "contrastes",
+        "resonancia-magnetica"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Control de Carga",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo se otorga el alta deportiva a un jugador lesionado?",
+        "¿Cómo se debe programar el trabajo de fuerza en la fase de reintegración al grupo?",
+        "¿Qué diferencia la fase de alta deportiva del alta competitiva en el microciclo?"
+      ],
+      "related_terms": [
+        "preoptimización",
+        "microdosis",
+        "contrastes",
+        "sinergia",
+        "del",
+        "microciclo",
+        "competitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose técnico de la readaptación condicional focalizada (ej. Rugby squat y HSR).",
+      "context_after": "Se enumeran tareas tácticas concretas y se reflexiona sobre la falta de recetas universales en la readaptación."
+    },
+    {
+      "id": "WEBVTT-4-007",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:23:45",
+      "end_timestamp": "00:24:37",
+      "start_seconds": 1425,
+      "end_seconds": 1477,
+      "duration_seconds": 52,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1425",
+      "title": "Flexibilidad del proceso y huida de recetas universales",
+      "summary": "El proceso de Return to Play no es lineal y debe ser completamente único y adaptado al contexto del deportista y su lesión. Se rechazan las 'recetas' y protocolos cuantitativos universales debido a la variabilidad de los factores intrínsecos y extrínsecos.",
+      "literal_quote": "Las recetas no existen generalizadas, no siguen un protocolo cuantitativo y universal... no podemos compararlo con una lesión anterior, ni aunque tenga el mismo jugador.",
+      "full_transcript": "En el cómputo total de todo este análisis, de toda esta progresión, de todo el Return to Play, debemos entender que, como dice la frase, debe ser tan único como el deportista que lo realiza. E incluso en ese caso, en ese momento, que ahí no lo resalta, pero realmente las recetas no existen generalizadas, no siguen un protocolo cuantitativo y universal. Los factores intrínsecos son muy variables, al igual que los extrínsecos, y debemos entender que el proceso de entrenamiento como dinámico, flexible e individualizado. En el contexto en el que estemos, en la lesión en la que esté y en esa misma lesión. No podemos compararlo con una lesión anterior, ni aunque tenga el mismo jugador y la misma lesión.",
+      "keywords": [
+        "proceso-dinamico",
+        "individualizacion",
+        "factores-intrinsecos",
+        "factores-extrinsecos",
+        "huida-protocolos",
+        "return-to-play"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no se deben usar protocolos generalizados en el Return to Play?",
+        "¿Cómo influyen los factores intrínsecos y extrínsecos en la readaptación?",
+        "¿Se debe aplicar el mismo proceso de recuperación a un jugador que recae de la misma lesión?"
+      ],
+      "related_terms": [
+        "proceso",
+        "de",
+        "entrenamiento",
+        "dinámico",
+        "flexible",
+        "individualizado",
+        "recetas",
+        "generalizadas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la integración progresiva en el grupo a través del alta deportiva y las microdosis de trabajo extra.",
+      "context_after": "Se presenta el modelo conceptual de progresión desde el control analítico absoluto hasta el caos del juego real."
+    },
+    {
+      "id": "WEBVTT-4-008",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:24:37",
+      "end_timestamp": "00:28:16",
+      "start_seconds": 1477,
+      "end_seconds": 1696,
+      "duration_seconds": 219,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1477",
+      "title": "Del control al caos y el desarrollo de tareas duales",
+      "summary": "El entrenamiento progresa metodológicamente desde un entorno con un input único (control) hacia tareas de atención dividida (dual task) e incertidumbre (caos). Dependiendo del jugador, la especificidad y la dificultad pueden evolucionar de forma no lineal, adaptándose a su carga y demanda cognitiva.",
+      "literal_quote": "Es posible aplicar estímulos que desafíen la toma de decisiones y variabilidad motriz y la atención del jugador, el dual task. Independientemente del momento en el que esté.",
+      "full_transcript": "Vamos a seguir con el último punto, el de control versus caos. Aquí resalto... qué trabajos vamos a intentar incorporar en el fútbol en diferentes estadios de complejidad. En el que el jugador va a tener una única visión sobre el entrenamiento o le vamos a dar un único input. Luego vamos a intentar ir modelándolo con diferentes estímulos en el que su atención va a estar dividida. Y luego vamos a intentar seleccionar diferentes tipos de atención... como situaciones, por ejemplo, de dos para dos, como situaciones tácticas acumulativas con fatiga. Pero no simplemente verlo a nivel condicional, sino también en lo técnico-táctico incluido... aquí resalto que es posible aplicar estímulos que desafíen la toma de decisiones y variabilidad motriz y la atención del jugador, el dual task. Independientemente del momento en el que esté... Hay jugadores que quizás la especificidad y la dificultad podamos avanzar lineal. Hay jugadores que podemos avanzar con mayor especificidad más temprano y hay jugadores que la dificultad podríamos avanzar más temprano... Vemos que son, obviamente, en situaciones controladas a pasar a situaciones de caos... Cuando el jugador nos permita más a nivel cognitivo... y esa demanda cognitiva sea capaz de coordinarlas como a nosotros nos gustaría... el flujo del ejercicio es adecuado, podríamos progresar.",
+      "keywords": [
+        "control-vs-caos",
+        "dual-task",
+        "demanda-cognitiva",
+        "atencion-dividida",
+        "incertidumbre",
+        "dificultad-tecnica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿En qué consiste el paso del control al caos en la readaptación deportiva?",
+        "¿Qué es el 'dual task' y por qué es importante en la recuperación de lesiones?",
+        "¿Debe la progresión de la dificultad técnica ser lineal para todos los deportistas?"
+      ],
+      "related_terms": [
+        "control",
+        "versus",
+        "caos",
+        "dual",
+        "task",
+        "atención",
+        "dividida",
+        "demanda",
+        "cognitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de diseñar procesos individuales y flexibles y rechazo a los protocolos universales.",
+      "context_after": "Se aborda el concepto final de readaptación táctica integrando la lógica interna del fútbol y minimizando recaídas."
+    },
+    {
+      "id": "WEBVTT-4-009",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:28:16",
+      "end_timestamp": "00:32:03",
+      "start_seconds": 1696,
+      "end_seconds": 1923,
+      "duration_seconds": 227,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1696",
+      "title": "Readaptación táctica y riqueza motriz final",
+      "summary": "El objetivo final no es solo sanar un tejido, sino preparar al jugador para las exigencias de la competición y la lógica interna del deporte ('readaptación táctica'). Se utilizan tareas de alta riqueza motriz como core rotacional, saltos inestables y deceleraciones específicas que aseguren una reentrada fluida y minimicen las recaídas.",
+      "literal_quote": "No se trata de recuperación, sino preparar al jugador para las exigencias reales, el ritmo de tolerancia... Esto se resume como una readaptación táctica.",
+      "full_transcript": "No olvidarnos, que no es recuperar solamente una lesión, ni darle un pase y que juegue al fútbol, ni tampoco los contenidos condicionales son trabajos de fuerza y punto. Tienen que estar también aproximados a la especificidad... no solo se trata de recuperación, sino preparar al jugador para las exigencias reales, el ritmo de tolerancia, lo que hemos hablado anteriormente. Tiene que entender esa lógica interna. Esto se resume como una readaptación táctica. Aunque no seamos entrenadores... cuanto más podamos entender la exposición o nuestra modalidad deportiva, más podremos ayudar al jugador en esos estímulos técnico-tácticos para que se simulen, para que tenga mejor reentrada luego con el grupo y con la competición. De esta manera, hay una transición más fluida, reduciendo el riesgo de recaída y mejorando el rendimiento como jugador... ejemplos de ejercicios un poco más vinculados a performance... algún ejercicio de core rotacional, en el otro caso, una salida abierta con un golpeo de cabeza... un landing en la plataforma giratoria, diferentes step forwards en el launch, incluso con algo de superficies inestables, broad jump con resistencia unilaterales... para demarcar la fuerza en el vector horizontal y la fuerza en el vector vertical... Esto es lo que hablamos anteriormente a nivel de la riqueza motriz de todos estos procesos.",
+      "keywords": [
+        "readaptacion-tactica",
+        "logica-interna",
+        "transicion-fluida",
+        "riqueza-motriz",
+        "riesgo-recaida",
+        "especificidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué se entiende por 'readaptación táctica' en el ámbito deportivo?",
+        "¿Por qué es vital que un readaptador conozca la lógica interna del deporte?",
+        "¿Cómo ayudan los ejercicios de riqueza motriz a minimizar el riesgo de recaída?"
+      ],
+      "related_terms": [
+        "readaptación",
+        "táctica",
+        "lógica",
+        "interna",
+        "riqueza",
+        "motriz",
+        "transición",
+        "fluida"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del espectro cognitivo del control al caos y las tareas duales.",
+      "context_after": "Se concluye la ponencia, agradeciendo la atención y facilitando medios de contacto profesional."
+    }
+  ]
+}

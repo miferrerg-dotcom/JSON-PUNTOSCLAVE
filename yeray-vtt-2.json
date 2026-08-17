@@ -1,0 +1,427 @@
+{
+  "video": {
+    "video_id": "WEBVTT-2",
+    "video_title": "S&C Coaching and Performance Systems in Women's Football",
+    "speaker": "Yeray Abreu",
+    "total_duration": "00:24:35",
+    "total_duration_seconds": 1475,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "WEBVTT-2-001",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:03:12",
+      "start_seconds": 4,
+      "end_seconds": 192,
+      "duration_seconds": 188,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=4",
+      "title": "Fases iniciales del Return to Play y Reeducación Funcional",
+      "summary": "El proceso de Return to Play se planifica en fases: regeneración biológica, reeducación funcional, reentrenamiento, preoptimización e integración. En las etapas tempranas se reduce la inflamación, se evitan desentrenamientos y se progresa desde isométricos a patrones motrices más complejos.",
+      "literal_quote": "Vamos a evitar el desentrenamiento con otras vías energéticas que no supongan daño o que no favorezcan la recuperación, como por ejemplo, sistemas aeróbicos de bajo impacto.",
+      "full_transcript": "Continuamos en el módulo. Ahora nos vamos a adentrar en la planificación del proceso de Return to Play. Vamos a ver esta diapositiva que me gusta para ilustrar cómo vamos avanzando en este Return to Play, desde una fase aguda o regeneración biológica, como la fase uno. Lo distribuyo entre cuatro o cinco fases... Después de la fase uno pasaremos a una reeducación funcional. Fase de reentrenamiento como fase tres y fase preoptimización, y luego la integración al grupo. En la fase de regeneración biológica... vamos a intentar atender más la causa de esa lesión... y también atender otros eslabones débiles. Vamos a evitar el desentrenamiento con otras vías energéticas que no supongan daño... Luego entraremos en reeducación funcional con contracciones isométricas a pasar a concéntricas. Además, restableceremos también el rango de movilidad y funcionalidad... Empezamos a meter trabajos más complejos, de complejidad motriz, en los que le demos una variabilidad al estímulo. Aspectos condicionales de base, en los que ya estamos entrando en una fase de reentrenamiento...",
+      "keywords": [
+        "return-to-play",
+        "reeducacion-funcional",
+        "regeneracion-biologica",
+        "isometria",
+        "eslabones-debiles",
+        "reentrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases principales de la planificación del Return to Play?",
+        "¿Qué se trabaja durante la fase de regeneración biológica?",
+        "¿Cómo se progresa la fuerza durante la reeducación funcional?"
+      ],
+      "related_terms": [
+        "return",
+        "to",
+        "play",
+        "reeducación",
+        "funcional",
+        "regeneración",
+        "biológica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte sobre planificación y distribución de fases.",
+      "context_after": "Se avanza hacia la preoptimización, la integración y el control de carga a través del GPS y la tolerancia al esfuerzo."
+    },
+    {
+      "id": "WEBVTT-2-002",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:03:12",
+      "end_timestamp": "00:06:00",
+      "start_seconds": 192,
+      "end_seconds": 360,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=192",
+      "title": "Preoptimización, cuantificación de carga e integración a la incertidumbre",
+      "summary": "En la preoptimización se utiliza GPS o RPE para cuantificar el volumen y la intensidad, adaptando las cargas de forma ondulante según factores individuales. La integración al grupo debe exponer al jugador a estímulos caóticos e incertidumbre para prepararlo para la competición real.",
+      "literal_quote": "Sabemos que estamos con jugadores que no están aptos y que tienen una lesión que les limita, pero no por ello significa que nos olvidemos de que el deporte genera incertidumbre.",
+      "full_transcript": "Luego, cuando ya estamos entrando en esa fase de preoptimización... empezamos a cuantificar el volumen y la intensidad. Aquí es cuando entra en acción esa cuantificación de la carga más en base al campo, esos trabajos con GPS, y si no tengo GPS, el RP, el CRP. Tolerancia al esfuerzo, que eso va a ir variando mucho... si está en ramadán, incluso si está descansando igual, si ha sido padre... Ya no es una línea progresiva cuantitativa a la hora de intentar meter más contenidos y que lo vaya tolerando, sino que a lo mejor hay días en los que atendemos más un perfil acelerativo... Y luego, por último, una integración progresiva a la complejidad que le va a exigir el grupo... En la parte baja de la gráfica vemos también una progresión... desde entender el ejercicio como algo bilateral a algo unilateral... Y luego, el aspecto ya un poco más caótico cuando estamos en el grupo. Sabemos que estamos con jugadores que no están aptos... pero no por ello significa que nos olvidemos de que el deporte genera incertidumbre.",
+      "keywords": [
+        "cuantificacion-carga",
+        "preoptimizacion",
+        "incertidumbre",
+        "gps",
+        "sinergia-ondulante",
+        "integracion"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Return to Play",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se debe cuantificar la carga en la fase de preoptimización?",
+        "¿Por qué es importante introducir incertidumbre en las tareas de integración?",
+        "¿De qué factores externos depende la tolerancia al esfuerzo de la jugadora?"
+      ],
+      "related_terms": [
+        "cuantificación",
+        "de",
+        "la",
+        "carga",
+        "incertidumbre",
+        "sinergia",
+        "de",
+        "cargas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicaron las primeras fases de regeneración y reeducación enfocadas en la parte lesional.",
+      "context_after": "Se detallan los elementos básicos de programación a coordinar con los médicos y el abordaje psicológico."
+    },
+    {
+      "id": "WEBVTT-2-003",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:06:02",
+      "end_timestamp": "00:09:24",
+      "start_seconds": 362,
+      "end_seconds": 564,
+      "duration_seconds": 202,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=362",
+      "title": "Programación integral, objetivos y el abordaje psicológico en el RTP",
+      "summary": "Para programar el RTP, se coordinan tiempos con servicios médicos, se establecen objetivos físicos y cognitivos, y se subraya la vital importancia de la respuesta y abordaje psicológico del jugador. El readaptador influye directamente en las adaptaciones biológicas mediante su actitud.",
+      "literal_quote": "Si nos olvidamos de cómo nuestra personalidad tiene que estar con el jugador, no estaremos ayudando 100 % a que este return to play progrese.",
+      "full_transcript": "Cómo vamos a programar este return to play? A qué tenemos que atender? Algo básico. Si el médico nos ayuda con esto, a saber cuáles son los tiempos estimados... va a depender del club, de los medios y del jugador... En establecer objetivos, limitaciones y líneas de abordaje. Aquí también enseño una propuesta mía en base a varios estudios... resalto a Lago y a Casais... qué estructura vamos a trabajar a nivel condicional, cognitiva y psicológica. No me puedo olvidar de que a nivel psicológico... estamos en uno para uno con el jugador y tenemos que entender que ayudarlo y estar con él nos va a dar mejores respuestas a nivel biológico. Entonces, si nos olvidamos de cómo nuestra personalidad tiene que estar con el jugador, no estaremos ayudando 100 % a que este return to play progrese... Y ya por último, la actuación de los profesionales durante el continuum. Recursos humanos, especialistas... la unificación multidisciplinar e interdisciplinar tiene que estar coordinada para todos esos avances y procesos.",
+      "keywords": [
+        "programacion",
+        "multidisciplinar",
+        "psicologia",
+        "objetivos",
+        "lago",
+        "casais"
+      ],
+      "entities": [
+        "Lago",
+        "Casais"
+      ],
+      "topics": [
+        "Staff Management",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué papel juega la actitud del readaptador en la recuperación biológica del jugador?",
+        "¿Quiénes deben estar coordinados en el abordaje multidisciplinar de una lesión?",
+        "¿Cuáles son los niveles de estructura a trabajar en el Return to Play según Lago y Casais?"
+      ],
+      "related_terms": [
+        "abordaje",
+        "psicológico",
+        "equipo",
+        "multidisciplinar",
+        "tiempos",
+        "estimados"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables de carga, la sinergia ondulante y la inclusión del caos y la incertidumbre en los estímulos.",
+      "context_after": "El ponente avanza a especificar cuáles son los contenidos condicionales a tratar: fuerza, resistencia, coordinación y estabilidad."
+    },
+    {
+      "id": "WEBVTT-2-004",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:09:25",
+      "end_timestamp": "00:11:01",
+      "start_seconds": 565,
+      "end_seconds": 661,
+      "duration_seconds": 96,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=565",
+      "title": "Progresión de contenidos condicionales de fuerza y estabilidad",
+      "summary": "Se abordan los contenidos de fuerza, resistencia, coordinación y estabilidad en la lesión. La progresión física va desde la marcha hasta métricas complejas: contracciones isométricas, concéntricas, CEA (ciclo estiramiento-acortamiento), excéntricos y finalmente pliometría y estabilidad dinámica.",
+      "literal_quote": "Y como vemos en la fuerza, desde algo más estructural e isométrico, pasamos a algo más concéntrico. Atendemos al CEA, al ciclo estiramiento-acortamiento, incorporamos excéntricos básicos...",
+      "full_transcript": "Luego, contenidos condicionales, que trabajamos en fuerza, que trabajamos en la estabilidad, que trabajamos en resistencia y que trabajamos en coordinación... algo sencillo como a nivel educacional, cuándo reeducamos la marcha, si ha sido una lesión que nos ha limitado esto... Cómo reeducamos el trote, la flexibilidad... Y como vemos en la fuerza, desde algo más estructural e isométrico, pasamos a algo más concéntrico. Atendemos al CEA, al ciclo estiramiento-acortamiento, incorporamos excéntricos básicos, excéntricos específicos, que eso entenderemos que es un poco la complejidad y la demanda neuromuscular... Y luego la pliometría, progresión de impactos, los planos también me interesan, cómo va a actuar dependiendo de la lesión, un plano sagital, un plano coronal o un plano transversal... Al igual que la estabilidad también, bipodal, unipodal, y luego empezar a meter el DRS como sistema de estabilidad dinámica rotacional, perturbaciones y fluctuaciones.",
+      "keywords": [
+        "progresion-fuerza",
+        "cea",
+        "excentricos",
+        "pliometria",
+        "drs",
+        "estabilidad"
+      ],
+      "entities": [
+        "DRS"
+      ],
+      "topics": [
+        "Metodología",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se deben progresar los ejercicios de fuerza en una readaptación deportiva?",
+        "¿En qué momento se reeduca la marcha y el trote en el proceso de RTP?",
+        "¿Qué sistemas se utilizan para trabajar la estabilidad dinámica rotacional?"
+      ],
+      "related_terms": [
+        "contenidos",
+        "condicionales",
+        "ciclo",
+        "estiramiento-acortamiento",
+        "estabilidad",
+        "dinámica",
+        "rotacional"
+      ],
+      "relevance_score": 4,
+      "context_before": "Consideraciones acerca de la comunicación, los objetivos multidisciplinares y el apartado psicológico del atleta.",
+      "context_after": "Se cambia el foco desde los aspectos físicos condicionales puros hacia la inclusión de los elementos técnico-tácticos y el balón."
+    },
+    {
+      "id": "WEBVTT-2-005",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:11:01",
+      "end_timestamp": "00:14:03",
+      "start_seconds": 661,
+      "end_seconds": 843,
+      "duration_seconds": 182,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=661",
+      "title": "Incorporación progresiva de contenidos técnico-tácticos",
+      "summary": "Para acercar al jugador a la competición, se debe incorporar el balón y tareas tácticas paulatinamente. Se inicia con acciones cerradas, añadiendo complejidad progresiva (regates, asociaciones con oponentes) hasta llegar a roles específicos dentro del modelo de juego colectivo.",
+      "literal_quote": "En la fase tres o fase cuatro, entiendo que estos contenidos técnico-tácticos se van a ir incorporando más a lo que luego va a pasar en esta última fase en la que se va incorporando al grupo.",
+      "full_transcript": "Por último, en esta parte de programación, los contenidos específicos del deporte... Cuándo incorporaríamos el balón, si incorporamos el qué balón, de qué manera, si es lineal, si es combinado, si es paralelo con giros, si el control del balón o las recepciones son con la cabeza, con el pecho, con el muslo, luego golpeos de empeine exterior... Si son pases cortos, desde luego media distancia, que va a actuar más la estructura neuromuscular. Las asociaciones básicas, con el pase, con el control, con el juego, con paredes. Y luego, como vemos en el desarrollo, en la parte de fase tres, como reentrenamiento... las conducciones sin oposición pueden pasar a ser con oposición, con complementos pasivos... Regates indirectos o directos... Y luego también toda esa parte técnico-táctica en el que el individuo empieza... cómo vamos a intentar meter el regate, controles, golpeos con progresión en el juego... va a depender del posicionamiento en el campo del jugador... Una integración más adaptada como juegos de posición... y situaciones tácticas totales en las que, dentro de la estructura que trabaje el míster, podemos incorporarlo... Entonces, todo esto me sirve para ir programando y planificando mis tareas.",
+      "keywords": [
+        "contenidos-especificos",
+        "tecnico-tacticos",
+        "incorporacion-balon",
+        "fase-tres",
+        "fase-cuatro",
+        "juegos-de-posicion"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica la incorporación progresiva del balón en la readaptación?",
+        "¿Qué progresión se sigue en las conducciones y regates durante la fase de reentrenamiento?",
+        "¿De qué manera se integra táctica y condicionalmente al jugador lesionado en los trabajos del míster?"
+      ],
+      "related_terms": [
+        "contenidos",
+        "técnico-tácticos",
+        "asociaciones",
+        "básicas",
+        "integración",
+        "adaptada"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de la progresión desde el enfoque físico condicional (isométrico a pliometría).",
+      "context_after": "Se empieza a explicar cómo la gravedad o duración de la lesión afecta el diseño y cronología del proceso completo."
+    },
+    {
+      "id": "WEBVTT-2-006",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:14:04",
+      "end_timestamp": "00:18:22",
+      "start_seconds": 844,
+      "end_seconds": 1102,
+      "duration_seconds": 258,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=844",
+      "title": "Gestión del proceso según la duración de la lesión",
+      "summary": "La cronología del RTP depende de la gravedad de la lesión. Las de corta duración (<14 días) buscan mantenimiento condicional. Las medias (2-4 semanas, ej. musculares) buscan mantenimiento y optimización progresiva. Las de larga duración (>28 días) requieren restablecer atrofias y exigen un manejo profundo de la faceta psicológica.",
+      "literal_quote": "En esa periodización vamos a tener que atender más específico, con mucho más tiempo, en consolidar esos contenidos y la respuesta psicológica, pérdida de miedo y pérdida incluso de adherencia también a nivel anatómico.",
+      "full_transcript": "A la hora de la cronología de la lesión, ¿de qué depende? Depende de la gravedad de esa lesión... Entonces, para mí, dependiendo de si es una lesión que nos va a limitar cero a 14 días, la voy a llamar lesión de corta duración y en la que voy a estar más focalizado en el mantenimiento a nivel condicional que en optimizarlo. Imaginemos un esguince de tobillo... Hay una alta deportiva que es igual a la alta competitiva... Después, en la lesión de media duración, más entre dos y cuatro semanas, que normalmente son las musculares... Aquí sí que hay una pérdida a nivel condicional, no mucho, pero hay una pérdida... Tenemos que entender que la integración al grupo debe ser progresiva, con lo cual la alta competitiva no va a ser a la misma fecha que la alta deportiva... Entonces, el mantenimiento y la optimización las voy a poner como prioridad ambas... Y por último, una lesión de larga duración, más de 28 días, como puede ser un complejo articular, como menisco, rodilla... Aquí entendemos que ya voy a intentar trabajar de manera más optimizada... porque van a haber unas atrofias... En esa periodización vamos a tener que atender más específico, con mucho más tiempo, en consolidar esos contenidos y la respuesta psicológica, pérdida de miedo y pérdida incluso de adherencia también a nivel anatómico. Y luego, que los tiempos aquí van a variar mucho más.",
+      "keywords": [
+        "corta-duracion",
+        "media-duracion",
+        "larga-duracion",
+        "mantenimiento-condicional",
+        "optimizacion",
+        "alta-deportiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias en la planificación de lesiones de corta, media y larga duración?",
+        "¿Cuándo coincide el alta deportiva con el alta competitiva según el autor?",
+        "¿Qué desafíos psicológicos y fisiológicos presentan las lesiones de más de 28 días?"
+      ],
+      "related_terms": [
+        "gravedad",
+        "de",
+        "lesión",
+        "cronología",
+        "alta",
+        "competitiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fases tácticas finales y simulación de escenarios técnicos.",
+      "context_after": "Se presenta el Acute Chronic Work Ratio y los tiempos metabólicos de recuperación celular dependiendo del esfuerzo."
+    },
+    {
+      "id": "WEBVTT-2-007",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:18:22",
+      "end_timestamp": "00:19:57",
+      "start_seconds": 1102,
+      "end_seconds": 1197,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1102",
+      "title": "Tiempos biológicos de reparación y Acute Chronic Work Ratio",
+      "summary": "Basándose en los modelos de Tim Gabbett, se analizan los tiempos de recuperación según el tipo de carga mecánica. Un estímulo isométrico requiere 4-8 horas, mientras que un estrés excéntrico elevado (sprints, nórdicos) requiere entre 48 y 72 horas.",
+      "literal_quote": "Necesitamos entender que esos tiempos de reparación y adaptación en esos tejidos implican procesos de entrenamiento y readaptación a cada uno, que son individuales y precisos para cada ritmo biológico.",
+      "full_transcript": "En esta siguiente diapositiva voy a entender la cronología de la lesión y quiero ser breve también con Ting-Avet (Tim Gabbett), que al final este artículo tiene mucha fuerza... porque establece este acute chronic work ratio, pero es verdad que tiene sus limitaciones también... Tenemos que entender cuándo tiene sus limitaciones, pero para entender el complejo de cómo diferentes tejidos responden a la tolerancia a la carga y los tiempos de recuperación pueden estar limitados por esto... Aquí limita en el eje vertical menor de 30 minutos, 4, 8, 24, 48 y 72 horas, en base a cuánto tiempo necesitan diferentes tejidos para recuperarse de una sesión que hagamos intensa. Si hacemos una sesión isométrica máxima, dependiendo del volumen, si es alto, necesitaremos entre 4 y 8 horas para recuperarnos. Y al contrario, si hacemos un excéntrico muy alto como los sprints, nórdicos o poleas, y el jugador encima no está familiarizado, podríamos necesitar entre 48 y 72 horas o incluso más de 72 horas. Entonces, necesitamos entender que esos tiempos de reparación y adaptación en esos tejidos implican procesos de entrenamiento y readaptación a cada uno, que son individuales y precisos para cada ritmo biológico.",
+      "keywords": [
+        "tim-gabbett",
+        "acute-chronic-work-ratio",
+        "tiempos-recuperacion",
+        "carga-isometrica",
+        "carga-excentrica",
+        "ritmo-biologico"
+      ],
+      "entities": [
+        "Tim Gabbett (Ting-Avet)"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué dice el artículo de Tim Gabbett sobre los tiempos de recuperación de los tejidos?",
+        "¿Cuántas horas de recuperación demanda un ejercicio excéntrico máximo en comparación con uno isométrico?",
+        "¿Por qué es importante el ritmo biológico en la readaptación celular tras la carga?"
+      ],
+      "related_terms": [
+        "acute",
+        "chronic",
+        "work",
+        "ratio",
+        "tolerancia",
+        "a",
+        "la",
+        "carga",
+        "tiempos",
+        "de",
+        "reparación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo las lesiones largas exigen una readaptación más metódica y pausada.",
+      "context_after": "Se pasa a detallar las baterías de test utilizadas tanto en gimnasio como en campo para evaluar esta evolución."
+    },
+    {
+      "id": "WEBVTT-2-008",
+      "video_title": "S&C Coaching and Performance Systems in Women's Football",
+      "speaker": "Yeray Abreu",
+      "start_timestamp": "00:19:57",
+      "end_timestamp": "00:24:35",
+      "start_seconds": 1197,
+      "end_seconds": 1475,
+      "duration_seconds": 278,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1197",
+      "title": "Evaluación con test de campo cualitativos y la tarea como unidad final",
+      "summary": "Para asegurar la toma de decisiones, es imprescindible el uso de datos ('sin datos somos alguien con una opinión'). Se utilizan baterías en gimnasio (hop tests, perfil fuerza-velocidad) y en campo (I-test, T-test, W-test, L-run). Se evalúa cualitativamente y se observa el impacto de la fatiga antes de llevar al deportista a velocidades máximas.",
+      "literal_quote": "Sin datos somos una persona con una opinión, una persona cualquiera que tiene una opinión.",
+      "full_transcript": "Por otro lado, a la hora de establecer esta fase de criterios de progresión, aquí ya cité un poquito antes cómo pasamos del gimnasio al campo. Pero voy a hablar un poquito más sobre qué test o que no son exactamente estos test los que tenemos que hacer sí o sí, pero sí que tenemos que tener una batería de test que nos ayude a nosotros tener datos, porque sin datos somos una persona con una opinión... Entonces, desde el gimnasio podemos ver... ankle test como el balance, luego ejercicios más de fuerza como el single leg squat o los hop tests... Igual que el perfil fuerza-velocidad... Adaptar esa estructura a las demandas del entrenamiento y luego pasar a test en campo también. El I-test como cambios de dirección 45 grados, el T-test como cambios de dirección 90 grados, el W-test como cambios de dirección más de 90 grados y con capacidad de repetir sprines o más bien high speed running... pero en una lesión no podemos esprintar hasta pasado el tiempo. Entonces, yo utilizo carreras que no son máximas para ver cómo progresa a nivel cualitativo... el I-test, T-test, W-test y el L-run son test cualitativos. No los voy a hacer al máximo. Y el L-run, que lo suelo utilizar, por ejemplo, en el córner en el campo, en el que siempre las líneas que se limitan del lanzador son 9,15... hago un test que no está validado, pero a mí me sirve... Y así también puedo ver la tolerancia a la fatiga. Si tiene un menor de un 10 % de decrecimiento de esta velocidad, podemos ver que el jugador todavía no está capacitado para repetir sprints. Así después entro en la simulación del 30/15... En cuanto a la programación de la evolución, tenemos que entender, como hablé del razonamiento clínico al principio, que la tarea que nosotros hagamos con el jugador no puede ser ninguna otra que la que bajo nuestro criterio... hayamos decidido utilizarla... Entonces, la tarea tiene que ser la unidad final de nuestro razonamiento clínico.",
+      "keywords": [
+        "test-campo",
+        "datos",
+        "i-test",
+        "t-test",
+        "w-test",
+        "l-run",
+        "razonamiento-clinico",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se deben utilizar test cualitativos antes de los sprints máximos en la readaptación?",
+        "¿Qué es el L-run y cómo lo utiliza el ponente en su proceso de evaluación?",
+        "¿Cuál debe ser el decrecimiento de velocidad máximo aceptable para considerar que un jugador tolera la fatiga?"
+      ],
+      "related_terms": [
+        "batería",
+        "de",
+        "test",
+        "high",
+        "speed",
+        "running",
+        "razonamiento",
+        "clínico",
+        "tolerancia",
+        "a",
+        "la",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del Acute Chronic Work Ratio y los ritmos de recuperación biológica.",
+      "context_after": "Se introduce brevemente el control de carga y la predicción del futuro, dejando el módulo para el siguiente segmento."
+    }
+  ]
+}
