@@ -1,0 +1,250 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+    "speaker": "Tomás Freitas",
+    "total_duration": "00:17:01",
+    "total_duration_seconds": 1021,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:20",
+      "start_seconds": 0,
+      "end_seconds": 80,
+      "duration_seconds": 80,
+      "timestamp_url": "?t=0",
+      "title": "Aspectos técnicos del cambio de dirección: cuerpo completo y roles de apoyo",
+      "summary": "Las habilidades multidireccionales no dependen exclusivamente del tren inferior, sino de una coordinación de todo el cuerpo. Es clave distinguir el rol del 'penúltimo apoyo' (frenado) frente al 'último apoyo' (aceleración), y considerar la acción fundamental del tronco y la pelvis.",
+      "literal_quote": "No podemos entender la acción de cambio de dirección como una acción solo del tren inferior, sino que es una acción de todo el cuerpo.",
+      "full_transcript": "En esta siguiente sección vamos a hablar específicamente sobre aspectos técnicos de la capacidad de cambio de dirección y qué factores influyen en la velocidad multidireccional de nuestros jugadores. Lo primero que hay que tener presente cuando hablamos de factores técnicos es que la capacidad o las habilidades de cambio de dirección multidireccionales... no son solo del tren inferior, sino que son acciones de todo el cuerpo, y en que las distintas piernas tienen funciones diferentes en la acción de cambio de dirección. Por ejemplo... podemos identificar en la literatura términos como la plant leg o el penúltimo foot contact, el penúltimo apoyo, que básicamente consiste en la pierna que desacelera el cuerpo y que empieza la maniobra de cambio de dirección. Por otro lado, tenemos el apoyo final, el final foot contact, el push off leg, que es la pierna que inicia la aceleración hacia la nueva dirección. Pero otro aspecto fundamental... es la acción del tronco, de la pelvis y las caderas. No podemos entender la acción de cambio de dirección como una acción solo del tren inferior, sino que es una acción de todo el cuerpo. Y es muy importante observar el patrón de movimiento desde una perspectiva de todo el cuerpo, holística y global.",
+      "keywords": [
+        "tecnica",
+        "cambio-direccion",
+        "penultimo-apoyo",
+        "ultimo-apoyo",
+        "desaceleracion",
+        "tronco",
+        "multidireccional"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué función tiene el penúltimo apoyo en un cambio de dirección?",
+        "¿Por qué es importante el tronco en las acciones multidireccionales?",
+        "¿Cómo se dividen las funciones de las piernas al cambiar de dirección?"
+      ],
+      "related_terms": [
+        "penúltimo foot contact",
+        "final foot contact",
+        "push off leg",
+        "acción del tronco"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la sección sobre los aspectos técnicos y biomecánicos del cambio de dirección.",
+      "context_after": "Se procede a analizar estudios científicos para identificar qué variables biomecánicas determinan el éxito en estos giros."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "01:21",
+      "end_timestamp": "05:59",
+      "start_seconds": 81,
+      "end_seconds": 359,
+      "duration_seconds": 278,
+      "timestamp_url": "?t=81",
+      "title": "Biomecánica del COD: la importancia del penúltimo apoyo para frenar",
+      "summary": "Estudios sobre giros de 75 y 180 grados demuestran que los jugadores más rápidos desaceleran eficientemente usando el penúltimo apoyo (mayor fuerza de frenado horizontal). Al lograr frenar antes, el último apoyo asume una función puramente propulsiva, reduciendo su tiempo de contacto con el suelo.",
+      "literal_quote": "Los jugadores más rápidos eran los que conseguían utilizar el penúltimo apoyo para desacelerar el cuerpo de forma más eficiente... el último apoyo ya no tiene tanta necesidad de desacelerar el cuerpo previo a acelerar.",
+      "full_transcript": "En este estudio específico de Marshall... analizaron una acción de cambio de dirección de 75 grados... podríamos decir que serían variables asociadas con el control neuromuscular de la pelvis y el control del torso, y variables asociadas con la potencia desarrollada a nivel del tobillo... Otro estudio muy interesante de Tom Dos Santos y su equipo, en que básicamente comparaban jugadores rápidos versus lentos [en acciones de 180 grados]... la principal variable que encontraron los autores es que los jugadores más rápidos aplicaban una mayor HBF, que es la horizontal braking force... en el penúltimo apoyo comparado con los jugadores más lentos. Es decir, los jugadores más rápidos eran los que conseguían utilizar el penúltimo apoyo para desacelerar el cuerpo de forma más eficiente. [...] Si el jugador consigue desacelerar previamente, el último apoyo tiene una función bastante más propulsiva y menor tiempo de contacto... los jugadores más lentos presentaban fuerzas horizontales de frenado más altas en el penúltimo apoyo. Y eso se debe a que una vez que los jugadores más lentos no conseguían frenar previamente con el penúltimo apoyo... solo le queda otra que frenar con el último apoyo. [...] Una característica fundamental de la capacidad de cambio de dirección de 180 grados es la capacidad para desacelerar sobre el antepenúltimo y el penúltimo apoyo, garantizando así que la acción del último apoyo es principalmente propulsiva.",
+      "keywords": [
+        "biomecanica",
+        "frenado",
+        "penultimo-apoyo",
+        "horizontal-braking-force",
+        "tiempo-contacto",
+        "desaceleracion",
+        "propulsion"
+      ],
+      "entities": [
+        "Marshall",
+        "Tom Dos Santos"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué hacen los jugadores rápidos en el penúltimo apoyo al cambiar de dirección?",
+        "¿Qué es la Horizontal Braking Force (HBF)?",
+        "¿Por qué los jugadores lentos tienen más tiempo de contacto en el último apoyo?"
+      ],
+      "related_terms": [
+        "horizontal braking force",
+        "penúltimo apoyo",
+        "tiempo de contacto",
+        "acción propulsiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las habilidades multidireccionales no dependen exclusivamente del tren inferior, sino de una coordinación de todo el cuerpo. Es clave distinguir el rol del 'penúltimo apoyo' (frenado) frente al 'último apoyo' (aceleración), y considerar la acción fundamental del tronco y la pelvis.",
+      "context_after": "Se presenta un caso práctico en vídeo mostrando los errores posturales de un jugador que no frena adecuadamente y cómo corregirlos."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "05:59",
+      "end_timestamp": "10:45",
+      "start_seconds": 359,
+      "end_seconds": 645,
+      "duration_seconds": 286,
+      "timestamp_url": "?t=359",
+      "title": "Análisis cinemático y corrección del tronco en el cambio de dirección",
+      "summary": "Los deportistas veloces muestran mayor flexión de rodilla, cadera y tobillo, así como una marcada inclinación del tronco hacia la nueva dirección. En un caso práctico con un jugador alto, se observa que no inclinar el tronco (hombros nivelados) impide una proyección horizontal eficiente, perdiendo la ventaja mecánica de los extensores de cadera.",
+      "literal_quote": "Para eso dimos la indicación de bajar el hombro hacia la nueva dirección... ya que eso facilita la desaceleración con el apoyo previo, facilita también una mayor proyección horizontal del centro de masa y mayor empuje horizontal propulsivo.",
+      "full_transcript": "Observan también que los jugadores más rápidos... presentaban mayor ángulo de flexión de rodilla y de cadera y también mayor ángulo y dorso de flexión del tobillo. Presentaban una mayor inclinación del tronco hacia la nueva dirección de movimiento... Aquí tenemos un vídeo de un jugador que quiero que observemos. [...] Vemos aquí cómo el jugador viene, no consigue desacelerar con el penúltimo apoyo, lo que significa que el último apoyo tiene una acción de desaceleración, cuando su principal función debería ser acelerar. Vemos también que tiene muy poco control del tronco. Cabe destacar que este es un jugador bastante alto... Lo que le solicitamos al jugador fue que intentara lo antes posible orientar el tronco hacia la nueva dirección... principalmente que tratara de bajar o inclinar el tronco hacia la nueva dirección. Para eso dimos la indicación de bajar el hombro hacia la nueva dirección. Si ahora nos fijamos en esta imagen... vemos que aquí tenemos una línea de los hombros en que el hombro más bajo es del hombro del lado del momento inicial, lo que significa que no tiene el tronco inclinado... enfocamos nuestro feedback precisamente en esta cuestión de intentar salir lo más rápido posible en la nueva dirección y para eso inclinar el tronco... ya que eso facilita la desaceleración con el apoyo previo, facilita también una mayor proyección horizontal del centro de masa y mayor empuje horizontal propulsivo del último apoyo.",
+      "keywords": [
+        "cinematica",
+        "inclinacion-tronco",
+        "centro-de-masa",
+        "correccion",
+        "feedback",
+        "flexion",
+        "extensores-cadera"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué postura adoptan los jugadores rápidos al cambiar de dirección?",
+        "¿Por qué es importante inclinar el tronco hacia la nueva dirección de movimiento?",
+        "¿Qué 'cue' o indicación se usa para corregir la postura del tronco?"
+      ],
+      "related_terms": [
+        "inclinación del tronco",
+        "proyección horizontal",
+        "centro de masa",
+        "flexión de rodilla y cadera"
+      ],
+      "relevance_score": 5,
+      "context_before": "Estudios sobre giros de 75 y 180 grados demuestran que los jugadores más rápidos desaceleran eficientemente usando el penúltimo apoyo (mayor fuerza de frenado horizontal). Al lograr frenar antes, el último apoyo asume una función puramente propulsiva, reduciendo su tiempo de contacto con el suelo.",
+      "context_after": "Habiendo visto la ejecución práctica, se teorizan las cuatro grandes fases del movimiento y cómo la tecnología futura las medirá."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "10:45",
+      "end_timestamp": "14:05",
+      "start_seconds": 645,
+      "end_seconds": 845,
+      "duration_seconds": 200,
+      "timestamp_url": "?t=645",
+      "title": "Fases del cambio de dirección y el futuro de su evaluación tecnológica",
+      "summary": "El cambio de dirección consta de cuatro fases: aceleración inicial, aceleración negativa (desaceleración), el cambio en sí (absorción y empuje), y reaceleración. El futuro de la evaluación pasa por usar dispositivos de resistencia motorizada (similares a encoders de cuerpo completo) para perfilar con precisión qué subfase específica debe mejorar cada deportista.",
+      "literal_quote": "Yo entiendo que el futuro de la evaluación de las capacidades multidireccionales pasará por esto, por conseguir obtener datos de... curvas de velocidad, tiempo... de tal manera que yo consiga claramente identificar la fase de aceleración, la fase de desaceleración, la fase de cambio de dirección y la fase de reaceleración.",
+      "full_transcript": "Si pensamos ahora en la técnica del cambio de dirección, podemos identificar, y se explica en la literatura, cuatro fases principales. Tenemos, por un lado, la aceleración inicial positiva, la desaceleración o aceleración negativa. En realidad no existe desaceleración, sino que a nivel biomecánico sería más correcto hablar de la aceleración negativa. Luego una tercera fase, que es el cambio de dirección en sí mismo, que consiste en dos subfases: la fase de wide absorption sin el push-off... y una cuarta fase, que sería la fase de reaceleración. Yo entiendo que el futuro de la evaluación de las capacidades multidireccionales pasará por esto, por conseguir obtener datos de... curvas de velocidad, tiempo... de tal manera que yo consiga claramente identificar la fase de aceleración, la fase de desaceleración, la fase de cambio de dirección y la fase de reaceleración. [...] Por un lado, porque este tipo de equipo de tecnología, estos 'devices' motorizados que te permiten, básicamente como si fuera un encoder lineal de todo el cuerpo... utilizan una cuerda que está anclada al centro de masa del jugador y que le permite determinar exactamente la velocidad de desplazamiento... nos permite obtener mucha más información acerca de la capacidad de cambio de direcciones. La conclusión de estos estudios es que la gran mayoría de las variables presentan valores de reproducibilidad buenos, lo que nos permitiría utilizar este tipo de herramientas para conseguir hilar más fino aún en la evaluación.",
+      "keywords": [
+        "fases-cambio-direccion",
+        "tecnologia",
+        "resistencia-motorizada",
+        "encoder",
+        "desaceleracion",
+        "reaceleracion",
+        "curva-velocidad-tiempo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro fases del cambio de dirección?",
+        "¿Qué tecnología marcará el futuro en la evaluación de agilidad?",
+        "¿Cómo funciona un dispositivo de resistencia motorizada para evaluar a los jugadores?"
+      ],
+      "related_terms": [
+        "aceleración negativa",
+        "fase de reaceleración",
+        "dispositivos motorizados",
+        "curvas de velocidad-tiempo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los deportistas veloces muestran mayor flexión de rodilla, cadera y tobillo, así como una marcada inclinación del tronco hacia la nueva dirección. En un caso práctico con un jugador alto, se observa que no inclinar el tronco (hombros nivelados) impide una proyección horizontal eficiente, perdiendo la ventaja mecánica de los extensores de cadera.",
+      "context_after": "Se concluye la sección con un resumen general aplicable a cualquier ángulo de cambio de dirección, sintetizando los conceptos clave."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "14:05",
+      "end_timestamp": "17:01",
+      "start_seconds": 845,
+      "end_seconds": 1021,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=845",
+      "title": "Aspectos críticos universales para optimizar el cambio de dirección",
+      "summary": "Aunque la técnica es específica del ángulo de giro, existen fundamentos universales: bajar el centro de masas previamente, desacelerar de forma temprana (penúltimo apoyo), inclinar el tronco, mantener extremidades cerca del cuerpo, orientar articulaciones a la nueva dirección y proyectar el centro de masas por delante del pie de despegue.",
+      "literal_quote": "Hemos dicho antes que la capacidad de cambio de dirección es específica del tipo de maniobra. Sin embargo, si quisiéramos, podríamos intentar describir algunos aspectos críticos que son comunes a muchas de las acciones.",
+      "full_transcript": "Hemos dicho antes que la capacidad de cambio de dirección es específica del tipo de maniobra. Sin embargo, si quisiéramos, podríamos intentar describir algunos aspectos críticos que son comunes a muchas de las acciones de cambio de dirección. Por ejemplo, tendríamos en primer lugar bajar el centro de masas antes de realizar el cambio de dirección. Es decir, que el jugador sea capaz de flexionar las rodillas, las caderas y estar más bajo, más cerca del suelo. [...] Por otro lado, hemos dicho ya antes, desacelerar temprano entre, o sobre el antepenúltimo o el penúltimo apoyo. También intentar que haya un desplazamiento del centro de masa en la nueva dirección del sprint. Eso se puede hacer, por un lado, utilizando la inclinación del tronco... Luego, considerar que tanto las piernas como los brazos están más cerca del cuerpo, eso facilita la acción de cambio de dirección. Tener también el centro de masa por delante de la pierna de 'take-off'... intentamos que haya un desplazamiento horizontal del centro de masa al salir del cambio de dirección. Y, por otro lado, tendríamos entonces la extensión completa de la pierna de 'take-off'. [...] Si ahora paramos y observamos este vídeo... Vemos aquí la acción, cómo la acción de cambio de dirección es la que le permite generar la ventaja, que luego termina debajo de la canasta. [...] Orientación del centro de masa por delante de la pierna de 'take-off'... el tronco inclinado hacia la nueva dirección y orientar lo antes posible las articulaciones hacia la nueva dirección, de tal manera que el primer paso sea lo más similar a una aceleración lineal posible.",
+      "keywords": [
+        "aspectos-criticos",
+        "centro-de-masas",
+        "tecnica-universal",
+        "desaceleracion-temprana",
+        "orientacion-articular",
+        "take-off"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Resumen"
+      ],
+      "search_questions": [
+        "¿Cuáles son los aspectos críticos comunes a todos los cambios de dirección?",
+        "¿Por qué es clave orientar las articulaciones hacia la nueva dirección?",
+        "¿Dónde debe estar el centro de masa respecto a la pierna de despegue?"
+      ],
+      "related_terms": [
+        "centro de masas",
+        "pierna de take-off",
+        "desaceleración temprana",
+        "desplazamiento horizontal"
+      ],
+      "relevance_score": 5,
+      "context_before": "El cambio de dirección consta de cuatro fases: aceleración inicial, aceleración negativa (desaceleración), el cambio en sí (absorción y empuje), y reaceleración. El futuro de la evaluación pasa por usar dispositivos de resistencia motorizada (similares a encoders de cuerpo completo) para perfilar con precisión qué subfase específica debe mejorar cada deportista.",
+      "context_after": "Con esta síntesis en vídeo de baloncesto se da por finalizada la sección teórica para transicionar al bloque de diseño del entrenamiento."
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+    "speaker": "Tomás Freitas",
+    "total_duration": "00:19:32",
+    "total_duration_seconds": 1172,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:28",
+      "start_seconds": 1,
+      "end_seconds": 148,
+      "duration_seconds": 147,
+      "timestamp_url": "?t=1",
+      "title": "Introducción y propósito del webinar",
+      "summary": "Tomás Freitas presenta el webinar centrado en la velocidad multidireccional, abordando las últimas tendencias en evaluación y entrenamiento. Introduce su perfil y experiencia profesional como preparador físico e investigador.",
+      "literal_quote": "Hoy vamos a hablar específicamente sobre multidirectional speed, velocidad multidireccional, y vamos a tratar de abordar las últimas tendencias a nivel de evaluación y entrenamiento.",
+      "full_transcript": "Hola a todos. Bienvenidos a una sesión más del Performance Science Specialist para NSCA Spain. Hoy vamos a hablar específicamente sobre multidirectional speed, velocidad multidireccional, y vamos a tratar de abordar las últimas tendencias a nivel de evaluación y entrenamiento. Empiezo por presentarme. Mi nombre es Tomás Freitas. Soy doctor en Ciencias del Deporte, certificado en NSCA con el CSCS. Actualmente soy el jefe o el responsable del área de preparación física de Luca Muse Club de Baloncesto, de la parte de la cantera, de todos los equipos, desde las categorías de formación hasta el equipo 22. Además, soy investigador y profesor en la Universidad Católica de Mustang y en la UCAM, específicamente en el Centro de Investigación en Alto Rendimiento Deportivo, y también colaborador del Núcleo de Alto Rendimiento Deportivo de São Paulo en Brasil. Para el índice de hoy, vamos a empezar por hablar primero conceptualmente sobre la diferencia entre agilidad y COD speed. Luego vamos a hablar sobre qué factores neuromusculares influyen en la velocidad multidireccional...",
+      "keywords": [
+        "multidirectional-speed",
+        "velocidad-multidireccional",
+        "evaluacion",
+        "entrenamiento",
+        "nsca",
+        "introduccion"
+      ],
+      "entities": [
+        "Tomás Freitas",
+        "NSCA Spain",
+        "UCAM",
+        "Núcleo de Alto Rendimiento Deportivo de São Paulo"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Quién es Tomás Freitas y cuál es su experiencia?",
+        "¿Cuál es el propósito del webinar sobre velocidad multidireccional?",
+        "¿Qué temas se abordan en el índice de velocidad multidireccional?"
+      ],
+      "related_terms": [
+        "multidirectional speed",
+        "evaluación",
+        "entrenamiento",
+        "preparación física"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se procede a analizar mediante vídeos la importancia de la velocidad multidireccional en situaciones reales de partido en deportes como fútbol y baloncesto."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "02:28",
+      "end_timestamp": "04:28",
+      "start_seconds": 148,
+      "end_seconds": 268,
+      "duration_seconds": 120,
+      "timestamp_url": "?t=148",
+      "title": "Importancia de la velocidad multidireccional en deportes colectivos",
+      "summary": "Se destaca la relevancia del cambio de dirección en deportes de equipo como fútbol, rugby y baloncesto. Estas acciones no solo son altamente frecuentes, sino que ocurren sistemáticamente en las jugadas más determinantes y previas a marcar puntos.",
+      "literal_quote": "No solo ocurren de forma muy frecuente, sino que ocurren en los momentos principales determinantes del partido.",
+      "full_transcript": "Para empezar, vamos a hablar sobre por qué es importante hablar o estudiar la velocidad multidireccional en deportes colectivos. Fijémonos en este vídeo del jugador que está destacado con una flechita amarilla y veamos cuáles son sus patrones de movimiento en la jugada justo previa a marcar el gol. Vemos que no es una acción lineal, sino que es una acción que implica movimientos y desplazamientos en diferentes direcciones. Por lo tanto, no hay duda de que en deportes como el fútbol, esta velocidad multidireccional es fundamental, pero ya no solo en el fútbol, sino que si miramos otros deportes como el baloncesto, vemos que igualmente muchas acciones previas a las fases más determinantes del partido, como la canasta, implican un cambio de la dirección y de la velocidad del movimiento. [...] En baloncesto, los datos de la literatura nos indican que se pueden realizar más de 13 acciones de cambio de dirección por minuto de competición, y en el fútbol, investigaciones demuestran que un jugador puede hacer más de 700 cambios de dirección durante un único partido.",
+      "keywords": [
+        "deportes-colectivos",
+        "frecuencia",
+        "cambio-direccion",
+        "determinante",
+        "futbol",
+        "baloncesto",
+        "rugby"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la velocidad multidireccional en los deportes de equipo?",
+        "¿Cuántos cambios de dirección ocurren en un partido de fútbol o baloncesto?",
+        "¿En qué momentos del partido ocurren los cambios de dirección?"
+      ],
+      "related_terms": [
+        "deportes colectivos",
+        "cambios de dirección",
+        "frecuencia",
+        "acciones determinantes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Tomás Freitas presenta el webinar centrado en la velocidad multidireccional, abordando las últimas tendencias en evaluación y entrenamiento. Introduce su perfil y experiencia profesional como preparador físico e investigador.",
+      "context_after": "Tras evidenciar la importancia visual y estadística de los cambios de dirección, se procede a diferenciar los conceptos técnicos de agilidad y COD speed."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "04:28",
+      "end_timestamp": "06:42",
+      "start_seconds": 268,
+      "end_seconds": 402,
+      "duration_seconds": 134,
+      "timestamp_url": "?t=268",
+      "title": "Diferencia conceptual entre agilidad y Change of Direction (COD) speed",
+      "summary": "Se clarifica que la agilidad y el COD speed son habilidades independientes. La agilidad requiere un estímulo externo (incertidumbre y toma de decisión), mientras que el COD speed se refiere a acciones preplanificadas sobre un circuito preestablecido.",
+      "literal_quote": "La velocidad de cambio de dirección es el conjunto de 'skills' y habilidades que son necesarias para cambiar la dirección del movimiento, la velocidad o el modo, y aquí no nos estamos refiriendo a acciones que sean en respuesta a estímulos externos, sino que son acciones preplanificadas.",
+      "full_transcript": "Cuando hablamos de la capacidad de cambio de dirección y agilidad, muchas veces se utiliza de forma indistinta, y son dos conceptos que en realidad son dos \"skills\" independientes, lo que implica que tienen distintas implicaciones tanto a nivel de entrenamiento como a nivel de evaluación. Si vamos al concepto, como agilidad se entiende un movimiento de todo el cuerpo que implica un cambio de dirección en respuesta a un estímulo externo. Este estímulo externo se puede considerar el movimiento del balón, el movimiento de un compañero de equipo o el movimiento de un opositor. [...] Ian Jeffreys lo define también como una habilidad específica del contexto y va un poco más allá en su definición en \"game speed\"... Por otro lado, cuando hablamos de change of direction speed o de la velocidad de cambio de dirección, estamos hablando del conjunto de \"skills\" y habilidades que son necesarias para cambiar la dirección del movimiento, la velocidad o el modo, y aquí no nos estamos refiriendo a acciones que sean en respuesta a estímulos externos, sino que son acciones preplanificadas, preplaneadas. Si yo, por ejemplo, coloco un conjunto de conos y pido al jugador que haga un sprint hacia adelante y cuando llegue al cono gire hacia la izquierda o hacia la derecha. No hay aquí incertidumbre, ningún estímulo externo.",
+      "keywords": [
+        "agilidad",
+        "cod-speed",
+        "incertidumbre",
+        "estimulo-externo",
+        "preplanificado",
+        "skills-independientes"
+      ],
+      "entities": [
+        "Ian Jeffreys"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre agilidad y velocidad de cambio de dirección?",
+        "¿Qué papel juega la incertidumbre en la agilidad?",
+        "¿Cómo se define el Change of Direction speed?"
+      ],
+      "related_terms": [
+        "agilidad",
+        "change of direction speed",
+        "toma de decisión",
+        "preplanificación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se destaca la relevancia del cambio de dirección en deportes de equipo como fútbol, rugby y baloncesto. Estas acciones no solo son altamente frecuentes, sino que ocurren sistemáticamente en las jugadas más determinantes y previas a marcar puntos.",
+      "context_after": "Se analiza por qué evaluar un movimiento cerrado y sin estímulo (COD speed) es relevante para el preparador físico a pesar de que el deporte real es de agilidad abierta."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "06:42",
+      "end_timestamp": "08:45",
+      "start_seconds": 402,
+      "end_seconds": 525,
+      "duration_seconds": 123,
+      "timestamp_url": "?t=402",
+      "title": "Justificación de la evaluación aislada del COD speed",
+      "summary": "Se establece un paralelismo entre la evaluación del COD speed y el test CMJ. Aunque las acciones preplanificadas no replican el juego real, son fundamentales para entender las bases fisiológicas, mecánicas y la capacidad neuromuscular del deportista para acelerar y desacelerar.",
+      "literal_quote": "No estamos tratando de replicar lo que ocurre en competición, sino que estamos tratando de entender algunas capacidades o las bases fisiológicas y mecánicas que explican por qué un jugador puede ser más o menos rápido.",
+      "full_transcript": "Entonces, ¿cómo de importante es el entrenamiento y la evaluación del COD speed de forma más aislada? Sophia Ninfios define y transmite esta idea de que el estudio del cambio de dirección de forma aislada es importante porque representa las bases fisiológicas y mecánicas que explican o que sustentan la capacidad de un determinado deportista para realizar acciones de aceleración y desaceleración en diferentes direcciones de forma consecutiva... Aquí me gusta dar un ejemplo. Si pensamos en el salto como contra movimiento, que es un salto que se realiza con las manos en las caderas... Todos nosotros utilizamos esto en nuestro día a día para evaluar las capacidades neuromusculares de nuestros jugadores. Sin embargo, no hemos visto nunca en un deporte colectivo, en una situación de competición, a un jugador saltar de la misma manera que salta en un CMJ. [...] Aquí deberíamos entender esta evaluación del cambio de dirección de forma aislada de la misma manera. No estamos tratando de replicar lo que ocurre en competición, sino que estamos tratando de entender algunas capacidades o las bases fisiológicas y mecánicas que explican por qué un jugador puede ser más o menos rápido.",
+      "keywords": [
+        "evaluacion-aislada",
+        "cmj",
+        "bases-fisiologicas",
+        "mecanica",
+        "aceleracion",
+        "desaceleracion"
+      ],
+      "entities": [
+        "Sophia Nimphius",
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué se evalúa el cambio de dirección de forma aislada sin estímulos?",
+        "¿Qué paralelismo existe entre evaluar un CMJ y el COD speed?",
+        "¿Qué nos dice el COD speed sobre la base mecánica del jugador?"
+      ],
+      "related_terms": [
+        "evaluación aislada",
+        "capacidad neuromuscular",
+        "bases fisiológicas",
+        "aceleración y desaceleración"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se clarifica que la agilidad y el COD speed son habilidades independientes. La agilidad requiere un estímulo externo (incertidumbre y toma de decisión), mientras que el COD speed se refiere a acciones preplanificadas sobre un circuito preestablecido.",
+      "context_after": "Una vez defendida su utilidad, se procede a analizar qué factores físicos y neuromusculares concretos inciden en el rendimiento del cambio de dirección aislado."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "08:45",
+      "end_timestamp": "10:53",
+      "start_seconds": 525,
+      "end_seconds": 653,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=525",
+      "title": "Factores neuromusculares determinantes: Sprint y Fuerza",
+      "summary": "La velocidad de cambio de dirección es una habilidad compleja influenciada por factores técnicos, antropométricos, velocidad de sprint y fuerza. Se evidencia que la máxima velocidad de sprint y la fuerza en todas sus manifestaciones (dinámica, isométrica, excéntrica y concéntrica) son los factores neuromusculares más influyentes.",
+      "literal_quote": "Cuanto mayor el nivel de fuerza, mayor el potencial del jugador para conseguir hacer una tarea de cambio de dirección en menos tiempo.",
+      "full_transcript": "Lo que podemos ver aquí de primeras es que la velocidad de cambio de dirección es altamente compleja porque depende de un conjunto muy amplio de factores. Estos factores están relacionados con la técnica, la velocidad de sprint, la fuerza, las cualidades musculares del miembro inferior y también cuestiones antropométricas. [...] Si vemos la literatura, lo que vemos es que, por un lado, el sprint lineal está altamente asociado a la velocidad de cambio de dirección. Varios estudios de diferentes deportes... vemos que hay una asociación importante entre la velocidad de sprint y la velocidad de cambio de dirección. [...] las variables con asociaciones más fuertes fueron la velocidad máxima de sprint. Y, por otro lado, tenemos la fuerza. [...] vemos aquí que la fuerza dinámica, excéntrica, concéntrica e isométrica tiene asociaciones muy fuertes con el tiempo para terminar o para completar un test de cambio de dirección preplaneado, como puede ser el test 505 o el T test. Lo que nos viene a decir que cuanto mayor el nivel de fuerza, mayor el potencial del jugador para conseguir hacer una tarea de cambio de dirección en menos tiempo.",
+      "keywords": [
+        "factores-neuromusculares",
+        "sprint",
+        "fuerza-dinamica",
+        "fuerza-excentrica",
+        "fuerza-isometrica",
+        "antropometria",
+        "potencial"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Evidencia Científica"
+      ],
+      "search_questions": [
+        "¿Qué factores físicos influyen en el cambio de dirección?",
+        "¿Qué relación hay entre el sprint y el change of direction speed?",
+        "¿Cómo afecta la fuerza al tiempo en un test de cambio de dirección?"
+      ],
+      "related_terms": [
+        "fuerza excéntrica",
+        "velocidad máxima de sprint",
+        "potencial neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establece un paralelismo entre la evaluación del COD speed y el test CMJ. Aunque las acciones preplanificadas no replican el juego real, son fundamentales para entender las bases fisiológicas, mecánicas y la capacidad neuromuscular del deportista para acelerar y desacelerar.",
+      "context_after": "Se plantea el problema metodológico histórico: evaluar esta habilidad multivariable fijándose solamente en el tiempo de ejecución enmascara quién cambia realmente bien de dirección."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "10:53",
+      "end_timestamp": "12:16",
+      "start_seconds": 653,
+      "end_seconds": 736,
+      "duration_seconds": 83,
+      "timestamp_url": "?t=653",
+      "title": "El sesgo de los tests tradicionales basados en tiempo total",
+      "summary": "Tradicionalmente los tests de cambio de dirección (ej. 505) se evalúan mediante el tiempo total. Sin embargo, un estudio muestra que hasta el 70% del tiempo de la prueba consiste en sprint lineal, lo que genera un gran sesgo que favorece a los atletas linealmente rápidos en detrimento de la técnica de cambio real.",
+      "literal_quote": "Del tiempo total de un test de cambio de dirección... cerca del 70 % del tiempo se consideraba que los deportistas estaban en una acción de sprint lineal. Esto significa que puede haber un sesgo muy importante hacia los jugadores que sean más rápidos en acciones lineales.",
+      "full_transcript": "La pregunta siguiente es: ¿cómo puedo yo evaluar la capacidad de cambio de dirección de mis jugadores? Si nosotros miramos la literatura, tradicionalmente la habilidad de cambio de dirección se evalúa a través del tiempo total o la velocidad media en un determinado test de cambio de dirección. De tal manera que si yo hago un test, por ejemplo, el 505... el deportista que lo consiga terminar en menos tiempo, se consideraría que tiene una capacidad de cambio de dirección superior. ¿Qué pasa con este test o con esta forma de evaluar la capacidad de cambio de dirección solo basada en el tiempo...? Según han estado por Sophia Anifos en Australia y sus colaboradores en un estudio en 2016, identificaron que del tiempo total de un test de cambio de dirección, en este caso el test 505, cerca del 70 % del tiempo se consideraba que los deportistas o los jugadores estaban en una acción de sprint lineal. ¿Esto qué implica? Implica que solamente un 30 % del tiempo el jugador está efectivamente cambiando la dirección del movimiento... Entonces, la pregunta que realizan estos autores es: ¿qué estamos evaluando? Si del tiempo total del test, el 70 %, el jugador está en acciones lineal, esto significa que puede haber un sesgo muy importante hacia los jugadores que sean más rápidos en acciones lineales.",
+      "keywords": [
+        "test-505",
+        "tiempo-total",
+        "sprint-lineal",
+        "sesgo",
+        "evaluacion"
+      ],
+      "entities": [
+        "Sophia Nimphius",
+        "Test 505"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Crítica",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Cuál es el problema de evaluar el cambio de dirección usando el tiempo total?",
+        "¿Qué porcentaje de un test 505 se considera sprint lineal?",
+        "¿Por qué los test tradicionales sesgan los resultados hacia los más rápidos?"
+      ],
+      "related_terms": [
+        "tiempo total",
+        "sprint lineal",
+        "sesgo",
+        "test 505"
+      ],
+      "relevance_score": 5,
+      "context_before": "La velocidad de cambio de dirección es una habilidad compleja influenciada por factores técnicos, antropométricos, velocidad de sprint y fuerza. Se evidencia que la máxima velocidad de sprint y la fuerza en todas sus manifestaciones (dinámica, isométrica, excéntrica y concéntrica) son los factores neuromusculares más influyentes.",
+      "context_after": "Para solucionar este sesgo del sprint, se introduce el concepto de Déficit de Cambio de Dirección para aislar puramente la eficiencia técnica del giro."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "12:16",
+      "end_timestamp": "15:09",
+      "start_seconds": 736,
+      "end_seconds": 909,
+      "duration_seconds": 173,
+      "timestamp_url": "?t=736",
+      "title": "El Déficit de Cambio de Dirección (COD Deficit)",
+      "summary": "Para neutralizar el sesgo del sprint, surge el 'Déficit de Cambio de Dirección'. Es el tiempo adicional que tarda un jugador en realizar un circuito con cambios de dirección respecto al tiempo que tarda en recorrer la misma distancia en sprint lineal. Indica puramente la eficiencia y capacidad independiente de frenado/aceleración.",
+      "literal_quote": "Permite de cierta manera evaluar la eficiencia del jugador para cambiar de dirección. Es decir, si tiene un déficit de cambio de dirección más bajo, se considera que el jugador es más eficiente con respecto a su velocidad lineal.",
+      "full_transcript": "Entonces, para intentar de cierta manera evaluar de forma más aislada la capacidad de cambio de dirección, estos autores propusieron una métrica complementaria, que es el déficit de cambio de dirección. ¿En qué consiste ese déficit de cambio de dirección? Originalmente se propone utilizando el tiempo, y básicamente consiste en el tiempo adicional que se necesita para realizar una acción de cambio de dirección, comparado con el tiempo que se necesita para hacer una acción de sprint lineal de la misma distancia. Es decir, si yo hago un test de sprint de 10 metros y tardo 1,8 segundos, si realizo un test de cambio de dirección también de 10 metros... tardo 2,5 segundos. La diferencia de tiempo entre el tiempo que tarda mi jugador en recorrer 10 metros de forma lineal o el tiempo que tarda mi jugador en recorrer 10 metros con cambio de dirección, esto se clasificaría o se consideraría el déficit de cambio de dirección. [...] ¿Cuál es la principal idea por detrás de esta variable? Es que permite, según los autores, evaluar la capacidad de cambio de dirección como un skill más independiente. ¿Independiente de qué? De la velocidad o de la capacidad de sprint. De tal manera que esta variable debe considerarse como una variable complementaria que permite de cierta manera evaluar la eficiencia del jugador para cambiar de dirección. [...] Aquí la palabra clave es complementaria, porque nunca debemos reportar solamente el déficit de cambio de dirección, sino que debemos reportar tanto el tiempo como el déficit.",
+      "keywords": [
+        "deficit-cambio-direccion",
+        "cod-deficit",
+        "metrica-complementaria",
+        "eficiencia",
+        "sprint-aislado"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es el Déficit de Cambio de Dirección (COD Deficit)?",
+        "¿Cómo se calcula la eficiencia en el cambio de dirección?",
+        "¿Por qué el COD deficit es una métrica complementaria?"
+      ],
+      "related_terms": [
+        "déficit de cambio de dirección",
+        "tiempo adicional",
+        "eficiencia",
+        "métrica complementaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Tradicionalmente los tests de cambio de dirección (ej. 505) se evalúan mediante el tiempo total. Sin embargo, un estudio muestra que hasta el 70% del tiempo de la prueba consiste en sprint lineal, lo que genera un gran sesgo que favorece a los atletas linealmente rápidos en detrimento de la técnica de cambio real.",
+      "context_after": "Se presenta un caso práctico matemático donde se demuestra que usar valores absolutos (en tiempo o velocidad) de este déficit provoca errores analíticos graves."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "15:09",
+      "end_timestamp": "19:32",
+      "start_seconds": 909,
+      "end_seconds": 1172,
+      "duration_seconds": 263,
+      "timestamp_url": "?t=909",
+      "title": "La necesidad de reportar el COD Deficit en valores relativos (porcentaje)",
+      "summary": "Analizar el déficit de cambio de dirección mediante valores absolutos (diferencias de tiempo en segundos o velocidad) produce resultados contradictorios, donde un mismo atleta puede parecer superior a la media si se usa el tiempo, e inferior si se usa la velocidad. Es fundamental usar ecuaciones de diferencia porcentual (relativa) para estandarizar la métrica.",
+      "literal_quote": "Cuando utilizo tanto velocidad o tiempo, pero de forma relativa, tenemos que los valores cuadran perfectamente. Esto se debe a que... a nivel relativo, 0,5 segundos en un segundo no es lo mismo que 0,5 segundos en dos segundos.",
+      "full_transcript": "La pregunta que se puede uno hacer es: ¿quién tiene el mayor déficit de cambio de dirección? Los primeros estudios... comparaban los valores absolutos de tiempo. Sin embargo, lo que nosotros hemos observado tras evaluar cientos de jugadores, es que si yo cojo la misma repetición, pero en vez de reportar la variable como tiempo, la transformo a velocidad media de sprint o velocidad media de cambio de dirección... para el mismo jugador A en la misma ejecución, tendría un déficit [diferente a si se mira en tiempo absoluto] [...] Entonces, ¿cómo es posible que en un mismo test, el mismo jugador, solo por cambiar la variable con que reporta los datos, alcance conclusiones completamente diferentes? Una solución que encontramos nosotros fue la de proponer un cambio en la forma de reportar esta variable, que es no hacerlo de forma absoluta en tiempo o en metros por segundo, sino en hacerlo en base a una diferencia de porcentaje. [...] si calculo de forma absoluta el déficit utilizando la velocidad o el tiempo, puedo llegar a conclusiones como en el caso de la jugador 15 aquí, en que según si utilizo la métrica tiempo, me da un valor por encima de la media [z-score], y si utilizo la métrica velocidad... me da un valor por debajo de la media. Y esto es un problema porque no uniformiza. Sin embargo, cuando yo calculo utilizando bien la velocidad o el tiempo, pero reporto los datos como porcentaje, entonces sí que siempre van a cuadrar. [...] Esto se debe a que tengamos presente que 0,5 segundos en un segundo no es lo mismo que 0,5 segundos en dos segundos, es decir, a nivel relativo no es lo mismo.",
+      "keywords": [
+        "valores-absolutos",
+        "valores-relativos",
+        "z-score",
+        "diferencia-porcentual",
+        "cod-deficit",
+        "data-science"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Solución"
+      ],
+      "search_questions": [
+        "¿Por qué es un error usar valores absolutos en el déficit de cambio de dirección?",
+        "¿Cómo estandarizar el reporte del COD deficit de los deportistas?",
+        "¿Qué impacto tiene el z-score al analizar el tiempo frente a la velocidad en los test?"
+      ],
+      "related_terms": [
+        "diferencia porcentual",
+        "z-score",
+        "valores relativos",
+        "estandarización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para neutralizar el sesgo del sprint, surge el 'Déficit de Cambio de Dirección'. Es el tiempo adicional que tarda un jugador en realizar un circuito con cambios de dirección respecto al tiempo que tarda en recorrer la misma distancia en sprint lineal. Indica puramente la eficiencia y capacidad independiente de frenado/aceleración.",
+      "context_after": "El fragmento finaliza indicando que este abordaje de porcentajes relativos es vital para entender realmente quién es deficiente cambiando de dirección. Fin del fragmento procesado."
+    }
+  ]
+}

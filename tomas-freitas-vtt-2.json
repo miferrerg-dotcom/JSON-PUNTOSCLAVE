@@ -1,0 +1,294 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+    "speaker": "Tomás Freitas",
+    "total_duration": "00:18:09",
+    "total_duration_seconds": 1089,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:00",
+      "end_timestamp": "04:09",
+      "start_seconds": 1,
+      "end_seconds": 249,
+      "duration_seconds": 248,
+      "timestamp_url": "?t=1",
+      "title": "Relación inversa entre velocidad o fuerza y eficiencia en el cambio de dirección",
+      "summary": "Múltiples investigaciones muestran de forma consistente que los deportistas más rápidos, fuertes o potentes tienden a presentar mayores déficits de cambio de dirección. Una alta capacidad de aceleración no implica eficiencia para cambiar de trayectoria, lo que obliga a los preparadores físicos a no enfocarse exclusivamente en métricas lineales.",
+      "literal_quote": "Los jugadores que tienen mayor velocidad de sprint o mayor capacidad de salto vertical presentan mayor velocidad de cambio de dirección, pero también mayores déficits de cambio de dirección, lo que indica que son jugadores que tienen una eficiencia más baja.",
+      "full_transcript": "Bueno, ahora hablaremos sobre las evidencias que hemos identificado y recogido en los últimos años... Lo que observamos de forma consistente es que los jugadores que tienen mayor velocidad de sprint o mayor capacidad de salto vertical presentan mayor velocidad de cambio de dirección, pero también mayores déficits de cambio de dirección, lo que indica que son jugadores que tienen una eficiencia más baja... En este estudio... dividimos una muestra en función de su capacidad de aceleración... los jugadores que eran más rápidos... también presentaban mayores déficits. Es decir, eran menos eficientes en valores promedio... Esto puede parecer una paradoja... pero básicamente lo que indica es que solo porque un jugador tiene una mayor capacidad de aceleración no significa necesariamente que sea más eficiente cambiando la dirección del movimiento... nosotros hemos evaluado otro tipo de diseño... utilizando el pico de potencia, el peak power en el jump squat y el squat... Lo que hemos observado también es que los jugadores con mayor nivel de fuerza y con mayor nivel de potencia presentaban un déficit mayor. Esto significa que tanto los jugadores más rápidos como los más fuertes o más potentes son menos eficientes cambiando de dirección.",
+      "keywords": [
+        "deficit-cambio-direccion",
+        "sprint",
+        "fuerza",
+        "potencia",
+        "eficiencia",
+        "aceleracion",
+        "paradoja"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué los jugadores más rápidos tienen mayor déficit de cambio de dirección?",
+        "¿Qué relación hay entre el salto vertical y la eficiencia de cambio de dirección?",
+        "¿Cómo afecta la fuerza máxima a la capacidad de cambiar de dirección?"
+      ],
+      "related_terms": [
+        "déficit de cambio de dirección",
+        "velocidad de sprint",
+        "capacidad de aceleración",
+        "eficiencia",
+        "pico de potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte del webinar analizando las evidencias recopiladas en los últimos años.",
+      "context_after": "Se procede a dar una explicación biomecánica a esta paradoja introduciendo el concepto de momentum."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "04:09",
+      "end_timestamp": "07:05",
+      "start_seconds": 249,
+      "end_seconds": 425,
+      "duration_seconds": 176,
+      "timestamp_url": "?t=249",
+      "title": "Explicación mecánica del déficit: el impacto del momentum",
+      "summary": "La ineficiencia al cambiar de dirección en atletas veloces se explica por una consecuencia mecánica: a mayor velocidad de entrada, mayor inercia (momentum = masa x velocidad). Frenar un objeto con más momentum exige aplicar más fuerza, tiempo y distancia, igual que frenar un camión frente a una moto a la misma velocidad.",
+      "literal_quote": "Esto significa que cuanto más rápido corra o me desplace, más tiempo y mayor distancia necesitaré para frenar. Esto se debe a una variable que se llama el momentum, el sprint momentum, que se obtiene multiplicando la masa corporal por la velocidad.",
+      "full_transcript": "En nuestro grupo de investigación... nos preguntamos por qué un jugador que es más rápido en acciones de sprint lineal es menos eficiente cambiando de dirección. Esto termina siendo una consecuencia mecánica de tener más velocidad, porque una mayor velocidad de entrada... implica una mayor cantidad de movimiento, una mayor inercia que hay que vencer, lo que significa que hay que aplicar mayores fuerzas de frenado. Esto significa que cuanto más rápido corra o me desplace, más tiempo y mayor distancia necesitaré para frenar. Esto se debe a una variable que se llama el momentum, el sprint momentum, que se obtiene multiplicando la masa corporal por la velocidad. Pensemos en un camión que se desplaza a 100 km/h o una moto que se desplaza a 100 km/h... el camión tiene una cantidad de movimiento mucho mayor por el hecho de que tiene bastante más masa. Entonces, decelerar y frenar un camión implica la aplicación de mucha más fuerza... Este estudio... observaron que los grupos que tenían un mayor momentum de aceleración... necesitaban una mayor distancia y un mayor tiempo para decelerar. Esta mayor ineficiencia para cambiar de dirección es en gran parte explicada por esta consecuencia mecánica.",
+      "keywords": [
+        "momentum",
+        "inercia",
+        "sprint-momentum",
+        "fuerza-de-frenado",
+        "deceleracion",
+        "mecanica",
+        "biomecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Analogía"
+      ],
+      "search_questions": [
+        "¿Qué es el sprint momentum y cómo se calcula?",
+        "¿Por qué la velocidad de entrada dificulta el cambio de dirección?",
+        "¿Cómo afecta la masa corporal a la deceleración en el deporte?"
+      ],
+      "related_terms": [
+        "sprint momentum",
+        "inercia",
+        "cantidad de movimiento",
+        "fuerzas de frenado",
+        "deceleración"
+      ],
+      "relevance_score": 5,
+      "context_before": "Múltiples investigaciones muestran de forma consistente que los deportistas más rápidos, fuertes o potentes tienden a presentar mayores déficits de cambio de dirección. Una alta capacidad de aceleración no implica eficiencia para cambiar de trayectoria, lo que obliga a los preparadores físicos a no enfocarse exclusivamente en métricas lineales.",
+      "context_after": "Tras exponer la lógica de la inercia, se compara si en distintos deportes con atletas más pesados (mayor momentum) el déficit sigue las mismas reglas matemáticas."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "07:05",
+      "end_timestamp": "09:45",
+      "start_seconds": 425,
+      "end_seconds": 585,
+      "duration_seconds": 160,
+      "timestamp_url": "?t=425",
+      "title": "La influencia del entrenamiento: Fútbol vs. Rugby",
+      "summary": "Al comparar deportistas de fútbol y rugby que poseen la misma velocidad, los jugadores de rugby, pese a tener más masa y mayor momentum, resultan más eficientes cambiando de dirección (menor déficit). Esta aparente contradicción mecánica resalta que las estrategias de entrenamiento de alto volumen específico multidireccional que aplican en el rugby compensan la física.",
+      "literal_quote": "En este caso tenemos jugadores de rugby más pesados con la misma velocidad, o sea, que tienen mayor momentum y que aun así son más eficientes que los jugadores de fútbol. Algo más aquí tiene que influir sobre esta eficiencia, y ahí es donde entran, por ejemplo, estrategias de entrenamiento.",
+      "full_transcript": "Lo que nosotros intentamos ver fue comparar deportistas de diferentes perfiles y deportes para ver si este fenómeno sigue ocurriendo de forma tan tajante. ¿Y qué observamos?... vamos a fijarnos en el soccer y en el fútbol versus el rugby. Lo que tenemos aquí es que la velocidad de ambos grupos es prácticamente la misma: 6,77 metros por segundo en 20 metros. Es decir, no podemos decir que los jugadores de rugby eran más rápidos que los jugadores de fútbol. Sin embargo, cuando evaluamos el test del zigzag, observamos que los jugadores de rugby eran significativamente más rápidos que los jugadores de fútbol... cuando calculo el déficit de cambio de dirección, observo que el jugador de fútbol es significativamente menos eficiente... a eso se añade que el jugador de rugby promedio tiene un mayor momentum, una mayor cantidad de movimiento. Entonces, no va a ser solamente la velocidad y el momentum lo que explique tu eficiencia... Algo más aquí tiene que influir sobre esta eficiencia, y ahí es donde entran, por ejemplo, estrategias de entrenamiento. Yo he conocido en Brasil... cómo entrena el equipo nacional de rugby y la cantidad de tiempo que dedican al entrenamiento específico del cambio de dirección... Quizá, si nosotros queremos mejorar en nuestros deportistas... podamos aprender algo de cómo se trabaja en el rugby.",
+      "keywords": [
+        "rugby",
+        "futbol",
+        "test-zigzag",
+        "eficiencia",
+        "estrategias-entrenamiento",
+        "volumen-multidireccional"
+      ],
+      "entities": [
+        "Equipo nacional de rugby de Brasil"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Quién es más eficiente cambiando de dirección, un jugador de fútbol o uno de rugby?",
+        "¿Cómo compensan los jugadores de rugby su peso al cambiar de dirección?",
+        "¿Qué se puede aprender del entrenamiento en el rugby para mejorar la agilidad?"
+      ],
+      "related_terms": [
+        "test del zigzag",
+        "déficit de cambio de dirección",
+        "estrategias de entrenamiento",
+        "entrenamiento específico"
+      ],
+      "relevance_score": 4,
+      "context_before": "La ineficiencia al cambiar de dirección en atletas veloces se explica por una consecuencia mecánica: a mayor velocidad de entrada, mayor inercia (momentum = masa x velocidad). Frenar un objeto con más momentum exige aplicar más fuerza, tiempo y distancia, igual que frenar un camión frente a una moto a la misma velocidad.",
+      "context_after": "Se concluye que no solo la mecánica define el éxito y se transiciona al concepto de la especificidad biomecánica del ángulo."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "09:45",
+      "end_timestamp": "13:45",
+      "start_seconds": 585,
+      "end_seconds": 825,
+      "duration_seconds": 240,
+      "timestamp_url": "?t=585",
+      "title": "Especificidad del cambio de dirección y el velocity-angle trade-off",
+      "summary": "La capacidad para cambiar de dirección es específica del ángulo ejecutado. Existe un equilibrio inverso (trade-off) entre velocidad y ángulo: en curvas suaves (0-90º) domina el mantenimiento de la velocidad, favoreciendo a los más rápidos. En recortes agresivos (90-180º) la clave es la deceleración (zona roja), haciendo el movimiento más dependiente de la fuerza.",
+      "literal_quote": "Cuanto mayor sea la velocidad de cambio de dirección, necesariamente menor va a ser el ángulo de cambio de dirección... Cuanto más agresivo es el ángulo de cambio de dirección, por ejemplo, 180 grados, necesariamente menor será la velocidad, porque implicará una mayor fase de frenado.",
+      "full_transcript": "Tenemos que tener un concepto fundamental en el cambio de dirección, que es el concepto de especificidad del cambio de dirección... Determina que los factores que determinan la capacidad de cambio de dirección son específicos del tipo de cambio de dirección. Es decir, lo que va a determinar la capacidad de cambio de dirección de 180 grados no son los mismos factores que van a determinar la capacidad de cambio de dirección de 150 o de 45 grados. Esto viene muy bien recogido... que habla de este velocity angle trade-off... cuanto mayor sea la velocidad de cambio de dirección, necesariamente menor va a ser el ángulo... Si lo pongo de otra manera, cuanto más agresivo es el ángulo de cambio de dirección, por ejemplo, 180 grados, necesariamente menor será la velocidad, porque implicará una mayor fase de frenado... en este estudio, lo que los autores definen es que los cambios de dirección en la zona roja son cambios de dirección que se caracterizan principalmente por la capacidad para desacelerar, para frenar. Sin embargo, en la zona verde... la principal variable que explica el rendimiento es la capacidad para mantener la velocidad... Esto implica que un jugador puede ser muy bueno... en una acción de cambio de 180 grados y no necesariamente ser el mejor performer en el cambio de dirección de 45 grados... cambios de dirección entre cero y 90 grados serían cambios de dirección en que la velocidad parece que tiene una mayor influencia que la fuerza... Sin embargo, un cambio de dirección más agresivo entre 90 y 180 grados serían más dominantes de fuerza.",
+      "keywords": [
+        "especificidad",
+        "velocity-angle-trade-off",
+        "zona-roja",
+        "zona-verde",
+        "frenado",
+        "deceleracion",
+        "angulo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Concepto",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el velocity-angle trade-off en el deporte?",
+        "¿Por qué un jugador rápido en curvas no es rápido en giros de 180 grados?",
+        "¿Qué ángulo de cambio de dirección requiere mayor componente de fuerza?"
+      ],
+      "related_terms": [
+        "especificidad del cambio de dirección",
+        "velocity angle trade-off",
+        "fase de frenado",
+        "desaceleración",
+        "dominancia de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Al comparar deportistas de fútbol y rugby que poseen la misma velocidad, los jugadores de rugby, pese a tener más masa y mayor momentum, resultan más eficientes cambiando de dirección (menor déficit). Esta aparente contradicción mecánica resalta que las estrategias de entrenamiento de alto volumen específico multidireccional que aplican en el rugby compensan la física.",
+      "context_after": "Para aplicar este concepto teóricamente se define la necesidad de encontrar puntos de corte que clasifiquen a cada jugador en su capacidad."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "13:45",
+      "end_timestamp": "16:02",
+      "start_seconds": 825,
+      "end_seconds": 962,
+      "duration_seconds": 137,
+      "timestamp_url": "?t=825",
+      "title": "Clasificación del perfil multidireccional mediante umbrales",
+      "summary": "Para determinar si un déficit es 'alto' o 'bajo', investigaciones recientes mediante análisis de clúster definen valores de corte que clasifican el perfil del jugador. Permiten agrupar a los deportistas en: dominantes multidireccionales (ej. déficit bajo), dominantes de sprint lineal (ej. déficit elevado) o balanceados, indicando el tipo de entrenamiento correctivo que necesitan.",
+      "literal_quote": "Utilizando un análisis de clúster, identificaron valores de corte que permitieran clasificar los jugadores en jugadores de dominancia multidireccional, jugadores de dominancia de sprint lineal o jugadores balanceados.",
+      "full_transcript": "Volvemos a la pregunta que hablamos antes... ¿qué se puede considerar un cambio de dirección alto y bajo? Hasta el momento hay muy poca investigación sobre esto. Hay un par de estudios muy interesantes realizados por investigadores de la Universidad de Huelva que básicamente intentaron evaluar en tres tipos distintos de cambio de dirección: 180, 90, 45 grados, cuáles serían los distintos valores de corte que permitirían clasificar a los jugadores según su déficit de cambio de dirección y según su velocidad de sprint lineal... utilizando un análisis de clúster, identificaron valores de corte que permitieran clasificar los jugadores en jugadores de dominancia multidireccional, jugadores de dominancia de sprint lineal o jugadores balanceados. ¿De qué manera? Por ejemplo, si pensamos en un cambio de dirección de 90 grados... si tenemos un jugador que tiene un déficit de cambio de dirección, por ejemplo, del 15 %, eso indica que el jugador tiene una dominancia de velocidad multidireccional, lo que en teoría indica que beneficiaría de hacer un trabajo más hacia el sprint lineal para poder venir a esta zona de balanceada. Si pensamos, por ejemplo, en un jugador que tiene un déficit de cambio de dirección del 35 %, significa que este jugador... tiene una mayor dominancia en el sprint lineal, lo que en teoría indica que beneficiaría de trabajar más una propuesta multidireccional... Es decir, yo puedo, en función de la velocidad de sprint y la velocidad de cambio de dirección, calcular el déficit y entender si un jugador es más de dominancia multidireccional o de dominancia de sprint lineal.",
+      "keywords": [
+        "analisis-cluster",
+        "valores-de-corte",
+        "dominancia-multidireccional",
+        "dominancia-sprint-lineal",
+        "perfil-multidireccional",
+        "data-science"
+      ],
+      "entities": [
+        "Universidad de Huelva"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Cómo saber si el déficit de cambio de dirección de un atleta es alto o bajo?",
+        "¿Qué significan la dominancia multidireccional y la dominancia lineal?",
+        "¿Cómo se clasifican los perfiles de los jugadores basados en el sprint y agilidad?"
+      ],
+      "related_terms": [
+        "análisis de clúster",
+        "valores de corte",
+        "dominancia multidireccional",
+        "dominancia de sprint lineal",
+        "jugadores balanceados"
+      ],
+      "relevance_score": 5,
+      "context_before": "La capacidad para cambiar de dirección es específica del ángulo ejecutado. Existe un equilibrio inverso (trade-off) entre velocidad y ángulo: en curvas suaves (0-90º) domina el mantenimiento de la velocidad, favoreciendo a los más rápidos. En recortes agresivos (90-180º) la clave es la deceleración (zona roja), haciendo el movimiento más dependiente de la fuerza.",
+      "context_after": "Estos datos sirven como base teórica para la siguiente intervención práctica donde se personaliza el entrenamiento en base a esta clasificación."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "16:02",
+      "end_timestamp": "18:09",
+      "start_seconds": 962,
+      "end_seconds": 1089,
+      "duration_seconds": 127,
+      "timestamp_url": "?t=962",
+      "title": "Resultados de la intervención individualizada",
+      "summary": "Una intervención experimental demostró que al prescribir entrenamiento opuesto a la dominancia del jugador (sprint para los ágiles, agilidad para los veloces), la muestra se estandariza hacia un perfil 'balanceado'. El grupo bajo esta intervención personalizada logró reducir su déficit de manera más pronunciada que el grupo control.",
+      "literal_quote": "Observaron que en el grupo intervención, cuando se adaptaba el entrenamiento en función del perfil multidireccional... se observó de forma consistente una tendencia al grupo intervención pasarse hacia el balanceado.",
+      "full_transcript": "A continuación, y esto es parte de una tesis doctoral... evaluar a los jugadores, clasificarlos o definir su perfil multidireccional en función de su déficit de cambio de dirección... De tal manera que los jugadores que tenían dominancia multidireccional hicieran un trabajo más hacia el sprint lineal, los jugadores que tienen una mayor dominancia de sprint lineal hicieran un trabajo más hacia el trabajo multidireccional y los jugadores balanceados, un mix de ambos. ¿Y qué observaron entonces los autores? Observaron que en el grupo intervención, cuando se adaptaba el entrenamiento en función del perfil multidireccional de cada jugador, vemos que se observó de forma consistente una tendencia al grupo intervención pasarse hacia el balanceado... esta tendencia a que la muestra se vuelva bastante más homogénea al final de la intervención en función del perfil multidireccional. Y vemos también aquí que el grupo intervención en las distintas angulaciones presentaba déficits de cambio de dirección significativamente más bajos que el grupo control que hacía un entrenamiento no basado en sus necesidades individualizadas. El siguiente topic, vamos a hablar sobre el sprint en curva y de qué manera este sprint puede considerarse o no una acción multidireccional.",
+      "keywords": [
+        "entrenamiento-individualizado",
+        "intervencion",
+        "perfil-balanceado",
+        "homogeneidad",
+        "reduccion-deficit"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué resultados da el entrenamiento individualizado basado en el perfil multidireccional?",
+        "¿Cómo conseguir un perfil balanceado en el rendimiento del deportista?",
+        "¿Es efectivo aplicar trabajo de sprint lineal a atletas con dominancia multidireccional?"
+      ],
+      "related_terms": [
+        "perfil multidireccional",
+        "grupo intervención",
+        "grupo control",
+        "entrenamiento individualizado",
+        "sprint en curva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Para determinar si un déficit es 'alto' o 'bajo', investigaciones recientes mediante análisis de clúster definen valores de corte que clasifican el perfil del jugador. Permiten agrupar a los deportistas en: dominantes multidireccionales (ej. déficit bajo), dominantes de sprint lineal (ej. déficit elevado) o balanceados, indicando el tipo de entrenamiento correctivo que necesitan.",
+      "context_after": "El fragmento culmina presentando el próximo tema del seminario, centrado en cómo catalogar el esfuerzo del sprint en curva dentro de la matriz multidireccional."
+    }
+  ]
+}

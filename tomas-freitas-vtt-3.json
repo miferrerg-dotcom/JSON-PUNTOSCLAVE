@@ -1,0 +1,200 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+    "speaker": "Tomás Freitas",
+    "total_duration": "00:07:35",
+    "total_duration_seconds": 455,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:03",
+      "start_seconds": 3,
+      "end_seconds": 63,
+      "duration_seconds": 60,
+      "timestamp_url": "?t=3",
+      "title": "Frecuencia y clasificación del sprint en curva (Zona Verde)",
+      "summary": "El sprint en curva es fundamental en deportes colectivos. En el fútbol, el 85% de las acciones de sprint lineal ocurren sobre trayectorias curvilíneas. Se clasifican como acciones de 'zona verde', donde no hay una desaceleración agresiva y el objetivo principal es cambiar ligeramente de dirección sin perder velocidad.",
+      "literal_quote": "El 85 % de las acciones de sprint lineal se realizan sobre trayectorias curvilíneas. Por lo tanto, es una acción de alta velocidad que implica un pequeño cambio en la dirección del movimiento, lo que nos lleva a la zona verde.",
+      "full_transcript": "Como hablamos antes, no podemos entender la velocidad multidireccional sin hablar por lo menos un poco sobre el sprint en curva. Porque los datos de la literatura nos indican, por ejemplo, en el fútbol, que el 85 % de las acciones de sprint lineal se realizan sobre trayectorias curvilíneas. Por lo tanto, es una acción de alta velocidad que implica un pequeño cambio en la dirección del movimiento, lo que nos lleva a la zona verde de la que hemos hablado. Aquí tenemos un ejemplo de un vídeo bastante conocido, si nos fijamos en la acción de este jugador, vemos que su patrón de movimiento es una acción de sprint en curva. El jugador cambia la dirección del movimiento, no de una forma agresiva. En ningún momento hay una fase de desaceleración, sino que lo que determina esta acción es su capacidad para, mientras hace esta trayectoria curvilínea, no perder velocidad. Se clasificaría este sprint en curva como una acción de zona verde.",
+      "keywords": [
+        "sprint-curva",
+        "zona-verde",
+        "trayectoria-curvilinea",
+        "velocidad",
+        "frecuencia",
+        "futbol"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje de los sprints en fútbol son en curva?",
+        "¿Qué es una acción de zona verde en velocidad multidireccional?",
+        "¿Cuál es el objetivo principal al realizar un sprint en trayectoria curvilínea?"
+      ],
+      "related_terms": [
+        "sprint en curva",
+        "zona verde",
+        "trayectorias curvilíneas",
+        "fase de desaceleración"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento, introduciendo la necesidad de hablar del sprint en curva dentro de la velocidad multidireccional.",
+      "context_after": "Tras clasificar el movimiento, se pasa a analizar las fuerzas físicas y biomecánicas requeridas para mantener dicha trayectoria."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:01:03",
+      "end_timestamp": "00:01:53",
+      "start_seconds": 63,
+      "end_seconds": 113,
+      "duration_seconds": 50,
+      "timestamp_url": "?t=63",
+      "title": "Biomecánica del sprint en curva: fuerza mediolateral y centrípeta",
+      "summary": "Mecánicamente, el sprint en curva requiere una aplicación de fuerza distinta al sprint lineal. Exige generar una fuerza mediolateral que se traduce en una fuerza centrípeta dirigida hacia el centro, lo que permite al deportista mantener su trayectoria curvilínea a altas velocidades.",
+      "literal_quote": "Hay una mayor aplicación de una fuerza mediolateral, que es lo que permite generar esta fuerza resultante hacia el centro, una fuerza centrípeta que te permite mantener tu trayectoria en una curva, que es diferente del sprint y de las fuerzas resultantes que se observan en el sprint lineal.",
+      "full_transcript": "¿Qué ocurre en el sprint en curva? Básicamente, la aplicación de la fuerza es significativamente diferente en un sprint en curva y en un sprint lineal. Los primeros estudios de sprint en curvas se realizaron en deportistas de atletismo, en velocistas, precisamente porque a partir de los 200 metros la capacidad para esprintar en una curva perdiendo lo mínimo posible de velocidad es un factor determinante del rendimiento. ¿Y qué ocurre cuando esprintamos en curva? Que hay una mayor aplicación de una fuerza mediolateral, que es lo que permite generar esta fuerza resultante hacia el centro, una fuerza centrípeta que te permite mantener tu trayectoria en una curva, que es diferente del sprint y de las fuerzas resultantes que se observan en el sprint lineal.",
+      "keywords": [
+        "fuerza-mediolateral",
+        "fuerza-centripeta",
+        "biomecanica",
+        "sprint-curva",
+        "atletismo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué tipo de fuerza permite mantener la trayectoria en un sprint en curva?",
+        "¿En qué se diferencia la aplicación de fuerza de un sprint lineal y un sprint curvilíneo?",
+        "¿Por qué es importante la fuerza centrípeta al correr?"
+      ],
+      "related_terms": [
+        "fuerza mediolateral",
+        "fuerza centrípeta",
+        "fuerza resultante",
+        "aplicación de la fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que el sprint en curva es de alta frecuencia en el fútbol y se clasifica como una acción de zona verde.",
+      "context_after": "Se detallan investigaciones científicas aplicadas al fútbol que muestran diferencias precisas a nivel cinemático y electromiográfico entre ambas piernas."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:01:54",
+      "end_timestamp": "00:05:04",
+      "start_seconds": 114,
+      "end_seconds": 304,
+      "duration_seconds": 190,
+      "timestamp_url": "?t=114",
+      "title": "Diferencias cinemáticas y electromiográficas (pierna interior vs. exterior)",
+      "summary": "Estudios demuestran que la capacidad de sprint lineal y en curva son variables independientes. Cinemáticamente, el pie interior pasa más tiempo de contacto en el suelo. A nivel neuromuscular, la pierna exterior activa más el glúteo medio y bíceps femoral (empujando hacia fuera), mientras que la interior activa más los aductores y semitendinoso (tirando hacia dentro).",
+      "literal_quote": "La pierna exterior actúa como si fuera un 'side step maneuver' que intenta empujar el suelo hacia afuera, mientras que la pierna de dentro trata de tirar el suelo hacia adentro, lo que significa que activa más la musculatura aductora.",
+      "full_transcript": "Aplicada al fútbol, el grupo de investigación de Alberto Filter y Bernardo Requena se ha dedicado a investigar precisamente este test multidireccional. [...] Lo que identificaron en primer lugar es que el sprint en curva y el sprint lineal tienen un coeficiente de determinación relativamente bajo, lo que implica que son dos variables independientes. Tienen una varianza compartida baja. ¿Y qué han observado estos autores? Al analizar desde una perspectiva cinemática y neuromuscular... el pie que está por dentro pasa significativamente más tiempo en el suelo que el pie que está por fuera. Ya no solo eso, sino que los autores analizaron la activación electromiográfica... De tal manera que en la pierna exterior se observa una mayor activación del glúteo medio y del bíceps femoral, mientras que en la pierna interior se observa una mayor activación de la musculatura aductora y del semitendinoso. De tal manera que la pierna exterior actúa como si fuera un 'side step maneuver' que intenta empujar el suelo hacia afuera, mientras que la pierna de dentro trata de tirar el suelo hacia adentro... Esto al final termina siendo dos acciones distintas que se deben evaluar y entrenar de forma aislada y separada una de la otra.",
+      "keywords": [
+        "cinematica",
+        "electromiografia",
+        "gluteo-medio",
+        "aductores",
+        "variables-independientes",
+        "tiempo-de-contacto",
+        "evaluacion"
+      ],
+      "entities": [
+        "Alberto Filter",
+        "Bernardo Requena"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias musculares entre la pierna de dentro y la de fuera en una curva?",
+        "¿Por qué el sprint en curva y lineal son considerados habilidades independientes?",
+        "¿Qué pierna tiene mayor tiempo de contacto con el suelo en un sprint en curva?"
+      ],
+      "related_terms": [
+        "activación electromiográfica",
+        "tiempo de contacto",
+        "varianza compartida",
+        "cinemática"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que, mecánicamente, el sprint en curva requiere una fuerza mediolateral considerable para generar fuerza centrípeta.",
+      "context_after": "Se asocian estas características mecánicas con tests de campo tradicionales, comprobando el principio de especificidad del entrenamiento."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:05:05",
+      "end_timestamp": "00:07:35",
+      "start_seconds": 305,
+      "end_seconds": 455,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=305",
+      "title": "Especificidad de los tests de cambio de dirección y su aplicación multideporte",
+      "summary": "Analizando diferentes pruebas de campo, se confirma la especificidad del movimiento. El sprint en curva correlaciona significativamente con el test zigzag (donde importa mantener la velocidad), pero no tiene asociación con el test 505 (de 180 grados), cuyo foco es desacelerar/reacelerar. Además, estas trayectorias curvas son exigencias tácticas presentes en múltiples deportes intermitentes como baloncesto (salir de un bloqueo) o rugby.",
+      "literal_quote": "El test 5-0-5 y las distintas variables de sprint lineal, de sprint en curva y entre el test 5-0-5 y el test zigzag, vimos que no había asociaciones significativas, lo que viene a demostrar el concepto de especificidad.",
+      "full_transcript": "¿Y qué asociación o qué relación hay entre el sprint en curva y el sprint lineal? Nosotros hemos realizado diversos estudios... en el que básicamente analizamos el test de zigzag con cambios de dirección entre 90 y 100 grados... y a la vez analizamos también el test 5-0-5, un test de 180 grados de cambio de dirección más agresivo. ¿Qué observamos que es interesante? [...] Que el test de sprint en curva y el test de zigzag, un test de cambio de dirección menos agresivo, están significativamente asociados. Sin embargo, el test 5-0-5 y las distintas variables de sprint lineal, de sprint en curva y entre el test 5-0-5 y el test zigzag, vimos que no había asociaciones significativas, lo que viene a demostrar el concepto de especificidad. En un test de 180 grados, la principal variable es la capacidad para desacelerar y reacelerar... Mientras que en un sprint en curva, lo que va a explicar el rendimiento es tu capacidad para no perder la velocidad. [...] Ahora bien, ¿el sprint en curva solo existe en el fútbol? No, se ve que en cada vez más deportes. En este estudio de la Universidad de Almería... analizaron y propusieron un test curvilíneo aplicado al baloncesto. Si nos fijamos... en la acción de este jugador que va a salir del bloqueo... hace perfectamente una trayectoria curvilínea. Cualquier deporte intermitente multidireccional implica seguramente acciones de sprint en curva, tanto el baloncesto, el fútbol, el rugby.",
+      "keywords": [
+        "especificidad",
+        "test-zigzag",
+        "test-505",
+        "baloncesto",
+        "deportes-intermitentes",
+        "desaceleracion"
+      ],
+      "entities": [
+        "Universidad de Almería"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Qué relación hay entre el sprint en curva y el test de zigzag?",
+        "¿Por qué el test 505 no se asocia con el rendimiento en sprint en curva?",
+        "¿En qué otros deportes, además del fútbol, es importante entrenar el sprint en curva?"
+      ],
+      "related_terms": [
+        "concepto de especificidad",
+        "test de zigzag",
+        "test 5-0-5",
+        "deportes intermitentes multidireccionales"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron las grandes diferencias electromiográficas y cinemáticas que existen entre una trayectoria lineal y una curvilínea.",
+      "context_after": "Fin del fragmento VTT procesado, quedando demostrada la importancia universal de las mecánicas curvilíneas en deportes de equipo."
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+    "speaker": "Tomás Freitas",
+    "total_duration": "00:21:53",
+    "total_duration_seconds": 1313,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:04:05",
+      "start_seconds": 1,
+      "end_seconds": 245,
+      "duration_seconds": 244,
+      "timestamp_url": "?t=1",
+      "title": "Importancia del entrenamiento excéntrico en la deceleración",
+      "summary": "Los deportistas actuales son rápidos y potentes, pero a menudo no logran tolerar altas velocidades de entrada ni aplicar la fuerza de frenado necesaria en los cambios de dirección. El entrenamiento con sobrecarga excéntrica genera adaptaciones musculares, tendinosas y metabólicas indispensables para desacelerar y estabilizar el cuerpo eficientemente.",
+      "literal_quote": "Hay cada vez más evidencia que demuestra que la fuerza excéntrica produce adaptaciones a nivel muscular, tendinoso y metabólico que son específicas y altamente beneficiosas para la capacidad de cambio de dirección.",
+      "full_transcript": "Para terminar, vamos a intentar entender qué puedo hacer como preparador físico, entrenador o 'sport scientist' para mejorar la capacidad multidireccional de mis jugadores. [...] Como hemos visto antes, los jugadores consiguen ser cada vez más rápidos, saltar más alto, más fuertes, más potentes, pero no necesariamente más capaces de tolerar altas velocidades de entrada en los cambios de dirección o de aplicar altas fuerzas de frenado contra el suelo... En este sentido, los estudios nos indican la importancia... del entrenamiento excéntrico, con cargas o acciones con sobrecarga excéntrica. [...] Nos indica que hay cada vez más evidencia que demuestra que la fuerza excéntrica produce adaptaciones a nivel muscular, tendinoso y metabólico que son específicas y altamente beneficiosas para la capacidad de cambio de dirección. También demuestra que es altamente importante la capacidad de la fuerza excéntrica para desacelerar y estabilizar el cuerpo. [...] Os recomiendo... este estudio, esta propuesta, este 'breaking performance framework'... presenta muchas recomendaciones prácticas sobre cómo podemos mejorar la capacidad de nuestros deportistas para desacelerar. [...] Si un jugador no tiene la capacidad física para desacelerar rápidamente... le va a afectar su capacidad de anticipación o su capacidad de desplazarse de forma eficiente en el campo.",
+      "keywords": [
+        "entrenamiento-excentrico",
+        "sobrecarga-excentrica",
+        "desaceleracion",
+        "fuerza-de-frenado",
+        "adaptaciones",
+        "breaking-performance"
+      ],
+      "entities": [
+        "Damien Harper"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el entrenamiento excéntrico en el deporte multidireccional?",
+        "¿Qué adaptaciones produce la sobrecarga excéntrica?",
+        "¿Cómo afecta la incapacidad de desacelerar al rendimiento en el campo?"
+      ],
+      "related_terms": [
+        "sobrecarga excéntrica",
+        "fuerza de frenado",
+        "breaking performance framework",
+        "capacidad de anticipación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección enfocada en la aplicación práctica y el entrenamiento para mejorar la velocidad multidireccional.",
+      "context_after": "Se detallan ejemplos prácticos de herramientas de gimnasio y campo para aplicar y trabajar esta sobrecarga excéntrica."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:04:05",
+      "end_timestamp": "00:06:43",
+      "start_seconds": 245,
+      "end_seconds": 403,
+      "duration_seconds": 158,
+      "timestamp_url": "?t=245",
+      "title": "Herramientas alternativas para generar sobrecarga excéntrica",
+      "summary": "Aunque máquinas inerciales como la yo-yo son excelentes para mejorar métricas como el tiempo de contacto y de frenado, existen alternativas efectivas si no hay acceso a esa tecnología. Ejercicios como drop squats, el uso de balones medicinales, gomas elásticas o empujes de compañeros aumentan la velocidad de llegada al suelo, obligando al jugador a desacelerar con mayor ratio de fuerza por unidad de tiempo.",
+      "literal_quote": "No solo debemos pensar en sobrecarga excéntrica cuando utilizamos una yo-yo o una máquina inercial, sino que hay otras herramientas que se pueden utilizar, que tenemos nosotros en nuestro día a día.",
+      "full_transcript": "Si yo tengo en mi entorno una máquina yo-yo o una máquina inercial, es fácil entender cómo puedo generar esta sobrecarga excéntrica. En este estudio de Moisés de Hoyos... evaluaron 10 semanas de entrenamiento con sobrecarga excéntrica... en variables importantes como el 'breaking time' o el 'contact time' durante un cambio de dirección... hay adaptaciones positivas en el grupo que trabajaba con la sobrecarga excéntrica. Sin embargo, puede pasar que no tengamos acceso a esta tipo de tecnología. ¿Qué podemos utilizar entonces? Todo lo que sea acciones que... utilizamos un implemento para aumentar la sobrecarga excéntrica. En este caso, esta es una acción dinámica en que el balón medicinal lo que termina haciendo es aumentar la velocidad con que llega al suelo el jugador, teniendo así que desacelerar una mayor carga. [...] Otro tipo de ejemplos son estos drop squats... el objetivo no es que el jugador aterrice muy alto y baje lento, sino que se deje caer y intente, una vez contacta con el suelo, frenar y desacelerar en el menor tiempo y espacio posible... estamos aumentando el ratio de fuerza por unidad de tiempo. Implementos como gomas elásticas... o este tipo de tareas en que se utiliza un compañero que al empujar en distintos planos... genera esa mayor sobrecarga excéntrica. Entonces, no solo debemos pensar en sobrecarga excéntrica cuando utilizamos una yo-yo o una máquina inercial.",
+      "keywords": [
+        "maquina-yoyo",
+        "maquina-inercial",
+        "drop-squats",
+        "balon-medicinal",
+        "sobrecarga-excentrica",
+        "breaking-time"
+      ],
+      "entities": [
+        "Moisés de Hoyos"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué herramientas sirven para trabajar la sobrecarga excéntrica si no hay máquina inercial?",
+        "¿Por qué el drop squat rápido genera adaptaciones excéntricas?",
+        "¿Cómo afectan las gomas o los balones medicinales a la velocidad de caída?"
+      ],
+      "related_terms": [
+        "máquina yo-yo",
+        "máquina inercial",
+        "breaking time",
+        "contact time",
+        "drop squats",
+        "ratio de fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la importancia fisiológica y de rendimiento del entrenamiento excéntrico en la fase de frenado.",
+      "context_after": "Se analiza en profundidad una herramienta concreta y controvertida: el chaleco lastrado frente al trineo."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:06:43",
+      "end_timestamp": "00:09:04",
+      "start_seconds": 403,
+      "end_seconds": 544,
+      "duration_seconds": 141,
+      "timestamp_url": "?t=403",
+      "title": "Chalecos lastrados frente a trineos para la velocidad multidireccional",
+      "summary": "Un estudio revela que el entrenamiento con resistencia vertical (chaleco lastrado) produce mejores adaptaciones en el tiempo y déficit del COD que la resistencia horizontal (trineo). Esto ocurre porque el trineo no opone resistencia en la fase de frenado, mientras que el chaleco aumenta la masa corporal y el momentum del atleta, forzándolo a soportar mayor carga excéntrica al desacelerar. Se recomienda su uso en tareas cerradas, no en juegos reducidos.",
+      "literal_quote": "Cuando yo desacelero, el trineo no me está aplicando ninguna resistencia. Sin embargo, si utilizo un chaleco lastrado... estoy aumentando mi momentum, mi cantidad de movimiento.",
+      "full_transcript": "Incluso la utilización, por ejemplo, de chalecos lastrados. En este estudio de la tesis doctoral de un compañero comparamos cuatro grupos de entrenamiento... Por un lado, teníamos un grupo que trabajaba sin cualquier carga añadida. Por otro lado, un grupo que trabajaba con una resistencia horizontal... similar a tirar un trineo. Tenemos un grupo que tenía una resistencia vertical, que utilizaba un chaleco lastrado, y teníamos un grupo que utilizaba una combinación de cargas... observamos que en las variables de cambio de dirección, tanto el tiempo como la velocidad media, como el déficit, siempre se observó una ventaja en el grupo que trabajó con la sobrecarga vertical, con el chaleco lastrado. Nuestra hipótesis es que esto se debe a que... cuando comparado, por ejemplo, con un trineo, el trineo me genera una resistencia cuando me desplazo hacia adelante, pero cuando yo desacelero el trineo no me está aplicando ninguna resistencia. Sin embargo, si utilizo un chaleco lastrado, es como si yo en vez de pesar 80 kilos, peso 95 kilos. Estoy aumentando mi momentum... Si yo consigo realizar acciones de cambio de dirección llevando una carga añadida que genere esa sobrecarga excéntrica en todas las acciones que hago de desaceleración, eso puede generar adaptaciones positivas... Ahora bien, ¿yo utilizaría este tipo de chalecos en entornos como small-sided games o juegos reducidos? No, porque entiendo que hay demasiada incertidumbre... y aumente incluso el riesgo de lesión. Pero en entornos cerrados, en tareas más aisladas, sí que puede ser interesante.",
+      "keywords": [
+        "chaleco-lastrado",
+        "trineo",
+        "resistencia-vertical",
+        "resistencia-horizontal",
+        "momentum",
+        "small-sided-games"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es mejor para mejorar el cambio de dirección, el chaleco lastrado o el trineo?",
+        "¿Por qué el chaleco lastrado ayuda más a la fase de desaceleración?",
+        "¿Es recomendable usar chalecos lastrados en juegos reducidos (SSG)?"
+      ],
+      "related_terms": [
+        "resistencia vertical",
+        "resistencia horizontal",
+        "chaleco lastrado",
+        "trineo",
+        "momentum",
+        "small-sided games"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se repasaron herramientas alternativas para el trabajo de fuerza excéntrica en el gimnasio.",
+      "context_after": "Tras analizar los implementos, se evalúa si los modelos de programación enfocados puramente en lo multidireccional son superiores a los enfoques tradicionales de fuerza."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:09:04",
+      "end_timestamp": "00:10:59",
+      "start_seconds": 544,
+      "end_seconds": 659,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=544",
+      "title": "Programas de entrenamiento multidireccional vs. tradicionales",
+      "summary": "Una intervención comparando entrenamiento tradicional (aceleración lineal, salto vertical, sentadilla bilateral) con un enfoque multidireccional (fuerza en distintos planos y vectores) demostró que el modelo holístico es más efectivo. A nivel individual, más jugadores lograron mejorar significativamente su test de cambio de dirección bajo la propuesta multidireccional.",
+      "literal_quote": "Esta combinación en el entrenamiento de salto, fuerza, potencia y multidireccional con distintas velocidades y ángulos de cambio de dirección puede ser una estrategia más holística e interesante versus los entrenamientos más tradicionales.",
+      "full_transcript": "En este otro estudio que realizamos como parte de mi postdoctorado, comparamos dos modelos de entrenamiento: un modelo más tradicional y uno más multidireccional. Equiparamos distancias de desplazamiento, volumen... pero un grupo trabajaba de forma más orientada hacia la aplicación de fuerza vertical y el otro era más multidireccional, con especial incidencia también en el plano frontal. [...] cuando hicimos un análisis individualizado de cuántos jugadores mejoraron su rendimiento en el test multidireccional... observamos que en el grupo experimental multidireccional, de 11, seis mejoraron su rendimiento. Mientras que en el grupo de entrenamiento tradicional, de los 12 jugadores, solo cuatro mejoraron su velocidad multidireccional. Entonces, esta combinación en el entrenamiento de salto, fuerza, potencia y multidireccional con distintas velocidades y ángulos de cambio de dirección puede ser una estrategia más holística e interesante versus los entrenamientos más tradicionales basados específicamente en acciones de aceleración, sprint o salto vertical y sentadillas, sin tener esa preocupación de hacer trabajo unilateral en distintos planes de movimiento con distintos vectores de aplicación de la fuerza.",
+      "keywords": [
+        "entrenamiento-multidireccional",
+        "entrenamiento-tradicional",
+        "plano-frontal",
+        "trabajo-unilateral",
+        "vectores-de-fuerza",
+        "holistico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre un entrenamiento tradicional de fuerza y uno multidireccional?",
+        "¿Qué enfoque de entrenamiento mejora más la capacidad de cambio de dirección?",
+        "¿Por qué es importante incluir trabajo unilateral en diferentes planos?"
+      ],
+      "related_terms": [
+        "modelo tradicional",
+        "plano frontal",
+        "vectores de aplicación de fuerza",
+        "trabajo unilateral"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se estudiaron diferentes implementos (trineos y chalecos) y cómo influyen en el trabajo excéntrico.",
+      "context_after": "Se destaca la estabilidad del tronco como un pilar innegociable dentro de este modelo holístico."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:10:59",
+      "end_timestamp": "00:12:32",
+      "start_seconds": 659,
+      "end_seconds": 752,
+      "duration_seconds": 93,
+      "timestamp_url": "?t=659",
+      "title": "La estabilidad del tronco como factor determinante",
+      "summary": "La evidencia muestra que mantener un desplazamiento angular del tronco reducido durante el cambio de dirección correlaciona fuertemente con el rendimiento. Es imperativo complementar el trabajo del tren inferior con ejercicios del core, especialmente de antirotación y fuerza mediolateral, para brindar estabilidad a la región lumbopélvica.",
+      "literal_quote": "Un desplazamiento angular del tronco más bajo durante una acción de cambio de dirección está altamente relacionado con el rendimiento... la estabilidad del tronco es absolutamente determinante.",
+      "full_transcript": "Otro factor absolutamente determinante es la estabilidad del tronco. Los estudios lo avalan. Este estudio interesante llegó a la conclusión de que un desplazamiento angular del tronco más bajo, durante una acción de cambio de dirección está altamente relacionado con el rendimiento en esa misma acción de cambio de dirección, por lo que los autores determinan que la estabilidad del tronco es absolutamente determinante, es un factor fundamental. Por lo que, cuando analizamos o entrenamos a nuestros jugadores para cambiar de dirección, tenemos que no solo enfocarnos en el tren inferior... sino prestarle especial atención a todo lo que es el movimiento y la estabilidad del tronco. Nosotros incluimos estrategias de entrenamiento como ejercicios de antirotación, que te permiten trabajar la estabilidad del tronco. [...] Luego, con ejercicios de estilo más avanzado, en que este ejercicio tiene una aplicación de la fuerza mediolateral, implica necesariamente una gran estabilidad de toda la zona de la cadera, lumbopélvica y del tronco. Este tipo de tareas las podemos incluir en nuestro entrenamiento que complementa el entrenamiento de la técnica, pero que están altamente respaldados por la literatura.",
+      "keywords": [
+        "estabilidad-del-tronco",
+        "core",
+        "antirotacion",
+        "zona-lumbopelvica",
+        "desplazamiento-angular",
+        "fuerza-mediolateral"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evidencia Científica"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el desplazamiento del tronco al cambio de dirección?",
+        "¿Qué tipo de ejercicios de core benefician la velocidad multidireccional?",
+        "¿Por qué es importante la zona lumbopélvica al cambiar de dirección?"
+      ],
+      "related_terms": [
+        "desplazamiento angular del tronco",
+        "estabilidad del tronco",
+        "ejercicios de antirotación",
+        "zona lumbopélvica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se demostró que el trabajo multidireccional es más eficiente que el lineal tradicional para optimizar los cambios de trayectoria.",
+      "context_after": "Se añade otra pieza del puzzle a nivel preventivo y de rendimiento: la función y fuerza del pie."
+    },
+    {
+      "id": "V05-006",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:12:32",
+      "end_timestamp": "00:14:58",
+      "start_seconds": 752,
+      "end_seconds": 898,
+      "duration_seconds": 146,
+      "timestamp_url": "?t=752",
+      "title": "La influencia de la fuerza de empuje del pie en la agilidad",
+      "summary": "Estudios diferencian entre la fuerza de flexión de los dedos y la fuerza de empuje (toe pushing force). Es esta última la que se asocia significativamente con tiempos más rápidos en tests multidireccionales (Pro Agility, Three Cone Test). Se sugiere incluir su trabajo de forma transversal, por ejemplo, combinando movilidad del pie con empujes unilaterales tipo 'kettlebell bottom-up'.",
+      "literal_quote": "La fuerza de empuje de los dedos sí que se asociaba significativamente con tiempos de cambio de dirección más rápidos.",
+      "full_transcript": "Otra cuestión de la que también se puede hablar es de la fuerza del pie. Cada vez más se le da importancia, se investiga y se estudia la influencia de la fuerza del pie sobre desplazamientos... En este estudio compararon o analizaron dos tipos de pruebas de fuerza: la prueba A, en que básicamente trataban de evaluar la fuerza de flexores de los dedos, y en la prueba B, la fuerza de empuje, 'toe pushing force'. ¿Qué han observado los autores? Que mientras que la fuerza de flexión de los dedos no tenía un efecto o una asociación significativa con test de rendimiento de cambio de dirección, el Pro Agility y el Three Cone Test, la fuerza de empuje de los dedos sí que se asociaba significativamente con tiempos de cambio de dirección más rápidos. Entonces, yo no empezaría el entrenamiento... por la musculatura del pie, pero sí que puede ser una estrategia interesante. [...] Estos son algunos vídeos... donde podemos ver cómo aplicar este tipo de ejercicios como parte del calentamiento... a nivel de movilidad como a nivel más isométrico... En este caso, estamos trabajando la musculatura del pie a la vez que trabajamos un empuje unilateral, 'kettlebell bottom-up push overhead', que es un ejercicio en el que trabajamos tanto el tren superior como fortaleciendo la musculatura del pie, lo que puede tener algún tipo de transferencia hacia la capacidad de cambio de dirección.",
+      "keywords": [
+        "fuerza-del-pie",
+        "toe-pushing-force",
+        "pro-agility",
+        "three-cone-test",
+        "kettlebell",
+        "empuje-unilateral"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Evidencia Científica"
+      ],
+      "search_questions": [
+        "¿Qué tipo de fuerza del pie impacta más en la velocidad de cambio de dirección?",
+        "¿Cómo entrenar la fuerza del pie combinándola con otros grupos musculares?",
+        "¿Están relacionados los flexores de los dedos con el Pro Agility test?"
+      ],
+      "related_terms": [
+        "fuerza del pie",
+        "toe pushing force",
+        "Pro Agility",
+        "Three Cone Test",
+        "kettlebell bottom-up"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló cómo la estabilidad del tronco previene pérdidas de velocidad en los giros.",
+      "context_after": "Se repasa la investigación científica sobre cómo perfeccionar la técnica reduce el valgo de rodilla y mejora la eficiencia."
+    },
+    {
+      "id": "V05-007",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:14:58",
+      "end_timestamp": "00:16:30",
+      "start_seconds": 898,
+      "end_seconds": 990,
+      "duration_seconds": 92,
+      "timestamp_url": "?t=898",
+      "title": "Beneficios preventivos y de rendimiento del entrenamiento técnico",
+      "summary": "El entrenamiento específico de la técnica del cambio de dirección tiene una doble función: por un lado, disminuye marcadores de riesgo como el valgo de rodilla (hasta un 26% menos carga articular), incluso en situaciones reactivas no planificadas. Por otro, optimiza la eficiencia reduciendo el déficit de cambio de dirección sin perjudicar la velocidad de sprint lineal.",
+      "literal_quote": "Sin haber cambios en la velocidad de sprint, la velocidad multidireccional aumentó, disminuyendo así el déficit.",
+      "full_transcript": "Obviamente, el entrenamiento de la técnica ha demostrado que consigue mejorar no solo lo que es el rendimiento, sino que también disminuye importantes factores de riesgo, como en este caso, el valgo de rodilla. Un estudio de intervención del grupo de Dempsey evaluó... de qué manera el entrenamiento específico de la técnica podía reducir el 'knee valgus'... y llegaron a la conclusión de que puede disminuir hasta un 26 % la carga que el jugador tiene que sostener en la rodilla. Esto es interesante observar, porque ocurrió no solo en acciones preplaneadas, sino también en acciones no planificadas, en cambios de dirección reactivos. [...] Otro estudio, en este caso aplicado a jugadores juveniles de fútbol, demostró que seis semanas de entrenamiento de la técnica enfocadas en la capacidad de acelerar, decelerar, el control del tronco y cómo posicionar los apoyos... consiguieron disminuir de forma significativa el déficit de cambio de dirección sin afectar negativamente al tiempo de sprint... En este caso, lo que observaron los autores es que, sin haber cambios en la velocidad de sprint, la velocidad multidireccional aumentó, disminuyendo así el déficit.",
+      "keywords": [
+        "entrenamiento-tecnico",
+        "valgo-rodilla",
+        "prevencion",
+        "knee-valgus",
+        "deficit-cambio-direccion",
+        "sprint"
+      ],
+      "entities": [
+        "Dempsey"
+      ],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Evidencia Científica",
+        "Beneficio"
+      ],
+      "search_questions": [
+        "¿Cómo ayuda la técnica del cambio de dirección a prevenir lesiones de rodilla?",
+        "¿Se traslada la técnica ensayada a situaciones reactivas en el deporte?",
+        "¿Entrenar la técnica de giro afecta negativamente a la velocidad lineal?"
+      ],
+      "related_terms": [
+        "valgo de rodilla",
+        "knee valgus",
+        "déficit de cambio de dirección",
+        "acciones no planificadas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se aportó el rol que juega el empuje de la musculatura del pie en los tests.",
+      "context_after": "Para aplicar este entrenamiento técnico, se explican las ventajas de los circuitos cerrados o drills preplanificados."
+    },
+    {
+      "id": "V05-008",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:16:30",
+      "end_timestamp": "00:19:42",
+      "start_seconds": 990,
+      "end_seconds": 1182,
+      "duration_seconds": 192,
+      "timestamp_url": "?t=990",
+      "title": "Utilidad de los 'closed drills' y aumento de tolerancia de los tejidos",
+      "summary": "Realizar ejercicios aislados (entornos cerrados) permite a los jugadores interiorizar mecánicas eficientes y aumenta la tolerancia de los tejidos a contracciones excéntricas de alta velocidad. Circuitos de giros (180º o 90º) actúan como las primeras fases de desarrollo según el modelo de McBurnie, y la introducción de un balón ayuda a mantener la motivación del deportista en la tarea.",
+      "literal_quote": "Aumenta la exposición a este tipo de acciones, como acciones excéntricas de alta velocidad... y, por otro lado, también aumenta la tolerancia de los tejidos.",
+      "full_transcript": "Ahora, utilización de drills aislados o en entornos más cerrados. ¿Tiene sentido? Tiene su sitio y su espacio en el programa de entrenamiento. ¿De qué manera? Porque permite, por un lado, ayudar a que los jugadores consigan entender cómo adoptar mecánicas que sean más eficientes y que sean menos dañinas para el cuerpo. Por otro lado, aumenta la exposición a este tipo de acciones, como acciones excéntricas de alta velocidad... y, por otro lado, también aumenta la tolerancia de los tejidos. Entonces, algunos ejemplos... acciones de cambio de dirección de 180 grados, circuitos que impliquen cambios de dirección de distintas angulaciones... Aquí vemos claramente que todas esas aceleraciones son contracciones excéntricas repetidas. Y podemos también, obviamente, utilizar algún tipo de implemento como el balón. El balón lo que hace es que transforma la acción, que sea bastante más motivante la tarea. Aquí lo que estamos pidiendo a los jugadores es que... tiene que tocar con el pie la línea blanca y pillar el balón antes de que caiga al suelo. Para el jugador... es intentar coger el balón. Y nosotros... estamos trabajando una acción de cambio de 180 grados. Vemos cómo el jugador desacelera con el penúltimo apoyo... y sale horizontalmente proyectando el centro de masa. [...] Todo lo que yo he estado hablando... estaríamos hablando de lo que es la fase uno y la fase dos del modelo propuesto por McBurnie y colaboradores sobre el desarrollo de la velocidad multidireccional... exponer los jugadores de distintas mecánicas... y luego pasar a una fase que se aumenta la intensidad... para progresar hacia lo que sería la agilidad, ya con toma de decisión.",
+      "keywords": [
+        "closed-drills",
+        "drills-aislados",
+        "tolerancia-tejidos",
+        "contracciones-excentricas",
+        "motivacion",
+        "mcburnie",
+        "agilidad"
+      ],
+      "entities": [
+        "McBurnie"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Para qué sirven los circuitos cerrados de cambio de dirección sin toma de decisión?",
+        "¿Cómo introducir motivación en un test o drill físico repetitivo?",
+        "¿Cuáles son las fases iniciales del desarrollo multidireccional según McBurnie?"
+      ],
+      "related_terms": [
+        "drills aislados",
+        "entornos cerrados",
+        "acciones excéntricas de alta velocidad",
+        "tolerancia de los tejidos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que el entrenamiento técnico disminuye variables de riesgo como el valgo de rodilla en el momento del freno.",
+      "context_after": "Se concluye el webinar con una analogía que une todos los puntos tratados: fuerza, técnica y frenada."
+    },
+    {
+      "id": "V05-009",
+      "video_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+      "speaker": "Tomás Freitas",
+      "start_timestamp": "00:19:42",
+      "end_timestamp": "00:21:53",
+      "start_seconds": 1182,
+      "end_seconds": 1313,
+      "duration_seconds": 131,
+      "timestamp_url": "?t=1182",
+      "title": "La analogía de la Fórmula 1 para la velocidad multidireccional",
+      "summary": "Para dominar la velocidad multidireccional, el jugador es comparable a un coche de Fórmula 1: el motor representa la fuerza/potencia para acelerar; los frenos representan la fuerza excéntrica para desacelerar; y la habilidad del conductor equivale a los factores técnico-biomecánicos. Trabajar solo un componente (ej. gimnasio o solo campo) es insuficiente; se requiere un enfoque holístico.",
+      "literal_quote": "El mismo coche, el mismo motor, los mismos frenos, pero si yo no sé cómo conducir... no seré tan eficiente cambiando de dirección.",
+      "full_transcript": "Y por último, así como en resumen de esta última parte, sería intentar ver a nuestro jugador como un coche de Fórmula 1 desde una perspectiva del desarrollo de la velocidad multidireccional. Es decir... si queremos tener algo de posibilidad de ganar el mundial... se tiene que tener un motor potente, capaz de acelerar. Entonces, en ese caso estaríamos hablando del entrenamiento de la fuerza, del entrenamiento de la potencia. Pero tengo también que tener a mi conjunto de ingenieros trabajando para desarrollar los frenos... si tengo un motor que es capaz de acelerar mucho... tengo que tener la capacidad para reducir esa velocidad. Y es en este sentido que la fuerza excéntrica cumple su principal rol. [...] Y, por otro lado... si yo me siento en un coche de Fórmula 1 y el atleta se sienta en exactamente el mismo coche... no voy a ganar la competición. ¿Por qué? Porque no tengo los 'skills' técnicos. Entonces, el mismo coche, el mismo motor, los mismos frenos, pero si yo no sé cómo conducir... dónde tengo que acelerar, dónde tengo que frenar... Si no tengo esos factores técnico-biomecánicos dominados... no seré tan eficiente cambiando de dirección. Entonces, es muy importante entender este modelo de desarrollar el motor, desarrollar los frenos, desarrollar la técnica. Y si nosotros queremos mejorar la capacidad multidireccional... enfocándonos solo en el trabajo en el gimnasio, por ejemplo, no va a ser posible. Si quiero trabajar la capacidad de cambio de dirección solo en el campo, algo puede que no esté llegando a maximizar el rendimiento... Entonces, este 'approach' holístico al desarrollo de la velocidad multidireccional... es exactamente necesario. Con esto ya termino mi presentación.",
+      "keywords": [
+        "analogia-formula1",
+        "motor",
+        "frenos",
+        "fuerza-excentrica",
+        "biomecanica",
+        "enfoque-holistico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Resumen"
+      ],
+      "search_questions": [
+        "¿Cómo se relaciona la velocidad multidireccional con un coche de Fórmula 1?",
+        "¿Qué representa el motor y los frenos en el cuerpo de un atleta?",
+        "¿Por qué no es suficiente trabajar la agilidad solamente en el gimnasio o en el campo?"
+      ],
+      "related_terms": [
+        "coche de Fórmula 1",
+        "fuerza excéntrica",
+        "factores técnico-biomecánicos",
+        "approach holístico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la fase de trabajo de técnica aislada para mejorar la tolerancia del tejido antes de pasar a la agilidad cognitiva.",
+      "context_after": "Despedida del ponente y fin del webinar de Tomás Freitas."
+    }
+  ]
+}
