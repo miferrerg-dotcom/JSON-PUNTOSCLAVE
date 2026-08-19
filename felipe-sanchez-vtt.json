@@ -1,0 +1,780 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+    "speaker": "Felipe Sánchez",
+    "total_duration": "00:58:14",
+    "total_duration_seconds": 3494,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:00:33",
+      "end_timestamp": "00:04:30",
+      "start_seconds": 33,
+      "end_seconds": 270,
+      "duration_seconds": 237,
+      "timestamp_url": "?t=33",
+      "title": "Introducción y evolución del rendimiento deportivo",
+      "summary": "Felipe Sánchez se presenta y establece los objetivos de la charla. Destaca que la mejora histórica en las marcas de los deportistas no se debe a un aumento en las horas de entrenamiento, sino a un entrenamiento más inteligente.",
+      "literal_quote": "Esa mejora del rendimiento no viene por entrenar más, sino por entrenar mejor, que es de lo que se trata.",
+      "full_transcript": "Hola, buenos días a todos. Mi nombre es Felipe Sánchez y hoy vengo a presentaros este tema sobre la monitorización de las cargas de entrenamiento en deportes de combate. [...] Al final, cuando entrenamos a deportistas, sobre todo buscando el alto nivel, lo que nos interesa es mejorar las marcas. Si vemos históricamente los diferentes récords en diferentes deportes, sobre todo donde se pueden medir y comparar, vemos que las marcas van mejorando. [...] Es interesante este estudio realizado por Issurin en el 2010, que nos hablaba de los diferentes volúmenes de entrenamiento en diferentes deportes en la década de los 90, 2000 y la década anterior de los 80 y 90. Se vio que los atletas entrenaban menos horas y, sin embargo, mejoraban el rendimiento comparado con años anteriores. Lo que nos hace ver es que esa mejora del rendimiento no viene por entrenar más, sino por entrenar mejor, que es de lo que se trata. Se trata de entrenar duro, pero a la vez de manera inteligente.",
+      "keywords": [
+        "monitorizacion",
+        "deportes-combate",
+        "rendimiento",
+        "entrenamiento-inteligente",
+        "marcas",
+        "issurin"
+      ],
+      "entities": [
+        "Felipe Sánchez",
+        "Michael Phelps",
+        "Carl Lewis",
+        "Issurin"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué han mejorado las marcas históricas según Felipe Sánchez?",
+        "¿Qué demuestra el estudio de Issurin de 2010?",
+        "¿Cuál es el objetivo principal del entrenamiento de alto nivel?"
+      ],
+      "related_terms": [
+        "entrenamiento",
+        "inteligente",
+        "mejora",
+        "rendimiento",
+        "volumen"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación y presentación profesional del ponente.",
+      "context_after": "Se explica el principio de supercompensación y los objetivos principales de la monitorización."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:04:30",
+      "end_timestamp": "00:06:18",
+      "start_seconds": 270,
+      "end_seconds": 378,
+      "duration_seconds": 108,
+      "timestamp_url": "?t=270",
+      "title": "Supercompensación y objetivos de la monitorización",
+      "summary": "Se detalla cómo el entrenador debe buscar un equilibrio entre estímulo y recuperación (supercompensación). La monitorización busca optimizar el rendimiento, minimizar lesiones, mejorar la recuperación e individualizar cargas.",
+      "literal_quote": "Encontrar ese equilibrio entre cuánto vamos a entrenar y cómo y cuánto vamos a recuperar sería la clave de los entrenadores.",
+      "full_transcript": "Todos conocéis la típica gráfica de la supercompensación. Al final, los entrenadores tenemos que intentar encontrar un equilibrio entre el estímulo que generamos en los deportistas y la suficiente recuperación para poder estimular al deportista a supercompensar ese rendimiento. Con lo cual, la parte de arte, por decirlo así, de los entrenadores, tenemos una parte de científico, una parte de artista, y tenemos que combinar esas dos partes para llegar a un equilibrio. Entonces, encontrar ese equilibrio entre cuánto vamos a entrenar y cómo y cuánto vamos a recuperar sería la clave de los entrenadores. Cuando hablamos de monitorizar la carga del entrenamiento, se trata de mejorar la preparación de los deportistas y saber la tolerancia a la carga que están preparados. Evidentemente, no todos los deportistas son iguales. [...] Como sabéis, las cargas de entrenamiento van a venir determinadas por diferentes variables: la frecuencia de la carga, la duración, la intensidad.",
+      "keywords": [
+        "supercompensacion",
+        "estimulo",
+        "recuperacion",
+        "lesiones",
+        "individualizacion",
+        "tolerancia-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es la supercompensación en el entrenamiento?",
+        "¿Cuáles son los objetivos de monitorizar la carga?",
+        "¿Por qué es importante individualizar las cargas?"
+      ],
+      "related_terms": [
+        "equilibrio",
+        "estímulo",
+        "recuperación",
+        "prevención",
+        "lesiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "La mejora del rendimiento no viene por entrenar más, sino por entrenar de forma inteligente.",
+      "context_after": "Diferenciación entre carga externa y carga interna según los estudios de Tim Gabbett."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:06:18",
+      "end_timestamp": "00:08:21",
+      "start_seconds": 378,
+      "end_seconds": 501,
+      "duration_seconds": 123,
+      "timestamp_url": "?t=378",
+      "title": "Diferencias entre Carga Externa e Interna",
+      "summary": "Basado en los estudios de Tim Gabbett, se define la carga externa (trabajo realizado, volumen, intensidad) y la carga interna (respuesta fisiológica y psicológica, RPE, frecuencia cardíaca). Es crucial que exista una correlación positiva entre ambas.",
+      "literal_quote": "Carga externa sería la cantidad de trabajo que se realiza... Y la carga interna va a ser la respuesta fisiológica, psicológica y la percepción de esfuerzo.",
+      "full_transcript": "Ting-A-Bed, que es uno de los estudiosos de este tema de la monitorización de las cargas, habla de la diferencia entre carga externa y carga interna. Carga externa sería la cantidad de trabajo que se realiza, que va a venir comprometida por diferentes variables, como veíamos antes: volumen, intensidad, densidad. Y la carga interna va a ser la respuesta fisiológica, psicológica y la percepción de esfuerzo de ese deportista, que puede ser medido con el RPE, con la escala de Borg, con la frecuencia cardíaca, con el lactato y con otras variables que luego iremos viendo. La relación entre carga interna y carga externa, siempre lo lógico es que estén relacionadas. [...] Evidentemente, si estamos estimulando a nuestro deportista con una carga elevada y resulta que la percepción de la carga es baja para él, eso quiere decir que a lo mejor no hemos ajustado bien esa carga. O al revés, hacemos un entrenamiento que no es muy duro y sin embargo, la percepción del deportista es muy dura.",
+      "keywords": [
+        "carga-externa",
+        "carga-interna",
+        "rpe",
+        "volumen",
+        "intensidad",
+        "tim-gabbett"
+      ],
+      "entities": [
+        "Tim Gabbett (Ting-A-Bed)",
+        "Borg"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre carga interna y externa?",
+        "¿Cómo se mide la carga interna?",
+        "¿Qué significa si un atleta percibe como duro un entrenamiento ligero?"
+      ],
+      "related_terms": [
+        "carga",
+        "interna",
+        "externa",
+        "percepción",
+        "fisiológica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron los objetivos clave de la monitorización: rendimiento, prevención, recuperación e individualización.",
+      "context_after": "Se presentan métodos de bajo costo para monitorizar estas cargas, comenzando con el salto vertical (CMJ)."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:08:21",
+      "end_timestamp": "00:13:01",
+      "start_seconds": 501,
+      "end_seconds": 781,
+      "duration_seconds": 280,
+      "timestamp_url": "?t=501",
+      "title": "Evaluación con CMJ y fatiga neuromuscular",
+      "summary": "Se abordan métodos económicos de monitorización. El CMJ (Countermovement Jump) se utiliza para caracterizar al deportista, monitorizar la fatiga neuromuscular y evaluar asimetrías tras lesiones, mediante el seguimiento microciclo a microciclo.",
+      "literal_quote": "El salto es un ejercicio bastante sensible al cambio, y cuando el deportista está fatigado, va a haber una disminución de rendimiento.",
+      "full_transcript": "Me gusta este artículo, que habla de los diferentes medios de monitorización de la carga de bajo coste. Al final, muchas veces pensamos que monitorizar la carga consiste en tener una tecnología muy avanzada que a lo mejor es poco asequible [...] Aquí veis los diferentes medios de monitorizar el rendimiento, veis el CMJ, los saltos, cómo podemos utilizar la medición de los saltos para calcular unas métricas que nos interesan, el RSI, el drop jump, o también ya luego veremos cómo calcularlo, la sesión RPE, que fue introducida por Carl Foster. [...] Cuando hablamos de monitorizar el CMJ o el salto, podemos hacerlo desde diferentes perspectivas. [...] Otra perspectiva es medir la fatiga neuromuscular. Al final, el salto es un ejercicio bastante sensible al cambio, y cuando el deportista está fatigado, va a haber una disminución de rendimiento, por lo cual nos va a servir para monitorizar esa fatiga muscular. Y también cuando recuperamos una lesión, cómo evoluciona ese CMJ. [...] Se trata de tener datos de nuestros deportistas a lo largo de toda la temporada y poder tomar decisiones en función de cómo fluctúan esos saltos.",
+      "keywords": [
+        "cmj",
+        "fatiga-neuromuscular",
+        "rsi",
+        "bajo-coste",
+        "asimetrias",
+        "carl-foster"
+      ],
+      "entities": [
+        "Carl Foster"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Para qué sirve el CMJ en deportes de combate?",
+        "¿Cómo se detecta la fatiga neuromuscular con el salto?",
+        "¿Qué métodos de bajo costo existen para evaluar rendimiento?"
+      ],
+      "related_terms": [
+        "salto",
+        "vertical",
+        "fatiga",
+        "neuromuscular",
+        "bajo coste"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de las cargas internas y externas como conceptos de monitorización.",
+      "context_after": "Se detalla el cálculo de índices específicos como el RSI y el DSI utilizando plataformas y mediciones dinámicas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:13:01",
+      "end_timestamp": "00:15:01",
+      "start_seconds": 781,
+      "end_seconds": 901,
+      "duration_seconds": 120,
+      "timestamp_url": "?t=781",
+      "title": "Métricas avanzadas: RSI, DSI y velocidad de ejecución",
+      "summary": "Se explica el Reactive Strength Index (RSI) y el Dynamic Strength Index (DSI), calculando la relación entre fuerza isométrica y dinámica. También se menciona el uso de encoders para perfilar la curva fuerza-velocidad a lo largo de la temporada.",
+      "literal_quote": "DSI o Dynamic Strength Index, el índice de fuerza dinámica... Va a ser la relación entre esas dos: fuerza máxima isométrica y fuerza máxima dinámica.",
+      "full_transcript": "Cuando veíamos el RSI, aquí veis que la manera de calcularlo es mediante varias maneras. Una de ellas podría ser estudiando la altura del salto dividido por el tiempo de contacto. En función de eso, nos va a dar un índice que, en función de que sea mejor o peor, podemos decir que es pobre, medio, bueno o excelente. Otra métrica interesante a la hora de monitorizar nuestros atletas es el DSI o Dynamic Strength Index, el índice de fuerza dinámica. Esto se va a calcular con el mid thigh pull partido por la fuerza dinámica y la fuerza isométrica. Va a ser la relación entre esas dos: fuerza máxima isométrica y fuerza máxima dinámica. En este caso, lo hacemos mediante un mid thigh pull y con un CMJ. [...] Cuando hablamos de utilizar la velocidad en los ejercicios de fuerza, normalmente si entrenamos con encoder y tenemos posibilidad de trabajar con ellos, también podemos utilizar esa velocidad de ejecución con diferentes cargas. Podemos ver cómo van fluctuando a lo largo de la temporada y monitorizar la fatiga muscular.",
+      "keywords": [
+        "rsi",
+        "dsi",
+        "encoder",
+        "fuerza-isometrica",
+        "fuerza-dinamica",
+        "fuerza-velocidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula el RSI?",
+        "¿Qué es el Dynamic Strength Index (DSI)?",
+        "¿Para qué se utilizan los encoders en la monitorización de fuerza?"
+      ],
+      "related_terms": [
+        "índice",
+        "fuerza",
+        "dinámica",
+        "reactiva",
+        "encoder"
+      ],
+      "relevance_score": 4,
+      "context_before": "El CMJ se establece como una métrica primaria de control de fatiga neuromuscular.",
+      "context_after": "Se presenta un método de carga interna aún más económico y accesible: la Sesión RPE."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:15:01",
+      "end_timestamp": "00:17:21",
+      "start_seconds": 901,
+      "end_seconds": 1041,
+      "duration_seconds": 140,
+      "timestamp_url": "?t=901",
+      "title": "Cálculo de la Sesión RPE",
+      "summary": "El método sRPE (Session Rating of Perceived Exertion) multiplica el volumen (minutos) por la intensidad subjetiva (Escala de Borg). Ofrece unidades arbitrarias correlacionadas validamente con métodos basados en frecuencia cardíaca como TRIMP.",
+      "literal_quote": "La multiplicación de ambos parámetros, volumen e intensidad, nos daría lo cual es la carga de entrenamiento.",
+      "full_transcript": "Otro medio para monitorizar la carga interna de entrenamiento, muy extendido al final, porque es muy sencillo de utilizar y cero costoso, sería utilizar el RPE o la escala de Borg. Sesión RPE, que sería una manera de tener en cuenta, como veis aquí, el tiempo de entrenamiento, que sería el volumen, y la intensidad, que sería, por esa escala de Borg, la puntuación numérica que nos diga el deportista en función de la percepción que tuvo de ese entrenamiento. La multiplicación de ambos parámetros, volumen e intensidad, nos daría lo cual es la carga de entrenamiento. Aquí veis un ejemplo. Por ejemplo, tenemos un judoka que hace dos horas de entrenamiento y al final nos marca que tiene una intensidad de cuatro. Al final veríamos que su carga de entrenamiento de ese día sería de 480 unidades arbitrarias. Es decir, no son metros, no son segundos, no son ninguna unidad concreta, pero al final nos sirve comparar [...] Este tipo de manera de monitorizar las cargas de entrenamiento se ha relacionado con otros métodos más estudiados o, por decirlo así, que ya están validados, como son el método de la monitorización de la carga mediante la frecuencia cardíaca [...] utilizando los TRIMP.",
+      "keywords": [
+        "srpe",
+        "escala-borg",
+        "unidades-arbitrarias",
+        "trimp",
+        "carga-interna",
+        "percepcion-esfuerzo"
+      ],
+      "entities": [
+        "Borg"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Cálculo"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula la Sesión RPE?",
+        "¿Con qué otros métodos validados se compara la sRPE?",
+        "¿Qué significan las unidades arbitrarias en el entrenamiento?"
+      ],
+      "related_terms": [
+        "percepción",
+        "esfuerzo",
+        "volumen",
+        "intensidad",
+        "unidades arbitrarias"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de métricas de fuerza con encoders y plataformas de salto.",
+      "context_after": "El uso de la sRPE para derivar métricas de distribución como la monotonía semanal."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:17:21",
+      "end_timestamp": "00:19:48",
+      "start_seconds": 1041,
+      "end_seconds": 1188,
+      "duration_seconds": 147,
+      "timestamp_url": "?t=1041",
+      "title": "Índice de monotonía en el microciclo",
+      "summary": "El índice de monotonía evalúa la variabilidad de la carga calculando la carga media diaria dividida por la desviación estándar. Un índice superior a 2 aumenta el riesgo de lesiones, por lo que es vital alternar cargas altas y bajas.",
+      "literal_quote": "Cuando hay un índice de monotonía de más de dos, se supone que es mucho más arriesgado tener lesiones.",
+      "full_transcript": "Otra métrica interesante que podemos calcular de una manera sencilla sería el índice de monotonía. El índice de monotonía lo vamos a calcular teniendo en cuenta la carga del microciclo, es decir, cuáles han sido las cargas de toda la semana, dividido entre la desviación estándar. Quiere decir, cuando tenemos mucha diferencia entre las sesiones, lógicamente la monotonía va a ser baja. Cuando las sesiones son todas iguales o muy parecidas, la monotonía va a ser alta. Si la carga de entrenamiento es alta y encima todas las sesiones estamos entrenando prácticamente igual, la posibilidad de lesionarme siempre va a ser mayor. Entonces, por eso decimos que cuando hay un índice de monotonía de más de dos, se supone que es mucho más arriesgado tener lesiones, por lo cual deberíamos de mantener un índice de monotonía más bajo. [...] Aquí os pongo un ejemplo ficticio de lo que sería dos microciclos en los que la carga total sería igual, 3095 unidades arbitrarias, pero simplemente modificando las sesiones, podríamos conseguir un índice de monotonía muy elevado y otro relativamente bajo. ¿Cómo? Intentando alternar carga, es decir, haciendo sesiones de entrenamiento con una carga alta y otras sesiones con una carga baja.",
+      "keywords": [
+        "indice-monotonia",
+        "desviacion-estandar",
+        "lesiones",
+        "variabilidad",
+        "microciclo"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Concepto",
+        "Cálculo"
+      ],
+      "search_questions": [
+        "¿Qué es el índice de monotonía en el entrenamiento?",
+        "¿Cómo se reduce el índice de monotonía?",
+        "¿Qué valor del índice de monotonía representa un alto riesgo de lesión?"
+      ],
+      "related_terms": [
+        "monotonía",
+        "desviación",
+        "estándar",
+        "riesgo",
+        "lesión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Cálculo de la carga total acumulada usando la Sesión RPE.",
+      "context_after": "Se aplica este control a la variación de carga entre distintas semanas (regla del 10%)."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:19:48",
+      "end_timestamp": "00:23:31",
+      "start_seconds": 1188,
+      "end_seconds": 1411,
+      "duration_seconds": 223,
+      "timestamp_url": "?t=1188",
+      "title": "Variación de carga semanal y regla del 10%",
+      "summary": "Analizar la variación de la carga de una semana a otra permite ajustar la planificación. Incrementos superiores al 10% elevan el riesgo de lesión significativamente. Monitorizar es clave también en periodos de tapering o retorno post-lesión.",
+      "literal_quote": "Hacer variaciones de más de 10 % va a ser más arriesgado. Supone un cambio importante en nuestro deportista.",
+      "full_transcript": "Otra métrica muy interesante es la variación de la carga semanal. Es decir, de una semana a otra, el deportista va a cambiar la carga. Habrá semanas que vamos a entrenar más que la semana anterior, otras semanas que vamos a entrenar menos que la semana anterior. Lo que está estudiado es que hacer variaciones de más de 10 % va a ser más arriesgado. Supone un cambio importante en nuestro deportista y la posibilidad de lesionarse va a ser mayor. [...] Si queremos ver como entrenadores si realmente están cumpliendo lo que nosotros queremos, imaginad que una semana queremos entrenar más duro que la anterior, si realmente cuando miramos las cargas de entrenamiento, la monitorización que hacen los atletas, si realmente es verdad o no. [...] Luego también, cuando hablamos de tapering antes de una competición, es importante controlar esas cargas de entrenamiento. Al final, como todos sabéis, en la fase de tapering es cuando vamos a buscar, siguiendo diferentes protocolos, una reducción de la carga de entrenamiento, y por eso es importante monitorizarla y ver si realmente se está cumpliendo o no. Lo mismo que cuando estamos después de una lesión. [...] Veis cómo fuimos evolucionando, aumentando las cargas progresivamente a medida que fuimos recuperando al deportista.",
+      "keywords": [
+        "variacion-carga",
+        "regla-10%",
+        "riesgo-lesion",
+        "tapering",
+        "retorno-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Por qué no se debe aumentar la carga semanal más del 10%?",
+        "¿Cómo ayuda la monitorización durante el tapering?",
+        "¿Qué utilidad tiene medir la variación de la carga post-lesión?"
+      ],
+      "related_terms": [
+        "variación",
+        "carga",
+        "semanal",
+        "tapering",
+        "lesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia de alterar las cargas dentro de una misma semana para evitar la monotonía.",
+      "context_after": "Se presenta el modelo Acute:Chronic Workload Ratio (ACWR) combinando monotonía y fatiga aguda."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:23:31",
+      "end_timestamp": "00:26:53",
+      "start_seconds": 1411,
+      "end_seconds": 1613,
+      "duration_seconds": 202,
+      "timestamp_url": "?t=1411",
+      "title": "Fatigue Index y el Ratio Agudo:Crónico",
+      "summary": "El Fatigue Index (Strain) multiplica la carga semanal por la monotonía. El ratio fatiga aguda / crónica (ACWR) compara la carga de la semana actual con la media de las últimas cuatro semanas. El estado óptimo está entre 0.8 y 1.3.",
+      "literal_quote": "Al final va a haber un sweet spot, esa zona donde el deportista entra en un 0,8, 1,3 de ese índice de fatiga aguda, fatiga crónica.",
+      "full_transcript": "Otra métrica interesante va a ser el fatigue index o el strain, que nos va a calcular cómo es la fatiga aguda de nuestro deportista. En este caso, sería multiplicar cuál es la carga semanal de ese deportista en ese microciclo por el índice de monotonía. Como hablábamos antes, si el índice de monotonía es alto y la carga es alta, la fatiga aguda de ese deportista va a ser alta. Y otro dato interesante que se suele calcular es el ratio fatiga aguda, fatiga crónica. Es una relación: en esta semana, en este microciclo, podemos realizar un trabajo duro, pero evidentemente lo que hayamos hecho en semanas previas va a venir afectado por lo que estamos haciendo esta semana. [...] Calculan la relación: la fatiga aguda con la fatiga crónica, que sería esa fatiga media en las últimas cuatro semanas. Y en función de eso nos va a dar un índice. Como veis aquí, entre 0,8 y 1,3 sería lo óptimo. Si vamos a valores de más de 1,5, se supone que el atleta está con un índice de fatiga aguda, crónica, bastante elevado. Y habría que tener un poco de cuidado [...] Al final va a haber un sweet spot, esa zona donde el deportista entra en un 0,8, 1,3 de ese índice de fatiga aguda, fatiga crónica, y si sale de ahí, sería una zona de peligro donde va a aumentar la posibilidad de lesión.",
+      "keywords": [
+        "fatigue-index",
+        "strain",
+        "acwr",
+        "fatiga-aguda",
+        "fatiga-cronica",
+        "sweet-spot"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Cálculo",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es el ratio de fatiga aguda frente a crónica (ACWR)?",
+        "¿Cuál es el valor óptimo del ACWR?",
+        "¿Cómo se calcula el índice de fatiga o strain?"
+      ],
+      "related_terms": [
+        "ratio",
+        "agudo",
+        "crónico",
+        "sweet spot",
+        "peligro"
+      ],
+      "relevance_score": 5,
+      "context_before": "Control de la variación de cargas semanales (regla del 10%).",
+      "context_after": "Se transiciona hacia métodos objetivos usando tecnologías de frecuencia cardíaca."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:26:53",
+      "end_timestamp": "00:29:22",
+      "start_seconds": 1613,
+      "end_seconds": 1762,
+      "duration_seconds": 149,
+      "timestamp_url": "?t=1613",
+      "title": "Monitorización tecnológica: Frecuencia cardíaca",
+      "summary": "Uso de sistemas de frecuencia cardíaca para monitorizar el esfuerzo grupal en directo. Permite comprobar visualmente si las tareas alcanzan la intensidad real de combate, usando tecnologías adaptadas como bucales con sensores.",
+      "literal_quote": "Podemos ver de un simple vistazo cómo es la intensidad de esos entrenamientos de una manera bastante fiable.",
+      "full_transcript": "Otro medio de monitorizar la carga interna, que es muy conocido, sería la monitorización a través de la frecuencia cardíaca. Nosotros, en este caso, en el yudo, lo utilizábamos en el equipo nacional, poníamos una pantalla y podíamos monitorizar a muchos deportistas o a todos los deportistas a la vez y luego, a posteriori, utilizar esos datos y trabajar con esas métricas. También cuando vamos a los training camp [...] Como entrenadores, llevamos a muchos deportistas y poder ver un poco cómo trabajaron todos a veces es difícil. Y de una simple vista, con este tipo de programas, podemos ver de un simple vistazo cómo es la intensidad de esos entrenamientos de una manera bastante fiable. Aquí ves diferentes entrenamientos, diferentes randori, que sería lo que son combates [...] La monitorización de la frecuencia cardíaca también nos va a servir cuando queremos diseñar entrenamientos, podemos ver si estamos alcanzando la intensidad que alcanzamos en situaciones de combate real o competición, aunque en este caso, por ejemplo, en competición no podemos utilizar la frecuencia cardíaca, porque el yudo o lucha son deportes donde no está permitida la utilización.",
+      "keywords": [
+        "frecuencia-cardiaca",
+        "tecnologia",
+        "randori",
+        "intensidad-combate",
+        "monitorizacion-directo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se usa la frecuencia cardíaca en deportes de combate?",
+        "¿Por qué es útil monitorizar en vivo durante un training camp?",
+        "¿Se permite el uso de bandas de frecuencia cardíaca en competiciones oficiales de judo?"
+      ],
+      "related_terms": [
+        "frecuencia",
+        "cardíaca",
+        "pantalla",
+        "intensidad",
+        "combate"
+      ],
+      "relevance_score": 4,
+      "context_before": "Uso de métricas derivadas del RPE para prever fatiga y riesgo de lesión.",
+      "context_after": "Se menciona el análisis de la Variabilidad de la Frecuencia Cardíaca (HRV) para evaluar readiness."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:29:22",
+      "end_timestamp": "00:32:43",
+      "start_seconds": 1762,
+      "end_seconds": 1963,
+      "duration_seconds": 201,
+      "timestamp_url": "?t=1762",
+      "title": "Variabilidad de la Frecuencia Cardíaca (HRV) y wearables",
+      "summary": "La HRV medida cada mañana muestra las tendencias de fatiga del atleta, dictando su preparación para asumir cargas. Se integran otros wearables específicos como protectores bucales, acelerómetros y chalecos para recolectar datos biomecánicos.",
+      "literal_quote": "Al final nos vamos a poder ver cuál es la tendencia de nuestro deportista y poder determinar si está en una buena situación para admitir más carga de entrenamiento.",
+      "full_transcript": "Otra métrica que se está midiendo ahora bastante y que en deportes de combate ya hay estudios que así lo certifican, es la variabilidad de la frecuencia cardíaca. Se trata de medir durante todas las mañanas, durante un periodo prolongado, que al final nos vamos a poder ver cuál es la tendencia de nuestro deportista y poder determinar si está en una buena situación para admitir más carga de entrenamiento o si lo que necesita es reducirla. [...] Aquí, por ejemplo, veis un bucal que se utiliza en deportes de combate, que nos permite registrar la frecuencia cardíaca y monitorizarla de una manera más sencilla, mejor que llevar una banda que resulte molesta o que incluso no esté permitida en competición. [...] Luego también existen otros sistemas más evolucionados, como los acelerómetros, que nos sirven para medir potencia y velocidad, y que ya se empiezan a utilizar sobre todo en investigaciones. Por ejemplo, en diferentes investigaciones se han utilizado acelerómetros en boxeo, que sirven para medir la velocidad a la hora de dar un puñetazo o diferentes acciones. En taekwondo, los chalecos nos van a permitir hacer diferentes mediciones que siempre resultarán interesantes.",
+      "keywords": [
+        "hrv",
+        "wearables",
+        "acelerometros",
+        "bucal-inteligente",
+        "readiness",
+        "variabilidad-frecuencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Tecnología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Qué mide la variabilidad de la frecuencia cardíaca (HRV)?",
+        "¿Qué tecnologías vestibles se usan en boxeo y taekwondo?",
+        "¿Cómo se mide la frecuencia cardíaca si las bandas torácicas son molestas?"
+      ],
+      "related_terms": [
+        "variabilidad",
+        "frecuencia",
+        "cardíaca",
+        "wearables",
+        "bucal",
+        "acelerómetro"
+      ],
+      "relevance_score": 4,
+      "context_before": "Medición de intensidad en tiempo real usando telemetría grupal de frecuencia cardíaca.",
+      "context_after": "Se subraya que los medios subjetivos y objetivos se complementan. Posteriormente, se abordan las estrategias de recuperación."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:34:09",
+      "end_timestamp": "00:41:00",
+      "start_seconds": 2049,
+      "end_seconds": 2460,
+      "duration_seconds": 411,
+      "timestamp_url": "?t=2049",
+      "title": "Estrategias de recuperación: Pirámide y cuantificación",
+      "summary": "La base esencial de la recuperación es el sueño, descanso y nutrición. Medios adicionales como inmersión en frío/calor o compresión complementan. Se propone un sistema de puntos donde las estrategias de recuperación deben equiparar el sRPE de la sesión.",
+      "literal_quote": "Muchas veces hay que hacer hincapié, sobre todo en la base de la pirámide, que es la base de la recuperación... dormir, descansar y alimentarse bien.",
+      "full_transcript": "Esa relación o equilibrio que tenemos que buscar entre entrenamiento y recuperación hace que cada vez sean más los centros y los entrenadores que hacen hincapié en las sesiones de recuperación. No se trata solo de planificar las cargas de entrenamiento, sino también la recuperación. [...] Muchas veces buscamos cosas muy sofisticadas y al final lo más importante va a ser dormir, descansar y tener una buena calidad de sueño. [...] Aquí veis un poco la NSCA, la propuesta, como veis en la base de la pirámide, veis las cosas que son más importantes: el descanso, el sueño, la nutrición. Y luego ya veis los diferentes métodos que hemos estado hablando, que serían menos importantes. Entonces, muchas veces hay que hacer hincapié, sobre todo en la base de la pirámide, que es la base de la recuperación. [...] Y empiezan a haber diferentes estudios, diferentes propuestas, que yo creo que son muy interesantes, sobre todo para que los deportistas hagan hincapié en que tienen que recuperar. Aquí, por ejemplo, este estudio se basa en que en función del RPE que presenta el atleta, los diferentes medios de recuperación, les damos una puntuación y tiene que intentar llegar a la misma puntuación. Es decir, cuanto la sesión sea más dura, lógicamente, la recuperación va a tener que ser mayor. [...] Muchas veces no dejarlo al azar o ver si el deportista lo hace por su cuenta. No, yo creo que como entrenadores tenemos que registrar y a la vez tenemos que planificar cuáles van a ser esos medios de recuperación para nuestros deportistas.",
+      "keywords": [
+        "recuperacion",
+        "sueno",
+        "nutricion",
+        "piramide-nsca",
+        "puntos-recuperacion",
+        "crioterapia"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Planificación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las bases de la pirámide de recuperación según la NSCA?",
+        "¿Cómo se puede cuantificar la recuperación exigida tras un entrenamiento?",
+        "¿Qué responsabilidad tiene el entrenador en las rutinas de recuperación?"
+      ],
+      "related_terms": [
+        "recuperación",
+        "sueño",
+        "nutrición",
+        "puntuación",
+        "pirámide"
+      ],
+      "relevance_score": 5,
+      "context_before": "Monitoreo del readiness mediante HRV diario para admitir cargas.",
+      "context_after": "Se presenta el modelo del Queso Suizo para combinar recuperación, carga y otras variables en la prevención."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:41:00",
+      "end_timestamp": "00:42:27",
+      "start_seconds": 2460,
+      "end_seconds": 2547,
+      "duration_seconds": 87,
+      "timestamp_url": "?t=2460",
+      "title": "Minimizar lesiones: Modelo del Queso Suizo",
+      "summary": "Adaptado de Tim Gabbett, el modelo del Queso Suizo ilustra que las lesiones ocurren cuando múltiples fallos se alinean. Combinar buena carga, recuperación, hábitos y conocimiento reduce los agujeros, siendo responsabilidad compartida entrenador-atleta.",
+      "literal_quote": "Ese queso con agujeros: es imposible reducir todos los agujeros, pero cuanto más hagamos para intentar minimizar esas lesiones, mejor.",
+      "full_transcript": "Y cuando hablamos de cargas de entrenamiento, hablamos de decisiones de recuperación, estrategias de recuperación de nuestros deportistas, al final lo que vamos a intentar es lograr esa mejora del rendimiento y a la vez reducir el riesgo de lesión. En función de eso, veis este modelo que nos plantea Tim Gabbett, que habla del modelo del queso suizo. Ese queso con agujeros: es imposible reducir todos los agujeros, pero cuanto más hagamos para intentar minimizar esas lesiones, mejor. Lo veis en el trabajo preparatorio, la recuperación de sesiones, tener hábitos profesionales, el trabajo de un buen calentamiento, monitorizar cargas de entrenamiento, una buena planificación, trabajar la prevención de lesiones y conocer bien las reglas de nuestro deporte. Son cosas que siempre nos van a ayudar a minimizar las lesiones. Algunas son propias del deportista, tiene que ser profesional y llevarlas a cabo, y hay otras que son responsabilidades compartidas con el entrenador.",
+      "keywords": [
+        "queso-suizo",
+        "tim-gabbett",
+        "prevencion",
+        "habitos-profesionales",
+        "minimizar-riesgo"
+      ],
+      "entities": [
+        "Tim Gabbett"
+      ],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué es el modelo del queso suizo aplicado a lesiones deportivas?",
+        "¿De quién es la responsabilidad de prevenir lesiones según este modelo?",
+        "¿Cómo se reducen los 'agujeros' que causan lesiones?"
+      ],
+      "related_terms": [
+        "queso",
+        "suizo",
+        "minimizar",
+        "lesiones",
+        "prevención"
+      ],
+      "relevance_score": 4,
+      "context_before": "Sistematización y cuantificación de los medios de recuperación.",
+      "context_after": "Se transita a la aplicación práctica y toma de decisiones basadas en los datos recabados."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:42:27",
+      "end_timestamp": "00:45:59",
+      "start_seconds": 2547,
+      "end_seconds": 2759,
+      "duration_seconds": 212,
+      "timestamp_url": "?t=2547",
+      "title": "Interpretación y ciclo de aplicación de datos",
+      "summary": "Los datos recopilados carecen de valor si no interpretan y aplican. El ciclo involucra recoger datos, dar feedback (especialmente útil si hay barreras de idioma), ajustar entrenamientos intra-día y personalizar intervenciones.",
+      "literal_quote": "Los datos sin interpretación son solo ruido. Muchas veces los entrenadores... tomamos datos, pero si no los utilizamos, estamos perdiendo el tiempo.",
+      "full_transcript": "Me gusta esta frase: los datos sin interpretación son solo ruido. Muchas veces los entrenadores, los scientists o los preparadores físicos tomamos datos, pero si no los utilizamos, estamos perdiendo el tiempo. Por eso es importante establecer una manera de trabajo. [...] Primero, para dar un feedback. Por ejemplo, en este caso, yo en el equipo nacional tenía casi 90 atletas de chicos y chicas de diferentes pesos, no hablaban inglés o solo algunos hablaban inglés. Entonces, al final, el feedback que me daba la monitorización es muy bueno. Hablar con los deportistas siempre es interesante y es vital, pero es verdad que cuando trabajas con deportistas que a lo mejor no dominan el idioma, tienes que trabajar con traductor. Toda esta información subjetiva de los deportistas... a mí me sirven para poder saber realmente cómo están ellos y ajustar las cargas de entrenamiento. Cuando hablamos del segundo escalón de la pirámide, el ajuste entre sesiones. En alto rendimiento vamos a estar entrenando muchas veces más de una sesión al día. Si monitorizamos el entrenamiento por la mañana y a lo mejor yo tenía planificada una sesión suave y resulta que los deportistas reportan que la sesión ha sido más intensa... a lo mejor tengo que ajustar el entrenamiento para la sesión de la tarde.",
+      "keywords": [
+        "interpretacion-datos",
+        "feedback",
+        "ajuste-intra-sesion",
+        "barrera-idioma",
+        "alto-rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Proceso",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es problemático recoger datos sin interpretarlos?",
+        "¿Cómo ayuda la monitorización cuando hay barreras idiomáticas con los atletas?",
+        "¿Por qué es necesario hacer ajustes entre sesiones en un mismo día?"
+      ],
+      "related_terms": [
+        "interpretación",
+        "datos",
+        "ruido",
+        "feedback",
+        "ajustes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Factores para prevenir lesiones mediante la monitorización y buenos hábitos.",
+      "context_after": "Se ejemplifica cómo individualizar basados en estos datos, evaluando respuestas dispares a mismas cargas."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:45:59",
+      "end_timestamp": "00:53:01",
+      "start_seconds": 2759,
+      "end_seconds": 3181,
+      "duration_seconds": 422,
+      "timestamp_url": "?t=2759",
+      "title": "Individualización, Tapering y Targeted Training Load",
+      "summary": "Se debe comparar la 'carga objetivo' con la percibida. Atletas sometidos al mismo plan responden de forma distinta. En 'training camps' y periodos de 'tapering', separar la carga por tipo de trabajo y adaptar las decisiones minimiza riesgos y optimiza el estado de forma.",
+      "literal_quote": "Hay que ver si la percepción de ese deportista o los registros que tenemos del deportista tienen que ver con los que nosotros teníamos planificados, si no, vamos a estar haciendo algo mal.",
+      "full_transcript": "Cuando hablamos del targeted training load significa que como entrenadores al final tenemos una carga objetivo. Lo que hablábamos antes, hay que ver si la percepción de ese deportista o los registros que tenemos del deportista tienen que ver con los que nosotros teníamos planificados, si no, vamos a estar haciendo algo mal. Y cuando hablamos de la individualización de las cargas, aquí veis cuatro deportistas preparándose para una competición: misma fecha, misma preparación y sin embargo, no todos responden de la misma manera, por múltiples motivos. [...] En deportes como el yudo o la lucha, hacen training camps fuera de nuestros centros buscando cambiar de diferentes atletas. [...] Como veis, seguíamos buscando altas cargas de entrenamiento. [...] En este ciclo, ahí veis la respuesta del deportista. Como os decía antes, teníamos planificado un cuarto training camp en la semana 17... pero sin embargo decidimos cancelarlo. ¿Por qué? Porque al final vimos que tenía menos a un deportista tocado. Empezábamos a tener datos de una fatiga bastante elevada, índices de fatiga crónica bastante elevados. [...] Al final, pensar que esto era una competición, los Juegos de China, que se hacen cada cuatro años, con lo cual, al final se trata de minimizar riesgos, sobre todo cuando estás en un estado previo a la competición.",
+      "keywords": [
+        "targeted-training-load",
+        "training-camps",
+        "individualizacion",
+        "tapering",
+        "fatiga-cronica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué es la carga objetivo (targeted training load)?",
+        "¿Por qué se canceló un training camp en el caso práctico expuesto?",
+        "¿Responden igual todos los atletas ante el mismo plan de entrenamiento?"
+      ],
+      "related_terms": [
+        "carga",
+        "objetivo",
+        "individualización",
+        "tapering",
+        "training camp"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia del ciclo continuo de recolección de datos, feedback y ajustes.",
+      "context_after": "El registro a largo plazo permite comparativas con temporadas pasadas y se entregan las conclusiones finales."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+      "speaker": "Felipe Sánchez",
+      "start_timestamp": "00:53:01",
+      "end_timestamp": "00:58:14",
+      "start_seconds": 3181,
+      "end_seconds": 3494,
+      "duration_seconds": 313,
+      "timestamp_url": "?t=3181",
+      "title": "Conclusiones y planificación a largo plazo",
+      "summary": "Analizar datos en ciclos plurianuales permite prever adaptaciones. Las conclusiones finales reafirman que los atletas perciben las sesiones suaves como duras y viceversa; que el sistema debe ser simple y flexible; y que se deben seleccionar métricas que realmente impacten las decisiones.",
+      "literal_quote": "Registrar los datos va a ser el primer paso, pero siempre tenemos que estar basados en cálculos simples.",
+      "full_transcript": "Todos estos datos que recogemos a lo largo de la temporada sirven para la siguiente. Tenemos esos datos de la presente temporada, con lo cual podemos comparar. [...] Si no controlamos esas cargas, no las monitorizamos, ¿cómo vamos a poder comparar una temporada con otra? Por eso siempre es interesante controlar a la hora de planificar a largo plazo. [...] Para buscar unas conclusiones, hemos visto diferentes métodos de monitorizar las cargas de entrenamiento, pero se trata de llegar a unas conclusiones finales que nos ayuden a entender y a sacar partido a todo esto. Carl Foster, en sus estudios pioneros sobre la sesión RPE... se dio cuenta de que muchas veces cuando los entrenadores le ponían unas cargas de entrenamiento duras, los deportistas solían reportar una percepción más baja. Sin embargo, cuando queríamos cargas de entrenamiento bajas, los deportistas entrenaban más alto. [...] Tim Gabbett... aboga por buscar cosas sencillas, no complicarse en exceso, porque si no, no vamos a sacar partido a los datos. [...] Chris Bishop... habla de que la selección de las métricas importa y que aquellas que vamos a utilizar para tomar decisiones en rendimiento y en la rehabilitación son las que más nos interesan. [...] Registrar los datos va a ser el primer paso, pero siempre tenemos que estar basados en cálculos simples.",
+      "keywords": [
+        "planificacion-largo-plazo",
+        "ciclo-olimpico",
+        "carl-foster",
+        "tim-gabbett",
+        "chris-bishop",
+        "simplicidad"
+      ],
+      "entities": [
+        "Carl Foster",
+        "Tim Gabbett",
+        "Chris Bishop"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es útil guardar datos a largo plazo o en ciclos olímpicos?",
+        "¿Qué descubrió Carl Foster sobre la percepción de entrenamientos suaves y duros?",
+        "¿Qué recomiendan Tim Gabbett y Chris Bishop sobre los datos recogidos?"
+      ],
+      "related_terms": [
+        "planificación",
+        "largo",
+        "plazo",
+        "conclusiones",
+        "simplicidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Ajustes del entrenamiento pre-competición (tapering) individualizados gracias a la monitorización.",
+      "context_after": "Despedida del webinar."
+    }
+  ]
+}
