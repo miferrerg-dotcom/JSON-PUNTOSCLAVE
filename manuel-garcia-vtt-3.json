@@ -1,0 +1,554 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+    "speaker": "Manuel García Sillero",
+    "total_duration": "00:32:19",
+    "total_duration_seconds": 1939,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:44",
+      "start_seconds": 1,
+      "end_seconds": 164,
+      "duration_seconds": 163,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Valoración inicial e identificación de patrones individuales",
+      "summary": "El análisis individual parte de una entrevista y valoración funcional encuadradas en el calendario competitivo. Se priorizan dos aspectos: características físicas (potenciar puntos fuertes y minimizar débiles), edad o historial de lesiones, y las expectativas del rol. Se busca identificar 'elefantes' (problemas grandes) antes que pequeños detalles.",
+      "literal_quote": "Vamos a ver aquellas cosas sobre las que es fundamental actuar y que no se nos pueden escapar, esos elefantes, y luego entramos en esos mínimos detalles.",
+      "full_transcript": "Hola de nuevo. Vamos a abordar este tercer punto de nuestra presentación, quizá el bloque principal, en el cual vamos a desgranar la propuesta práctica y los aspectos a tener en cuenta para la toma de decisión en cuanto al diseño del modelo. Todo lo que vamos a hablar está basado en evidencia científica y también en mi contexto, aunque voy a hacer referencias a por qué lo tomo, pero es importante que no lo toméis al pie de la letra. Está muy basado en el contexto de rugby, sobre todo de rugby 7, pero voy a explicar por qué tomo según qué decisiones. Siempre vais a tener en la imagen arriba a la derecha los distintos pasos del modelo. En la parte de análisis, partimos de esa entrevista individual. Aunque sean equipos, dedicamos tiempo a cada deportista, a tener una entrevista y una valoración funcional. Esto va a depender mucho del tipo de deporte, del tipo de equipo, de si lo hago yo solo, si lo hacemos en conjunto con fisioterapeutas, nutricionistas o psicólogos. Todo eso lo encuadramos dentro de un calendario de competición. Es un aspecto muy importante tener en cuenta ese calendario con las demandas del deporte, integrado con esas características del deportista. Para mí hay dos aspectos fundamentales: las características físicas, es decir, los puntos fuertes que tenemos que potenciar y los puntos débiles que tenemos que minimizar, la edad y historial de lesiones del jugador, y cuáles son las expectativas o el rol que el staff le quiere dar en el equipo. Todo eso, que es contextual, lo metemos en este apartado de valoración inicial, muy importante para generar su perfil. En este sentido, intentamos ver elefantes y no motas o mosquitos. Intentamos ir a la gran foto, intentamos ver cosas que sean claras, obviamente con el mayor detalle posible, pero a veces en las valoraciones nos quedamos mucho en pequeñas cosas. Vamos a ver aquellas cosas sobre las que es fundamental actuar y que no se nos pueden escapar, esos elefantes, y luego entramos en esos mínimos detalles.",
+      "keywords": [
+        "valoracion-funcional",
+        "calendario",
+        "caracteristicas-fisicas",
+        "historial-lesiones",
+        "rol",
+        "elefantes"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿En qué consiste la valoración inicial de un deportista según Manuel García Sillero?",
+        "¿Qué significa la metáfora de ver 'elefantes y no mosquitos' en el alto rendimiento?",
+        "¿Qué variables se deben considerar al perfilar a un jugador en un equipo?"
+      ],
+      "related_terms": [
+        "entrevista individual",
+        "valoración funcional",
+        "calendario de competición",
+        "historial de lesiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se inicia el bloque práctico sobre el diseño del modelo de toma de decisión.",
+      "context_after": "Se detalla cómo las necesidades de movimiento y habilidades diferenciadoras definen las siguientes fases de la toma de decisiones."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:02:44",
+      "end_timestamp": "00:05:16",
+      "start_seconds": 164,
+      "end_seconds": 316,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=164",
+      "title": "El 'worst case scenario' y las habilidades diferenciadoras",
+      "summary": "Para tomar decisiones se identifican patrones de movimiento y habilidades diferenciadoras, fundamentalmente en torno a la aceleración. Estas demandas se cuantifican en el 'worst case scenario' (el peor escenario posible) por fases del juego, lo que ayuda tanto en la progresión del rendimiento como en los procesos de Return to Play.",
+      "literal_quote": "El tener estructurado ese worst case scenario me ayuda mucho y ver hasta cuándo ese jugador es capaz de soportar esas habilidades diferenciadoras.",
+      "full_transcript": "Para la toma de decisión, muy importante: patrones de movimiento y necesidades. En qué patrón es nuestro jugador, en base a lo que hemos dicho antes, a su rol, a su posición, sus puntos fuertes a potenciar, sus puntos débiles, sí o sí tenemos que trabajar. Partiendo de que gran parte del entrenamiento es común, pero tenemos que tratar de atender también a esas situaciones. Un poco cuáles son las habilidades diferenciadoras que necesita este deportista. Muchas están en el entorno de la aceleración hoy en día en los deportes de equipo. En este sentido, muestro la imagen de abajo. La velocidad es fundamental, pero veremos que hay mucha diferencia entre la de un velocista de pista y la de un deporte como el fútbol, donde hay situaciones de contacto, carreras curvas y cambios de dirección. Vamos a ver ahora el ejemplo de un jugador mío de la Selección Española, un nuevo jugador. Aspectos importantes: el worst case scenario. Al final, todas estas necesidades de movimiento, todas estas habilidades diferenciadoras y puntos fuertes, tenemos que cuantificarlo en la peor situación a la que se va a tener que enfrentar a nivel de demandas. Este worst case scenario, ahora veréis, os mostraré cómo lo cuantifico yo. Lo cuantifico por fase y por secuencia de juego para ir construyendo, y por medios tiempos o por partidos completos, porque todo eso me permite acercar al jugador o progresar con él en esas necesidades del peor escenario posible y me ayuda mucho también en los procesos de recuperación. Cuando objetivamos: este jugador vuelve de la lesión, ¿está ok para empezar a participar? ¿Cuánto tiempo participa? El tener estructurado ese worst case scenario me ayuda mucho y ver hasta cuándo ese jugador es capaz de soportar esas habilidades diferenciadoras y esa necesidad de movimiento en el tiempo ante situaciones realmente exigentes. Con todo esto veo cuánto de far versus close, es decir, cuánto de lejos o cerca está el deportista en según qué acciones, y esto me permite priorizar unas sobre otras.",
+      "keywords": [
+        "patrones-movimiento",
+        "habilidades-diferenciadoras",
+        "aceleracion",
+        "worst-case-scenario",
+        "return-to-play"
+      ],
+      "entities": [
+        "Selección Española"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Return to Play",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué es el 'worst case scenario' y cómo se aplica en la preparación física?",
+        "¿Por qué son importantes las habilidades diferenciadoras en los deportes de equipo?",
+        "¿Cómo ayuda el 'worst case scenario' en el proceso de recuperación de lesiones?"
+      ],
+      "related_terms": [
+        "far versus close",
+        "secuencia de juego",
+        "habilidades diferenciadoras",
+        "velocidad y aceleración"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establece el perfil inicial considerando la edad, historial de lesiones y puntos fuertes/débiles.",
+      "context_after": "Se analizan cortes de vídeo para ilustrar las exigencias reales de aceleración y contacto de un jugador en la élite."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:05:16",
+      "end_timestamp": "00:08:26",
+      "start_seconds": 316,
+      "end_seconds": 506,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=316",
+      "title": "Análisis de video para el diseño de tareas específicas",
+      "summary": "Se visualizan acciones de un jugador en situaciones reales para entender las necesidades de aceleración bajo condiciones de contacto, lucha y cambio de dirección. Esto obliga a diseñar tareas en el entrenamiento que no sean simples sprints lineales, incorporando salidas desde el suelo, incertidumbre, contacto y toma de decisión para replicar la especificidad del deporte.",
+      "literal_quote": "Fijaros en que no hay una simple tarea de aceleración o de sprint, y aquí una tarea con mayor nivel de incertidumbre o de contacto.",
+      "full_transcript": "Aquí nos gusta, igual que hemos hablado de una entrevista individual y de una valoración individual, ver cuáles son esas acciones, esos patrones de movimiento y esas acciones diferenciadoras que tiene el jugador. Aquí vamos a ver nuestro número dos. Fijaros una serie de cortes de vídeo para que analicemos esas necesidades de aceleración, que son el factor determinante en la mayoría de los deportes de equipo hoy, y el sostenerlas a lo largo del partido y ese worst case scenario. Fijaros los escenarios a los que se tiene que enfrentar en el juego, en situaciones reales, este jugador, y nos va a dar una idea de cómo podríamos trabajar. Fijaros en la aceleración, contacto, sprint, lucha y cambio de dirección. Fijaros la reiteración de aceleraciones que tiene que realizar. Aquí podemos ver patrones de movimiento y qué habilidades diferenciadoras tiene este jugador, como una capacidad de aceleración en el contacto, una capacidad de lucha y de reiteración de esfuerzos de muy alta intensidad, que serán sobre los que tendremos que trabajar. Después veremos cómo los cuantificamos. Todo esto, en mi contexto, hace que esa capacidad de velocidad y aceleración la trabajemos de manera muy diferente a como las trabajaríamos en pista o en un entorno de fútbol, baloncesto u otros deportes colectivos. Aquí tenemos un ejemplo de cómo los podemos llegar a trabajar. Three, two, one. Go. Aquí tenemos un caso. Let's go, Berto. Let's go. Que trabajamos nosotros también. Donald. Tenía una tarea con su club en Francia. Nine, 10. Good. Incluimos cambios de dirección, incluimos trabajos de pecho suelo para salidas en distintas situaciones corporales que acercan a las demandas que vamos a tener después esas tareas de aceleración y velocidad. O tareas en campo en las cuales hay niveles de incertidumbre, niveles de toma de decisión y niveles de oposición. Fijaros en que no hay una simple tarea de aceleración o de sprint, y aquí una tarea con mayor nivel de incertidumbre o de contacto. Todo esto está muy determinado por el contexto, pero tendremos que introducirlo por esas características especiales que tiene, en este caso, mi especialidad, el rugby.",
+      "keywords": [
+        "analisis-video",
+        "aceleracion",
+        "contacto",
+        "incertidumbre",
+        "cambio-direccion",
+        "diseño-tareas",
+        "especificidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se debe trabajar la aceleración en deportes de equipo con contacto?",
+        "¿Por qué es importante incorporar incertidumbre en el entrenamiento de velocidad?",
+        "¿Qué habilidades se observan en el análisis de vídeo de los jugadores de rugby?"
+      ],
+      "related_terms": [
+        "reiteración de esfuerzos",
+        "alta intensidad",
+        "pecho suelo",
+        "toma de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo cuantificar el worst case scenario para las habilidades diferenciadoras.",
+      "context_after": "El proceso avanza hacia la programación grupal y la adaptación del entrenamiento con todo el staff multidisciplinar."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:08:26",
+      "end_timestamp": "00:10:47",
+      "start_seconds": 506,
+      "end_seconds": 647,
+      "duration_seconds": 141,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=506",
+      "title": "Programación de tareas como consecuencia del modelo",
+      "summary": "La programación se inicia evaluando la cultura del staff, el calendario, la densidad competitiva y el volumen de jugadores. El diseño de las tareas no es el punto de partida, sino la consecuencia final tras integrar toda la información contextual. Se advierte sobre el error de copiar tareas descontextualizadas de redes sociales.",
+      "literal_quote": "La tarea es una consecuencia de, no es un fin en sí mismo. La tarea será consecuencia de todo lo anterior.",
+      "full_transcript": "He hecho esa valoración individual, he hecho ese análisis contextual, he visto hacia dónde tenemos que acercar a nuestro deportista, cuáles son sus puntos fuertes, pero ahora me toca empezar a generar el modelo de trabajo, a generar estímulos y a generarlos de una forma lo más grupal posible para este equipo multidisciplinar. Esta parte de programación la iniciamos desde arriba, desde ese modelo, ver con el staff cómo queremos, cómo es su cultura de trabajo, cómo podemos integrar todo. A partir de ahí, hacemos una periodización, vemos ese calendario y vemos las características que tiene, e introducimos ahí qué volumen real de jugadores tenemos, qué densidad competitiva vamos a tener, las distintas características del calendario, momentos de mayor densidad competitiva, menos, nivel de los rivales, categoría de la competición, si es que competimos en distintas competiciones y esto puede hacer que unas sean más importantes que otras. Todos estos aspectos son muy importantes. Desde ahí, nosotros generamos un perfil de sesión y ahí es donde aparecen las tareas. Fijaros que hasta que hemos introducido tareas ha habido bastantes etapas. Ahora vamos a mostraros un sistema de semáforo, que seguramente otros profesionales también lo hayan mostrado, porque no es algo nuevo, en la Federación de Rugby llevamos trabajando con este sistema bastantes años. Pero lo más importante aquí son todos los pasos previos de integración y, como veremos después en el punto cinco, en los equipos multidisciplinares, esto ayuda a eliminar muchos posibles problemas de comunicación. Con todo esto, empezamos a razonar de una forma distinta a como muchas veces las redes sociales o algunas personas intentan vendernos una tarea que es maravillosa y demás. Una tarea puede ser buena o mala y la respuesta es siempre la misma: depende. Depende para qué, para quién, el momento, el contexto, etcétera. Con este modelo de programación, con esta propuesta, la tarea es una consecuencia de, no es un fin en sí mismo. La tarea será consecuencia de todo lo anterior.",
+      "keywords": [
+        "programacion",
+        "staff",
+        "periodizacion",
+        "densidad-competitiva",
+        "redes-sociales",
+        "diseño-tareas",
+        "contexto"
+      ],
+      "entities": [
+        "Federación de Rugby"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué afirma Manuel García Sillero que las tareas de entrenamiento son una consecuencia y no un fin?",
+        "¿Qué elementos se deben integrar antes de diseñar las tareas de entrenamiento?",
+        "¿Cuál es el peligro de copiar tareas de entrenamiento de redes sociales?"
+      ],
+      "related_terms": [
+        "cultura de trabajo",
+        "volumen de jugadores",
+        "perfil de sesión",
+        "equipos multidisciplinares"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se mostraron ejemplos en vídeo de tareas específicas que incorporan contacto y toma de decisión en rugby.",
+      "context_after": "Se presenta el 'sistema de semáforo' utilizado para categorizar y objetivar las sesiones de entrenamiento en el microciclo."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:10:47",
+      "end_timestamp": "00:15:28",
+      "start_seconds": 647,
+      "end_seconds": 928,
+      "duration_seconds": 281,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=647",
+      "title": "Sistema de semáforo para la clasificación de sesiones",
+      "summary": "Se implementa un 'sistema de semáforo' para equilibrar los objetivos de carga a través de datos GPS. Sesiones rojas: alto volumen/intensidad, campo completo, contacto real. Naranjas: alta intensidad, volumen medio, 3/4 de campo. Verdes: media intensidad, sin contacto, espacios reducidos. Amarillas: recovery o tácticas. Este lenguaje unifica al staff y facilita definir KPIs individuales.",
+      "literal_quote": "Dentro de este sistema, nos permite primero objetivar mucho las sesiones, construir el microciclo, hacer que todo el staff hable el mismo idioma y lo entienda.",
+      "full_transcript": "Para ello, este sistema de semáforo le da un poco de equilibrio al objetivo de la sesión y, por tanto, a la suma de tareas que van a reflejar esa sesión. Obviamente, yo voy a mostrar ahora cómo es mi sistema, cuáles son mis indicadores. Vosotros tendréis que adaptarlos en vuestra situación real. Están muy basados en GPS y aquí, como podéis observar, nosotros tenemos dentro de ese sistema de semáforo las sesiones categorizadas como rojo, que se caracterizan por alta intensidad, alto volumen. Ahora entraremos en ver qué entendemos por alta intensidad, alto volumen. Hay un contacto total, no quiere decir que sea a lo largo de toda la sesión, pero las situaciones de contacto son de contacto real. Ya habéis visto la intensidad de contacto del rugby 7 internacional, como hemos visto en el vídeo anterior. Y un aspecto importante es que se trabaja gran parte de la sesión a campo completo. Si nos vamos al cuadro superior, vemos que las distancias en ball in play, es decir, distancia netas, no brutas, solamente cuando hay balón en juego. He categorizado el high speed running, en este caso, la banda, el benchmark de este volumen, por encima de 21 km/h. El número de sprint por encima de 7 m/s y un ratio de aceleraciones/desaceleraciones. Esto son valores generales. Después tendríamos la sesión naranja, la cual se caracteriza por alta intensidad y un volumen menor. Vemos cómo aquí hay una pequeña diferencia en el volumen, tanto en la distancia total como en el high speed running. Un pequeño inciso: hay más métricas, de distancia y minuto, de RIE, pero he hecho un resumen de las métricas más fácilmente entendibles y comunes, que suelen tener todos los dispositivos GPS, todas las marcas, independientemente de la gama. Aquí, el nivel de contacto. Puede haber secuencias de contacto real, pero normalmente es un contacto más controlado, bien por el uso de protecciones, bien porque no se permiten según qué tipo de placajes o de contacto, o no se permite la lucha en todas las fases del juego. Normalmente, se trabaja en tres cuartos del campo, de línea 22 a línea 22, y no en campo completo. Esto en el fútbol podría ser área a área o alguna cosa similar. Tendríamos la sesión de media intensidad, que sería la sesión verde, en la cual no hay contacto. Esto ya es un factor muy importante. El volumen pasa a ser bajo. Fijaos que ya hay una diferencia significativa, y la intensidad siempre es el parámetro que intentamos mantener más alto, pero también tiene un descenso significativo. Se trabaja fundamentalmente en situaciones reducidas, de tres contra tres, cuatro contra tres, pero ya en espacios mucho más reducidos. Y la sesión amarilla, que es una sesión con un foco de baja intensidad, bajo volumen, un foco más en recovery, o sesiones a veces categorizadas como muy técnico-tácticas. Dentro de este sistema, nos permite primero objetivar mucho las sesiones, construir el microciclo, hacer que todo el staff hable el mismo idioma y lo entienda. Dentro de esto se generan benchmark individuales. En función de los KPIs, hay jugadores que a lo mejor dentro de esta sesión roja o naranja tienen objetivos individuales o trabajo compensatorio, porque según su momento, una sesión puede ser mucha o poca, según su estado individual, el volumen de minutos que esté jugando. Pero desde aquí podemos construir perfectamente tanto el diseño de tareas generales como la individualización por necesidades de un jugador u otro. Este es el sistema y las métricas resumidas que podemos utilizar nosotros.",
+      "keywords": [
+        "sistema-semaforo",
+        "gps",
+        "high-speed-running",
+        "volumen",
+        "intensidad",
+        "contacto",
+        "microciclo",
+        "staff",
+        "benchmark"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué características tiene una 'sesión roja' en el sistema de semáforo de entrenamiento?",
+        "¿Cómo facilita el sistema de semáforo la comunicación dentro de un equipo multidisciplinar?",
+        "¿Cuáles son las diferencias de volumen y contacto entre las sesiones rojas y verdes?"
+      ],
+      "related_terms": [
+        "ball in play",
+        "ratio de aceleraciones",
+        "línea 22",
+        "foco en recovery",
+        "trabajo compensatorio"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se enfatizó que las tareas de entrenamiento son una consecuencia de un proceso de análisis contextual y de periodización.",
+      "context_after": "Se plantea a los alumnos el ejercicio de adaptar el sistema de semáforo a sus propios contextos y recursos disponibles."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:15:28",
+      "end_timestamp": "00:19:47",
+      "start_seconds": 928,
+      "end_seconds": 1187,
+      "duration_seconds": 259,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=928",
+      "title": "Estructura de la sesión de Strength and Conditioning",
+      "summary": "Se detalla la estructura en sala: 1) Preparación (respiración, hipercapnia); 2) Trabajo isométrico, pliometría e individualización; 3) Velocidad y potencia; 4) Fuerza con encoders de velocidad para generar alta velocidad intencional; 5) Sistemas energéticos. Se enfatiza el cambio de paradigma al generar tendencias diarias de datos de velocidad en lugar de fotos puntuales.",
+      "literal_quote": "Para nosotros ha sido un cambio de paradigma el monitorizar constantemente, diariamente, además del dato, tener esas tendencias y no una fotografía puntual del día.",
+      "full_transcript": "Lo que os planteo como propuesta práctica es un trabajo para casa individual: diseñar cómo podría ser este sistema adaptado a vuestro contexto. Es decir: qué tecnología realmente tengo, cuáles son los KPIs, las métricas individuales, cuáles son las posibilidades que tengo para ajustar este sistema y cómo podría visualizarlo, comunicarlo y diseñarlo con el resto de mi staff. Como decíamos antes, este es el sistema global y esto lo trasladaríamos después al diseño de tareas. En el campo, creo que el rugby tiene un diseño muy concreto y me he centrado fundamentalmente en la estructura del trabajo más común a todos los alumnos, que sería el trabajo de strength and conditioning. Aquí intentamos balancear. Lo primero, la estructura tipo, creo que común, seguramente la usáis mucho vosotros. Una primera parte de preparación con mucho foco en el trabajo de respiración. Este trabajo de respiración va a variar un poco. En algunas sesiones, dependiendo de la intensidad, irá más orientado a la hipercapnia, a generar un entorno de activación metabólica. En otras, será un trabajo más de foco, de meternos en la sesión. El segundo bloque se suele componer de trabajo isométrico, que va a ir en función del objetivo de la sesión. Esto ya nos permite también individualizar un poco en base a la dosis. El trabajo de pliometría y el trabajo de lanzamientos va también en este primer bloque, y todo el trabajo individual. Hay una sesión grupal, pero es en este bloque donde se produce la individualización en función de necesidades individuales, bien sea por eslabones débiles o bien sea, como hemos hablado al inicio, por necesidad de potenciar determinados aspectos. Aquí es donde entra la diversificación, la individualización, dentro del programa general, cada uno en este bloque hace su trabajo individual. Después viene la parte de velocidad y potencia. Aquí podría entrar el movimiento con mayor exigencia e intención de velocidad. No quiere decir que en el bloque de fuerza no se haga, pero aquí la manifestación de la tarea iría muy orientada a esa parte. El que tenga mayor o menor peso va a depender del día de la semana y del momento de la temporada. Después entra el trabajo de fuerza. En nuestro caso, normalmente siempre se trabaja con el encoder de velocidad, aunque el foco esté en fuerzas, por un objetivo de control del volumen y de garantizar la intensidad. Como hemos ido hablando y hablaremos más adelante en el bloque de “recovery”, generar identidad creo que es muy importante. Para nosotros ha sido un cambio de paradigma el monitorizar constantemente, diariamente, además del dato, tener esas tendencias y no una fotografía puntual del día, de: “Hoy el deportista ha hecho 0,6 y ya en base a esto programo todo”. No. Esa monitorización constante. Hemos incluido y educado en esa intención de generar alta velocidad en todo ese trabajo de fuerza y ha sido un verdadero cambio. Normalmente trabajamos con dos o tres encoders en la sesión, incluso en esa parte de fuerza también. Y sistemas energéticos. En estos tres bloques, en la parte de velocidad, de fuerza y de sistemas energéticos, también puede haber individualización y la hay en función de las necesidades de unos y otros.",
+      "keywords": [
+        "strength-and-conditioning",
+        "hipercapnia",
+        "isometrico",
+        "pliometria",
+        "velocidad",
+        "fuerza",
+        "encoder",
+        "monitorizacion-constante",
+        "tendencias"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se estructura una sesión típica de Strength and Conditioning en alto rendimiento?",
+        "¿Qué importancia tiene usar encoders de velocidad en los entrenamientos de fuerza?",
+        "¿En qué fase de la sesión de fuerza se incluye el trabajo de individualización?"
+      ],
+      "related_terms": [
+        "activación metabólica",
+        "trabajo isométrico",
+        "eslabones débiles",
+        "intención de velocidad",
+        "sistemas energéticos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el sistema semáforo para la gestión de la carga del entrenamiento en campo.",
+      "context_after": "Se avanza hacia el algoritmo de control de fatiga y recuperación, basado en la complejidad de los mecanismos."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:19:47",
+      "end_timestamp": "00:22:37",
+      "start_seconds": 1187,
+      "end_seconds": 1357,
+      "duration_seconds": 170,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1187",
+      "title": "Algoritmo multifactorial para el control de la fatiga",
+      "summary": "La fatiga es un fenómeno complejo con mecanismos específicos según el deporte. Se compara a una 'coctelera' que mezcla daño muscular, tipo de esfuerzo, frecuencia competitiva y cambios horarios (jet lag). Las decisiones de recuperación deben guiarse siempre por el respeto a los plazos biológicos de regeneración tisular y alejarse de las modas.",
+      "literal_quote": "No hay un mecanismo único de producción de fatiga, sino que hay mecanismos específicos que tenemos que ir analizando.",
+      "full_transcript": "La parte de “recovery” la veremos completa en el punto siguiente. Esta es la estructura tipo, con los matices propios de día de la semana, de momento de la temporada, etcétera. ¿Cómo es el algoritmo del control de la fatiga o de esa parte de “recovery”? Insisto, luego vamos a tener el punto cuatro, pero es parte dentro de la sesión. No tengo nada en contra de este jugador, ni mucho menos, pero creo que es muy conocido y nos ayuda un poco. El algoritmo, como a veces es moda: “Este jugador ha puesto de moda esto, yo lo implemento directamente”. Creo que tenemos que usar un poco más la forma de pensar, y os pongo aquí una obra que para mí es clave a la hora de entender cómo se produce un fenómeno tan complejo como es la fatiga. Como dice Roger Enoka: “No hay un mecanismo único de producción de fatiga, sino que hay mecanismos específicos que tenemos que ir analizando”. Este es el algoritmo en el que deberíamos tratar de basarnos. Para ello pongo la imagen de una coctelera en la que tenemos que tener claro cómo se está produciendo en nuestro entorno o contexto y qué consecuencias tiene esa producción de fatiga nuestra, porque no será lo mismo, como hemos visto anteriormente, el daño muscular que se produce en el caso de Yusuf Serres, el jugador que hemos analizado, que además vemos que tiene unas distancias de aceleración, unas aceleraciones por minuto y unos cambios de dirección con situaciones de contacto muy recurrentes y que compite dos o tres veces al día en días consecutivos con cambios de huso horario muy potentes. Estos requerirán unos marcadores y unos indicadores diferentes a los de un jugador de fútbol que compite un día a la semana en una posición concreta en España sin cambio horario. Son cocteleras distintas. De ese análisis tendremos que ver cómo la abordamos en el corto, medio y largo plazo, cómo la planificamos y cómo la individualizamos. De ese análisis de demandas físicas, que ahora veremos indicadores, y en base a las herramientas y al contexto que tengamos a nuestra disposición. Luego hay una parte que es la recuperación biológica tisular, y esta gráfica del estudio de Ting-A-Ben está muy bien recordarla. Seguro que todos lo conocemos perfectamente. A veces queremos luchar mediante las estrategias de recuperación contra los plazos biológicos y esto es importante que hagamos entender a la hora de nuestro modelo de esa programación que hemos hablado anteriormente, que esto siempre tiene que estar presente y siempre darle coherencia a esa dosificación que planteamos.",
+      "keywords": [
+        "fatiga",
+        "algoritmo",
+        "recuperacion",
+        "coctelera",
+        "jet-lag",
+        "daño-muscular",
+        "plazos-biologicos"
+      ],
+      "entities": [
+        "Roger Enoka",
+        "Yusuf Serres",
+        "Ting-A-Ben"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se dice que la fatiga no tiene un mecanismo único de producción?",
+        "¿Qué variables integran la 'coctelera' de la fatiga en un jugador internacional?",
+        "¿Por qué es un error intentar acelerar la recuperación sin respetar los plazos biológicos?"
+      ],
+      "related_terms": [
+        "cambios de huso horario",
+        "recuperación biológica tisular",
+        "estrategias de recuperación",
+        "daño muscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló la organización del trabajo en sala (Strength and Conditioning).",
+      "context_after": "Se enlazan estos conceptos con el sistema de seguimiento y la correcta selección de KPIs e indicadores."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:22:37",
+      "end_timestamp": "00:25:05",
+      "start_seconds": 1357,
+      "end_seconds": 1505,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1357",
+      "title": "Selección de KPIs y la utilidad real de la tecnología",
+      "summary": "El modelo debe seleccionar KPIs para reajustes grupales e individuales. Se recomiendan lecturas de Bove, Cal Dietz y Enoka, así como artículos de Buchheit sobre el manejo de carga. La adopción de tecnología (smartwatches, plataformas de fuerza) solo se justifica si responde a un problema y mejora el análisis, sin caer en modas atractivas.",
+      "literal_quote": "Si no ayuda a entender una dimensión ni a mejorar nuestro día a día, la tecnología no es útil, por más que sea atractiva, esté de moda o la use tal o cual eminencia.",
+      "full_transcript": "Con este modelo de programación, con este diseño de sesiones, tareas y esta lógica que hemos implantado, empieza nuestro sistema de seguimiento. Qué indicadores vamos a seleccionar, qué KPIs vamos a seleccionar para poder ir reajustando, no solo a nivel macro, es decir, a nivel de todo el equipo, sino también cómo vamos a poder tener un modelo lo suficientemente sensible para hacer adaptaciones individuales con ese sistema de semáforos, esos ajustes o ese trabajo extra o por debajo que pueden necesitar algunos jugadores. Obras que pueden ayudaros a entender, a visualizar y a completar esos trabajos. Para mí hay tres obras que son muy interesantes. Hay muchísimas más, pero estas tres: “El sistema de cuadrantes” de Daniel Bove, “El trifasic training” de Cal diet y “La mecánica del movimiento humano” de Roger Enoka. Son tres obras básicas que seguro muchos de vosotros ya conocéis, pero que os recomiendo para completar todo esto. Fijaros en este sistema de cuadrantes de Daniel Bove, tan de moda últimamente, y en este artículo de Martín Buchet, en el que toda esta tecnología de la que disponemos a día de hoy, en la que el propio deportista se monitoriza a sí mismo constantemente con smartwatch o herramientas similares, pulseras de actividad, etcétera, de las que hablaremos más adelante, o sistemas de plataformas de fuerza, GPS, etcétera. Todo ello nos va a ayudar a controlar ese concepto tan etéreo y tan complejo que es la carga en sus distintas manifestaciones y nos hace un análisis. Él considera qué es más positivo y eficiente a nivel coste-beneficio, pero cada uno en su contexto tendrá que analizarlo. Lo más importante es que la tecnología debe dar respuesta a un problema. Si no ayuda a entender una dimensión ni a mejorar nuestro día a día, la tecnología no es útil, por más que sea atractiva, esté de moda o la use tal o cual eminencia.",
+      "keywords": [
+        "kpis",
+        "seguimiento",
+        "tecnologia",
+        "smartwatch",
+        "plataformas-fuerza",
+        "carga",
+        "coste-beneficio"
+      ],
+      "entities": [
+        "Daniel Bove",
+        "Cal Dietz",
+        "Roger Enoka",
+        "Martín Buchheit"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué criterio debe cumplir la tecnología deportiva para ser útil según Manuel García Sillero?",
+        "¿Qué obras o libros recomienda para entender el control de carga y entrenamiento?",
+        "¿Por qué es peligroso usar tecnología deportiva solo porque está de moda?"
+      ],
+      "related_terms": [
+        "sistema de seguimiento",
+        "adaptaciones individuales",
+        "eficiente a nivel coste-beneficio"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la necesidad de respetar los tiempos de recuperación biológica y entender los mecanismos de fatiga.",
+      "context_after": "Se muestra cómo se aplican los dispositivos GPS para entregar reportes individuales a los deportistas."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:25:05",
+      "end_timestamp": "00:26:40",
+      "start_seconds": 1505,
+      "end_seconds": 1600,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1505",
+      "title": "Cuantificación de carga externa y empoderamiento del deportista",
+      "summary": "El GPS cuantifica el volumen, intensidad y densidad de la carga externa. Es clave poner estos datos a disposición del deportista en informes individuales, educando al equipo y facilitando la retroalimentación del modelo diseñado, de modo que las desviaciones ayuden a perfeccionar futuras sesiones.",
+      "literal_quote": "Hoy lo ponemos a disposición del deportista con informes individuales, métricas de volumen, de intensidad y de densidad.",
+      "full_transcript": "¿Cómo trabajamos nosotros en este sentido? Para nosotros el GPS es un parámetro fundamental en cuanto a la carga externa, y intentamos entenderla y diferenciarla muy bien en métricas de volumen y ponerlas a disposición del deportista. Esto es algo que nos ha costado, porque no todos los entrenadores lo entienden. Hoy lo ponemos a disposición del deportista con informes individuales, métricas de volumen, de intensidad y de densidad. Todo ello, si os acordáis, en el sistema de semáforo está mezclado, porque nos ayuda a construir nuestro modelo, a entender fácilmente las diferentes respuestas individuales y nos permite evaluarnos el diseño a nosotros mismos. Ver si lo que estaba previsto se está alcanzando en cada una de las variables. Esto ayuda a que el diseño de tareas sea mucho más sencillo y cambia el formato habitual de pensar primero en la tarea. La tarea es la consecuencia de aquello a lo que quiero llegar. Además, es muy sensible a la individualización en cuanto a poder determinar en qué parámetro un jugador está por encima o por debajo.",
+      "keywords": [
+        "gps",
+        "carga-externa",
+        "informes-individuales",
+        "volumen",
+        "intensidad",
+        "densidad",
+        "individualizacion",
+        "feedback"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante compartir los datos de GPS con el deportista?",
+        "¿Qué variables mide el GPS en el análisis de carga externa?",
+        "¿Cómo ayuda la monitorización de carga externa a evaluar el trabajo del propio staff?"
+      ],
+      "related_terms": [
+        "parámetro fundamental",
+        "informes individuales",
+        "evaluarnos el diseño a nosotros mismos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se argumentó que la tecnología solo tiene valor si soluciona problemas reales del cuerpo técnico.",
+      "context_after": "Se expone qué hacer en casos donde no hay tecnología GPS, apoyándose en analistas de vídeo."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:26:40",
+      "end_timestamp": "00:29:05",
+      "start_seconds": 1600,
+      "end_seconds": 1745,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1600",
+      "title": "Análisis de demandas del juego por fase y posición",
+      "summary": "Ante la ausencia de GPS, se pueden usar analistas de video para categorizar acciones (ataque, defensa, fases mixtas) y duración de esfuerzos, generando tendencias por rivales o momentos de la temporada. Con GPS, se identifican con exactitud las exigencias diferenciadas por posición y se detecta el escenario más exigente ('worst case scenario').",
+      "literal_quote": "Esto nos permite generar tendencias por rivales, por momentos de la temporada, por partidos dentro o fuera, infinidad de acciones.",
+      "full_transcript": "A ello le sumamos el análisis de demanda. Esto es un trabajo que también hacen los analistas de vídeo, pero en caso de no tener GPS o no tener acceso a analistas de vídeo, todos podemos categorizar y cuantificar acciones. Esto es un ejemplo de rugby 7, en el que categorizamos acciones de ataque, defensa o fases mixtas, en las que hay recuperación o pérdida de posesión y en las que categorizamos las acciones en función de su duración a lo largo de una temporada. Esto nos permite generar tendencias por rivales, por momentos de la temporada, por partidos dentro o fuera, infinidad de acciones. Si además tenemos GPS, podemos ver las diferencias, generar ese worst case scenario que vemos a posteriori y nos permite ordenar el total de esfuerzos, cuantificar el ball in play y acercar nuestros estímulos y saber muy bien cuál es nuestro contexto y cuáles son nuestras demandas. Si no tengo GPS, a través de las acciones de juegos reducidos, también puedo acercar a estas situaciones nuestro día a día del entrenamiento. Un aspecto clave para nosotros es el worst case scenario. Necesitamos tener muy claro ese worst case scenario en distintas métricas. Aquí aparecen algunas de las métricas que habéis visto que luego aparecen en ese resumen básico de métricas básicas que he pensado de sesiones en el sistema de semáforo. Aquí vemos cómo se comportan cada uno de los siete jugadores de las siete posiciones, datos medios en las fases más exigentes. Veis que las demandas son similares, pero hay diferencia por posiciones. Esto nos permite tener una guía muy clara de cuál es el peor escenario en fases de juego. Aquí lo tendríamos en medias partes de una competición. Como veis, son bastante exigentes en el caso del rugby 7. Con toda esta categorización tenemos muy cuantificada la carga externa.",
+      "keywords": [
+        "analisis-demanda",
+        "video",
+        "tendencias",
+        "worst-case-scenario",
+        "posiciones",
+        "ball-in-play",
+        "juegos-reducidos"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo cuantificar la carga y acciones si un equipo no dispone de tecnología GPS?",
+        "¿Qué variables se categorizan mediante el análisis de vídeo en un partido?",
+        "¿Por qué es necesario analizar el 'worst case scenario' dividiendo los datos por posiciones?"
+      ],
+      "related_terms": [
+        "analistas de vídeo",
+        "fases mixtas",
+        "pérdida de posesión",
+        "fases más exigentes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicaba la entrega de reportes GPS directamente a los deportistas.",
+      "context_after": "El análisis se mueve de la cuantificación de la carga externa hacia el control de la carga interna y bienestar."
+    },
+    {
+      "id": "V03-011",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:29:05",
+      "end_timestamp": "00:32:19",
+      "start_seconds": 1745,
+      "end_seconds": 1939,
+      "duration_seconds": 194,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1745",
+      "title": "Integración de carga interna y externa mediante tendencias",
+      "summary": "Para que el modelo sea completo, se debe cruzar la carga externa (GPS, plataformas de fuerza) con la interna (Wellness, RPE). Es esencial trabajar por 'tendencias' en lugar de datos puntuales, integrando métricas a través de APIs para comparar al deportista consigo mismo, con su grupo y con su posición, favoreciendo decisiones de individualización sólidas.",
+      "literal_quote": "Queremos ver tendencias del individuo versus el grupo, del individuo versus la posición y del individuo versus sí mismo, porque con esto podemos tomar decisiones de individualización objetivas.",
+      "full_transcript": "Pero un modelo que quiera ser completo debe unirse a la carga interna. Fijaros, aquí tenemos nuestro sistema de CRM, que utilizamos en la Federación Española de Rugby. Tenemos un wellness, un readiness normal y corriente. Una cosa con la que trabajamos mucho es el trend, la tendencia, para nosotros es muy importante. Fijaros, esto es precompetición, pretorneo. Fijaros cómo todos están en verde o amarillo. Es decir, hemos conseguido llegar con un buen nivel de wellness a la precompetición. Aquí tenemos un postcompetición de un primer día de competición y fijaros cómo todos llegaron con una tendencia muy buena, pero cómo empezamos a tener dolores y fatiga. Tenemos que buscar sistemas que permitan observar muy bien esas tendencias. Esto es un ejemplo de visualización que utilizamos nosotros. Me parece muy sencillo, pero cada uno tendrá que encontrar el suyo y prever cómo va a comportarse su modelo en base a estas situaciones, que son bastante lógicas y coherentes. ¿Esto a qué va unido? A todo el control. Aquí tenemos más visualizaciones reales de carga externa. Nosotros, mediante sistemas de APIs con nuestro GPS, con nuestra plataforma de fuerza, integramos las métricas, en este caso de alta intensidad. Vemos las evoluciones mezcladas con las evoluciones de wellness para poder ver la relación que existe entre carga externa y carga interna. Un ejemplo de un resumen de un jugador concreto, de la información que él tiene diariamente, que nos parece muy interesante y básico hacerle partícipe. Como decíamos anteriormente, en este caso, el RP, la relación con la alta velocidad, un parámetro muy neuromuscular. Hemos buscado ese sistema de visualización de carga interna y externa que nos permita fácilmente almacenar y ordenar las métricas de interés juntas, visualizarlas conjuntamente y compartirlas con el deportista. Además de ello, buscamos, en este caso, datos de plataformas de fuerza, integrar ese concepto de foto versus tendencia. Queremos ver tendencias del individuo versus el grupo, del individuo versus la posición y del individuo versus sí mismo, porque con esto podemos tomar decisiones de individualización objetivas, bastante solventes y que se alejen mucho del error. Como vengo diciendo, compartidas con el resto del staff para evitar problemas de comunicación o de interpretación. Con todo ello, la realidad es que tenemos un modelo bastante sólido que nos puede ayudar bastante en la",
+      "keywords": [
+        "carga-interna",
+        "wellness",
+        "tendencias",
+        "apis",
+        "rpe",
+        "plataformas-fuerza",
+        "individualizacion",
+        "integracion"
+      ],
+      "entities": [
+        "Federación Española de Rugby",
+        "GPS"
+      ],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se relacionan los datos de carga interna y externa en un sistema de rendimiento?",
+        "¿Por qué se prefiere analizar 'tendencias' en el wellness en lugar de datos de días aislados?",
+        "¿Con qué variables se comparan las métricas individuales de un jugador al usar plataformas de fuerza?"
+      ],
+      "related_terms": [
+        "sistema de CRM",
+        "readiness",
+        "sistemas de APIs",
+        "foto versus tendencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la manera de analizar métricas basándose en fases de vídeo cuando no hay tecnología.",
+      "context_after": "Fin del bloque disponible en este fragmento."
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+    "speaker": "Manuel García Sillero",
+    "total_duration": "00:16:59",
+    "total_duration_seconds": 1019,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:33",
+      "start_seconds": 1,
+      "end_seconds": 153,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Protocolos integrales de recuperación y suplementación",
+      "summary": "Se presenta el protocolo de suplementación y recuperación basado en el sistema de semáforo, diseñado junto a nutricionistas. En deportes de múltiples esfuerzos diarios como el Rugby 7, se aplican estrategias que incluyen nutrición, inmersión en agua fría (ice baths), higiene del sueño y fotobiomodulación, buscando generar hábitos sostenibles en el deportista.",
+      "literal_quote": "Recomendación: creo que estos sistemas diseñados por todo el equipo de profesionales son básicos dentro de nuestro modelo de trabajo y ayudan mucho al deportista a generar hábitos.",
+      "full_transcript": "Hola de nuevo, vamos a empezar este cuarto punto después de ver el punto tres, en el cual hemos hablado un poco de todo el modelo, pero que viene a ser completado por la monitorización acerca de los protocolos de fatiga y recuperación. En primer lugar, este es un ejemplo de cuál es el protocolo de suplementación en base al sistema de semáforo que hemos visto anteriormente, que utilizamos en la Selección Española de Rugby 7. Obviamente, esto está diseñado conjuntamente con los expertos en esta materia, que son los nutricionistas, no es cosa exclusivamente mía, ni muchísimo menos. Es un ejemplo concreto de visualización y de cómo ordenamos esta parte de la suplementación en base al sistema que hemos hablado anteriormente, intentando ser coherentes con las demandas y las exigencias que van a tener cada uno de estos días que hemos visto anteriormente. Recomendación: creo que estos sistemas diseñados por todo el equipo de profesionales son básicos dentro de nuestro modelo de trabajo y ayudan mucho al deportista a generar hábitos, de lo que hablaremos un poquito más adelante. En esta misma línea, el rugby 7 tiene unas características muy especiales, en las cuales se compite varias veces a lo largo del día, como ocurre en otros deportes, como puede ser el vóley playa, incluso tenis, deportes de raqueta, pádel, etcétera. Por lo tanto, aquí tenemos un ejemplo de un protocolo, de cómo es un resumen de estrategias a lo largo del día, no solamente nutricionales, sino también algunas estrategias de recovery, el caso de uso de ice baths o estrategias de sueño, nuestras estrategias de higiene del sueño, a las que sumaremos ahora, pues estamos introduciendo la fotobiomodulación y la luz roja, pero es un detalle de cómo lo hacemos nosotros. Esto no quita que no haya individualizaciones puntuales por determinados jugadores, por costumbres, etcétera, incluso por volumen de participación en el juego, pero es el esquema que nosotros utilizamos, insisto, solamente en la parte de torneo.",
+      "keywords": [
+        "suplementacion",
+        "recuperacion",
+        "sistema-semaforo",
+        "ice-baths",
+        "fotobiomodulacion",
+        "habitos",
+        "multidisciplinar"
+      ],
+      "entities": [
+        "Selección Española de Rugby 7"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran los protocolos de suplementación en el alto rendimiento?",
+        "¿Qué estrategias de recuperación son vitales en deportes con múltiples competiciones diarias?",
+        "¿Por qué es importante el diseño multidisciplinar en las rutinas de recuperación?"
+      ],
+      "related_terms": [
+        "ice baths",
+        "higiene del sueño",
+        "fotobiomodulación",
+        "equipo de profesionales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se finaliza el bloque tres sobre el modelo de monitorización de cargas y se introduce el bloque de fatiga.",
+      "context_after": "Se detalla cómo organizar los KPIs de recuperación utilizando un sistema de cuadrantes."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:02:33",
+      "end_timestamp": "00:05:24",
+      "start_seconds": 153,
+      "end_seconds": 324,
+      "duration_seconds": 171,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=153",
+      "title": "Sistema de cuadrantes y KPIs para la toma de decisiones en recuperación",
+      "summary": "Se expone un sistema de cuadrantes para clasificar el estado de recuperación del deportista. Una recuperación tradicional (24-36h) se aplica si métricas como el CMJ (>95%), HRV, GPS y Wellness son óptimas. Si hay descensos significativos, se amplía la recuperación o se individualiza. Este enfoque es visual, entendible para el staff y hace partícipe al deportista.",
+      "literal_quote": "Como veis, es un sistema bastante sencillo, bastante entendible por los distintos miembros del staff, pero que permite objetivar y, sobre todo, permite hacer partícipe al deportista de este proceso de recuperación.",
+      "full_transcript": "Este sería el principal esquema de KPIs, la ordenación de KPIs en cuanto a la parte de recuperación. Usamos, como hemos visto también anteriormente, un sistema de cuadrantes que facilita mucho la visualización y la comprensión por parte de todo el staff. Aquí tenemos cuatro posibles situaciones. Una recuperación tipo de 24, 36 horas, en el caso de que los principales indicadores, que son resultados de CMJ, métricas de CMJ, estén dentro del 95 % con una heart rate variability estable y unas métricas de GPS previas y un wellness en estado razonable. En este caso, optamos por una recuperación tradicional en cuanto a la temporalidad. Una recuperación un poco ampliada es cuando las métricas de CMJ descienden un poquito, cuando hay cierta variabilidad acentuada o cuando el GPS no está mal, pero hay algunas alteraciones. Y aquí no iríamos a métricas; en nuestro caso, por ejemplo, tenemos métricas de aceleración o métricas de los RIE, de los esfuerzos de alta intensidad, son las que más determinamos, así como también las métricas de contacto, las más neuromusculares, aceleraciones, desaceleraciones, minutos, similar. ¿Cuándo empezamos ya a tomar decisiones o a individualizar un poquito más? Cuando ya hay un descenso más acentuado del CMJ y, sobre todo, además, cuando el wellness o la variabilidad cardíaca empiezan a irse un poquito. Nos metemos en individualización, y aquí ya lo vemos un poco más en global todo el equipo, cuando además de una alteración importante en cuanto al CMJ y a la variabilidad de la frecuencia cardíaca, encontramos wellness y GPS un poco alejados. Aquí es donde nos meteríamos en esa individualización. Como veis, es un sistema bastante sencillo, bastante entendible por los distintos miembros del staff, pero que permite objetivar y, sobre todo, permite hacer partícipe al deportista de este proceso de recuperación. No es aleatorizado, es bastante replicable en el tiempo y es bastante cómodo.",
+      "keywords": [
+        "sistema-cuadrantes",
+        "kpis",
+        "cmj",
+        "hrv",
+        "gps",
+        "wellness",
+        "individualizacion"
+      ],
+      "entities": [
+        "CMJ",
+        "GPS"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Framework",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el sistema de cuadrantes para evaluar la recuperación deportiva?",
+        "¿Qué indicadores determinan si un deportista necesita individualizar su recuperación?",
+        "¿Por qué es útil un sistema visual de KPIs para el equipo técnico?"
+      ],
+      "related_terms": [
+        "recuperación tradicional",
+        "variabilidad cardíaca",
+        "esfuerzos de alta intensidad",
+        "hacer partícipe al deportista"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los protocolos de suplementación y las estrategias higiénico-dietéticas (sueño, nutrición).",
+      "context_after": "Se presenta el uso de la dinamometría entre sesiones para objetivar la fatiga."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:05:24",
+      "end_timestamp": "00:07:11",
+      "start_seconds": 324,
+      "end_seconds": 431,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=324",
+      "title": "Dinamometría entre sesiones para el control neuromuscular",
+      "summary": "En periodos de alta carga o con jugadores en procesos de Return to Play o historial de lesiones, se utiliza la dinamometría entre sesiones (ej. musculatura aductora con dispositivos VALD o ForceFrame). Permite objetivar la pérdida de capacidad contráctil en el mismo día mediante un gesto seguro y técnicamente sencillo, facilitando la creación de tendencias.",
+      "literal_quote": "La dinamometría nos ofrece la facilidad de que técnicamente es un gesto muy sencillo, no hay afectación y expresa la capacidad contráctil de manera segura, fiable y fácil de obtener y de generar esa tendencia.",
+      "full_transcript": "Además de ello, en jugadores con historia de lesiones o, en nuestro caso, en épocas de alta carga, utilizamos este protocolo muy interesante, en el cual se utiliza la dinamometría entre sesiones como herramienta de control. Aquí os pongo un caso real, un ejemplo de un jugador nuestro, en el que, como podéis observar, era una Teisco, en el que podemos ver la producción de fuerza en la mañana. Fijaros en la segunda sesión del día el importante descenso que se produce en ambos lados. Nosotros lo utilizamos muchísimo en musculatura aductora, en este caso utilizando dinamómetros de VALD. A veces hemos utilizado también ForceFrame, también de dispositivos de VALD, u otras marcas. Creo que aquí lo importante no es el dispositivo, sino la idea. Jugadores con historia de lesión o en proceso de return to play, o en algunos casos de alta carga, utilizar estas dinamometrías por esa pérdida de capacidad contráctil entre sesiones o en el día a día, dentro de ese proceso de planificación de individualización de la recuperación, son también herramientas muy útiles. La dinamometría nos ofrece la facilidad de que técnicamente es un gesto muy sencillo, no hay afectación y expresa la capacidad contráctil de manera segura, fiable y fácil de obtener y de generar esa tendencia de la que hablábamos en el bloque anterior.",
+      "keywords": [
+        "dinamometria",
+        "return-to-play",
+        "lesiones",
+        "capacidad-contractil",
+        "tendencias",
+        "aductores",
+        "forceframe"
+      ],
+      "entities": [
+        "VALD",
+        "ForceFrame"
+      ],
+      "topics": [
+        "Return to Play",
+        "Lesiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué utilidad tiene la dinamometría entre sesiones en el deporte de alto rendimiento?",
+        "¿Cómo se mide la pérdida de capacidad contráctil en jugadores con alta carga?",
+        "¿Qué ventajas ofrece la dinamometría respecto a la medición de la fatiga?"
+      ],
+      "related_terms": [
+        "pérdida de capacidad contráctil",
+        "dinamómetros de VALD",
+        "musculatura aductora",
+        "historia de lesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo clasificar la necesidad de recuperación de un jugador basándose en su CMJ, GPS y Wellness.",
+      "context_after": "El análisis se desplaza hacia la adaptación térmica y el uso correcto de evidencia científica en el uso de ice baths y sauna."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:07:11",
+      "end_timestamp": "00:11:06",
+      "start_seconds": 431,
+      "end_seconds": 666,
+      "duration_seconds": 235,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=431",
+      "title": "Contextualización de la evidencia: Ice baths y adaptación térmica",
+      "summary": "Es vital ser crítico con la evidencia científica; estudios que penalizan la crioterapia tras trabajo excéntrico pueden no ser aplicables al contexto real del deporte. Se ejemplifica el uso de la sauna post-entrenamiento en Barcelona para adaptar a las jugadoras al calor y humedad de Hong Kong, priorizando siempre básicos como el sueño, la nutrición y la correcta dosificación del estímulo.",
+      "literal_quote": "Tenemos que ver bien cuál es la realidad de nuestro contexto y si esa evidencia es realmente replicable en nuestra actividad.",
+      "full_transcript": "También utilizamos algoritmos un poco concretos, y aquí es cómo lo razonamos. En este caso he puesto el ejemplo del ice bath. Ahora que está tan en controversia el frío y el calor. Buscamos no solamente considerar los aspectos fisiológicos, sino también el posible efecto psicológico que pueda tener. Aspectos como el contexto en el que nos encontramos: si estamos en competición, en entrenamiento, dónde ubicamos la competición. A veces competimos en entornos muy calurosos, como puede ser Dubái o Hong Kong, y a veces en entornos muy fríos, como puede ser Canadá o Nueva York. Con esto, lo que hablábamos al principio de nuestro modelo, de esa evaluación del contexto tan importante. También, en este sentido, tener muy claro la evidencia que hay al respecto, pero también ser críticos con ella. Muchos de los estudios que están penalizando la utilización del ice bath o de la crioterapia para las adaptaciones post-ejercicio están hechos en contextos muy analíticos, como pueden ser contracciones excéntricas, en los cuales efectivamente hay pérdida de señalización anabólica por ese frío. Pero tenemos que ver bien cuál es la realidad de nuestro contexto y si esa evidencia es realmente replicable en nuestra actividad. En esta misma línea, un ejemplo de cómo hemos tratado de aprovechar lo mejor de cada técnica. En Barcelona, 18 de marzo, como preparación para el campeonato en Hong Kong, donde las condiciones tienen una diferencia de humedad extraordinarias. Hong Kong tiene una humedad cercana al 100 % y 10 o 12 grados más de temperatura media que Barcelona. Allí hicimos un protocolo, como podéis ver aquí en la referencia bibliográfica, de adaptación al esfuerzo utilizando la sauna inmediatamente post-entrenamiento. En cambio, allí sí que utilizamos el ice bath post-entrenamiento por la percepción positiva que notaban los jugadores e integrado dentro de todas estas métricas que hemos utilizado en nuestro modelo. En este sentido, a mí posiblemente esta revisión narrativa del 2025 es de las que más me gusta, porque ordena muy bien los efectos demostrados de las distintas técnicas de recuperación. Pero siempre, como suele ocurrir cada vez que se revisa en profundidad este tema, cuidar muy bien los básicos: el sueño, la nutrición y la programación de los estímulos. Esto no quiere decir que el resto de dispositivos o de técnicas no se utilicen, pero hay que poner el foco en lo principal y el resto son detalles que pueden ayudar en ese proceso.",
+      "keywords": [
+        "ice-baths",
+        "crioterapia",
+        "evidencia-cientifica",
+        "adaptacion-termica",
+        "sauna",
+        "sueño",
+        "nutricion"
+      ],
+      "entities": [
+        "Dubái",
+        "Hong Kong",
+        "Barcelona",
+        "Canadá",
+        "Nueva York"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Por qué se debe ser crítico con los estudios sobre el uso de hielo (ice baths) en recuperación?",
+        "¿Cómo se puede preparar a un equipo para competir en entornos de alta humedad y calor?",
+        "¿Cuáles son los fundamentos básicos antes de aplicar técnicas avanzadas de recuperación?"
+      ],
+      "related_terms": [
+        "pérdida de señalización anabólica",
+        "contracciones excéntricas",
+        "adaptación al esfuerzo",
+        "efecto psicológico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expuso el uso de dinamómetros para controlar de manera segura y fiable el descenso del rendimiento contráctil.",
+      "context_after": "El foco cambia hacia la educación del deportista, construyendo una disciplina y hábitos de vida que fomenten el rendimiento 24/7."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:11:06",
+      "end_timestamp": "00:14:45",
+      "start_seconds": 666,
+      "end_seconds": 885,
+      "duration_seconds": 219,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=666",
+      "title": "Herramientas de recuperación, tecnología y la identidad del deportista",
+      "summary": "Se enfatiza el paso de la motivación a la disciplina para consolidar una 'identidad' en el deportista de 24 horas. Para la recuperación se aplican sistemas de restricción de flujo sanguíneo (activos en bici o pasivos) y prendas compresivas para edemas de viaje. Se validan las pulseras de actividad para monitorización y adherencia, pero se descartan los anillos inteligentes por falta de fiabilidad en la lectura del sueño.",
+      "literal_quote": "A nosotros nos gusta hablar de que este autocuidado... no sea un hábito, sino una identidad. Que el deportista realmente haga de su día a día y de su forma de vida ese cuidado.",
+      "full_transcript": "Dentro de nuestra función creo que tenemos una parte educativa muy importante, sobre todo en aquellos deportistas jóvenes que entran en el alto rendimiento. Al principio, hay una etapa en la que la motivación sostiene cualquier actividad. La motivación tiene un periodo, luego empieza a descender y ahí habremos debido crear disciplina, y esa disciplina, sostenida en el tiempo, generará hábitos. Pero a nosotros nos gusta hablar de que este autocuidado, esta búsqueda del rendimiento y este intentar vivir 24 horas con ese objetivo de mejorar el rendimiento no sea un hábito, sino una identidad. Que el deportista realmente haga de su día a día y de su forma de vida ese cuidado de todos esos pequeños detalles, dentro de los cuales el control de la fatiga y la recuperación son una herramienta fundamental para el rendimiento. Algunas cosas no tan fundamentales, pero que nos funcionan bastante bien y que me gustaría compartir con vosotros: el uso de herramientas de restricción de flujo. A nivel grupal utilizamos estas mallas. No son económicas, pero son muy cómodas para el trabajo activo que hacemos en el MD+1 con bicicleta estática sin impacto ninguno. En mi caso, siempre lo hago exclusivamente con bicicleta, con algunos jugadores individuales si lo hacemos pasivo, y ahí sí utilizamos sistemas de oclusión por presión. Estos son los beneficios que buscamos. En mi experiencia, al principio cuesta un poquito introducir esto, porque puede generar cierto disconfort, es un poco incómodo, pero el jugador, cuando es constante, empieza a valorar las mejoras de esta técnica. Más cosas que utilizamos mucho, sobre todo en viaje y en las primeras horas postviaje, y para controlar el edema intracompetición: utilizamos prendas compresivas. Son prendas muy cómodas y la verdad es que nosotros, insisto, sobre todo en viaje y postviaje, nos funcionan muy bien. Las de pierna completa son las que más utilizamos. Más herramientas que hemos utilizado en esta línea: las pulseras de actividad y los anillos. En nuestra experiencia, los anillos para la monitorización del sueño los tuvimos que quitar, porque a día de hoy creo que la sensibilidad no está todavía bien conseguida y los datos no nos parecieron del todo fiables. Sí, en cambio, las pulseras de actividad me me parecen una herramienta muy útil. Ayudan mucho a generar esa identidad que hablábamos anteriormente con el deportista, sobre todo en deportistas jóvenes. Aquellos dispositivos que tienen un sistema en el cual puedes controlar a varios deportistas del mismo equipo o a todo el equipo son una ayuda para el manejo y la objetivación de la carga interna muy interesante. A título individual, está bien si el deportista cree que el anillo le puede ayudar, pero insisto, a nosotros esa fiabilidad no nos terminó de convencer.",
+      "keywords": [
+        "identidad",
+        "restriccion-flujo",
+        "bfr",
+        "prendas-compresivas",
+        "pulseras-actividad",
+        "monitorizacion-sueño",
+        "tecnologia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué es importante crear una 'identidad' en el deportista más allá de la motivación?",
+        "¿Qué beneficio aporta el uso de restricción de flujo sanguíneo (BFR) post-partido?",
+        "¿Qué opinión profesional se tiene sobre los anillos inteligentes para medir el sueño?"
+      ],
+      "related_terms": [
+        "deportista de 24 horas",
+        "restricción de flujo",
+        "oclusión por presión",
+        "edema intracompetición",
+        "pulseras de actividad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó que las técnicas de recuperación deben adaptarse al entorno y a la correcta aplicación de la evidencia empírica.",
+      "context_after": "Se abordan las terapias basadas en luz roja y la higiene real del sueño para culminar el bloque de recuperación."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:14:45",
+      "end_timestamp": "00:17:00",
+      "start_seconds": 885,
+      "end_seconds": 1020,
+      "duration_seconds": 135,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=885",
+      "title": "Fotobiomodulación y priorización de hábitos reales de sueño",
+      "summary": "Se está introduciendo la fotobiomodulación (NIR a 850 nanómetros) por su portabilidad en competiciones, recordando al deportista que no es una herramienta milagrosa. Se prioriza mantener hábitos coherentes de higiene de sueño por encima de soluciones superficiales de moda, como el uso de gafas bloqueadoras de luz azul mientras se siguen mirando pantallas.",
+      "literal_quote": "Es más coherente tener unos buenos hábitos de cuidado de esa higiene del sueño, más que pensar en detalles como pueden ser las gafas.",
+      "full_transcript": "Cosas que estamos introduciendo ahora es la luz, las terapias de luz roja y la fotobiomodulación. En este sentido, un resumen de los distintos tipos que hay de estas herramientas. Conceptos importantes: el concepto de irradiancia, de la potencia, es decir, de adónde llega el tejido, la energía que llega al tejido para conseguir esos efectos recuperadores. Y la longitud de onda. Fundamentalmente expresada en nanómetros, nos va a expresar la profundidad que alcanza, el tejido al que llega. Nosotros nos estamos centrando en el NIR y en 850 nanómetros como herramienta de recuperación. Lo estamos utilizando fundamentalmente en competición, por el hecho de ser transportables, y en los días de alta intensidad. Importante: convencer al deportista de que esto no es milagroso, esto es una ayuda más y que depende mucho de sostenerlo en el tiempo. Nuestra experiencia todavía es corta, porque lo acabamos de introducir, pero sí está teniendo buen calado entre los deportistas. En este sentido, creo que debe ir muy acompañado de herramientas de higiene del sueño. Por ejemplo, en el tema de las gafas de protección contra la luz, les hemos explicado la evidencia que tiene, que es muy pequeñita, y que no le hemos encontrado mucho sentido a tener unas gafas y estar viendo pantallas constantemente. Es más coherente tener unos buenos hábitos de cuidado de esa higiene del sueño, más que pensar en detalles como pueden ser las gafas. Es un poco el cómo estamos enfocando este último punto del modelo, que sería esa programación de la recuperación. Nos vemos en el siguiente vídeo, en el que hablaremos de la realidad de las características de los equipos multidisciplinares.",
+      "keywords": [
+        "fotobiomodulacion",
+        "terapia-luz-roja",
+        "nanometros",
+        "irradiancia",
+        "higiene-sueño",
+        "gafas-luz-azul"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué parámetros se evalúan al usar fotobiomodulación en la recuperación deportiva?",
+        "¿Por qué son ineficientes las gafas bloqueadoras de luz azul si no se cambian los hábitos?",
+        "¿Qué ventaja práctica tiene la terapia de luz roja durante las competiciones?"
+      ],
+      "related_terms": [
+        "irradiancia",
+        "longitud de onda",
+        "NIR",
+        "850 nanómetros",
+        "gafas de protección contra la luz"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló el uso de herramientas como el BFR, prendas compresivas y pulseras de actividad para afianzar el compromiso del atleta.",
+      "context_after": "Conclusión del vídeo. El ponente da paso al siguiente módulo, centrado en el trabajo real dentro de equipos multidisciplinares."
+    }
+  ]
+}

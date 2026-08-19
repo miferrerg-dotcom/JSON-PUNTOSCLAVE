@@ -1,0 +1,206 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+    "speaker": "Manuel García Sillero",
+    "total_duration": "00:08:24",
+    "total_duration_seconds": 504,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:17",
+      "start_seconds": 1,
+      "end_seconds": 197,
+      "duration_seconds": 196,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Los cuatro pilares de un modelo de monitorización",
+      "summary": "Se definen los cuatro conceptos esenciales que debe contener todo modelo de monitorización: la capacidad de detectar si la dosificación del entrenamiento genera las adaptaciones deseadas, la sensibilidad para identificar diferencias individuales (edad, lesiones, posición), la evaluación de la fatiga para aplicar protocolos de recuperación, y la comprensión del porqué ocurren dichas adaptaciones.",
+      "literal_quote": "Un modelo que tenga estos cuatro puntos bien contenidos y que realmente sea útil en estos pasos, será un modelo totalmente válido para nuestro día a día.",
+      "full_transcript": "Hola de nuevo. Vamos a este segundo vídeo, en el cual vamos a valorar los aspectos previos en detalle a ese diseño de nuestro framework, de nuestra estructura, de nuestro modelo de monitorización del entrenamiento. Para mí, hay cuatro conceptos que resuman esta diapositiva, que debe contener todo modelo y que debemos pararnos a pensar bien antes de empezar el proceso. Lo primero es si nuestra estrategia y nuestro trabajo realmente nos ayudan a detectar si nuestra dosificación de entrenamiento, nuestra propuesta de trabajo, está ayudando a los deportistas a adaptarse de la forma que nosotros consideramos. Esto va a depender, obviamente, de la especialidad deportiva en la que nos encontremos y del nivel. Va a depender de determinados factores contextuales, pero tenemos que estar seguros de la sensibilidad de nuestro modelo para ayudarnos a tomar decisiones, como veíamos en el vídeo anterior. En segundo lugar, sobre todo si estamos en deportes colectivos, que es el foco de muchos de los contenidos de este curso, tiene que ser lo suficientemente sensible para poder detectar diferencias individuales. El deporte colectivo necesita de individualización. A día de hoy, todos tenemos claro que la respuesta de un jugador de 18 años a un jugador de 32, en base a su historia de lesiones, sus características físicas, incluso a su posición, debe ser distinta y, por tanto, nuestro modelo nos debe ayudar a detectar fácilmente esa diferencia y a poder tomar decisiones que faciliten esa individualización del proceso de entrenamiento. Un aspecto clave en el alto rendimiento actual es que sea sensible a la fatiga y que, de manera fácil, nos permita tomar decisiones en cuanto a las necesidades de aplicar unos u otros protocolos de recuperación, que pasa por ser una estrategia de la individualización que hemos comentado en el punto anterior. Gran parte de la individualización puede venir por aplicar diferentes estrategias de recuperación, no solamente diferentes estímulos de entrenamiento en trabajo de fuerza cardiovascular, etcétera. Y tiene que ayudarnos a entender el porqué se producen estas diferentes adaptaciones al proceso de entrenamiento o estas necesidades de individualización. Un modelo que tenga estos cuatro puntos bien contenidos y que realmente sea útil en estos pasos, será un modelo totalmente válido para nuestro día a día. Un modelo que, en contra, no nos ofrezca esta información, necesitamos revisarlo, porque al final, esto es a lo que nos vamos a dedicar en nuestro quehacer diario.",
+      "keywords": [
+        "monitorizacion",
+        "adaptaciones",
+        "diferencias-individuales",
+        "fatiga",
+        "recuperacion",
+        "individualizacion",
+        "dosificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cuatro conceptos básicos de un modelo de monitorización de entrenamiento?",
+        "¿Por qué es importante la individualización en la monitorización de deportes colectivos?",
+        "¿Qué rol juega el control de la fatiga en un modelo de entrenamiento?"
+      ],
+      "related_terms": [
+        "diferencias individuales",
+        "protocolos de recuperación",
+        "estrategias de recuperación",
+        "adaptaciones al entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento WEBVTT-2.",
+      "context_after": "El ponente desarrolla la importancia de definir correctamente los KPIs y entender el contexto para implementar el modelo propuesto."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "03:17",
+      "end_timestamp": "05:26",
+      "start_seconds": 197,
+      "end_seconds": 326,
+      "duration_seconds": 129,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=197",
+      "title": "Identificación de KPIs y análisis del contexto",
+      "summary": "Para diseñar el modelo, es crucial definir los KPIs determinantes, que son métricas de peso, no simples objetivos. Además, se debe analizar exhaustivamente el contexto: perfil y edad de los jugadores, historial de lesiones, formato y densidad de la competición, estilo de juego del entrenador y el perfil del staff que apoyará en la recogida de datos.",
+      "literal_quote": "Lo primero, tener muy claro cuáles son los KPIs de mi deportista. No es cuáles son los objetivos, es cuáles son las métricas determinantes...",
+      "full_transcript": "Y por ello, tres ideas claves. Lo primero, tener muy claro cuáles son los KPIs de mi deportista. No es cuáles son los objetivos, es cuáles son las métricas determinantes que van a tener peso para cumplir los cuatro puntos que hemos visto anteriormente. Para ello: ¿cuál es mi contexto? ¿Cuál es el perfil de los jugadores? Es profesional, semiprofesional, amateur, es alto nivel, pero estoy en etapas formativas. ¿Tengo un grupo formado mayormente por jugadores muy junior o muy senior? ¿Cuál es su historia de lesiones? Después, ¿cuál es el formato de competición que tengo? ¿Estoy en una selección? ¿Entro en un equipo en la segunda mitad de la temporada? ¿Tengo una liga regular? Es un formato muy condensado o no hay tanta densidad competitiva. Y un aspecto muy importante: ¿cuál es el estilo de juego que quiere mi entrenador? Es un juego muy ofensivo, muy defensivo, tiene una cultura de mucho volumen de entrenamiento o es un mando muy rígido. Todo esto va a determinar mi modelo y de lo que hablaremos en el punto cinco: cuál es el perfil del staff, cuál es mi contexto, de quién me voy a rodear. Esto me ayudará a ver si tengo apoyos o no en mi proceso de recogida de datos, si por el contrario, lo tengo que centralizar mucho en mí, si tengo más o menos apoyo para la parte de recuperación, etcétera. Todo esto son aspectos que determinarán mucho el contexto en el que voy a desarrollar mi modelo. Y con todo ello podré establecer mi proceso de monitorización de la carga y programaré desde el inicio, incluiré dentro de ese proceso de monitorización esas estrategias de recuperación que vendrán determinadas por la especialidad, por los KPIs de interés y por el contexto.",
+      "keywords": [
+        "kpis",
+        "contexto",
+        "perfil-jugador",
+        "formato-competicion",
+        "estilo-juego",
+        "staff",
+        "monitorizacion-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Análisis de Datos",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre objetivos y KPIs en el alto rendimiento?",
+        "¿Qué variables del contexto determinan el modelo de monitorización deportivo?",
+        "¿Cómo influye el estilo de juego del entrenador en el control de carga?"
+      ],
+      "related_terms": [
+        "historia de lesiones",
+        "formato de competición",
+        "densidad competitiva",
+        "perfil del staff"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se definieron los cuatro pilares fundamentales de un modelo de entrenamiento.",
+      "context_after": "Se enfatiza la necesidad de ser flexibles y entender el rendimiento deportivo como un sistema dinámico complejo."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "05:26",
+      "end_timestamp": "06:53",
+      "start_seconds": 326,
+      "end_seconds": 413,
+      "duration_seconds": 87,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=326",
+      "title": "Flexibilidad del modelo y sistemas dinámicos complejos",
+      "summary": "Se enfatiza la necesidad de tener una mentalidad 'think outside the box' para generar un modelo vivo, flexible y ágil, que se revise temporada a temporada. Apoyándose en la teoría de sistemas dinámicos complejos de Natalia Balaguer, se destaca que el individuo está determinado fundamentalmente por su entorno y la tarea diseñada.",
+      "literal_quote": "Tener muy claro nuestro entorno para diseñar las tareas adecuadas es lo que realmente determinará el rendimiento de nuestros sujetos, deportistas y equipos.",
+      "full_transcript": "Y todo ello, en mi opinión, tiene que ir muy acompañado de esta mentalidad. El pensar fuera de la caja, think outside the box, porque al final, creo que no existe un modelo exclusivo, único, ligado a una persona, sino que existe una idea de trabajo que debe ser flexible y adaptable a todas estas circunstancias que hemos visto anteriormente. Incluso dentro del mismo deporte, no hay dos escenarios, no hay dos clubes iguales ni dos temporadas iguales, incluso trabajando en el mismo club. Por lo tanto, necesitamos tener esta mentalidad y revisar temporada a temporada todos estos conceptos para generar un modelo vivo, flexible y ágil. Siguiendo la teoría de Natalia Balaguer y de todo el grupo que estudia sistemas dinámicos complejos, el proceso consiste en aplicar una serie de estímulos a unos individuos en un entorno concreto. Dentro de esto, las últimas tendencias nos dicen que lo que determina al individuo es fundamentalmente el entorno y la tarea. Tener muy claro nuestro entorno para diseñar las tareas adecuadas es lo que realmente determinará el rendimiento de nuestros sujetos, deportistas y equipos.",
+      "keywords": [
+        "flexibilidad",
+        "think-outside-the-box",
+        "sistemas-dinamicos-complejos",
+        "entorno",
+        "tarea",
+        "rendimiento",
+        "modelo-vivo"
+      ],
+      "entities": [
+        "Natalia Balaguer"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Teoría"
+      ],
+      "search_questions": [
+        "¿Qué implica tener una mentalidad 'think outside the box' en la planificación deportiva?",
+        "¿Cómo afectan los sistemas dinámicos complejos al rendimiento deportivo?",
+        "¿Por qué no existe un modelo de trabajo exclusivo o único según Manuel García Sillero?"
+      ],
+      "related_terms": [
+        "pensar fuera de la caja",
+        "entorno y tarea",
+        "sistemas dinámicos complejos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló la importancia de analizar a fondo el contexto (club, staff, entrenador) antes de instaurar métricas.",
+      "context_after": "El ponente muestra un esquema circular de cómo evaluar, programar y reprogramar constantemente el trabajo de los deportistas."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "06:54",
+      "end_timestamp": "08:24",
+      "start_seconds": 414,
+      "end_seconds": 504,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=414",
+      "title": "El proceso circular de programación, monitorización y reprogramación",
+      "summary": "Se presenta un esquema del proceso de valoración que parte de un análisis individual para establecer una programación general con ajustes personalizados. Durante la temporada, la monitorización constante de indicadores permite realizar reajustes y reprogramaciones en microciclos y mesociclos, convirtiendo el proceso en un ciclo continuo de reevaluación.",
+      "literal_quote": "Es un proceso totalmente circular. ¿Por qué? Porque cuando tengo que reprogramar, muchas veces iniciamos de nuevo y empezamos a retestear jugadores.",
+      "full_transcript": "Todo ello se refleja en este esquema general del proceso de valoración y las etapas fundamentales que utilizo. El punto de partida es un análisis individual para identificar cuál es el punto de partida de cada deportista. A partir de ahí se establece una programación general con ajustes individuales en base a esos requerimientos y al análisis previo. Luego comienza el proceso de entrenamiento y la temporada, y es entonces cuando se empieza a establecer la monitorización, esa suma de indicadores que permite hacer reajustes y reprogramaciones constantes. Esto se ordena en microciclos y mesociclos en función de la evolución que vayamos teniendo. Es un proceso totalmente circular. ¿Por qué? Porque cuando tengo que reprogramar, muchas veces iniciamos de nuevo y empezamos a retestear jugadores. Hablaremos después de no establecer y de generar tendencias. Este proceso es vivo, siguiendo la idea de \"think out of the box\". En el siguiente vídeo entraremos en profundidad en el proceso de monitorización.",
+      "keywords": [
+        "analisis-individual",
+        "programacion",
+        "ajustes",
+        "monitorizacion",
+        "reprogramacion",
+        "microciclos",
+        "retesteo",
+        "proceso-circular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las etapas del esquema general de valoración y programación deportiva?",
+        "¿Por qué se considera la monitorización de carga como un proceso totalmente circular?",
+        "¿Qué se debe hacer al reprogramar el entrenamiento durante la temporada?"
+      ],
+      "related_terms": [
+        "análisis individual",
+        "reprogramaciones constantes",
+        "microciclos y mesociclos",
+        "retestear jugadores"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de que el modelo sea ágil y se adapte al entorno, basado en sistemas dinámicos complejos.",
+      "context_after": "Se concluye la introducción a este apartado para dar paso al siguiente vídeo sobre monitorización en profundidad."
+    }
+  ]
+}

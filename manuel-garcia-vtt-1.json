@@ -1,0 +1,263 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+    "speaker": "Manuel García Sillero",
+    "total_duration": "00:07:41",
+    "total_duration_seconds": 461,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:28",
+      "start_seconds": 0,
+      "end_seconds": 148,
+      "duration_seconds": 148,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Presentación y visión global del alto rendimiento",
+      "summary": "Manuel García Sillero se presenta y describe su experiencia como sport scientist en la Federación Española de Rugby y preparador físico de la Selección de Rugby 7. Destaca su visión global al combinar investigación, clínicas privadas y alto rendimiento en equipos multidisciplinares, con el objetivo de aportar una visión basada en la evidencia científica y realista.",
+      "literal_quote": "Por lo tanto, dentro del alto rendimiento tengo una visión global del aspecto científico-investigador, el aspecto privado y el aspecto de alto rendimiento en equipos.",
+      "full_transcript": "Hola a todos. Bienvenidos a esta formación en High Performance de NSCA. Soy Manuel García Sillero. Me gustaría, primero, felicitar a NSCA por la organización de esta formación, que creo que es un paso adelante en acercar la realidad del alto rendimiento a los futuros profesionales. Y a vosotros felicitaros por apostar por una formación diferenciadora y de verdadera calidad. Antes de nada, me gustaría presentarme para aquellos que no me conozcáis. Soy un profesional con distintos perfiles. Mi perfil principal a día de hoy es como sport scientist de la Federación Española de Rugby, puesto que combino además con el cargo de preparador físico de la Selección Española de Rugby 7, actual subcampeona del mundo y subcampeona de Europa. En este ámbito del rendimiento colaboro con una franquicia de la Rugby Premier League India, Bengaluru Bravehearts, también en el puesto de strength and conditioning. En el pasado, he combinado estas funciones. Trabajo con bastantes deportistas de alto rendimiento de distintas especialidades y he trabajado con clubes como asesor externo. Lo combino con mi actividad docente e investigadora, actualmente tanto en el grupo de investigación de fisiología del ejercicio en la Universidad de Málaga como en la Universidad Europea. He tenido también durante 14 años desempeños como mánager en clínicas privadas, con grupos de trabajo multidisciplinares bastante amplios. Por lo tanto, dentro del alto rendimiento tengo una visión global del aspecto científico-investigador, el aspecto privado y el aspecto de alto rendimiento en equipos, tanto con chicos, fundamentalmente en el caso del rugby, como también en años previos en balonmano femenino de alto nivel. Con toda esta trayectoria, os voy a intentar dar una visión personal basada, por supuesto, en la evidencia científica, pero también con un aspecto crítico o realista de lo que es el mundo del alto rendimiento.",
+      "keywords": [
+        "sport-scientist",
+        "alto-rendimiento",
+        "rugby",
+        "multidisciplinar",
+        "evidencia-cientifica",
+        "presentacion"
+      ],
+      "entities": [
+        "Manuel García Sillero",
+        "NSCA",
+        "Federación Española de Rugby",
+        "Selección Española de Rugby 7",
+        "Bengaluru Bravehearts",
+        "Universidad de Málaga",
+        "Universidad Europea"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es la experiencia profesional de Manuel García Sillero?",
+        "¿Qué visión ofrece sobre el alto rendimiento en equipos multidisciplinares?",
+        "¿Dónde trabaja actualmente Manuel García Sillero en el ámbito del rugby?"
+      ],
+      "related_terms": [
+        "sport scientist",
+        "preparador físico",
+        "clínicas privadas",
+        "actividad docente",
+        "fisiología del ejercicio"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se presenta la estructura de la formación y los bloques temáticos sobre datos, monitorización y toma de decisiones."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "02:29",
+      "end_timestamp": "04:03",
+      "start_seconds": 149,
+      "end_seconds": 243,
+      "duration_seconds": 94,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=149",
+      "title": "Estructura del modelo de toma de decisión",
+      "summary": "Se presenta la estructura de la formación, dividida en videos cortos. Los bloques incluyen introducción a los datos, consideraciones previas a la monitorización, toma de decisiones para crear un modelo propio, control de la fatiga y recuperación, y la realidad de los equipos multidisciplinares.",
+      "literal_quote": "Para facilitar el proceso de asimilación de todos estos contenidos, hacerlo un poquito más dinámico, más ameno, los he dividido. Cada bloque va a ser un vídeo corto.",
+      "full_transcript": "En este primer bloque vamos a hablar de una introducción a los datos, a toda la cantidad de datos que tenemos a día de hoy, pero también cómo creo que debe ser ese proceso inicial. En el segundo vídeo hablaremos de qué aspecto debemos tener en cuenta antes de comenzar el proceso de monitorización. El tercer punto, que será el bloque principal, será la toma de decisión: cómo crear nuestro propio modelo en base a nuestro contexto, cómo es mi visión y cómo hago a día de hoy este proceso en la realidad. Un aspecto para mí fundamental que hay que introducir en todo modelo es el control de la fatiga y la recuperación, cómo lo podemos planificar, cómo lo podemos introducir en nuestras programaciones y qué algoritmo de decisión utilizo yo. Por último, un punto sobre la realidad de los equipos multidisciplinares, lo que no te cuentan. Aspectos que cuando entremos en un equipo multidisciplinar creo que es importante diseñar desde el principio, aclarar que en base a mi experiencia nos van a facilitar mucho el día a día posterior y las conclusiones finales. Para facilitar el proceso de asimilación de todos estos contenidos, hacerlo un poquito más dinámico, más ameno, los he dividido. Cada bloque va a ser un vídeo corto, que creo que va a hacer mucho más fácil el aprendizaje del mismo.",
+      "keywords": [
+        "toma-decision",
+        "modelo",
+        "datos",
+        "monitorizacion",
+        "fatiga",
+        "recuperacion",
+        "multidisciplinar"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Estructura"
+      ],
+      "search_questions": [
+        "¿Cuáles son los bloques de contenido de la formación en alto rendimiento?",
+        "¿Qué aspectos se consideran antes de la toma de decisión y creación de un modelo?",
+        "¿Cómo se estructura el control de fatiga en la programación?"
+      ],
+      "related_terms": [
+        "proceso de monitorización",
+        "modelo de contexto",
+        "algoritmo de decisión",
+        "equipo multidisciplinar"
+      ],
+      "relevance_score": 4,
+      "context_before": "Manuel García Sillero se presenta y describe su experiencia como sport scientist.",
+      "context_after": "Se discute la recolección de datos mediante cuestionarios, velocidad de ejecución, GPS y CMJ, advirtiendo sobre la necesidad de coherencia."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "04:05",
+      "end_timestamp": "05:44",
+      "start_seconds": 245,
+      "end_seconds": 344,
+      "duration_seconds": 99,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=245",
+      "title": "Coherencia en la recolección de datos y KPIs",
+      "summary": "Se analiza el uso de métricas como cuestionarios, velocidad, GPS y CMJ. Se advierte que es un error recopilar información sin un objetivo claro, por lo que es imperativo definir primero los KPIs determinantes para dar coherencia al modelo antes de diseñar dashboards.",
+      "literal_quote": "Un error bastante habitual es empezar a recoger muchos datos sin tener muy claro el objetivo o la decisión que vamos a utilizar en base a que esa métrica, ese dato, sea mayor, menor, se desplace hacia la derecha o hacia izquierda.",
+      "full_transcript": "Todos estamos familiarizados con cuestionarios de readiness, de wellness, de escalas de dolor, con la monitorización del trabajo de fuerza a través de indicadores como el carácter del esfuerzo, el RIR, o usando tecnología como es el control de la velocidad de ejecución, incluso con parámetros de GPS, como puede ser el high speed running o con métricas de CMJ, etcétera. Todo esto está muy bien, tenemos una gran cantidad de datos a nuestro alcance, pero la realidad es que todos estos datos deben tener una lógica, una coherencia para ayudarnos a tomar decisiones. Un error bastante habitual es empezar a recoger muchos datos sin tener muy claro el objetivo o la decisión que vamos a utilizar en base a que esa métrica, ese dato, sea mayor, menor, se desplace hacia la derecha o hacia izquierda. Por lo tanto, dentro de nuestro modelo, el paso previo será tener muy claro cuáles son los datos, los KPIs, de los que hablaremos más adelante, realmente determinantes. Y ahí sí, establecer de manera fiable y sostenible el proceso de recogida, cuál es la mejor herramienta, el mejor momento, etcétera. Este razonamiento es muy importante porque vivimos en el mundo de los dashboards, de los grandes formatos de visualización de datos. Todos somos muy buenos en Power BI, etcétera, pero necesitamos pararnos y darle una coherencia primero a esto.",
+      "keywords": [
+        "datos",
+        "kpi",
+        "gps",
+        "cmj",
+        "wellness",
+        "dashboard",
+        "power-bi",
+        "coherencia"
+      ],
+      "entities": [
+        "GPS",
+        "CMJ",
+        "Power BI"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es un error recopilar muchos datos en el deporte sin un objetivo claro?",
+        "¿Qué métricas e indicadores de rendimiento menciona Manuel García Sillero?",
+        "¿Cuál es el paso previo recomendado antes de visualizar datos en dashboards?"
+      ],
+      "related_terms": [
+        "cuestionarios de readiness",
+        "carácter del esfuerzo",
+        "RIR",
+        "velocidad de ejecución",
+        "high speed running"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presenta la estructura de la formación, dividida en videos cortos.",
+      "context_after": "Propone el uso de ChatGPT o herramientas de IA como un segundo preparador físico."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "05:44",
+      "end_timestamp": "06:36",
+      "start_seconds": 344,
+      "end_seconds": 396,
+      "duration_seconds": 52,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=344",
+      "title": "Integración de la Inteligencia Artificial en el rendimiento",
+      "summary": "Destaca el valor de integrar herramientas de Inteligencia Artificial, como ChatGPT, funcionando como un segundo preparador físico o asesor externo. Anima a perder el miedo a estas tecnologías para ordenar datos y apoyar los modelos de decisión de forma eficiente.",
+      "literal_quote": "Yo, por supuesto, lo tengo, y es ChatGPT o cualquier otra IA de la actualidad. Estas herramientas nos pueden ayudar a ordenar fácilmente los datos.",
+      "full_transcript": "Porque además, todos tenemos un magnífico segundo preparador físico, colaborador o ayudante. Yo, por supuesto, lo tengo, y es ChatGPT o cualquier otra IA de la actualidad. Estas herramientas nos pueden ayudar a ordenar fácilmente los datos, podemos educarlas para que incluso sean asesores externos que nos ayuden a colaborar, pero tenemos que empezar a darles coherencia y a que realmente sean un apoyo. Sin miedo a apoyarnos en ellos. No vamos a ser ni mucho menos peores profesionales. De hecho, creo que no tiene ningún sentido no aprovechar toda la potencia que nos ofrecen estas herramientas a día de hoy y tenemos que abrazarlas e integrarlos dentro de nuestros modelos de decisión y de manejo de datos, como vamos a ver más adelante en los próximos vídeos.",
+      "keywords": [
+        "inteligencia-artificial",
+        "chatgpt",
+        "datos",
+        "modelos-decision",
+        "tecnologia",
+        "asesor-externo"
+      ],
+      "entities": [
+        "ChatGPT",
+        "IA"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo recomienda integrar ChatGPT en el ámbito de la preparación física?",
+        "¿Por qué no hay que tener miedo a usar inteligencia artificial en el alto rendimiento?",
+        "¿Qué rol pueden tener las IAs en el manejo de datos deportivos?"
+      ],
+      "related_terms": [
+        "segundo preparador físico",
+        "ordenar datos",
+        "asesores externos",
+        "modelos de decisión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se advierte sobre el error habitual de recopilar datos sin un objetivo claro.",
+      "context_after": "El objetivo final del modelo es facilitar la toma de decisiones sobre el tipo, intensidad y dosificación del estímulo."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "06:38",
+      "end_timestamp": "07:41",
+      "start_seconds": 398,
+      "end_seconds": 461,
+      "duration_seconds": 63,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=398",
+      "title": "Optimización del entrenamiento y dosificación del estímulo",
+      "summary": "Concluye que el propósito último de cualquier modelo es optimizar el rendimiento guiando decisiones clave sobre tipo, intensidad y dosificación de los estímulos, garantizando que el proceso de adaptación sea objetivo, sencillo y eficiente.",
+      "literal_quote": "Nuestro modelo lo que debe ir enfocado es a conseguir que este proceso sea lo más objetivo, lo más sencillo y sobre todo lo más eficiente posible.",
+      "full_transcript": "Porque al final, lo que no nos podemos olvidar nunca es que el proceso de entrenamiento, que es a lo que realmente nos dedicamos, el proceso de optimización del rendimiento y nuestro modelo, lo que debe indicarnos o a lo que debe ayudarnos es a poder tomar decisiones en cuanto al tipo de estímulo, la intensidad del mismo, la dosificación, para conseguir lo que siempre hemos querido: un efecto agudo, un estímulo agudo que va a tener un efecto y que en función de la dosificación, del descanso, de las adaptaciones que generemos, conseguirá un efecto u otro. Esta gráfica tan simple que todos conocemos siempre debemos tenerla presente, porque nuestro modelo lo que debe ir enfocado es a conseguir que este proceso sea lo más objetivo, lo más sencillo y sobre todo lo más eficiente posible. En los próximos vídeos empezamos a introducirnos en el manejo de los datos y en el diseño de nuestro propio modelo.",
+      "keywords": [
+        "entrenamiento",
+        "optimizacion",
+        "rendimiento",
+        "dosificacion",
+        "estimulo",
+        "efecto-agudo",
+        "adaptaciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es el objetivo final de un modelo de entrenamiento en el alto rendimiento?",
+        "¿Qué variables se deben considerar para dosificar el estímulo de entrenamiento?",
+        "¿Cómo debe ser el proceso de monitorización según Manuel García Sillero?"
+      ],
+      "related_terms": [
+        "proceso de entrenamiento",
+        "optimización del rendimiento",
+        "tipo de estímulo",
+        "efecto agudo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Propone el uso de ChatGPT o herramientas de IA como un segundo preparador físico o asesor externo.",
+      "context_after": "Final del primer fragmento introductorio."
+    }
+  ]
+}

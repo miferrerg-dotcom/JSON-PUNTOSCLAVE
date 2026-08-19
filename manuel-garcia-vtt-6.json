@@ -1,0 +1,201 @@
+{
+  "video": {
+    "video_id": "V06",
+    "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+    "speaker": "Manuel García Sillero",
+    "total_duration": "00:05:18",
+    "total_duration_seconds": 318,
+    "source_file": "WEBVTT-6.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V06-001",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:46",
+      "start_seconds": 1,
+      "end_seconds": 106,
+      "duration_seconds": 105,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Selección de KPIs y utilidad de la visualización de datos",
+      "summary": "En las conclusiones, se resalta la necesidad de definir KPIs específicos e individualizarlos para cada jugador. Sobre la gestión de datos, se advierte no obsesionarse con la estética de las visualizaciones; el objetivo real es que sean prácticas, útiles para tomar decisiones y entendibles tanto para el staff multidisciplinar como para el propio deportista.",
+      "literal_quote": "El fin es que sea práctica y, sobre todo, entendible para todo el staff. Recordad que vais a estar implicados en staff multidisciplinares con perfiles diversos.",
+      "full_transcript": "Vamos con este último apartado de conclusiones, en el que la idea es que tengáis un resumen de las ideas principales que hemos visto en los cinco puntos anteriores. A modo de conclusión y muy rápidamente: lo primero, como vimos al principio, establecer muy bien nuestros KPI de interés en función de nuestra especialidad deportiva e intentar que las métricas sean las necesarias, dado que el día a día nos va a implicar muchísimo trabajo. En la medida de lo posible, individualizar estos KPI y estos benchmark, porque cada contexto de cada jugador es un poco diferente y esto nos puede ayudar mucho a sacar el máximo partido a cada deportista. La gestión del dato. Creo que es muy importante no obsesionarnos con la visualización, sino conseguir una visualización que realmente ayude a la toma de decisiones, que sea estética, pero ese no debe ser el fin. El fin es que sea práctica y, sobre todo, entendible para todo el staff. Recordad que vais a estar implicados en staff multidisciplinares con perfiles diversos y, en muchos casos, también tendréis que generar datos para presentar a vuestros deportistas y les deben ayudar a comprender la situación. Por lo tanto, pensad en todos estos entornos a la hora de generar y de gestionar esos datos.",
+      "keywords": [
+        "kpi",
+        "benchmark",
+        "individualizacion",
+        "gestion-datos",
+        "visualizacion",
+        "staff",
+        "toma-decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Resumen"
+      ],
+      "search_questions": [
+        "¿Qué características debe tener la visualización de datos en el alto rendimiento?",
+        "¿Por qué es importante individualizar los KPIs deportivos?",
+        "¿Cuál es el error más común al gestionar y visualizar datos según el ponente?"
+      ],
+      "related_terms": [
+        "gestión del dato",
+        "staff multidisciplinar",
+        "perfiles diversos",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del apartado final con el resumen y las conclusiones de toda la formación.",
+      "context_after": "El resumen continúa hacia la flexibilidad mental necesaria en el diseño del modelo y el análisis de métricas por tendencias."
+    },
+    {
+      "id": "V06-002",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:01:47",
+      "end_timestamp": "00:02:41",
+      "start_seconds": 107,
+      "end_seconds": 161,
+      "duration_seconds": 54,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=107",
+      "title": "Flexibilidad del modelo y monitorización basada en tendencias",
+      "summary": "Un modelo de entrenamiento no puede ser cerrado, requiere mentalidad flexible ('think out of the box') para adaptarse al equipo y la temporada. En la monitorización, se debe abandonar la toma de decisiones fundamentada en 'fotografías' o datos de un día concreto, adoptando en su lugar sistemas consistentes basados en tendencias.",
+      "literal_quote": "En cuanto a la monitorización, vamos a huir de la fotografía, del dato, de cambiar nuestro sistema en base a un dato de un test concreto... Sí el generar un sistema basado en tendencias.",
+      "full_transcript": "En cuanto al modelo, ese think out of the box. Sé flexible, no tengas un modelo único cerrado que te acompañe a lo largo de toda tu carrera. Tendrás que tener una idea, una filosofía, por supuesto, pero la tendrás que adaptar al staff, a los equipos, a las temporadas y a las distintas situaciones. En cuanto a la monitorización, vamos a huir de la fotografía, del dato, de cambiar nuestro sistema en base a un dato de un test concreto, un día o una hora. Sí el generar un sistema basado en tendencias, que sea muy sensible para ver esos cambios y poder tomar decisiones, pero que sea consistente y que no me haga cambiar mi modelo, mi forma de trabajar o mi dosificación de manera aleatoria.",
+      "keywords": [
+        "modelo",
+        "flexibilidad",
+        "think-out-of-the-box",
+        "monitorizacion",
+        "fotografia",
+        "tendencias",
+        "dosificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué se debe evitar cambiar el sistema de entrenamiento basándose en un solo dato aislado?",
+        "¿Qué significa la frase 'huir de la fotografía' en el control del rendimiento deportivo?",
+        "¿Qué importancia tiene adaptar el modelo de trabajo a las temporadas y equipos?"
+      ],
+      "related_terms": [
+        "modelo único cerrado",
+        "sistema basado en tendencias",
+        "dosificación de manera aleatoria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se recomendó mantener las visualizaciones prácticas y alejadas de complicaciones estéticas para el staff.",
+      "context_after": "El bloque de conclusiones prosigue reforzando el papel activo del deportista en el control de su propia recuperación y fatiga."
+    },
+    {
+      "id": "V06-003",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:02:44",
+      "end_timestamp": "00:03:13",
+      "start_seconds": 164,
+      "end_seconds": 193,
+      "duration_seconds": 29,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=164",
+      "title": "La identidad del deportista y el control de la fatiga",
+      "summary": "Se aconseja incluir las estrategias de recuperación y la monitorización de la fatiga como pilar estructural desde el inicio. El objetivo es involucrar al deportista, forjando en él una 'identidad' de cuidado continuo que tenga la misma relevancia que el propio entrenamiento de fuerza.",
+      "literal_quote": "Incluye las estrategias de recuperación dentro de tu modelo, hazlo una parte esencial y, sobre todo, haz partícipe al deportista de ese hábito y, a poder ser, genera esa identidad en él.",
+      "full_transcript": "Mi recomendación: incluye desde el inicio la monitorización de la fatiga, incluye las estrategias de recuperación dentro de tu modelo, hazlo una parte esencial y, sobre todo, haz partícipe al deportista de ese hábito y, a poder ser, genera esa identidad en él a través de esa inclusión en el trabajo del día a día. Es tan importante como el propio entrenamiento de fuerza, etcétera.",
+      "keywords": [
+        "monitorizacion",
+        "fatiga",
+        "estrategias-recuperacion",
+        "deportista",
+        "habito",
+        "identidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Recomendación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es vital involucrar al jugador en la monitorización de su fatiga?",
+        "¿Cómo se puede generar una 'identidad' en el deportista de alto rendimiento?",
+        "¿Qué importancia tienen las estrategias de recuperación frente al trabajo de fuerza?"
+      ],
+      "related_terms": [
+        "monitorización de la fatiga",
+        "estrategias de recuperación",
+        "trabajo del día a día"
+      ],
+      "relevance_score": 4,
+      "context_before": "El ponente hablaba sobre tomar decisiones consistentes guiándose por tendencias de datos y no hechos aislados.",
+      "context_after": "Se repasa la gestión del entorno multidisciplinar y finaliza el webinar motivando a adaptar todo lo aprendido a la realidad personal."
+    },
+    {
+      "id": "V06-004",
+      "video_title": "High Performance NSCA: Introducción a los datos y toma de decisiones",
+      "speaker": "Manuel García Sillero",
+      "start_timestamp": "00:03:14",
+      "end_timestamp": "00:05:18",
+      "start_seconds": 194,
+      "end_seconds": 318,
+      "duration_seconds": 124,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=194",
+      "title": "Sinergia en equipos multidisciplinares y adaptación del conocimiento",
+      "summary": "Para rendir en equipos multidisciplinares, se requiere una comunicación compartida, honesta y accesible, pero eficiente en el tiempo. La recomendación final es evitar copiar sistemas metodológicos de terceros al 100%; la clave para ser un profesional de máximo nivel es comprender las distintas propuestas y tener la capacidad de adaptarlas al contexto propio.",
+      "literal_quote": "No podemos copiar un modelo y trasladarlo directamente a otro contexto, sino lo importante de este curso... es comprender todas estas propuestas y ver cómo las podéis adaptar a vuestro día a día.",
+      "full_transcript": "Como hemos visto en el punto anterior, en el punto cinco, los equipos multidisciplinares en la élite. Al final, todos tenemos que ser competitivos y eso es maravilloso bien canalizado. Por tanto, sabiendo las características que tienen, intenta generar un sistema de trabajo de comunicación clara, compartida, honesto y en el que toda la información está a disposición de todo el mundo, pero un sistema que haga que sea eficiente y sostenible en el tiempo. Aquí vais a tener la suerte de ver muchas propuestas de muchos profesionales de magnífico nivel. Creo que al final esto lo que os va a hacer es ver muchas opciones, pero ninguna va a ser 100 % replicable a vuestra realidad. Al final, lo que os va a hacer profesionales de un magnífico nivel es ser capaces de integrar todos esos aprendizajes y propuestas, y entenderlas. Lo primero es entenderlo. No podemos copiar un modelo y trasladarlo directamente a otro contexto, sino lo importante de este curso y la idea que creo que os debéis llevar es: comprender todas estas propuestas y ver cómo las podéis adaptar a vuestro día a día. Eso os va a hacer, sin lugar a dudas, unos magníficos profesionales. Daros las gracias a todos, sobre todo a la SCA, por permitirme compartir este curso tanto con vosotros como con profesionales del máximo nivel. Espero que todo lo que hemos compartido en estos vídeos os sea de mucho interés y, sobre todo, os ayude a seguir creciendo a nivel profesional. Quedo a vuestra disposición a través de LinkedIn y de redes sociales para compartir con vosotros, como sois compañeros de profesión, cualquier inquietud o posible duda que os haya podido quedar. Hasta la próxima.",
+      "keywords": [
+        "equipos-multidisciplinares",
+        "comunicacion",
+        "adaptacion",
+        "contexto",
+        "profesionales",
+        "propuestas",
+        "linkedin"
+      ],
+      "entities": [
+        "SCA",
+        "LinkedIn"
+      ],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Consejo profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es el secreto de la comunicación efectiva en equipos multidisciplinares deportivos?",
+        "¿Por qué no se debe copiar un modelo de alto rendimiento exactamente igual en otro club?",
+        "¿Qué consejo final ofrece Manuel García Sillero para crecer como profesional?"
+      ],
+      "related_terms": [
+        "comunicación clara, compartida, honesto",
+        "eficiente y sostenible",
+        "100 % replicable a vuestra realidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se discutió la importancia de fomentar la identidad en la recuperación y hábitos del atleta.",
+      "context_after": "Fin del vídeo y de la presentación global del webinar."
+    }
+  ]
+}
