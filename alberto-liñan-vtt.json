@@ -1,0 +1,847 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+    "speaker": "Alberto Liñán",
+    "total_duration": "01:00:35",
+    "total_duration_seconds": 3635,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:13",
+      "start_seconds": 1,
+      "end_seconds": 193,
+      "duration_seconds": 192,
+      "timestamp_url": "?t=1",
+      "title": "Contexto competitivo de la Liga Hypermotion",
+      "summary": "Alberto Liñán presenta su rol en el CD Castellón y contextualiza la exigencia de la Liga Hypermotion: una competición larga de 42 jornadas sin parones, que demanda un alto nivel mental y físico.",
+      "literal_quote": "A nivel semanal, no hay ningún fin de semana de descanso porque no hay parones FIFA. Por lo tanto, a nivel mental es exhaustivo.",
+      "full_transcript": "Buenas a todos. Bienvenidos a este curso de Performance Science Specialist de la NSCA. Vamos a hablar del manejo de la cadena posterior dentro de un contexto de la liga Hypermotion. Yo soy Alberto Liñán, actualmente preparador físico del Club Deportivo Castellón. A nivel de lo que vamos a ver hoy, primero vamos a contextualizar lo que es la liga, el club, la filosofía del club y la epidemiología. La liga Hypermotion es muy competitiva, muy igualada y muy larga, tiene 42 jornadas más los playoffs. Empezando a mediados de agosto y acabando en junio, no tienes nada de descanso. A nivel semanal, no hay ningún fin de semana de descanso porque no hay parones FIFA, por lo tanto, a nivel mental es exhaustivo. A nivel de viajes, no siempre es fácil planificar porque el calendario lo dan con poco tiempo de antelación.",
+      "keywords": [
+        "liga-hypermotion",
+        "contexto-competitivo",
+        "calendario",
+        "fatiga-mental",
+        "cd-castellon"
+      ],
+      "entities": [
+        "NSCA",
+        "Liga Hypermotion",
+        "Club Deportivo Castellón"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Qué explica Alberto Liñán sobre la Liga Hypermotion?",
+        "¿Cómo afecta el calendario de la Liga Hypermotion a los jugadores?",
+        "¿Cuál es el contexto competitivo del CD Castellón?"
+      ],
+      "related_terms": [
+        "contexto",
+        "competitivo",
+        "calendario",
+        "fatiga",
+        "mental"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se detalla cómo el equipo gestiona este calendario denso otorgando una gran prioridad a los días de descanso semanal basados en estudios científicos."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:03:13",
+      "end_timestamp": "00:04:24",
+      "start_seconds": 193,
+      "end_seconds": 264,
+      "duration_seconds": 71,
+      "timestamp_url": "?t=193",
+      "title": "Priorización absoluta del descanso semanal",
+      "summary": "Ante un calendario tan denso, el cuerpo técnico prioriza siempre otorgar al menos un día libre a la semana, preferiblemente en el MD+1 o MD+2, basándose en la evidencia científica para reducir el riesgo de lesión.",
+      "literal_quote": "Cuando tenemos un calendario tan denso, nosotros lo que sí le damos prioridad es al descanso.",
+      "full_transcript": "Cuando tenemos un calendario tan denso, nosotros lo que sí le damos prioridad es al descanso. Ya vimos ese estudio de Buchheit, que si un día a la semana reducía mucho más ese riesgo de lesión. Siempre dar un día de semana de descanso. Si era el +1, incluso aumentaba más ese menor riesgo de lesión. Nosotros aquí siempre tenemos un día libre en cada semana. Y si hay alguna semana que no hay día libre es porque ha habido jornada de sábado y después intersemana, entonces damos domingo o inmediatamente después del segundo partido damos otra vez un día libre. Para nosotros eso es una gran prioridad. Igual que en Navidad, simplemente que descansaran con sus familias y tuvieran ese descanso completo, sobre todo a nivel mental.",
+      "keywords": [
+        "descanso",
+        "recuperacion",
+        "riesgo-lesion",
+        "calendario",
+        "buchheit"
+      ],
+      "entities": [
+        "Buchheit"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el día de descanso según Alberto Liñán?",
+        "¿Qué evidencia apoya dar el día libre en MD+1 o MD+2?",
+        "¿Cómo gestionan el descanso en semanas de doble partido?"
+      ],
+      "related_terms": [
+        "prioridad",
+        "al",
+        "descanso",
+        "riesgo",
+        "de",
+        "lesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Alberto Liñán presenta su rol en el CD Castellón y contextualiza la exigencia de la Liga Hypermotion: una competición larga de 42 jornadas sin parones.",
+      "context_after": "Se analiza el modelo de juego del equipo, caracterizado por una defensa adelantada y una alta exigencia en esfuerzos a alta velocidad."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:04:24",
+      "end_timestamp": "00:08:10",
+      "start_seconds": 264,
+      "end_seconds": 490,
+      "duration_seconds": 226,
+      "timestamp_url": "?t=264",
+      "title": "Filosofía del club y demandas del modelo de juego",
+      "summary": "El modelo de juego del CD Castellón exige una defensa adelantada, presión constante, retornos intensos a máxima velocidad y constantes desmarques de ruptura, liderando las métricas de la liga en High-Speed Running (HCR) y sprints.",
+      "literal_quote": "Tenemos claro es que somos los que más HCR y distancia de sprint hacemos, y también en número de esfuerzos.",
+      "full_transcript": "A nivel de filosofía del club, tenemos una defensa bastante adelantada. Siempre solemos ir a pares, necesitamos jugadores bastante robustos. Somos el equipo con más recuperaciones en campo contrario porque el press es alto y vamos mano a mano. A nivel de retornos defensivos es muy importante, porque dejamos mucho espacio a las espaldas y nuestra línea defensiva tiene que hacer unos retornos muy intensos, eso es innegociable. Otra cosa que es muy importante son los tres segundos tras pérdida, tiene que ser una presión intensa para recuperar cuanto antes. También el tema de los constantes desmarques; somos el segundo equipo que más se desmarca en ruptura constante. Al final, nos encontramos con que somos los que más HCR (High-Speed Running) y distancia de sprint hacemos en la liga, y también en número de esfuerzos.",
+      "keywords": [
+        "modelo-juego",
+        "high-speed-running",
+        "sprint",
+        "presion-alta",
+        "retornos-defensivos",
+        "desmarques"
+      ],
+      "entities": [
+        "CD Castellón"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Contexto",
+        "Análisis táctico-físico"
+      ],
+      "search_questions": [
+        "¿Cuáles son las demandas físicas del modelo de juego del Castellón?",
+        "¿Por qué el equipo lidera en métricas de sprint y HCR?",
+        "¿Cómo influye la táctica defensiva en el esfuerzo físico de los jugadores?"
+      ],
+      "related_terms": [
+        "modelo",
+        "de",
+        "juego",
+        "high speed running",
+        "sprint"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ante un calendario tan denso, el cuerpo técnico prioriza siempre otorgar al menos un día libre a la semana.",
+      "context_after": "Esta alta exigencia física en sprints y HCR se conecta directamente con el aumento del riesgo de sufrir lesiones isquiosurales."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:08:10",
+      "end_timestamp": "00:09:34",
+      "start_seconds": 490,
+      "end_seconds": 574,
+      "duration_seconds": 84,
+      "timestamp_url": "?t=490",
+      "title": "Epidemiología de la lesión isquiosural",
+      "summary": "La incidencia de lesiones en la musculatura isquiosural (especialmente el bíceps femoral) sigue en aumento, ocurriendo en un 80% de los casos durante acciones de sprint, lo que expone drásticamente a equipos con modelos de alta intensidad.",
+      "literal_quote": "La mayoría ocurren en el bíceps femoral, normalmente siempre en sprint, hasta un 80%.",
+      "full_transcript": "Si lo hilamos un poco en la epidemiología, sabemos que esas lesiones a nivel de musculatura isquiosural no paran de subir. En este estudio, del 2002 hasta la 2021-2022, la incidencia sigue subiendo en un 6,7% en entrenamientos y un 3,9% en partido. De estas lesiones, la mayoría ocurren en el bíceps femoral, normalmente siempre en sprint, hasta un 80% de los casos. Viendo nuestro contexto, un periodo muy largo, nuestra filosofía, nuestra metodología con niveles muy altos de HCR y de sprint, al final tenemos unos jugadores que están exponiéndose con mayor regularidad a ese riesgo de lesión, y es de la lesión que más se produce.",
+      "keywords": [
+        "epidemiologia",
+        "lesion-isquiosural",
+        "biceps-femoral",
+        "sprint",
+        "riesgo-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Análisis de Datos",
+        "Contexto Médico"
+      ],
+      "search_questions": [
+        "¿Cuál es el porcentaje de lesiones isquiosurales que ocurren esprintando?",
+        "¿Por qué el modelo de juego del Castellón aumenta el riesgo de lesión isquiosural?",
+        "¿Cuál es el músculo más afectado en las lesiones de cadena posterior?"
+      ],
+      "related_terms": [
+        "lesiones",
+        "isquiosurales",
+        "sprint",
+        "bíceps",
+        "femoral"
+      ],
+      "relevance_score": 4,
+      "context_before": "El modelo de juego del CD Castellón exige una defensa adelantada, presión constante y liderar las métricas de la liga en High-Speed Running (HCR) y sprints.",
+      "context_after": "Para mitigar este alto riesgo, el club implementa un exhaustivo proceso de evaluaciones multidisciplinares al inicio y durante la temporada."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:09:34",
+      "end_timestamp": "00:11:33",
+      "start_seconds": 574,
+      "end_seconds": 693,
+      "duration_seconds": 119,
+      "timestamp_url": "?t=574",
+      "title": "Evaluaciones multidisciplinares de rendimiento y salud",
+      "summary": "El club aplica un enfoque integral para evaluar a los jugadores, incluyendo pruebas médicas, nutrición, fisioterapia y podología, complementado con valoraciones funcionales y de fuerza isométrica exhaustivas.",
+      "literal_quote": "Dentro del rendimiento, tenemos nuestras valoraciones alto funcionales y nuestras valoraciones de fuerza.",
+      "full_transcript": "A partir de aquí, vamos a ver cómo funcionamos dentro del club. Lo primero son las evaluaciones a nivel médico: pruebas de esfuerzo, ecografía del corazón, historia clínica. A nivel de nutrición es muy importante. A nivel de fisioterapia: test neuromotor, test de movilidad, y el podólogo viene cada 15 días. Dentro de nuestro departamento de rendimiento, tenemos valoraciones alto funcionales y valoraciones de fuerza. Hacemos SLR, squat, step down. Dentro de la fuerza, a nivel isométrico hacemos sentadilla, salto, hop test, isométrico de tobillo en posición de carrera, isquio 90/20, abductor y abducción a 45 grados, sentadilla y press de banca. Recogemos todos esos datos en un Excel y usamos tecnología (vales) para exportarlos y hacer nuestros análisis.",
+      "keywords": [
+        "evaluaciones",
+        "fuerza-isometrica",
+        "multidisciplinar",
+        "test-funcionales",
+        "isquio-90-20"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué pruebas de fuerza isométrica realiza el CD Castellón?",
+        "¿Qué departamentos participan en la evaluación inicial de los jugadores?",
+        "¿Cómo estructuran las evaluaciones de rendimiento?"
+      ],
+      "related_terms": [
+        "valoraciones",
+        "de",
+        "fuerza",
+        "evaluaciones",
+        "médicas"
+      ],
+      "relevance_score": 4,
+      "context_before": "La incidencia de lesiones en la musculatura isquiosural (especialmente el bíceps femoral) sigue en aumento, ocurriendo en un 80% de los casos durante acciones de sprint.",
+      "context_after": "Los datos recopilados en estas evaluaciones se analizan en reuniones conjuntas entre el servicio médico y el de rendimiento para crear planes de acción."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:11:33",
+      "end_timestamp": "00:13:37",
+      "start_seconds": 693,
+      "end_seconds": 817,
+      "duration_seconds": 124,
+      "timestamp_url": "?t=693",
+      "title": "Toma de decisiones mediante análisis de vídeo y perfiles de fuerza",
+      "summary": "Tras los tests, los departamentos médico y de rendimiento se reúnen para analizar en vídeo la calidad de movimiento, determinar las necesidades individuales y agrupar a los jugadores en perfiles de fuerza específicos.",
+      "literal_quote": "Es una reunión de servicio médico y rendimiento por cada jugador, valorando el vídeo que grabamos los test, especialmente los alto funcionales.",
+      "full_transcript": "En estas dos primeras semanas es una reunión de servicio médico y rendimiento por cada jugador, valorando el vídeo que grabamos los test, especialmente los alto funcionales. Vemos todos esos vídeos de nuevo, evaluamos cómo se mueven esos jugadores, cómo están de niveles de fuerza y con el historial clínico, decidimos un plan de acción. Ese plan de acción viene por un lado individual, y por otro, los programas preventivos del riesgo de lesión divididos en tres niveles. A nivel de fuerza realizamos perfiles. Dependen de las diferentes manifestaciones de la fuerza, los déficits que vemos (especialmente en el CMJ en absorción o landing), los requerimientos de la posición, y lo agrupamos en perfiles como: déficit de fuerza, balanceado o déficit de velocidad.",
+      "keywords": [
+        "analisis-video",
+        "perfiles-fuerza",
+        "plan-accion",
+        "prevencion",
+        "cmj"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Toma de decisiones"
+      ],
+      "search_questions": [
+        "¿Cómo se determina el plan de acción preventivo para cada jugador?",
+        "¿Qué se evalúa en las reuniones conjuntas de médico y rendimiento?",
+        "¿Cómo se clasifican los perfiles de fuerza de los jugadores?"
+      ],
+      "related_terms": [
+        "plan",
+        "de",
+        "acción",
+        "perfiles",
+        "de",
+        "fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "El club aplica un enfoque integral para evaluar a los jugadores, incluyendo pruebas médicas, nutrición, fisioterapia y valoraciones funcionales de fuerza.",
+      "context_after": "Una vez definidos los perfiles y planes preventivos, se establece la metodología de control y distribución de cargas semanales en campo y gimnasio."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:13:37",
+      "end_timestamp": "00:15:33",
+      "start_seconds": 817,
+      "end_seconds": 933,
+      "duration_seconds": 116,
+      "timestamp_url": "?t=817",
+      "title": "Modulación de la carga por código de colores",
+      "summary": "La carga de trabajo se clasifica en semanas rojas, amarillas y verdes. Para no saturar a los jugadores, el estímulo del gimnasio alterna colores respecto al campo (ej. si el campo es rojo, el gimnasio es amarillo).",
+      "literal_quote": "Para no darle rojo de gimnasio, rojo en el campo, lo que hacemos es cambiar el rojo y amarillo.",
+      "full_transcript": "A nivel de campo, la carga la manejamos dependiendo de la longitud y el tipo de microciclo. Hacemos cada dos semanas un tipo de semana: roja, amarilla o verde. Buscamos que en la semana roja haya un volumen un poco más alto e intensidad alta. En las moderadas o amarillas el volumen es medio pero la intensidad sigue siendo alta. Y las semanas verdes bajamos el volumen, controlamos intensidades y damos una semana de descanso entre comillas. ¿Cómo hacemos el gimnasio? Lo hacemos verde cuando el campo es verde, pero cambiamos el amarillo con el rojo. Para no darle rojo de gimnasio y rojo en el campo a la vez, lo que hacemos es cruzar esos colores.",
+      "keywords": [
+        "control-carga",
+        "microciclo",
+        "semana-roja",
+        "semana-verde",
+        "gestion-volumen"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Planificación"
+      ],
+      "search_questions": [
+        "¿Cómo se organiza la carga semanal en colores?",
+        "¿Por qué se alterna la intensidad del gimnasio con la del campo?",
+        "¿Qué caracteriza a una semana verde en la planificación?"
+      ],
+      "related_terms": [
+        "manejo",
+        "de",
+        "carga",
+        "microciclo",
+        "colores"
+      ],
+      "relevance_score": 4,
+      "context_before": "Tras analizar los test en vídeo, se elaboran planes individuales y preventivos de fuerza según los déficits encontrados en el CMJ y necesidades posicionales.",
+      "context_after": "Además de planificar por semanas de color, se lleva un control exhaustivo del perfil de cada jugador respecto a los metros recorridos a alta velocidad (HCR)."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:15:33",
+      "end_timestamp": "00:19:19",
+      "start_seconds": 933,
+      "end_seconds": 1159,
+      "duration_seconds": 226,
+      "timestamp_url": "?t=933",
+      "title": "Gestión de carga según el perfil de variabilidad del jugador",
+      "summary": "Se distinguen jugadores con métricas constantes (ej. siempre 1000m HCR) de aquellos con alta variabilidad entre partidos. La dosis semanal se ajusta a estas características, manteniendo como norma innegociable alcanzar >95% de velocidad máxima regularmente.",
+      "literal_quote": "Lo que es innegociable es tener el sprint por encima del 95%. Sí intentamos que todas las semanas o cada 10 días alcancen esa velocidad.",
+      "full_transcript": "Después tenemos el tipo de perfil de jugador. Uno es el 'esprínter o resistencia' que todos los partidos te llega a una media de 900-1100 metros HCR; no hay mucha variabilidad en sus partidos. Como sabes que en la competición está teniendo una buena dosis, quizá en la semana la dosis de entrenamiento es menor (0.5, 0.7). Después hay jugadores con una media de 500, pero un partido hacen 300 y otro 900. Con ellos, que tienen ese rango de mayor variabilidad, la intentamos reducir al mínimo controlándola durante el microciclo. Si varían mucho, nos salta la alarma y ajustamos hacia arriba o abajo según la exigencia. Lo que es innegociable es tener el sprint, demostrado por Buchheit, por encima del 95%. Sí intentamos que todas las semanas o por lo menos cada 10 días alcancen esa velocidad.",
+      "keywords": [
+        "hcr",
+        "variabilidad",
+        "dosis-semanal",
+        "sprint-maximo",
+        "control-carga"
+      ],
+      "entities": [
+        "Buchheit"
+      ],
+      "topics": [
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis de rendimiento"
+      ],
+      "search_questions": [
+        "¿Cómo se adapta la carga semanal según el perfil de HCR del jugador?",
+        "¿Cuál es la norma innegociable respecto a la velocidad máxima?",
+        "¿Por qué es importante identificar la variabilidad de esfuerzo entre jugadores?"
+      ],
+      "related_terms": [
+        "perfil",
+        "del",
+        "jugador",
+        "hcr",
+        "dosis",
+        "semanal"
+      ],
+      "relevance_score": 5,
+      "context_before": "La carga de trabajo se clasifica en semanas rojas, amarillas y verdes, alternando la intensidad del gimnasio con la del campo para no saturar al deportista.",
+      "context_after": "Para preparar al jugador ante estas exigencias, cada sesión diaria inicia con rutinas de preactivación individual basadas en sus necesidades y deficiencias."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:19:19",
+      "end_timestamp": "00:22:55",
+      "start_seconds": 1159,
+      "end_seconds": 1375,
+      "duration_seconds": 216,
+      "timestamp_url": "?t=1159",
+      "title": "Estructura de preactivación y programas preventivos por niveles",
+      "summary": "Se dispone de 45 minutos diarios para activación individual según déficits de movimiento. Además, aplican prevención en 3 niveles: Nivel 1 (grupal previo a días extensivos), Nivel 2 (grupos de riesgo en MD-4) y Nivel 3 (compensatorio en MD-2).",
+      "literal_quote": "Tenemos nivel uno, a nivel grupal 15 minutos antes del día extensivo. Nivel dos y nivel tres... el dos viene siendo grupos de riesgo.",
+      "full_transcript": "Dentro del gimnasio, a nivel individual, tenemos una preactivación de 45 minutos donde hacen su rutina basada en los déficits que hemos visto, asimetrías, para mejorar la calidad del movimiento. Después, a nivel preventivo tenemos tres niveles. El Nivel 1 se hace a nivel grupal 15 minutos antes del día extensivo (normalmente el MD-3), dirigido a activación. El Nivel 2 suele ser el MD-4 o MD-5 para grupos de riesgo (tendones, pubis, isquio) con trabajo excéntrico o isométrico. El Nivel 3 suele ser el MD-2, enfocado a necesidades individuales, dirigido hacia la movilidad, expansión muscular o relajación de alguna cadena.",
+      "keywords": [
+        "preactivacion",
+        "prevencion",
+        "niveles-riesgo",
+        "movilidad",
+        "trabajo-excentrico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Estructura de sesión"
+      ],
+      "search_questions": [
+        "¿En qué consisten los tres niveles del programa preventivo?",
+        "¿Cuándo se realiza el programa preventivo para grupos de riesgo?",
+        "¿Qué objetivos persigue la preactivación individual de 45 minutos?"
+      ],
+      "related_terms": [
+        "programa",
+        "preventivo",
+        "preactivación",
+        "niveles"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ajusta la dosis de HCR y sprint semanal asegurando que cada jugador supere el 95% de su velocidad máxima al menos cada 10 días.",
+      "context_after": "El trabajo preventivo se complementa con entrenamiento específico de fuerza de la cadena posterior, ubicando los estímulos según la cercanía al partido."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:22:55",
+      "end_timestamp": "00:25:18",
+      "start_seconds": 1375,
+      "end_seconds": 1518,
+      "duration_seconds": 143,
+      "timestamp_url": "?t=1375",
+      "title": "Distribución del trabajo analítico y excéntrico de isquios",
+      "summary": "El trabajo analítico que genera daño muscular en isquios (daño residual hasta 72h) se ubica en los días MD+1 o MD+2 para alejarlo de la competición. Días como MD-3 o MD-4 priorizan fuerza de movimiento completo y aceleración rápida.",
+      "literal_quote": "Nos interesa más este estímulo que está dirigido a dañar esa musculatura isquiosural, que se dé lo más alejado de la competición.",
+      "full_transcript": "El trabajo de fuerza va guiado por perfiles y la curva fuerza-velocidad. En el tema de cadena posterior, especialmente isquio, en MD+1 y MD+2 es cuando solemos meter todo el trabajo dirigido específicamente a la musculatura de manera más analítica. Como vemos en estudios, queda daño muscular residual incluso 72 horas después. Entonces, nos interesa que este estímulo para dañar esa musculatura isquiosural se dé lo más alejado de la competición. Después, en el MD-3 o MD-4, va más dirigido a un movimiento completo. Aunque haya peso muerto, el rango excéntrico es controlado y buscamos carga ligera para acelerar rápido, a diferencia del daño buscado a principio de semana.",
+      "keywords": [
+        "isquiosural",
+        "dano-muscular",
+        "fuerza-analitica",
+        "md+1",
+        "aceleracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Programación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el trabajo analítico de isquios se coloca en MD+1 o MD+2?",
+        "¿Qué tipo de trabajo de cadena posterior se realiza en MD-3?",
+        "¿Cómo afecta el daño muscular residual a la planificación de fuerza?"
+      ],
+      "related_terms": [
+        "daño",
+        "muscular",
+        "residual",
+        "cadena",
+        "posterior",
+        "isquio"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se aplican tres niveles de prevención diaria y protocolos pre-entrenamiento para adaptar la movilidad y compensación de los jugadores.",
+      "context_after": "Todas estas decisiones sobre carga e intensidad dependen de la comunicación fluida entre el departamento médico y el de rendimiento."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:25:18",
+      "end_timestamp": "00:26:05",
+      "start_seconds": 1518,
+      "end_seconds": 1565,
+      "duration_seconds": 47,
+      "timestamp_url": "?t=1518",
+      "title": "La comunicación interdisciplinar como prevención",
+      "summary": "Una comunicación efectiva entre el servicio médico y el cuerpo técnico es vital para tomar decisiones consensuadas sobre la carga individualizada, lo cual impacta directamente en la reducción del riesgo lesivo.",
+      "literal_quote": "Involucrar a tanto staff... dentro de la elección del trabajo que tiene que hacer cada futbolista, y estar todos de acuerdo... creo que es crucial.",
+      "full_transcript": "Para nosotros, lo principal, y creo que es lo que más beneficio nos ha dado, es la comunicación. Hay estudios donde una buena comunicación reduce el riesgo de lesión, y estoy totalmente de acuerdo. Involucrar a tanto staff, servicio médico como rendimiento, dentro de la elección del trabajo que tiene que hacer cada futbolista, y estar todos de acuerdo, llegar a un punto medio en el que todos veamos que es positivo para el jugador, creo que es crucial.",
+      "keywords": [
+        "comunicacion",
+        "staff",
+        "riesgo-lesion",
+        "trabajo-multidisciplinar"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la comunicación entre los staffs de un equipo de fútbol?",
+        "¿Cómo afecta la toma de decisiones conjunta al riesgo de lesión?",
+        "¿Qué rol juega el servicio médico en la elección de cargas?"
+      ],
+      "related_terms": [
+        "comunicación",
+        "riesgo",
+        "de",
+        "lesión",
+        "staff"
+      ],
+      "relevance_score": 4,
+      "context_before": "El daño muscular provocado por los ejercicios excéntricos de cadena posterior requiere gestionar bien la recuperación y las cargas.",
+      "context_after": "Como pilar de esa toma de decisiones, el club emplea la prueba de fuerza isométrica 90/20 para evaluar la sensibilidad de la fatiga en isquios."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:26:05",
+      "end_timestamp": "00:30:52",
+      "start_seconds": 1565,
+      "end_seconds": 1852,
+      "duration_seconds": 287,
+      "timestamp_url": "?t=1565",
+      "title": "Fundamentos y aplicación del Test Isométrico 90/20",
+      "summary": "El test de fuerza 90/20 (90º cadera, 20º rodilla) se realiza en el MD+3 porque detecta la fatiga residual mejor que el 90/90. Además, este ángulo emula biomecánicamente la postura real de sprint en el fútbol, con el centro de gravedad adelantado.",
+      "literal_quote": "A las 48 horas tras competición... en el 90/20 todavía está esa sensibilidad de que ese cambio es significativo, pero en el 90/90 se puede camuflar.",
+      "full_transcript": "Hay un test al que le damos mucha importancia: el 90/20. ¿Por qué 90 grados de cadera y 20 de rodilla? Ocurre una mayor activación del bíceps femoral y hay mayor sensibilidad. A las 48-72 horas tras competición, en el 90/20 todavía hay sensibilidad de fatiga, pero en el 90/90 se puede camuflar. El momento más susceptible de lesión es el late swing del sprint. Aunque la técnica ideal dice que no hay 90 grados de cadera, en fútbol los jugadores van con la cabeza baja y el tronco adelantado por el balón, acercándose a esos 90 grados. Por eso el 90/20 simula mejor la lesión. Hacemos este test en el MD+3 de manera progresiva y luego dos repeticiones máximas de cuatro segundos para ver pico de fuerza y asimetría.",
+      "keywords": [
+        "test-90-20",
+        "fatiga-residual",
+        "biceps-femoral",
+        "sprint",
+        "isometria",
+        "md+3"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué el test 90/20 es más sensible a la fatiga que el 90/90?",
+        "¿Cómo se relaciona la biomecánica del test 90/20 con el sprint en fútbol?",
+        "¿Cuándo se realiza el test isométrico 90/20 durante la semana?"
+      ],
+      "related_terms": [
+        "test",
+        "90/20",
+        "isométrico",
+        "sensibilidad",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "La comunicación interdisciplinar permite ajustar la carga de los jugadores basada en evaluaciones precisas del estado neuromuscular.",
+      "context_after": "Además del test físico, el departamento recopila datos diarios de bienestar y alarmas informáticas para cruzar variables subjetivas y objetivas."
+    },
+    {
+      "id": "V02-013",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:30:52",
+      "end_timestamp": "00:34:21",
+      "start_seconds": 1852,
+      "end_seconds": 2061,
+      "duration_seconds": 209,
+      "timestamp_url": "?t=1852",
+      "title": "Sistema de alarmas mediante Z-score y carga interna",
+      "summary": "Utilizan un software propio para calcular el Z-score de carga interna (Wellness/RPE), filtrando respuestas repetitivas de jugadores. Disparan alarmas si pasan 7-9 días sin sprint >95%, o si la percepción de esfuerzo discrepa del volumen absoluto histórico.",
+      "literal_quote": "Si hay dos métricas que bajan de su Z-score y la percepción sube, nos salta la alarma. Y si es al revés, también.",
+      "full_transcript": "A nivel de carga interna tenemos Wellness, RPE y el Z-score en nuestro software propio. Muchos jugadores siempre ponen la misma nota en Wellness, pero con el Z-score vemos variaciones reales. Después tenemos un sistema de alarmas. Uno es no alcanzar el sprint a más del 95% en 7-9 días; si pasa a amarillo sabemos que pronto tienen que esprintar. Otra alarma salta cuando superan su máximo histórico. Usamos el Z-score sobre las últimas seis sesiones equivalentes (ej. seis últimos MD-4): si el volumen absoluto baja pero su percepción de esfuerzo sube (o viceversa) y el Z-score supera 1.3, salta la alarma y hay que prestar atención a por qué están tan cansados.",
+      "keywords": [
+        "z-score",
+        "software-propio",
+        "wellness",
+        "rpe",
+        "sistema-alarmas",
+        "sprint-maximo"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Análisis de Datos"
+      ],
+      "search_questions": [
+        "¿Cómo ayuda el Z-score a interpretar los cuestionarios de Wellness?",
+        "¿Qué condiciones disparan el sistema de alarmas físicas en el equipo?",
+        "¿Cómo se controla la falta de exposición a alta velocidad?"
+      ],
+      "related_terms": [
+        "z-score",
+        "carga",
+        "interna",
+        "sistema",
+        "de",
+        "alarmas"
+      ],
+      "relevance_score": 5,
+      "context_before": "El test 90/20 se usa como medidor de fatiga periférica muscular en los isquios a mitad de semana.",
+      "context_after": "La combinación de los datos del test físico con estas alarmas informáticas es la clave para decidir si un jugador entrena o se le modifica la sesión."
+    },
+    {
+      "id": "V02-014",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:34:21",
+      "end_timestamp": "00:37:23",
+      "start_seconds": 2061,
+      "end_seconds": 2243,
+      "duration_seconds": 182,
+      "timestamp_url": "?t=2061",
+      "title": "Toma de decisiones: modificación, reducción o eliminación de campo",
+      "summary": "Ante una bajada >10% en el test 90/20 o múltiples alarmas de carga disparadas, el staff decide. Pueden mantener entrenamiento normal, usarlo de comodín (modificar), apartarlo de tareas intensas o sacarlo totalmente de campo.",
+      "literal_quote": "Con esta batidora decidimos qué hacemos con ese jugador. Puede entrenar con normalidad, vamos a modificar su carga de campo o incluso se la vamos a eliminar.",
+      "full_transcript": "A nivel de monitorización, con el 90/20 como punto de partida, si hay más de un 10% de bajada sobre el pico de fuerza, nos planteamos modificar, reducir o eliminar la sesión. Si es menor del 10%, miramos las otras áreas (alarmas, carga). Si todo está en verde, entrena con normalidad. Pero si viene de un all-time máximo en partido, duerme mal, tiene fatiga y el test también avisa, con esta batidora decidimos qué hacemos con el jugador. Puede ser usarlo de comodín en tareas para limitar la carga, que haga trabajo individualizado, o sacarlo totalmente de la sesión de campo.",
+      "keywords": [
+        "toma-decisiones",
+        "modificacion-carga",
+        "test-90-20",
+        "alarmas",
+        "monitorizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Qué porcentaje de déficit en el test 90/20 dispara la reducción de carga?",
+        "¿Qué opciones tiene el cuerpo técnico al modificar el entrenamiento de un jugador?",
+        "¿Cómo se integran las diferentes métricas para decidir la participación del jugador?"
+      ],
+      "related_terms": [
+        "modificar",
+        "reducir",
+        "eliminar",
+        "carga",
+        "de",
+        "campo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Un software propio procesa la carga interna y detecta anomalías si las percepciones subjetivas difieren del volumen histórico absoluto.",
+      "context_after": "Si la decisión final es sacar completamente al jugador del entrenamiento de campo, se le aplica un protocolo específico alternativo."
+    },
+    {
+      "id": "V02-015",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:37:23",
+      "end_timestamp": "00:40:20",
+      "start_seconds": 2243,
+      "end_seconds": 2420,
+      "duration_seconds": 177,
+      "timestamp_url": "?t=2243",
+      "title": "Protocolo alternativo indoor para jugadores descargados",
+      "summary": "Cuando se aparta a un jugador del campo por fatiga o alarmas, este realiza activación estructural de cadena posterior, fuerza isométrica baja, dinámica de antagonistas, trabajo metabólico en wattbike y un protocolo de fisioterapia liberador.",
+      "literal_quote": "Si se le saca totalmente todo de la sesión de campo... hace una activación más estructural de toda la cadena posterior... y trabajo metabólico.",
+      "full_transcript": "Si se le saca totalmente de la sesión de campo, se va con el readaptador y hace una activación estructural de toda la cadena posterior. Aumentamos el rango de movimiento. Se hace trabajo de fuerza con carga muy baja y más isométrico. Se trabaja a nivel dinámico y excéntrico la musculatura antagonista, siempre en descarga. Y por último, un trabajo metabólico que puede ser wattbike, cuerdas o intervalos. Después, pasa al protocolo de fisioterapia: relajan paravertebrales, liberación de la fascia toracolumbar y expansión de la musculatura isquiosural, seguido de control de la pelvis a nivel de vuelta a la calma.",
+      "keywords": [
+        "protocolo-indoor",
+        "descarga",
+        "wattbike",
+        "fisioterapia",
+        "fascia-toracolumbar",
+        "isometria"
+      ],
+      "entities": [
+        "Wattbike"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Protocolo"
+      ],
+      "search_questions": [
+        "¿Qué trabajo físico realiza un jugador apartado del campo por fatiga?",
+        "¿Qué incluye el protocolo de fisioterapia en días de descarga?",
+        "¿Cómo mantienen el estímulo metabólico sin impacto en césped?"
+      ],
+      "related_terms": [
+        "sesión",
+        "indoor",
+        "descarga",
+        "recuperación",
+        "activa"
+      ],
+      "relevance_score": 4,
+      "context_before": "Dependiendo de las alarmas, el cuerpo técnico puede decidir que el jugador realice la sesión como comodín o que no pise el campo.",
+      "context_after": "Se presentan casos reales demostrando cómo la lectura del test 90/20 previno lesiones en jugadores con fatiga acumulada."
+    },
+    {
+      "id": "V02-016",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:40:20",
+      "end_timestamp": "00:45:55",
+      "start_seconds": 2420,
+      "end_seconds": 2755,
+      "duration_seconds": 335,
+      "timestamp_url": "?t=2420",
+      "title": "Interpretación cualitativa del test 90/20",
+      "summary": "Se exponen casos prácticos donde se evitó lesión sacando al jugador de la sesión por asimetría y dolor alto en Wellness. Además, el test no solo mide el pico de fuerza absoluto, sino la calidad: vibraciones o rendirse pronto indican fatiga neuromuscular.",
+      "literal_quote": "No solo vemos el pico de fuerza... si a los tres segundos ya se tira, esto nos indica también una deficiencia neuromuscular.",
+      "full_transcript": "Viendo un caso del año pasado, un jugador que siempre quiere entrenar presentó un bajón en el test de 90/20 y asimetría grande en la pierna izquierda, sumado a dolor 5 en Wellness. Decidimos dejarlo fuera con trabajo de descarga. Era el que más minutos llevaba; no pasa nada por perder un entreno. Otro caso: un jugador que no jugaba mucho, subía fuerza pero sentía molestias. Tenía programado sprint y se lo eliminamos por prevención. Además, del test 90/20 no solo vemos el pico de fuerza, sino cómo llega. Si un jugador hace la misma fuerza dos días distintos pero en el segundo tiembla, vibra mucho y se rinde antes de los 4 segundos, indica deficiencia neuromuscular o fatiga, incluyéndolo en la franja roja.",
+      "keywords": [
+        "casos-practicos",
+        "fatiga-neuromuscular",
+        "test-90-20",
+        "pico-fuerza",
+        "prevencion-lesion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Por qué es importante analizar el desarrollo del test y no solo el pico de fuerza?",
+        "¿Cómo influyen los minutos jugados en la interpretación de los datos de fatiga?",
+        "¿Qué signos cualitativos en el test 90/20 indican fatiga neuromuscular?"
+      ],
+      "related_terms": [
+        "interpretación",
+        "cualitativa",
+        "deficiencia",
+        "neuromuscular",
+        "pico",
+        "de",
+        "fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Si los datos o alarmas lo recomiendan, el jugador realiza una sesión compensatoria en el gimnasio para evitar lesiones.",
+      "context_after": "Toda la filosofía de pruebas, alertas y prevención se consolida en la estructura tipo del microciclo semanal."
+    },
+    {
+      "id": "V02-017",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:45:55",
+      "end_timestamp": "00:54:37",
+      "start_seconds": 2755,
+      "end_seconds": 3277,
+      "duration_seconds": 522,
+      "timestamp_url": "?t=2755",
+      "title": "Estructura estándar del microciclo y su trabajo de fuerza",
+      "summary": "Desglose de un microciclo estándar: MD+1 se enfoca en recuperación activa e isquios; MD+2 descanso; MD-4 intensivo con nivel 2 preventivo; MD-3 extensivo con nivel 1 preventivo y técnica de carrera; y MD-2 reactivo con nivel 3 preventivo.",
+      "literal_quote": "Tenemos partido, entrenamos +1, día libre en el +2, vamos a un día intensivo -4, hacemos uno con los preventivos de nivel dos, -3 con el test, -2 nivel tres...",
+      "full_transcript": "A modo de ejemplo de un microciclo normal: partido, MD+1 activación y fuerza de recuperación (patada isquio, tren superior, cadera anterior), MD+2 libre. MD-4 día intensivo: hacemos activación, test 90/20, programa prevención nivel 2 (más isometría y zona media). MD-3 extensivo: prevención nivel 1 dirigida a carrera de alta intensidad, fuerza dinámica/excéntrica, técnica de freno y perfiles de fuerza (déficit de fuerza o velocidad). MD-2: preactivación pautada individual (nivel 3), movilidad, expansión muscular de isquios y estrategia de recuperación.",
+      "keywords": [
+        "microciclo-estandar",
+        "programacion-fuerza",
+        "distribucion-carga",
+        "md-4",
+        "md-3"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Planificación"
+      ],
+      "search_questions": [
+        "¿Qué contenidos físicos se entrenan en un MD-3 extensivo?",
+        "¿Cómo se distribuyen los niveles preventivos a lo largo de la semana?",
+        "¿Cuál es el enfoque del entrenamiento el día posterior a la competición (MD+1)?"
+      ],
+      "related_terms": [
+        "microciclo",
+        "estándar",
+        "planificación",
+        "de",
+        "fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "La lectura cualitativa y cuantitativa de los test permite apartar a los jugadores puntualmente si es necesario.",
+      "context_after": "Todo este engranaje busca reducir las lesiones musculares para maximizar el rendimiento deportivo y cuidar la salud financiera y competitiva del club."
+    },
+    {
+      "id": "V02-018",
+      "video_title": "Manejo de la cadena posterior en Liga Hypermotion",
+      "speaker": "Alberto Liñán",
+      "start_timestamp": "00:54:37",
+      "end_timestamp": "01:00:35",
+      "start_seconds": 3277,
+      "end_seconds": 3635,
+      "duration_seconds": 358,
+      "timestamp_url": "?t=3277",
+      "title": "Impacto de la metodología en la reducción de lesiones",
+      "summary": "Con esta metodología, el equipo redujo a la mitad los días de baja por lesión en cadena posterior. Concluyen que la mejor prevención de lesiones es un entrenamiento de campo bien programado, monitorizado y ejecutado de manera óptima.",
+      "literal_quote": "Si dentro del campo se da un buen entrenamiento, bien planificado, bien programado y a una intensidad correcta, creo que ese es el mayor programa preventivo que puede haber en un futbolista.",
+      "full_transcript": "Las lesiones tienen un alto coste financiero y deportivo. Nuestro objetivo era reducir lo que pasó el año pasado con la cadena posterior. Bajamos a mitad los días y el número de lesiones de isquio. Este año, la variabilidad de lesiones fue mayor, lo que significa que fueron por factores individuales y no un error global de metodología; además, casi todas fueron de jugadores nuevos adaptándose al contexto de alta exigencia del club. Para finalizar, no hay fórmula mágica. La clave está en la comunicación, programación multidisciplinar, monitorización diaria y toma de decisiones. El mejor programa preventivo que puede haber es que dentro del campo se dé un entrenamiento bien planificado y a la intensidad correcta.",
+      "keywords": [
+        "reduccion-lesiones",
+        "impacto-financiero",
+        "adaptacion-jugadores",
+        "entrenamiento-campo",
+        "conclusiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones"
+      ],
+      "content_type": [
+        "Conclusión",
+        "Resultados"
+      ],
+      "search_questions": [
+        "¿Qué impacto tuvo la metodología en la tasa de lesiones isquiosurales?",
+        "¿Cuál considera el ponente como el mejor programa de prevención de lesiones?",
+        "¿Por qué los jugadores nuevos son más propensos a lesionarse al cambiar de equipo?"
+      ],
+      "related_terms": [
+        "reducción",
+        "de",
+        "lesiones",
+        "disponibilidad",
+        "programa",
+        "preventivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha desgranado la estructura metodológica completa para la prevención de lesiones en un microciclo de alta exigencia.",
+      "context_after": "Fin del webinar."
+    }
+  ]
+}
