@@ -1,0 +1,231 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:12:18",
+    "total_duration_seconds": 738,
+    "source_file": "WEBVTT-5",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:03:06",
+      "start_seconds": 0,
+      "end_seconds": 186,
+      "duration_seconds": 186,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Evaluación de la fuerza de resistencia y Tasa de Desarrollo de Fuerza (RFD)",
+      "summary": "Se destaca la importancia de medir la fuerza de resistencia (mediante isometrías prolongadas o isocinética a 180°/s) para soportar esfuerzos repetidos. Además, se explica el RFD (qué tan rápido se produce la fuerza), donde los primeros 50 ms tienen demanda neural y a partir de los 150 ms predomina la fuerza máxima.",
+      "literal_quote": "La tasa de desarrollo de fuerza es qué tan rápido cambia la fuerza. Por lo general, se evalúa en ventanas temporales de cero a 50 milisegundos, el early RFD...",
+      "full_transcript": "Una vez que evaluamos la fuerza máxima y vemos cuánta fuerza puede producir, no podemos olvidarnos de la fuerza de resistencia, porque al final, en los deportes de equipo sobre todo, el deportista debe ser capaz de prolongar los esfuerzos y repetir estos esfuerzos de baja o moderada intensidad, o incluso de alta, en el tiempo, porque si no, realmente no va a estar preparado para las demandas. Cada vez debemos ir acercándonos un poquito más a las demandas del juego. Tengo varias formas de hacerlo y son bien sencillas. La primera puede ser viendo cuánto tiempo aguanta en isometría, por ejemplo, en iso hold. O puedo ver en un test de cualquier patrón de movimiento que me interese evaluar, por ejemplo, un lunge al fallo en cada pierna y ver si es similar o no al otro, etcétera. Ahora, si tengo isocinética, puedo realizar el test a 180 grados por segundo, a 15 repeticiones, y me aseguro realmente que en fuerza analítica está bien. Y si no tengo la capacidad de evaluarlo con tanta tecnología, un 'leg extension' y un 'leg curl' también me pueden servir. Pero ya que sabemos cuánta fuerza puede producir el deportista, ahora debemos ir a buscar qué tan rápido puede producirla. Y vuelvo aquí otra vez a mencionar el RFD. Vamos a entrar un poquito más en el RFD, porque al final es un factor determinante en la acción explosiva y en las situaciones de alta velocidad. Corresponde a la capacidad de producir fuerza en el menor tiempo posible. La tasa de desarrollo de fuerza es qué tan rápido cambia la fuerza. Por lo general, se evalúa en ventanas temporales de cero a 50 milisegundos, el early RFD, de cero a 100, que sobre todo entre cero y los 50, y los 50 y los 100 predomina la demanda neural. Luego, en el RFD intermedio hay una influencia mixta y ya entre los 150 o más allá, sobre todo la influencia de fuerza máxima. En la gráfica corresponde a la pendiente de la curva y no siempre va a estar en los 50 milisegundos. A mayor empinación de la pendiente, mayor RFD. ¿En qué test puedo evaluar el RFD? En muchos, pero tengo que ir a buscar estos que cada vez me van acercando a la transferencia del deportista hacia la readaptación y un granito es la carrera.",
+      "keywords": [
+        "fuerza de resistencia",
+        "iso hold",
+        "isocinética",
+        "RFD",
+        "tasa de desarrollo de fuerza",
+        "demanda neural",
+        "fuerza máxima"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante evaluar la fuerza de resistencia en deportes de equipo?",
+        "¿Qué variables temporales definen el RFD y qué demanda predomina en cada una?",
+        "¿Cómo se puede medir la fuerza de resistencia si no se cuenta con isocinética?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "de",
+        "resistencia",
+        "rfd",
+        "evaluación",
+        "Evaluación",
+        "Metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del fragmento disponible, continuación directa de la evaluación de la fuerza máxima descrita en bloques anteriores.",
+      "context_after": "El ponente introduce los test específicos en cadena cerrada para evaluar el RFD y prepararse para la mecánica de carrera."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:06",
+      "end_timestamp": "00:05:48",
+      "start_seconds": 186,
+      "end_seconds": 348,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=186",
+      "title": "Test específicos para la carrera (Run specific iso push) e interpretación de asimetrías",
+      "summary": "Para acercarse a la readaptación a la carrera, se utilizan test específicos en cadena cerrada como la batería 'run specific iso push' del Dr. Alex Natera. Mediante un caso clínico, se muestra cómo comparar percentiles y asimetrías del RFD para determinar la tolerancia a la carga vertical.",
+      "literal_quote": "Ahora debo evaluarlo en test más específicos en cadena cerrada y por eso pongo los 'run specific iso push', porque el doctor Alex Natera creó esta batería de test, en el cual evalúa la articulación de cadera, rodilla y tobillo en ángulos críticos determinantes para la carrera.",
+      "full_transcript": "Por lo tanto, si ya lo evalué, quizá en cadena abierta con dinamometría, en isometría, iso push, lo evalué en isocinética, quizás también, ahora debo evaluarlo en test más específicos en cadena cerrada y por eso pongo los 'run specific iso push', porque el doctor Alex Natera creó esta batería de test, en el cual evalúa la articulación de cadera, rodilla y tobillo en ángulos críticos determinantes para la carrera. Y acá vamos a volver a evaluar lo que es fuerza máxima y también RFD. Este es un caso clínico real en el cual sigue siendo un caso de menisco, por lo tanto, el componente de carga vertical era muy importante y debemos ir a compararlo tanto con sus valores de referencia como con los valores de su competencia, que, por ejemplo, si es un deportista profesional de fútbol, podría compararlo, aunque no sea su misma liga, con lo que más se asemeje, que aquí vendría siendo la Premier League. Val tiene los valores normativos y lo que se encuentre en el percentil 50 significa que está en el medio, ni lo mejor ni lo peor, pero tenemos que pensar que viene de estar lesionado y que si tiene valores del percentil 50 de la Premier League, probablemente el test está correcto y esté bastante preparado. Una vez que ya evaluamos el big four, si está okey, tenemos que ver las variables tiempo dependiente y también la fuerza relativa que es capaz de generar, no solo las asimetrías. Acá podemos ver que tiene 4,2 por 'body weight', que es lo que se pide a nivel de referencia, y en la lesionada tiene 4,0. Y a nivel de asimetrías no presenta asimetrías significativas en el 'start time to 80 % peak force'. En el 'max peak vertical force' tiene un 6,5 % de asimetría y en el 'max RFD' de 150 a 200 milisegundos tiene un 14, que está bastante bien a la fase que se encuentra. Piensen que tiene que volver a correr. Menos de un 15 está okey. Aparte de los 'run specifics', ¿qué otros criterios y test necesito?",
+      "keywords": [
+        "run specific iso push",
+        "cadena cerrada",
+        "doctor Alex Natera",
+        "carga vertical",
+        "percentil 50",
+        "fuerza relativa",
+        "asimetrías",
+        "max RFD"
+      ],
+      "entities": [
+        "Dr. Alex Natera",
+        "Premier League",
+        "Val"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué evalúa la batería de test 'run specific iso push' del Dr. Alex Natera?",
+        "¿Cómo se interpretan las asimetrías de RFD máximo de cara a la readaptación a la carrera?",
+        "¿Contra qué valores normativos sugiere el ponente comparar a un futbolista profesional?"
+      ],
+      "related_terms": [
+        "test",
+        "carrera",
+        "run",
+        "specific",
+        "iso",
+        "push",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la relevancia fisiológica y temporal del RFD en las acciones deportivas explosivas.",
+      "context_after": "Se procede a listar las métricas y criterios objetivos para determinar si el deportista está listo para iniciar la carrera."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:05:48",
+      "end_timestamp": "00:08:42",
+      "start_seconds": 348,
+      "end_seconds": 522,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=348",
+      "title": "Criterios clínicos y benchmarks para el retorno a la carrera",
+      "summary": "Se exponen los criterios basados en evidencia para volver a correr: conservación del ROM (>95% flexión, extensión completa), simetría de fuerza >80% y control excéntrico en saltos. Si el deportista cumple con estas métricas o tiene asimetrías <20%, se puede evaluar iniciar la carrera (posiblemente asistida con Alter-G).",
+      "literal_quote": "Si cumple con estos criterios, está preparado para volver a correr. Ahora, siempre hay excepciones y a veces, si es que poseemos la Alter-G o tenemos alguna forma de generar la carrera desgrabada...",
+      "full_transcript": "¿qué otros criterios y test necesito? Esto es lo que nos muestra la evidencia. Aespetalde, por ejemplo, habla de que el rombo de rodilla realmente tiene que estar conservado mayor al 95 % de la flexión y una extensión completa, que no haya derrame, que en la fuerza de cuádriceps haya una simetría mayor al 80 %, que el salto de CMJ tenga un impulso excéntrico mayor al 80 % y que el deportista tolere hops unipodales sin dolor. Luego están los benchmarks de Val, que nos pone para recuperar la carrera y el salto. El CMJ tiene que tener una altura de entre 27,8 y 30,1 centímetros. A nivel de impulso excéntrico, debe haber una simetría entre un 9 a un 14 %, al menos menor a eso, y el 'eccentric peak velocity' tiene que ser menor a un metro por segundo. En cuanto al 'single leg jump' o 'single leg CMJ', la altura debe ser mayor a 11 centímetros, debe haber una asimetría menor al 20 % en el impulso concéntrico y debe tener un 'eccentric peak velocity' menor a 0,5 metros por segundo. Y a nivel de fuerza reactiva, el hop test tiene que tener menor a 10 % de asimetría en el impulso excéntrico y concéntrico. Si cumple con estos criterios, está preparado para volver a correr. Ahora, siempre hay excepciones y a veces, si es que poseemos la Alter-G o tenemos alguna forma de generar la carrera desgrabada, cuando tenga menor a un 20 % de asimetría, por lo general, se empieza a probar si tolera la carrera o no. Entonces, ¿en qué tengo que fijarme en un CMJ? A nivel de 'performance', en altura del salto, en el RSI modificado, y a nivel un poquito más detallado y clínico, que me da información, impulso, asimetrías. Básicamente, son los parámetros principales. Acá les dejo una tabla con las variables clave que se evalúan o se suelen evaluar en un CMJ más detallado y les dejo los valores normativos de Val para distintas poblaciones: futbolistas profesionales entre 20 y 30 años, valores de fútbol youth, valores del college de básquetbol, valores de Euroliga de básquetbol y también está todo en base al percentil 50, ya que es en la mitad donde se encuentran los deportistas compitiendo, que no son ni los mejores, pero tampoco los peores en base a estos criterios.",
+      "keywords": [
+        "criterios clínicos",
+        "retorno a la carrera",
+        "CMJ",
+        "benchmarks",
+        "impulso excéntrico",
+        "single leg CMJ",
+        "Alter-G",
+        "RSI modificado",
+        "asimetrías"
+      ],
+      "entities": [
+        "Val",
+        "Alter-G"
+      ],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los criterios clínicos necesarios para autorizar el retorno a la carrera?",
+        "¿Qué valores de simetría en el CMJ y el Hop Test exigen los benchmarks para la carrera?",
+        "¿Qué función tiene la cinta Alter-G en la readaptación del deportista con asimetrías menores al 20%?"
+      ],
+      "related_terms": [
+        "criterios",
+        "carrera",
+        "benchmarks",
+        "cmj",
+        "Return to Play",
+        "Evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el análisis del RFD máximo y su importancia para la asimetría de carga vertical.",
+      "context_after": "Se presenta un segundo caso clínico complejo que demuestra por qué no basta con observar la altura del salto."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:08:42",
+      "end_timestamp": "00:12:18",
+      "start_seconds": 522,
+      "end_seconds": 738,
+      "duration_seconds": 216,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=522",
+      "title": "Análisis profundo de curvas de salto, asimetrías de aterrizaje y biofeedback",
+      "summary": "En un caso clínico de lesión multiligamentaria y menisco, un jugador mostraba métricas óptimas de rendimiento (altura de salto y RSI modificado) pero presentaba un 40% de asimetría en el impacto de aterrizaje (peak landing force). Analizar la curva reveló miedo (kinesiofobia), solucionado rápidamente con biofeedback.",
+      "literal_quote": "Pero si voy a mirar un poco más allá, me encuentro con que el eccentric deceleration RFD le falta un pelín... Y aquí me encuentro con que el peak landing force asymmetry tiene un 40%, lo cual es alto y no cumple.",
+      "full_transcript": "Acá les traigo un caso clínico, en el cual era una lesión multiligamentaria. Estábamos en seis meses ya, pero también se había lesionado menisco, jugador profesional, joven, 18 años. Y si yo me hubiese quedado solamente con la altura del salto, hubiese dicho: 'Está okey'. Si hubiese visto el RFD modificado, hubiese dicho: 'Está perfecto'. Lo estoy comparando con el percentil 50 Premier League y está sobre los parámetros. Pero si voy a mirar un poco más allá, me encuentro con que el eccentric deceleration RFD le falta un pelín, aunque está en el percentil sobre el 25. Está correcto, hay gente que está jugando y tiene esos valores. El eccentric deceleration impulse también está casi en el percentil 50, pero también está correcto. A nivel de eccentric peak velocity ya empiezo a ver que le falta un poco, pero también estaba correcto para la fase en la que se encuentra. Y aquí me encuentro con que el peak landing force asymmetry tiene un 40%, lo cual es alto y no cumple. Por lo tanto, siempre debo ir a ver más allá y no solamente quedarme con los parámetros de performance e ir a evaluar qué pasa en cada fase del salto. Además, debo ir a analizar la curva, ya que permite detectar déficit que no vamos a poder ver solamente con los números de los parámetros. Acá, por ejemplo, en esta gráfica, se puede apreciar que el deportista tiene una buena fase de silencio. Luego, en la fase de unloading también tiene bastante buena simetría, era menor al 10%. En la fase de deceleración también, en la fase concéntrica sí que había entre un 10 y un 13%, dependiendo de cuántas veces hiciera el salto, pero al aterrizar había una diferencia muy grande de un peak landing force asymmetry del 40%. Por lo tanto, siempre se pide que el peak landing force, que es el pico de fuerza de aterrizaje, sea bajo, lo menor posible. Y en este caso, la simetría era hacia la pierna izquierda, que era la sana. Por lo tanto, yo podría haber pensado: 'Mira, con la pierna lesionada está frenando bien'. Pero como yo conocía el contexto del jugador y era algo extraño, porque era muy alto, me di cuenta de que era una estrategia protectora. Y le pregunté al jugador: '¿Tienes miedo?' Antes del salto me dijo que no, pero luego al mostrarle la curva y decirle: 'Oye, ¿seguro que no tienes miedo?' Y ahí me dijo: 'Sí, la verdad es que me da miedo'. Entonces, lo trabajamos con biofeedback y al reentrenar el aterrizaje, lo tomamos de nuevo y a los 10 minutos el deportista realmente estaba saltando mejor y aterrizando sobre todo bien. ¿Qué pasa? Que si vemos la gráfica de abajo, se ve que tardaba un poquito más en hacerlo, pero toda la simetría estaba correcta y los valores de performance no bajaron.",
+      "keywords": [
+        "lesión multiligamentaria",
+        "peak landing force asymmetry",
+        "RSI modificado",
+        "análisis de curva",
+        "estrategia protectora",
+        "miedo",
+        "biofeedback"
+      ],
+      "entities": [
+        "Premier League"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Por qué es insuficiente analizar únicamente la altura del salto en un CMJ?",
+        "¿Qué significa tener una asimetría alta en el peak landing force?",
+        "¿Cómo se solucionó la estrategia protectora del deportista en el aterrizaje?"
+      ],
+      "related_terms": [
+        "análisis",
+        "de",
+        "curva",
+        "biofeedback",
+        "peak",
+        "landing",
+        "force",
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron los valores normativos y percentiles en las distintas fases del salto CMJ y unilateral.",
+      "context_after": "Final del fragmento analizado (fin del archivo VTT-5)."
+    }
+  ]
+}

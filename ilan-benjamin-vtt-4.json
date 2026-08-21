@@ -1,0 +1,164 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:10:08",
+    "total_duration_seconds": 608,
+    "source_file": "WEBVTT-4",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:03:21",
+      "start_seconds": 0,
+      "end_seconds": 201,
+      "duration_seconds": 201,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Objetivos y variables clave en la evaluación de la fuerza",
+      "summary": "Evaluar la fuerza es la base para tolerar las cargas y prevenir recidivas. Se debe buscar responder a preguntas clínicas y no solo acumular datos, midiendo variables como fuerza máxima, tasa de desarrollo de fuerza (RFD), impulso, índice de fuerza reactiva, stiffness y asimetrías (relevantes si superan el 15%).",
+      "literal_quote": "La evaluación debe responder preguntas clínicas y no generar más datos, porque hay muchos test... yo hago un test para encontrar las deficiencias que tiene este deportista aún, no para decir está Okey.",
+      "full_transcript": "Dejando un poco de lado los criterios de evaluación clínico y, sobre todo, esta ruta resumida hacia la readaptación deportiva, vamos a evaluar ahora la capacidad de producir fuerza de forma detallada. ¿Por qué hay que evaluar la capacidad de producir fuerza? Porque la fuerza es la base sobre la cual se construyen las capacidades neuromusculares y es lo que nos va a permitir que el atleta tolere las cargas en el campo. ¿Con qué objetivo evalúo yo? Con el objetivo, sobre todo, de identificar los déficits que hay presentes, sobre todo a nivel de asimetrías, y es relevante para poder guiar la progresión de la carga y reducir el riesgo de recidiva. ¿Qué evaluamos? Fuerza isométrica, fuerza dinámica máxima, capacidad de generar fuerza en patrones funcionales y patrones específicos del deporte. Es importante entender cuáles son las manifestaciones de la fuerza. Si no las conozco, no las puedo evaluar. Por lo tanto, tengo que saber qué es la fuerza máxima y cómo la evalúo, qué es la fuerza explosiva, qué es la fuerza reactiva, cómo se expresa la fuerza en el vector horizontal y cómo se genera la capacidad de frenado. Para entender realmente cuáles son las manifestaciones de la fuerza que yo voy a trabajar y evaluar en la rehabilitación, necesito conocer las demandas del deporte, ver la fase de rehabilitación en la que nos estamos encontrando en este momento y entender cuál es el objetivo clínico que tenemos que conseguir y qué queremos evaluar. ¿Qué queremos medir? ¿Cuánta fuerza puede producir? Tengo que evaluar fuerza máxima. ¿Cómo? Isometría, squat, isocinética. ¿Qué tan rápido puede producir la fuerza? Rate of force development, RFD o tasa de desarrollo de fuerza. ¿Cuánta fuerza aplica en el tiempo? Ahí vamos a ver el parámetro impulso. Cuán reactivo es contra el suelo y qué tan eficiente es en ciclos rápidos, voy a medir el índice de fuerza reactiva. Y si son ciclos más lentos, vamos a fijarnos en el RC modificado. Quiero saber qué tan eficiente es su sistema músculo tendinoso. Vamos a ver el stiffness, cómo se opone ante la deformación. Y claramente, asimetrías, siempre y cuando sean significativas, moderadas, mayor a un 15 % y que influyan en su rendimiento del deporte o que se haya alterado la dominancia. La evaluación debe responder preguntas clínicas y no generar más datos, porque hay muchos test. Puedo volverme loco haciendo test para la lesión que sea, sobre todo una lesión de rodilla, pero debe responder mi pregunta clínica, porque yo hago un test para encontrar las deficiencias que tiene este deportista aún, no para decir está Okey.",
+      "keywords": [
+        "fuerza máxima",
+        "fuerza explosiva",
+        "fuerza reactiva",
+        "RFD",
+        "stiffness",
+        "asimetrías",
+        "preguntas clínicas"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los objetivos principales al evaluar la fuerza en la readaptación?",
+        "¿Qué variables de fuerza menciona Ilan Bechmann que deben medirse?",
+        "¿Por qué es importante que la evaluación responda a preguntas clínicas?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "de",
+        "la",
+        "fuerza",
+        "variables",
+        "clínicas",
+        "Evaluación",
+        "Metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento disponible, tras la sección de criterios clínicos para avanzar a la readaptación deportiva.",
+      "context_after": "El ponente procede a enumerar los test específicos para medir cada una de las variables mencionadas."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:21",
+      "end_timestamp": "00:06:18",
+      "start_seconds": 201,
+      "end_seconds": 378,
+      "duration_seconds": 177,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=201",
+      "title": "Batería de test para fuerza máxima, reactiva y control motor",
+      "summary": "Para evaluar fuerza máxima se utilizan test como el Isometric Mid Thigh Pull, Iso squat o isocinética (gold standard). La fuerza reactiva se mide con Drop Jump o Hop test. Previamente, es vital valorar el control motor con el single leg squat, que aporta datos cualitativos (valgo, pronación) y cuantitativos (mediante plataformas de fuerza).",
+      "literal_quote": "Leso cinética, gold standard de fuerza máxima 60 grados por segundo concéntrica-concéntrica. Y cuando se pueda y sea atingente, un squat dinámico sobre plataformas de fuerza...",
+      "full_transcript": "Y para eso tengo que entender la manifestación de la fuerza y qué variables debo evaluar. Acá les dejo los test más comunes. Para evaluar fuerza máxima, tenemos el isometric mid thigh pull, aunque involucra fuerza general de brazo, es un súper buen test para evaluar fuerza máxima y RFD. Iso squat, que en rodilla me gusta mucho, sobre todo cuando ya nos dan permiso para poder cargar completo, para reeducar la carga, para poder generar fuerza isométrica en cadena cinética cerrada en un ángulo crítico. Leso cinética, gold standard de fuerza máxima 60 grados por segundo concéntrica-concéntrica. Y cuando se pueda y sea atingente, un squat dinámico sobre plataformas de fuerza, si es que tengo la posibilidad, nos puede dar mucha información. A nivel de fuerza explosiva, tengo el CMJ, el squat jump, el single leg CMJ. A nivel de fuerza reactiva, tenemos drop jump para medir pliometría intensiva en la capacidad de fuerza reactiva. Hop test para medir fuerza reactiva en pliometría extensiva, que nos viene superbién cuando estamos recién introduciendo la pliometría. Además, que por lo general los deportes de equipo, como el fútbol, no son de saltar tan fuerte, tan seguido, sino que más de contacto simultáneo, que se acerque más a la carrera. Single leg drop jump y single leg hop test. Pero nada de esto, no puedo pasar a evaluar bien la fuerza si no tenemos un control motor correcto. ¿Qué test tengo para evaluar control motor? Balance, single leg stance, una pierna con ojo abierto, ojo cerrado y balance, SEP. Puedo evaluar con plataforma de fuerza cómo está el centro de presión. Single leg squat es un test muy conocido, que tiene mucha evidencia y que nos da mucha información a nivel cualitativo, sobre todo cómo está la pronación del pie, cómo está el valgo de rodilla, cómo está a nivel de tronco, inclina, rota, etcétera. Y a nivel cuantitativo, con ForceDecks nos puede dar muchas cosas, ya que vamos a poder evaluar el impulso concéntrico, excéntrico y algo muy importante es la profundidad del squat. También tenemos que ser capaces de lograr que el deportista aterrice y sea capaz de frenar previo a que desarrolle los saltos con el test land and hold o single leg land and hold más avanzado.",
+      "keywords": [
+        "isometric mid thigh pull",
+        "iso squat",
+        "isocinética",
+        "drop jump",
+        "hop test",
+        "single leg squat",
+        "control motor"
+      ],
+      "entities": [
+        "ForceDecks"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué test recomienda Ilan Bechmann para evaluar fuerza máxima?",
+        "¿Cuáles son los test adecuados para medir la fuerza reactiva en deportes de equipo?",
+        "¿Cómo se evalúa el control motor y qué información aporta el single leg squat?"
+      ],
+      "related_terms": [
+        "test",
+        "fuerza",
+        "control",
+        "motor",
+        "isocinética",
+        "Evaluación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que la evaluación debe estar alineada con objetivos clínicos y detalló las variables a medir (RFD, impulso, stiffness).",
+      "context_after": "Se procede a analizar los resultados específicos de la evaluación de fuerza máxima, ratios y gráficas de asimetría."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:06:18",
+      "end_timestamp": "00:10:08",
+      "start_seconds": 378,
+      "end_seconds": 608,
+      "duration_seconds": 230,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=378",
+      "title": "Interpretación de datos isocinéticos y métricas de referencia",
+      "summary": "Al analizar la fuerza máxima, se debe considerar la fuerza relativa (newton/kilogramo), la asimetría y la ratio cuádriceps-isquiotibial. En fútbol profesional se buscan al menos 3,5 N/kg en cuádriceps y 2,5 N/kg en isquiotibiales. Es crucial revisar la curva gráfica para verificar que el pico de torsión ocurre en el ángulo adecuado.",
+      "literal_quote": "A modo de referencia, a nivel de deporte profesional, en fútbol, se está pidiendo 3,5 newton kilogramos, al menos en el club, para los cuádriceps y 2,5 los isquiotibiales.",
+      "full_transcript": "Yendo un poquito más allá en la fuerza máxima, que es la madre de las fuerzas, tengo que ir a fijarme en la magnitud de la fuerza, en el pico de fuerza, en la torsión de pico, si es que es leso cinética, la fuerza relativa, ya que no es lo mismo evaluar a un jugador de 100 kilos que genera 100 newton versus un jugador de 70 kilos que genera 100 newton y tengo que compararlo en base a la normativa de newton kilogramos que se propone en la evidencia o en la data que hay a nivel de club, etcétera. La asimetría, que si son significativas, tengo que mejorarlas y si es que le cambió la dominancia postlesión, también hay que intentar corregir. Pero no me sirve de nada evaluarlo solo una vez, ya que si no los datos no me van a servir a largo plazo, porque puede estar tomados mal test, porque puede volver a disminuir y porque además puedo utilizarlo como terapia, como rehabilitación, con biofeedback, para que el deportista entienda mejor lo que está haciendo y mejore más rápido. Este es un test de evaluación isocinética a 60 grados por segundo de cuádriceps e isquiotibiales concéntrico-concéntrico. En un caso de una sutura meniscal a las 14 semanas, en que el test sale no perfecto, pero excelente, donde presenta un 5 % de asimetría en cuádriceps, un 1 % de asimetría en isquiotibiales y tiene 4,27 newton kilogramos para el cuádriceps en la lesionada y 4,6 en la sana. Y el isquiotibial tiene 2,61 y 2,6. A modo de referencia, a nivel de deporte profesional, en fútbol, se está pidiendo 3,5 newton kilogramos, al menos en el club, para los cuádriceps y 2,5 los isquiotibiales. Y la ratio cuádriceps isquiotibiales tiene que ser adecuada, tiene que ser 2 a 1, tiene que ser al 60 % o dependiendo del tipo de lesión, me puede interesar que vaya entre el 60, 70 %. Si se lesionó, por ejemplo, el tendón proximal de isquiotibiales, quizá voy a favorecer un poquito la fuerza isquiotibial. Pero si se lesionó el menisco, me va a interesar más el cuádriceps, que en este caso es correcto. Pero no me sirve solo interpretar los datos, también debería mirar la curva, ya que la curva me cuenta cómo fue realizada la fuerza. Y aquí podemos apreciar que el pico de ambas curvas se encuentra a los 60 grados, aproximadamente 65 grados, en ambas, por lo tanto, está correcto, y que en los isquiotibiales se encuentra en los 20, 25 grados también, lo cual es común y normal. Pero este caso no siempre estuvo bien y en algún momento tuvo un déficit de cuádriceps importante, no así de isquiotibiales. Y podemos ver que tenía más de un 20 % de asimetría, tenía un 29. Tenía una ratio completamente alterada en la pierna lesionada con un 85 % de ratio, o sea, 0,8, muy cargada de fuerza isquiotibial. Y que en la curva no cuadraban los peak torque. La torsión de pico no se daba en el mismo ángulo y estaba muy retrasada la pierna lesionada de cuádriceps.",
+      "keywords": [
+        "fuerza relativa",
+        "newton kilogramos",
+        "asimetría",
+        "evaluación isocinética",
+        "ratio cuádriceps isquiotibiales",
+        "curva de fuerza",
+        "torsión de pico"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis de datos",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cuáles son los valores de referencia de fuerza relativa en cuádriceps para fútbol profesional?",
+        "¿Por qué es importante analizar la curva de fuerza en la evaluación isocinética?",
+        "¿Cómo se interpreta la ratio cuádriceps-isquiotibial según el tipo de lesión?"
+      ],
+      "related_terms": [
+        "datos",
+        "isocinéticos",
+        "fuerza",
+        "relativa",
+        "ratio",
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron los test específicos para valorar fuerza y control motor cualitativo y cuantitativo.",
+      "context_after": "Finaliza el fragmento de la transcripción mostrando la importancia de las curvas y los déficits estructurales."
+    }
+  ]
+}

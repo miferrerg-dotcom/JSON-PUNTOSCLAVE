@@ -1,0 +1,223 @@
+{
+  "video": {
+    "video_id": "V06",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:11:05",
+    "total_duration_seconds": 665,
+    "source_file": "WEBVTT-6",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V06-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:58",
+      "start_seconds": 1,
+      "end_seconds": 178,
+      "duration_seconds": 177,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Evaluación de la fuerza reactiva: métricas e interpretación del RSI",
+      "summary": "La fuerza reactiva se evalúa principalmente con el RSI (altura del salto dividida por el tiempo de contacto), existiendo nuevas métricas como el DRI. Un RSI bajo puede deberse a tiempos de contacto elevados (déficit de stiffness) o a baja altura del salto (déficit de producción de fuerza o fatiga).",
+      "literal_quote": "Cuando hablamos de fuerza reactiva, no podemos no pensar en RSI... corresponde a la relación entre la capacidad de producir fuerza y el tiempo de contacto con el suelo.",
+      "full_transcript": "Una vez que evaluamos la fuerza explosiva durante el ciclo de estiramiento y acortamiento lento con un CMJ y vimos que la estrategia de salto era correcta, que la fuerza era simétrica y que lo toleraba bien, aún nos quedan manifestaciones de la fuerza que evaluar, como por ejemplo la fuerza reactiva. Cuando hablamos de fuerza reactiva, no podemos no pensar en RSI o Reactive Strength Index. Es el parámetro más estudiado en la literatura y básicamente corresponde a la relación entre la capacidad de producir fuerza y el tiempo de contacto con el suelo. Altura del salto en metros dividido en tiempo de contacto en segundos. Tiene un sesgo, que es que no mide la altura desde la que uno cae. Por lo tanto, actualmente ha salido una nueva métrica que es el DRI, aún le falta evidencia, pero tiene buena pinta y probablemente es el futuro para medir también fuerza reactiva. Pero si tenemos un mejor RSI, tenemos mejor capacidad para generar fuerza en menos tiempo, somos más eficientes y tenemos mayor reactividad neuromuscular. ¿Qué se considera un buen RSI? Acá les comparto dos estudios, tanto para el RSI como para el RSI modificado, que sirve para Drop Jump, 10-5 Hop Test y Repeated CMJ. Sin embargo, Wald tiene valores normativos para cada deporte y tipo de población. Por lo tanto, si es que tenemos esos valores, hay que intentar ir a comparar con sus pares y competidores. Menor a 1,5 se considera pobre, 1,5 a 2 aceptable y entre 2 a 2,5 bueno y ya élite mayor a 2,5. ¿Y qué pasa si tengo un RCI bajo? Voy a tener tiempo de contacto elevado. Eso significa que tengo déficit de fuerza reactiva, mi rigidez músculo tendinosa y mi capacidad de oponerme a la deformación es baja, o también puede ser una estrategia protectora. Y, por otra parte, puedo tener una altura del salto reducida. Las separo en estas dos, porque muchas veces el RCI puede subir por disminuir el tiempo de contacto o por aumentar solo la altura. Entonces, la idea es disminuir el tiempo de contacto y que aumente la altura. Cuando tengo una altura del salto reducida, probablemente tengo déficit de producción de fuerza, baja potencia o incluso puede ser por fatiga.",
+      "keywords": [
+        "fuerza reactiva",
+        "RSI",
+        "DRI",
+        "tiempo de contacto",
+        "stiffness",
+        "fatiga",
+        "valores normativos"
+      ],
+      "entities": [
+        "Wald"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis de datos"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula el RSI en la evaluación de la fuerza reactiva?",
+        "¿Qué significa tener un RSI bajo debido a un tiempo de contacto elevado?",
+        "¿Cuáles son los valores normativos del RSI según Ilan Bechmann?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "reactiva",
+        "rsi",
+        "stiffness",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se analizaron métricas específicas del salto CMJ y se resolvió un caso clínico relacionado con la fuerza de aterrizaje y el miedo.",
+      "context_after": "Se presenta el Drop Jump como test principal para el RSI y se examina su curva de fuerza-tiempo."
+    },
+    {
+      "id": "V06-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:00",
+      "end_timestamp": "00:05:48",
+      "start_seconds": 180,
+      "end_seconds": 348,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=180",
+      "title": "Análisis de la curva del Drop Jump y uso del Hop Test",
+      "summary": "El Drop Jump evalúa tolerancia al impacto, pero sus tiempos de contacto (150-250 ms) son superiores a los del sprint (80-120 ms). Se recomienda utilizar el 10-5 Repeated Hop Test, que simula contactos más rápidos y es menos agresivo para rodillas lesionadas.",
+      "literal_quote": "Los tiempos disponibles para producir fuerza en las acciones deportivas son menores al que se realiza en un Drop Jump... Por lo tanto, tengo que ir a buscar menores tiempos de contacto...",
+      "full_transcript": "El test más utilizado para evaluar el RCI es el Drop Jump. Es bastante desafiante, ya que es parte del Shock Method y requiere una tolerancia al impacto mayor. Acá les comparto la curva fuerza-tiempo, en la cual podemos apreciar cuando está arriba del cajón. Luego, al caerse, se genera esta fase excéntrica y el peak impact force, donde rápidamente tiene que salir generando la fase concéntrica y se provoca el peak drive off force para generar el vuelo y luego aterrizar. En una buena curva, debiésemos ver un pico muy angosto y alto, pero en una curva deficiente, donde se ve una ejecución subóptima, vamos a ver que la fase de amortización es mayor y que se va a generar esta caída de la gráfica luego del peak impact force y que el peak drive off force va a ser menor. Por lo tanto, eso me dice que hay menor impulso y mayor tiempo de aplicación. Sin embargo, no me puedo quedar solamente con el Drop Jump. ¿Por qué no me puedo quedar solamente con el Drop Jump? Porque los tiempos disponibles para producir fuerza en las acciones deportivas son menores al que se realiza en un Drop Jump. Un Drop Jump está alrededor de 150 y 250 milisegundos, pero un cambio de dirección va entre los 100 y los 200, y el sprint, sobre todo, en los 80, 120 milisegundos. Por lo tanto, tengo que ir a buscar menores tiempos de contacto y encontrar alguna forma de evaluarlo. ¿Qué opción tengo? Tengo el Hop Test o 10-5 Repeated Jump Test, en el cual tengo que ir a evaluar el RCI, el impulso medio, el stiffness medio, el tiempo de contacto medio también y la altura del salto. ¿Por qué es una opción muy útil? Porque en las rodillas operadas, sobre todo, o lesionadas, es de carácter menos agresivo, provoca menor impacto articular y además el tiempo de contacto es menor y ya me empieza a decir cosas de qué va a pasar en múltiples contactos de forma repetida y lo puedo evaluar de forma bilateral o unilateral.",
+      "keywords": [
+        "Drop Jump",
+        "curva fuerza-tiempo",
+        "Shock Method",
+        "peak impact force",
+        "sprint",
+        "Hop Test",
+        "10-5 Repeated Jump Test"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones temporales del Drop Jump frente a acciones deportivas reales?",
+        "¿Cómo se interpreta una curva fuerza-tiempo deficiente en el Drop Jump?",
+        "¿Por qué es recomendable el Hop Test en pacientes con rodillas operadas?"
+      ],
+      "related_terms": [
+        "drop",
+        "jump",
+        "tiempos",
+        "de",
+        "contacto",
+        "hop",
+        "test",
+        "Evaluación",
+        "Metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se establecieron los valores normativos y la definición fisiológica del RSI.",
+      "context_after": "Se presenta un algoritmo completo para construir el retorno progresivo al salto desde el trabajo inicial."
+    },
+    {
+      "id": "V06-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:05:48",
+      "end_timestamp": "00:08:08",
+      "start_seconds": 348,
+      "end_seconds": 488,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=348",
+      "title": "Algoritmo de progresión estructurada hacia el salto post-lesión",
+      "summary": "Para regresar al salto de forma segura se debe seguir un algoritmo estructurado (ej. algoritmo de Wald): se parte de criterios clínicos e isometría, se avanza a sentadillas cargadas y aterrizajes, hasta lograr un CMJ óptimo y finalizar con pliometría exigente (Shock Method).",
+      "literal_quote": "Este algoritmo de Wald me gusta mucho, ya que nos dice cómo podemos construir desde la base para regresar a saltar luego de una reconstrucción de ligamento cruzado anterior.",
+      "full_transcript": "Este algoritmo de Wald me gusta mucho, ya que nos dice cómo podemos construir desde la base para regresar a saltar luego de una reconstrucción de ligamento cruzado anterior. Parte con los criterios clínicos: una rodilla tranquila, que tenga rango completo, sin efusión o sin aumento de volumen. Luego mide isometric knee extension, isometric plantar flexion, de pie y en sedente. Si cumple con esos criterios, podemos probar cómo está el squat dinámico para ver el control neuromuscular. Si las fuerzas concéntrica y excéntrica y los impulsos son correctos y menores al 10 %, nos da paso para progresar a un squat con carga del 0,5 por body weight, un drop squat o un drop catch con carga al 25 % de su peso. Si esto es también, nos permite progresar al single leg squat, a un squat jump, a un pogo a dos piernas o al land and hold. Si tiene un double leg pogo y un RCI mayor a 2,5, con un peak force asimétrico menor al 10 % y tenemos un land and hold con un peak landing force menor a cuatro por su peso corporal, desde 30 centímetros, vamos a pasar a evaluarlo en una pierna. Y por otra parte, si tenemos single leg squat con una simetría mayor al 90 % de profundidad y el impulso concéntrico y excéntrico son correctos, vamos a poder evaluar un CMJ. Si el CMJ está bien y cumple con una eccentric peak velocity menor a 1,3 metros por segundo y un RCI modificado mayor a 0,5 metros por segundo, y el excéntrico y concéntrico impulse son simétricos, vamos a poder pasar a shock method, viendo sobre todo un rebound CMJ, un drop jump, un hop test a una pierna, para finalizar esta progresión con un single leg rebound CMJ o un single leg drop jump.",
+      "keywords": [
+        "algoritmo de Wald",
+        "ligamento cruzado anterior",
+        "isometric knee extension",
+        "squat dinámico",
+        "land and hold",
+        "CMJ",
+        "shock method"
+      ],
+      "entities": [
+        "Wald"
+      ],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué pasos describe el algoritmo de Wald para regresar a saltar tras una reconstrucción de LCA?",
+        "¿Cuáles son los criterios de asimetría requeridos en el squat dinámico y pogo para progresar?",
+        "¿Cuándo se autoriza al deportista a pasar a los ejercicios del Shock Method?"
+      ],
+      "related_terms": [
+        "algoritmo",
+        "progresión",
+        "salto",
+        "lca",
+        "Return to Play",
+        "Metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron las pruebas específicas para evaluar el RSI de forma unilateral y bilateral (Hop test).",
+      "context_after": "Se abordan los criterios para trasladar al deportista hacia la preparación y readaptación en el campo."
+    },
+    {
+      "id": "V06-004",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:08:09",
+      "end_timestamp": "00:11:05",
+      "start_seconds": 489,
+      "end_seconds": 665,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=489",
+      "title": "Criterios pre-campo y modelos de progresión en readaptación",
+      "summary": "Antes de pasar al campo, el deportista debe dominar habilidades básicas (carrera >50% max speed, cambios de ritmo, gestos deportivos resistidos en gimnasio). La transición se apoya en modelos de progresión estructurada como Control-Caos de Taberner o la especificidad de Seirul·lo.",
+      "literal_quote": "Todo al final tiene que tener una lógica y la lógica de esto es que sea progresivo. Tenemos el modelo control-caos de Tavernis y también podemos basarnos en la especificidad de Souley y Paco Cirulo...",
+      "full_transcript": "Pero todo esto está preparando al atleta en el vector vertical, mayoritariamente. Entonces, ¿está preparado para enfrentar las demandas iniciales del campo? Nosotros tenemos que estar seguros de que antes de que pase al campo, sea capaz de dominar las habilidades básicas que requiere su deporte y para eso debe haber corrido carrera continua con aceleraciones, deceleraciones, con cambio de ritmo. Puede ser en cinta, en arena, o incluso, si te lo piden, puede llegar a ser en altería solamente, depende de lo que quiera el readaptador, o si es que va a ser solo una persona la que lleve todo el proceso. Y debe haber corrido al menos al 50 % de su velocidad máxima, debe haber trabajado toda la pliometría básica. Si es que es fútbol, debe haber trabajado el gesto de golpeo con resistencia, en cono, sin resistencia, en velocidad contra el fitball, sin velocidad, de distintas formas, pero en el gimnasio. Haberse desplazado en el gimnasio también con resistencia en kéiser, con cono o sin nada, para poder ver realmente si es que tolera todos los planos de movimiento y la rodilla responde bien, no se hincha, no le duele, etcétera. Que tolere la carga semanal, tanto en volumen como en frecuencia, y que no haya reagudización y que además se mueva bien, que seamos capaces de ver cualitativamente el control motor y decir si se mueve bien. Hasta aquí llegaría entonces el trabajo del fisioterapeuta, probablemente finaliza donde terminan sus competencias y va a depender de si continúa con un readaptador después o si continúa trabajando con el fisioterapeuta, ya que está formado en lo que es readaptación, o porque tiene doble título, etcétera. Muchas veces va a depender también del sistema del club, de la clínica en la que se esté tratando. Pero lo importante aquí es entender que debe haber cumplido al menos ciertas habilidades básicas de las que luego va a tener que enfrentar en la readaptación. ¿Por qué es importante? Porque como les comentaba, la readaptación de campo es lo que ha demostrado progresar en que el deportista pueda volver a trabajar en forma correcta y que sea capaz de volver a rendir. Todo al final tiene que tener una lógica y la lógica de esto es que sea progresivo. Tenemos el modelo control-caos de Tavernis y también podemos basarnos en la especificidad de Souley y Paco Cirulo, que se utiliza mucho acá en España.",
+      "keywords": [
+        "habilidades básicas",
+        "carrera continua",
+        "Alter-G",
+        "pliometría básica",
+        "tolerancia a la carga",
+        "modelo control-caos",
+        "Tavernis",
+        "Paco Seirul·lo"
+      ],
+      "entities": [
+        "Tavernis",
+        "Paco Seirul·lo",
+        "Alter-G"
+      ],
+      "topics": [
+        "Return to Play",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué habilidades básicas debe dominar un deportista antes de salir al campo?",
+        "¿Cuáles son los modelos de readaptación mencionados por Ilan Bechmann?",
+        "¿Cómo se verifica cualitativamente que un deportista tolera la carga semanal?"
+      ],
+      "related_terms": [
+        "criterios",
+        "pre-campo",
+        "modelo",
+        "control-caos",
+        "especificidad",
+        "Return to Play",
+        "Control de Carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló el algoritmo de progresión vertical para regresar a saltar en etapas clínicas.",
+      "context_after": "Finaliza el fragmento indicando que los modelos lógicos y progresivos son la clave para que la readaptación sea segura y exitosa."
+    }
+  ]
+}

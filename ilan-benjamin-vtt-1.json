@@ -1,0 +1,183 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:03:57",
+    "total_duration_seconds": 237,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00",
+      "end_timestamp": "00:39",
+      "start_seconds": 0,
+      "end_seconds": 39,
+      "duration_seconds": 39,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción y propósito del webinar",
+      "summary": "Ilan Bechmann Vergara agradece a la NSCA Spain y presenta el título de la clase, enfocada en los criterios objetivos para la transferencia de deportistas con lesión de rodilla desde la alta clínica a la readaptación deportiva [1-3].",
+      "literal_quote": "El título de la clase es: 'De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla' [1, 3].",
+      "full_transcript": "Hola a todos los asistentes del programa Performance Science Specialist [1]. Primero que todo, me gustaría comenzar agradeciendo a la NSCA Spain por haberme ofrecido ser parte del cuerpo docente de este programa [1]. Estoy muy contento y espero que la clase que les traigo hoy les guste mucho [1]. El título de la clase es: 'De la alta clínica a la readaptación deportiva [1]. Criterios objetivos para la transferencia del deportista con lesión de rodilla' [3]. Mi nombre es Ilan Bechmann Vergara [3].",
+      "keywords": [
+        "NSCA Spain",
+        "alta clínica",
+        "readaptación deportiva",
+        "lesión de rodilla",
+        "introducción",
+        "webinar"
+      ],
+      "entities": [
+        "NSCA Spain",
+        "Ilan Bechmann Vergara"
+      ],
+      "topics": [
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ilan Bechmann Vergara sobre introducción y propósito del webinar?",
+        "¿Dónde se habla de introducción y propósito del webinar?",
+        "¿Cómo se aplica introducción y propósito del webinar en la readaptación deportiva?"
+      ],
+      "related_terms": [
+        "introducción",
+        "y",
+        "propósito",
+        "del",
+        "webinar",
+        "Return to Play",
+        "Lesiones"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio del webinar.",
+      "context_after": "El ponente comienza a detallar su formación académica y primeras experiencias profesionales en Chile y España."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:39",
+      "end_timestamp": "02:27",
+      "start_seconds": 39,
+      "end_seconds": 147,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=39",
+      "title": "Formación académica y primeras experiencias profesionales",
+      "summary": "El ponente describe su formación como kinesiólogo y fisioterapeuta en Chile, sus prácticas en Clínica Meds y en el Club Esportiu Europa, y su posterior trabajo con pacientes postquirúrgicos antes de regresar a Barcelona para cursar su máster [2, 4, 5].",
+      "literal_quote": "En Chile realicé mi práctica en la Clínica Meds, que es un centro importante de readaptación deportiva a nivel latinoamericano [4].",
+      "full_transcript": "Soy kinesiólogo, fisioterapeuta, sería acá en España, chileno polaco [2]. Estudié en la Universidad Católica de Valparaíso e inicialmente realicé mis prácticas en el área musculoesquelética y pude repetir sobre todo una de ellas en España [2, 4]. En Chile realicé mi práctica en la Clínica Meds, que es un centro importante de readaptación deportiva a nivel latinoamericano [4]. Cuando vine a Barcelona a hacer mi práctica, la hice en el Club Esportiu Europa, donde realmente decidí y por primera vez trabajé con futbolistas en lo que era alto rendimiento y fútbol semiprofesional [4, 5]. Luego regresé a Chile, trabajé en un centro traumatológico que se llama VLS, donde me llegaba todo tipo de pacientes, sobre todo postquirúrgicos y diversos casos de todas las edades, no necesariamente deportistas [5]. Al cabo de un tiempo decidí migrar nuevamente a Barcelona para realizar mi máster en Fisioterapia de los Deportes de Equipo en Blanquerna [5, 6].",
+      "keywords": [
+        "kinesiólogo",
+        "fisioterapeuta",
+        "Clínica Meds",
+        "readaptación deportiva",
+        "Club Esportiu Europa",
+        "VLS",
+        "pacientes postquirúrgicos",
+        "máster",
+        "Blanquerna"
+      ],
+      "entities": [
+        "Universidad Católica de Valparaíso",
+        "Clínica Meds",
+        "Club Esportiu Europa",
+        "VLS",
+        "Blanquerna"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ilan Bechmann Vergara sobre formación académica y primeras experiencias profesionales?",
+        "¿Dónde se habla de formación académica y primeras experiencias profesionales?",
+        "¿Cómo se aplica formación académica y primeras experiencias profesionales en la readaptación deportiva?"
+      ],
+      "related_terms": [
+        "formación",
+        "académica",
+        "y",
+        "primeras",
+        "experiencias",
+        "profesionales",
+        "Professional Experience"
+      ],
+      "relevance_score": 4,
+      "context_before": "Ilan Bechmann Vergara agradece a la NSCA Spain y presenta el título de la clase, enfocada en los criterios objetivos para la transferencia de deportistas con lesión de rodilla desde la alta clínica a la readaptación deportiva.",
+      "context_after": "Detalla su experiencia en el máster, el convenio con el FC Barcelona y su trabajo con lesiones de alta complejidad."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "02:27",
+      "end_timestamp": "03:57",
+      "start_seconds": 147,
+      "end_seconds": 237,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=147",
+      "title": "Experiencia en FC Barcelona, docencia e investigación",
+      "summary": "Relata su paso por el FC Barcelona trabajando con lesiones de larga duración y alta complejidad [7, 8]. Además, menciona sus investigaciones sobre los efectos del Blood Flow Restriction (BFR) en tendones y su labor docente en conjunto con la NSCA [3, 7].",
+      "literal_quote": "Mis labores sobre todo eran trabajar con deportistas lesionados de larga duración y lesiones de alta complejidad, principalmente postquirúrgicos [7, 8].",
+      "full_transcript": "Este máster era muy bueno y tenía convenio directo con el Fútbol Club Barcelona, ya que lo dictaban sobre todo médicos y fisioterapeuta del club [6]. Además, te daban la oportunidad de pasar de forma obligatoria por una práctica corta dentro de los servicios médicos [6]. Esa fue mi forma de darme a conocer en el club inicialmente [9]. Estuve también en una práctica en el centro médico de la FIFA en Dubái y al volver me ofrecieron trabajo en el Fútbol Club Barcelona, que por distintas razones no pude firmar [9]. Publiqué mi tesis, decidí volver a Chile, sacar documentos europeos y gracias a eso, al volver a España, pude obtener un contrato con el Fútbol Club Barcelona [3, 9]. Saqué el NSCA CSCS y también me dedico a la investigación en blood flow restriction, sobre todo busco cuáles son los efectos del BFR en los tendones, y a la docencia, ya que soy tutor de trabajo final de máster del magíster que realicé en Blanquerna y aparte ahora estoy trabajando en conjunto con la NSCA [3, 7]. A nivel de fisioterapia deportiva, mi experiencia primero fue a nivel amateur [7]. Trabajé en el AE Prat y a nivel semiprofesional y luego en el Fútbol Club Barcelona, mis labores sobre todo eran trabajar con deportistas lesionados de larga duración y lesiones de alta complejidad, principalmente postquirúrgicos [7, 8].",
+      "keywords": [
+        "Fútbol Club Barcelona",
+        "FIFA",
+        "NSCA CSCS",
+        "blood flow restriction",
+        "BFR",
+        "tendones",
+        "docencia",
+        "lesiones de larga duración",
+        "postquirúrgicos"
+      ],
+      "entities": [
+        "Fútbol Club Barcelona",
+        "FIFA",
+        "NSCA",
+        "AE Prat",
+        "Blanquerna"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ilan Bechmann Vergara sobre experiencia en FC Barcelona, docencia e investigación?",
+        "¿Dónde se habla de experiencia en FC Barcelona, docencia e investigación?",
+        "¿Cómo se aplica experiencia en FC Barcelona, docencia e investigación en la readaptación deportiva?"
+      ],
+      "related_terms": [
+        "experiencia",
+        "en",
+        "fc",
+        "barcelona",
+        "investigación",
+        "y",
+        "docencia",
+        "Professional Experience",
+        "Lesiones",
+        "Metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente describe su formación como kinesiólogo y fisioterapeuta en Chile, sus prácticas en Clínica Meds y en el Club Esportiu Europa, y su posterior trabajo con pacientes postquirúrgicos antes de regresar a Barcelona para cursar su máster.",
+      "context_after": "Fin del fragmento disponible."
+    }
+  ]
+}

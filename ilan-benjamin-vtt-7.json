@@ -1,0 +1,169 @@
+{
+  "video": {
+    "video_id": "V07",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:11:00",
+    "total_duration_seconds": 660,
+    "source_file": "WEBVTT-7",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V07-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:03:12",
+      "start_seconds": 0,
+      "end_seconds": 192,
+      "duration_seconds": 192,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Caso clínico y progresión de la readaptación en campo",
+      "summary": "Se presenta un caso de sutura meniscal que, tras cumplir criterios de fuerza y simetría, avanza a readaptación. La progresión en campo puede iniciar en arena para disminuir el impacto articular y aumentar la carga metabólica, avanzando gradualmente hacia carrera lineal, cambios de dirección, habilidades combinadas y toma de decisiones en entornos de caos.",
+      "literal_quote": "El jugador puede partir pasando por la arena, ya que la arena modifica las condiciones de la interacción entre el pie y el suelo... reduce la carga mecánica, el impacto en la articulación de la rodilla y además genera un mayor trabajo metabólico.",
+      "full_transcript": "Acá les traigo ciertos criterios que nos pusieron en un caso clínico, donde había sido sometido a una sutura meniscal y a las 14 semanas tenía que haber cumplido con que fuese capaz de correr en cinta con volumen total de 3.000 metros al 50 % de su velocidad máxima, que hubiese trabajado la pliometría y la habilidad específica básica en \"cases\" poliacónicas dentro del gimnasio, que tuviera los valores de referencia en isocinética y de fuerza relativa bien, que tuviera una simetría funcional y analítica mayor al 20 %. Y esto siempre se trabajó en base al perfil condicional que nos entregaron del \"match day\" del jugador, viendo el \"match speed\", la cantidad de aceleraciones y deceleraciones que realizaba, la distancia que recorrió en total, etcétera. Y una vez que se realiza este traspaso a readaptación, ¿qué sigue? Hasta acá realmente los contenidos de la clase son los que había que tocar, pero ya que esta es la parte que tiene mayor evidencia científica y que nos está diciendo que los jugadores vuelven más seguros, vamos a desarrollarlo un poco y vamos a ver qué se hace en la readaptación. El jugador puede partir pasando por la arena, ya que la arena modifica las condiciones de la interacción entre el pie y el suelo, como la superficie se deforma y absorbe parte del trabajo mecánico. El deportista no puede desarrollar fuerzas tan elevadas ni tan rápidamente. Por lo tanto, el \"ground reaction force\" es menor, con la menor magnitud y tiene una pendiente temporal más baja. Debido a esto se reduce la carga mecánica, el impacto en la articulación de la rodilla y además genera un mayor trabajo metabólico y una mayor carga muscular, por lo tanto, puede ser útil en esta fase intermedia. ¿Qué seguiría después? Que haga solo carrera lineal sin haber hecho todavía cambio de direcciones, que vaya trabajando de manera progresiva en lo que es velocidad, para luego trabajar las habilidades básicas, ya sin balón, cambio de direcciones. También ir progresando la dificultad de los ángulos: 45, 60, 90, 120, hasta llegar a 180. Luego de eso, seguiría que se acabe de realizar toda la habilidad avanzada y combinadas, que salte, que esprinte, que haga cambio de dirección con balón, sin balón, etcétera. Y ya luego que agreguemos toma de decisiones, que empecemos a generar un poquito de descontrol, que el jugador no sepa todo lo que tiene que hacer, sino que tome decisiones y además le vayamos generando esta capacidad de volver a ser ágil con reacción.",
+      "keywords": [
+        "sutura meniscal",
+        "readaptación en campo",
+        "arena",
+        "carga metabólica",
+        "impacto articular",
+        "carrera lineal",
+        "toma de decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo progresa un deportista en la readaptación en campo?",
+        "¿Cuáles son los beneficios de usar arena en la readaptación deportiva?",
+        "¿Qué habilidades combinadas y de toma de decisiones se integran en la fase final de campo?"
+      ],
+      "related_terms": [
+        "progresión",
+        "readaptación",
+        "en",
+        "campo",
+        "arena",
+        "Return to Play",
+        "Metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento disponible, continuando con el cierre de las evaluaciones pre-campo.",
+      "context_after": "El ponente detalla los criterios y métricas GPS exactos para pasar a los entrenamientos parciales con el equipo."
+    },
+    {
+      "id": "V07-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:13",
+      "end_timestamp": "00:06:23",
+      "start_seconds": 193,
+      "end_seconds": 383,
+      "duration_seconds": 190,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=193",
+      "title": "Criterios objetivos y métricas GPS para entrenamientos parciales",
+      "summary": "Para reintegrarse al grupo de manera parcial, el deportista debe presentar asimetrías menores al 10%, tener confianza absoluta y no presentar dolor. Además, debe acumular parámetros de GPS como el 90% de su high speed running, 90% de high metabolic load y 65% de aceleraciones, complementado con cuestionarios psicológicos y funcionales.",
+      "literal_quote": "En los entrenamientos parciales, los criterios que manejamos acá al menos es dolor menor a uno, confianza del jugador absoluta y sin miedo... que la simetría en 'force deck' y en salto... estén con la simetría menor al 10 %.",
+      "full_transcript": "¿Cuándo termina la rehabilitación de campo? Cuando el deportista cumple con estos criterios para poder reintegrarse al grupo y pasar a entrenamientos parciales. En los entrenamientos parciales, los criterios que manejamos acá al menos es dolor menor a uno, confianza del jugador absoluta y sin miedo, que los test de movilidad y de balance estén bien, que la simetría en \"force deck\" y en salto y todos los test que hemos repasado estén con la simetría menor al 10 %. Lo mismo en la isocinética y a nivel más de carga analítica de lo que es GPS, que acumule un 90 % de \"high speed running\" de lo que era capaz de hacer en el día menos tres de partido, que acumule el 65 % del número de aceleraciones y deceleraciones del menos tres \"match day\" y haya alcanzado el 95 % del \"top speed\" más de una vez, que haya acumulado un 90 % de la distancia en metros, que haya acumulado el 90 % del \"high metabolic load\" tanto el día partido como del menos tres o incluso menos cuatro, que haya acumulado el 90 % de los \"sprints\" en metros de la menos tres y que claramente haya tocado toda la habilidad avanzada con y sin balón con toma de decisiones. Luego de eso, el trabajo ya pasa a ser full de la preparación física e integrado con el equipo, donde debe ser progresivo aún, donde el readaptador debe darle las indicaciones, un informe y ver qué criterios se cumplieron o no, para que el deportista vaya haciendo tareas de forma progresiva para el equipo y algunas de forma aislada. Estos son los criterios con mayor evidencia científica tras la reconstrucción de ligamento cruzado anterior. Me gustaría dejarlo a modo de resumen. Voy a destacar solamente algunos que no he nombrado en detalle, como por ejemplo los de rendimiento funcional, que debe cumplir con un \"single leg hop\" mayor al 90 % de asimetría y si podemos ver los tiempos de contacto y estabilización, también es interesante. Lo mismo con el \"triple hop\" y lo mismo con el \"triple crossover hop\". El \"running T-test\" tiene que ser menor a once segundos. Y acá muy importante que los factores psicológicos y los cuestionarios estén bien. Tenemos el Tampa Scale of Gynosophobia, el IKDC y el ACL RSI. Y claramente, que la readaptación específica en campo haya sido completada y bien tolerada.",
+      "keywords": [
+        "entrenamientos parciales",
+        "GPS",
+        "high speed running",
+        "high metabolic load",
+        "asimetría",
+        "Tampa Scale",
+        "IKDC",
+        "ACL RSI"
+      ],
+      "entities": [
+        "Tampa Scale",
+        "IKDC",
+        "ACL RSI"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Framework",
+        "Análisis de datos"
+      ],
+      "search_questions": [
+        "¿Cuáles son los criterios y asimetrías para pasar a entrenamientos parciales?",
+        "¿Qué métricas de carga en GPS deben cumplirse antes de reintegrarse al grupo?",
+        "¿Qué cuestionarios evalúan los factores psicológicos en el retorno al juego?"
+      ],
+      "related_terms": [
+        "criterios",
+        "entrenamientos",
+        "parciales",
+        "gps",
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló la progresión en campo desde la arena hasta los cambios de dirección y habilidades combinadas.",
+      "context_after": "Se concluye con una reflexión sobre la importancia del trabajo multidisciplinar y los aspectos psicológicos."
+    },
+    {
+      "id": "V07-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:06:24",
+      "end_timestamp": "00:11:00",
+      "start_seconds": 384,
+      "end_seconds": 660,
+      "duration_seconds": 276,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=384",
+      "title": "Trabajo multidisciplinar, desgaste psicológico y conclusión",
+      "summary": "El éxito del 'return to play' depende de la comunicación constante de todo un equipo multidisciplinar que gira alrededor del atleta. Las decisiones no deben basarse ciegamente en datos clínicos si el deportista experimenta un profundo desgaste psicológico tras largos meses de recuperación; el contexto da sentido a la objetividad.",
+      "literal_quote": "La objetividad guía la decisión, el contexto le da sentido... si no tenemos datos objetivos, no podemos ver dónde nos encontramos... Pero estos datos siempre deben cobrar sentido en base al contexto del deportista.",
+      "full_transcript": "Esta imagen me gustaba mucho, ya que el éxito del \"return to play\" al final no depende solo de una persona, ni del fisioterapeuta, ni del médico, ni del preparador físico, sino que depende del trabajo en equipo, de la comunicación. Y es que al final cada decisión cuenta, cada profesional aporta una perspectiva única y al final el deportista es el núcleo y dependiendo en el momento que se encuentra, va a estar alrededor suyo, más cerca el fisioterapeuta, el preparador físico, el psicólogo deportivo, la nutricionista. Luego, en una tercera órbita estaría el entrenador, para luego después encontrarse con el director deportivo, el representante y la presidencia. Y al final, todas estas órbitas y toda la gente que está metida en este sistema va a afectar en la toma de decisiones de cuándo y cómo debe volver el jugador. Lo importante siempre es que intentemos que el deportista vuelva en las mejores condiciones y ser ético en todo momento y darle el tratamiento que corresponde y que merece cada ser humano. Al final, yo como fisioterapeuta, tengo que entender a quién tengo delante, pero debo saber que todos merecen una atención de calidad y que pueda volver en buenas condiciones. \"Take home message\": la progresión a la readaptación no depende de un único criterio final. Tenemos muchos criterios. Dentro de nuestras posibilidades tenemos que intentar escoger cuáles se adaptan a mi entorno, al deportista, a la fase en la que estoy. Tampoco va a depender solo de una persona. Y además, voy a tener que ir a ver que cumpla con los criterios clínicos, que tenga la capacidad de producir fuerza en todas las manifestaciones de la fuerza, que haya realizado los test de rendimiento neuromuscular correspondiente para las demandas específicas de su deporte, que haya trabajado todas las demandas específicas de su deporte y tenemos que entender el contexto del deportista siempre. ¿Por qué? Porque muchas veces, aquí, por ejemplo, voy a volver a lo psicológico. Quizá el deportista ha llevado un proceso muy largo en el cual estamos en el sexto mes, que está entrenando conmigo cinco o seis veces a la semana, con sesiones largas y a nivel psicológico ya no da más. Y puede que no cumpla con algún criterio, que no tenga algún test correcto o que no esté con ciertos valores de fuerza necesarios, pero que necesite un cambio de ambiente. Y esto es importante considerarlo, ya que si no se toma la decisión junto al \"staff\", su familia, él y todos los que están cercanos, y psicólogo, claramente, quizás no vamos a alcanzar a cumplir los criterios que nos faltan, ya que el rendimiento del deportista va a empezar a bajar y no va a poder volver bien. Por lo tanto, tengo que ver cuáles son las deficiencias que estoy viendo en el deportista, cómo puedo evaluarlas de manera objetiva para luego trabajarlas, desarrollar cada una de estas manifestaciones de la fuerza que me voy encontrando que están alteradas, para así pasar a readaptación de la forma más segura. La objetividad guía la decisión, el contexto le da sentido. Esta es una frase que me gustaría compartir con ustedes, es mía y creo que esto es lo que resume la clase. Al final, si no tenemos datos objetivos, no podemos ver dónde nos encontramos y cómo mejorar. Pero estos datos siempre deben cobrar sentido en base al contexto del deportista y del entorno en el que nos estamos moviendo. Estos son mis datos y pueden contactarme de la forma que les resulte más cómoda. Y por último, agradecerles por haber asistido a esta sesión del programa Performance Science Specialist. Agradezco mucho su tiempo y su interés por escucharme y espero haber aportado perspectivas que les sirvan de apoyo en su práctica profesional.",
+      "keywords": [
+        "trabajo multidisciplinar",
+        "return to play",
+        "comunicación",
+        "fatiga psicológica",
+        "contexto",
+        "staff",
+        "objetividad"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context",
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Quiénes componen el equipo multidisciplinar en el retorno al juego?",
+        "¿Por qué es importante considerar la fatiga psicológica en el sexto mes de rehabilitación?",
+        "¿Cuál es la reflexión final de Ilan Bechmann sobre la objetividad y el contexto en la toma de decisiones?"
+      ],
+      "related_terms": [
+        "trabajo",
+        "equipo",
+        "contexto",
+        "psicología",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los criterios de rendimiento físico para dar paso a la integración con el equipo.",
+      "context_after": "Fin del webinar y despedida del ponente Ilan Bechmann."
+    }
+  ]
+}

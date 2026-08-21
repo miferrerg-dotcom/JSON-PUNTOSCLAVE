@@ -1,0 +1,162 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:05:27",
+    "total_duration_seconds": 327,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:02:37",
+      "start_seconds": 3,
+      "end_seconds": 157,
+      "duration_seconds": 154,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3",
+      "title": "Contexto histórico y evolución del éxito en la readaptación deportiva",
+      "summary": "Se define la readaptación deportiva y se contrasta la baja tasa de éxito histórico (previo a 2016) en cirugías de LCA, donde solo el 60-65% volvía a su nivel previo, con estudios recientes como el del grupo Isokinetic, que demuestra un 84% de retorno exitoso en futbolistas tras realizar una adecuada rehabilitación en campo.",
+      "literal_quote": "Llegaron a la conclusión de que los deportistas que realizaban una readaptación y rehabilitación en campo tenían un 84 % aproximadamente de retornar al deporte en buenas condiciones.",
+      "full_transcript": "Esta pregunta me gustaría que al finalizar la clase todos seamos capaces de responderla un poco mejor o de forma más fácil, pero, valga la redundancia, esta pregunta no es fácil. Y es: ¿cuándo realizarían ustedes el traspaso de un deportista lesionado de rodilla a readaptación deportiva? Entiéndase como readaptación deportiva cuando el jugador o deportista ya está realizando todo lo que son las habilidades básicas de su deporte. Para ponernos un poquito en contexto, me gustaría introducir con estos datos, en los cuales hasta el 2016, el 60, 65 % de los deportistas que sufrían una rotura de ligamento cruzado anterior y eran intervenidos quirúrgicamente y realizándoles una reconstrucción, retornaba a su nivel deportivo previo a la rotura. Solo el 55 % regresaba al deporte competitivo y en los casos de las lesiones meniscales aisladas, el 80, 90 % lograba retornar. Entonces, los resultados hasta hace 10 años estaban lejos de ser óptimos y creo que cada vez hemos ido buscando cómo poder mejorar las decisiones durante el proceso de recuperación para que la gente y los deportistas, sobre todo de alto rendimiento, puedan lograr un 'return to play' más seguro y en mejores condiciones. Este año salió este nuevo estudio del doctor Della Villa y el grupo Isokinetic, en el cual hicieron un estudio de cohorte con 401 futbolistas y llegaron a la conclusión de que los deportistas que realizaban una readaptación y rehabilitación en campo tenían un 84 % aproximadamente de retornar al deporte en buenas condiciones. ¿Qué pasa? Que para llegar a esta readaptación de campo hay un proceso largo detrás y criterios que cumplir.",
+      "keywords": [
+        "readaptación deportiva",
+        "ligamento cruzado anterior",
+        "LCA",
+        "retorno al deporte",
+        "doctor Della Villa",
+        "Isokinetic",
+        "rehabilitación en campo"
+      ],
+      "entities": [
+        "doctor Della Villa",
+        "grupo Isokinetic"
+      ],
+      "topics": [
+        "Return to Play",
+        "Análisis de Datos",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Análisis de datos",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué impacto tiene la readaptación en campo en futbolistas según el grupo Isokinetic?",
+        "¿Cuáles eran los porcentajes históricos de retorno al deporte tras reconstrucción de LCA antes de 2016?",
+        "¿Cómo se define la readaptación deportiva según las habilidades del deportista?"
+      ],
+      "related_terms": [
+        "estadísticas",
+        "retorno",
+        "readaptación",
+        "en",
+        "campo",
+        "Return to Play",
+        "Análisis de Datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento disponible.",
+      "context_after": "Se menciona la necesidad de no basarse solamente en el tiempo biológico, sino en criterios para avanzar en este proceso."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:09",
+      "end_timestamp": "00:03:26",
+      "start_seconds": 189,
+      "end_seconds": 206,
+      "duration_seconds": 17,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=189",
+      "title": "Transición basada en criterios clínicos y evaluaciones objetivas",
+      "summary": "El ponente enfatiza que el traspaso a la readaptación deportiva no debe fundamentarse exclusivamente en los tiempos biológicos transcurridos tras la lesión, sino que es imprescindible utilizar criterios clínicos y evaluaciones objetivas para mejorar la toma de decisiones.",
+      "literal_quote": "...basada solamente en el tiempo transcurrido desde la lesión, a pesar de que claramente hay tiempos biológicos que respetar, pero debiese basarse en criterios, en criterios clínicos y evaluaciones objetivas...",
+      "full_transcript": "...basada solamente en el tiempo transcurrido desde la lesión, a pesar de que claramente hay tiempos biológicos que respetar, pero debiese basarse en criterios, en criterios clínicos y evaluaciones objetivas, ya que esto nos puede ayudar a mejorar la toma de decisiones.",
+      "keywords": [
+        "tiempo transcurrido",
+        "tiempos biológicos",
+        "criterios clínicos",
+        "evaluaciones objetivas",
+        "toma de decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué no es suficiente el tiempo biológico para progresar a la readaptación?",
+        "¿Qué rol juegan las evaluaciones objetivas en la recuperación de lesiones?",
+        "¿En qué debe basarse la toma de decisiones para el traspaso a campo?"
+      ],
+      "related_terms": [
+        "criterios",
+        "clínicos",
+        "evaluación",
+        "objetiva",
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó que para llegar a la readaptación en campo hay un proceso largo detrás y criterios que cumplir.",
+      "context_after": "Se introducen formalmente los objetivos de aprendizaje y la estructura del webinar."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:03:33",
+      "end_timestamp": "00:05:27",
+      "start_seconds": 213,
+      "end_seconds": 327,
+      "duration_seconds": 114,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=213",
+      "title": "Objetivos de aprendizaje y hoja de ruta del webinar",
+      "summary": "Se presentan los objetivos principales de la clase: identificar criterios clínicos, interpretar evaluaciones objetivas de fuerza y rendimiento neuromuscular, e integrar esta información en un modelo de toma de decisiones para facilitar el traspaso del deportista profesional a la readaptación.",
+      "literal_quote": "...que podamos integrar criterios clínicos y datos objetivos para poder fundamentar la toma de decisiones, que esto, cuando trabajamos sobre todo con deportistas profesionales, es fundamental.",
+      "full_transcript": "A modo de objetivo de aprendizaje de esta clase, me gustaría que al salir de aquí fuesen capaces de identificar qué criterios clínicos son necesarios para poder progresar desde la rehabilitación clínica hacia la readaptación deportiva, que sean capaces de interpretar las principales evaluaciones objetivas de fuerza y de rendimiento neuromuscular que se utilizan durante esta transición, que podamos integrar criterios clínicos y datos objetivos para poder fundamentar la toma de decisiones, que esto, cuando trabajamos sobre todo con deportistas profesionales, es fundamental. Y que al final sean capaces de aplicar un modelo de toma de decisiones, el cual facilite la transferencia del deportista lesionado hacia esta readaptación deportiva. Este es el índice de cómo vamos a desarrollar la clase. Partimos con cuál es este desafío que nos genera el traspaso desde la fase clínica a la readaptación. Vamos a continuar con los criterios clínicos base para poder determinar la progresión. Continuaremos con la evaluación de la capacidad de producir fuerza, la cual es importantísima, para luego ver cuáles son las evaluaciones del rendimiento neuromuscular clave para continuar con este proceso, para después integrar la información y ser capaces de tomar decisiones, ver un poco qué pasa una vez que se realiza esta transferencia hacia la readaptación deportiva y que finalmente todos nos llevemos un mensaje y seamos capaces de sacar una conclusión que nos aporte.",
+      "keywords": [
+        "objetivo de aprendizaje",
+        "criterios clínicos",
+        "evaluaciones objetivas",
+        "fuerza",
+        "rendimiento neuromuscular",
+        "toma de decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los objetivos del webinar de Ilan Bechmann?",
+        "¿Qué evaluciones se deben interpretar en el traspaso del deportista profesional?",
+        "¿Cómo se estructuran los criterios para el traspaso a readaptación?"
+      ],
+      "related_terms": [
+        "objetivos",
+        "hoja de ruta",
+        "toma de decisiones",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se indica que las decisiones deben basarse en criterios clínicos y evaluaciones objetivas, no solo en tiempos biológicos.",
+      "context_after": "Finaliza el fragmento y se da paso al desarrollo del primer punto del índice."
+    }
+  ]
+}

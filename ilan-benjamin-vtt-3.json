@@ -1,0 +1,219 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+    "speaker": "Ilan Bechmann Vergara",
+    "total_duration": "00:08:19",
+    "total_duration_seconds": 499,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:20",
+      "start_seconds": 1,
+      "end_seconds": 140,
+      "duration_seconds": 139,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Importancia del diagnóstico médico y análisis del contexto integral",
+      "summary": "La toma de decisiones inicia antes de evaluar al deportista. Es fundamental contar con un diagnóstico médico y analizar tres niveles de contexto: deportivo (posición, nivel, proyección), organizacional (contratos, presiones del club) y personal (historial de lesiones, psicología, familia, nutrición).",
+      "literal_quote": "Mientras mejor conozcamos al deportista, mejor vamos a poder abordar la rehabilitación y vamos a poder entender qué es lo que le está pasando.",
+      "full_transcript": "Criterios clínicos base para determinar la progresión. La toma de decisiones comienza antes de la primera evaluación. ¿Por qué? Porque como fisioterapeuta o kinesiólogo deportivo, antes de evaluar al deportista, antes de realizar el anamnesis, no necesito un diagnóstico médico. Y si no lo tengo, tengo que ser capaz de decidir y decir: \"Acá no vamos bien, necesitamos un diagnóstico\". Una vez que tengo el diagnóstico médico y el pronóstico médico, que también es muy importante, tengo que entender y llevar el traspaso de información del contexto deportivo de este deportista o jugador, sobre todo si es profesional, es amateur, contra quiénes compite, qué edad tiene, si hay proyección, no hay proyección, posición, habilidades específicas dentro del campo, etcétera. Y el contexto organizacional, porque muchas veces van a haber temas que son superiores a nosotros que no vamos a poder dominar y es, por ejemplo, el tema contractual. El club está interesado en el jugador, quieren que vuelva rápido, no quieren que vuelva rápido, hay que apretar, hay que llegar, hay una inversión grande en él, no hay una inversión grande, etcétera. Y esas cosas a veces importan más de lo que creemos. Quién es el representante, tiene gente que lo está mirando desde arriba o no. Y por último, el contexto del deportista, que es probablemente el más importante. Tengo que saber su historia previa de lesiones, la familia, su historia a nivel de club, a nivel de cómo se lleva con el vestuario, si tiene psicólogo, si está comiendo bien, si tiene experiencia en entrenamiento de fuerza, etcétera. Mientras mejor conozcamos al deportista, mejor vamos a poder abordar la rehabilitación y vamos a poder entender qué es lo que le está pasando.",
+      "keywords": [
+        "diagnóstico médico",
+        "contexto deportivo",
+        "contexto organizacional",
+        "contexto personal",
+        "toma de decisiones",
+        "rehabilitación"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Ilan Bechmann sobre la importancia del diagnóstico médico y el contexto?",
+        "¿Cuáles son los tres niveles de contexto que se deben analizar antes de rehabilitar a un deportista?",
+        "¿Cómo influye el contexto organizacional y personal en la toma de decisiones clínicas?"
+      ],
+      "related_terms": [
+        "diagnóstico",
+        "médico",
+        "contexto",
+        "deportivo",
+        "organizacional",
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del bloque sobre criterios clínicos base y progresión.",
+      "context_after": "Se pasa a detallar cómo el pronóstico médico marca los tiempos biológicos específicos de cada tejido."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:02:24",
+      "end_timestamp": "00:04:45",
+      "start_seconds": 144,
+      "end_seconds": 285,
+      "duration_seconds": 141,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=144",
+      "title": "El pronóstico médico y el respeto por los tiempos biológicos",
+      "summary": "El pronóstico y las instrucciones postquirúrgicas marcan el punto de partida. Aunque la progresión se basa en criterios objetivos, cada tejido (cartílago, menisco, ligamento) tiene tiempos biológicos distintos que deben respetarse, incluso ante las presiones del deporte profesional.",
+      "literal_quote": "Cada tejido se comporta de manera diferente y el tiempo biológico de recuperación no es igual.",
+      "full_transcript": "El pronóstico médico es muchas veces el punto de partida, porque si no lo hay, no hay un tiempo fijo de cuándo tiene que volver el jugador. Y a pesar de que nos basamos en criterios clínicos y objetivos, el jugador está de baja cuando es profesional y hay tiempos que hay que intentar cumplir, al menos. Si no lo logramos cumplir, tenemos que ser lo suficientemente responsables y decir: \"Mira, no cumple con esto, esto, esto y esto\". Pero además, cada tejido se comporta de manera diferente y el tiempo biológico de recuperación no es igual. No es igual en un cartílago, en un menisco, en un ligamento cruzado anterior, etcétera. Y además, si no tenemos este pronóstico con las instrucciones claras postquirúrgicas, vamos a cometer un error. Y muchas veces estos tiempos que nos están dando nos obstaculizan con las restricciones médicas y criterios de progresión del cirujano para poder cumplirlos. Entonces, a modo resumen cronológico, el deportista se lesiona, se le diagnostica, se decide hacer cirugía, por ejemplo, y ahí el cirujano nos da el pronóstico médico y nos da las restricciones. En nuestro caso, si es que el jugador es parte de un staff, nos entregan toda la información de este deportista, nos piden ciertos objetivos, probablemente para pasar a readaptación deportiva y en base a eso nosotros comenzamos la evaluación y planteamos un plan de rehabilitación, el cual está basado en objetivos que nos dieron y que nosotros creemos, probablemente, y que poco a poco vamos a ir viendo cómo se comportan y si vamos lográndolos o no mediante evaluaciones objetivas para determinar si está realmente listo para pasar a readaptación deportiva o no. Y muchas veces va a ser más complejo de lo que creemos, porque a pesar de que esto no va por tiempo, cuando el deportista es profesional, a veces hay que llegar y quizás no todos los criterios van a estar en orden.",
+      "keywords": [
+        "pronóstico médico",
+        "tiempos biológicos",
+        "tejido",
+        "cartílago",
+        "menisco",
+        "ligamento cruzado anterior",
+        "LCA",
+        "restricciones médicas"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante el pronóstico médico según Ilan Bechmann?",
+        "¿Qué diferencias existen en los tiempos biológicos de recuperación según el tejido?",
+        "¿Cómo se maneja la progresión en relación con las restricciones del cirujano?"
+      ],
+      "related_terms": [
+        "pronóstico",
+        "médico",
+        "tiempos",
+        "biológicos",
+        "tejido",
+        "Lesiones",
+        "Toma de Decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló el análisis contextual del deportista (deportivo, organizacional y personal).",
+      "context_after": "Se exponen los primeros criterios clínicos objetivos que deben controlarse: dolor, inflamación y rango de movimiento."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:04:46",
+      "end_timestamp": "00:06:20",
+      "start_seconds": 286,
+      "end_seconds": 380,
+      "duration_seconds": 94,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=286",
+      "title": "Criterios clínicos iniciales: control de inflamación y rango de movimiento",
+      "summary": "Antes de avanzar, deben controlarse el dolor, la temperatura y el trauma para evitar inhibición muscular. Posteriormente, es vital recuperar el rango de movimiento (extensión completa para la marcha y flexión mínima de 125-130 grados) y ganar progresivamente tolerancia a la carga.",
+      "literal_quote": "Si en una rodilla postquirúrgica no logramos la extensión rápidamente, no vamos a recuperar ni el patrón de marcha ni los patrones de movimiento...",
+      "full_transcript": "¿Cuáles son los criterios importantes clínicos? Inicialmente, el dolor, el aumento de temperatura y el trauma articular. ¿Por qué? Porque estos tres criterios, por lo general, suelen desencadenar la cascada inflamatoria y esto nos puede provocar iniciación muscular terogénica [inhibición muscular artrogénica], lo cual va a alterar el control motor del deportista, no va a poder generar activación, le va a costar ganar fuerza y masa muscular. Así que estas cosas hay que controlarlas desde el inicio. Y a veces se progresa sin haber controlado todo y luego trae problemas. De la mano, tenemos que ir mejorando el rango de movimiento. Si en una rodilla postquirúrgica no logramos la extensión rápidamente, no vamos a recuperar ni el patrón de marcha ni los patrones de movimiento, y ese deportista no va a volver bien. Por lo tanto, eso es lo primero. Y además, la flexión también es importante, ya que si no logramos un 95 % de simetría o al menos 125, si no 30 grados de flexión de rodilla, nos va a alterar la biomecánica de carrera, siempre teniendo en cuenta cuánto tiene la otra. Y poco a poco tiene que ir ganando tolerancia a la carga, que sea capaz de realizar ejercicio y trabajar con mayor carga sin que se inflame, para poder generar calidad de movimiento, sobre todo en los patrones funcionales de movimiento que se van asemejando cada vez más al deporte.",
+      "keywords": [
+        "criterios clínicos",
+        "dolor",
+        "inflamación",
+        "rango de movimiento",
+        "extensión",
+        "flexión",
+        "tolerancia a la carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Return to Play",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los primeros criterios clínicos a controlar tras una cirugía de rodilla?",
+        "¿Por qué es fundamental recuperar rápidamente la extensión en una rodilla postquirúrgica?",
+        "¿Qué valores de flexión de rodilla se consideran necesarios para no alterar la biomecánica de carrera?"
+      ],
+      "related_terms": [
+        "criterios",
+        "clínicos",
+        "rango",
+        "movimiento",
+        "extensión",
+        "Evaluación",
+        "Return to Play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia del pronóstico médico y de respetar los tiempos biológicos antes de planificar evaluaciones.",
+      "context_after": "El siguiente paso es evaluar la fuerza y el rendimiento neuromuscular para integrar la información con el staff."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+      "speaker": "Ilan Bechmann Vergara",
+      "start_timestamp": "00:06:20",
+      "end_timestamp": "00:08:19",
+      "start_seconds": 380,
+      "end_seconds": 499,
+      "duration_seconds": 119,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=380",
+      "title": "Evaluación de fuerza, comunicación con el staff y rol del readaptador",
+      "summary": "Tras cumplir los criterios clínicos, se evalúa la fuerza y el rendimiento neuromuscular. Si los datos son insuficientes, se debe comunicar objetivamente al staff. Al pasar a readaptación en campo, el readaptador progresará hacia demandas específicas del deporte apoyándose en KPIs y referencias GPS.",
+      "literal_quote": "El readaptador luego va a tener que realizar una progresión estructurada hacia las demandas específicas del deporte y va a tener que desarrollar estas habilidades básicas.",
+      "full_transcript": "A modo general, una vez que cumplimos los criterios clínicos, debemos pasar a evaluar la capacidad de producir fuerza y realizar los test de rendimiento neuromuscular cuando sea competente y atingente. Y una vez que tengo todos estos datos, vamos a pasar a integrar la información y, sobre todo, vamos a tener que ser capaces de tomar decisiones con estos datos, ya que, como les comentaba, a veces no van a estar bien los datos y yo tengo que ser capaz de levantar la mano y decir: \"Mira, esto no está bien\". Y muchas veces no va a ser mi culpa, ni de mi compañero, ni del deportista, puede ser genética, etcétera. Pero por lo menos hay que levantar la mano y entender qué es lo que no está bien de forma objetiva, para así, cuando nos sentemos todos a conversar, decir: \"Yo esto lo detecté al menos\". Y si es que se deciden, con el staff, hacer la transferencia de readaptación, el readaptador luego va a tener que realizar una progresión estructurada hacia las demandas específicas del deporte y va a tener que desarrollar estas habilidades básicas. El readaptador, por lo general, es una figura bien especial, que puede ser doble titulado, que sea preparador físico y fisioterapeuta, o cualquiera de las dos, dependiendo de la estructura de cada club. Y luego, una vez que pasa a rehabilitación en campo, que vimos que era muy importante para el logro del retorno de rendimiento, se deberá desarrollar las habilidades básicas y avanzadas del deportista, sobre todo según la posición que ocupa en el campo, y determinar realmente si está ok o no en base los KPI, según su perfil y los valores referenciales de GPS.",
+      "keywords": [
+        "fuerza",
+        "rendimiento neuromuscular",
+        "readaptador",
+        "habilidades básicas",
+        "KPI",
+        "GPS",
+        "staff",
+        "toma de decisiones"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Qué debe evaluarse una vez cumplidos los criterios clínicos base?",
+        "¿Cuál es el rol del readaptador deportivo al pasar al campo?",
+        "¿Por qué es importante comunicar objetivamente al staff cuando los datos no son favorables?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "fuerza",
+        "comunicación",
+        "staff",
+        "readaptador",
+        "Return to Play",
+        "Evaluación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los criterios clínicos iniciales relacionados con el dolor, inflamación, extensión y flexión de rodilla.",
+      "context_after": "Finaliza el segmento VTT-3 con el proceso estructurado de retorno al rendimiento en el campo."
+    }
+  ]
+}
