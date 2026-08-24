@@ -1,0 +1,607 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+    "speaker": "Arnau Pinà",
+    "total_duration": "00:35:18",
+    "total_duration_seconds": 2118,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:01:20",
+      "end_timestamp": "00:04:05",
+      "start_seconds": 80,
+      "end_seconds": 245,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=80",
+      "title": "Adaptabilidad metodológica en distintos contextos",
+      "summary": "Arnau Pinà introduce la flexibilidad necesaria en la metodología del preparador físico al contrastar dos realidades distintas: un club profesional en Japón (10 meses de temporada y choque cultural) frente a los ciclos cortos (7-10 días) de una Selección Nacional.",
+      "literal_quote": "Hablaremos un poco de cuál es mi metodología, cómo la aplico en dos contextos tan diferentes y qué tan adaptable o moldeable es esa propia metodología.",
+      "full_transcript": "Hablaremos un poco de cuál es mi metodología, cómo la aplico en dos contextos tan diferentes y qué tan adaptable o moldeable es esa propia metodología, que no se cambia por completo en cada uno de los contextos. El club profesional del que hablaremos es en Japón, con lo cual hay también un factor añadido, que es todo el tema de adaptación a una nueva cultura y a una nueva lengua. Más allá de eso, cómo funciona esa metodología con una liga de una duración mucho más larga, aunque sea con una alta densidad competitiva, comparado con una selección, que por lo general suelen ser tramos temporales mucho más cortos. Al final es un club donde son 10 meses de competición, comparado con una selección nacional donde las concentraciones suelen ir en torno a siete, 10 días hasta los partidos.",
+      "keywords": [
+        "metodologia",
+        "club-profesional",
+        "seleccion-nacional",
+        "adaptabilidad",
+        "cultura",
+        "calendario"
+      ],
+      "entities": [
+        "Japón",
+        "Selección Nacional"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Experiencia profesional",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo se adapta la metodología entre un club profesional y una selección nacional?",
+        "¿Cuáles son las diferencias de tiempo de trabajo entre club y selección?",
+        "¿Qué impacto tiene el contexto cultural en la metodología de entrenamiento?"
+      ],
+      "related_terms": [
+        "metodología",
+        "adaptabilidad",
+        "contexto",
+        "professional experience",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Agradecimientos iniciales e introducción del tema del webinar.",
+      "context_after": "Explicación del marco general y del papel de la tecnología como facilitador."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:07:16",
+      "end_timestamp": "00:09:53",
+      "start_seconds": 436,
+      "end_seconds": 593,
+      "duration_seconds": 157,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=436",
+      "title": "El rol de la tecnología y el ojo clínico del preparador",
+      "summary": "Los principios metodológicos y fisiológicos son inmutables, pero el contexto cambia. La tecnología (GPS, IA) debe ser solo un facilitador; es indispensable el 'ojo clínico' y el factor humano comunicativo para interpretar los datos y tomar decisiones.",
+      "literal_quote": "Los principios fisiológicos y metodológicos no cambian, lo que cambia es el contexto... La tecnología no deja de ser eso, son facilitadores.",
+      "full_transcript": "Los principios fisiológicos y metodológicos no cambian, lo que cambia es el contexto. El contexto, obviamente, puede variar y varía durante la propia temporada... Me gusta mucho la frase de Mike, que fue head of performance de los San Antonio Spurs durante mucho tiempo, que habla un poquito de eso, de que la tecnología ha cambiado, pero siempre hay que volver a los fundamentos. Intento siempre pensar mucho cuando trabajo con inteligencia artificial, cuando trabajo con GPS, con acelerometría... que al final creo que la tecnología no deja de ser eso, son facilitadores. Pero luego tenemos que nosotros darle sentido a esos números y creo que ahí siempre hay que volver a los fundamentos, hay que volver un poco a entrenar tu ojo clínico, a realmente qué ves, qué feedback te está dando la práctica... teniendo en cuenta que siempre el factor humano y el factor comunicativo es de los más importantes.",
+      "keywords": [
+        "tecnologia",
+        "principios-fisiologicos",
+        "ojo-clinico",
+        "gps",
+        "datos",
+        "comunicacion",
+        "inteligencia-artificial"
+      ],
+      "entities": [
+        "San Antonio Spurs",
+        "GPS"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué importancia tiene la tecnología en la preparación física según Arnau Pinà?",
+        "¿Por qué es vital el ojo clínico al analizar datos de GPS en baloncesto?",
+        "¿Cómo se relacionan los principios fisiológicos con el contexto cambiante?"
+      ],
+      "related_terms": [
+        "principios",
+        "fisiológicos",
+        "tecnología",
+        "ojo clínico",
+        "análisis de datos",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Arnau Pinà introduce la flexibilidad necesaria en la metodología del preparador físico al contrastar dos realidades distintas: un club profesional en Japón frente a los ciclos cortos de una Selección Nacional.",
+      "context_after": "Análisis de las demandas físicas del baloncesto y la trampa de medir solo la distancia total."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:09:57",
+      "end_timestamp": "00:12:48",
+      "start_seconds": 597,
+      "end_seconds": 768,
+      "duration_seconds": 171,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=597",
+      "title": "Demandas físicas: La trampa de la distancia total",
+      "summary": "Medir únicamente la distancia total (4-6 km) subestima la carga mecánica real en baloncesto. El verdadero impacto en el rendimiento y la fatiga proviene del 25-35% de la distancia que engloba el trabajo defensivo, los sprints y el high speed running.",
+      "literal_quote": "La distancia total subestima mucho la carga mecánica del juego. La carga mecánica del juego está basada mucho más en aceleraciones, desaceleraciones, cambios de inercia.",
+      "full_transcript": "Encontramos que la distancia total de partido varía un poquito entre cuatro y seis kilómetros, donde realmente la distancia total subestima mucho la carga mecánica del juego. La carga mecánica del juego está basada mucho más en aceleraciones, desaceleraciones, cambios de inercia... Casi un 40 % los jugadores lo pasan o bien caminando o únicamente de pie... Y luego encontramos dos bloques que son un poco los más intensos... El trabajo defensivo, que es en torno a un 10, 20 % del juego. Y luego todo el tema del trabajo de high speed running y trabajos de sprints, que son entre un 5 y un 10 %, con lo cual tenemos entre un 25 y un 35 % de esa distancia total de partido, que es la que realmente nos va a marcar la diferencia, va a tener impacto y creo que es la que tenemos que trabajar mucho más para sacar el mayor beneficio.",
+      "keywords": [
+        "distancia-total",
+        "carga-mecanica",
+        "high-speed-running",
+        "sprint",
+        "trabajo-defensivo",
+        "cambios-inercia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la distancia total recorrida no refleja la carga real en baloncesto?",
+        "¿Qué porcentaje del partido corresponde a trabajo de alta intensidad?",
+        "¿Cuáles son las variables mecánicas más relevantes en un partido de baloncesto?"
+      ],
+      "related_terms": [
+        "distancia",
+        "total",
+        "carga",
+        "mecánica",
+        "high speed running",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Los principios metodológicos y fisiológicos son inmutables, pero el contexto cambia. La tecnología (GPS, IA) debe ser solo un facilitador; es indispensable el 'ojo clínico' y el factor humano comunicativo para interpretar los datos y tomar decisiones.",
+      "context_after": "Desglose de las demandas biomecánicas específicas en los saltos diferenciando posiciones."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:12:53",
+      "end_timestamp": "00:14:35",
+      "start_seconds": 773,
+      "end_seconds": 875,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=773",
+      "title": "Perfil biomecánico del salto según la posición",
+      "summary": "El análisis de saltos debe individualizarse por posición: los guardias (exteriores) saltan más a una pierna (mostrando mayores asimetrías), mientras que los interiores saltan a dos pies sin carrera, acumulando aterrizajes repetidos y microsaltos.",
+      "literal_quote": "Los guardias, en este caso, suelen saltar más a una pierna que no a dos... En cambio, los grandes suelen saltar más a dos pies y sin una carrera previa.",
+      "full_transcript": "De la distancia total vamos a los saltos. Hay estudios que nos diferencian siempre entre guardias y grandes... Los guardias, en este caso, suelen saltar más a una pierna que no a dos por su rol táctico en el partido y en nuestro deporte. En cambio, los grandes suelen saltar más a dos pies y sin una carrera previa. Con lo cual los grandes suelen tener más aterrizajes repetidos, suelen tener más microsaltos, porque hacen esos segundos esfuerzos de saltos continuos... Normalmente tienen mucha más asimetría entre pierna dominante y no dominante que los grandes, por lo general, porque suelen saltar más a dos piernas. Con lo cual, tener algunos detalles por la mano para que luego nos ayuden a... individualizar mucho más el trabajo y tener en cuenta qué riesgos pueden sufrir según la posición.",
+      "keywords": [
+        "saltos",
+        "biomecanica",
+        "guardias",
+        "interiores",
+        "asimetria",
+        "aterrizajes",
+        "individualizacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo difieren los tipos de salto entre bases y pívots en baloncesto?",
+        "¿Por qué los jugadores exteriores presentan mayores asimetrías de salto?",
+        "¿Qué perfil pliométrico tienen los jugadores interiores?"
+      ],
+      "related_terms": [
+        "saltos",
+        "asimetría",
+        "aterrizajes",
+        "repetidos",
+        "evaluación",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Medir únicamente la distancia total (4-6 km) subestima la carga mecánica real en baloncesto. El verdadero impacto en el rendimiento y la fatiga proviene del 25-35% de la distancia que engloba el trabajo defensivo, los sprints y el high speed running.",
+      "context_after": "Se introducen las desaceleraciones como el estresor físico primario."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:14:40",
+      "end_timestamp": "00:16:36",
+      "start_seconds": 880,
+      "end_seconds": 996,
+      "duration_seconds": 116,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=880",
+      "title": "Desaceleraciones: El principal estresor físico y mecánico",
+      "summary": "De 400 a 1000 eventos mecánicos, las 100-250 desaceleraciones de alta intensidad son las que generan ventajas, pero también son el mayor estresor articular (ej. rodillas). Entrenar la calidad cinemática del frenado es vital para prevenir lesiones y dolor crónico.",
+      "literal_quote": "Las desaceleraciones de alta intensidad... son realmente las que nos van a marcar la diferencia... pero también tener en cuenta que son los principales estresores físicos en nuestro deporte.",
+      "full_transcript": "Las aceleraciones y desaceleraciones suelen ser entre 400 y 1.000... Pero lo que sí que vemos es que las desaceleraciones de alta intensidad, que son realmente las que nos van a marcar la diferencia, las que... tienen el mismo impacto en sacar ventajas, son esas pocas. Son entre unas 100 y 250... al final suelen ser estresores físicos muy grandes. Con lo cual hemos de tener en cuenta eso, que las desaceleraciones es primero lo que nos va a crear más impacto a nivel deportivo y de rendimiento... pero también tener en cuenta que son los principales estresores físicos en nuestro deporte. Con lo cual, seguramente si podemos perfeccionar todo el trabajo técnico desacelerativo, mucho mejor. Asegurarnos que las desaceleraciones son de calidad, hacer algún análisis cinemático para que los ángulos sean adecuados, seguramente sacaremos mucho estrés de articulaciones que sufren bastante, como podrían ser la rodilla... nos va a ayudar seguramente a nivel crónico, que tengan un menor dolor, menor riesgo de lesión.",
+      "keywords": [
+        "desaceleraciones",
+        "alta-intensidad",
+        "estres-articular",
+        "rodilla",
+        "cinematica",
+        "prevencion",
+        "lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué son críticas las desaceleraciones en la prevención de lesiones en baloncesto?",
+        "¿Cuántas desaceleraciones de alta intensidad ocurren por partido?",
+        "¿Cómo se puede reducir el dolor crónico de rodilla mediante la técnica de frenado?"
+      ],
+      "related_terms": [
+        "desaceleraciones",
+        "estrés",
+        "articular",
+        "prevención",
+        "lesiones",
+        "cinemática"
+      ],
+      "relevance_score": 5,
+      "context_before": "El análisis de saltos debe individualizarse por posición: los guardias (exteriores) saltan más a una pierna (mostrando mayores asimetrías), mientras que los interiores saltan a dos pies sin carrera, acumulando aterrizajes repetidos y microsaltos.",
+      "context_after": "Se define el concepto de 'demandas pico' como el verdadero entorno competitivo del jugador."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:16:36",
+      "end_timestamp": "00:18:02",
+      "start_seconds": 996,
+      "end_seconds": 1082,
+      "duration_seconds": 86,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=996",
+      "title": "El concepto de las demandas pico en competición",
+      "summary": "El jugador de baloncesto no compite a intensidades promedio, sino que sobrevive a las 'demandas pico' (esfuerzos continuos de 40-60 segundos sin descanso, con exigencias 1.5 a 6 veces mayores que la media).",
+      "literal_quote": "El jugador no compite al nivel promedio del partido, sino que el jugador compite sobreviviendo a esas demandas pico.",
+      "full_transcript": "El promedio del partido, obviamente, es mucho menor a las demandas pico... el jugador no compite al nivel promedio del partido, sino que el jugador compite sobreviviendo a esas demandas pico, que es lo importante. Normalmente, en baloncesto, cada 20 segundos sucede algo... los jugadores tienen ese tipo de descanso incompleto. Pero, ¿qué pasa si no sucede nada de eso? Si tenemos más de 40, 60 segundos donde el juego está up and down y no para. Entonces, llegamos a esas demandas pico de un partido, que suele ser entre 1,5, incluso a seis, superiores a lo que es el promedio del partido, con lo cual tenemos que intentar preparar al jugador para esas demandas pico, que es donde realmente sacaremos un mayor impacto, un mayor rendimiento.",
+      "keywords": [
+        "demandas-pico",
+        "intensidad",
+        "promedio",
+        "competicion",
+        "fatiga",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué significa el término demandas pico en baloncesto?",
+        "¿Por qué no es suficiente entrenar al promedio de exigencia de un partido?",
+        "¿Cuánto tiempo dura una demanda pico sin descanso en el baloncesto?"
+      ],
+      "related_terms": [
+        "demandas",
+        "pico",
+        "intensidad",
+        "promedio",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "De 400 a 1000 eventos mecánicos, las 100-250 desaceleraciones de alta intensidad son las que generan ventajas, pero también son el mayor estresor articular (ej. rodillas). Entrenar la calidad cinemática del frenado es vital para prevenir lesiones y dolor crónico.",
+      "context_after": "Detalle de los ejercicios y tareas en pista para replicar estas demandas pico en el entrenamiento."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:18:02",
+      "end_timestamp": "00:21:40",
+      "start_seconds": 1082,
+      "end_seconds": 1300,
+      "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1082",
+      "title": "Estrategias prácticas para entrenar las demandas pico",
+      "summary": "Para alcanzar estas demandas máximas en el microciclo, se utilizan situaciones reducidas (2v2 a 4v4 a toda cancha con posesión corta), esfuerzos repetidos (RSA), inclusión del caos táctico y tareas físicas de percepción-acción guiadas por estímulos visuales.",
+      "literal_quote": "A mí me gusta mucho trabajar mediante la percepción-acción... buscar algún tipo de cambios de direcciones o algún tipo de trabajo acelerativo y desacelerativo, siempre reactivo.",
+      "full_transcript": "Nosotros la trabajamos con algunas tareas distintas... Trabajamos con algunos situaciones reducidas de juego con algún dos contra dos, tres contra tres, cuatro contra cuatro... a campo completo, con lo cual tengan más distancia recorrida, con un tiempo total de trabajo mayor, aunque de posesión un poquito más corta... También podemos trabajarlo mediante esfuerzos repetidos de alta intensidad, mediante algún tipo de RSA... Podemos trabajarlos con drills, que haya algún tipo de caos... que empiecen quizá con algún cuatro contra tres, que el tirador se salga... buscar algún tipo de caos donde siempre el jugador tenga que estar, especialmente a nivel cognitivo, muy activo. A mí me gusta mucho trabajar mediante la percepción-acción... buscar algún tipo de cambios de direcciones o algún tipo de trabajo acelerativo y desacelerativo, siempre reactivo... Obviamente, a mí todo el trabajo reactivo... me gusta trabajarlo con estímulos visuales.",
+      "keywords": [
+        "demandas-pico",
+        "situaciones-reducidas",
+        "percepcion-accion",
+        "estimulos-visuales",
+        "rsa",
+        "caos",
+        "entrenamiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué tipos de ejercicios se usan para entrenar las demandas pico en baloncesto?",
+        "¿Qué beneficios tiene el entrenamiento basado en percepción-acción visual?",
+        "¿Cómo introducir caos en las tareas para incrementar la carga cognitiva y física?"
+      ],
+      "related_terms": [
+        "situaciones",
+        "reducidas",
+        "percepción-acción",
+        "estímulos",
+        "visuales",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "El jugador de baloncesto no compite a intensidades promedio, sino que sobrevive a las 'demandas pico' (esfuerzos continuos de 40-60 segundos sin descanso, con exigencias 1.5 a 6 veces mayores que la media).",
+      "context_after": "Se exponen los primeros tres moduladores para ajustar con precisión la intensidad de estos ejercicios."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:23:33",
+      "start_seconds": 1300,
+      "end_seconds": 1413,
+      "duration_seconds": 113,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1300",
+      "title": "Moduladores de carga 1-3: Espacio, jugadores y oposición",
+      "summary": "Para ajustar la intensidad, se alteran tres factores: 1) Espacio: mucho espacio eleva la carga fisiológica; poco espacio incrementa contactos, decisiones y carga biomecánica. 2) Jugadores: menos jugadores implican mayor participación e intensidad. 3) Oposición: su presencia convierte el ejercicio técnico en carga real.",
+      "literal_quote": "A más espacio, más carga y más intensidad fisiológica... En cambio, a menos espacio, hay mucho más contacto, hay más toma de decisiones y luego hay mucha más carga biomecánica.",
+      "full_transcript": "Los moduladores de carga que normalmente solemos trabajar en baloncesto suelen ser estos siete... uno es el espacio. A más espacio, más carga y más intensidad... fisiológica, los jugadores recorren más distancia. En cambio, a menos espacio, hay mucho más contacto, hay más toma de decisiones y luego hay mucha más carga biomecánica, porque los jugadores tienen que acelerar, frenar, cambiar de dirección mucho más constantemente... El segundo sería el número de jugadores. A menos jugadores hay más participación y a más jugadores hay menos intensidad individual... Si queremos un poquito de menor intensidad individual, podemos buscar más tareas con más jugadores. El tercero sería el tipo de posición... sin oposición puede ser un trabajo más técnico-táctico... Y con oposición suele ser un trabajo un poco más real con mayor carga.",
+      "keywords": [
+        "moduladores-carga",
+        "espacio",
+        "numero-jugadores",
+        "oposicion",
+        "intensidad-fisiologica",
+        "carga-biomecanica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el espacio a la carga física y biomecánica en un ejercicio?",
+        "¿Qué relación hay entre el número de jugadores y la intensidad del entrenamiento?",
+        "¿Cuáles son los principales moduladores de carga en la pista?"
+      ],
+      "related_terms": [
+        "moduladores",
+        "de",
+        "carga",
+        "espacio",
+        "oposición",
+        "control de carga"
+      ],
+      "relevance_score": 4,
+      "context_before": "Para alcanzar estas demandas máximas en el microciclo, se utilizan situaciones reducidas (2v2 a 4v4 a toda cancha con posesión corta), esfuerzos repetidos (RSA), inclusión del caos táctico y tareas físicas de percepción-acción guiadas por estímulos visuales.",
+      "context_after": "Se detallan los cuatro moduladores restantes que incluyen normas del juego, tiempos e influencia del entrenador."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:23:33",
+      "end_timestamp": "00:27:52",
+      "start_seconds": 1413,
+      "end_seconds": 1672,
+      "duration_seconds": 259,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1413",
+      "title": "Moduladores de carga 4-7: Reglas, densidad, feedback y rol táctico",
+      "summary": "Los 4 moduladores finales son clave: 4) Modificar reglas (botes, posesión) sube drásticamente el 'pace'. 5) Densidad trabajo-descanso. 6) Intervención del coach: a más feedback, menor intensidad media. 7) Rol táctico: alta exigencia táctica no asimilada incrementa la fatiga física y dispara la carga cognitiva.",
+      "literal_quote": "Modificar las reglas del juego me va a permitir modular la carga para más o para menos... A más feedback del entrenador, la intensidad media de entrenamiento es menor.",
+      "full_transcript": "El cuatro para mí es uno de los que más me gusta, que es que uno de los factores que cambia más la carga son las reglas del juego... Limitar los botes, limitar el tiempo de posesión... jugar con ventajas y desventajas. No es lo mismo jugar un cinco contra cinco a toda la pista con 24 segundos de posesión, que jugarlo a toda la pista igual, pero con 14... estoy forzando a que tengan mucho más pace. Obviamente, el ratio de trabajo-descanso... que esto va ligado con el siete [seis], que es la intervención del entrenador. A más feedback del entrenador, la intensidad media de entrenamiento es menor. En cambio, más continuidad, más carga... Si el objetivo de un ejercicio es táctico, podemos permitir... más pausa. Pero si el objetivo... es condicional, tenemos que ser consecuentes. Y luego, para último, es el rol táctico... si les pedimos mucho de manera constante que jueguen muchas acciones tácticas que por lo que sea no tengan dominadas... la carga física va a ser mayor... y luego la carga cognitiva.",
+      "keywords": [
+        "moduladores-carga",
+        "reglas-juego",
+        "densidad",
+        "feedback-entrenador",
+        "rol-tactico",
+        "carga-cognitiva"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿De qué manera las reglas del juego (como el límite de posesión) afectan la fatiga?",
+        "¿Por qué las pausas del entrenador bajan la intensidad de la sesión?",
+        "¿Cómo se relaciona la dificultad táctica con la carga cognitiva del deportista?"
+      ],
+      "related_terms": [
+        "reglas",
+        "del",
+        "juego",
+        "carga",
+        "cognitiva",
+        "feedback",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para ajustar la intensidad, se alteran tres factores: 1) Espacio: mucho espacio eleva la carga fisiológica; poco espacio incrementa contactos, decisiones y carga biomecánica. 2) Jugadores: menos jugadores implican mayor participación e intensidad. 3) Oposición: su presencia convierte el ejercicio técnico en carga real.",
+      "context_after": "Se entra en el marco metodológico general, empezando por los principios de entrenamiento."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:27:55",
+      "end_timestamp": "00:30:43",
+      "start_seconds": 1675,
+      "end_seconds": 1843,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1675",
+      "title": "Principios de entrenamiento y relación carga-capacidad",
+      "summary": "El primer pilar metodológico son los principios: individualización (rutinas correctivas anónimas al grupo), progresión, especificidad por posición y variabilidad de estímulos. Especial énfasis en que las lesiones surgen cuando la carga excede la capacidad de asimilación del jugador.",
+      "literal_quote": "Las lesiones suceden cuando la carga excede la capacidad del jugador para aplicarla... muchas veces menos es más.",
+      "full_transcript": "Entramos en un marco metodológico común... donde intento dividir tres grandes estaciones. El primero para mí son los principios de entrenamiento. La individualización es muy importante... Tiene que haber un principio de progresión, de sobrecarga progresiva... Vamos a hablar de la especificidad... tener en cuenta la posición de cada uno de ellos para darles el estímulo. Yo soy de los que pienso y me gusta dar variabilidad continua a entrenamientos... Y para mí hay uno que es muy importante, que es la relación carga-capacidad. Las lesiones suceden cuando la carga excede la capacidad del jugador para aplicarla. Creo que tenemos que ser conscientes de ello... muchas veces menos es más, teniendo en cuenta que siempre o casi siempre las lesiones suceden porque esa carga que aplicamos al jugador supera su capacidad para poder hacerle frente.",
+      "keywords": [
+        "principios-entrenamiento",
+        "individualizacion",
+        "progresion",
+        "especificidad",
+        "variabilidad",
+        "relacion-carga-capacidad",
+        "prevencion-lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principios fundamentales del entrenamiento según Arnau Pinà?",
+        "¿Por qué se producen las lesiones musculares desde la perspectiva de la carga?",
+        "¿Cómo se aplica la individualización en un deporte de equipo como el baloncesto?"
+      ],
+      "related_terms": [
+        "principios",
+        "entrenamiento",
+        "carga",
+        "capacidad",
+        "lesiones",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los 4 moduladores finales son clave: 4) Modificar reglas (botes, posesión) sube drásticamente el 'pace'. 5) Densidad trabajo-descanso. 6) Intervención del coach: a más feedback, menor intensidad media. 7) Rol táctico: alta exigencia táctica no asimilada incrementa la fatiga física y dispara la carga cognitiva.",
+      "context_after": "Explicación del segundo pilar del marco: el modelo de trabajo y monitorización."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:30:46",
+      "end_timestamp": "00:32:24",
+      "start_seconds": 1846,
+      "end_seconds": 1944,
+      "duration_seconds": 98,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1846",
+      "title": "Modelo de trabajo y adaptación al contexto",
+      "summary": "El segundo pilar es el modelo de trabajo, que define la periodización y la tecnología a usar (GPS, frecuencia cardiaca, HR). Este modelo debe ser sólido en sus bases pero absolutamente flexible para sortear limitaciones culturales, lingüísticas o de instalaciones.",
+      "literal_quote": "El modelo de trabajo tiene que compartir muchas cosas, pero a la vez tiene que ser en cierta parte flexible para poder trasladarlo a muchos sitios y a contextos distintos.",
+      "full_transcript": "Por segundo punto, el modelo de trabajo: qué periodización vamos a querer trabajar, cómo vamos a gestionar la carga interna y externa. ¿Tenemos dispositivos?... ¿Qué tenemos? Y en base a ello, ¿qué decisión vamos a tomar? Cómo podemos monitorizar al jugador en base a la tecnología que tenemos, pero también a todo el feedback previo... de los fisios... el feedback que tú tienes con tu propio ojo clínico... Y por último, la variabilidad, la adaptabilidad, la flexibilidad. El modelo de trabajo para mí tiene que ser fijo, pero a la vez adaptable a la situación. Yo no trabajo igual en Japón de lo que trabajaba igual en México... El perfil de jugador es distinto, el perfil a nivel cultural es distinto... Puede ser de lenguaje, puede ser a nivel de sociedad, incluso a nivel de instalaciones. Creo que el modelo de trabajo tiene que compartir muchas cosas, pero a la vez tiene que ser en cierta parte flexible para poder trasladarlo a muchos sitios y a contextos distintos.",
+      "keywords": [
+        "modelo-trabajo",
+        "monitorizacion",
+        "tecnologia",
+        "adaptabilidad",
+        "cultura",
+        "limitaciones"
+      ],
+      "entities": [
+        "Japón",
+        "México"
+      ],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿En qué consiste el modelo de trabajo de un preparador físico de baloncesto?",
+        "¿Por qué es necesario flexibilizar el modelo al cambiar de país o club?",
+        "¿Qué papel juegan las percepciones subjetivas frente a los datos objetivos en la monitorización?"
+      ],
+      "related_terms": [
+        "modelo",
+        "de",
+        "trabajo",
+        "adaptabilidad",
+        "toma de decisiones",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "El primer pilar metodológico son los principios: individualización (rutinas correctivas anónimas al grupo), progresión, especificidad por posición y variabilidad de estímulos. Especial énfasis en que las lesiones surgen cuando la carga excede la capacidad de asimilación del jugador.",
+      "context_after": "El tercer y más decisivo factor metodológico: el tiempo de contacto con el jugador."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:32:30",
+      "end_timestamp": "00:35:03",
+      "start_seconds": 1950,
+      "end_seconds": 2103,
+      "duration_seconds": 153,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1950",
+      "title": "El tiempo de contacto como condicionante principal",
+      "summary": "El tercer pilar es el tiempo disponible con los jugadores. En un club (meses) se invierte en screenings detallados y creación de hábitos integrales. En una selección o fichajes tardíos (días), la única prioridad es mantener al jugador 'disponible para jugar', asumiendo fatigas previas.",
+      "literal_quote": "Si tenemos poco tiempo con un jugador... quizá tenemos que reducir todo a que el jugador esté disponible para jugar. No sé si en las mejores condiciones posibles... pero que esté disponible.",
+      "full_transcript": "Y por último, uno de los apartados para mí más importantes es el tiempo de contacto con los jugadores. Es muy importante, porque podemos tener jugadores durante meses o durante años... En cambio, tendremos también jugadores que nuestro tiempo de contacto sean días, que vengan por una lesión temporal... o últimos refuerzos... debemos tener esa adaptabilidad. Si vamos a tener mucho tiempo con un jugador, podemos ir mucho más al detalle, podemos invertir mucho tiempo en un 'screening' inicial, podemos invertir mucho tiempo en crear hábitos preentrenamiento, prepartido, de recuperación, hidratación, nutricionales. En cambio, si tenemos poco tiempo con un jugador y sabemos que ese tiempo de contacto va a ser de días, quizá tenemos que reducir todo a que el jugador esté disponible para jugar. No sé si en las mejores condiciones posibles, no sé si el jugador va a estar al 100 % todos los días... Lo que sí tengo que asegurarme es que el jugador esté disponible para jugar. Si está disponible para jugar al 80 %, está bien... intentar que esas molestias que todos los jugadores tienen en alto rendimiento sean las menores posibles.",
+      "keywords": [
+        "tiempo-contacto",
+        "disponibilidad",
+        "screening",
+        "habitos",
+        "seleccion-nacional",
+        "club-profesional"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Return to Play",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo modifica el tiempo de contrato la planificación del preparador físico?",
+        "¿Cuál es el objetivo principal de la preparación física en ciclos muy cortos (Selecciones)?",
+        "¿Qué hábitos se pueden inculcar cuando se dispone de meses de trabajo con el jugador?"
+      ],
+      "related_terms": [
+        "tiempo",
+        "de",
+        "contacto",
+        "disponibilidad",
+        "return to play",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "El segundo pilar es el modelo de trabajo, que define la periodización y la tecnología a usar (GPS, frecuencia cardiaca, HR). Este modelo debe ser sólido en sus bases pero absolutamente flexible para sortear limitaciones culturales, lingüísticas o de instalaciones.",
+      "context_after": "Fin de la primera parte del webinar, previo paso a casos prácticos."
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+    "speaker": "Arnau Pinà",
+    "total_duration": "00:32:42",
+    "total_duration_seconds": 1962,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:01:57",
+      "end_timestamp": "00:03:35",
+      "start_seconds": 117,
+      "end_seconds": 215,
+      "duration_seconds": 98,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=117",
+      "title": "Particularidades del calendario en un club profesional",
+      "summary": "Trabajar en un club profesional implica gestionar una liga estable de 10 meses con alta densidad competitiva (hasta 60 partidos). A diferencia de otras ligas latinoamericanas con calendarios comprimidos y sin preparación, aquí se dispone de microciclos cómodos y pretemporadas largas.",
+      "literal_quote": "Tenemos esta particularidad, que aquí tenemos pretemporada, liga regular y playoff... En la nuestra es una liga de alta densidad, porque a lo largo de los 10 meses se juegan 60 partidos.",
+      "full_transcript": "Para mí hay estos seis puntos, que son los más importantes y las particularidades que tenemos trabajando con un club profesional en una liga estable de 10 meses. Primero es el calendario y la estructura. Tenemos esta particularidad, que aquí tenemos pretemporada, liga regular y playoff. Puede parecer muy obvio, pero yo he tenido experiencias antes en México, donde la pretemporada es casi inexistente, son cinco, seis, siete días y a jugar, donde la liga regular es muy densa, que son tres meses con en torno a 35 o 40 partidos, es decir, una densidad competitiva muy alta... En la nuestra es una liga de alta densidad, porque a lo largo de los 10 meses se juegan 60 partidos, pero sí que es verdad que tenemos microciclos tipo bastante cómodos para poder desarrollar tanto nuestro baloncesto como el físico de los jugadores.",
+      "keywords": [
+        "club-profesional",
+        "calendario",
+        "densidad-competitiva",
+        "pretemporada",
+        "liga-regular",
+        "playoff"
+      ],
+      "entities": [
+        "México",
+        "Japón"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias de calendario en un club profesional según Arnau Pinà?",
+        "¿Qué duración tiene la liga regular y cuántos partidos se juegan en el club japonés?",
+        "¿Cómo contrasta el calendario de la liga mexicana con otras ligas profesionales de larga duración?"
+      ],
+      "related_terms": [
+        "calendario",
+        "densidad",
+        "competitiva",
+        "microciclo",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Arnau Pinà introduce el segundo bloque de la charla centrándose en las particularidades comparativas entre un club y una selección.",
+      "context_after": "Se detalla cómo los objetivos físicos deben adaptarse a cada una de estas fases del calendario del club."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:03:40",
+      "end_timestamp": "00:05:52",
+      "start_seconds": 220,
+      "end_seconds": 352,
+      "duration_seconds": 132,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=220",
+      "title": "Objetivos físicos por fase y congestión de partidos",
+      "summary": "Cada fase exige un objetivo distinto: en pretemporada se construye capacidad; en liga regular se prioriza recuperar y tener al jugador disponible; en playoffs se busca el pico de rendimiento. La congestión varía desde jugar sábado y domingo (densidad 2) a 5 partidos en 8 días con múltiples viajes.",
+      "literal_quote": "En pretemporada tenemos mucho tiempo para crear y construir una base... en liga regular tenemos que estar mucho más centrados en recuperar al jugador.",
+      "full_transcript": "Obviamente, hay que tener muy claro que en este tipo de estructura cada fase tiene objetivos físicos muy distintos. En pretemporada tenemos mucho tiempo para crear y construir una base que sea bastante estable... crear esa capacidad que nos va a ayudar a que los jugadores luego tomen la carga. Tenemos una liga regular que, aunque también tenemos tiempo para crear cierta capacidad, tenemos que estar mucho más centrados en recuperar al jugador y tenerlo disponible para jugar los 60 partidos. Y luego los playoffs... donde tenemos que terminar de pulir muchos detalles para que los jugadores sí o sí lleguen en el pico óptimo de rendimiento. Luego tenemos la congestión de partidos, la densidad competitiva, que en nuestro caso es densidad dos. Normalmente jugamos siempre sábado y domingo, o puede ser densidad cinco, es decir, que jugamos sábado, domingo, miércoles, sábado, domingo, con lo cual en ocho días tenemos cinco partidos con los que implica seguramente uno o dos viajes.",
+      "keywords": [
+        "objetivos-fisicos",
+        "pretemporada",
+        "recuperacion",
+        "congestion-partidos",
+        "viajes",
+        "rendimiento-pico"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los objetivos físicos de la pretemporada en baloncesto profesional?",
+        "¿Cómo se maneja la carga física durante los playoffs según Arnau Pinà?",
+        "¿Qué significa tener una densidad competitiva cinco en baloncesto?"
+      ],
+      "related_terms": [
+        "pretemporada",
+        "congestión",
+        "de",
+        "partidos",
+        "rendimiento",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Trabajar en un club profesional implica gestionar una liga estable de 10 meses con alta densidad competitiva (hasta 60 partidos). A diferencia de otras ligas latinoamericanas con calendarios comprimidos y sin preparación, aquí se dispone de microciclos cómodos y pretemporadas largas.",
+      "context_after": "Se explica el proceso de screening y evaluación exhaustiva que permite este calendario a largo plazo."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:05:52",
+      "end_timestamp": "00:07:33",
+      "start_seconds": 352,
+      "end_seconds": 453,
+      "duration_seconds": 101,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=352",
+      "title": "Evaluación exhaustiva y progresión planificada de cargas",
+      "summary": "El entorno de club permite un 'screening' completo inicial (movilidad, fuerza, salto, historial de lesiones). Se implementa una periodización a largo plazo con sobrecarga progresiva que, por regla general, no supera el 5-7% semanal (o 10% sin estrés articular en pretemporada) para no generar sobreentrenamiento.",
+      "literal_quote": "Podemos tener una periodización real a largo plazo con una progresión de cargas. Intentamos nunca superar el 10 % semanal.",
+      "full_transcript": "Nuestra realidad en un club profesional de larga duración es que tenemos mucho tiempo para realizar una evaluación inicial completa, donde podemos trabajar muy a detalle un 'screening' completo, desde movilidad, fuerza, salto, capacidad aeróbica, tener muy detallado cuál es el historial de lesiones... para luego llegar a esos principios de entrenamiento donde buscamos esa especificidad y esa individualización. Luego, podemos tener una periodización real a largo plazo con una progresión de cargas. Intentamos nunca superar el 10 % semanal. A veces en pretemporada lo hacemos, pero con mucho tiempo sin contacto, con lo cual al final simplemente estamos aumentando mucho la carga fisiológica... pero sin que tengan tantos eventos mecánicos o tanto estrés articular. Pero por lo normal, a largo plazo intentamos que siempre estemos entre un 5 y un 7 %, tanto para más como para menos, para no buscar tampoco el sobreentrenamiento, pero tampoco que estemos debajo de un umbral que sea negativo.",
+      "keywords": [
+        "evaluacion-inicial",
+        "screening",
+        "periodizacion",
+        "progresion-cargas",
+        "sobreentrenamiento",
+        "estres-articular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué incluye el screening inicial de los jugadores en un club profesional?",
+        "¿Cuál es el porcentaje máximo de aumento de carga semanal recomendado?",
+        "¿Por qué se permite aumentar más de un 10% la carga en pretemporada?"
+      ],
+      "related_terms": [
+        "evaluación",
+        "progresión",
+        "de",
+        "cargas",
+        "screening",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Cada fase exige un objetivo distinto: en pretemporada se construye capacidad; en liga regular se prioriza recuperar y tener al jugador disponible; en playoffs se busca el pico de rendimiento. La congestión varía desde jugar sábado y domingo (densidad 2) a 5 partidos en 8 días con múltiples viajes.",
+      "context_after": "Se destaca la monitorización a largo plazo y cómo el tiempo ayuda a forjar relaciones con la plantilla."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:07:59",
+      "end_timestamp": "00:09:41",
+      "start_seconds": 479,
+      "end_seconds": 581,
+      "duration_seconds": 102,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=479",
+      "title": "Monitorización longitudinal y creación de confianza",
+      "summary": "El tiempo en un club facilita el seguimiento longitudinal mediante datos objetivos y subjetivos (wellness, GPS, ratio agudo-crónico a 28 días). Además, permite desarrollar una relación sólida de confianza interpersonal con el jugador, fundamental para el rendimiento.",
+      "literal_quote": "Tenemos tiempo para crear esa relación de confianza... Una vez que el jugador se da cuenta de que tú estás por y para ellos... esa confianza aumenta.",
+      "full_transcript": "Luego podemos tener otro tiempo para tener ese seguimiento longitudinal, que creo que es un poco las dos partes que van más ligadas, donde podemos tener muchos datos, ya sea de wellness, de acelerometría, de GPS, de 'readiness', obviamente los ratios de carga aguda crónica, que nos van a dar muchos datos, especialmente a nivel longitudinal. Si buscamos ese ratio agudo crónico en unos pocos días en selección no tiene sentido, porque no vamos a nunca llegar a esa carga crónica de 28 días para que el ratio sea óptimo... Y luego otra cosa que es muy importante es esa relación de cuerpo técnico médico con el jugador. Tenemos tiempo para crear esa relación de confianza, esa relación de individualización, esa relación de trust, de que confiemos el uno en el otro para que vean que buscamos lo mejor para ellos. Una vez que el jugador se da cuenta de que tú estás por y para ellos y buscas realmente su mejora... esa confianza y esa relación personal con ellos también aumenta. Contra más tiempo estamos con ellos, más tiempo tenemos para crear esa relación.",
+      "keywords": [
+        "monitorizacion-longitudinal",
+        "ratio-agudo-cronico",
+        "wellness",
+        "gps",
+        "confianza",
+        "relacion-jugador"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Comunicación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Por qué no tiene sentido usar el ratio agudo-crónico en ciclos cortos como las selecciones?",
+        "¿Qué datos se utilizan para el seguimiento longitudinal en baloncesto profesional?",
+        "¿Qué importancia tiene la relación entre el cuerpo técnico y el jugador según Arnau Pinà?"
+      ],
+      "related_terms": [
+        "monitorización",
+        "longitudinal",
+        "ratio",
+        "agudo",
+        "crónico",
+        "comunicación"
+      ],
+      "relevance_score": 4,
+      "context_before": "El entorno de club permite un 'screening' completo inicial (movilidad, fuerza, salto, historial de lesiones). Se implementa una periodización a largo plazo con sobrecarga progresiva que, por regla general, no supera el 5-7% semanal (o 10% sin estrés articular en pretemporada) para no generar sobreentrenamiento.",
+      "context_after": "Se cambia el foco de análisis para abordar la cruda realidad de las Selecciones Nacionales."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:09:42",
+      "end_timestamp": "00:11:10",
+      "start_seconds": 582,
+      "end_seconds": 670,
+      "duration_seconds": 88,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=582",
+      "title": "Retos del calendario y logística en Selección Nacional",
+      "summary": "Las ventanas FIBA imponen concentraciones muy breves (2-3 partidos en pocos días). La logística es compleja: los jugadores llegan desde distintos países y husos horarios ('jet lag'), y los clubes a menudo los ceden con el mínimo margen de 48-72 horas antes del primer juego.",
+      "literal_quote": "Son días muy reducidos... Algunos jugadores nos los dejan con 48, 72 horas antes, que es lo que FIBA obliga.",
+      "full_transcript": "Por otro lado, si nos vamos a una selección nacional, hay algunas particularidades muy distintas. Volvemos a calendario y estructura. Calendario y estructura en baloncesto, las ventanas FIBA suelen ser en febrero, julio, agosto y noviembre... Son días muy reducidos. Normalmente, las ventanas FIBA son dos, tres partidos, no más. Son concentraciones muy cortas y los días de contacto real con los jugadores son muy cortos. ¿Por qué? Porque algunos vienen de viajes con husos horarios distintos... no todos los jugadores nos vienen del mismo país... algunos de ellos están en Europa, otros están en otros países de Latinoamérica, algunos están en Estados Unidos, con lo cual nos llegan los jugadores de países distintos, husos horarios distintos y disponibilidad distinta. Algunos jugadores nos los dejan con 48, 72 horas antes, que es lo que FIBA obliga a los jugadores a dejarlos, u otros nos los dejan mucho antes porque tienen mejor relación.",
+      "keywords": [
+        "seleccion-nacional",
+        "ventanas-fiba",
+        "husos-horarios",
+        "logistica",
+        "disponibilidad-reducida"
+      ],
+      "entities": [
+        "FIBA",
+        "México",
+        "Europa",
+        "Latinoamérica",
+        "Estados Unidos"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Contexto",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las ventanas FIBA y cuántos partidos se juegan en ellas?",
+        "¿Qué dificultades de husos horarios enfrentan las selecciones nacionales?",
+        "¿Con cuánta antelación obliga la FIBA a los clubes a ceder a sus jugadores?"
+      ],
+      "related_terms": [
+        "ventanas",
+        "FIBA",
+        "logística",
+        "disponibilidad",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "El tiempo en un club facilita el seguimiento longitudinal mediante datos objetivos y subjetivos (wellness, GPS, ratio agudo-crónico a 28 días). Además, permite desarrollar una relación sólida de confianza interpersonal con el jugador, fundamental para el rendimiento.",
+      "context_after": "Se exponen los problemas derivados de no tener el control del historial de datos del jugador."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:11:10",
+      "end_timestamp": "00:12:22",
+      "start_seconds": 670,
+      "end_seconds": 742,
+      "duration_seconds": 72,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=670",
+      "title": "El obstáculo del histórico incontrolable en selecciones",
+      "summary": "En selecciones se trabaja partiendo de un histórico de carga que no se controla. La información proveniente de los clubes de origen es a menudo incompleta, poco detallada o meramente subjetiva (si carecen de dispositivos tecnológicos), complicando el análisis de la carga aguda y crónica real.",
+      "literal_quote": "Partimos de un histórico que no controlamos... a veces no nos comparten la información completa, nos dan datos muy poco detallados.",
+      "full_transcript": "Tenemos otros condicionantes en calendario y estructura, que sería que partimos de un histórico que no controlamos. Tanto yo como preparador físico, como el staff médico... indagamos y hacemos un reporte de cada uno de ellos en base a lo que nos dice el staff con los que están. Pero a veces no nos comparten la información completa, nos dan datos muy poco detallados, muy globales. A veces algunos equipos no tienen dispositivos para controlar la carga, con lo cual simplemente nos pasan datos subjetivos. Partimos de un histórico que es muy poco controlable, especialmente en la carga crónica que han estado recibiendo. Obviamente, analizamos con ellos historial de lesiones, historial de molestias, número de partidos en la última semana y último mes, número de minutos jugados... con lo cual nos hacemos una idea de qué carga aguda y crónica puede estar haciendo el jugador, pero con números seguramente más incompletos.",
+      "keywords": [
+        "historico-carga",
+        "informacion-incompleta",
+        "clubes",
+        "carga-cronica",
+        "datos-subjetivos"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Comunicación",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Desafío",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es difícil medir la carga crónica en una concentración de selección nacional?",
+        "¿Qué tipo de información suelen recibir los preparadores físicos de selecciones por parte de los clubes?",
+        "¿Cómo estiman la carga de un jugador cuando el club de origen no utiliza dispositivos tecnológicos?"
+      ],
+      "related_terms": [
+        "histórico",
+        "carga",
+        "crónica",
+        "comunicación",
+        "datos",
+        "análisis de datos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Las ventanas FIBA imponen concentraciones muy breves (2-3 partidos en pocos días). La logística es compleja: los jugadores llegan desde distintos países y husos horarios ('jet lag'), y los clubes a menudo los ceden con el mínimo margen de 48-72 horas antes del primer juego.",
+      "context_after": "Se detalla la extrema heterogeneidad del grupo que llega a la concentración."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:12:23",
+      "end_timestamp": "00:13:43",
+      "start_seconds": 743,
+      "end_seconds": 823,
+      "duration_seconds": 80,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=743",
+      "title": "Heterogeneidad del grupo y screening exprés",
+      "summary": "Los deportistas aterrizan en la selección con estados de forma y fatiga sumamente dispares, condicionados por metodologías y ritmos de liga distintos (de 1 a 4 partidos semanales). Ante la falta de tiempo, el 'screening' inicial es exprés (24-48h) enfocado únicamente en localizar puntos débiles urgentes.",
+      "literal_quote": "Cada jugador nos llega con un nivel de forma distinto... Tenemos un 'screening' muy exprés, a veces 24 horas, 48... para intentar evaluar algún punto débil y tomar acción a corto plazo.",
+      "full_transcript": "Luego tenemos esa particularidad de la heterogeneidad, que es que cada jugador nos llega con un nivel de forma distinto, con un nivel de fatiga distinto, con un historial de lesiones y molestias distinto, con ligas completamente distintas. Pueden ser algunas de alta tendencia competitivas, como es la mexicana, que juegan cuatro partidos a la semana. Otras, como pueden ser algunas ligas europeas, que si no tienen competición europea, juegan únicamente una vez a la semana. Y con un sistema de entrenamiento y una metodología... muy distinta a la que nosotros podamos aplicar. Cada jugador nos llega con unos hábitos muy dispares y tenemos poco tiempo para juntar a todo el equipo. Por trabajo de evaluación, lo que comentábamos antes... En cambio, aquí tenemos un 'screening' muy exprés, a veces 24 horas, 48, a veces incluso menos, simplemente para intentar que el jugador esté lo más disponible posible, para intentar evaluar algún punto débil y tomar acción a corto plazo.",
+      "keywords": [
+        "heterogeneidad",
+        "screening-expres",
+        "fatiga",
+        "evaluacion-rapida",
+        "disponibilidad"
+      ],
+      "entities": [
+        "México",
+        "Europa"
+      ],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la heterogeneidad de ligas al estado físico del jugador en selecciones?",
+        "¿Qué es el screening exprés y cuánto tiempo dura?",
+        "¿Por qué las metodologías de los clubes de origen suponen un reto para el preparador físico nacional?"
+      ],
+      "related_terms": [
+        "heterogeneidad",
+        "screening",
+        "exprés",
+        "evaluación",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "En selecciones se trabaja partiendo de un histórico de carga que no se controla. La información proveniente de los clubes de origen es a menudo incompleta, poco detallada o meramente subjetiva (si carecen de dispositivos tecnológicos), complicando el análisis de la carga aguda y crónica real.",
+      "context_after": "Se expone el objetivo principal en la selección: disponibilidad y prevención a corto plazo."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:13:44",
+      "end_timestamp": "00:16:26",
+      "start_seconds": 824,
+      "end_seconds": 986,
+      "duration_seconds": 162,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=824",
+      "title": "Prioridades de rendimiento inmediato y comunicación con clubes",
+      "summary": "En ciclos cortos no hay margen para desarrollar capacidad física. La prioridad absoluta es conseguir que el grupo (14-16 jugadores) esté 100% disponible mediante micro-prevenciones a corto plazo. A esto se añade la presión y fricción comunicativa con los clubes que reclaman proteger los minutos de sus activos.",
+      "literal_quote": "No tenemos tiempo para el desarrollo y no tenemos tiempo para construir esa capacidad... Buscamos disponibilidad 100 %... y prevención a corto plazo.",
+      "full_transcript": "Tenemos que intentar que esos jugadores consigan un estado de forma óptimo en muy poco tiempo. No tenemos tiempo para el desarrollo y no tenemos tiempo para construir esa capacidad que hablábamos antes... Tenemos muy pocos días, muy pocas sesiones... A veces partimos con jugadores que vienen con 'jet lag', jugadores que vienen lesionados o en procesos de vuelta a la competición... Por otro lado, una gestión de cargas donde no buscamos una progresión. Uno, buscamos disponibilidad 100 %, que todos los jugadores que nos vengan... estén disponibles para el entrenador... Buscamos una prevención a corto plazo, es decir... dos, tres, cuatro detalles que nos ayuden a que el jugador se sienta un poco mejor para estar esos dos, tres partidos con nosotros. Obviamente, tenemos la particularidad de la comunicación con el club... Puede ser que tengamos fricciones con el club a nivel de que el jugador venga protegido de minutos, pretenda que lo protejamos también. A veces el club quiere rendimiento inmediato cuando el jugador vuelve... Y por último, estas conclusiones: muchas veces trabajamos y tenemos que tomar decisiones con datos incompletos.",
+      "keywords": [
+        "rendimiento-inmediato",
+        "disponibilidad",
+        "prevencion-corto-plazo",
+        "comunicacion-clubes",
+        "fricciones",
+        "proteccion-minutos"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Desafío"
+      ],
+      "search_questions": [
+        "¿Por qué no se busca una progresión de cargas en la selección nacional?",
+        "¿Qué fricciones pueden surgir entre la selección y los clubes de los jugadores?",
+        "¿Cuál es el objetivo principal del preparador físico en un ciclo corto de concentración?"
+      ],
+      "related_terms": [
+        "disponibilidad",
+        "prevención",
+        "corto",
+        "plazo",
+        "fricciones",
+        "comunicación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los deportistas aterrizan en la selección con estados de forma y fatiga sumamente dispares, condicionados por metodologías y ritmos de liga distintos (de 1 a 4 partidos semanales). Ante la falta de tiempo, el 'screening' inicial es exprés (24-48h) enfocado únicamente en localizar puntos débiles urgentes.",
+      "context_after": "Comparativa de cómo los mismos principios generan decisiones metodológicas distintas."
+    },
+    {
+      "id": "V02-009",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:17:37",
+      "end_timestamp": "00:20:44",
+      "start_seconds": 1057,
+      "end_seconds": 1244,
+      "duration_seconds": 187,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1057",
+      "title": "Diferencias metodológicas: Ajuste planificado vs ajuste diario",
+      "summary": "El diseño de sesiones refleja la divergencia del contexto. Mientras el club ejecuta una progresión estructurada en macro y microciclos basada en historial crónico, la selección depende del 'readiness' diario, ajustando la carga aguda constantemente ante urgencias como el desfase horario o la fatiga del viaje.",
+      "literal_quote": "En un club profesional... tenemos una progresión muy planificada de microciclos... En cambio, con la Selección Nacional, el ajuste es mucho más diario, mucho más según el 'reading' del día.",
+      "full_transcript": "Diseño de la sesión. Cuando tenemos todo bajo control, tenemos una progresión muy planificada de microciclos. Tenemos el macrociclo global, donde tenemos una primera idea de trabajo y luego en el microciclo terminamos de definir todas las ideas semana tras semana. En cambio, con la Selección Nacional, el ajuste es mucho más diario, mucho más según el 'reading' del día, según cómo se sienten los jugadores y en base mucho más a toda la opinión médica de cómo se siente cada uno de ellos... Monitorización de la carga. Como hablamos en el club profesional, es longitudinal, es de meses, de histórico. Tenemos datos de muchos meses donde la carga crónica nos ayuda mucho a tomar decisiones. En cambio, con la Selección Nacional es muy puntual... es controlar la carga aguda de esos cinco, siete o 10 días que esté con nosotros. En términos de recuperación... en la selección... la urgencia hace que tomemos decisiones bajo otro tipo de presión temporal. Seguramente es que vienen de viajes largos, diferencias horarias, con el sueño alterado y a corto plazo tienen que competir.",
+      "keywords": [
+        "diseno-sesion",
+        "ajuste-diario",
+        "macro-ciclo",
+        "micro-ciclo",
+        "carga-aguda",
+        "readiness",
+        "fatiga-viaje"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Comparativa"
+      ],
+      "search_questions": [
+        "¿Cómo difiere el diseño de sesiones entre un club y una selección nacional?",
+        "¿Qué importancia tiene la carga crónica versus la carga aguda en selecciones?",
+        "¿Cómo afectan los viajes y el cambio de huso horario a las decisiones de recuperación?"
+      ],
+      "related_terms": [
+        "ajuste",
+        "diario",
+        "planificación",
+        "carga",
+        "aguda",
+        "readiness",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "En ciclos cortos no hay margen para desarrollar capacidad física. La prioridad absoluta es conseguir que el grupo (14-16 jugadores) esté 100% disponible mediante micro-prevenciones a corto plazo. A esto se añade la presión y fricción comunicativa con los clubes que reclaman proteger los minutos de sus activos.",
+      "context_after": "Se presenta el primer caso práctico con datos gráficos de un mesociclo de club."
+    },
+    {
+      "id": "V02-010",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:20:44",
+      "end_timestamp": "00:27:50",
+      "start_seconds": 1244,
+      "end_seconds": 1670,
+      "duration_seconds": 426,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1244",
+      "title": "Caso Práctico 1: Periodización ondulante en mesociclo de Club",
+      "summary": "En pretemporada de club, las sesiones se categorizan (Q1-Q4) según su volumen e intensidad. Se aplica una periodización ondulante, escalando la carga aguda de forma progresiva: semanas iniciales de alto volumen sin contacto (Q2), progresando a semanas que intercalan sesiones máximas (Q4) con recuperaciones reales (Q1), construyendo así la carga crónica.",
+      "literal_quote": "Q1 es bajo volumen y baja intensidad... Q4 es tanto alto volumen como alta intensidad... siempre compaginadas un estilo de periodización ondulante.",
+      "full_transcript": "Aquí vamos a ver que el mesociclo del club, este es el actual en agosto, empezando la pretemporada... Actualmente los tenemos asignados, que significa Q1, Q2, Q3 y Q4, en base a volumen y a intensidad. Q1 es bajo volumen y baja intensidad, Q2 es alto volumen, baja intensidad... Q3 es bajo volumen y alta intensidad, y Q4 es tanto alto volumen como alta intensidad. Veríamos una primera semana con mucho volumen y poca intensidad, con lo cual la mayoría del tiempo que pasaríamos allá será sin contacto. Una segunda semana donde empezaríamos a introducir el contacto... para terminar con una tercera y cuarta semana de mesociclo, donde ya empezamos a instaurar semanas de alta intensidad y alto volumen, siempre compaginadas un estilo de periodización ondulante con días de alta intensidad y días de baja intensidad seguidos... Intentamos que los días de alta carga sean de carga alta y los días de baja carga que realmente sean de carga baja... podemos ver que la carga crónica poquito a poco va subiendo de manera progresiva. Con lo cual nos encontramos en este primer gráfico una carga aguda adecuada, subiendo de menos a más con una buena progresión.",
+      "keywords": [
+        "mesociclo",
+        "pretemporada",
+        "cuadrantes-carga",
+        "periodizacion-ondulante",
+        "carga-aguda",
+        "carga-cronica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significan las clasificaciones Q1, Q2, Q3 y Q4 en el entrenamiento de Arnau Pinà?",
+        "¿Cómo se estructura una periodización ondulante en baloncesto?",
+        "¿De qué manera progresa la carga aguda en las primeras semanas de pretemporada?"
+      ],
+      "related_terms": [
+        "mesociclo",
+        "periodización",
+        "ondulante",
+        "carga",
+        "aguda",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "El diseño de sesiones refleja la divergencia del contexto. Mientras el club ejecuta una progresión estructurada en macro y microciclos basada en historial crónico, la selección depende del 'readiness' diario, ajustando la carga aguda constantemente ante urgencias como el desfase horario o la fatiga del viaje.",
+      "context_after": "Se contrasta este modelo con el caso práctico de una concentración con la selección."
+    },
+    {
+      "id": "V02-011",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:27:51",
+      "end_timestamp": "00:30:52",
+      "start_seconds": 1671,
+      "end_seconds": 1852,
+      "duration_seconds": 181,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1671",
+      "title": "Caso Práctico 2: Tapering en concentración de Selección",
+      "summary": "En un ciclo corto de 9-10 días (Selección), la carga aguda sube los primeros días, pero la intensidad interna (TRIMP) y externa (movement load) decae drásticamente a 48-72 horas del partido. Se aplica un 'tapering' buscando el pico de frescura o sobrecompensación para rendir óptimamente.",
+      "literal_quote": "Progresivamente, aunque aumentemos el volumen, vamos disminuyendo un poquito la intensidad... para crear esa sobrecompensación.",
+      "full_transcript": "Por otro lado, el caso práctico de nuestra concentración en la selección... tuvimos en torno a nueve días de concentración antes de que el sábado 4 jugáramos contra Nicaragua... Podemos ver que la carga aguda va subiendo. Sube durante los primeros seis o siete días, hasta que el día 8 y 9 buscamos un 'tapering' para que los jugadores se encuentren en disposición de poder rendir lo mejor posible y estar disponibles para el partido. Por otro lado, nos encontramos que el tiempo que los jugadores pasan en 'high intensity training'... va de menos a más. Es decir, progresivamente, aunque aumentemos el volumen, vamos disminuyendo un poquito la intensidad para que los jugadores, al final, la carga percibida esté repartida... para terminar las últimas 72, 48 horas con un volumen también un poquito más bajo para crear esa sobrecompensación... el TRIM, que es la carga interna... y el movement load, que es la carga externa. Si os fijáis, los mayores días de movement load suelen estar en los primeros tres, cuatro días... y el training impulse... los últimos tres días va hacia abajo, está decreciendo para intentar crear esa sobrecompensación.",
+      "keywords": [
+        "concentracion",
+        "tapering",
+        "sobrecompensacion",
+        "carga-aguda",
+        "trimp",
+        "movement-load"
+      ],
+      "entities": [
+        "Nicaragua"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué estrategia de cargas se utiliza en los días previos a un partido de selección (tapering)?",
+        "¿Qué es el TRIMP y el movement load y cómo evolucionan en una concentración?",
+        "¿Por qué se reduce el volumen y la intensidad 72 horas antes del partido oficial?"
+      ],
+      "related_terms": [
+        "tapering",
+        "sobrecompensación",
+        "trimp",
+        "carga",
+        "aguda",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "En pretemporada de club, las sesiones se categorizan (Q1-Q4) según su volumen e intensidad. Se aplica una periodización ondulante, escalando la carga aguda de forma progresiva: semanas iniciales de alto volumen sin contacto (Q2), progresando a semanas que intercalan sesiones máximas (Q4) con recuperaciones reales (Q1), construyendo así la carga crónica.",
+      "context_after": "Se resume la idea principal de todo el seminario sobre las diferencias metodológicas."
+    },
+    {
+      "id": "V02-012",
+      "video_title": "Metodología del preparador físico en baloncesto: Club profesional vs Selección Nacional",
+      "speaker": "Arnau Pinà",
+      "start_timestamp": "00:30:53",
+      "end_timestamp": "00:32:42",
+      "start_seconds": 1853,
+      "end_seconds": 1962,
+      "duration_seconds": 109,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1853",
+      "title": "Conclusión: Construir capacidad vs Exprimir disponibilidad",
+      "summary": "Aunque ambos entornos persiguen tener al jugador apto, la función del preparador cambia: en el club consiste en disponer de meses para impactar, estructurar y 'construir' capacidad física; en la selección el enfoque es 'proteger y exprimir' la capacidad que ya fue cimentada en el club de origen.",
+      "literal_quote": "En un club será mucho más el construir... y en selección seguramente sea el de proteger y exprimir lo que seguramente otros en el club ya han construido.",
+      "full_transcript": "Para mí los contextos significan un poquito esto, que el verdadero rol del jugador físico está en cada contexto. Seguramente en un club será mucho más el construir, el tener tiempo de impactar a todo el club, los jugadores y el staff, y en selección seguramente sea el de proteger y exprimir lo que seguramente otros en el club ya han construido. Y nosotros únicamente tengamos que proteger, tengamos que ajustar cuatro detalles y exprimir todo el trabajo que ellos ya han hecho. Con lo cual me gusta mucho terminar con esta frase, que es comparar un poquito la capacidad con la disponibilidad. Obviamente, no quiere decir que en nuestro club no busquemos que los jugadores estén disponibles. Obviamente lo buscamos, pero lo buscamos mediante otra forma, lo buscamos mediante crear esa capacidad y construir esa capacidad. Con lo cual es distinta la forma con la que buscamos esa disponibilidad.",
+      "keywords": [
+        "capacidad",
+        "disponibilidad",
+        "rol-preparador",
+        "construir",
+        "exprimir",
+        "contextos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Professional Experience",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuál es la principal diferencia filosófica entre el trabajo de club y selección según Arnau Pinà?",
+        "¿Qué significa la frase 'construir capacidad vs disponibilidad' en preparación física?",
+        "¿Cuál es el rol del preparador físico en la selección nacional respecto al trabajo previo de los clubes?"
+      ],
+      "related_terms": [
+        "capacidad",
+        "disponibilidad",
+        "construir",
+        "proteger",
+        "professional experience"
+      ],
+      "relevance_score": 5,
+      "context_before": "En un ciclo corto de 9-10 días (Selección), la carga aguda sube los primeros días, pero la intensidad interna (TRIMP) y externa (movement load) decae drásticamente a 48-72 horas del partido. Se aplica un 'tapering' buscando el pico de frescura o sobrecompensación para rendir óptimamente.",
+      "context_after": "El ponente finaliza el webinar agradeciendo a la organización y dejando su información de contacto."
+    }
+  ]
+}
