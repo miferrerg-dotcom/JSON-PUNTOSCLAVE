@@ -1,0 +1,682 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+    "speaker": "Ander Romarate",
+    "total_duration": "00:47:59",
+    "total_duration_seconds": 2879,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:14",
+      "start_seconds": 1,
+      "end_seconds": 194,
+      "duration_seconds": 193,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "El reto de la complejidad en el alto rendimiento",
+      "summary": "Ander Romarate presenta el objetivo de la clase: diseñar entornos interdisciplinares en el deporte olímpico y paralímpico. Destaca que la suma de especialistas aumenta la información y el potencial, pero también genera mayor complejidad, incongruencias e interfaces.",
+      "literal_quote": "Y si el simple hecho de disponer de más especialistas genera automáticamente un mejor sistema o puede generar también más información, más opiniones, más interfaces y, por tanto, mayor complejidad.",
+      "full_transcript": "Muy buenas a todos. En la clase de hoy os voy a hablar sobre cómo podemos diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos. Antes que nada, soy Ander Romarate, doctor en Ciencias de la Actividad Física y del Deporte. Fui nadador paralímpico y, desde que me retiré de la alta competición, he tenido distintas experiencias profesionales, desempeñando distintos roles: como entrenador, también como fisiólogo y ahora como director de rendimiento. En concreto, soy director técnico de un proyecto que se llama ment4sport y nosotros intentamos, entre otras cosas, ayudar a diseñar sistemas de gobernanza de rendimiento en distintas entidades, como federaciones de distintos deportes y también clubs o equipos de distintas disciplinas, como el ciclismo, baloncesto o fútbol. Tengo la suerte de haber acumulado distintas experiencias en estos años y en la clase de hoy lo que voy a intentar es juntar esta experiencia con la evidencia científica que hay en torno a esta temática, para intentar daros mi punto de vista y hacia dónde creo que va todo esto. Intentar ayudaros también a cómo podemos diseñar o qué aspectos tenemos que tener en cuenta para poder diseñar entornos de rendimiento interdisciplinares que funcionen de forma adecuada, con vistas a garantizar el mejor rendimiento y la salud posible de los deportistas, que a fin de cuentas es nuestro objetivo. Doy por hecho que todos los que estáis viendo esta clase entendéis el valor que puede aportar cualquier área, como la preparación física, fisiología, medicina, nutrición, psicología. Es decir, hay muchísimas áreas y, por tanto, en la clase de hoy no quiero dedicar tiempo a explicar qué hace cada una de estas áreas, es decir, cada uno de estos profesionales que se dedican a estos aspectos concretos. Lo que me preocupa o lo que quiero intentar hacer es realizaros una pregunta diferente. Es decir, ¿qué ocurre cuando juntamos toda esta expertise dentro de un mismo entorno de alto rendimiento? Y si el simple hecho de disponer de más especialistas genera automáticamente un mejor sistema o puede generar también más información, más opiniones, más interfaces y, por tanto, mayor complejidad. Es decir, la idea central de esta clase va a ser precisamente esta: cómo conseguimos nosotros, como profesionales, transformar este conocimiento especializado y complejidad en decisiones claras y coherentes alrededor del deportista, que a fin de cuentas debe ser nuestro principal objetivo.",
+      "keywords": [
+        "alto-rendimiento",
+        "interdisciplinar",
+        "complejidad",
+        "interfaces",
+        "especialistas",
+        "toma-de-decisiones"
+      ],
+      "entities": [
+        "Ander Romarate",
+        "ment4sport"
+      ],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre el reto de la complejidad en el alto rendimiento?",
+        "¿Dónde se habla de el reto de la complejidad en el alto rendimiento?",
+        "¿Cómo afecta el reto de la complejidad en el alto rendimiento a la gestión deportiva?"
+      ],
+      "related_terms": [
+        "el",
+        "reto",
+        "de",
+        "la",
+        "complejidad",
+        "en",
+        "el",
+        "alto",
+        "rendimiento",
+        "staff management",
+        "performance & context"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del webinar.",
+      "context_after": "Se analiza el concepto de que un grupo de expertos no garantiza un equipo experto, abordando el cuello de botella del rendimiento actual."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:03:21",
+      "end_timestamp": "00:06:26",
+      "start_seconds": 201,
+      "end_seconds": 386,
+      "duration_seconds": 185,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=201",
+      "title": "Un equipo de expertos no es un equipo experto",
+      "summary": "El cuello de botella en el alto rendimiento ya no es la falta de conocimiento o tecnología, sino cómo se integra todo para tomar decisiones. Aumentar la especialización multiplica las interacciones que requieren coordinación y confianza.",
+      "literal_quote": "Quizá el problema ya no sea únicamente cuánto sabemos, sino que una parte importante del problema estará en cómo conseguimos integrar todo esto que sabemos para tomar mejores decisiones.",
+      "full_transcript": "Quiero empezar planteándoos una pregunta: ¿dónde creéis que está actualmente uno de los principales cuellos de botella del alto rendimiento? A priori, de primeras podríamos pensar que está, o que puede estar, en la falta de conocimiento. Y evidentemente todavía tenemos muchas preguntas que no tienen respuesta. Tenemos mucho por descubrir, pero en muchos entornos de alto rendimiento que yo he tenido la suerte de poder conocer, el problema empieza a ser un tanto diferente, porque cada vez es verdad que en estos entornos tenemos más especialistas, tenemos también más tecnología. Con esta tecnología podemos registrar más datos, tenemos la posibilidad de monitorizar prácticamente cualquier variable. Es decir, tenemos cada vez más recursos. El tener estos recursos, lo que muchas veces genera es aumentar, de alguna manera, el potencial del sistema. Pero paralelamente también aumentan las interfaces, es decir, las incongruencias. Tenemos más personas, a fin de cuentas, interpretando información, más disciplinas intentando influir sobre las distintas o las mismas decisiones, y más posibilidades de que aparezcan criterios diferentes. Quizá el problema ya no sea únicamente cuánto sabemos, sino que una parte importante del problema estará en cómo conseguimos integrar todo esto que sabemos para tomar mejores decisiones, que a fin de cuentas es nuestro principal objetivo. Esto es muy importante, porque incorporar un nuevo profesional, una nueva tecnología, una nueva fuente de datos, puede mejorar, sin lugar a dudas, el sistema, pero también puede convertirlo en algo más complejo. Esto hay que tenerlo siempre en cuenta. Un equipo de expertos no es igual a un equipo experto. Esto también es importante. Esta frase resume bastante bien el punto de partida de esta clase. Es decir, un equipo de expertos no es necesariamente un equipo experto. Podemos reunir excelentes profesionales y, aun así, conseguir un sistema que funcione de manera mediocre. ¿Esto por qué sucede? Por varias cuestiones. Por una parte, porque a medida que aumenta la especialización, aumenta el conocimiento disponible, pero también aumenta el número de interacciones que tenemos que gestionar en un equipo. Por ejemplo, el fisiólogo cada vez sabe más de fisiología, el médico también cada vez sabe más de medicina, el preparador físico profundiza cada vez más en su área. Y todo esto, sin lugar a dudas, es algo muy positivo. Pero el problema aparece cuando las decisiones de rendimiento necesitan integrar información procedente de varias áreas y a la vez. Ya no basta con la calidad individual o el conocimiento individual. Vamos a necesitar coordinación, confianza, un sistema de procesos y una determinada manera de trabajar juntos, es decir, de operar de manera conjunta.",
+      "keywords": [
+        "cuello-de-botella",
+        "equipo-de-expertos",
+        "integracion",
+        "toma-de-decisiones",
+        "especializacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre por qué un equipo de expertos no es un equipo experto?",
+        "¿Dónde se habla de el problema de la integración de especialistas?",
+        "¿Cómo se aplica la integración del conocimiento en la toma de decisiones?"
+      ],
+      "related_terms": [
+        "equipo",
+        "de",
+        "expertos",
+        "integración",
+        "toma",
+        "de",
+        "decisiones",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ander Romarate presenta el objetivo de la clase: diseñar entornos interdisciplinares en el deporte olímpico y paralímpico. Destaca que la suma de especialistas aumenta la información y el potencial, pero también genera mayor complejidad, incongruencias e interfaces.",
+      "context_after": "El análisis se amplía para abarcar no solo al deportista y los especialistas, sino el sistema de gobernanza de rendimiento en su totalidad."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:06:26",
+      "end_timestamp": "00:10:00",
+      "start_seconds": 386,
+      "end_seconds": 600,
+      "duration_seconds": 214,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=386",
+      "title": "La ecuación del rendimiento y el ecosistema del deportista",
+      "summary": "Para transformar la expertise en inteligencia colectiva, hay que observar el sistema de gobernanza de rendimiento. El rendimiento es resultado de la interacción de la capacidad del deportista, su preparación, decisiones y el entorno; factores inconexos pueden mermar un excelente estado físico.",
+      "literal_quote": "Podemos optimizar muchos componentes de forma independiente y, aun así, no optimizar el resultado global.",
+      "full_transcript": "Así que la pregunta que va a guiar toda esta sesión va a ser muy sencilla. De alguna manera: ¿cómo conseguimos convertir la expertise individual en inteligencia colectiva? Y para responder a esta pregunta tenemos que ampliar nuestra unidad de análisis. No podemos mirar únicamente al deportista ni únicamente a los especialistas. Tenemos que mirar al sistema de gobernanza, es decir, al sistema de gobernanza de rendimiento. Esto va a ser la pieza clave de todo esto. Los deportistas de elite no rinden en el vacío. Esto es algo también que tenemos que tener en cuenta. Aunque muchas veces analizamos el rendimiento desde la perspectiva de variables individuales, es decir, la fuerza, la capacidad aeróbica del deportista, composición corporal, técnica, tolerancia que tiene a la carga, el deportista está permanentemente interactuando con un entorno. Y esto es algo que muchas veces olvidamos. En la capa más cercana, por ejemplo, tenemos al entrenador y a los profesionales de apoyo al rendimiento y a la salud que tiene el deportista. Pero alrededor de esta capa también aparecen los procesos, es decir, cómo planificamos, qué datos recogemos, cómo nos comunicamos y cómo tomamos también las decisiones. Y todavía existe otra capa más amplia: la cultura de la organización, los recursos que tenemos disponibles, las instalaciones, el calendario deportivo y también el contexto en el que se desarrolla el deportista. Por eso, cuando hablamos de un entorno de alto rendimiento, no estamos hablando simplemente del lugar en el que el deportista entrena. Estamos hablando de un sistema social, técnico y organizativo, que puede facilitar o limitar también para prepararse y competir. Esto cambia nuestra forma de intervenir con el deportista, porque a veces, para mejorar el rendimiento de un deportista, la intervención no tiene que producirse directamente sobre él. Esto es algo que tenemos que tener en cuenta, ya que a veces tenemos que intervenir sobre el sistema que el deportista tiene alrededor. Como veis, es una perspectiva mucho más amplia. Algo que tenemos que tener claro es que esta ecuación no pretende ser una ecuación matemática. Esto es imposible. Es simplemente una forma que tenemos de representar una idea. Podemos entender el rendimiento como el resultado de la interacción entre la capacidad del deportista Su preparación, su disponibilidad, la calidad de las decisiones que se toman y del entorno. Pero la palabra importante en todo esto es la interpretación. Podemos optimizar muchos componentes de forma independiente y, aun así, no optimizar el resultado global. Por ejemplo, imaginemos que un deportista está perfectamente preparado desde un punto de vista fisiológico. Puede haber completado un gran bloque de entrenamiento, estar sano, llegar a la competición con todos los capis que nos hemos marcado perfectos, pero después puede tener un viaje mal organizado, dormir poco, recibir mensajes contradictorios desde distintos miembros del staff y encontrarse con un problema con el material que no se ha solucionado a tiempo para la prueba. Es decir, la condición física del deportista no ha cambiado, es muy buena, pero se ha cambiado su capacidad real de expresar el rendimiento. Por eso, cuando pensamos en alto rendimiento, tenemos que ir más allá de optimizar componentes. También tenemos que optimizar las interacciones entre estos componentes.",
+      "keywords": [
+        "sistema-de-gobernanza",
+        "inteligencia-colectiva",
+        "ecuacion-del-rendimiento",
+        "entorno",
+        "interacciones"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre la ecuación del rendimiento y el ecosistema del deportista?",
+        "¿Dónde se habla de la importancia del entorno en el rendimiento deportivo?",
+        "¿Cómo afectan las interacciones y el sistema de gobernanza al estado físico del deportista?"
+      ],
+      "related_terms": [
+        "sistema",
+        "gobernanza",
+        "rendimiento",
+        "entorno",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "El cuello de botella en el alto rendimiento ya no es la falta de conocimiento o tecnología, sino cómo se integra todo para tomar decisiones. Aumentar la especialización multiplica las interacciones que requieren coordinación y confianza.",
+      "context_after": "Se abordan las 'interfaces' como las fronteras invisibles entre departamentos, dando paso a los tipos de colaboración (multidisciplinar, interdisciplinar)."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:10:01",
+      "end_timestamp": "00:14:50",
+      "start_seconds": 601,
+      "end_seconds": 890,
+      "duration_seconds": 289,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=601",
+      "title": "Las interfaces y el coste de la interdisciplinariedad",
+      "summary": "Los problemas de rendimiento no respetan las fronteras departamentales. Existen modelos multi, inter y transdisciplinares, pero integrar áreas conlleva un costo de tiempo y recursos. La clave es adecuar el nivel de colaboración a la complejidad del problema.",
+      "literal_quote": "El objetivo no debería ser maximizar la colaboración, sino utilizar la cantidad adecuada de colaboración para la complejidad del problema que tenemos delante.",
+      "full_transcript": "Y aquí aparece una idea que voy a utilizar varias veces durante la clase: las interfaces. Muchos problemas de rendimiento no respetan las fronteras de los departamentos. Es decir, un entorno a la dinámica de equipo después de una lesión no pertenece exclusivamente al médico, al fisioterapeuta o al preparador físico. La prescripción del entrenamiento puede exigir integrar el criterio del entrenador con información fisiológica. La preparación nutricional también puede depender directamente de la logística del desplazamiento. Podemos tener profesionales que hagan bien su trabajo dentro de su parcela y, sin embargo, pueden fallar en la decisión global, porque la decisión vive en una interfaz. Cuantos más problemas atraviesan fronteras disciplinares, mayor es la necesidad que tenemos de coordinarnos entre nosotros. Y esto nos lleva a la siguiente cuestión: si el problema es compartido, ¿cómo deberíamos colaborar los distintos especialistas que trabajamos en torno al deportista? Aquí podemos diferenciar de forma muy sencilla tres maneras de trabajar, que seguro que muchos habéis oído hablar de dos de ellas. La primera es el modelo multidisciplinar. En este modelo, diferentes expertos aportan desde su respectiva disciplina. Puede haber una coordinación, pero cada uno mantiene claramente su parcela. Se mueve desde su parcela. En un modelo interdisciplinar, que hoy en día se comenta mucho, aumenta la integración entre las distintas disciplinas. Los profesionales no solamente aportan información, sino que comparten la interpretación y participan conjuntamente en la toma de determinadas decisiones. Y últimamente se están desarrollando modelos a los que llamamos transdisciplinares, que encontramos todavía una mayor permeabilidad entre las distintas disciplinas y una mayor presencia de principios y lenguajes compartidos. Esto es superimportante. ... [Salto en la transcripción] ... cuenta. Nos deberíamos hacer una pregunta antes de elegir qué modelo es el que mejor nos encaja. Es decir, ¿qué nivel de colaboración exige el problema que tenemos en este momento? Porque algunos problemas pueden resolverse perfectamente dentro de una única disciplina, mientras que otros son extremadamente interdependientes. La calidad del sistema está en saber distinguirlos, y es superimportante que nosotros tengamos 100 % claro para funcionar de la forma más eficiente y efectiva posible. Para poder entender esto, pensemos en dos situaciones que pueden ser diferentes. En un extremo, podríamos tener una pauta relativamente sencilla, por ejemplo, de suplementación. En esta decisión es muy probable que el nutricionista tenga un liderazgo muy claro y no tenga la necesidad de integrar muchas otras áreas en esta decisión. Pero ahora vamos a pensar, por ejemplo, que tenemos un deportista lesionado que tiene una competición muy importante en pocos días. Aquí la situación cambia completamente, ya que vamos a necesitar integrar información médica, de fisioterapia, también de preparación física, percepción del propio deportista y, cómo no, el contexto competitivo. La interdependencia es mucho mayor y, por tanto, también debería ser la integración. Pero esto tiene otra lectura también interesante: la interdisciplinariedad tiene un coste. Cuando nosotros aplicamos interdisciplinariedad, estamos asumiendo un coste. Consume tiempo, requiere comunicación y también puede entorpecer algunas decisiones. Así que reunir a todo el equipo para solucionar cualquier pequeño problema que sucede tampoco es una buena forma de trabajar en muchos casos. Por tanto, el objetivo no debería ser maximizar la colaboración, sino utilizar la cantidad adecuada de colaboración para la complejidad del problema que tenemos delante.",
+      "keywords": [
+        "interfaces",
+        "multidisciplinar",
+        "interdisciplinar",
+        "transdisciplinar",
+        "coste-de-colaboracion",
+        "interdependencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre las interfaces y el coste de la interdisciplinariedad?",
+        "¿Dónde se habla de los modelos multidisciplinar, interdisciplinar y transdisciplinar?",
+        "¿Por qué no siempre es bueno maximizar la colaboración en un staff?"
+      ],
+      "related_terms": [
+        "interfaces",
+        "colaboración",
+        "interdisciplinar",
+        "staff management",
+        "comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para transformar la expertise en inteligencia colectiva, hay que observar el sistema de gobernanza de rendimiento. El rendimiento es resultado de la interacción de la capacidad del deportista, su preparación, decisiones y el entorno; factores inconexos pueden mermar un excelente estado físico.",
+      "context_after": "Se identifican las cuatro grandes áreas que determinan la efectividad de un equipo de expertos (estructura, miembros, modelo mental y capital social)."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:14:50",
+      "end_timestamp": "00:17:26",
+      "start_seconds": 890,
+      "end_seconds": 1046,
+      "duration_seconds": 156,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=890",
+      "title": "El sistema operativo de los equipos de rendimiento",
+      "summary": "Un equipo efectivo necesita cuatro áreas: estructura, características de los miembros, modelo mental compartido y capital social. El sistema empieza con la pregunta esencial sobre qué problema de rendimiento se intenta resolver.",
+      "literal_quote": "Contratar talento es necesario, sin lugar a dudas, pero conseguir que ese talento funcione como un sistema es un problema completamente diferente.",
+      "full_transcript": "Entonces, ¿qué conviene realmente a un conjunto de expertos en un equipo efectivo? Que a fin de cuentas es lo que queremos. Podemos identificar cuatro grandes áreas. La primera de ellas es la estructura del equipo: quién forma parte, cómo se organiza y cómo se lidera. La segunda tiene que ver con las características de sus miembros. Evidentemente, necesitamos competencia técnica, es decir, buenos técnicos, pero también capacidad de adaptación, apertura, es decir, que sean de mente abierta y humildad profesional, que este es un valor que cada vez valoro más. La tercera es disponer de un modelo mental que sea compartido. Es decir, que las personas comprendan cuáles son los objetivos, cuál es su rol y en qué contexto están tomando las decisiones. Y la cuarta y la última tiene que ver con el capital social, es decir, la confianza, respeto, cohesión y comunicación. Y también me gustaría destacar algo, ya que solo una parte de este modelo depende directamente de cuánto sabe cada especialista. Buena parte de la efectividad del equipo depende de cómo nos organizamos, de cómo nos conectamos y utilizamos, sobre todo, ese conocimiento. Contratar talento es necesario, sin lugar a dudas, pero conseguir que ese talento funcione como un sistema es un problema completamente diferente. Esta es probablemente una de las diapositivas más importantes de toda la clase, porque hasta ahora podemos estar de acuerdo en que necesitamos confianza, comunicación, cultura, roles claros, pero si nos quedamos ahí, corremos el riesgo de quedarnos en conceptos muy generales. Por eso, a mí en concreto me gusta pensar que un performance support team necesita una especie de sistema operativo. Y ese sistema empieza siempre con una pregunta: ¿cuál es el problema de rendimiento que nosotros estamos intentando solucionar? Esta pregunta nos la deberíamos hacer constantemente, ya que a partir de aquí tenemos que definir qué aporta cada profesional que tenemos en el equipo. Después, qué información necesitamos compartir y, a continuación, algo muy importante: quién tiene derecho a recomendar y quién tiene la responsabilidad para tomar la decisión. Y finalmente necesitamos cerrar el ciclo y revisar.",
+      "keywords": [
+        "sistema-operativo",
+        "estructura-del-equipo",
+        "modelo-mental",
+        "capital-social",
+        "problema-de-rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre el sistema operativo de los equipos de rendimiento?",
+        "¿Dónde se detallan las cuatro grandes áreas de un equipo efectivo?",
+        "¿Cómo funciona el capital social y el modelo mental en el staff deportivo?"
+      ],
+      "related_terms": [
+        "sistema",
+        "operativo",
+        "modelo",
+        "mental",
+        "capital",
+        "social",
+        "staff management"
+      ],
+      "relevance_score": 4,
+      "context_before": "Los problemas de rendimiento no respetan las fronteras departamentales. Existen modelos multi, inter y transdisciplinares, pero integrar áreas conlleva un costo de tiempo y recursos. La clave es adecuar el nivel de colaboración a la complejidad del problema.",
+      "context_after": "Se detallan los 'derechos de decisión' y cómo evitar que el deportista deba integrar los desacuerdos del cuerpo técnico."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:17:26",
+      "end_timestamp": "00:21:09",
+      "start_seconds": 1046,
+      "end_seconds": 1269,
+      "duration_seconds": 223,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1046",
+      "title": "Derechos de decisión y el sistema centrado en el deportista",
+      "summary": "Para evitar conflictos, el proceso debe aclarar quién informa, interpreta, recomienda, decide, comunica y cuándo se revisa. Un mal proceso convierte al deportista en el 'director de integración' de los desacuerdos del staff.",
+      "literal_quote": "Nosotros estamos obligando, en cierta manera, al deportista a que él integre nuestros desacuerdos. Casi lo hemos convertido, sin querer, en el director de integración del departamento de rendimiento.",
+      "full_transcript": "Es decir, si la decisión ha funcionado, si hemos conseguido lo que buscábamos y qué hemos aprendido. Fijaos en que aquí la cultura, roles y también la comunicación dejan de ser conceptos abstractos y empiezan a formar parte de una forma concreta y común de trabajar. Porque un equipo interdisciplinar no debería simplemente comunicarse mucho. Deberíamos tener un proceso para transformar problemas en decisiones y decisiones también en aprendizajes. Dentro de ese sistema operativo, hay una cuestión especialmente importante: los derechos de decisión, que lo he comentado en la diapositiva anterior. Cuando aparece una decisión compleja, conviene diferenciar varias cosas. Por un lado, quién informa, es decir, quién dispone de información relevante para construir la situación que tenemos por delante. Por otro lado, estaría quién interpreta, quién aporta contexto y ayuda a explicar qué puede significar esa información. Después, estaría el quién recomienda, quién formula una propuesta, un plan de acción, de actuación. Luego estaría quién decide, es decir, quién tiene finalmente la responsabilidad o el poder de tomar la decisión. Y luego también, quién comunica esa decisión al deportista, que también es un aspecto muy importante y muchas veces nos olvidamos. Y finalmente, cuándo vamos a revisar esta decisión. Esto puede parecer algo muy estructurado, pero evita una gran cantidad de conflictos que en la mayoría de las estructuras aparecen. Porque decir que cada uno tiene su rol es algo insuficiente. En una decisión importante necesitamos ver cómo se traduce ese rol dentro del proceso, especialmente cuando diferentes profesionales pueden tener prioridades que legítimamente son distintas. Y cuando este proceso no está bien diseñado, ocurre algo que se da o que sucede bastante frecuentemente. Decimos que tenemos un modelo centrado en el deportista, pero muchas veces sucede que el médico nos dice una cosa, el preparador físico le dice otra al deportista, el entrenador tiene otra prioridad que es distinta a la nuestra, el fisioterapeuta le transmite un mensaje diferente y al final el deportista piensa: «Vale, entonces, ¿yo qué hago con toda esta información?». En ese momento, lo que nosotros no tenemos es un sistema centrado en el deportista. Lo que tenemos es un sistema que agobia al deportista. Y esto es algo también que tenemos que tener en cuenta. Nosotros estamos obligando, en cierta manera, al deportista a que él integre nuestros desacuerdos. Casi lo hemos convertido, sin querer, en el director de integración del departamento de rendimiento. Y esto es importante y no debe suceder. Poner al deportista en el centro significa que su información, sus objetivos, sus valores y preferencias forman parte de la decisión. No significa que él tenga que gestionar por sí mismo la falta de coordinación que se da entre los distintos profesionales que integran el staff. El sistema que nosotros montamos tiene que hacer ese trabajo, no tiene que ser el deportista quien lo haga. El deportista lo que debería hacer es recibir una dirección totalmente clara, aunque detrás de esa dirección haya habido una conversación que, lógicamente, en muchos casos va a ser muy compleja. Pero lo que reciba el deportista tiene que ser una dirección 100 % clara y nosotros tenemos que elaborar un sistema que trabaje en eso.",
+      "keywords": [
+        "derechos-de-decision",
+        "conflictos",
+        "deportista-en-el-centro",
+        "coordinacion",
+        "director-de-integracion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre los derechos de decisión y el sistema centrado en el deportista?",
+        "¿Dónde se habla de evitar que el deportista integre los desacuerdos del staff?",
+        "¿Cómo se definen los roles en la toma de decisiones complejas en el deporte?"
+      ],
+      "related_terms": [
+        "derechos",
+        "de",
+        "decisión",
+        "roles",
+        "staff",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Un equipo efectivo necesita cuatro áreas: estructura, características de los miembros, modelo mental compartido y capital social. El sistema empieza con la pregunta esencial sobre qué problema de rendimiento se intenta resolver.",
+      "context_after": "Se transita de la gestión de personas al tratamiento de la información, criticando la recolección de datos sin preguntas previas."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:21:11",
+      "end_timestamp": "00:23:56",
+      "start_seconds": 1271,
+      "end_seconds": 1436,
+      "duration_seconds": 165,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1271",
+      "title": "Del dato a la decisión (El ciclo de Performance Science)",
+      "summary": "Un dashboard no es una decisión; los datos no deciden, informan. El proceso debe invertirse: empezar por la pregunta de rendimiento, recoger datos, aplicar contexto, interpretar de forma interdisciplinar, decidir y revisar.",
+      "literal_quote": "El dato informa a una decisión contextualizada, pero nunca va a decidir el dato.",
+      "full_transcript": "Hasta ahora hemos hablado principalmente de personas. Ahora tenemos que hablar de información. La tecnología nos da una capacidad enorme para medir. Podemos describir, comparar, detectar cambios e incluso predecir determinados resultados, y cada vez con mayor precisión. Pero hay una frase que creo que resume muy bien este bloque, y la indico aquí: que el dashboard no es una decisión. El hecho de que un dato exista no significa que sepamos qué hacer con él. Y esto cada vez se ve más. Uno de los riesgos actuales del performance science es organizar nuestro trabajo alrededor de aquello que podemos medir. Tenemos una herramienta y entonces buscamos qué podemos hacer con ella. Pero yo lo que propondría es invertir el proceso. Es decir, antes de medir deberíamos de preguntarnos qué decisión estamos intentando nosotros mejorar y solamente después preguntarnos qué información necesitamos para tomar la mejor decisión posible. Es decir, el performance science debería comenzar con una pregunta de rendimiento y no con un sensor, que muchas veces empezamos así. Si seguimos esa lógica, podemos representar el trabajo como un ciclo. Primero deberíamos de definir una pregunta de rendimiento. ¿Qué estamos intentando nosotros entender? Después, deberíamos de recoger la información que consideramos que es relevante para responder a esa pregunta. Pero a continuación, aparece probablemente el elemento más importante de este proceso, que es el contexto. Es decir, qué significa ese dato para este deportista en este momento y dentro de este problema. Después, aparece la interpretación interdisciplinar. Es decir, qué otras perspectivas necesitamos para comprender correctamente lo que está ocurriendo. Y con toda esta información, nosotros vamos a tomar una decisión, y la decisión va a generar una acción que finalmente debemos de revisar. Es decir, ¿ha ocurrido lo que nosotros esperábamos? ¿Tenemos que ajustar algo? ¿Ha aparecido, por ejemplo, alguna nueva pregunta? Por eso este proceso tiene que ser un proceso circular y no un proceso lineal o en línea recta. Y aquí sí que quiero insistir en algo: que el mismo dato pueda llevar a decisiones diferentes dependiendo del deportista, el momento de la temporada, el riesgo asumible o la relevancia también que tiene la competición es algo intangible. Es decir, el dato nunca va a decidir. El dato informa a una decisión contextualizada, pero nunca va a decidir el dato. Y esto es algo que tenemos que tener en mente.",
+      "keywords": [
+        "dashboard",
+        "performance-science",
+        "datos",
+        "contexto",
+        "decisiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Data Science",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre del dato a la decisión (el ciclo de performance science)?",
+        "¿Dónde se habla de que el dashboard no es una decisión?",
+        "¿Cómo se debe estructurar el proceso científico en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "dashboard",
+        "performance science",
+        "datos",
+        "toma de decisiones",
+        "análisis de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Para evitar conflictos, el proceso debe aclarar quién informa, interpreta, recomienda, decide, comunica y cuándo se revisa. Un mal proceso convierte al deportista en el 'director de integración' de los desacuerdos del staff.",
+      "context_after": "Se aplica este marco de decisiones compartidas al conflicto recurrente entre las áreas de salud (lesiones) y rendimiento."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:23:58",
+      "end_timestamp": "00:27:00",
+      "start_seconds": 1438,
+      "end_seconds": 1620,
+      "duration_seconds": 182,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1438",
+      "title": "Decisiones compartidas entre Salud y Rendimiento",
+      "summary": "Las fronteras entre salud y rendimiento son difusas. En casos de lesión pre-competición, se debe equilibrar el riesgo médico, los objetivos de rendimiento, la disponibilidad del atleta y su propia perspectiva en una decisión conjunta.",
+      "literal_quote": "La decisión no pertenece exclusivamente al área de salud ni exclusivamente al área de rendimiento. Necesitamos tomar nosotros una decisión compartida como equipo de trabajo.",
+      "full_transcript": "Un buen ejemplo de esta necesidad de integración aparece cuando hablamos de salud y rendimiento en el entorno del deportista. Durante mucho tiempo hemos podido trabajar como si existiera, por un lado, un sistema médico en el área médica y, por otro, un sistema de rendimiento en el área de rendimiento. Pero en la práctica las fronteras son mucho menos claras entre estas áreas. Cuando un deportista tiene un problema de salud o una lesión, tenemos que integrar varias preguntas. Desde rendimiento podemos preguntarnos qué ganamos si entrena o compite, por ejemplo. Y desde la salud tenemos que valorar qué riesgos estamos asumiendo con el deportista. Y el deportista también tiene que participar, es decir, tiene que decir qué quiere, qué entiende de la situación y qué nivel de riesgo está dispuesto a asumir. Y todo esto está condicionado por, lógicamente, el calendario competitivo, el pronóstico, también la carga acumulada y las consecuencias que tiene esto a medio y largo plazo. Por tanto, la decisión no pertenece exclusivamente al área de salud ni exclusivamente al área de rendimiento. Necesitamos tomar nosotros una decisión compartida como equipo de trabajo. Y además, debemos recordar que la disponibilidad es en sí misma una variable también del propio rendimiento. Entonces, no sirve de mucho maximizar una adaptación de entrenamiento si el coste es no poder competir cuando realmente importa. Os voy a dar un ejemplo. Tenemos un deportista a 12 días de una competición que es prioritaria dentro de nuestro calendario competitivo. El dolor de este deportista está aumentando, ha acumulado una carga muy elevada, no se ha identificado una lesión estructural importante, su rendimiento está evolucionando muy bien. El entrenador quiere mantener el estímulo porque considera que está en un momento clave de la preparación y el deportista, además, quiere competir. Y el equipo médico empieza a considerar que el riesgo, sin embargo, está aumentando. Entonces, la pregunta más sencilla que nos deberíamos hacer, lógicamente, el equipo de rendimiento es si compite o no compite. Pero esa no es la pregunta que nos interesa. Lo que quiero que pensemos es: ¿qué información nos falta? ¿Quién necesita participar en esta conversación? ¿Quién debería hacer una recomendación? ¿Quién tiene la responsabilidad final para decidir? ¿Y cuándo vamos a revisar esa decisión? Que es un poco lo que hemos estado viendo en las diapositivas anteriores. Y algo que tenemos que tener en cuenta también es que no va a existir una respuesta universal. Y ese es precisamente el punto más importante, ya que lo que tenemos que diseñar no es una respuesta para cualquier escenario. Necesitamos diseñar un buen proceso para responder cuando aparezca la incertidumbre.",
+      "keywords": [
+        "salud",
+        "rendimiento",
+        "lesion",
+        "disponibilidad",
+        "decision-compartida"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Lesiones",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre las decisiones compartidas entre Salud y Rendimiento?",
+        "¿Dónde se da un ejemplo de gestión de lesión previo a competición?",
+        "¿Cómo se balancea el riesgo médico y la adaptación al entrenamiento (Return to Play)?"
+      ],
+      "related_terms": [
+        "salud",
+        "rendimiento",
+        "lesión",
+        "toma de decisiones",
+        "return to play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Un dashboard no es una decisión; los datos no deciden, informan. El proceso debe invertirse: empezar por la pregunta de rendimiento, recoger datos, aplicar contexto, interpretar de forma interdisciplinar, decidir y revisar.",
+      "context_after": "La necesidad de gestionar la complejidad de estas áreas compartidas introduce la figura central del Director de Rendimiento."
+    },
+    {
+      "id": "V01-009",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:27:25",
+      "end_timestamp": "00:32:23",
+      "start_seconds": 1645,
+      "end_seconds": 1943,
+      "duration_seconds": 298,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1645",
+      "title": "El rol del Performance Director (Director de Rendimiento)",
+      "summary": "Ante el aumento de interdependencias, surge el Director de Rendimiento. Su labor no es reemplazar a los especialistas, sino orquestar el sistema, traducir información, gestionar desacuerdos, y proteger la claridad y alineación del equipo.",
+      "literal_quote": "Su trabajo no es tener todas las respuestas, su trabajo es conseguir que el sistema se haga mejores preguntas.",
+      "full_transcript": "Y una vez que empezamos a diseñar estos procesos, aparece inevitablemente otra pregunta: ¿quién protege el funcionamiento del sistema cuando la complejidad aumenta? Que va, sin lugar a dudas, a aumentar. Aquí es donde aparece el liderazgo de rendimiento. No quiero introducir la figura del director de rendimiento simplemente porque sea un puesto que exista actualmente en muchas organizaciones y seguro que muchos de vosotros cada vez estáis viendo más figuras de directores de rendimiento en muchas estructuras. Quiero llegar a esta figura como una consecuencia lógica. Si estas figuras se están poniendo en muchas organizaciones, será por algo. Quiero de alguna manera que entendáis el porqué. Antes hemos visto que tenemos cada vez más expertise, y esto va a generar más interfaces. Más interfaces generan también más interdependencia. Y cuanto mayor es la interdependencia, mayor es nuestra necesidad de coordinación y colaboración. Por tanto, sin lugar a dudas, alguien tiene que asumir la responsabilidad sobre el funcionamiento de esas interfaces. Y el liderazgo de rendimiento, por tanto, no es una nueva disciplina científica, es fundamentalmente la orquestación, la coordinación de disciplinas diferentes alrededor de problemas compartidos, como hemos visto en los ejemplos anteriores. Y esa es la función que empieza a justificar la aparición de un performance director o un director de rendimiento en estas organizaciones. Y por eso cada vez es probable que veamos más figuras de este tipo. Entonces, ¿qué debería hacer un director de rendimiento en una entidad? Para mí, su principal función es integrar el sistema. Es decir, tiene que alinear al equipo alrededor de una dirección compartida. Tiene que priorizar, porque en el alto rendimiento siempre hay más problemas potenciales que capacidad para atenderlos todos simultáneamente. Eso seguro que muchos de vosotros lo habéis vivido. Tiene que conectar también profesionales y evitar que aparezcan silos innecesarios. Tiene que traducir ciencia a la práctica, traducir necesidades del entrenador al equipo científico, traducir información compleja en mensajes que sean comprensibles y accionables. También tiene que desafiar al sistema para evitar pensamientos de grupo, tiene que gestionar los desacuerdos que vayan a suceder y, especialmente, tiene que proteger la claridad. Claridad para los profesionales y claridad también para el deportista, que como he dicho antes, tiene que ser el eje central. Pero aquí quiero también remarcar algo. No estoy describiendo a una persona que está por encima de todos los especialistas porque sabe más que ellos. Esto debería ser todo lo contrario, ya que el valor del performance director aparece precisamente porque no sustituye al expertise especializado, es decir, al responsable de cada departamento. Lo que el performance director consigue es que esa expertise se conecte y tenga un impacto directo en el deportista, aumentando su rendimiento y garantizando una correcta salud. Y esto exige un perfil que realmente es bastante particular. Primero, pensamiento sistémico. Es decir, tiene que ser capaz de ver relaciones y no solamente departamentos o áreas. Comprender también cómo una decisión que parece pequeña, puede generar consecuencias en otras áreas. Segundo, tiene que tener juicio. Es decir, en alto rendimiento, muchas decisiones se toman con información que es incompleta. Y esto es así. Por tanto, necesitamos personas capaces de tomar decisiones bajo incertidumbre. Tercero, inteligencia relacional. Es decir, gran parte del trabajo del performance director consiste en construir confianza, gestionar diferencias entre profesionales y conseguir que estos profesionales, con mucho conocimiento y convicciones fuertes y ego, puedan trabajar juntos. Cuarto, antes he mencionado capacidad de traducción. Es decir, no basta con comprender un concepto técnico. Hay que conseguir convertirlo en una acción que tenga sentido para un entrenador o un deportista, que lo entienda cualquiera. Quinto, claridad estratégica. Tenemos que concretar las decisiones del día a día con aquello que queremos conseguir dentro de meses o años, es decir, a medio y largo plazo, que esto es muy importante. Y ya para terminar, tiene que tener adaptabilidad y, sin lugar a dudas, humildad. Un buen director de rendimiento tiene que saber cuándo liderar, cuándo escuchar, cuándo hacer una pregunta y cuándo cambiar también, por qué no, de opinión. Por eso me gusta cerrar esta diapositiva con esta idea. Es decir, su trabajo no es tener todas las respuestas, su trabajo es conseguir que el sistema se haga mejores preguntas. Y hasta aquí, prácticamente todo lo que hemos visto podría aplicarse en cualquier entorno de alto rendimiento, cualquier entidad, cualquier modalidad deportiva.",
+      "keywords": [
+        "director-de-rendimiento",
+        "liderazgo",
+        "interfaces",
+        "orquestacion",
+        "traduccion",
+        "humildad"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre el rol del performance director (director de rendimiento)?",
+        "¿Dónde se habla de las habilidades y tareas del líder de rendimiento?",
+        "¿Cómo funciona la figura del director técnico integrador de áreas deportivas?"
+      ],
+      "related_terms": [
+        "performance director",
+        "director de rendimiento",
+        "staff management",
+        "liderazgo",
+        "toma de decisiones"
+      ],
+      "relevance_score": 5,
+      "context_before": "Las fronteras entre salud y rendimiento son difusas. En casos de lesión pre-competición, se debe equilibrar el riesgo médico, los objetivos de rendimiento, la disponibilidad del atleta y su propia perspectiva en una decisión conjunta.",
+      "context_after": "Se aplica todo el modelo general de rendimiento estructurado hasta ahora al contexto específico de mayor estrés: el deporte paralímpico."
+    },
+    {
+      "id": "V01-010",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:32:28",
+      "end_timestamp": "00:37:06",
+      "start_seconds": 1948,
+      "end_seconds": 2226,
+      "duration_seconds": 278,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1948",
+      "title": "El deporte paralímpico como test de estrés del sistema",
+      "summary": "El deporte paralímpico comparte principios con el olímpico, pero introduce alta heterogeneidad y restricciones en 5 dominios: fisiología, salud, deporte, entorno y persona. Esto pone a prueba la robustez del sistema de rendimiento.",
+      "literal_quote": "Si el sistema solo funciona cuando el contexto es estándar, es ideal, probablemente no esté tan bien diseñado como pensamos.",
+      "full_transcript": "Pero ahora quiero poner este modelo un poco bajo estrés. Hasta este momento apenas se ha hablado específicamente de deporte paralímpico. Y ha sido algo deliberado, porque los principios fundamentales que hemos presentado en las diapositivas anteriores no son principios que únicamente se aplican a deportes olímpicos. Son principios de alto rendimiento. Pero ahora nos tenemos que hacer otra pregunta: ¿qué ocurre cuando aumentamos significativamente la heterogeneidad y las restricciones contextuales? ¿Qué ocurre cuando variables relacionadas con fisiología, salud, clasificación, equipamiento, accesibilidad o logística empiezan a tener un peso especialmente relevante en determinadas decisiones? Ahí el deporte paralímpico se convierte en un excelente test de estrés de nuestro modelo, el modelo que hemos ido comentando. Si el sistema solo funciona cuando el contexto es estándar, es ideal, probablemente no esté tan bien diseñado como pensamos. Entonces, vamos a intentar ver ahora qué ocurre cuando aumentamos la complejidad del modelo. Lo primero que quiero dejar claro es que el deporte paralímpico es deporte de alto rendimiento. Por tanto, la lógica fundamental es 100 % compartida con el deporte olímpico. Es decir, hay entrenamiento, hay gestión de cargas, hay recuperación, existe una planificación, hay competición, hay presión por el resultado, hay análisis de datos, decisiones de salud y también soporte interdisciplinar. Por tanto, no deberíamos comenzar la conversación desde todo aquello que es diferente. Deberíamos de empezar por reconocer lo que tienen en común. Ahora bien, compartir principios no significa que debamos utilizar exactamente el mismo diseño a la hora de generar el sistema, como indico ahí. El objetivo competitivo, lógicamente, puede ser el mismo, es decir, la exigencia puede ser máxima en ambos entornos, pero las restricciones que condicionan cómo nos organizamos, cómo organizamos la preparación, pueden ser diferentes. Y son precisamente esas restricciones las que necesitamos entender bien. Para ordenarlas, podemos pensar en cinco grandes dominios. Esto lo hemos visto ahí otra clase no específica de deporte paralímpico, entonces también hay algunos conceptos que se repiten, pero que creo que es importante mencionarlos. Como decía, hay cinco grandes dominios. El primero de ellos es la fisiología. Dependiendo del impairment o de la discapacidad, podemos encontrar respuestas específicas al ejercicio, perfiles de fatiga diferentes o consideraciones particulares, por ejemplo, como vimos en estas clases específicas sobre la termorregulación. El segundo dominio es la salud. Es decir, pueden existir condiciones secundarias, dolor, efectos de una determinada medicación u otras variables que necesitamos integrar dentro de la planificación. El tercero, sin lugar a dudas, es el propio deporte. Aquí aparecen entornos como la clasificación, equipamiento y también determinadas adaptaciones técnicas, que se dan tanto en equipamiento como a la hora de realizar gestos técnicos. El cuarto es el entorno, es decir, la accesibilidad que tiene el deportista a las instalaciones, los desplazamientos, las propias instalaciones, la logística. Y la quinta y la última es la persona. Es decir, el nivel de autonomía que tiene la persona, las necesidades de cuidado personal o la participación que muchas veces es necesaria por parte de la familia, los cuidadores, asistentes o guías. Esto dependerá lógicamente del deportista y del contexto. Pero sí que me gustaría remarcar especialmente la frase que aparece en la diapositiva. No todas estas restricciones afectan de la misma manera a todos los atletas o deportistas. Probablemente, una de las características fundamentales del deporte paralímpico sea precisamente esta que comentaba antes: la gran heterogeneidad que nos encontramos.",
+      "keywords": [
+        "deporte-paralimpico",
+        "heterogeneidad",
+        "restricciones",
+        "dominios",
+        "test-de-estres"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre el deporte paralímpico como test de estrés del sistema?",
+        "¿Cuáles son los 5 dominios restrictivos en el deporte paralímpico?",
+        "¿Por qué el paralimpismo eleva la complejidad de la organización de rendimiento?"
+      ],
+      "related_terms": [
+        "deporte",
+        "paralímpico",
+        "heterogeneidad",
+        "contexto",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ante el aumento de interdependencias, surge el Director de Rendimiento. Su labor no es reemplazar a los especialistas, sino orquestar el sistema, traducir información, gestionar desacuerdos, y proteger la claridad y alineación del equipo.",
+      "context_after": "A partir de la heterogeneidad mencionada, se examina cómo afecta esto específicamente a la toma y análisis de datos en el rendimiento paralímpico."
+    },
+    {
+      "id": "V01-011",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:37:06",
+      "end_timestamp": "00:40:48",
+      "start_seconds": 2226,
+      "end_seconds": 2448,
+      "duration_seconds": 222,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2226",
+      "title": "Contextualización de métricas en contextos heterogéneos",
+      "summary": "La heterogeneidad en el deporte paralímpico obliga a contextualizar fuertemente las métricas antes de aplicar benchmarks. Por ejemplo, la frecuencia cardíaca o la respuesta térmica pueden variar drásticamente debido a la discapacidad, exigiendo una interpretación interdisciplinar.",
+      "literal_quote": "Lo que estoy diciendo es que necesitamos contextualizarlas antes de compararlas o utilizarlas para tomar una determinada decisión.",
+      "full_transcript": "Por tanto, esta diapositiva no debería utilizarse como un checklist donde asumimos que todos los factores están presentes, sino que tendríamos que preguntarnos sobre qué restricciones cambia realmente el problema de rendimiento en deportistas paralímpicos. Este debería ser el punto de partida. Insisto, hay muchas cosas que seguramente, si no habéis visto la clase anterior, os resultarán nuevas. Pero después, cuando la veáis, vais a poder entenderlo mejor. Una consecuencia directa de esta heterogeneidad aparece cuando registramos datos y nos ponemos a interpretarlos. El mismo dato no tiene por qué significar exactamente lo mismo. Por ejemplo, en algunos perfiles, la respuesta de la frecuencia cardíaca, una variable que usamos muchísimo en cualquier deporte, puede estar condicionada por alteraciones de la función autonómica que se dan en determinadas discapacidades. La respuesta térmica también puede depender de la capacidad de sudoración o del control vasomotor. Esto lo vimos en las clases anteriores. Y la fatiga también, en algunos casos, puede estar condicionada, entre otros factores, por la cantidad de masa muscular activa o las características de la discapacidad que tiene el deportista. Quiero evitar una interpretación equivocada de esta diapositiva, ya que lo que no estoy diciendo es que estas métricas dejen de ser útiles. Lo que estoy diciendo es que necesitamos contextualizarlas antes de compararlas o utilizarlas para tomar una determinada decisión. Fijaos que volvemos exactamente al modelo que hemos visto antes. Es decir, primero nos hacemos una pregunta, después medimos el dato, analizamos el contexto y realizamos una interpretación y finalmente, tomamos una decisión, que tiene que ser lo más importante. En el deporte paralímpico, este paso que hemos comentado de la contextualización puede probablemente adquirir mayor relevancia e importancia que en deporte olímpico. Por tanto, antes de buscar, por ejemplo, benchmarks, tenemos que comprender qué representa realmente la métrica, por ejemplo, la frecuencia cardíaca en este deportista. Vamos a verlo con un ejemplo. Imaginemos un deportista con una lesión medular que tiene que competir en condiciones de calor. Dependiendo del nivel y las características de la lesión, pueden existir alteraciones en la sudoración, la disipación del calor o el control vasomotor. Inicialmente, esto parece un problema fisiológico, pero en cuanto intentamos solucionarlo, deja de ser un problema únicamente fisiológico. Puede necesitar participación médica, ya que necesitamos pensar en hidratación. Podemos necesitar estrategias, por ejemplo, de cooling o precooling, y tenemos que tener en cuenta también, como es lógico, el calentamiento, los tiempos de espera, el transporte hasta el lugar de competición, incluso determinadas características del equipamiento. Es decir, lo que parecía un problema de termorregulación se convierte rápidamente en un problema del sistema. Esta es la lección que quiero extraer de este ejemplo. No pretendo explicar aquí cómo debemos termorregular a un deportista con una lesión termorregular. El mensaje tiene que ser roto. Es decir, una restricción específica de un deportista puede incrementar radicalmente la interdependencia entre profesionales y cuando aumenta la interdependencia, volvemos a necesitar esa integración.",
+      "keywords": [
+        "datos",
+        "metricas",
+        "contextualizacion",
+        "frecuencia-cardiaca",
+        "termorregulacion",
+        "interdependencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre la contextualización de métricas en contextos heterogéneos?",
+        "¿Dónde se da un ejemplo de termorregulación en el deporte paralímpico?",
+        "¿Por qué no se pueden usar benchmarks genéricos en discapacidades sin contexto?"
+      ],
+      "related_terms": [
+        "contextualización",
+        "métricas",
+        "datos",
+        "análisis de datos",
+        "evaluación"
+      ],
+      "relevance_score": 4,
+      "context_before": "El deporte paralímpico comparte principios con el olímpico, pero introduce alta heterogeneidad y restricciones en 5 dominios: fisiología, salud, deporte, entorno y persona. Esto pone a prueba la robustez del sistema de rendimiento.",
+      "context_after": "Se detallan otras variables no puramente fisiológicas, como la logística y la clasificación deportiva, y su enorme peso en el diseño del sistema."
+    },
+    {
+      "id": "V01-012",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:40:49",
+      "end_timestamp": "00:44:31",
+      "start_seconds": 2449,
+      "end_seconds": 2671,
+      "duration_seconds": 222,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2449",
+      "title": "Equipamiento, clasificación y diseño (no adaptación) del sistema",
+      "summary": "El rendimiento también se ve afectado por el equipamiento (silla, prótesis), la clasificación deportiva y la logística. Un problema logístico (ej: mal descanso por falta de autonomía) se convierte en problema de rendimiento. Hay que diseñar el sistema alrededor del deportista, no adaptar uno existente.",
+      "literal_quote": "Diseñar implica otra cosa, implica utilizar el orden contrario. Primero entendemos al deportista, después identificamos las restricciones que realmente importan, definimos cuál es el problema de rendimiento y a partir de ese problema de rendimiento, determinamos qué expertise necesitamos.",
+      "full_transcript": "Además de la fisiología, existen otros elementos que, sin lugar a dudas, pueden modificar directamente la capacidad de rendimiento. Como he dicho antes, uno de ellos es el equipamiento. En determinados deportes, la silla, una prótesis, una órtesis o el sistema, por ejemplo, de sitting, de cómo va sentado el deportista, no están simplemente alrededor del deportista. Forman parte de una interacción deportiva. Pueden modificar la técnica, la eficiencia, la distribución de la carga o incluso el dolor. El segundo elemento, que es muy importante en deporte paralímpico, como mencioné en la clase anterior, es la clasificación: la elegibilidad, la clase deportiva, una posible revisión puede modificar el contexto competitivo. También la selección de pruebas, la estrategia y la planificación que tenemos con ese deportista. Y el tercero es la logística: viajes, accesibilidad, cuidados personales, rutinas de recuperación. Un problema logístico puede parecer algo completamente alejado del performance science, pero imaginemos que un desplazamiento reduce la autonomía de un deportista, aumenta los tiempos necesarios para cuidados personales y termina reduciendo, a fin de cuentas, su tiempo de sueño y la calidad del sueño. Ese problema logístico se ha convertido en un problema de recuperación, y ese problema de recuperación puede terminar siendo un problema también de rendimiento. Por eso estas variables no son periféricas, forman parte del sistema que tenemos montado. Y cuando nosotros entendemos esto, aparece claramente la diferencia entre adaptar un sistema ya existente y diseñar realmente el sistema alrededor del deportista, que es lo que realmente importa. Este es probablemente uno de los mensajes principales de este bloque relacionado con el deporte paralímpico. Adaptar no es lo mismo que diseñar. Imaginemos que partimos de nuestro modelo de deporte olímpico habitual y después incorporamos a un deportista paralímpico. A continuación, descubrimos que necesitamos adaptar instalaciones. Después aparecen problemas de transporte. Después solucionamos algunas cuestiones relacionadas con el material y vamos resolviendo problemas a medida que estos aparecen. Eso es adaptación. Diseñar implica otra cosa, implica utilizar el orden contrario. Primero entendemos al deportista, después identificamos las restricciones que realmente importan, definimos cuál es el problema de rendimiento y a partir de ese problema de rendimiento, determinamos qué expertise necesitamos para solucionarlo. Y finalmente, diseñamos el sistema integrado alrededor de esas necesidades. Un ejemplo muy sencillo puede ser el siguiente. Por ejemplo, si primero reservamos hotel, transporte y horarios y después comprobamos si el deportista puede desenvolverse de forma autónoma, estamos adaptándonos. Si primero comprendemos qué necesita ese deportista para viajar, dormir, recuperarse y competir, y después organizamos el desplazamiento, estaríamos diseñando. ¿Se entiende esta diferencia? Este principio, además, no es exclusivo del deporte paralímpico. Simplemente, el deporte paralímpico hace que el error sea mucho más visible. Por eso, no empecemos por el organigrama, sino que empecemos, como os he dicho antes, por el problema de rendimiento.",
+      "keywords": [
+        "equipamiento",
+        "clasificacion",
+        "logistica",
+        "adaptar-vs-disenar",
+        "sistema"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre la diferencia entre adaptar y diseñar el sistema?",
+        "¿Dónde se habla de cómo un problema logístico se vuelve un problema de rendimiento?",
+        "¿Por qué es importante crear el organigrama después de entender las restricciones del deportista?"
+      ],
+      "related_terms": [
+        "logística",
+        "diseñar",
+        "sistema",
+        "performance & context",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "La heterogeneidad en el deporte paralímpico obliga a contextualizar fuertemente las métricas antes de aplicar benchmarks. Por ejemplo, la frecuencia cardíaca o la respuesta térmica pueden variar drásticamente debido a la discapacidad, exigiendo una interpretación interdisciplinar.",
+      "context_after": "Como conclusión de la sesión, se consolidan todos los temas expuestos en cinco principios rectores del diseño de sistemas."
+    },
+    {
+      "id": "V01-013",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:44:34",
+      "end_timestamp": "00:46:26",
+      "start_seconds": 2674,
+      "end_seconds": 2786,
+      "duration_seconds": 112,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2674",
+      "title": "Los cinco principios del diseño de sistemas",
+      "summary": "Resumen de la clase en 5 principios: 1) Empezar por el problema de rendimiento; 2) Diseñar alrededor del deportista; 3) Integrar cuando hay alta interdependencia; 4) Aclarar las responsabilidades y decisiones; 5) Tratar el contexto como variable de rendimiento.",
+      "literal_quote": "El deportista no debería tener que adaptarse a nuestro organigrama. El sistema debería organizarse alrededor de los problemas que necesita resolver el deportista.",
+      "full_transcript": "Para terminar, si tuviese que reducir toda esta clase a cinco principios, serían los que muestro en esta diapositiva. El primero de ellos empieza con el problema de rendimiento, como he dicho antes. Antes de elegir la tecnología que voy a usar, los procesos o profesionales, tenemos que comprender qué estamos intentando solucionar. El segundo: diseña alrededor del atleta o del deportista. El deportista no debería tener que adaptarse a nuestro organigrama. El sistema debería organizarse alrededor de los problemas que necesita resolver el deportista. El tercero de ellos: integra cuando la interdependencia es alta. Es decir, no necesitamos a todo el equipo para cualquier decisión, pero los problemas que son complejos necesitan integrar perspectivas que sean diferentes, ya que la solución va a ser muchísimo mejor. El cuarto: deja clara la decisión correcta. Tenemos que saber quién informa, quién interpreta, quién recomienda, quién decide, quién comunica y cuándo revisamos. Todo esto tiene que quedar bien claro. Y quinto y último: trata el contexto como una variable más del rendimiento. Como hemos visto, es algo que es muy importante, ya que el rendimiento no depende solamente de las capacidades internas del deportista. El entorno puede facilitar o limitar directamente su capacidad para expresarlas. Por tanto, es superimportante entender muy bien el contexto y aplicarlo como tal. Este es el contenido que tenía preparado para esta clase. Espero que os haya gustado. Muchísimas gracias por vuestra atención y nos vemos en próximas clases. Un saludo.",
+      "keywords": [
+        "principios",
+        "resumen",
+        "deportista",
+        "interdependencia",
+        "contexto",
+        "problema-de-rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Resumen",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre los cinco principios del diseño de sistemas?",
+        "¿Dónde se resumen los puntos clave para diseñar entornos interdisciplinares?",
+        "¿Cuáles son los 5 pasos para crear un staff deportivo eficiente?"
+      ],
+      "related_terms": [
+        "principios",
+        "diseño",
+        "de",
+        "sistemas",
+        "metodología",
+        "performance & context"
+      ],
+      "relevance_score": 5,
+      "context_before": "El rendimiento también se ve afectado por el equipamiento (silla, prótesis), la clasificación deportiva y la logística. Un problema logístico (ej: mal descanso por falta de autonomía) se convierte en problema de rendimiento. Hay que diseñar el sistema alrededor del deportista, no adaptar uno existente.",
+      "context_after": "Se presenta un apéndice/cierre que refuerza el concepto central de cómo gestionar las interacciones cruzadas en departamentos."
+    },
+    {
+      "id": "V01-014",
+      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+      "speaker": "Ander Romarate",
+      "start_timestamp": "00:46:29",
+      "end_timestamp": "00:47:59",
+      "start_seconds": 2789,
+      "end_seconds": 2879,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2789",
+      "title": "Interfaces y dinámicas cruzadas (Return to Play)",
+      "summary": "Se reitera la importancia de gestionar interfaces en problemas compartidos. Por ejemplo, el retorno de un jugador tras lesión (Return to Play) no depende solo de un departamento; requiere nutrición, logística, médicos y preparadores físicos trabajando alineados.",
+      "literal_quote": "Muchos problemas, por ejemplo, de rendimiento que tenemos con un deportista, no respetan las fronteras que hay entre nuestros departamentos.",
+      "full_transcript": "Aquí aparece una idea que quiero utilizar varias veces a lo largo de esta clase, que son las interfaces. Muchos problemas, por ejemplo, de rendimiento que tenemos con un deportista, no respetan las fronteras que hay entre nuestros departamentos. Por ejemplo, cuando un deportista retorna a la dinámica de equipo después de una lesión, este retorno no va a depender exclusivamente ni del médico, ni del fisioterapeuta, ni del preparador físico. También, por ejemplo, la prescripción del entrenamiento puede exigir integrar el criterio del entrenador con otros criterios fisiológicos que se marca el preparador físico. En el caso de la preparación nutricional, también, el plan nutricional no va a depender únicamente de lo que el nutricionista paute. También, por ejemplo, la logística del desplazamiento del deportista va a tener una relación o va a tener una implicación en el plan nutricional que nosotros le mandemos al deportista. Es decir, podemos tener profesionales que hacen muy bien su trabajo dentro de su parcela y, sin embargo, fallar en la decisión global que nosotros tomamos. Y a fin de cuentas, esto va a repercutir al rendimiento del deportista. Y cuantos más problemas atraviesen fronteras disciplinares, mayor va a ser la necesidad de coordinarnos entre nosotros. Y esto nos lleva a la siguiente cuestión. Si el problema es compartido, ¿cómo deberían colaborar los especialistas entre sí?",
+      "keywords": [
+        "interfaces",
+        "return-to-play",
+        "lesion",
+        "fronteras-departamentales",
+        "decision-global"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Return to Play",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué explica Ander Romarate sobre interfaces y dinámicas cruzadas (return to play)?",
+        "¿Dónde se usa el return to play como ejemplo de una interfaz interdisciplinar?",
+        "¿Por qué un especialista excelente puede fallar en la decisión global?"
+      ],
+      "related_terms": [
+        "interfaces",
+        "dinámicas",
+        "cruzadas",
+        "return to play",
+        "staff management",
+        "comunicación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Resumen de la clase en 5 principios: 1) Empezar por el problema de rendimiento; 2) Diseñar alrededor del deportista; 3) Integrar cuando hay alta interdependencia; 4) Aclarar las responsabilidades y decisiones; 5) Tratar el contexto como variable de rendimiento.",
+      "context_after": "Fin del fragmento provisto."
+    }
+  ]
+}
