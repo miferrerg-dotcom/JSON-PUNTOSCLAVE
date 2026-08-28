@@ -1,0 +1,866 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+    "speaker": "Antonio Expósito",
+    "total_duration": "00:57:01",
+    "total_duration_seconds": 3421,
+    "source_file": "WEBVTT",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:03:32",
+      "start_seconds": 0,
+      "end_seconds": 212,
+      "duration_seconds": 212,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Introducción al sistema de entrenamiento adaptativo",
+      "summary": "Antonio Expósito presenta la necesidad de contar con un sistema de trabajo adaptativo para mejorar el rendimiento físico en diversas disciplinas deportivas. Este sistema se compone de cinco procesos interrelacionados: análisis, diseño, entrenamiento, monitorización y ajuste continuo.",
+      "literal_quote": "Este sistema de entrenamiento formado por cinco procesos que van interrelacionados para perseguir ese objetivo final de mejorar el rendimiento físico.",
+      "full_transcript": "Muy buenas y bienvenidos a este módulo del Performance Science Specialist de la NSA Spain. Mi nombre es Antonio Expósito, CEO y fundador de Humanability. Hoy concretamente venimos a contaros los cuatro pilares principales de nuestro sistema de entrenamiento, que autodenominamos adaptativo. Como os comentaba, mi nombre es Antonio Expósito, preparador físico especializado en rendimiento deportivo y siempre digo que tengo la suerte de poder trabajar con deportistas de muchas disciplinas, ya sea olímpicas o profesionales, y dentro de cada una de estas, de muchos deportes. Vamos a comenzar con la necesidad de tener un sistema de entrenamiento o de trabajo adaptativo, que viene por la necesidad de que tengo la suerte de trabajar con multitud de disciplinas deportivas. Por tanto, al final tuvimos que pensar en crear algo que nos ayudase para conseguir nuestro objetivo o el objetivo de los deportistas que nos contratan, que básicamente es mejorar el rendimiento físico para poder aplicarlo a su contexto deportivo. En este caso, con este primer resumen, tenemos este sistema de entrenamiento formado por cinco procesos que van interrelacionados para perseguir ese objetivo final de mejorar el rendimiento físico, donde hago una primera puesta de análisis, un testeo y un diagnóstico. Hago el diseño y la creación del propio entrenamiento, hago o aplico el propio entrenamiento. Por supuesto, realizamos ese seguimiento que a nivel anglosajón se llama \"monitoring\", y después tenemos el ajuste o la gestión, tanto diaria como a medio y largo plazo.",
+      "keywords": [
+        "sistema-adaptativo",
+        "humanability",
+        "rendimiento-deportivo",
+        "monitorizacion",
+        "analisis"
+      ],
+      "entities": [
+        "Antonio Expósito",
+        "Humanability",
+        "NSA Spain"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los procesos del sistema de entrenamiento adaptativo de Humanability?",
+        "¿Qué es el sistema adaptativo de Antonio Expósito?",
+        "¿Cómo se relacionan el análisis, diseño y monitorización en el rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "sistema",
+        "de",
+        "entrenamiento",
+        "adaptativo",
+        "rendimiento",
+        "físico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Tras presentar el sistema macro, se detallan los cuatro pilares fundamentales en los que se resume el método de Humanability."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:03:33",
+      "end_timestamp": "00:06:56",
+      "start_seconds": 213,
+      "end_seconds": 416,
+      "duration_seconds": 203,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=213",
+      "title": "Los 4 pilares fundamentales de Humanability",
+      "summary": "Para que un sistema sea verdaderamente propio, debe poder resumirse brevemente. Expósito presenta los 4 pilares: Principio de Pareto, énfasis según el deportista y su disciplina, modelo de semáforo (high-low) para gestionar cargas, y adaptación diaria al contexto (Readiness).",
+      "literal_quote": "Para que realmente un sistema sea tuyo, tienes que tener la capacidad de poder resumirlo a cualquier persona... en un par de minutos, con un par de frases o con un par de principios.",
+      "full_transcript": "Todo esto era un resumen, pero es bastante macro y me obsesionaba bastante la opinión de diferentes eminencias en cuanto a sistemas, donde todos terminan estando de acuerdo en que para que realmente un sistema sea tuyo, tienes que tener la capacidad de poder resumirlo a cualquier persona... en un par de minutos, con un par de frases o con un par de principios. ¿Cuáles son los principales principios o pilares de Humanability? En este caso lo hemos sintetizado en estos cuatro, obviamente superrelacionados entre sí. El primero, que básicamente atiende al principio de Pareto, regla del 80/20 o al esencialismo. Segundo punto, estos estímulos o piezas del puzle tienen que estar presentes sí o sí, pero en cada persona tendrán que ir con mayor o menor énfasis, en función de dos variables: quién es la persona y cuál es su deporte. De ahí que apliquemos primero el principio de individualización y después el de especificidad. Tercero, cuando ya tenemos ese plan adaptado a la persona y a su deporte, tenemos que tener claro que hay que surfear la ola, que es lo que hablamos de nuestro modelo de semáforo de high-low, aunque también añadimos un punto intermedio, que es ese moderate. Básicamente viene a decirnos que no podemos entrenar todos los días a alta intensidad. Por último, y posiblemente lo más importante, toda la propuesta que hemos establecido tiene que tener una adaptación diaria al contexto, es decir, a las circunstancias del día a día y, por supuesto, el readiness para mí es de lo más importante.",
+      "keywords": [
+        "pilares",
+        "pareto",
+        "individualizacion",
+        "high-low",
+        "readiness"
+      ],
+      "entities": [
+        "Humanability"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los 4 pilares del sistema de Humanability?",
+        "¿Cómo se gestiona el entrenamiento de alta intensidad según Antonio Expósito?",
+        "¿Qué importancia tiene la adaptación diaria y el readiness en el sistema?"
+      ],
+      "related_terms": [
+        "pilares",
+        "de",
+        "humanability",
+        "pareto",
+        "individualización",
+        "high-low"
+      ],
+      "relevance_score": 5,
+      "context_before": "Antonio Expósito introduce la necesidad de un sistema adaptativo y los procesos macro de análisis y diseño.",
+      "context_after": "Se profundiza en el primer pilar, explicando cuáles son los estímulos esenciales (Pareto) que generan el 80% de los resultados."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:07:01",
+      "end_timestamp": "00:09:47",
+      "start_seconds": 421,
+      "end_seconds": 587,
+      "duration_seconds": 166,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=421",
+      "title": "Pilar 1: Principio de Pareto y Esencialismo",
+      "summary": "Aplicación de la visión esencialista al entrenamiento: concentrarse en los estímulos de alta intensidad que producen cambios reales (saltar, lanzar, esprintar, mover cargas pesadas), en lugar de perderse en un exceso de sesiones de readaptación o recuperación funcional.",
+      "literal_quote": "El mundo de la calidad del movimiento, la readaptación, la recuperación funcional ha absorbido al mundo del entrenamiento puro y duro para mejorar el rendimiento y hemos terminado haciendo sesiones casi más de recovery que sesiones de alta intensidad.",
+      "full_transcript": "El principio de Pareto nos viene a decir que un puñado de cosas, concretamente el 20 % de esfuerzos, nos dan el 80 % de los resultados. Lo importante es centrarme en esas cuatro o cinco cosas, no perder el tiempo en cosas superfluas que no van a producir grandes cambios. En base a ello, saltar, lanzar, mover kilos y esprintar, tanto lineal como multidireccionalmente, y realizar esfuerzos de alta intensidad de forma repetida. Esto es un poco el concepto también del esencialismo, donde nos viene a decir que la visión esencialista se resume en que tienes que poner un foco muy concreto, da igual que lo enfoquéis o que lo midáis en tiempo o en energía, pero tengo que saber hacia dónde voy. Si yo aplico estas cuatro o cinco cosas, si pongo mi energía en estos estímulos, sí que voy a mejorar el rendimiento, a grosso modo. Versos muchas veces, y creo que es algo que nos ha pasado, porque el mundo de la calidad del movimiento, la readaptación, la recuperación funcional ha absorbido al mundo del entrenamiento puro y duro para mejorar el rendimiento y hemos terminado haciendo sesiones casi más de recovery que sesiones de alta intensidad, que son las que de verdad nos mejoran. Cuanto más complejo es algo, estoy muy de acuerdo con esta frase de que más necesidad tenemos de simplificar las cosas.",
+      "keywords": [
+        "pareto",
+        "esencialismo",
+        "estimulos",
+        "alta-intensidad",
+        "simplificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué significa el principio de Pareto en el entrenamiento de fuerza?",
+        "¿Cuáles son los estímulos esenciales para mejorar el rendimiento?",
+        "¿Por qué es importante evitar el exceso de sesiones de recuperación?"
+      ],
+      "related_terms": [
+        "principio",
+        "de",
+        "pareto",
+        "esencialismo",
+        "estímulos",
+        "de",
+        "alta",
+        "intensidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Resumen de los 4 pilares fundamentales de Humanability (Pareto, énfasis individual, semáforo y readiness).",
+      "context_after": "Una vez definidos los estímulos esenciales, se explica la necesidad de añadir siempre un 'challenge' o desafío para maximizar la intención del deportista."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:09:47",
+      "end_timestamp": "00:14:11",
+      "start_seconds": 587,
+      "end_seconds": 851,
+      "duration_seconds": 264,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=587",
+      "title": "Incorporación de Desafíos (Challenges) en el entrenamiento",
+      "summary": "Para asegurar que las sesiones sean intensas, simples y divertidas, se deben incorporar desafíos cuantificables. Expósito detalla cómo usar metrónomos, plataformas, cintas métricas, fotocélulas o ergómetros para dar un objetivo claro a los saltos, lanzamientos, sprints y entrenamientos HIIT.",
+      "literal_quote": "Todos los entrenamientos, al menos de alta intensidad... tienen que ser simples, intensos, tienen que tener desafíos y tienen que ser divertidos.",
+      "full_transcript": "Tenemos claro ya cuáles son esos estímulos, pero el challenge. Para nosotros, todos los entrenamientos, al menos de alta intensidad, tienen que ser simples, intensos, tienen que tener desafíos y tienen que ser divertidos. El divertido siempre digo que es una consecuencia de que si es simple, duro y con desafíos, va a ser divertido. ¿Cómo hacemos los diferentes challenges? Todo lo que tiene que ver con saltos y lanzamientos extensivos, utilizando un metrónomo y buscando mantener, seguir, alcanzar, no perder un cierto tempo. Luego, todo lo que son saltos verticales, todo lo que me dé un dato: plataforma de contacto, plataforma de fuerzas, los típicos vertex. Cuando pasamos a saltos horizontales, todo lo que lleve con distancia. Un metro puede ser el challenge perfecto, ya sea con uno mismo o con compañeros. Cuando hacemos saltos rígidos (stiff jumps), todo lo que nos dé un dato sobre el tiempo de contacto o el RSI. Los lanzamientos son más complicados, pero si son horizontales, con una cinta métrica. En la velocidad, la opción más sencilla es competir en los distintos juegos de velocidad (perseguir, espejo, evasión). Si no, fotocélulas, GPS, cronómetro. Yéndonos al trabajo de fuerza, si podemos contar con un encoder lineal, medir velocidad. Si no contamos con encoder, la carga en sí es un propio challenge. Y por supuesto, la parte de resistencia o conditioning. Para mí, un HIIT, que soy muy fan, no tiene nada que ver hacerlo bajo un target, bajo un objetivo de: hay que hacer X calorías, hay que mantener X distancia, hay que mantener X vatios, a hacerlo por hacer. El estímulo cambia completamente.",
+      "keywords": [
+        "challenges",
+        "metronomo",
+        "juegos-de-velocidad",
+        "encoder",
+        "ergometros",
+        "hiit"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo incorporar desafíos en el entrenamiento de velocidad y fuerza?",
+        "¿Por qué es importante establecer un target numérico en los HIIT?",
+        "¿Qué herramientas se usan para añadir challenges al entrenamiento?"
+      ],
+      "related_terms": [
+        "desafíos",
+        "en",
+        "el",
+        "entrenamiento",
+        "metrónomo",
+        "encoder",
+        "ergómetros"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el principio de Pareto y los cuatro estímulos clave: saltar, lanzar, esprintar y mover kilos.",
+      "context_after": "Con los estímulos y los desafíos claros, se pasa al Pilar 2: el testeo general para evaluar en qué capacidades necesita más énfasis el atleta."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:14:20",
+      "end_timestamp": "00:16:33",
+      "start_seconds": 860,
+      "end_seconds": 993,
+      "duration_seconds": 133,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=860",
+      "title": "Pilar 2: El enfoque en el Atleta Completo y los Tres Tests",
+      "summary": "Antes de ser especialista, el deportista debe ser un atleta completo, dominando la velocidad, fuerza, resistencia y fundamentos (movilidad, estabilidad). Humanability utiliza tres tests generales para diagnosticar estas capacidades: CMJ, cuadrante isométrico-CMJ y doble Wingate.",
+      "literal_quote": "Primero un deportista tiene que ser atleta... tengo que tener un mínimo de las capacidades físicas básicas, que en este caso para nosotros son velocidad, fuerza, resistencia y añadimos una cuarta... foundation.",
+      "full_transcript": "Segundo pilar, ya tenemos claro cuáles son los estímulos que necesitamos, pero ¿sobre cuáles vamos a hacer más o menos énfasis? Este es un poco el enfoque. Para nosotros, primero un deportista tiene que ser atleta. Y evidentemente, si no eres deportista, te olvidas de lo segundo y tienes que ser humano completo. ¿Por qué? Porque para nosotros esas son las bases de todo lo que estudiamos. Siempre se habla de que primero tengo que tener un mínimo de las capacidades físicas básicas, que en este caso para nosotros son velocidad, fuerza, resistencia y añadimos una cuarta, pasamos de un triángulo a un rombo, en el que añadimos esa parte de \"foundation\", de fundamentos (movilidad, estabilidad, equilibrio, coordinación). Cuando ya tengo el mínimo de estas, paso a un testeo más específico. Por eso el testeo general es un tier uno, y una segunda batería sería el testeo específico. Yéndonos al general. En este caso lo vamos a sacar con tres test, como nos gusta llamarlo en Human Ability, los tres test para dominarlos a todos. Cómo salto en un CMJ nos hablará de la parte del perfil neuromuscular. La comparación entre cuánto salto con el CMJ versus cuánta fuerza hago de forma isométrica será para la relación entre fuerza y velocidad. Y el doble Wingate (dos intervalos all out de 30 segundos con un minuto de descanso). Con esos tres test yo ya tengo una idea bastante precisa de quién es a nivel de capacidades físicas la persona que voy a entrenar.",
+      "keywords": [
+        "atleta-completo",
+        "testeo-general",
+        "cmj",
+        "doble-wingate",
+        "capacidades-fisicas"
+      ],
+      "entities": [
+        "Humanability"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro capacidades físicas básicas según Humanability?",
+        "¿Cuáles son los 3 test generales para evaluar a un atleta completo?",
+        "¿Por qué es importante tener una base atlética antes del entrenamiento específico?"
+      ],
+      "related_terms": [
+        "atleta",
+        "completo",
+        "testeo",
+        "general",
+        "tres",
+        "tests",
+        "básicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo integrar desafíos en los entrenamientos intensos para asegurar la motivación y la calidad del esfuerzo.",
+      "context_after": "A continuación, se detalla el análisis en profundidad del primer test general: el perfil neuromuscular a través del CMJ."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:16:35",
+      "end_timestamp": "00:19:23",
+      "start_seconds": 995,
+      "end_seconds": 1163,
+      "duration_seconds": 168,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=995",
+      "title": "Evaluación del Perfil Neuromuscular mediante CMJ",
+      "summary": "Análisis de la cinética del Countermovement Jump (CMJ). Se busca eficiencia biomecánica, lo cual implica que el pico de fuerza debe producirse en la posición más baja, frenando bruscamente antes de la isometría, independientemente de si la curva es unimodal o bimodal.",
+      "literal_quote": "Para que el CMJ a nivel neuromuscular sea eficiente... la fuerza se tiene que producir en la posición más baja, independientemente de que tengamos un pico o dos picos.",
+      "full_transcript": "Vamos con el primero: perfil neuromuscular. ¿Por qué utilizamos el CMJ? Si yo veo cómo a ojímetro... si esa persona tiene una buena capacidad neuromuscular. Si además de saltar mucho, es capaz de ser un muelle, de ser un canguro, de bajar y subir rápido, de no irse, de aterrizar bien, nos dice mucho este test. A nivel de cinética, nos vamos a centrar principalmente en la parte roja (breaking o deceleración) y la parte verde (propulsiva o concéntrica), y entre medias tendremos esa fase de transición isométrica (amarilla). Se teoriza que hay una cinética ideal a nivel biomecánico de un CMJ, en la que el pico se tiene que producir en la posición más baja y, por tanto, se tiene que producir frenando justo en el momento antes de comenzar la isometría. Y entre uno y dos picos no hay tanta importancia. Lo importante es que, para que el CMJ a nivel neuromuscular tenga eficiencia biomecánica, la fuerza se tiene que producir en la posición más baja, independientemente de que tengamos un pico o dos picos, de que sea unimodal o bimodal. Fijaros la diferencia que tenemos de lo rápido que baja, lo rápido que frena, y la subida, la propulsión, versus alguien que no es bueno ni frenando ni propulsándose.",
+      "keywords": [
+        "cmj",
+        "cinetica",
+        "breaking",
+        "propulsion",
+        "eficiencia-biomecanica",
+        "unimodal"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo se analiza la cinética de un CMJ en plataforma de fuerzas?",
+        "¿Qué características tiene un perfil neuromuscular eficiente en un salto?",
+        "¿Dónde debe producirse el pico de fuerza en un CMJ ideal?"
+      ],
+      "related_terms": [
+        "perfil",
+        "neuromuscular",
+        "cinética",
+        "del",
+        "cmj",
+        "fase",
+        "de",
+        "frenado"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se presentaron los tres test generales para evaluar las capacidades de fuerza, velocidad y resistencia.",
+      "context_after": "Se describen formas incorrectas de ejecutar el salto y alternativas al uso de plataformas de fuerza costosas."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:19:24",
+      "end_timestamp": "00:22:15",
+      "start_seconds": 1164,
+      "end_seconds": 1335,
+      "duration_seconds": 171,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1164",
+      "title": "Análisis Visual del CMJ y Ratio de Utilización Excéntrica (EUR)",
+      "summary": "Si no se dispone de plataformas de fuerza, la eficiencia se puede observar a 'ojímetro' (evitando grandes pausas o valles en la transición) o midiendo el Ratio de Utilización Excéntrica (EUR) comparando CMJ y SJ mediante la app My Jump.",
+      "literal_quote": "Además, no hace falta contar con plataforma de fuerza, y eso es algo muy importante... Cualquier persona que tenga un smartphone la puede utilizar para realizar el EUR.",
+      "full_transcript": "En este libro hay dos formas que debemos evitar a toda costa: el gran tiempo que pasa en la fase de transiciones (ese valle tan pronunciado, freno mucho menos de lo que propulso), y la segunda opción sería esa meseta o efecto de onda que muestra descoordinación, no hay un buen timing entre una pierna y otra. Además, no hace falta contar con plataforma de fuerza, y eso es algo muy importante. Tengo dos opciones. Si, simplemente a ojimetro, una bajada muy lenta me va a colocar como un caracol, o quedarme un segundo parado visualmente quiere decir que a nivel de fase de transición no se está siendo tan eficiente biomecánicamente. También, aparte de plataforma de contacto, tenemos una opción superinteresante con la aplicación My Jump. Cualquier persona que tenga un smartphone la puede utilizar para realizar el EUR, es decir, el ratio de utilización excéntrica, que es hacer el CMJ entre el SJ (squat jump, bajar 4 segundos y subir sin contramovimiento). La altura del CMJ tiene que ser mayor que la del SJ. Si no, a nivel de ser canguro, de eficiencia elástico-reactiva, no estaremos siendo tan buenos como deberíamos.",
+      "keywords": [
+        "eur",
+        "my-jump",
+        "fase-de-transicion",
+        "eficiencia-elastico-reactiva",
+        "ojimetro",
+        "cmj",
+        "sj"
+      ],
+      "entities": [
+        "My Jump"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo medir el Ratio de Utilización Excéntrica (EUR) sin plataforma de fuerza?",
+        "¿Qué patrones visuales indican una mala técnica en el CMJ?",
+        "¿Qué aplicación móvil se recomienda para evaluar saltos?"
+      ],
+      "related_terms": [
+        "ratio",
+        "de",
+        "utilización",
+        "excéntrica",
+        "eur",
+        "my",
+        "jump",
+        "cmj",
+        "vs",
+        "sj"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la cinética ideal en plataforma de fuerza para un CMJ.",
+      "context_after": "Se pasa a evaluar el cuadrante de fuerza-velocidad cruzando los datos de salto con fuerza isométrica máxima."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:22:18",
+      "end_timestamp": "00:25:01",
+      "start_seconds": 1338,
+      "end_seconds": 1501,
+      "duration_seconds": 163,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1338",
+      "title": "Cuadrante Fuerza-Velocidad y rechazo del índice DSI",
+      "summary": "Expósito rechaza el uso del índice de fuerza dinámica (DSI) porque un simple cociente oculta si el deportista es deficiente en ambas cualidades. Propone un cuadrante cruzando la altura del CMJ con la fuerza relativa isométrica (realizada con chaleco en cuarto de sentadilla), creando perfiles analógicos (fuerte, rápido, superman).",
+      "literal_quote": "Para mí un cociente, un resultado final (DSI), no me dice nada... Yo quiero saber si soy bueno en una, bueno en la otra, bueno en las dos o malo en las dos.",
+      "full_transcript": "Ahora nos vamos al cuadrante de velocidad-fuerza con los superhéroes. ¿Por qué no utilizo el DSI, el índice de fuerza dinámica? Porque para mí un cociente, un resultado final, no me dice nada. Tengo a deportistas con un DSI de 0.8. ¿Qué hago? No lo sé, el hecho de quedarte con un número final me está impidiendo ver si eres bueno en las dos o malo en las dos. Por eso desarrollamos los cuadrantes. El test que más se utiliza a nivel isométrico es el mid-thigh pull, pero para nosotros la opción más interesante es la de un chaleco muy armado en un cuarto de sentadilla, aplicando la máxima fuerza posible de forma relativa a nuestro peso corporal. En este cuadrante, en el eje vertical tenemos velocidad (cuánto salto, corte de 35 cm en mujeres y 40-45 cm en hombres). En el eje horizontal tenemos la fuerza relativa (5-5.5 veces su peso en mujeres, 6-6.5 en hombres). De aquí sacamos analogías para simplificarlo: soy rápido pero no fuerte; soy fuerte pero no rápido; y soy tanto fuerte como rápido.",
+      "keywords": [
+        "dsi",
+        "cuadrante-fuerza-velocidad",
+        "fuerza-isometrica",
+        "cmj",
+        "chaleco"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué Antonio Expósito no utiliza el índice de fuerza dinámica (DSI)?",
+        "¿Cómo se construye el cuadrante de fuerza-velocidad en el sistema Humanability?",
+        "¿Cuál es una alternativa al mid-thigh pull para medir la fuerza isométrica?"
+      ],
+      "related_terms": [
+        "cuadrante",
+        "fuerza-velocidad",
+        "dsi",
+        "fuerza",
+        "isométrica",
+        "relativa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se completó la evaluación del perfil neuromuscular y el CMJ.",
+      "context_after": "La presentación avanza hacia la tercera cualidad física básica: la resistencia para deportes intermitentes mediante el doble Wingate."
+    },
+    {
+      "id": "V01-009",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:25:07",
+      "end_timestamp": "00:28:43",
+      "start_seconds": 1507,
+      "end_seconds": 1723,
+      "duration_seconds": 216,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1507",
+      "title": "Evaluación de la Resistencia Intermitente (Doble Wingate)",
+      "summary": "Para deportes intermitentes, el VO₂ máx es menos relevante. Se utiliza el test del doble Wingate en air bike (10s impulso, 30s all out, 1min descanso, 30s all out) para evaluar la potencia y la capacidad de repetirla (índice de fatiga). Los resultados se clasifican en un cuadrante con analogías de vehículos acuáticos.",
+      "literal_quote": "Para nosotros los deportes intermitentes... el VO₂ máx no es una métrica especialmente relevante... lo que utilizamos es este cuadrante de esfuerzos repetidos con un doble wingate.",
+      "full_transcript": "Vamos con la tercera y última de las capacidades físicas: la resistencia, cuadrante de esfuerzos repetidos. Hay muchos tipos de resistencia, hay mucha más variedad en comparación con la fuerza y velocidad. Nosotros hacemos un doble wingate porque lo aplicamos en deportes intermitentes. Para nosotros, en deportes intermitentes, el VO₂ máx no es una métrica especialmente relevante en comparación con deportes continuos. Por tanto, utilizamos este cuadrante de esfuerzos repetidos con un doble wingate. Básicamente hacemos 10 segundos para no empezar con la bici desde parado, 30 segundos all out, un minuto off (descanso pasivo) y repetimos este infierno (otros 30 segundos all out). Este test es más suave con alguien con nivel de fitness mediocre porque su cerebro le va a bloquear en el segundo intervalo; es más intenso y peligroso con alguien muy entrenado. ¿Cómo sacamos este cuadrante? Con vehículos acuáticos. En el eje vertical tenemos la potencia media del primer intervalo. En el eje horizontal, la capacidad de repetir esa potencia mediante un índice de fatiga (potencia primer intervalo menos la del segundo, entre la del primero). De aquí: velero (ni potente ni repite), barco (repite pero no potente), moto de agua (potente sin repetir) y lancha acuática (potente y repite).",
+      "keywords": [
+        "doble-wingate",
+        "resistencia-intermitente",
+        "indice-de-fatiga",
+        "potencia",
+        "air-bike"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Test"
+      ],
+      "search_questions": [
+        "¿Cómo se aplica el test de Doble Wingate para evaluar la resistencia?",
+        "¿Por qué el VO₂ máx es menos relevante en deportes intermitentes?",
+        "¿Qué analogías utiliza Antonio Expósito para clasificar la resistencia a esfuerzos repetidos?"
+      ],
+      "related_terms": [
+        "doble",
+        "wingate",
+        "resistencia",
+        "intermitente",
+        "índice",
+        "de",
+        "fatiga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalló cómo construir el cuadrante de fuerza-velocidad cruzando CMJ y fuerza isométrica.",
+      "context_after": "Se exploran formas de medir la carga interna (frecuencia cardíaca y saturación de oxígeno) durante este test de Doble Wingate."
+    },
+    {
+      "id": "V01-010",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:28:45",
+      "end_timestamp": "00:32:02",
+      "start_seconds": 1725,
+      "end_seconds": 1922,
+      "duration_seconds": 197,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1725",
+      "title": "Métricas de Carga Interna: Corazón y NIRS durante el HIIT",
+      "summary": "Para afinar el diagnóstico del doble Wingate, se observa la recuperación de la frecuencia cardíaca (drop en el minuto de descanso) y la oximetría muscular (NIRS). Una recuperación cardíaca rápida y una gráfica en 'montaña rusa' en la saturación de oxígeno muscular indican una buena optimización periférica y central.",
+      "literal_quote": "Esa caída de pulsaciones va muy en relación con mi capacidad o cómo de bien tengo mi sistema central... a nivel periférico podemos medir la saturación de oxígeno muscular.",
+      "full_transcript": "Para afinar un poco nuestra prescripción, podemos tener también la posibilidad de medir carga interna. Podemos ver a nivel central (corazón) cuánto bajan las pulsaciones desde que termino el primer intervalo hasta que comienzo el segundo. Esa caída de pulsaciones va muy en relación con mi capacidad o cómo de bien tengo mi sistema central. La diferencia es notoria entre un atleta muy bien entrenado, que puede bajar 35-40 pulsaciones muy fácil, a alguien no experimentado que baja 15-20 pulsaciones. Ese es el primer indicio de que en el segundo intervalo va a morir. También a nivel periférico podemos medir la saturación de oxígeno muscular (con NIRS) en el vasto interno del cuádriceps. Buscamos que si hay montaña rusa (bajadas y subidas) va a significar que hay una mejor optimización de la utilización de energía dentro del músculo a nivel periférico. Si estamos mucho más planos, será lo contrario. De esto hacemos una prescripción con los distintos tipos de HIIT, donde tenemos un enfoque muy polarizado.",
+      "keywords": [
+        "carga-interna",
+        "frecuencia-cardiaca",
+        "recuperacion",
+        "saturacion-oxigeno-muscular",
+        "nirs",
+        "hiit"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Análisis",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se mide la carga interna durante un test de resistencia intermitente?",
+        "¿Qué indica la caída rápida de la frecuencia cardíaca entre intervalos?",
+        "¿Para qué sirve medir la saturación de oxígeno muscular en el entrenamiento HIIT?"
+      ],
+      "related_terms": [
+        "carga",
+        "interna",
+        "recuperación",
+        "cardíaca",
+        "saturación",
+        "de",
+        "oxígeno",
+        "muscular"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del cuadrante de esfuerzos repetidos basado en el test Doble Wingate y métricas de carga externa.",
+      "context_after": "Con los resultados de los tres test generales, se procede a diagnosticar el perfil del deportista y realizar una prescripción individualizada."
+    },
+    {
+      "id": "V01-011",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:32:05",
+      "end_timestamp": "00:35:01",
+      "start_seconds": 1925,
+      "end_seconds": 2101,
+      "duration_seconds": 176,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1925",
+      "title": "Diagnóstico Integral y Prescripción Individualizada (Tier 1)",
+      "summary": "A partir de los tres test generales, se diagnostica el perfil del deportista (e.g., Canguro, Flash y Moto de Agua). La prescripción busca potenciar las debilidades: si falta potencia aeróbica, se aplican HIIT centrales y de capacidad; si falta potencia muscular, se enfatiza el trabajo neuromuscular y HIIT periférico.",
+      "literal_quote": "Si no tengo ni fuerza ni velocidad, fundamentos puros y duros. Si no, tendré que hacer énfasis en lo que no tengo. Y cuando ya es Superman... me voy a trabajo específico.",
+      "full_transcript": "Cuando ya tenemos estos tres test, la traducción que yo hago es saber quién es esta persona para hacer una individualización. Imaginaos, esta persona es un canguro, flash y moto de agua. Quiere decir que es muy rápido (Flash), a nivel de CEA en el salto es muy bueno (Canguro), y a nivel de resistencia es muy bueno generando potencia pero no repitiendo esa potencia (Moto de agua). Ahí tengo una prescripción bastante clara. Si no tengo ni fuerza ni velocidad, fundamentos puros y duros. Si no, tendré que hacer énfasis en lo que no tengo. Cuando ya tengo el mínimo de las capacidades físicas (Superman), me voy a trabajo específico. En el cuadrante de resistencia, si soy 'Moto', tendré que hacer más un trabajo de Z3, de potencia aeróbica (tendencia hacia lo central y HIIT con formatos de capacidad). Si soy un 'Barco', lo que me falta es potencia, por tanto hago un foco mucho más periférico y neuromuscular y HIIT con formatos de potencia. Cuando ya soy potente y capaz de repetir (Lancha), me voy a trabajos más específicos.",
+      "keywords": [
+        "diagnostico",
+        "prescripcion",
+        "individualizacion",
+        "hiit-central",
+        "hiit-periferico",
+        "potencia-aerobica"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se prescriben los entrenamientos HIIT basados en los test de resistencia?",
+        "¿Qué significa ser 'moto de agua' en el perfil de resistencia intermitente?",
+        "¿Cómo combinar los resultados de fuerza, velocidad y resistencia para individualizar el entrenamiento?"
+      ],
+      "related_terms": [
+        "diagnóstico",
+        "integral",
+        "prescripción",
+        "individualizada",
+        "hiit",
+        "central",
+        "y",
+        "periférico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo medir el impacto interno del trabajo HIIT mediante la frecuencia cardíaca y la oximetría muscular.",
+      "context_after": "Una vez que el atleta domina las capacidades físicas básicas (Tier 1), se pasa al testeo específico de las demandas de su deporte (Tier 2)."
+    },
+    {
+      "id": "V01-012",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:35:02",
+      "end_timestamp": "00:38:58",
+      "start_seconds": 2102,
+      "end_seconds": 2338,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2102",
+      "title": "Testeo Específico según Demandas del Deporte (Tier 2)",
+      "summary": "Cuando el deportista domina los fundamentos (Tier 1), se aplican tests específicos. Deportes de baja colisión requieren fuerza unilateral (Nubis push) y saltos reactivos (10 hop test, drop jump). Deportes de alta colisión/fuerza requieren test como el mid-thigh pull o saltos Avalakov, que no tienen tanta limitación de tiempo.",
+      "literal_quote": "Cuando ya soy muy bueno en las tres capacidades físicas, me voy a un testeo específico... cuánta fuerza necesita mi deporte, dentro del cual tenemos deportes donde no se necesita mucho nivel de fuerza... y en el extremo contrario, donde la fuerza es la principal capacidad.",
+      "full_transcript": "Como os decía, cuando ya soy muy bueno en las tres capacidades físicas (Superman), me voy a un testeo específico. Llevado a tierra es cuánta fuerza necesita mi deporte. Tenemos deportes donde no se necesita mucho nivel de fuerza porque no hay contacto, deportes donde hay colisión (combate, rugby) y deportes en el extremo donde la fuerza es la principal capacidad (halterofilia, powerlifting). También es superimportante cómo es mi deporte a nivel metabólico (continuo o intermitente) y la musculatura/acciones implicadas (ej. isométricos específicos de carrera). En deportes donde la fuerza depende de desplazarme (carrera), es más unilateral, por eso el Nibis push me parece un gran test para medir fuerza relativa. A nivel de velocidad, los saltos reactivos son clave (métrica RSI): el 5-10 hop test, drop jump y el CMJ rebound (dos CMJ minimizando el contacto del segundo). Cuando tengo deportes donde quiero fuerza bruta, cambio el Nibis push por el mid-thigh pull para fuerza absoluta. A nivel de velocidad, quiero el Avalakov (bilateral, no reactivo, lento) para personas que necesitan aplicar mucha fuerza sin una limitación alta de tiempo.",
+      "keywords": [
+        "testeo-especifico",
+        "nibis-push",
+        "mid-thigh-pull",
+        "rsi",
+        "drop-jump",
+        "avalakov"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las diferencias entre el testeo general y el testeo específico?",
+        "¿Qué tests se recomiendan para deportes de baja colisión y alta reactividad?",
+        "¿Cómo se evalúa la fuerza en deportes de alta colisión o levantamiento de pesas?"
+      ],
+      "related_terms": [
+        "testeo",
+        "específico",
+        "según",
+        "deporte",
+        "tier",
+        "2",
+        "fuerza",
+        "unilateral"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la prescripción individualizada basada en carencias físicas generales (Tier 1).",
+      "context_after": "Habiendo cubierto el análisis y diseño (estímulos y tests), se avanza al tercer pilar del sistema: la distribución y gestión de las cargas (Semáforo High-Low)."
+    },
+    {
+      "id": "V01-013",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:38:58",
+      "end_timestamp": "00:43:17",
+      "start_seconds": 2338,
+      "end_seconds": 2597,
+      "duration_seconds": 259,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2338",
+      "title": "Pilar 3: Modelo de Semáforo para surfear la ola (High-Low modificado)",
+      "summary": "Expósito adapta el modelo High-Low de Charlie Francis categorizando la carga por impacto, fatiga y residuo que dejan los estímulos. Rojo (alta intensidad/alto peaje, ej: excéntrico, HIIT láctico, saltos), Amarillo (alta intensidad/bajo peaje, ej: fuerza concéntrica/balística) y Verde (recuperación).",
+      "literal_quote": "Nosotros lo hemos cambiado por impacto, por fatiga, por residuo que deja en los días posteriores... amarillo y rojo son principalmente estímulos de intensidad... La diferencia es que con los amarillos no voy a pagar un peaje.",
+      "full_transcript": "Tercero: hay que surfear la ola. Para nosotros, surfeamos la ola con nuestro modelo de semáforo. Está cogido del high-low de Charlie Francis, que él utilizaba con respecto al estímulo neuromuscular (high = sprint, low = no sprint). Nosotros lo hemos cambiado por impacto, por fatiga, por residuo que deja en los días posteriores. De ahí tenemos tres colores, donde amarillo y rojo son principalmente estímulos de intensidad, estímulos de estresar al cuerpo. La diferencia es que con los amarillos no voy a pagar un peaje, mientras que con el rojo voy a pagar peaje. En el verde, lo normal es que sean estímulos que busquen no estresar mi cuerpo o acelerar el proceso de recuperación. Correr 10 metros a muerte es intensidad, pero el residuo es muy inferior a un sprint largo de 100 metros. A nivel muscular, lo que más residuo e impacto va a tener siempre será lo excéntrico y lo decelerativo. En el extremo contrario (amarillo), isométricos, concéntricos y balísticos. A nivel de conditioning, estaremos con los HIITs en rojo y recuperación en verde, tocando poco el amarillo porque el deporte en sí ya aporta mucho de eso. Al comparar dos días de intensidad, la fuerza hipertrofia o sprints largos, o el trabajo láctico, o el tren inferior, serán siempre más 'rojos' (mayor impacto) que la fuerza potencia, trabajo central, o tren superior.",
+      "keywords": [
+        "high-low",
+        "semaforo",
+        "impacto",
+        "residuo-neuromuscular",
+        "fatiga",
+        "surfear-la-ola"
+      ],
+      "entities": [
+        "Charlie Francis"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el modelo de semáforo de Humanability para gestionar la carga?",
+        "¿Qué diferencia hay entre los estímulos amarillos y rojos en el entrenamiento?",
+        "¿Qué ejercicios producen mayor residuo neuromuscular y fatiga?"
+      ],
+      "related_terms": [
+        "modelo",
+        "de",
+        "semáforo",
+        "high-low",
+        "impacto",
+        "y",
+        "residuo",
+        "neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallaron los test y metodologías para evaluar la fuerza específica según cada deporte.",
+      "context_after": "Se plantea el dilema de cómo agrupar estas cargas a lo largo de la semana en relación a los entrenamientos del deporte."
+    },
+    {
+      "id": "V01-014",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:43:17",
+      "end_timestamp": "00:45:20",
+      "start_seconds": 2597,
+      "end_seconds": 2720,
+      "duration_seconds": 123,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2597",
+      "title": "Gestión Semanal: Jugar a Doblar vs Contrarrestar la carga",
+      "summary": "Ante la duda de si el trabajo físico debe alternarse con el trabajo técnico-táctico (contrarrestar) o realizarse el mismo día (doblar), Expósito aconseja 'doblar' la carga. Esto asegura que haya días reales de recuperación sistémica, evitando que la 'mochila' diaria de estrés constante impida el descanso.",
+      "literal_quote": "Si juego a contrarrestar pasa esto, que realmente a nivel sistémico, a nivel de organismo, yo nunca descanso. Y eso es algo superimportante... todo va en la misma mochila del día.",
+      "full_transcript": "Y todo esto siempre hay que surfearlo. Planteo la primera pregunta: ¿es mejor jugar a contrarrestar o es mejor jugar a duplicar o a doblar? Me refiero a cuando tengo sesión de alta intensidad con el equipo, en la parte física, ¿yo qué hago? ¿Contrarresto (hago rojo-verde) o juego a doblar (rojo-rojo, verde-verde)? En nuestro caso, la opción más interesante y que llevamos utilizando 10 años, es jugar a doblar. Es decir, si en el deporte estoy en intensidad (rojo), en el trabajo físico tengo que estar en rojo. Salvo que el deporte haya sido tan bestia que no me quede remedio que descansar. ¿Por qué no contrarresto? Porque si juego a contrarrestar pasa esto: que realmente a nivel sistémico, a nivel de organismo, yo nunca descanso. Y eso es algo superimportante tener claro, que al final todo va en la misma mochila del día. El estrés del trabajo, cómo he dormido, el estrés laboral... va en la mochila. Por tanto, tengo que tener días donde estreso al organismo (rojo-rojo), pero tengo que tener otros días donde le tengo que dar la oportunidad real para recuperarse (verde-verde).",
+      "keywords": [
+        "doblar-carga",
+        "contrarrestar",
+        "descanso-sistemico",
+        "mochila-del-dia",
+        "estres",
+        "alta-intensidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Es mejor juntar los días intensos de entrenamiento técnico y físico o separarlos?",
+        "¿Qué significa 'jugar a doblar' en la gestión de la carga de entrenamiento?",
+        "¿Por qué es perjudicial contrarrestar el entrenamiento físico de alta intensidad?"
+      ],
+      "related_terms": [
+        "jugar",
+        "a",
+        "doblar",
+        "vs",
+        "contrarrestar",
+        "descanso",
+        "sistémico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los colores del semáforo para clasificar los ejercicios según su fatiga residual.",
+      "context_after": "Se subraya que, a pesar de planificar una distribución teórica perfecta, se requiere adaptación diaria basada en cómo llega el deportista."
+    },
+    {
+      "id": "V01-015",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:45:20",
+      "end_timestamp": "00:48:43",
+      "start_seconds": 2720,
+      "end_seconds": 2923,
+      "duration_seconds": 203,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2720",
+      "title": "Pilar 4: Adaptación Diaria al Contexto y Readiness Subjetivo",
+      "summary": "La planificación debe ser flexible a los imprevistos diarios. Expósito usa una métrica subjetiva de Readiness (Score del 1 al 5) para determinar si el deportista puede afrontar la carga planificada. Este dato subjetivo es considerado el más macro, rápido y holístico frente a métricas objetivas (ej. CK sanguínea) que tardan demasiado en alertar de la fatiga.",
+      "literal_quote": "El readiness subjetivo... es el marcador más holístico, más integral, por eso más macro, que tenemos... Si no toca, no toca.",
+      "full_transcript": "El último principio es esa adaptación diaria al contexto. Cualquier circunstancia que pase en el día a día es de total importancia. Tener la capacidad de moverse en la incertidumbre es vital. La segunda parte es el readiness (cómo nos encontramos). A veces es muy complicado estandarizar el entrenamiento y repetirlo al milímetro porque el contexto cambia. Por tanto, siempre hay que entrenar en base a cómo se encuentra ese deportista. Utilizamos un score muy simplificado del cinco al uno. El cuatro es que está preparado (ready) para alta intensidad. El cinco es aún mejor. A partir del tres empezaríamos a hacer cambios ligeros, y en el uno toca cambiar la sesión al 100%. Lo simplificamos a semáforos cruzados: si tu readiness está en verde (score alto), puedes hacer sesión roja. Si tu readiness es rojo (1 o 2), te toca sesión verde sí o sí. Que este score sea subjetivo no lo hace peor ni menos científico; para mí es mucho mejor porque es macro, es el marcador más holístico e integral. Si tenemos que esperar a una analítica (CK alta) para cambiar la carga, van a pasar semanas. Es preferible hacer menos test con mayor frecuencia. Lo importante es saber que cuando no estás preparado para hacer esa sesión, no toca. Si no toca, no toca. No puedo esperar a un marcador micro.",
+      "keywords": [
+        "readiness",
+        "adaptacion-diaria",
+        "incertidumbre",
+        "score-subjetivo",
+        "marcador-macro",
+        "holistico"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se utiliza el readiness subjetivo para adaptar el entrenamiento diario?",
+        "¿Por qué el readiness subjetivo es considerado un marcador macro y holístico?",
+        "¿Qué hacer si un deportista tiene un score de readiness muy bajo?"
+      ],
+      "related_terms": [
+        "readiness",
+        "subjetivo",
+        "adaptación",
+        "diaria",
+        "al",
+        "contexto",
+        "semáforo",
+        "cruzado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se discutió la importancia de agrupar las cargas de estrés para permitir la recuperación (doblar en vez de contrarrestar).",
+      "context_after": "Se presenta el RSI modificado como la mejor métrica objetiva para acompañar al readiness subjetivo."
+    },
+    {
+      "id": "V01-016",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:48:43",
+      "end_timestamp": "00:53:15",
+      "start_seconds": 2923,
+      "end_seconds": 3195,
+      "duration_seconds": 272,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2923",
+      "title": "Monitorización Objetiva de Fatiga Neuromuscular: RSI Modificado",
+      "summary": "Para complementar la evaluación subjetiva, se usa el RSI Modificado (Reactive Strength Index Modificado en el CMJ) calculando la altura del salto dividida por el tiempo de contracción. La app My Jump facilita esta medición de forma rápida y accesible.",
+      "literal_quote": "El RSI modificado, que se hace con el CMJ con plataforma de fuerzas, aunque tengo que decir también que la nueva versión de My Jump también la ha incluido... es altura de salto en metros entre el tiempo de contracción.",
+      "full_transcript": "Yéndonos con lo objetivo, nos vamos al RSI modificado. Sí que estoy de acuerdo que la fatiga neuromuscular la percibimos con el RSI modificado. ¿Qué es? No es el RSI conocido del drop jump, sino que se hace con el CMJ con plataforma de fuerzas. Aunque la nueva versión de My Jump también lo ha incluido (agradecimientos a Carlos Balsalobre por permitir que cualquier persona con móvil lo tenga). El RSI modificado es la altura de salto entre el tiempo que he invertido para saltar esa altura (tiempo de contracción o tiempo hasta el despegue). Es el resultado de altura de salto en metros entre el tiempo de contracción. ¿Por qué? Muchos autores tienen claro que cuando tengo mucha fatiga, sí que se ve afectada la altura del salto. Pero seamos sinceros, si tengo a un deportista con un score de readiness 1 o 2, yo ya sé que está muy mal y posiblemente salte menos, no necesito el test para saberlo.",
+      "keywords": [
+        "rsi-modificado",
+        "cmj",
+        "tiempo-de-contraccion",
+        "fatiga-neuromuscular",
+        "my-jump",
+        "carlos-balsalobre"
+      ],
+      "entities": [
+        "My Jump",
+        "Carlos Balsalobre"
+      ],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Métrica",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es el RSI modificado y cómo se calcula en un CMJ?",
+        "¿Qué métrica objetiva refleja mejor la fatiga neuromuscular en saltos?",
+        "¿Qué aplicación móvil permite calcular el RSI modificado en el CMJ?"
+      ],
+      "related_terms": [
+        "rsi",
+        "modificado",
+        "fatiga",
+        "neuromuscular",
+        "tiempo",
+        "de",
+        "contracción",
+        "cmj"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el uso del readiness subjetivo para tomar decisiones sobre si entrenar alta intensidad o no.",
+      "context_after": "Se concluye explicando por qué el tiempo de contracción es clave incluso cuando la altura de salto parece no haber disminuido bajo fatiga moderada."
+    },
+    {
+      "id": "V01-017",
+      "video_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+      "speaker": "Antonio Expósito",
+      "start_timestamp": "00:53:15",
+      "end_timestamp": "00:57:01",
+      "start_seconds": 3195,
+      "end_seconds": 3421,
+      "duration_seconds": 226,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=3195",
+      "title": "Impacto de la Fatiga en la Estrategia Motriz (Tiempo de Contracción)",
+      "summary": "Bajo niveles de fatiga no extrema, un deportista puede mantener su altura de salto normal (rendimiento intacto) pero a costa de invertir mucho más tiempo de contracción (estrategia alterada). Este cambio en el RSI modificado actúa como alerta roja para modificar o cambiar la sesión de entrenamiento.",
+      "literal_quote": "Si la fatiga no es tan alta, lo que se ve afectado no es el rendimiento, sino la estrategia, la forma de alcanzar ese rendimiento. Por eso, lo que más se ve afectado... es el RSI modificado y es el tiempo de contracción.",
+      "full_transcript": "Pero si la fatiga no es tan alta, lo que se ve afectado no es el rendimiento (la altura), sino la estrategia, la forma de alcanzar ese rendimiento. Por eso, lo que más se ve afectado, tanto en fatiga como en una recuperación de cruzado (se comportan igual), es el RSI modificado y es el tiempo de contracción. Fijaos que yo aquí puedo estar saltando lo mismo, pero a nivel de breaking soy mucho menos eficiente, no soy tan agresivo bajando y frenando, y tardo mucho más. La cinética es mucho más lenta. Esto es un ejemplo de una deportista con su media normal, y de repente un día ¡boom!, el tiempo de contracción se dispara. Esto es un claro indicativo de que tengo que hacer un cambio de sesión. O bajo la dosis de la sesión planificada, o si tocaba una sesión roja (alta intensidad), me tendré que ir a una sesión verde (recuperación). Y esto es todo. Todos los modelos son erróneos, pero algunos son útiles. Espero que el nuestro de Humanability os haya sido útil. Tenéis mis contactos para profundizar.",
+      "keywords": [
+        "estrategia-motriz",
+        "tiempo-de-contraccion",
+        "fatiga",
+        "rsi-modificado",
+        "cambio-de-sesion"
+      ],
+      "entities": [
+        "Humanability"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Análisis",
+        "Cierre"
+      ],
+      "search_questions": [
+        "¿Por qué es importante medir el tiempo de contracción en el CMJ en estados de fatiga?",
+        "¿Cómo altera la fatiga la estrategia de salto aunque se mantenga la altura?",
+        "¿Cuándo se debe cambiar una sesión de alta intensidad a recuperación basándose en el CMJ?"
+      ],
+      "related_terms": [
+        "tiempo",
+        "de",
+        "contracción",
+        "estrategia",
+        "motriz",
+        "bajo",
+        "fatiga",
+        "rsi",
+        "modificado"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se presentó la fórmula del RSI modificado para el CMJ.",
+      "context_after": "Fin de la presentación sobre el Sistema Adaptativo Humanability."
+    }
+  ]
+}
