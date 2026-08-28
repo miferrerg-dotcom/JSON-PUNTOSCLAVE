@@ -1,0 +1,321 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+    "speaker": "Marcos Soriano",
+    "total_duration": "00:12:52",
+    "total_duration_seconds": 772,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:01:29",
+      "end_timestamp": "00:02:55",
+      "start_seconds": 89,
+      "end_seconds": 175,
+      "duration_seconds": 86,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=89",
+      "title": "Concepto de halterofilia y adaptaciones transferibles",
+      "summary": "La halterofilia es un deporte basado en movimientos técnicamente complejos y de alta intensidad, como la arrancada y el dos tiempos [1, 2]. Exige el desarrollo integral de fuerza, velocidad, flexibilidad, coordinación y resistencia, lo que permite transferir adaptaciones valiosas a deportistas de otras disciplinas [3, 4].",
+      "literal_quote": "Entender esto es bastante importante, porque si entendemos que el deportista de la halterofilia tiene que ser un buen deportista o un deportista muy completo, nos puede transferir un poco esas adaptaciones que van a tener esos deportistas gracias a realizar este tipo de ejercicios y entrenamientos en otros deportes.",
+      "full_transcript": "Vamos con ello y empezamos con la introducción. Lo primero de todo, tenemos que saber qué es la halterofilia. La halterofilia es un deporte que se compone de dos movimientos, como podéis ver en la imagen, técnicamente complejos, desarrollados por una serie de acciones de alta intensidad, como son el snatch y el clean and jerk, o la arrancada y el dos tiempos. Como vemos en estos movimientos, no solo es importante el desarrollo de fuerza y potencia, sino también la destreza y la complejidad técnica de los propios ejercicios, que son necesarios para tener éxito en ellos. De hecho, debido a estas peculiaridades del deporte, ya el doctor Juan José González Padillo, en su momento, dejaba claro que la halterofilia era un deporte que exige el desarrollo de fuerza muscular, velocidad, flexibilidad y habilidad para coordinarse correctamente con una cierta dosis de resistencia. Eso presenta la halterofilia como un deporte bastante completo, que hace a un deportista bastante completo. Entender esto es bastante importante, porque si entendemos que el deportista de la halterofilia tiene que ser un buen deportista o un deportista muy completo, nos puede transferir un poco esas adaptaciones que van a tener esos deportistas gracias a realizar este tipo de ejercicios y entrenamientos en otros deportes.",
+      "keywords": [
+        "halterofilia",
+        "snatch",
+        "clean-and-jerk",
+        "adaptaciones",
+        "transferencia",
+        "fuerza",
+        "potencia"
+      ],
+      "entities": [
+        "Juan José González Padillo"
+      ],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué es la halterofilia y qué cualidades desarrolla?",
+        "¿Por qué los levantamientos olímpicos se transfieren bien a otros deportes?"
+      ],
+      "related_terms": [
+        "complejidad técnica",
+        "alta intensidad",
+        "destreza",
+        "coordinación"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación del ponente Marcos Soriano y su experiencia en la halterofilia y ciencias del deporte.",
+      "context_after": "Simplificación de los factores clave que determinan el rendimiento en los movimientos olímpicos."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:02:56",
+      "end_timestamp": "00:04:26",
+      "start_seconds": 176,
+      "end_seconds": 266,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=176",
+      "title": "Factores determinantes del rendimiento en halterofilia",
+      "summary": "El rendimiento se simplifica en tres factores clave: elevación de la barra, precisión en la trayectoria y capacidad de fijar y recuperar la postura [5, 6]. A pesar de su simplicidad conceptual, los levantamientos exigen una destreza motora milimétrica frente a cargas muy pesadas [7-9].",
+      "literal_quote": "Que es la elevación de la barra, cuánto se eleva la barra, la trayectoria que sigue esta barra, porque no hay únicamente que elevarla, sino que tiene que ir al sitio para que el deportista sea capaz de cogerla y de pararla.",
+      "full_transcript": "Si lo intentamos simplificar al máximo, podríamos ver cómo en la halterofilia el rendimiento se puede determinar por únicamente tres factores. Lo más simple posible. Que es la elevación de la barra, cuánto se eleva la barra, la trayectoria que sigue esta barra, porque no hay únicamente que elevarla, sino que tiene que ir al sitio para que el deportista sea capaz de cogerla y de pararla. Y luego, justamente esa última parte, fijar la barra y recuperar, es decir, ponerse de pie, dado que estas son las reglas que tiene la halterofilia. No obstante, aunque esto parezca muy sencillo, cualquiera que lo haya intentado sabe que no es tan fácil, porque tienes que superar las rodillas, porque tienes que superar diferentes puntos anatómicos, que obviamente, y más con cargas pesadas, se hace muy difícil. No obstante, me gustaría que vieran este vídeo, porque creo que se percibe claramente cómo un deportista de halterofilia no deja de ser una máquina afinada que es capaz de repetir un movimiento técnicamente muy complejo ante cargas bastante altas, prácticamente con precisión milimétrica. Pero precisión milimétrica hasta el punto que ni siquiera los programas que tenemos más sofisticados de análisis muchas veces son capaces de detectar verdaderas variaciones o desviaciones entre unos levantamientos y otros. Y esto lo que implica es que al final se desarrolla una destreza motora extraordinaria.",
+      "keywords": [
+        "rendimiento",
+        "trayectoria",
+        "precisión-milimétrica",
+        "destreza-motora",
+        "cargas-pesadas"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cuáles son los factores que determinan el éxito en un levantamiento de halterofilia?",
+        "¿Qué nivel de destreza motora exige la halterofilia?"
+      ],
+      "related_terms": [
+        "elevación de la barra",
+        "fijar y recuperar",
+        "puntos anatómicos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de la halterofilia y sus beneficios de transferencia a otras disciplinas deportivas.",
+      "context_after": "Explicación biomecánica del gesto técnico conocido como la triple extensión."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:04:40",
+      "end_timestamp": "00:05:29",
+      "start_seconds": 280,
+      "end_seconds": 329,
+      "duration_seconds": 49,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=280",
+      "title": "La triple extensión y correspondencia dinámica",
+      "summary": "Los movimientos de halterofilia se caracterizan por una triple extensión de tobillo, rodilla y cadera [10]. Este patrón motor está estrechamente relacionado con acciones deportivas como el salto, el sprint o los cambios de dirección, lo que asegura una gran transferencia siguiendo el principio de correspondencia dinámica en condiciones de sobrecarga [11, 12].",
+      "literal_quote": "Entonces, simplemente que se produzca esto ya es algo lo suficientemente interesante, porque puede tener esa transferencia dinámica, siguiendo el principio de correspondencia dinámica, a otros deportes.",
+      "full_transcript": "Si vemos estos ejercicios, podremos ver algo bastante representativo y voy a utilizar por aquí el puntero láser. Vemos que todos coinciden en esta parte de aquí. Es decir, se produce una triple extensión de tobillo, rodilla y cadera, que además es algo que está muy relacionado con lo que pasa en el sprint o con lo que pasa en el salto o en el cambio de dirección u otras acciones deportivas. Entonces, simplemente que se produzca esto ya es algo lo suficientemente interesante, porque puede tener esa transferencia dinámica, siguiendo el principio de correspondencia dinámica, a otros deportes, porque justamente se cumple ese mismo patrón motor, pero en una condición de sobrecarga.",
+      "keywords": [
+        "triple-extensión",
+        "sprint",
+        "salto",
+        "cambio-de-dirección",
+        "correspondencia-dinámica",
+        "sobrecarga"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Concepto biomecánico"
+      ],
+      "search_questions": [
+        "¿Qué es la triple extensión en halterofilia?",
+        "¿Cómo se relaciona la halterofilia con el principio de correspondencia dinámica?"
+      ],
+      "related_terms": [
+        "tobillo, rodilla y cadera",
+        "patrón motor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de la complejidad y precisión requerida en los levantamientos de halterofilia.",
+      "context_after": "Análisis cinético y desarrollo de la curva de fuerza a través del RFD en el segundo tirón."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:05:30",
+      "end_timestamp": "00:07:55",
+      "start_seconds": 330,
+      "end_seconds": 475,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=330",
+      "title": "Análisis cinético y la tasa de desarrollo de fuerza (RFD)",
+      "summary": "El análisis en plataformas de fuerza revela un incremento abrupto de la producción de fuerza tras superar las rodillas, conocido como segundo tirón o Rate of Force Development (RFD) [12-15]. Este pico de fuerza rápida es esencial para dar altura a la barra y presenta una alta transferencia a otros deportes de potencia [14, 15].",
+      "literal_quote": "Esto implica que justamente cuando se supera la rodilla y se está en esta parte, el deportista se ve obligado a aplicar mucha fuerza y muy rápidamente para darle altura a la barra.",
+      "full_transcript": "Vamos a verlo ahora en acción, porque no solamente es importante ver que se cumple ese patrón a nivel cinemático, sino que también sería interesante analizarlo dinámicamente o cinéticamente, es decir, cómo se aplican las fuerzas. Y aquí en la halterofilia vemos algo interesante, y es que nosotros denominamos primer tirón y segundo tirón. El primer tirón es básicamente cuando se arranca la barra del suelo, más o menos hasta llegar a la rodilla, y al pasar la rodilla, para que nos entendamos, hacer esa triple extensión como tienen aquí, vemos un incremento abrupto en la producción de fuerza. Esto de aquí es una pendiente bastante alta Además, nosotros lo conocemos como tasa de desarrollo de fuerza o RFD. Esto implica que justamente cuando se supera la rodilla y se está en esta parte, el deportista se ve obligado a aplicar mucha fuerza y muy rápidamente para darle altura a la barra, como vamos a verlo en este vídeo de aquí. Aquí tienen a Marcos Ruiz, actual campeón nuestro de España en halterofilia, con 210 kilos en cargada, en dos tiempos, clean and jerk. Y como podemos ver, aparte de que es algo espectacular, esto fue tomado en el pasado mundial de Noruega, donde teníamos unas plataformas de fuerza aquí integradas dentro de la propia tarima de halterofilia. Se podía captar básicamente todo lo que estaba haciendo el levantador. Pese a que cada levantador tiene su propia estrategia de levantamiento, su técnica individual, que se adapta a la escuela que le ha enseñado, a sus propias características antropométricas, a sus propias cualidades neuromusculares, podemos ver algo muy parecido a la figura de aquí. Vemos un primer tirón, que es más estable, vemos una pequeña caída, que aquí se queda aproximadamente por aquí, pero vemos esa pequeña caída, que es lo que nosotros llamamos fase de transición o el pase de rodillas, pero después sí que vemos ese aumento de producción de fuerza de manera abrupta. Esto sí que coincide claramente. Esto es algo muy interesante, no solamente dentro de la propia halterofilia, sino que es algo muy interesante porque también se produce en otros deportes.",
+      "keywords": [
+        "análisis-cinético",
+        "rfd",
+        "segundo-tirón",
+        "producción-de-fuerza",
+        "plataformas-de-fuerza"
+      ],
+      "entities": [
+        "Marcos Ruiz"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué es la tasa de desarrollo de fuerza (RFD) en la halterofilia?",
+        "¿Qué ocurre durante el segundo tirón en un levantamiento olímpico?"
+      ],
+      "related_terms": [
+        "fase de transición",
+        "pase de rodillas",
+        "tasa de desarrollo de fuerza"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del gesto cinemático de la triple extensión y el principio de correspondencia dinámica.",
+      "context_after": "Ejemplo práctico de cómo este pico de fuerza rápida se traduce en una capacidad de salto excepcional."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:07:56",
+      "end_timestamp": "00:09:05",
+      "start_seconds": 476,
+      "end_seconds": 545,
+      "duration_seconds": 69,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=476",
+      "title": "Potencia relativa y capacidad de salto en halterófilos",
+      "summary": "El incremento abrupto en el Rate of Force Development (RFD) explica por qué los halterófilos son excelentes saltadores [16]. En evaluaciones realizadas en campeonatos mundiales, los levantadores promediaron saltos de más de 50 centímetros, moviendo masas corporales superiores a 115 kilos a gran velocidad [17, 18].",
+      "literal_quote": "Entonces, cuanto menos es algo a tener en cuenta, esa potencia de piernas, sobre todo potencia relativa, porque además les permite mover su masa muy rápidamente.",
+      "full_transcript": "Podemos ver, por ejemplo, cómo en el salto, como he dicho anteriormente, vemos también este incremento abrupto en las diferentes acciones de salto si las midiéramos con una plataforma de fuerzas. De hecho, por eso también los halterófilos son muy buenos saltadores. Tuve la oportunidad de poder testear posiblemente a los mejores halterófilos del mundo porque fue en un mundial y la verdad que los saltos que tienen son absolutamente extraordinarios. Estamos hablando de que la media estaba en 50 y pico centímetros. Hablando de gente que es muy grande, que algunos pesaban 115 kilos y saltaban 60 centímetros. Entonces, cuanto menos es algo a tener en cuenta, esa potencia de piernas, sobre todo potencia relativa, porque además les permite mover su masa muy rápidamente. De hecho, aquí tenemos un ejemplo de Rahman haciendo uno de sus calentamientos. Como ven, es algo absolutamente extraordinario, sobre todo para el que no lo haya visto anteriormente.",
+      "keywords": [
+        "salto",
+        "potencia-relativa",
+        "rfd",
+        "potencia-de-piernas",
+        "masa-corporal"
+      ],
+      "entities": [
+        "Rahman"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué los halterófilos tienen tan buen rendimiento en salto vertical?",
+        "¿Cómo influye la halterofilia en la potencia relativa de piernas?"
+      ],
+      "related_terms": [
+        "acción de salto",
+        "testear",
+        "incremento abrupto"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estudio de las fases del levantamiento en plataforma de fuerzas, enfocándose en la explosividad post-rodillas.",
+      "context_after": "Adaptación y aplicación de los principios clásicos del entrenamiento al entorno de la halterofilia."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:09:06",
+      "end_timestamp": "00:11:32",
+      "start_seconds": 546,
+      "end_seconds": 692,
+      "duration_seconds": 146,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=546",
+      "title": "Principios del entrenamiento aplicados a la halterofilia",
+      "summary": "La planificación en halterofilia se basa en tres principios: especificidad, utilizando los movimientos de competición y bajas repeticiones con cargas cercanas a máximas [19-21]; sobrecarga, buscando aumentar la fuerza y el tonelaje levantado [22, 23]; y variedad, fragmentando movimientos y fluctuando intensidades en las sesiones [23, 24].",
+      "literal_quote": "No tiene sentido utilizar una variedad de ejercicios que no se parezca absolutamente en nada a los ejercicios de la halterofilia porque no nos estaríamos acercando a esa especificidad. Tampoco tiene sentido entrenar la mayoría del entrenamiento con cargas del 40 o del 50 %.",
+      "full_transcript": "No solamente son importantes los ejercicios, sino que creo que es importante aplicar los principios del entrenamiento a la propia halterofilia para que la entendamos un poquito mejor. La halterofilia como tal no es muy compleja de entender. Luego sí, obviamente, tiene, como todos los deportes, sus particularidades, pero al final implica el uso de aquellos ejercicios que se realizan en competición, arrancada y dos tiempos, con un bajo número de repeticiones, porque al final tú tienes tres intentos de cada para poder dar el máximo y un estímulo de carga efectivamente cercano al máximo. Esto es lo que determinaría el principio de especificidad. De aquí partimos, que competimos en levantamientos máximos para estos dos movimientos y que tenemos tres en cada uno de esos ejercicios por competición. Con lo cual vamos a tener que hacer entrenamientos que se orienten a eso. No tiene sentido utilizar una variedad de ejercicios que no se parezca absolutamente en nada a los ejercicios de la halterofilia porque no nos estaríamos acercando a esa especificidad. Tampoco tiene sentido entrenar la mayoría del entrenamiento con cargas del 40 o del 50 % porque no nos estaríamos acercando a esa especificidad. Por otra parte, el principio de sobrecarga. Obviamente, cualquier plan de entrenamiento, al final lo que busca es que el levantador levante más kilos. Para eso se tiene que poner más fuerte, tiene que ser capaz de levantar más cargas, tiene que tener un mayor volumen total de kilos levantados, un mayor tonelaje. El principio de sobrecarga, que tan importante es, si no es el más importante de todos. Y después, obviamente, el principio de variedad. No significa que vayamos y hagamos todos los días arrancada dos tiempos, tres intentos máximos de cada uno como si fuera una competición. No, esto no va así. Implica simplemente que esa es la base de la que partimos, pero a partir de ahí podemos seleccionar diferentes ejercicios, que normalmente partimos el movimiento completo en diferentes secciones, en diferentes fases. Variamos días en los que hay una carga más pesada, días en los que hay carga relativamente más liviana, el número de ejercicios, el número de repeticiones.",
+      "keywords": [
+        "principio-especificidad",
+        "principio-sobrecarga",
+        "principio-variedad",
+        "volumen",
+        "tonelaje",
+        "cargas-máximas"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principios del entrenamiento aplicados a la halterofilia?",
+        "¿Cómo se asegura el principio de especificidad y variedad en los entrenamientos de halterofilia?"
+      ],
+      "related_terms": [
+        "bajo número de repeticiones",
+        "esfuerzo cercano al máximo",
+        "volumen total"
+      ],
+      "relevance_score": 5,
+      "context_before": "Demostración de la alta transferencia de potencia de la halterofilia en evaluaciones de salto vertical.",
+      "context_after": "Desglose específico de los rangos de repeticiones de trabajo utilizados para evitar fatiga excesiva."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:11:33",
+      "end_timestamp": "00:12:52",
+      "start_seconds": 693,
+      "end_seconds": 772,
+      "duration_seconds": 79,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=693",
+      "title": "Rangos de repeticiones y control de carga técnica",
+      "summary": "Para los ejercicios competitivos, los entrenamientos manejan rangos de 1 a 3 repeticiones, siendo las series de 2 las más habituales [25-27]. Volúmenes mayores (e.g. series de 10) impiden mantener la precisión milimétrica requerida ante grandes demandas neuromusculares [25, 26].",
+      "literal_quote": "Son ejercicios muy complejos técnicamente, que requieren de una gran demanda neuromuscular, porque también estamos levantando cargas pesadas y de precisión milimétrica. Entonces, no se puede trabajar a 10 repeticiones o a nueve, porque estaríamos en unas condiciones seguramente de fatiga que no nos dejarían realizar los ejercicios correctamente.",
+      "full_transcript": "Al final es un deporte bastante divertido. Por más que la gente piense que únicamente son tres movimientos y ya está. Os aseguro que nunca acabas de aburrirte de este deporte. No obstante, vamos a ver un poquito más qué características tienen nuestras sesiones de entrenamiento. Por ejemplo, para los ejercicios competitivos y técnicos, que esto es algo interesante a poder ver, el rango de repeticiones más común es entre una y tres repeticiones. Es decir, no trabajamos con tres series de 10, porque no tiene sentido. Son ejercicios muy complejos técnicamente, que requieren de una gran demanda neuromuscular, porque también estamos levantando cargas pesadas y de precisión milimétrica. Entonces, no se puede trabajar a 10 repeticiones o a nueve, porque estaríamos en unas condiciones seguramente de fatiga que no nos dejarían realizar los ejercicios correctamente. Además, si analizamos los programas de entrenamiento, el mayor porcentaje de series se desarrolla en dos repeticiones. Y de hecho, los rangos de cuatro o seis representan un tanto por ciento muy bajo de las series totales del programa, que es cuando estamos más fuera de las competiciones, cuando estamos en pretemporada y a lo mejor queremos hacer con pesos más máximos algo de más repeticiones simplemente por afianzar el gesto técnico. Pero no es algo normal con lo que nosotros entrenemos. De hecho, aquí siempre digo una ley no escrita que existe en la halterofilia, que dice algo así como que más de tres repeticiones es cardio.",
+      "keywords": [
+        "rangos-repeticiones",
+        "fatiga",
+        "demanda-neuromuscular",
+        "precisión-milimétrica",
+        "control-carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué no se utilizan altas repeticiones en el entrenamiento de halterofilia?",
+        "¿Cuál es el rango de repeticiones ideal para ejercicios técnicos competitivos?"
+      ],
+      "related_terms": [
+        "series de 10",
+        "ley no escrita",
+        "afianzar el gesto técnico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de los principios de especificidad, sobrecarga y variedad.",
+      "context_after": "Fin del fragmento procesado."
+    }
+  ]
+}

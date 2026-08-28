@@ -1,0 +1,276 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+    "speaker": "Marcos Soriano",
+    "total_duration": "00:15:34",
+    "total_duration_seconds": 934,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:50",
+      "start_seconds": 1,
+      "end_seconds": 230,
+      "duration_seconds": 229,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Trabajo complementario y adaptaciones neurales progresivas",
+      "summary": "El trabajo complementario (sentadillas, tirones) utiliza rangos de 3 a 8 repeticiones para mantener el balance estructural. Además, trabajar cercano al máximo con una destreza motora compleja genera mejoras continuas en la coordinación intermuscular, desmintiendo que las adaptaciones neurales se estabilicen rápidamente.",
+      "literal_quote": "En la parte neural lo primero no es que se estabilice y ya no mejore, todo lo contrario, la coordinación intermuscular no deja de mejorarse.",
+      "full_transcript": "Por otra parte, podemos ver en estos ejercicios de aquí, que serían al final lo que nosotros llamamos ejercicios complementarios, auxiliares o de fuerza especial, que son todo lo relacionado con las sentadillas, tanto la frontal como la trasera... El rango más común de repeticiones aquí sí que se amplía un poquito, desde tres a ocho repeticiones... Hoy sabemos que no es así y además en este artículo lo dejan bien claro: que en la parte neural lo primero no es que se estabilice y ya no mejore, todo lo contrario, la coordinación intermuscular no deja de mejorarse. De hecho, se puede ver en halterófilos... De hecho, quizá sea una de las claves por las cuales un deportista de halterofilia, con mucha menor masa muscular que un culturista o cualquier otro deportista, es capaz de levantar muchísima más carga y muchísimo más rápido.",
+      "keywords": [
+        "ejercicios-complementarios",
+        "fuerza-especial",
+        "adaptaciones-neurales",
+        "coordinación-intermuscular",
+        "destreza-motora"
+      ],
+      "entities": [
+        "Sale"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué rango de repeticiones se usa para el trabajo auxiliar en halterofilia?",
+        "¿Cómo progresan las adaptaciones neurales en el entrenamiento de fuerza?"
+      ],
+      "related_terms": [
+        "ejercicios auxiliares",
+        "gráfica de Sale",
+        "coordinación intermuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las repeticiones bajas reservadas para ejercicios competitivos.",
+      "context_after": "Definición biomecánica de una técnica correcta a través de vectores de fuerza."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:03:52",
+      "end_timestamp": "00:06:08",
+      "start_seconds": 232,
+      "end_seconds": 368,
+      "duration_seconds": 136,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=232",
+      "title": "La técnica como aplicación vectorial y fuerza relativa",
+      "summary": "Una buena técnica es una correcta aplicación de vectores de fuerza (dirección, sentido, magnitud). Los halterófilos generan mucha más fuerza por área de sección transversal muscular en comparación con los culturistas, siendo su masa muscular puramente funcional.",
+      "literal_quote": "¿qué es una buena técnica sino una correcta aplicación de fuerzas? Entendiendo la fuerza como lo que verdaderamente es, sino una magnitud vectorial...",
+      "full_transcript": "Yo tengo una frase dentro de la halterofilia que digo que: ¿qué es una buena técnica sino una correcta aplicación de fuerzas? Entendiendo la fuerza como lo que verdaderamente es, sino una magnitud vectorial que tiene dirección, que tiene sentido, que tiene punto de aplicación y que tiene módulo. Al final, lo que desarrollan los halterófilos es esa capacidad de ser capaces de... aplicar las fuerzas necesarias en dirección, sentido, con la suficiente magnitud como para elevar la barra al punto en el que la tienen que elevar... Y vemos cómo los halterófilos presentan la mayor capacidad de aplicación de fuerza por área de sección transversal. Pero es que cuando dividimos eso por la propia masa... vemos que los halterófilos siempre salen ganando en cuanto a que la masa muscular que adquieren siempre sirve para levantar un kilo más... Toda la masa muscular que tiene que acompañar al halterófilo, aparte de tener una función protectora y de compensación, nos tiene que llevar a levantar un kilo más, porque si no, no tendría sentido.",
+      "keywords": [
+        "técnica",
+        "vectores",
+        "sección-transversal",
+        "fuerza-relativa",
+        "masa-funcional"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué se considera una buena técnica en halterofilia?",
+        "¿Qué diferencias existen en la aplicación de fuerza entre halterófilos y culturistas?"
+      ],
+      "related_terms": [
+        "magnitud vectorial",
+        "área de sección transversal",
+        "dirección y sentido"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las continuas mejoras en la coordinación intermuscular.",
+      "context_after": "Muestra visual de levantamientos pesados de atletas de élite en sentadilla y arrancada."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:06:10",
+      "end_timestamp": "00:08:31",
+      "start_seconds": 370,
+      "end_seconds": 511,
+      "duration_seconds": 141,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=370",
+      "title": "Capacidades de fuerza extrema y potencia elástica",
+      "summary": "Los levantadores olímpicos alcanzan niveles de fuerza asombrosos, como mover tres veces su peso corporal en sentadilla con aparente facilidad. En pruebas de potencia (Squat Jump, CMJ), logran regularmente saltos superiores a los 50-60 centímetros.",
+      "literal_quote": "No deja de ser gente muy fuerte, levantar tres veces tu peso corporal en sentadilla... O este CMJ de 62 centímetros, que es exactamente extraordinario también.",
+      "full_transcript": "De hecho, aquí podemos ver ciertos levantamientos que, si no los hemos visto anteriormente, nos pueden dejar bastante asombrados... Aquí tenemos Kazajo Antropov haciendo 305 kilos a dos repeticiones de sentadilla, como veis, prácticamente sin esfuerzo aparente, en categoría de 102 kilos. No deja de ser gente muy fuerte, levantar tres veces tu peso corporal en sentadilla. Y aquí tenemos a Narova, una de nuestras levantadoras, creo que con 170 kilos... Pero aparte, si no solamente nos centramos en esa parte de fuerza bruta... vamos a esa parte de potencia. Eso es un test que hacemos mucho, que es el squat jump, pero desde la posición más profunda, en el que aprovechamos toda esa parte propulsiva. Y como vemos, creo que esta chica consiguió 52 centímetros, son datos absolutamente extraordinarios. O este CMJ de 62 centímetros, que es exactamente extraordinario también. Pero es que no contentos con eso, algunos de ellos incluso se permiten hasta vacilar en las salas de calentamiento. De esta manera, porque es tal la potencia que tienen y son tales las cualidades que tienen...",
+      "keywords": [
+        "fuerza-extrema",
+        "squat-jump",
+        "cmj",
+        "potencia",
+        "evaluación"
+      ],
+      "entities": [
+        "David Sánchez",
+        "Antropov",
+        "Narova",
+        "Centro de Alto Rendimiento de Madrid"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cuánta fuerza puede desarrollar un halterófilo de élite?",
+        "¿Cuáles son los resultados promedio de un halterófilo en un CMJ o Squat Jump?"
+      ],
+      "related_terms": [
+        "tirón de cargada",
+        "fuerza bruta",
+        "parte propulsiva"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de la técnica a través de la aplicación de vectores de fuerza relativa.",
+      "context_after": "Análisis de las características morfológicas y composición corporal de los deportistas."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:08:58",
+      "end_timestamp": "00:11:52",
+      "start_seconds": 538,
+      "end_seconds": 712,
+      "duration_seconds": 174,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=538",
+      "title": "Adaptaciones morfológicas y perfil somatotípico",
+      "summary": "El entrenamiento pesado induce hipertrofia en fibras rápidas y mejora drásticamente la masa ósea y los tejidos blandos. Se desmiente el mito del halterófilo obeso: son predominantemente mesomorfos con niveles bajos de grasa corporal (5-10% en hombres) para maximizar su competitividad en cada categoría de peso.",
+      "literal_quote": "Igualmente presentan niveles de masa ósea superiores... De hecho, son somatotipos predominantemente mesomorfos, que presentan un 5 % o 10 % de grasa corporal en hombres.",
+      "full_transcript": "Específicamente, las fibras tipo 2... van a estar marcadamente más grandes o van a tener una mayor área de sección transversal. Es normal, porque al final es el estímulo con el que ellos entrenan. Igualmente presentan niveles de masa ósea superiores, y esto es algo Interesante, porque incluso tras 30 años de retirada, los levantadores presentan marcadores en los metabolismos óseos significativamente más altos... Además, presentan adaptaciones en el grosor y rigidez en el tendón, tejido conectivo, cartílagos y meniscos... Igualmente, quiero tachar un mito. Normalmente tendemos a relacionar la halterofilia con esto de aquí... La verdad es que los cuerpos en la halterofilia son más parecidos a estos. De hecho, son somatotipos predominantemente mesomorfos, que presentan un 5 % o 10 % de grasa corporal en hombres y un 10 % o 20 % en mujeres. Y esto es por algo muy básico, porque al final competimos en categorías de peso y te interesa estar en la categoría de peso lo más fino posible, porque de esa manera te va a permitir que la mayoría de peso que acumules sea en masa muscular... Además, tenemos que ver una cosa, que es que la halterofilia como tal requiere de un elevado gasto energético y estímulo metabólico.",
+      "keywords": [
+        "fibras-tipo-2",
+        "metabolismo-óseo",
+        "composición-corporal",
+        "somatotipo",
+        "grasa-corporal"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ciencia"
+      ],
+      "search_questions": [
+        "¿Qué adaptaciones óseas genera la halterofilia a largo plazo?",
+        "¿Cuál es el porcentaje de grasa corporal habitual de un levantador olímpico?"
+      ],
+      "related_terms": [
+        "mecanotransducción",
+        "tejido conectivo",
+        "mesomorfo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exhibición de marcas de fuerza extrema y potencia elástica/reactiva en deportistas de élite.",
+      "context_after": "Análisis de la complejidad técnica de los movimientos y cómo penaliza pequeños errores."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:11:53",
+      "end_timestamp": "00:13:41",
+      "start_seconds": 713,
+      "end_seconds": 821,
+      "duration_seconds": 108,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=713",
+      "title": "Complejidad técnica y sensibilidad al error de postura",
+      "summary": "La enorme complejidad técnica de los levantamientos mejora profundamente el desarrollo motor y el equilibrio. Las acciones requieren de una similitud biomecánica tan estricta que mínimas alteraciones en la firmeza de la postura de entrada provocan directamente el fallo del levantamiento.",
+      "literal_quote": "Ha ejecutado tres levantamientos prácticamente a precisión milimétrica... el tercer levantamiento el que va a fallar, porque la posición de entrada no ha sido lo suficientemente dura...",
+      "full_transcript": "Además, me gusta hablar siempre de la alta complejidad técnica y de cómo esto puede influir al desarrollo motor y permitir una mejora en la coordinación y activación de los grupos musculares. Aquí pongo este vídeo de los Juegos en el que este levantador... pierde el equilibrio. Sin embargo, vemos cómo se queda con 166 kilos encima de la cabeza a una sola pierna, aguantando esa parte de equilibrio, para que luego te digan que el equilibrio se trabaja mediante un BOSU. Igual me gusta poner este ejemplo de Lu Xiaojun... de lo que estoy seguro es que nadie se jugaría su casa, básicamente porque lo que acabamos de ver es que ha ejecutado tres levantamientos prácticamente a precisión milimétrica... Aquí ya estamos empezando a ver cómo va a ser el tercer levantamiento el que va a fallar, porque la posición de entrada no ha sido lo suficientemente dura y este es el levantamiento que falla. También es cierto que esto fue un récord del mundo que se quitó a sí mismo... Entonces, tenía toda la posibilidad de poder fallar.",
+      "keywords": [
+        "complejidad-técnica",
+        "equilibrio",
+        "precisión-milimétrica",
+        "desarrollo-motor",
+        "error-de-postura"
+      ],
+      "entities": [
+        "Lu Xiaojun"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Análisis",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué nivel de sensibilidad al error tienen los movimientos de halterofilia?",
+        "¿Cómo beneficia la halterofilia al desarrollo del equilibrio y coordinación?"
+      ],
+      "related_terms": [
+        "posición de entrada",
+        "desarrollo motor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre la fisiología, masa magra y somatotipo mesomorfo de los atletas.",
+      "context_after": "Argumentación de que estos altos requerimientos técnicos fuerzan también una flexibilidad articular muy alta."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:13:43",
+      "end_timestamp": "00:15:34",
+      "start_seconds": 823,
+      "end_seconds": 934,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=823",
+      "title": "Movilidad articular como ventaja competitiva y de salud",
+      "summary": "Se desmiente el mito de la rigidez: la halterofilia exige un rango de movimiento (ROM) muy amplio. Poseer mayor movilidad otorga ventajas mecánicas directas (como recibir la barra a menor altura) y se entrena en todo el rango articular para favorecer una salud completa de las articulaciones.",
+      "literal_quote": "Debido a que son movimientos en los que se desarrolla un rango de movimiento activo, aparte muy amplio, estamos hablando de que incluso una mayor movilidad puede tener ventajas competitivas...",
+      "full_transcript": "También hay algo interesante, y es que dentro de la halterofilia, que normalmente solemos tener a aquellos deportistas más musculados como que pueden perder rango de movimiento o porque pueden quedarse relativamente rígidos... pero la realidad es la siguiente: debido a que son movimientos en los que se desarrolla un rango de movimiento activo, aparte muy amplio, estamos hablando de que incluso una mayor movilidad puede tener ventajas competitivas, porque te permite meterte más abajo. Eso te permite que la barra no tenga que subir tanto para tú poder meterte y recepcionar la barra. Y eso al final te permite la posibilidad de poder levantar más kilos o incluso tener estrategias como pueda ser la del push jerk, que se necesita de una movilidad torácica y cervical absolutamente extraordinaria, o esta movilidad que estamos viendo de dorsiflexión... De hecho, hay ejercicios que específicamente se trabajan para ganar esta movilidad y muchos de los ejercicios que nosotros trabajamos en el gimnasio tienen poco que ver con lo que vemos en gimnasios más convencionales... porque nosotros buscamos rangos de movimiento completos... Buscamos darle una salud completa a esa articulación y darle el rango de movimiento completo, porque es lo que es más específico para nosotros. Incluso trabajar press tras nuca u otro tipo de actividades que puedan ver.",
+      "keywords": [
+        "rango-de-movimiento",
+        "movilidad",
+        "salud-articular",
+        "rom-completo",
+        "flexibilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la movilidad articular en la halterofilia?",
+        "¿De qué manera mejora una mayor flexibilidad el rendimiento mecánico en un levantamiento?"
+      ],
+      "related_terms": [
+        "push jerk",
+        "rango de movimiento activo",
+        "salud completa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de precisión técnica, postura y equilibrio en levantamientos olímpicos.",
+      "context_after": "Fin del fragmento procesado."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+    "speaker": "Marcos Soriano",
+    "total_duration": "00:13:28",
+    "total_duration_seconds": 808,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:50",
+      "start_seconds": 1,
+      "end_seconds": 110,
+      "duration_seconds": 109,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Beneficios de la fuerza máxima y transferencia a otros deportes",
+      "summary": "Desarrollar altos niveles de fuerza mejora la Tasa de Desarrollo de Fuerza (RFD) y la potencia. Además, aumenta la tolerancia a las cargas específicas del deporte, permitiendo entrenar más, y reduce significativamente el riesgo de lesiones en los tejidos blandos.",
+      "literal_quote": "Aquellos deportistas que son más fuertes pueden entrenar más, pueden meter más carga específica de su propio deporte gracias a que tienen un mayor sustento, una mayor base.",
+      "full_transcript": "Vamos ahora con la halterofilia como herramienta para optimizar el rendimiento. Una vez que sabemos cuáles son las adaptaciones que principalmente rodean a los halterófilos... vemos por qué este deporte, o por qué tomar ejercicios o modelos de entrenamiento de este deporte, puede beneficiar a otros deportes, como el rugby, el baloncesto, el fútbol o el atletismo... Al final sabemos que en la mayoría de deportes el rendimiento se consigue gracias a desarrollar unos altos niveles de fuerza y potencia. De hecho, sabemos que la fuerza muscular recientemente ha sido relacionada con aquellos deportistas que la poseen. Presentan una mayor capacidad de desarrollo de fuerza rápida, lo que conocemos como RFD, y una mayor capacidad de desarrollar potencia, pero también está relacionado con tener una mayor tolerancia a las cargas de trabajo. Es decir, aquellos deportistas que son más fuertes pueden entrenar más, pueden meter más carga específica de su propio deporte gracias a que tienen un mayor sustento, una mayor base. También presentan, relacionado con lo anterior, un menor riesgo de tener lesiones, específicamente en tejidos blandos.",
+      "keywords": [
+        "fuerza",
+        "potencia",
+        "rfd",
+        "tolerancia-carga",
+        "prevención-lesiones"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuáles son los beneficios de desarrollar altos niveles de fuerza muscular?",
+        "¿Por qué un deportista más fuerte tiene menor riesgo de lesión?"
+      ],
+      "related_terms": [
+        "fuerza rápida",
+        "tejidos blandos",
+        "carga específica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre la aplicación de la halterofilia para mejorar el rendimiento en otros deportes.",
+      "context_after": "Clasificación de los diferentes métodos de entrenamiento contra resistencias."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:01:50",
+      "end_timestamp": "00:04:10",
+      "start_seconds": 110,
+      "end_seconds": 250,
+      "duration_seconds": 140,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=110",
+      "title": "Naturaleza única de la halterofilia: cargas máximas a alta velocidad",
+      "summary": "A diferencia de los ejercicios tradicionales (pesados y lentos por razones biomecánicas) o los balísticos (ligeros y rápidos), los movimientos olímpicos permiten desplazar cargas máximas a velocidades superiores a 1 metro por segundo, ofreciendo un estímulo neuromuscular único.",
+      "literal_quote": "La halterofilia consigue que tú levantes cargas máximas, pero también a una alta velocidad en el movimiento.",
+      "full_transcript": "De hecho, para poder mejorar estos niveles de fuerza y potencia, normalmente se ha utilizado o se ha recurrido al entrenamiento contra resistencias. Aquí pongo tres libros clásicos... El uso de ejercicios tradicionales, que podían ser el press de banca, la sentadilla, el peso muerto, ejercicios complejos, multiarticulares, en los que se suele levantar cargas relativamente pesadas a bajas velocidades del movimiento. Pero no porque el atleta quiera levantar aposta lento, sino porque debido al reto biomecánico del propio ejercicio, una sentadilla con máxima carga se levanta muy lentamente. Tenemos también esos ejercicios balísticos y pliométricos, que se entrenan con relativamente bajas cargas... pero se desarrollan a altas velocidades en el movimiento... Si analizamos estos ejercicios de la halterofilia, tienen una naturaleza única en la que se desarrollan las máximas velocidades o se desarrollan a altas velocidades del movimiento, incluso con cargas máximas o cargas submáximas. De hecho, los tres movimientos, cargada, 'jerk' y snatch, se levantan a más de un metro por segundo... Sin embargo, la halterofilia consigue que tú levantes cargas máximas, pero también a una alta velocidad en el movimiento.",
+      "keywords": [
+        "entrenamiento-resistencias",
+        "ejercicios-tradicionales",
+        "ejercicios-balísticos",
+        "velocidad",
+        "cargas-máximas"
+      ],
+      "entities": [
+        "Verkhoshansky",
+        "Zatsiorsky"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué diferencia a la halterofilia de los ejercicios de fuerza tradicionales?",
+        "¿A qué velocidad se ejecutan los levantamientos olímpicos con cargas máximas?"
+      ],
+      "related_terms": [
+        "reto biomecánico",
+        "metro por segundo",
+        "estímulo neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los beneficios de la fuerza máxima para reducir lesiones y tolerar carga.",
+      "context_after": "Análisis de un estudio sobre cómo la carga afecta la producción de potencia."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:04:10",
+      "end_timestamp": "00:06:01",
+      "start_seconds": 250,
+      "end_seconds": 361,
+      "duration_seconds": 111,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=250",
+      "title": "Carga óptima y maximización de la potencia (Fuerza x Velocidad)",
+      "summary": "En los ejercicios derivados de halterofilia (como el Power Clean), al aumentar la carga incrementan los vatios de potencia generados. Esto sucede porque la velocidad de ejecución se mantiene estable por encima de 1 m/s, maximizando el resultado de la ecuación (Potencia = Fuerza x Velocidad).",
+      "literal_quote": "Si la velocidad no acaba de caer, porque se mantiene relativamente estable siendo alta, por encima del metro por segundo, y aumenta la fuerza que tienes que desarrollar... al final la fórmula hace que meter más kilos sea favorable y se desarrollen más vatios de potencia.",
+      "full_transcript": "Esto trae consigo lo siguiente, que igual que tienes ejercicios como los balísticos que desarrollan una alta producción de potencia con cargas livianas, aquí tenemos un metanálisis que publiqué en 2015, en el que analizábamos la carga óptima para la máxima producción de potencia en ejercicios con el mismo patrón neuromuscular... Vimos cómo en los ejercicios de la halterofilia, que en este caso analizamos power clean y hang power clean... conforme aumentaba la carga, se desarrollaban más vatios de potencia. Pero por algo muy sencillo, si la velocidad no acaba de caer, porque se mantiene relativamente estable siendo alta, por encima del metro por segundo, y aumenta la fuerza que tienes que desarrollar, porque aumentan los kilos que estás levantando, si potencia es fuerza por velocidad, al final la fórmula hace que meter más kilos sea favorable y se desarrollen más vatios de potencia, lo cual es muy interesante. Podemos ver algo parecido a esto. Aquí tenemos un lanzador de peso... le sirve para trabajar ese patrón de triple extensión, desarrollando unos altos vatios de potencia y desarrollando esa producción de fuerza máxima.",
+      "keywords": [
+        "producción-potencia",
+        "power-clean",
+        "carga-óptima",
+        "fórmula-potencia",
+        "triple-extensión"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Ciencia",
+        "Concepto biomecánico"
+      ],
+      "search_questions": [
+        "¿Cómo afecta el aumento de carga a la producción de potencia en la halterofilia?",
+        "¿Por qué los levantamientos olímpicos generan tantos vatios de potencia?"
+      ],
+      "related_terms": [
+        "vatios de potencia",
+        "fuerza por velocidad",
+        "patrón neuromuscular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre la velocidad de ejecución en movimientos de halterofilia.",
+      "context_after": "Argumentación contra las reticencias comunes sobre lesiones y peligros del deporte."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:06:04",
+      "end_timestamp": "00:10:00",
+      "start_seconds": 364,
+      "end_seconds": 600,
+      "duration_seconds": 236,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=364",
+      "title": "Desmitificación de riesgos: seguridad y entrenamiento en jóvenes",
+      "summary": "Se rebate el escepticismo sobre la peligrosidad del deporte. La halterofilia presenta tasas de lesión muy bajas (incluso menores que el tiro con arco) debido a su alto control. Además, no frena el crecimiento en niños y adolescentes; al contrario, beneficia el desarrollo óseo y neuromuscular (apoyado por evidencia científica y entidades como la NSCA).",
+      "literal_quote": "Efectivamente, el entrenamiento de fuerza no va a perjudicar el crecimiento ni muchísimo menos. Todo lo contrario, va a beneficiar ese crecimiento y también el desarrollo a nivel neuromuscular, que también es muy importante en esta etapa.",
+      "full_transcript": "Normalmente me encuentro con entrenadores que son bastante escépticos y que tienden a tener ese ratio riesgo-beneficio, y me suelen decir lo siguiente: 'Pero es que son movimientos altamente lesivos y peligrosos... Las cargas compresivas comprometen el crecimiento de los niños y adolescentes'... A la primera de todas, la verdad es que no existe evidencia de que la halterofilia sea más lesiva en comparación a otros deportes. De hecho, es uno de los deportes que menos lesiones presenta por horario de práctica... el seguro federativo es uno de los más baratos de España... Siempre pongo el mismo ejemplo: tiro con arco. Tiene un mayor porcentaje de lesiones que nosotros... ¿Por qué? Porque la mayoría son movimientos altamente controlados... Además, tiene un efecto protector ante el riesgo de lesiones, por lo que hemos comentado de aumento de fuerza. Y, por supuesto, lo que de ninguna manera podemos pensar es que la halterofilia es mala o perjudicial en el crecimiento de los niños y adolescentes, porque aparte de que es algo que está más que refutado y, si no me equivoco, el propio NSCA Spain tiene una certificación ahora de entrenamiento en youth... además de que ha sido algo superrebatido por Verkhoshansky y compañeros... Efectivamente, el entrenamiento de fuerza no va a perjudicar el crecimiento ni muchísimo menos. Todo lo contrario, va a beneficiar ese crecimiento y también el desarrollo a nivel neuromuscular, que también es muy importante en esta etapa.",
+      "keywords": [
+        "riesgo-lesión",
+        "seguridad",
+        "crecimiento",
+        "niños-adolescentes",
+        "mitos"
+      ],
+      "entities": [
+        "NSCA Spain",
+        "Verkhoshansky",
+        "Diego Alonso"
+      ],
+      "topics": [
+        "Lesiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Es la halterofilia un deporte peligroso o lesivo?",
+        "¿Afecta el entrenamiento de fuerza al crecimiento de los niños?"
+      ],
+      "related_terms": [
+        "efecto protector",
+        "cargas compresivas",
+        "seguro federativo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Ejemplos de cómo otras disciplinas atléticas usan la halterofilia para ganar potencia.",
+      "context_after": "Explicación de cómo reducir la complejidad técnica mediante el uso de derivados olímpicos."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:10:00",
+      "end_timestamp": "00:13:28",
+      "start_seconds": 600,
+      "end_seconds": 808,
+      "duration_seconds": 208,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=600",
+      "title": "Uso de derivados olímpicos para simplificar el aprendizaje",
+      "summary": "Para sortear la alta complejidad técnica y demandas de movilidad de los levantamientos completos, se recomienda utilizar derivados (como el Hang High Pull). Estos se enseñan rápidamente, son accesibles para deportistas con menor movilidad (como jugadores de rugby) y ofrecen los mismos beneficios de producción de fuerza.",
+      "literal_quote": "No tenemos por qué hacer el movimiento completo, no tenemos por qué ir abajo en un snatch, no tenemos por qué ir abajo en un clean si no podemos. Podemos partir el ejercicio y trabajar con los derivados de los ejercicios olímpicos.",
+      "full_transcript": "Me queda esa parte de invertir una gran cantidad de tiempo, que si bien es cierto que los ejercicios de la halterofilia, arrancada y dos tiempos, sí que son ejercicios complejos y que un halterófilo se tira para perfeccionarlos toda su carrera deportiva. Eso es cierto. Pero claro, es que no tenemos por qué exigir lo mismo... Entonces, ¿qué es lo que podemos hacer? No tenemos por qué hacer el movimiento completo, no tenemos por qué ir abajo en un snatch, no tenemos por qué ir abajo en un clean si no podemos. Podemos partir el ejercicio y trabajar con los derivados de los ejercicios olímpicos. ¿Qué nos permiten estos derivados? Coger segmentos del ejercicio principal que sean más sencillos de poder ejecutar, llevándonos los mismos beneficios. Aquí les pongo un ejemplo. Esto es un ejemplo de hang high pull. Al final no deja de ser un tirón desde la cadera... Esto no te toma enseñarlo más de tres repeticiones, cuatro... A lo mejor lo que hay que encontrar son estrategias en las cuales trabajemos esta parte más de física, de trabajar la condición física, el mejorar ese desarrollo de fuerza gracias a trabajar con cargas pesadas en ejercicios técnicamente mucho más sencillos de realizar como este... Habrá deportistas que les cueste sacar la barra del suelo, quizá por una falta de movilidad en la cadera, quizá por una falta de extensibilidad o de flexibilidad en los isquiotibiales. Pero sin embargo, estos ejercicios permiten prácticamente, cuando lo partes correctamente, poder trabajar con todo tipo de poblaciones. Me he encontrado... a jugadores de rugby muy toscos que no eran capaces de sacar la barra del suelo. Y se puede trabajar de esta manera.",
+      "keywords": [
+        "derivados-olímpicos",
+        "aprendizaje",
+        "hang-high-pull",
+        "movilidad",
+        "complejidad-técnica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Cómo se puede simplificar el aprendizaje de la halterofilia para otros deportistas?",
+        "¿Qué ventajas tienen los derivados de la halterofilia como el Hang High Pull?"
+      ],
+      "related_terms": [
+        "partir el ejercicio",
+        "condición física",
+        "falta de extensibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desmitificación de los riesgos de lesiones y del crecimiento en jóvenes al hacer halterofilia.",
+      "context_after": "Fin del fragmento procesado."
+    }
+  ]
+}

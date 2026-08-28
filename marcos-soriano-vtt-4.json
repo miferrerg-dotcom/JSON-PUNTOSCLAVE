@@ -1,0 +1,441 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+    "speaker": "Marcos Soriano",
+    "total_duration": "00:23:27",
+    "total_duration_seconds": 1407,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:05:02",
+      "start_seconds": 1,
+      "end_seconds": 302,
+      "duration_seconds": 301,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "El perfil fuerza-velocidad y la caja de herramientas del entrenador",
+      "summary": "Los ejercicios derivados de la halterofilia llenan un hueco clave: permiten desarrollar altos niveles de fuerza a altas velocidades. A diferencia de las sentadillas (mucha carga, baja velocidad) o los saltos (baja carga, alta velocidad), brindan estímulos mecánicos únicos.",
+      "literal_quote": "Los ejercicios derivados de la halterofilia... son aquellos ejercicios en los que necesitaríamos, o es una herramienta para poder desarrollar unos altos niveles de fuerza a unas altas velocidades de movimiento.",
+      "full_transcript": "Continuemos con una aplicación en contexto real, es decir, cómo podemos aplicar estos ejercicios, enseñarlos y poder desarrollar entrenamientos que sean verdaderamente efectivos con nuestros deportistas. Lo primero que tenemos que tener claro es qué nos van a aportar estos ejercicios. En este artículo fantástico de Hafth and Infious comentaban las diferentes zonas que tendríamos o manera de entrenar... Los ejercicios derivados de la halterofilia, como tenemos aquí el power clean... son aquellos ejercicios en los que necesitaríamos, o es una herramienta para poder desarrollar unos altos niveles de fuerza a unas altas velocidades de movimiento. Esto es algo muy importante, porque es muy difícil conseguir este estímulo con otros ejercicios que no sean estos. ¿Por qué? Porque al final, si utilizamos la sentadilla... es altas fuerzas, pero baja velocidad. Si utilizamos los pliométricos son altas velocidades, pero bajas fuerzas... A mí me gusta llamar a esto la paradoja de la caja de herramientas del entrenador... La pregunta es: cuando tengas casos diferentes que requieran algo más extraordinario, que se salga de la norma con lo que sueles trabajar, ¿tienes herramientas suficientes como para poder trabajar con estos deportistas?",
+      "keywords": [
+        "fuerza-velocidad",
+        "caja-de-herramientas",
+        "potencia",
+        "derivados",
+        "ejercicios-tradicionales"
+      ],
+      "entities": [
+        "Hafth and Infious"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué los derivados de la halterofilia son únicos para desarrollar potencia?",
+        "¿Qué significa la paradoja de la caja de herramientas del entrenador?"
+      ],
+      "related_terms": [
+        "reto biomecánico",
+        "desarrollo de potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin de la justificación teórica sobre los beneficios fisiológicos y biomecánicos de los levantamientos.",
+      "context_after": "Explicación de los diferentes ejercicios y el entrenamiento Complex."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:05:48",
+      "end_timestamp": "00:08:13",
+      "start_seconds": 348,
+      "end_seconds": 493,
+      "duration_seconds": 145,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=348",
+      "title": "Entrenamiento Complex y riqueza motriz",
+      "summary": "Agrupar diferentes derivados (como el jump shrug, con foco en velocidad, y los tirones pesados, con foco en fuerza) que comparten el mismo patrón motor bajo una carga moderada (70-85%). Esto permite realizar entrenamientos (Complexes) variados que añaden exigencia cognitiva.",
+      "literal_quote": "Tenemos un montón de ejercicios en los que elegir y poder hacer complex o entrenamientos complejos que nos permitan trabajar con el mismo patrón motor, diferentes ejercicios, metiendo esa variedad...",
+      "full_transcript": "Además, estos ejercicios tienen algo muy bueno... depende de la carga que levantemos en el ejercicio que la levantemos, nos podemos ir más a un desarrollo mayor de fuerza o más a un desarrollo mayor de velocidad. Pero aquí en el medio tenemos un montón de ejercicios que al final comparten el mismo patrón motor, pero a nivel de cualidades de fuerza velocidad estamos prácticamente trabajando casi en la misma zona, con unas cargas relativamente moderadas entre el 70 y el 85 %. Esto nos permite tener una gran variedad. Aquí, por ejemplo, voy a hacer una comparativa... Este ejercicio sería el jump shrug, que es un ejercicio que se utiliza mucho en la enseñanza... Efectivamente, se hace con cargas más livianas... Sin embargo, aquí tenemos mucha más carga. Entonces, tenemos que desarrollar unos mayores niveles de fuerza muscular y específicamente un mayor impulso para poder levantar esa barra. Pero ahora viene lo interesante, y es que tenemos un montón de ejercicios en los que elegir y poder hacer complex o entrenamientos complejos que nos permitan trabajar con el mismo patrón motor... desarrollando esa parte de riqueza motriz y también permitiendo poder hacer un entrenamiento relativamente divertido. Porque no es lo mismo hacer cinco repeticiones del mismo ejercicio, que sea variado, que al final interviene también esa parte un poco más cognitiva.",
+      "keywords": [
+        "complex",
+        "jump-shrug",
+        "variabilidad",
+        "patrón-motor",
+        "riqueza-motriz"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué es un entrenamiento complex en halterofilia?",
+        "¿Para qué se utiliza el ejercicio jump shrug?"
+      ],
+      "related_terms": [
+        "cargas moderadas",
+        "impulso de fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del diagrama fuerza-velocidad y la zona híbrida de la halterofilia.",
+      "context_after": "Técnicas de gestión del volumen mediante series tipo Cluster."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:08:19",
+      "end_timestamp": "00:11:28",
+      "start_seconds": 499,
+      "end_seconds": 688,
+      "duration_seconds": 189,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=499",
+      "title": "Series Cluster para el mantenimiento de outputs mecánicos",
+      "summary": "Trabajar a altas repeticiones (>5) deteriora la técnica por fatiga neuromuscular. Para acumular volumen, se divide la serie (ej. bloques de 2 reps con 45 seg. de pausa). Esto redistribuye el descanso, mantiene altos los outputs mecánicos y permite ofrecer feedback técnico constante.",
+      "literal_quote": "Si damos esa redistribución, se mantiene el estímulo mecánico, se mantienen los outputs mecánicos, lo cual es algo bastante interesante de poder aplicar y es algo que yo sin duda aplicaría...",
+      "full_transcript": "Además, como hemos comentado anteriormente, en la halterofilia no se trabaja con más de dos repeticiones los halterófilos olímpicos... pero sí que es cierto que no es recomendable trabajar con más de cuatro o cinco repeticiones, sobre todo por la complejidad técnica. Entonces, ¿qué es lo que se implementa dentro de la halterofilia? Muy fácil, se implementan estos entrenamientos tipo cluster, que llamamos, o de redistribución de descanso, que es básicamente si yo fuera a hacer series de 12 repeticiones, lo que hago es partir esa serie de 12 repeticiones en paquetes de cuatro repeticiones o en paquetes de dos repeticiones con descanso entremedio. Además, este descanso es genial porque me permite en un momento dado dar indicaciones suficientes... O incluso utilizar feedback. Un encoder o cualquier tipo de instrumento que permita tener un mayor control... De hecho, tenemos estudios... en el cual teníamos unas series de seis repeticiones. Y sin embargo, hicieron una redistribución del descanso en el que ponían series de dos repeticiones con 45 segundos entre medias. Sobre todo trabajando al 80, 100 y 120 %, porque hacían clean pulls... Fijaros sobre todo cuando incrementa la carga... cómo caen conforme van aumentando el número de repeticiones. ¿Por qué? Porque al final se está produciendo esa fatiga. Sin embargo, si damos esa redistribución, se mantiene el estímulo mecánico, se mantienen los outputs mecánicos... Cualquier información que necesitéis, os recomendaría ir a este posicionamiento que publicamos ya en el 2023... Es uno de los siete posicionamientos que tiene la NSCA sobre aspectos deportivos.",
+      "keywords": [
+        "cluster",
+        "redistribución-descanso",
+        "fatiga",
+        "outputs-mecánicos",
+        "feedback",
+        "clean-pulls"
+      ],
+      "entities": [
+        "NSCA"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Ciencia"
+      ],
+      "search_questions": [
+        "¿Qué son las series cluster y por qué se usan en halterofilia?",
+        "¿Cómo afecta la fatiga al estímulo mecánico en altas repeticiones?"
+      ],
+      "related_terms": [
+        "entrenamientos tipo cluster",
+        "encoder",
+        "posicionamiento de la NSCA"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la variabilidad motriz al agrupar ejercicios.",
+      "context_after": "Progresión técnica y pedagógica para la enseñanza desde cero."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:11:30",
+      "end_timestamp": "00:12:47",
+      "start_seconds": 690,
+      "end_seconds": 767,
+      "duration_seconds": 77,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=690",
+      "title": "Pirámide de desarrollo motor en la halterofilia",
+      "summary": "El modelo de Steve Morris estructura la enseñanza empezando por mejorar la conciencia corporal básica, pasando a ejercicios fundacionales (back squat, press, front squat) antes de abordar la complejidad técnica de los movimientos olímpicos.",
+      "literal_quote": "me gusta mucho esta imagen de la pirámide... explica cómo es la progresión desde que coges a un niño... hasta pasar a los ejercicios fundacionales. Que controle un press estricto, que controle un back squat...",
+      "full_transcript": "Una de las partes es cómo progresaríamos. Me gusta mucho esta imagen de la pirámide, que aparece además en el posicionamiento, pero que originalmente pertenece a Steve Morris, que básicamente explica cómo es la progresión desde que coges a un niño o a alguien que no ha hecho absolutamente nada, no solo de halterofilia, sino que no tiene mucha conciencia corporal, y entonces tiene que aprender los movimientos más básicos, hasta pasar a los ejercicios fundacionales. Que controle un press estricto, que controle un back squat, que controle un front squat, hasta ya pasar a aquellos ejercicios que tienen un poquito de más nivel de complejidad. No significa que tengas obligatoriamente que seguir algo verticalmente. Tú puedes combinar ejercicios de aquí con ejercicios de allí y hacer un cambio más gradual, pero esto es lo que se pretendería para poder progresar.",
+      "keywords": [
+        "pirámide-desarrollo",
+        "conciencia-corporal",
+        "ejercicios-fundacionales",
+        "back-squat",
+        "progresión"
+      ],
+      "entities": [
+        "Steve Morris"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe ser la progresión para aprender los movimientos de halterofilia?",
+        "¿Cuáles son los ejercicios fundacionales previos a la halterofilia?"
+      ],
+      "related_terms": [
+        "nivel de complejidad",
+        "cambio más gradual"
+      ],
+      "relevance_score": 4,
+      "context_before": "Uso de sistemas Cluster para maximizar la calidad en la sesión.",
+      "context_after": "Por qué se debe progresar hacia el uso de cargas elevadas."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:12:47",
+      "end_timestamp": "00:14:04",
+      "start_seconds": 767,
+      "end_seconds": 844,
+      "duration_seconds": 77,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=767",
+      "title": "El patrón de carga como clave indispensable para la potencia",
+      "summary": "Para obtener mejoras reales de potencia, los entrenadores deben vencer el miedo a aplicar carga. Trabajar permanentemente con la barra vacía mejora la técnica pero impide aplicar altas velocidades propulsivas al peso.",
+      "literal_quote": "Si no metemos carga y estamos siempre con la barra y 10 kilos a cada lado... llega un momento en el que la barra más rápido no la puedes levantar, porque la tirarías al techo.",
+      "full_transcript": "Siempre teniendo en cuenta una cosa, que si lo que queremos es beneficiarnos de los ejercicios de la halterofilia y sus derivados, tenemos que implementar esa... permiten levantar mucha carga a altas velocidades. Si no metemos carga y estamos siempre con la barra y 10 kilos a cada lado, por poner una cifra, al final mejorarás la técnica, el patrón técnico, pero llega un momento en el que la barra más rápido no la puedes levantar, porque la tirarías al techo. Entonces, lo que necesitas es meter más carga, pero muchas veces los entrenadores son muy reacios a hacer eso. Entonces, esto es algo muy importante. El patrón de carga es superimportante en estos ejercicios si de verdad se quiere mejorar.",
+      "keywords": [
+        "patrón-de-carga",
+        "potencia",
+        "velocidad",
+        "entrenadores-reacios"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es imprescindible usar cargas altas para mejorar la velocidad en la halterofilia?"
+      ],
+      "related_terms": [
+        "vencer el miedo",
+        "altas velocidades"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la pirámide de desarrollo motor de Steve Morris.",
+      "context_after": "Demostración de la cadena reversa en la técnica de cargada (clean)."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:14:05",
+      "end_timestamp": "00:15:30",
+      "start_seconds": 845,
+      "end_seconds": 930,
+      "duration_seconds": 85,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=845",
+      "title": "La cadena reversa: método de enseñanza por capas",
+      "summary": "Los levantamientos olímpicos se enseñan de arriba hacia abajo mediante la 'cadena reversa'. Primero se asimila la posición de recepción final (front rack) y progresivamente se desciende la posición inicial (cadera, sobre rodilla), integrando el movimiento por capas.",
+      "literal_quote": "en halterofilia se enseña con lo que se llama una cadena reversa. Es decir, empezamos el ejercicio a enseñarlo desde atrás, desde el final.",
+      "full_transcript": "Aquí tenemos las fases completas de la halterofilia... vamos a hacerlo principalmente o inicialmente solamente con el ejercicio del clean. Y vamos a agradecer a Laura García Rincón, deportista absoluta que está en el CAR de León, que nos va a hacer en este caso de modelo. Lo primero, en halterofilia se enseña con lo que se llama una cadena reversa. Es decir, empezamos el ejercicio a enseñarlo desde atrás, desde el final. ¿Por qué? Porque si dominamos el final, que es la posición de recepción, etcétera, supuestamente seremos capaces de dominar el resto del ejercicio. Además, vamos construyendo capa a capa y eso nos va reforzando para hacer luego el movimiento de manera inversa. Lo primero que tiene que saber alguien que quiera hacer este ejercicio es poder tener una posición correcta de front squat... tener esa posición de front rack correcta. A partir de ahí, puede realizar esas recepciones desde una posición mucho más de pie... Si queremos que coja esa potencia específicamente del segundo tirón, tendríamos esa posibilidad de establecer únicamente esa triple extensión hacia arriba. A partir de ahí, ya va bajando un poquito más...",
+      "keywords": [
+        "cadena-reversa",
+        "front-rack",
+        "enseñanza-técnica",
+        "recepción",
+        "clean"
+      ],
+      "entities": [
+        "Laura García Rincón",
+        "CAR de León"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué es el método de cadena reversa en la enseñanza de la halterofilia?",
+        "¿Cómo se empieza a enseñar un clean o cargada?"
+      ],
+      "related_terms": [
+        "front squat",
+        "segundo tirón",
+        "triple extensión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre la necesidad de aplicar sobrecarga progresiva sin miedo.",
+      "context_after": "Análisis de la transición crítica desde la rodilla hacia el suelo."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:15:30",
+      "end_timestamp": "00:17:28",
+      "start_seconds": 930,
+      "end_seconds": 1048,
+      "duration_seconds": 118,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=930",
+      "title": "Transición de la barra al suelo y prevención de compensaciones lumbares",
+      "summary": "Cargar la barra desde la rodilla al suelo es el punto biomecánicamente más difícil. Si el trabajo por capas previo (cadena reversa) es sólido, se evitan errores comunes como abusar de la zona lumbar en la recepción y arranque.",
+      "literal_quote": "Cargar la barra una vez se tiene la posición de front rack no es difícil... normalmente los deportistas tienden a hacer un movimiento compensatorio con la espalda baja, pero es fácil de subsanar.",
+      "full_transcript": "Y ahora ya llegamos a un punto en el que nos vamos acercando a las rodillas, que es uno de los puntos más difíciles dentro de la halterofilia. Pero como veis, aún sigue trabajando por encima de ellas y siempre desarrollando movimientos de tirón previamente a realizar movimientos de cargada... Cargar la barra una vez se tiene la posición de front rack no es difícil, aunque al principio suele costar mucho, porque normalmente los deportistas tienden a hacer un movimiento compensatorio con la espalda baja, pero es fácil de subsanar. Obviamente, cuando ya pasamos de todo esto, podemos superar la rodilla... hasta que acabamos sacando la barra desde abajo o desde el suelo. Esta sería prácticamente la progresión de aprendizaje... Y como os comento, no es muy difícil, porque al final simplemente tenemos que empezar desde lo más básico y a lo mejor, a lo largo de una temporada entera, yo podría ser capaz de dominar estos ejercicios... Hasta que consigo el movimiento completo, como está haciendo, que ahora está haciendo una cargada de fuerza, o la cargada completa abajo.",
+      "keywords": [
+        "transición-rodilla",
+        "compensaciones",
+        "espalda-baja",
+        "cargada-de-fuerza",
+        "progresión"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Prevención"
+      ],
+      "search_questions": [
+        "¿Cuál es el error compensatorio más común al realizar una cargada?",
+        "¿Por qué es difícil la transición de la rodilla en halterofilia?"
+      ],
+      "related_terms": [
+        "movimiento compensatorio",
+        "cargada completa"
+      ],
+      "relevance_score": 4,
+      "context_before": "Implementación del método de cadena reversa empezando desde la posición final.",
+      "context_after": "Precauciones a la hora de sustituir la barra por mancuernas."
+    },
+    {
+      "id": "V04-008",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:17:35",
+      "end_timestamp": "00:19:30",
+      "start_seconds": 1055,
+      "end_seconds": 1170,
+      "duration_seconds": 115,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1055",
+      "title": "Limitaciones neuromusculares del entrenamiento con mancuernas",
+      "summary": "Sustituir movimientos olímpicos con barra por variantes ligeras con mancuernas (ej. arrancadas con 40kg) mejora la estabilidad del hombro, pero subestimula enormemente las piernas. No permiten desplazar las cargas necesarias para generar adaptaciones máximas de potencia.",
+      "literal_quote": "la fuerza que están ejecutando mis piernas es de levantar una mancuerna de 40 kilos. Sin embargo, si yo le pusiera una barra... podría hacer un tirón de arrancada con 100 kilos.",
+      "full_transcript": "Aquí me he dejado esta parte, que me gusta darle cierta importancia y sobre todo darle cierta cautela... Si bien esto se ha popularizado mucho y sobre todo con ciertas metodologías y demás, de variabilidad, de sistemas dinámicos complejos, etcétera. Y sin meterme con ello, yo lo que quiero que se entienda es lo siguiente. Para poder obtener los beneficios reales de la halterofilia, se necesita levantar cargas pesadas a velocidades relativamente altas. Entonces, que yo pueda meter este tipo de ejercicios en un momento dado como un estímulo accesorio complementario, perfecto. Pero tenemos que entender que si nuestro core del programa es esto, no vamos a mejorar... Porque si yo estoy levantando con una sola mano y levanto esta pesa por encima de mi cabeza... supongamos que levantan una mancuerna de 40 kilos. Sí que es cierto que estoy trabajando mucho esa estabilidad escapulohumeral... pero la fuerza que están ejecutando mis piernas es de levantar una mancuerna de 40 kilos. Sin embargo, si yo le pusiera una barra y pusiera 40 kilos a cada lado, podría hacer un tirón de arrancada con 100 kilos. Entonces, estoy entrenando mucho más, porque estoy exigiéndole a mis piernas un esfuerzo mucho mayor.",
+      "keywords": [
+        "mancuernas",
+        "estabilidad-escapulohumeral",
+        "subestimulación",
+        "fuerza-máxima",
+        "variabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué los levantamientos con mancuernas no igualan los beneficios de la halterofilia clásica?",
+        "¿Qué se subestimula al realizar un arranque con mancuerna pesada?"
+      ],
+      "related_terms": [
+        "sistemas dinámicos complejos",
+        "estímulo accesorio complementario"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación detallada de la progresión técnica para el 'clean' usando cadena reversa.",
+      "context_after": "Errores en la mecánica con el uso de variaciones asimétricas de zancada."
+    },
+    {
+      "id": "V04-009",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:19:30",
+      "end_timestamp": "00:21:05",
+      "start_seconds": 1170,
+      "end_seconds": 1265,
+      "duration_seconds": 95,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1170",
+      "title": "Modificaciones antinaturales en los derivados de halterofilia",
+      "summary": "Ciertas variantes, como arrancar y terminar en postura de zancada, entorpecen biomecánicamente la elevación del peso desde el suelo. El atleta acaba usando los brazos para levantar la carga, anulando por completo el efecto propulsivo de las piernas.",
+      "literal_quote": "un movimiento de triple extensión que acaba en una zancada adelante es un movimiento antinatural para poder levantar una barra del suelo. Es imposible.",
+      "full_transcript": "Si yo levanto con una sola pierna, voy a tener... una menor estabilidad y voy a poder realizar unos menores niveles de fuerza... Igual que si levanto con una bolsa... la técnica relativamente cambia y cambia bastante, pero lo que está claro es que es imposible obtener los beneficios de la halterofilia cuando entendemos que estos beneficios vienen de levantar cargas pesadas a velocidades altas. Igualmente, en este ejercicio de aquí... un movimiento de triple extensión que acaba en una zancada adelante es un movimiento antinatural para poder levantar una barra del suelo. Es imposible. La gente acaba haciendo ese paso hacia adelante, esa zancada hacia adelante y levanta la barra con los brazos. No he visto a nadie de verdad impulsarla con las piernas y he visto a muchos deportistas trabajar este ejercicio. Entonces, tenemos que entender bien qué es lo que estamos trabajando, cuál es el objetivo que perseguimos...",
+      "keywords": [
+        "movimiento-antinatural",
+        "zancada",
+        "triple-extensión",
+        "técnica-alterada",
+        "impulso-de-piernas"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Concepto biomecánico"
+      ],
+      "search_questions": [
+        "¿Por qué no es recomendable realizar un arranque con terminación en zancada?",
+        "¿Cómo afectan los movimientos inestables a la transferencia de fuerza en halterofilia?"
+      ],
+      "related_terms": [
+        "levantar la barra con los brazos",
+        "menores niveles de fuerza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Advertencias sobre los problemas de usar mancuernas para conseguir máxima adaptación de potencia.",
+      "context_after": "Argumentos para integrar de manera correcta la halterofilia dentro del macrociclo de trabajo."
+    },
+    {
+      "id": "V04-010",
+      "video_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+      "speaker": "Marcos Soriano",
+      "start_timestamp": "00:21:11",
+      "end_timestamp": "00:23:27",
+      "start_seconds": 1271,
+      "end_seconds": 1407,
+      "duration_seconds": 136,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1271",
+      "title": "Programación holística e integración de herramientas de entrenamiento",
+      "summary": "La halterofilia aporta adaptaciones de potencia incomparables, pero es solo una herramienta más. Debe integrarse estratégicamente en sesiones mixtas combinadas con poleas isoinerciales, ejercicios tradicionales (sentadillas) y trabajo compensatorio/hipertrofia.",
+      "literal_quote": "Debe de formar parte de una programación holística integral... No se puede trabajar únicamente el ejercicio per se, o ahora solo voy a trabajar con ejercicios de la halterofilia, porque ni nosotros los halterófilos hacemos eso.",
+      "full_transcript": "Y dicho esto, ya acabo con unas conclusiones en las que simplemente por tener en cuenta conforme hemos ido en esta presentación, los halterófilos desarrollan adaptaciones neuromusculares únicas que les permite un alto desarrollo de potencia mecánica. Los principales hándicaps de implementar los movimientos olímpicos en la población deportista son fácilmente subsanables escogiendo entre la gran gama de ejercicios derivados de la halterofilia con criterio... Y seguramente sea bastante más seguro, dependiendo de a quién le dejemos utilizar esa polea cónica. Entonces, tened en cuenta de que es una herramienta muy valiosa y aparte, no necesitáis material sofisticado, nada más que barras y discos. Además, los ejercicios derivados de la halterofilia no son la única herramienta. Esto es algo que quiero enfatizar mucho. Debe de formar parte de una programación holística integral. Yo soy un gran fan de esto. Yo puedo trabajar en un mismo día con un movimiento derivado de la halterofilia como ejercicio principal el primero, después algo, un trabajo de polea cónica, etcétera. Después, un trabajo de un ejercicio complejo, quizás una sentadilla y después algo de movimientos compensatorios o lo que sea que necesite hacer más de musculación a más repeticiones. Tiene que estar implementado dentro de un plan integrado. No se puede trabajar únicamente el ejercicio per se... Y luego permitirme una parte más romántica, y es que la halterofilia es un deporte maravilloso...",
+      "keywords": [
+        "programación-holística",
+        "polea-cónica",
+        "integración",
+        "sentadilla",
+        "compensatorio"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe integrarse la halterofilia dentro de una sesión de entrenamiento completa?",
+        "¿Es seguro utilizar la halterofilia en comparación con las poleas cónicas?"
+      ],
+      "related_terms": [
+        "programación holística integral",
+        "hándicaps",
+        "movimientos compensatorios"
+      ],
+      "relevance_score": 5,
+      "context_before": "Críticas constructivas a las variaciones antinaturales unilaterales y de zancada.",
+      "context_after": "Fin de la ponencia."
+    }
+  ]
+}
