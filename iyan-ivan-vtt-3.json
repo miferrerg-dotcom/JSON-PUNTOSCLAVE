@@ -1,0 +1,264 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+    "speaker": "Illán Iván Maragaño",
+    "total_duration": "00:20:31",
+    "total_duration_seconds": 1231,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:38",
+      "start_seconds": 0,
+      "end_seconds": 218,
+      "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "El riesgo de la parálisis por análisis y el enfoque Mixed Methods",
+      "summary": "Ante el gran volumen de datos y técnicas complejas, existe el riesgo de caer en la parálisis por análisis. Se propone la metodología de 'Mixed Methods' para integrar lo cualitativo y lo cuantitativo, reduciendo la brecha entre investigadores (que usan redes neuronales o clustering) y los entrenadores, quienes prefieren herramientas estadísticas simples.",
+      "literal_quote": "Si nos encontramos ante esa situación de parálisis por análisis, creo que resulta realmente importante hablar de una metodología... los mixed methods... que nos permiten precisamente integrar esa parte cualitativa con esa parte cuantitativa.",
+      "full_transcript": "Para finalizar con esta formación y como tercer bloque de contenidos, resulta importante plantearnos, teniendo en cuenta el volumen de datos y la gran cantidad de herramientas y tecnologías que manejamos a día de hoy, si realmente estamos perdiéndonos en los datos. Existe una frase, un tópico, dicho frecuentemente en el ámbito de las ciencias del deporte, en el cual se dice que muchas veces nos enfrentamos a una situación de parálisis por análisis, y es que resulta realmente complejo ver en qué focalizamos la atención para tomar decisiones en el campo práctico y real. Precisamente, un poco en respuesta a esta pregunta, si nos estamos perdiendo en los datos, si nos encontramos ante esa situación de parálisis por análisis, creo que resulta realmente importante hablar de una metodología, de un paradigma de investigación, el cual, por suerte, he podido aplicar en los últimos años y que cada vez se hace más necesario en el ámbito de las ciencias del deporte. Estamos hablando de los mixed methods, de los métodos mixtos, que nos permiten precisamente integrar esa parte cualitativa con esa parte cuantitativa que tanta información nos da y nos permite hacerlo de una forma relativamente sencilla y acercándonos realmente a los verdaderos practicantes, a los verdaderos partícipes de este deporte, como pueden ser los entrenadores, los preparadores físicos o mismamente los jugadores. Precisamente en esta sección me gustaría exponer algunas ideas de algunos artículos que hemos ido publicando en los últimos años y que precisamente hablan o ponen de manifiesto la importancia de estos mixed methods a la hora de comprender cuál es la realidad de este ecosistema tan complejo al que muchas veces nos enfrentamos. Empezaría hablando o recordando esto que hablábamos al principio de la presentación. Somos conscientes de que el volumen de datos cada vez es más complejo, somos conscientes de que las técnicas que utilizamos cada vez son más complejas y, además, y de esto somos realmente conscientes los que nos dedicamos al ámbito de la investigación, estamos incrementando cada vez más la complejidad de estas técnicas. Con lo cual, lo que estamos consiguiendo es alejarnos más del campo práctico. Recordemos ese estudio que mencionábamos previamente y que aparecerá a continuación en el listado de referencias, donde entrevistando a más de 200 practitioners de diferentes equipos de fútbol de la liga inglesa, estos practitioners nos decían que las herramientas estadísticas que utilizaban eran tablas estadísticas con medias, gráficos de barras, gráficos de radar, mapas de calor, gráficos de dispersión, técnicas o gráficas estadísticas que podemos denominar como relativamente simples. En cambio, cuando nos vamos al ámbito de la investigación o al tratamiento con estas técnicas estadísticas avanzadas, hablamos de redes neuronales, hablamos de machine learning supervisado, no supervisado, de técnicas de clustering, de modelos lineales mixtos. Es decir, hablamos de un montón de técnicas que muchas veces son difíciles de trasladar, precisamente porque el conocimiento que tenemos ambos especialistas no es el mismo. Con lo cual es necesario acercarse a entrenadores, acercarse a jugadores, conocer de forma cualitativa la realidad, el contexto en el cual estamos practicando. Y precisamente en el ámbito de la investigación, los mixed methods han roto ligeramente esta brecha para acercarnos un poquito más.",
+      "keywords": [
+        "paralisis-por-analisis",
+        "mixed-methods",
+        "cualitativo",
+        "cuantitativo",
+        "practitioners",
+        "brecha"
+      ],
+      "entities": [
+        "Liga inglesa"
+      ],
+      "topics": [
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es la parálisis por análisis en las ciencias del deporte?",
+        "¿Cómo reducen los Mixed Methods la brecha entre investigación y práctica?",
+        "¿Qué herramientas estadísticas prefieren los cuerpos técnicos según estudios?"
+      ],
+      "related_terms": [
+        "parálisis por análisis",
+        "métodos mixtos",
+        "machine learning supervisado",
+        "gráficos de radar",
+        "modelos lineales mixtos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del tercer bloque de contenidos de la formación.",
+      "context_after": "Presentación de ejemplos de tesis doctoral aplicando machine learning y entrevistas a profesionales."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "03:38",
+      "end_timestamp": "06:42",
+      "start_seconds": 218,
+      "end_seconds": 402,
+      "duration_seconds": 184,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=218",
+      "title": "El ciclo de los datos y el valor cualitativo en la toma de decisiones",
+      "summary": "El ciclo de análisis debe nacer de un problema en el campo, pasar por el laboratorio y volver al campo. Los modelos predictivos puros omiten factores imperceptibles como la toma de decisiones, por lo que integrar entrevistas con entrenadores permite identificar variables de éxito que los datos aislados no muestran.",
+      "literal_quote": "De nada vale que yo dé unos datos a un entrenador que no me había pedido... El problema debe salir del campo para entrar al laboratorio o a la parte estadística y volver de nuevo al campo.",
+      "full_transcript": "Aquí tenemos un estudio derivado de mi tesis doctoral presentada en el año 2021, en el que implementábamos dos cosas de una forma muy sencilla. Por un lado, un modelo de aprendizaje automático supervisado para predecir o estimar la probabilidad de éxito de las posesiones de balón en función de una serie de criterios técnico-tácticos, donde se sucedía la posesión de balón, cuánto duraba, si se jugaba más en campo rival o en campo propio. Nos daba una probabilidad del 75 % de éxito de llegar al área si cumplía con una serie de características. Pero a mayores de esto, lo que hacíamos era entrevistar a jugadoras profesionales y a entrenadores profesionales de la misma competición que habíamos analizado para que esos entrenadores nos dieran una visión experta, precisamente de aquellas cosas que de forma observacional o a partir de los datos no podemos analizar. Por ejemplo, estamos hablando de la toma de decisión, algo completamente imperceptible, algo no observable que no podemos conocer si no nos acercamos a la realidad. Precisamente en esta integración aparecía esto. En otro estudio que publicamos en el año 2023 en la revista 'Frontiers in Psychology', precisamente hablamos de esto. A través de más de siete horas de entrevista grabada y transcrita con estos mismos entrenadores, nos planteábamos y buscábamos a través de un análisis, en este caso cuantitativo, sobre análisis cualitativo original de la entrevista, cuáles eran las variables que, en su opinión, permitían a un equipo acercarse al éxito ofensivo, en este caso, no para establecer un modelo predictivo, sino para identificar aquellas variables que quizás como investigadores no estábamos analizando, no estábamos teniendo en cuenta y que para los entrenadores y las jugadoras, en este caso, eran importantes. Y esto creo que es algo que deberíamos de empezar a implementar y deberíamos de establecer como una obligación, como una condición sine qua non a la hora de establecer cualquier tipo de procedimiento de análisis de datos o cualquier métrica. Debemos de entender que el análisis de datos debe de responder a una problemática surgida en la aplicación de los resultados o en la aplicación del deporte que estemos analizando, en este caso, el fútbol. De nada vale que yo dé unos datos a un entrenador que no me había pedido estos datos o a un jugador que no me había pedido estos datos. El problema debe salir del campo para entrar al laboratorio o a la parte estadística y volver de nuevo al campo. Y ahí es donde estaríamos cerrando ese ciclo. Precisamente, a partir de ese tipo de entrevistas nos permitieron entender esos elementos.",
+      "keywords": [
+        "ciclo-de-datos",
+        "entrevistas",
+        "toma-de-decision",
+        "exito-ofensivo",
+        "investigacion",
+        "modelos-predictivos"
+      ],
+      "entities": [
+        "Frontiers in Psychology"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Por qué es importante entrevistar a los entrenadores y jugadores al analizar datos deportivos?",
+        "¿Cómo funciona el ciclo de análisis de datos entre el campo y el laboratorio?",
+        "¿Qué variables imperceptibles pueden perderse en un modelo de aprendizaje automático?"
+      ],
+      "related_terms": [
+        "aprendizaje automático supervisado",
+        "probabilidad de éxito",
+        "variables imperceptibles",
+        "condición sine qua non",
+        "entrevista cualitativa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la importancia de acercar los métodos mixtos a los profesionales de campo.",
+      "context_after": "Transición hacia un ejemplo concreto utilizando métodos mixtos con la selección china."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "06:42",
+      "end_timestamp": "12:00",
+      "start_seconds": 402,
+      "end_seconds": 720,
+      "duration_seconds": 318,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=402",
+      "title": "El impacto del contexto: rendimiento en la selección china vs clubes",
+      "summary": "Un análisis inicial mostraba que los jugadores chinos rendían peor técnicamente (menos acierto en pases) pero corrían más con la selección frente a sus clubes, generando rumores de falta de compromiso. Al cruzar con entrevistas, se evidenció que la caída técnica se debía a la presión psicológica, menor preparación colectiva y enfrentarse a rivales de mayor nivel (ranking FIFA) que exigían un mayor ritmo.",
+      "literal_quote": "A nivel técnico los jugadores rendían peor... pero en cambio a nivel condicional rendían más o al menos corrían más... Los jugadores y los entrenadores nos venían a decir que esa comparación no es válida, puesto que la selección china... se enfrentaba a selecciones mucho mejores.",
+      "full_transcript": "Voy a ir ahora a un ejemplo un poquito más evidente, más claro, donde el ciclo precisamente se rompe de esta forma. Este es un artículo que en el momento en el cual estoy grabando esta formación todavía no se encuentra publicado. De hecho, este artículo se encuentra en las últimas fases de revisión en la revista 'International Journal of Performance Analysis in Sport'. El artículo... surge de la siguiente problemática. Simplemente indicar que este es un artículo que está financiado por una ayuda pública del gobierno chino, en el cual he trabajado en colaboración con investigadores de la Universidad de Wuhan y la Universidad de South China Normal University. Y el problema salía del siguiente punto: una serie de estamentos deportivos vinculados a la Federación China de Fútbol, a partir de una serie de análisis de datos... detectaron una problemática, y es que en los equipos, en los partidos en los cuales los jugadores chinos jugaban con su selección, su rendimiento técnico era más bajo. Desde una perspectiva... digamos que se establecieron una serie de rumores... de que ciertos jugadores no tenían el grado de compromiso necesario para jugar con la selección china. Es decir, que los jugadores, digamos entre comillas, se esforzaban más cuando jugaban con sus equipos que cuando jugaban con sus selecciones. Sabemos que una comparación así no es posible, puesto que hay unos elementos que difieren entre ellos. Sabemos que existen una serie de variables, que denominamos variables contextuales, que influyen en el rendimiento de los jugadores. Y una de esas variables contextuales que conocemos y que denominamos es el nivel del oponente, que normalmente la calculamos en función de esta diferencia. Es decir, yo soy el mismo jugador, pero no juego de la misma forma cuando me enfrento a un rival fuerte o a un rival débil. Precisamente de ahí nacía nuestra hipótesis. Y precisamente descubrimos que estadísticamente era cierto que a nivel técnico los jugadores rendían peor, con un menor porcentaje de eficacia en el pase... pero en cambio a nivel condicional rendían más o al menos corrían más. Corrían más a alta intensidad, ejecutaban más aceleraciones, tenían una mayor carga por minuto, etcétera. Cuando nos fuimos a hacer las entrevistas con los jugadores... Los jugadores y los entrenadores nos venían a decir que esa comparación no es válida, puesto que la selección china, cuando se enfrentaba a otras selecciones, se enfrentaba a selecciones mucho mejores, que en el ranking FIFA, por ejemplo, estaban mucho más arriba. Además, había un mayor ritmo de juego, que lo que hacía era reducir el tiempo y el espacio a la hora de ejecutar las acciones. Esa reducción del espacio y el tiempo conlleva a un mayor número de errores. Más allá de esto, nos indicaban, primero, que la preparación a nivel colectivo es menor cuando se juega con una selección en comparación con cuando se juega con un equipo y que ellos sentían una mayor presión psicológica por la responsabilidad de jugar con sus selecciones. Aquí vemos cómo esa vertiente cuantitativa, complementada con esta versión cualitativa, nos permite hacer un mejor análisis y una mejor comprensión de los datos.",
+      "keywords": [
+        "variables-contextuales",
+        "rendimiento-tecnico",
+        "presion-psicologica",
+        "ranking-fifa",
+        "selecciones",
+        "mixed-methods"
+      ],
+      "entities": [
+        "International Journal of Performance Analysis in Sport",
+        "Federación China de Fútbol",
+        "Universidad de Wuhan",
+        "South China Normal University",
+        "FIFA"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Data Science"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Por qué el rendimiento técnico de los jugadores puede bajar al ir con la selección nacional?",
+        "¿Qué variables contextuales influyeron en los jugadores chinos al jugar con su selección?",
+        "¿Cómo ayudaron los métodos mixtos a desmentir los rumores de falta de compromiso en China?"
+      ],
+      "related_terms": [
+        "variables contextuales",
+        "nivel del oponente",
+        "porcentaje de eficacia",
+        "presión psicológica",
+        "ritmo de juego"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de por qué un problema debe surgir de la necesidad en campo y no del laboratorio.",
+      "context_after": "Bonus track analizando una nueva modificación reglamentaria: pausas de hidratación en la Copa del Mundo."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "12:00",
+      "end_timestamp": "17:38",
+      "start_seconds": 720,
+      "end_seconds": 1058,
+      "duration_seconds": 338,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=720",
+      "title": "Pausas de hidratación y significación estadística (Copa del Mundo 2026)",
+      "summary": "Analizando eventos de pases 5 minutos antes y después de las pausas de hidratación obligatorias en el Mundial 2026, la hipótesis inicial suponía un cambio notable en el juego. Aunque los resultados dieron significación estadística por el volumen masivo de datos (>20,000 pases), el tamaño del efecto real fue trivial (cambios de longitud menores a 1 metro).",
+      "literal_quote": "La realidad es que si bien encontramos resultados estadísticamente significativos, los tamaños del efecto eran completamente triviales.",
+      "full_transcript": "Para terminar, y a modo de bonus track... quiero hablar de este artículo, porque quiero poner de manifiesto la necesidad de continuar con la investigación... Si nos vamos a la Copa del Mundo 2026, ganada por España hace unos meses, quizás en esta Copa del Mundo presenciamos una de las modificaciones reglamentarias más grandes que ha habido en el fútbol en los últimos años, y es el hecho de que las pausas de hidratación se volvieran obligatorias... Pasamos de un periodo de 90 minutos estructurado en dos partes, a que sí podríamos hablar de cuatro periodos de 22, 23 minutos, que nos da la posibilidad a los entrenadores de intervenir de forma directa con nuestros jugadores... Esto pensábamos, o al menos esa era nuestra hipótesis, que iba a influir de forma muy significativa en el juego. Precisamente en este estudio... nos planteamos, a partir de datos de eventing, ver si realmente esa pausa que se producía en el medio estaba influyendo en el juego. Lo que hicimos fue: cogimos todas las secuencias de pases que se produjeron cinco minutos antes, desde cinco hasta la pausa, y aquellas que se produjeron desde la pausa hasta cinco minutos después, de todos los partidos jugados en la Copa del Mundo 2026. Primero, vimos si había diferencias en las zonas. Presuponíamos que quizás... el juego iba a irse hacia zonas más retrasadas. Lo que observamos es que las diferencias, si bien eran estadísticamente significativas, eran completamente triviales. No cambiaba absolutamente la zona en la cual se jugaba antes y después de la interrupción... Cuando nos fuimos a analizar cómo se modificaban estas variables... vimos de nuevo que, si bien existían diferencias estadísticamente significativas, básicamente porque estábamos trabajando con más de 20.000 pases ejecutados en ese periodo... esas diferencias eran muy pequeñas. Por ejemplo, la primera variable... X, es la coordenada X en la cual se ejecuta el pase, teniendo en cuenta que el proveedor de datos, que en este caso era Statsbomb, tiene un sistema de coordenadas que va de cero a 120. Veíamos que en promedio, antes de la pausa, el pase se ejecutaba en la coordenada 60... y que después de la pausa, sí es cierto que había un pequeño retroceso... Pero fijaros que estamos hablando de una diferencia de dos metros en el terreno de juego en promedio. Si nos vamos a variables derivadas... el on-ball value, OBV... Vemos que la probabilidad de éxito aumentaba un poquito más cuando los pases se ejecutaban antes de las pausas... En cualquier caso, estamos hablando de una diferencia de una décima. Si nos vamos al pass length, que ya vemos presentaba un tamaño del efecto prácticamente de cero, vemos que en promedio los pases pasaban de tener una longitud de 20,3 metros a 21,0 metros. En resumen... nuestra hipótesis no era correcta. Desde nuestro punto de vista, esta pausa de hidratación estaba afectando al ritmo de juego... La realidad es que si bien encontramos resultados estadísticamente significativos, los tamaños del efecto eran completamente triviales.",
+      "keywords": [
+        "pausas-de-hidratacion",
+        "copa-del-mundo-2026",
+        "significacion-estadistica",
+        "tamano-del-efecto",
+        "statsbomb",
+        "on-ball-value"
+      ],
+      "entities": [
+        "Copa del Mundo 2026",
+        "España",
+        "Statsbomb"
+      ],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué impacto tuvieron las pausas de hidratación obligatorias en el Mundial 2026?",
+        "¿Por qué es importante medir el tamaño del efecto además de la significación estadística?",
+        "¿Cuánto varió la distancia de pase y la probabilidad de éxito debido a las pausas de hidratación?"
+      ],
+      "related_terms": [
+        "significación estadística",
+        "tamaño del efecto",
+        "datos de eventing",
+        "coordenadas de pase",
+        "on-ball value (OBV)",
+        "modificación reglamentaria"
+      ],
+      "relevance_score": 5,
+      "context_before": "Solución cualitativa a la evaluación del desempeño de los jugadores chinos internacionales.",
+      "context_after": "Reflexiones finales y recomendaciones para aplicar correctamente los análisis de datos deportivos."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "17:38",
+      "end_timestamp": "20:31",
+      "start_seconds": 1058,
+      "end_seconds": 1231,
+      "duration_seconds": 173,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1058",
+      "title": "Reflexiones finales para la aplicabilidad y accesibilidad de los datos",
+      "summary": "Para que un análisis de datos sea útil en la práctica deportiva se deben garantizar cuatro pilares: medir con validez, asegurar la transferibilidad a entrenadores o directivos, proveer interpretabilidad evitando modelos excesivamente complejos, e integrar todo en un entorno multidisciplinar.",
+      "literal_quote": "A la hora de hacer análisis de datos... lo primero que tenemos que asegurar es que lo que estamos midiendo es válido... Lo segundo es que los resultados... son transferibles... Tercero, que son accesibles... Y por último, en un ámbito multidisciplinar... debemos de integrar toda esta información.",
+      "full_transcript": "Para finalizar, alguna serie de reflexiones o preguntas derivadas de esta presentación que estamos planteando. A la hora de hacer análisis de datos y a la hora de llevar a cabo este tipo de trabajos en el ámbito del fútbol y de cualquier deporte, lo primero que tenemos que asegurar es que lo que estamos midiendo es válido, que estamos midiendo lo que realmente queremos medir. Lo segundo es que los resultados que estamos obteniendo son transferibles al ámbito práctico, es decir, los entrenadores, los directores deportivos, los preparadores físicos pueden entender y tomar decisiones. Tercero, que son accesibles, que todo el mundo puede acceder a ellos y para ello necesitamos que sean interpretables. Si utilizamos modelos extremadamente complejos, la brecha entre la investigación y el campo práctico se va a abrir cada vez más. Por lo tanto, necesitamos saber cuál es la problemática real de los practitioners, de los que están en el propio terreno de juego, y necesitamos establecer un consenso. Y por último, en un ámbito multidisciplinar en el que el rendimiento deportivo está condicionado por la variable técnico-táctica, por los aspectos psicológicos, por los aspectos sociales e incluso por los aspectos sociológicos y personales, debemos de integrar toda esta información para acercarnos cada vez más a una realidad más cercana a la realidad que viven aquellos que están en el terreno de juego. En esta diapositiva y en la diapositiva siguiente, facilito algunas de las, en mi opinión, referencias que son necesarias a día de hoy para entender el ecosistema del análisis de datos en el fútbol de alto rendimiento... y doy las gracias a todos por atender a esta presentación, facilitando acceso a mis redes sociales... y facilitando, por supuesto, mi correo electrónico corporativo para responder a cualquier duda, cualquier aspecto o cualquier debate que consideren necesario.",
+      "keywords": [
+        "validez",
+        "transferibilidad",
+        "accesibilidad",
+        "interpretabilidad",
+        "multidisciplinar",
+        "practitioners"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pilares fundamentales al hacer análisis de datos en el fútbol?",
+        "¿Por qué es perjudicial utilizar modelos extremadamente complejos en la práctica?",
+        "¿Qué significa la perspectiva multidisciplinar en el análisis de rendimiento?"
+      ],
+      "related_terms": [
+        "medición válida",
+        "ámbito práctico",
+        "modelos complejos",
+        "variable técnico-táctica",
+        "aspectos sociológicos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Resultados empíricos sobre el efecto estadístico vs práctico de las pausas de hidratación.",
+      "context_after": "Cierre de la ponencia y despedida con datos de contacto del ponente."
+    }
+  ]
+}
