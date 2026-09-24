@@ -1,0 +1,351 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+    "speaker": "Illán Iván Maragaño",
+    "total_duration": "00:21:07",
+    "total_duration_seconds": 1267,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:43",
+      "start_seconds": 1,
+      "end_seconds": 223,
+      "duration_seconds": 222,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1",
+      "title": "Criterios para la selección de nuevas métricas",
+      "summary": "Ante la multidimensionalidad y el enorme volumen de datos condicionales (GPS), se enfatiza la necesidad de utilizar métricas sencillas. Se establecen tres preguntas clave para validar una métrica: si mide lo que pretende medir, si influye en el rendimiento y si es posible intervenir sobre ella.",
+      "literal_quote": "Lo primero que tenemos que tener en cuenta a la hora de seleccionar una métrica, es que deberíamos de plantearnos tres preguntas... si realmente está midiendo lo que queremos medir... si realmente influye en el rendimiento... y si realmente tenemos capacidad de intervención.",
+      "full_transcript": "Otro aspecto que debemos valorar o tener en cuenta a la hora de evaluar el rendimiento en el ámbito del fútbol y en cualquier deporte en general, es la creación de nuevas métricas que nos permitan, de una forma resumida y sencilla, alcanzar ese nivel de conocimiento que nos permita trasladar ese resultado, habitualmente cuantitativo, al campo práctico. Cada vez, como se mencionó previamente, disponemos de más datos y de más variables. Cada vez que descargamos los datos de nuestros dispositivos GPS o de nuestro proveedor de datos, disponemos de cientos de variables para cada jugador. Si hablamos de carga condicional, hablamos de número de sprints, de número de aceleraciones, de número de deceleraciones, de la aceleración máxima, de la deceleración máxima, de la velocidad recorrida a esta velocidad, de la velocidad recorrida a máxima velocidad, de la velocidad a sprint, del player load, de una serie de métricas que hacen complejo comprender todo lo que tenemos delante y que a veces no somos capaces de alcanzar a comprender, precisamente por esa multidimensionalidad de la que estamos hablando. Por ello es importante ser capaces de seleccionar métricas sencillas de comprender y de entender, que recojan la mayor cantidad de información posible y, sobre todo, que sean trasladables, como hemos dicho previamente, al ámbito aplicado, al ámbito del entrenamiento o al ámbito de la competición. Lo primero que tenemos que tener en cuenta a la hora de seleccionar una métrica, es que deberíamos de plantearnos tres preguntas sobre esta métrica, esta variable que estamos analizando. La primera pregunta es muy sencilla y a la vez muy compleja, y es si realmente está midiendo lo que queremos medir. Luego vamos a hablar de una métrica que hemos implementado y en la que estamos trabajando en los últimos meses, que hemos denominado \"extremely demanding passage\", precisamente derivada de esos escenarios de máxima exigencia. Pero en cualquier caso, debemos de plantearnos si realmente está midiendo lo que tenemos que medir. Si estamos hablando del esfuerzo realizado por los jugadores durante un partido de fútbol, tenemos que plantearnos si realmente la distancia recorrida caminando es una métrica útil, si realmente está midiendo el esfuerzo. Creo que ya sabemos todos que no, pero debemos de plantearnos esto para cada una de las métricas, con lo cual puede resultar realmente complejo. Lo segundo que debemos de plantearnos es si realmente influye en el rendimiento. Esto podemos hacerlo mediante diferentes tipos de estudios. Vamos después a presentar algunos en los cuales hemos evaluado diferentes métricas desde el punto de vista condicional, también desde el punto de vista técnico-táctico. Y la tercera pregunta que debemos de plantearnos es si realmente tenemos capacidad de intervención sobre ella, puesto que si no, vamos a quedarnos en el punto teórico y no vamos a ser capaces de trasladar esos resultados al campo práctico. Podemos decir, a modo de resumen, que si la respuesta es positiva a estas tres preguntas, la métrica con la que estamos trabajando es una métrica adecuada y que se ajusta a nuestro contexto.",
+      "keywords": [
+        "metricas",
+        "multidimensionalidad",
+        "gps",
+        "player-load",
+        "rendimiento",
+        "intervencion"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué preguntas se deben hacer al seleccionar una métrica en fútbol?",
+        "¿Por qué es difícil analizar los datos de los dispositivos GPS?",
+        "¿Qué criterios validan una nueva métrica condicional en el deporte?"
+      ],
+      "related_terms": [
+        "multidimensionalidad de datos",
+        "selección de métricas",
+        "capacidad de intervención",
+        "carga condicional",
+        "trasladar al campo práctico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección sobre creación y evaluación de nuevas métricas aplicadas al ámbito deportivo.",
+      "context_after": "Presentación del concepto de escenarios de máxima exigencia y la métrica de Extremely Demanding Passage."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "03:44",
+      "end_timestamp": "07:25",
+      "start_seconds": 224,
+      "end_seconds": 445,
+      "duration_seconds": 221,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=224",
+      "title": "Transición del MDP al Extremely Demanding Passage (EDP)",
+      "summary": "Se critica el uso aislado del 'Most Demanding Passage' (MDP) mediante medias móviles, ya que cataloga un minuto como de 'máxima exigencia' incluso en partidos de baja intensidad. Para resolverlo, se propone el 'Extremely Demanding Passage' (EDP), seleccionando estadísticamente los 'outliers' superiores para programar con la máxima exigencia real.",
+      "literal_quote": "Si yo estoy utilizando después esos valores... no estoy programando en base a la máxima exigencia, sino a la máxima exigencia de ese partido concreto. A partir de esta justificación, creamos lo que denominamos el extremely demanding passage.",
+      "full_transcript": "Vamos a ver algunos ejemplos de nuevas tendencias o nuevos modelos en los cuales hemos ido trabajando en los últimos años. Para todos aquellos vinculados al ámbito del fútbol, desconozco en otros deportes, pero sí sé que se está aplicando en el fútbol cada vez más, el concepto de escenario de máxima exigencia, en inglés muchas veces denominado como \"worst case scenario\" o \"most demanding passage\", es el escenario en el cual, a través de habitualmente la high speed running, es decir, la velocidad por encima de 19,8 kilómetros por hora, es ese periodo en el cual los jugadores recorren la máxima velocidad o la máxima distancia a lo largo del partido. Esto normalmente se hace con un método que se denomina \"rolling average\", como media a lo largo del tiempo, en el cual vamos cogiendo el primer minuto, nos movemos una ventana, ese minuto, ese minuto, ese minuto, y vemos cuál es el minuto con más distancia recorrida por encima de esa intensidad. Esto lo hacemos para momentos de un minuto, de tres, de cinco, de 10, dependiendo un poquito del contexto y de los objetivos. Y a esto lo denominamos \"most demanding passage\", con lo cual sabemos cuál es la máxima exigencia que tiene un jugador en un partido para un minuto, cuál es su minuto más intenso, y a partir de ahí podemos programar tareas de entrenamiento que respondan a estas características de partido. La perspectiva que nosotros planteamos en este estudio, publicado el año pasado en la revista \"BMC Sports Science\", es la siguiente: como nosotros estamos obteniendo ese \"most demanding passage\", ese escenario de máxima exigencia, recorriendo el partido realizado por cada uno de los jugadores, todos los partidos y todos los jugadores tienen un escenario de máxima exigencia, independientemente de que ese partido no les haya exigido. Es decir, yo juego un partido, ese partido no requiere que haga esfuerzos de muy alta intensidad porque domino al equipo rival o por el contexto que sea. Pero, en cambio, voy a categorizar a un minuto de ese partido como un escenario de máxima exigencia, cuando realmente no me ha exigido al máximo. Por lo tanto, si yo estoy utilizando después esos valores para llevar a cabo el entrenamiento, para programar las tareas de entrenamiento, no estoy programando en base a la máxima exigencia, sino a la máxima exigencia de ese partido concreto. A partir de esta justificación, creamos lo que denominamos el \"extremely demanding passage\", que no viene a ser más que aquellos \"outliers\", aquellos valores extremos de los \"most demanding passage\" que me permiten ver realmente cuál es ese escenario extremo de máxima exigencia. Esto lo hacemos teniendo en cuenta la distribución de la curva de los escenarios de máxima exigencia, de tal forma que seleccionamos aquellos que se quedan en la cola superior. Es decir, lo que denominaríamos estadísticamente como \"outliers\". Y podemos entender, por lo tanto, que esos EDPs que hemos creado sí que van a ser unos escenarios máximos extremos, puesto que por definición estadística se encuentran en la cola superior de la distribución de los escenarios de máxima exigencia.",
+      "keywords": [
+        "most-demanding-passage",
+        "extremely-demanding-passage",
+        "rolling-average",
+        "high-speed-running",
+        "outliers",
+        "entrenamiento"
+      ],
+      "entities": [
+        "BMC Sports Science"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Concepto Técnico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué problema presenta la métrica Most Demanding Passage (MDP)?",
+        "¿Qué es un Extremely Demanding Passage (EDP) en fútbol?",
+        "¿Cómo se calcula el escenario de máxima exigencia real mediante outliers?"
+      ],
+      "related_terms": [
+        "escenario de máxima exigencia",
+        "worst case scenario",
+        "rolling average",
+        "valores extremos",
+        "distribución de curva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica sobre los criterios que debe cumplir una métrica para ser válida.",
+      "context_after": "Análisis estadístico y técnico-táctico de los Extremely Demanding Passages extraídos en un estudio de la Superliga china."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "07:25",
+      "end_timestamp": "11:51",
+      "start_seconds": 445,
+      "end_seconds": 711,
+      "duration_seconds": 266,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=445",
+      "title": "Características técnico-tácticas de los EDPs",
+      "summary": "Analizando 216 EDPs en 180 partidos, se observó que los escenarios extremos se asocian a un juego de campo abierto, con predominio de pases largos y menor número de toques y pases cortos, afectando de manera distinta a los jugadores según su posición específica (ej. mediocentros vs centrales).",
+      "literal_quote": "Esos escenarios de extrema exigencia estaban caracterizados por situaciones seguramente que podemos denominar de campo abierto, por situaciones en las cuales... bien había un pase en largo, o bien había un contraataque.",
+      "full_transcript": "Quizás para aquellos que no están demasiado habituados con el ámbito estadístico resulta un poquito complejo, pero a modo de resumen no es más que tomar los escenarios de máxima exigencia y de esos tomar aquellos que tienen una máxima exigencia de verdad, tomar los más altos de esos escenarios. Y esto nos permite ver, en otro estudio que hemos publicado, precisamente donde comparábamos qué diferenciaba a los escenarios de máxima exigencia de estos denominados \"extremely demanding passages\", cuáles eran las características que a nivel técnico-táctico caracterizaban a estos escenarios de extrema exigencia. Por lo tanto, tomábamos esos 3.500 escenarios de máxima exigencia que extraímos de los 180 partidos de la Superliga china en el año 2021 y de esos 3.500 nos quedábamos exclusivamente con 216, que eran los que denominábamos los \"extremely demanding passages\". Y cuando veíamos dentro de esos \"extremely demanding passages\", cuáles eran las diferencias a nivel técnico-táctico entre los escenarios promedio y los escenarios extremos, veíamos que había una serie de variables técnicas o variables técnico-tácticas que nos permitían ver cuál era esta característica. Por ejemplo, había un mayor número de pases largos en los escenarios de extrema exigencia. Había un menor número de pases cortos, precisamente en estos escenarios de máxima exigencia. En los escenarios extremos había menos toques de balón. En los escenarios extremos había un mayor número de longitud en amplitud del pase. Es decir, podríamos ver de una forma resumida a partir de estas variables, que esos escenarios de extrema exigencia estaban caracterizados por situaciones seguramente que podemos denominar de campo abierto, por situaciones en las cuales, por una disposición específica de los jugadores en ese momento, o bien había un pase en largo, o bien había un contraataque, o bien había una situación en la cual obligaba a haber un desplazamiento muy largo, muy rápido de los jugadores. Y realmente ahí era donde se producía. Es decir, entendíamos que los \"extremely demanding passages\" eran situaciones que ocurrían con cierta frecuencia, con situaciones de campo abierto y normalmente precedidas por un pase largo, que podía ser, esto no lo investigamos, a la espalda de la línea defensiva, etcétera. Por lo tanto, y a modo de resumen de lo que es esta métrica, creemos que puede ser útil, puesto que nos va a dar un punto más sobre ese esfuerzo máximo que realizan los jugadores en los partidos. De tal forma que los escenarios de máxima exigencia van a dar la tónica general de los jugadores, pero si realmente queremos ver cuál es el esfuerzo máximo, debemos de irnos a ese \"outlier\" superior, a esa cola superior de la distribución. Y vimos que realmente existían diferencias, que eran situaciones de juego que a nivel técnico-táctico eran diferentes. Comprender y seguir analizando estas situaciones nos permitirá en el futuro, como iremos haciendo en los próximos años, ir viendo si realmente es una métrica que nos puede resultar de utilidad a la hora de prescribir. En esta diapositiva aparecen algunas de las diferencias que encontramos también en función del puesto específico. Y efectivamente, como esto ya lo sabemos, si sabemos que las demandas físicas son diferentes a nivel general, a nivel global, en función del puesto específico, también lo eran para los puestos específicos. Por ejemplo, vemos como en este caso, en estos \"extremely demanding passages\", el intervalo de confianza o el rango, en el caso de los mediocentros, era superior a los defensas centrales. Nos permitía ir viendo estas situaciones. Como decía, vamos a pasar ahora, para finalizar con este segundo bloque,",
+      "keywords": [
+        "extremely-demanding-passages",
+        "campo-abierto",
+        "pase-largo",
+        "tecnico-tactico",
+        "puesto-especifico"
+      ],
+      "entities": [
+        "Superliga china"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué características técnico-tácticas tienen los Extremely Demanding Passages?",
+        "¿Cómo afectan los pases largos y cortos a los escenarios de máxima exigencia?",
+        "¿Hay diferencias en las demandas de los EDPs según la posición del jugador?"
+      ],
+      "related_terms": [
+        "contraataque",
+        "campo abierto",
+        "espalda de la defensa",
+        "puesto específico",
+        "intervalo de confianza"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del cálculo del EDP utilizando la cola superior de los escenarios de máxima exigencia.",
+      "context_after": "Introducción de una nueva métrica condicional basada en el tracking de eventos: el Pace of Play."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "11:51",
+      "end_timestamp": "16:24",
+      "start_seconds": 711,
+      "end_seconds": 984,
+      "duration_seconds": 273,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=711",
+      "title": "Evaluación del 'Pace of Play' mediante datos Eventing",
+      "summary": "Se expone el desarrollo de la métrica 'Pace of Play' (ritmo de juego) basada en el tiempo transcurrido entre pases. Aplicado al Mundial Femenino 2023, demostró que selecciones más veloces (menor tiempo entre pases) llegaron a fases finales, y se asocia a un mayor valor de mercado individual.",
+      "literal_quote": "Las selecciones que avanzan a lo largo del torneo, tienen un promedio inferior en cuanto al tiempo transcurrido entre pases, lo cual nos puede indicar... que están ejecutando ataques con una mayor velocidad.",
+      "full_transcript": "a una métrica completamente distinta, extraída en este caso de la tipología de datos tipo \"eventing\", y que publicamos en un artículo muy reciente en la revista \"Biology of Sport\". En este artículo lo que hicimos fue a partir de esa tipología de datos calcular una métrica, porque calculamos diferentes métricas, pero quisimos ver cómo evolucionaba el fútbol femenino o cómo ha evolucionado en los últimos años. Cogimos el Campeonato del Mundo 2019, la Eurocopa Femenina 2022 y el Mundial Femenino 2023. Analizamos, en función de las coordenadas, la localización de los pases para entender si había habido un movimiento espacial en cuanto a las posiciones de balón, si se jugaba más en unas zonas o en otras. Analizamos la longitud del pase para entender si, en promedio, el ataque había presentado en estos últimos cuatro años una reducción en la longitud del pase, lo cual nos podía indicar una mayor predisposición o un mayor dominio posicional o un mayor número de ataques combinativos frente a contraataques. Analizamos una variable desarrollada por unos investigadores, Branson and Davis, después añadiré la referencia, denominada como \"pace of play\", ritmo de juego, que podríamos traducir. Esta es una métrica que deriva de esta tipología de datos tipo eventing. Para que nos entendamos, en esta tipología de datos, como yo registro cada uno de los pases que se ejecutan a lo largo del partido y registro el momento temporal en el cual se ejecuta cada pase, yo puedo calcular el tiempo que transcurre entre un pase y otro. La hipótesis que planteamos en este estudio es que ese tiempo transcurrido entre pases puede ser una métrica útil a la hora de evaluar el ritmo de juego. Vemos en esta diapositiva, voy a avanzar a la siguiente, cómo evolucionaba el pace of play, el ritmo de juego, en los campeonatos analizados, y no solamente entre campeonatos, sino dentro de los propios campeonatos. Si nos vamos a las tres columnas de la izquierda que aparecen en esta gráfica, vemos cuál fue el pace of play promedio, es decir, el tiempo promedio transcurrido entre pases de las selecciones que quedaron eliminadas en la fase de grupos del mundial de 2019. Vemos cómo, en promedio, entre un pase y otro, estas selecciones promediaron casi 4,5 segundos. La segunda barra y la tercera nos indican el promedio de las selecciones eliminadas en octavos de final y cuartos de final, y el promedio de las selecciones eliminadas en semifinales y finales. Aquí podemos ver cómo a lo largo del campeonato, es decir, las selecciones que avanzan a lo largo del torneo, tienen un promedio inferior en cuanto al tiempo transcurrido entre pases, lo cual nos puede indicar, primero, que están ejecutando ataques con una mayor velocidad y, además, teniendo en cuenta que los equipos que llegan a estas fases de semifinales y finales se están enfrentando a mejores equipos en estas fases. Es decir, en el caso de la Copa del Mundo 2023 femenina, el equipo español, inglés y de Australia ejecutaron una serie de pases contra selecciones que alcanzaron esas fases. Con lo cual, vemos cómo realmente puede ser una métrica que a nivel colectivo nos pueda indicar cómo de dominador o cómo de veloz, o cuál es el ritmo que ejecuta esa selección. Precisamente, en ese estudio mencionado previamente, llevaron a cabo un análisis en las principales ligas femeninas europeas y vieron que las jugadoras con un menor pace of play eran las jugadoras que, de una forma relativamente directa, se asociaban a un mayor valor de mercado. Es decir, es una métrica que realmente nos puede indicar el rendimiento de la jugadora o del jugador que estamos analizando. Y como digo, esto podemos hacerlo a partir de esa tipología de datos tipo eventing. Con lo cual, volvemos a las tres preguntas que planteábamos antes.",
+      "keywords": [
+        "pace-of-play",
+        "eventing",
+        "ritmo-de-juego",
+        "futbol-femenino",
+        "mundial-femenino",
+        "valor-de-mercado"
+      ],
+      "entities": [
+        "Biology of Sport",
+        "Campeonato del Mundo 2019",
+        "Eurocopa Femenina 2022",
+        "Mundial Femenino 2023"
+      ],
+      "topics": [
+        "Data Science",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Concepto Técnico"
+      ],
+      "search_questions": [
+        "¿Qué es la métrica Pace of Play y cómo se calcula?",
+        "¿Qué relación hay entre el ritmo de juego y el éxito en el Mundial Femenino 2023?",
+        "¿Cómo influye el pace of play en el valor de mercado de una jugadora?"
+      ],
+      "related_terms": [
+        "tiempo transcurrido entre pases",
+        "tipología eventing",
+        "ataques combinativos",
+        "velocidad de ataque",
+        "rendimiento individual"
+      ],
+      "relevance_score": 5,
+      "context_before": "Cierre del análisis de la métrica EDP para control de cargas y paso a métricas derivadas de eventos.",
+      "context_after": "Análisis de la validez y aplicabilidad práctica de la métrica Pace of Play en la toma de decisiones."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "16:24",
+      "end_timestamp": "17:52",
+      "start_seconds": 984,
+      "end_seconds": 1072,
+      "duration_seconds": 88,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=984",
+      "title": "Aplicabilidad y toma de decisiones con el Pace of Play",
+      "summary": "Aunque el Pace of Play carece de contexto exacto entre cada acción, su análisis con un gran volumen de datos es fiable para medir el ritmo de juego. Proporciona información clave sobre la velocidad en la toma de decisiones para los cuerpos técnicos y direcciones deportivas.",
+      "literal_quote": "Puede darnos una idea de cómo de veloz es en su toma de decisiones y eso puede permitirnos mejorar nuestros procesos.",
+      "full_transcript": "Vamos a analizar esta idea sobre la métrica pace of play. Primero, ¿mide lo que quiere medir? Con sus limitaciones, porque evidentemente no sabemos cuál es el contexto que ocurre entre que una jugadora realiza un pase y la jugadora siguiente realiza el otro pase. Puede haber una conducción por la situación de juego que está haciendo que el pase se ralentice, pero que estoy obteniendo una ventaja. Pero podemos entender que con un volumen lo suficientemente grande de pases, sí podemos llegar a unas conclusiones. Es decir, está midiendo ese ritmo de juego, con sus limitaciones, pero conseguimos hacer esto. ¿Podemos tomar decisiones en base a esta variable? Quizás desde el punto de vista de mercado, a la hora de tomar una decisión sobre la velocidad de juego de un jugador, puede darnos una idea de cómo de veloz es en su toma de decisiones y eso puede permitirnos mejorar nuestros procesos. Realmente, el que está en el campo práctico, deben ser ustedes los que tomen la decisión de si la métrica es útil o no, pero vimos cómo, por ejemplo, en ese estudio mencionado previamente, esta métrica se asocia al valor de mercado, con lo cual es una métrica que nos habla al menos de su valor, pero también del rendimiento que nos puede dar ese jugador o esa selección.",
+      "keywords": [
+        "pace-of-play",
+        "toma-de-decisiones",
+        "valor-de-mercado",
+        "volumen-de-datos",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las limitaciones de medir el ritmo de juego a través del tiempo entre pases?",
+        "¿Por qué es importante un gran volumen de datos al usar el Pace of Play?",
+        "¿Cómo ayuda el Pace of Play en la toma de decisiones deportivas?"
+      ],
+      "related_terms": [
+        "velocidad de toma de decisiones",
+        "contexto de la acción",
+        "dirección deportiva",
+        "campo práctico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación de los resultados de éxito obtenidos a través del análisis del Pace of Play.",
+      "context_after": "Advertencia sobre la interpretación estadística de grandes volúmenes de datos en las ciencias del deporte."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "17:52",
+      "end_timestamp": "19:52",
+      "start_seconds": 1072,
+      "end_seconds": 1192,
+      "duration_seconds": 120,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1072",
+      "title": "Significación estadística vs. Tamaño del efecto",
+      "summary": "Se alerta sobre el uso de estadística inferencial en Big Data: debido al inmenso volumen, casi cualquier diferencia será estadísticamente significativa. Es crucial enfocarse en el 'tamaño del efecto'; por ejemplo, reducir 1 segundo el ritmo de juego (Pace of Play) puede ser decisivo en el fútbol, aunque estadísticamente parezca trivial.",
+      "literal_quote": "Un resultado estadísticamente significativo no debe llevarnos a confusión, puesto que tenemos que analizar cuál es ese tamaño del efecto... siempre debemos comprender estas métricas desde el punto de vista aplicado.",
+      "full_transcript": "Y un tema importante también, y cada vez más resaltado y más tenido en cuenta en el ámbito de la investigación en las ciencias del deporte, es que cada vez trabajamos con más datos y con un mayor volumen de \"datasets\", por cada partido, si trabajamos con datos de tracking, el volumen de datos es inmenso, y Evidentemente, cuando aplicamos técnicas de estadística inferencial con este volumen de datos, es muy fácil que encontremos resultados denominados habitualmente como estadísticamente significativos. Y este resultado estadísticamente significativo no debe llevarnos a confusión, puesto que tenemos que analizar cuál es ese tamaño del efecto derivado de esas diferencias, que quizás sea un valor estadístico que sí nos permite saber cómo de aplicable al contexto práctico es esa métrica. En este caso, cuando analizábamos, a partir de técnicas de estadística inferencial, la métrica \"pace of play\", las diferencias siempre eran estadísticamente significativas, pero cuando nos íbamos a los tamaños del efecto, estos eran triviales estadísticamente. En mi opinión, si hablamos de que unas selecciones promedian entre pases 3,7 segundos frente a 4,5 segundos, como por ejemplo podemos ver en esta diapositiva, en las diferencias más grandes entre los semifinalistas de 2023 y la fase de grupos de 2019, estamos hablando de que un segundo más lento a la hora de ejecutar todos los pases de una posesión marca la diferencia, evidentemente, entre el éxito ofensivo y el éxito no ofensivo. Con lo cual, más allá de los valores de significación estadística, más allá de los valores del tamaño del efecto estadístico, siempre debemos comprender estas métricas desde el punto de vista aplicado.",
+      "keywords": [
+        "significacion-estadistica",
+        "tamano-del-efecto",
+        "estadistica-inferencial",
+        "big-data",
+        "datasets",
+        "aplicabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué problema genera la significación estadística al analizar big data en fútbol?",
+        "¿Por qué es más importante el tamaño del efecto que la significación estadística?",
+        "¿Qué impacto práctico tiene un segundo de diferencia en el Pace of Play?"
+      ],
+      "related_terms": [
+        "estadística inferencial",
+        "volumen de datos",
+        "tamaño del efecto",
+        "éxito ofensivo",
+        "contexto práctico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre la toma de decisiones basada en el ritmo de juego individual y colectivo.",
+      "context_after": "Conclusiones finales sobre la selección de métricas y la ineludible importancia del contexto."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "19:52",
+      "end_timestamp": "21:07",
+      "start_seconds": 1192,
+      "end_seconds": 1267,
+      "duration_seconds": 75,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1192",
+      "title": "El contexto como clave en la evaluación de métricas",
+      "summary": "A modo de resumen, se concluye que la elección de métricas es personal y debe capturar el abanico completo de situaciones en campo. El contexto es fundamental: una métrica condicional carece de valor real sin su contexto técnico-táctico, requiriendo siempre una validación práctica de su aplicabilidad.",
+      "literal_quote": "El contexto es clave, y entender una métrica condicional sin su contexto técnico, táctico o viceversa, no me permite obtener realmente la información que yo quiero.",
+      "full_transcript": "Por lo tanto, a modo de resumen de esta segunda sección, una métrica es una decisión personal. Una métrica tiene que permitirnos medir lo que nosotros queremos medir. Además, debe de intentar recopilar todo el abanico de situaciones que ocurren en el terreno de juego. Por ejemplo, veíamos antes cómo una métrica, quizás demasiado generalista, muy enfocada al promedio, como pueden ser los escenarios de máxima exigencia, puede verse favorecida de irnos a aquellos escenarios de máxima exigencia. Por supuesto, sabemos que, como se dice habitualmente en el ámbito del fútbol, \"context is key\", el contexto es clave, y entender una métrica condicional sin su contexto técnico, táctico o viceversa, no me permite obtener realmente la información que yo quiero. Y por último, siempre tenemos que tener en cuenta que a nivel estadístico y a nivel práctico, las diferencias pueden ser grandes y que aquello que a lo mejor resulta estadísticamente significativo, no es aplicable en el campo práctico. Por eso, utilizar métricas como el tamaño del efecto nos puede permitir llegar a una mayor comprensión y, por supuesto, a una mayor aplicabilidad en el campo práctico.",
+      "keywords": [
+        "contexto",
+        "aplicabilidad",
+        "metrica-condicional",
+        "tecnico-tactico",
+        "tamano-del-efecto",
+        "context-is-key"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Conclusión",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué se afirma que el contexto es clave al evaluar métricas en fútbol?",
+        "¿Cómo se relaciona una métrica condicional con el aspecto técnico-táctico?",
+        "¿Cuál es el resumen final para la selección de métricas deportivas?"
+      ],
+      "related_terms": [
+        "context is key",
+        "abanico de situaciones",
+        "aplicabilidad práctica",
+        "comprensión táctica"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis sobre la trampa de la significación estadística sin considerar el tamaño del efecto.",
+      "context_after": "Fin de la transcripción y del bloque de evaluación."
+    }
+  ]
+}

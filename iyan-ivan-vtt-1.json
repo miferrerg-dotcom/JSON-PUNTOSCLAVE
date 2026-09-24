@@ -1,0 +1,405 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+    "speaker": "Illán Iván Maragaño",
+    "total_duration": "00:26:15",
+    "total_duration_seconds": 1575,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "00:27",
+      "end_timestamp": "02:46",
+      "start_seconds": 27,
+      "end_seconds": 166,
+      "duration_seconds": 139,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=27",
+      "title": "Perfil y trayectoria del ponente Illán Iván Maragaño",
+      "summary": "Presentación del ponente, doctor en Ciencias del Deporte con máster en Inteligencia Artificial. Describe su experiencia como docente en universidades españolas e investigador con más de 50 publicaciones.",
+      "literal_quote": "Graduado por la misma universidad en Ciencias de la Actividad Física y del Deporte y además, entre otras formaciones, poseo un máster en Inteligencia Artificial.",
+      "full_transcript": "Antes de avanzar con los contenidos del texto, voy a realizar una breve presentación de quién soy y de cuáles son mis perfiles y experiencia profesional. Mi nombre es Illán Iván Maragaño. Actualmente, soy profesor ayudante, doctor, lecturer en la Universidad de León, en España, en la cual imparto asignaturas relacionadas tanto con el análisis de rendimiento como con el análisis en el fútbol, impartiendo asignaturas como fútbol, ampliación deportiva o nuevas tecnologías aplicadas a la actividad física y el deporte, entre otras. Entre mis principales méritos, principalmente académicos, soy doctor en Ciencias del Deporte desde el año 2021 por la Universidad de A Coruña. Graduado por la misma universidad en Ciencias de la Actividad Física y del Deporte y además, entre otras formaciones, poseo un máster en Inteligencia Artificial. En los últimos años he sido autor o coautor de más de 50 artículos de investigación indexados en diferentes revistas. También he participado como ponente invitado y con diversas comunicaciones en congresos internacionales llevados a cabo en Guatemala, en China, en España, en Hungría y en otras localizaciones. De una forma muy resumida, ahí aparecen los logos de las instituciones o de las universidades en las cuales, o bien me he formado o bien ejerzo en la actualidad. Si bien me he formado principalmente en la Universidad de A Coruña durante estos últimos años, también he tenido la suerte o la oportunidad de ejercer como docente en la Universidad Europea de Madrid, también impartiendo asignaturas muy relacionadas con la estadística y el análisis de datos aplicado al deporte y, como he mencionado, desde el año pasado ejerzo como profesor del Departamento de Educación Física y Deportiva de la Universidad de León.",
+      "keywords": [
+        "experiencia-profesional",
+        "inteligencia-artificial",
+        "ciencias-del-deporte",
+        "docencia",
+        "investigacion",
+        "analisis-rendimiento"
+      ],
+      "entities": [
+        "Illán Iván Maragaño",
+        "Universidad de A Coruña",
+        "Universidad de León",
+        "Universidad Europea de Madrid"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Presentación"
+      ],
+      "search_questions": [
+        "¿Quién es Illán Iván Maragaño?",
+        "¿Cuál es la experiencia profesional del ponente en ciencias del deporte e inteligencia artificial?",
+        "¿Qué materias imparte Illán Iván Maragaño en la universidad?"
+      ],
+      "related_terms": [
+        "experiencia",
+        "docencia",
+        "inteligencia artificial",
+        "ciencias del deporte",
+        "investigación académica"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la ponencia y bienvenida al curso de Performance Science Specialist.",
+      "context_after": "Introducción a los tres bloques de contenidos principales de la formación."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "02:46",
+      "end_timestamp": "06:33",
+      "start_seconds": 166,
+      "end_seconds": 393,
+      "duration_seconds": 227,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=166",
+      "title": "Estructura de la formación y la integración de mixed methods",
+      "summary": "Se presentan los tres bloques del curso: evolución de técnicas de análisis de datos, nuevas métricas condicionales y técnico-tácticas, y el uso de 'mixed methods' para integrar la experiencia cualitativa técnica con el volumen cuantitativo.",
+      "literal_quote": "Cada vez se hace más necesario importar o integrar esa versión cualitativa que nos pueden dar los expertos... para comprender muy bien qué es lo que tenemos con esos datos.",
+      "full_transcript": "Pasando ya a los contenidos de esta formación, me gustaría indicar que esta formación vamos a separarla en tres bloques de contenidos que se presentan precisamente en esta diapositiva. He de decir, antes de nada, que las investigaciones que se van a presentar en esta formación, en esta grabación, son investigaciones que junto a otros coautores, principalmente de España, pero también de otros países, he ido elaborando y hemos publicado en los últimos años. Esto no quiere decir que la bibliografía que se va a presentar en esta presentación se considere mejor que el resto de bibliografía. Todo lo contrario, no significa eso, sino que he querido mostrar, en este caso como ponente invitado, las investigaciones que yo mismo y mis coautores hemos ido realizando. Si bien al final de la presentación os facilitaré varias de las referencias que a día de hoy creo que son más importantes a la hora de comprender el ecosistema del análisis de datos en el mundo del fútbol de alto nivel y cómo estamos construyendo métricas e intentando obtener esa serie de 'insights' a partir de los datos. En primer lugar, en el primer bloque, vamos a hacer un acercamiento a las diferentes técnicas de análisis de datos que se han venido aplicando en el ámbito del fútbol en los últimos años. Y sobre todo, vamos a recorrer un camino desde lo que podríamos denominar el uso de las estadísticas agregadas de carácter general, ya bien sea a nivel individual para analizar el rendimiento del jugador o a nivel colectivo para analizar el rendimiento del equipo. Y vamos a ver cómo en los últimos años hemos ido avanzando desde esas estadísticas agregadas, que quizás no son capaces de alcanzar o de conocer toda la realidad de lo que está ocurriendo en el juego, hasta los datos de eventing o de tracking, que a día de hoy, posiblemente suponen el mayor nivel de acercamiento a la realidad de lo que estamos viendo en el juego. En el segundo bloque vamos a hablar de las nuevas métricas o de cómo podemos evaluar nuevas métricas para evaluar el análisis del rendimiento. Y vamos a poner ejemplos desde el punto de vista técnico, táctico, con estudios que hemos publicado recientemente, y también desde el punto de vista condicional, para ver cómo podemos crear esta nueva forma o nuevas formas de medir el rendimiento de los jugadores. Y por último, en el tercer bloque, quizás un poquito más corto, al cual añadiremos un pequeño bonus track con una de las publicaciones más recientes que hemos realizado. De hecho, todavía no se encuentra publicada, sino que estamos en la última fase de revisión por pares. Vamos a hablar de una nueva metodología, no nueva, puesto que quizás estamos hablando de una de las metodologías, no más antigua, pero que se ha venido desarrollando en las últimas décadas. Y vamos a hablar de la mayor importancia que, en mi opinión, están cobrando los 'mixed methods' en las ciencias del deporte, al menos desde el ámbito académico, desde el ámbito de la investigación. Cada vez tenemos más datos, cada vez estos datos resultan más complejos de analizar Y cada vez se hace más necesario importar o integrar esa versión cualitativa que nos pueden dar los expertos, aquellos que estáis dentro, en este caso, del terreno de juego, de los banquillos, para conocer y para comprender muy bien qué es lo que tenemos con esos datos.",
+      "keywords": [
+        "mixed-methods",
+        "metricas",
+        "tracking",
+        "eventing",
+        "estadisticas-agregadas",
+        "cualitativo",
+        "cuantitativo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Introducción",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los bloques principales de la formación de análisis de datos en fútbol?",
+        "¿Qué son los mixed methods en ciencias del deporte?",
+        "¿Cómo se integra la versión cualitativa en el análisis de datos de fútbol?"
+      ],
+      "related_terms": [
+        "técnicas de análisis",
+        "evaluación del rendimiento",
+        "nuevas métricas",
+        "métodos mixtos",
+        "expertos cualitativos"
+      ],
+      "relevance_score": 4,
+      "context_before": "Presentación del currículo del ponente Illán Iván Maragaño.",
+      "context_after": "Explicación sobre la brecha que existe entre los investigadores en laboratorio y el cuerpo técnico en el campo."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "06:33",
+      "end_timestamp": "08:41",
+      "start_seconds": 393,
+      "end_seconds": 521,
+      "duration_seconds": 128,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=393",
+      "title": "La brecha entre el laboratorio de datos y los cuerpos técnicos",
+      "summary": "Se expone el crecimiento exponencial del volumen de datos (tracking de 10-20 Hz) aplicados a diversos contextos. Pese al uso de técnicas complejas por parte de investigadores, en la práctica de campo la información sigue limitándose a tablas y gráficos resumen.",
+      "literal_quote": "Se está abriendo una brecha, en mi opinión, cada vez mayor, entre lo que los investigadores llevamos a cabo en nuestros laboratorios... y lo que los practitioners llevan a cabo en el terreno de juego.",
+      "full_transcript": "Sin más dilación, pasamos a ese primer bloque de contenidos, pero me gustaría, antes de nada, utilizar una serie de afirmaciones extraídas de diferentes fuentes y de diferentes artículos, que precisamente constituyen una de las introducciones de los últimos artículos que hemos publicado y que nos viene a hablar un poquito del uso de datos en el fútbol. Somos conscientes, sabemos que el uso de datos se ha incrementado de forma exponencial en los últimos años, pasando de registros extremadamente sencillos, notacionales u observacionales, a un número, un volumen de datos por cada partido que podemos obtener, por ejemplo, de registros de tracking, donde sabemos que estamos registrando la posición de los 22 jugadores y el balón en el terreno de juego con una frecuencia de 10, 15, 20 Hz por segundo. Hemos visto cómo hemos pasado de ese volumen pequeñito a un volumen mucho más grande. Todo esto se está aplicando a muchos contextos: se está aplicando a la preparación de partidos, se está aplicando a la gestión de cargas, se está aplicando a la toma de decisiones a la hora de contratar o no contratar fichajes. Pero es verdad que se está abriendo una brecha, en mi opinión, cada vez mayor, entre lo que los investigadores llevamos a cabo en nuestros laboratorios, lo digo entre comillas, y lo que los practitioners llevan a cabo en el terreno de juego. Realmente estamos viendo que cada vez aplicamos técnicas más complejas, pero que la realidad que nos encontramos es que en el día a día de los cuerpos técnicos, todas estas técnicas complejas, cuando se trata de trasladar la información al jugador y a los entrenadores, quedan muy resumidas a tablas resumen con porcentajes, promedios, gráficos de barras, gráficos de radar, muy frecuentes actualmente, gráficos de calor, etcétera. Con lo cual, esa brecha tiene que cerrarse o tenemos que establecer una buena conexión entre lo que hacemos en el laboratorio y lo que hacemos en el campo de fútbol, en este caso.",
+      "keywords": [
+        "tracking",
+        "practitioners",
+        "laboratorio",
+        "cuerpos-tecnicos",
+        "volumen-de-datos",
+        "brecha"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema"
+      ],
+      "search_questions": [
+        "¿Qué brecha existe entre la investigación de datos deportivos y la práctica en campo?",
+        "¿Cómo ha evolucionado el volumen de datos en el fútbol?",
+        "¿De qué manera los cuerpos técnicos resumen habitualmente la información compleja?"
+      ],
+      "related_terms": [
+        "investigadores",
+        "cuerpos técnicos",
+        "toma de decisiones",
+        "gestión de cargas",
+        "gráficos de radar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción general a los bloques temáticos y de la importancia de los métodos cualitativos y cuantitativos.",
+      "context_after": "Desarrollo detallado de la primera capa de información en fútbol: las estadísticas agregadas."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "08:41",
+      "end_timestamp": "10:25",
+      "start_seconds": 521,
+      "end_seconds": 625,
+      "duration_seconds": 104,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=521",
+      "title": "Ventajas y limitaciones de las estadísticas agregadas",
+      "summary": "Las estadísticas agregadas proveen sumarios por equipo o jugador, como posesión o pases completados. Son altamente interpretables y de bajo coste, pero pierden contexto e información valiosa sobre la complejidad del juego.",
+      "literal_quote": "El uso de estadísticas agregadas tiene una ventaja muy clara, y es que la interpretabilidad es muy alta... Si bien es cierto que realmente estamos perdiendo una serie de informaciones muy valiosas a la hora de analizar el rendimiento.",
+      "full_transcript": "Vamos, por lo tanto, a ese primer bloque de contenidos, en el cual vamos a hablar de esas técnicas avanzadas de análisis de datos en fútbol y vamos a pasar a este ejemplo, vamos a abordar este contenido desde lo que podemos denominar como estadísticas agregadas, si me permiten este término, hasta los datos de eventing y tracking. Quiero presentar esto con algunos de los estudios que hemos realizado recientemente. Para entender un poquito cuáles son estas tres capas de tipología de datos que podemos utilizar en el ámbito del fútbol, podemos entender estas estadísticas agregadas como aquellas estadísticas que nos van a dar en nuestro libro de Excel, en nuestra base de datos, una fila por equipo y por partido, o en su caso, una fila por jugador y por partido. Por ejemplo, por cada jugador podemos saber el número de pases que ha completado, la distancia recorrida, la distancia recorrida a máxima intensidad, la distancia recorrida a velocidad de sprint por encima de 19,8 km/h, etcétera. El porcentaje de posesión, el número de tiros, los pases completados. Podemos analizar toda esta información. Evidentemente, el uso de estadísticas agregadas tiene una ventaja muy clara, y es que la interpretabilidad es muy alta, el registro suele ser barato, pudiendo llevarse a cabo incluso de una forma notacional, como se realizaba hace una o dos décadas, y es muy fácil de comparar, incluso es muy fácil de trasladar desde el ámbito científico hasta el ámbito práctico. Si bien es cierto que realmente estamos perdiendo una serie de variables, una serie de informaciones muy valiosas a la hora de analizar el rendimiento en fútbol.",
+      "keywords": [
+        "estadisticas-agregadas",
+        "interpretabilidad",
+        "velocidad-sprint",
+        "posesion",
+        "rendimiento"
+      ],
+      "entities": [
+        "Excel"
+      ],
+      "topics": [
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué son las estadísticas agregadas en el fútbol?",
+        "¿Cuáles son las ventajas del uso de estadísticas agregadas?",
+        "¿Qué información se pierde al utilizar estadísticas agregadas?"
+      ],
+      "related_terms": [
+        "interpretabilidad",
+        "distancia recorrida",
+        "velocidad de sprint",
+        "pases completados",
+        "pérdida de variables"
+      ],
+      "relevance_score": 4,
+      "context_before": "Reflexión acerca de la brecha de aplicación tecnológica entre laboratorio y práctica de campo.",
+      "context_after": "Paso a la explicación de las siguientes capas tecnológicas en datos deportivos: eventing y tracking data."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "10:25",
+      "end_timestamp": "12:43",
+      "start_seconds": 625,
+      "end_seconds": 763,
+      "duration_seconds": 138,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=625",
+      "title": "Características y limitaciones del Eventing y Tracking Data",
+      "summary": "Se definen los datos 'Eventing' (coordenadas XY por acción de balón) y el 'Tracking Data' (posiciones de los 22 jugadores a alta frecuencia). Se destacan grandes limitaciones de infraestructura para el tracking, especialmente en el fútbol femenino de liga regular.",
+      "literal_quote": "Esto limita mucho el uso de datos de tracking en el fútbol femenino, donde las ligas no tienen esa capacidad de implementar esos sistemas de cámaras.",
+      "full_transcript": "La segunda capa que podríamos denominar sería la capa de datos tipo eventos, tipo eventing, donde más allá de estas estadísticas agregadas que se van sumando conforme se lleva a cabo un partido o una sesión de registro, en el caso de los datos de eventing, lo que vamos a tener es una fila por cada acción con balón que se ejecuta sobre el terreno de juego, normalmente codificadas de forma manual, aunque cada vez más a través de diferentes herramientas de computer vision, y donde vamos a obtener, por ejemplo, las coordenadas de inicio y fin de cada uno de los pases ejecutados en el terreno de juego. Las coordenadas X e Y con la posición en el terreno de juego, de donde se realiza cada uno de los despejes, cada una de las entradas con sus métricas derivadas y asignadas a cada uno de estos eventos. Por último, cuando hablamos del tracking data, cuando hablamos del trackeo, estamos hablando de ese mismo registro, pero no solamente para aquellas acciones con balón, sino para los 22 jugadores en el terreno de juego, en el cual sabremos las coordenadas espaciales de los jugadores con una frecuencia de 10 a 20 Hz, dependiendo del proveedor. Con su ventaja, y es que obtenemos la máxima información disponible del juego que se está llevando a cabo, pero evidentemente con sus dificultades. La primera de ellas a nivel técnico o de infraestructuras, puesto que necesitamos la instalación de una serie de artefactos de cámaras, en este caso en cada uno de los estadios. Por ejemplo, esto limita mucho el uso de datos de tracking en el fútbol femenino, donde las ligas no tienen esa capacidad de implementar esos sistemas de cámaras, quedando relegado, por lo tanto, a campeonatos internacionales como la Copa del Mundo y demás. Y otra limitación que está en la dificultad de analizar e interpretar los resultados de datos de tracking.",
+      "keywords": [
+        "eventing",
+        "tracking-data",
+        "coordenadas",
+        "computer-vision",
+        "frecuencia-hz",
+        "futbol-femenino"
+      ],
+      "entities": [
+        "Copa del Mundo"
+      ],
+      "topics": [
+        "Data Science",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿En qué consisten los datos de eventing en fútbol?",
+        "¿Qué diferencias existen entre el eventing y el tracking data?",
+        "¿Por qué es difícil aplicar tracking data en el fútbol femenino regular?"
+      ],
+      "related_terms": [
+        "coordenadas XY",
+        "computer vision",
+        "frecuencia espaciotemporal",
+        "sistemas de cámaras",
+        "dificultad técnica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Descripción de las fortalezas y debilidades de las estadísticas agregadas tradicionales.",
+      "context_after": "Estudio práctico de diferencias de género utilizando inteligencia artificial, y debate sobre la explicabilidad."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "12:43",
+      "end_timestamp": "18:55",
+      "start_seconds": 763,
+      "end_seconds": 1135,
+      "duration_seconds": 372,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=763",
+      "title": "IA de caja negra vs. Modelos Interpretables",
+      "summary": "Se aborda el concepto de 'explicabilidad' en IA, enfrentando a las opacas redes neuronales (black box) con los modelos estadísticos tradicionales (regresión logística). Para aplicaciones prácticas en cuerpos técnicos, la interpretabilidad suele compensar pequeñas pérdidas en capacidad predictiva.",
+      "literal_quote": "Si yo sé que tengo dos modelos que hacen lo mismo, uno es un poquito peor, pero lo entiendo, quizás ese modelo sea más aplicable al ámbito práctico.",
+      "full_transcript": "Por lo tanto, estas son las tres capas que podríamos definir sobre tipología de datos y vamos a ver ahora qué es lo que podemos hacer con cada uno de ellos. Lo expondré con algunos artículos que hemos ido publicando en los últimos años... (como el estudio de 2024 de fútbol femenino y masculino). Podemos estar de acuerdo en que la toma de decisiones o la aplicación práctica que podemos derivar de este tipo de datos es cuanto menos limitada, puesto que estamos haciendo una reducción de la complejidad de la realidad del juego muy grande. Más si cabe, y aquí voy a abrir un tema quizás complejo de describir rápidamente... cuando se trata de analizar datos y de trasladar estos análisis al campo práctico. Desde el punto de vista cuantitativo, existen una serie de métricas y de elementos que nos permiten saber cuándo un análisis es mejor que otro. Cuando hablamos de capacidad predictiva del modelo, por ejemplo, quiero predecir si un jugador se va a lesionar o no, quiero predecir el resultado de un partido... Tenemos una serie de modelos en el ámbito de la inteligencia artificial y del aprendizaje automático, que por su capacidad presentan una alta explicabilidad. Esto es evidente para aquellos que estén familiarizados en los modelos de árbol de decisión, donde a partir de diferentes nodos y ramas, yo sé por qué mi modelo me dice que este jugador se va a lesionar. En cambio, y cada vez más debido a la complejidad de estos análisis, existen también una serie de técnicas que podemos denominar como caja negra, o modelos 'black box'... Es la incapacidad de saber por qué un modelo me va a decir lo que me está diciendo. Imaginemos un modelo predictivo que asigna un riesgo de que el jugador se lesione en la próxima sesión. Tenemos dos modelos, uno que simplemente me da una probabilidad y yo no puedo saber por qué me está diciendo esto, porque es tan complejo como una red neuronal... a un modelo que a veces es un poquito peor, su capacidad predictiva decrece un poquito, pero sé por qué me está diciendo esto. Aquí entra el concepto de explicabilidad. Y esa explicabilidad es fundamental a la hora de trasladar los conceptos al campo práctico. En una imagen veíamos esto: al discriminar un equipo femenino o masculino, había una red neuronal con una única capa oculta, y otro modelo de regresión logística binaria. La regresión logística binaria es interpretable... mientras que una red neuronal es opaca. Por lo tanto, si yo sé que tengo dos modelos que hacen lo mismo, uno es un poquito peor, pero lo entiendo, quizás ese modelo sea más aplicable al ámbito práctico. La fiabilidad o la validez de un modelo no es suficiente.",
+      "keywords": [
+        "inteligencia-artificial",
+        "explicabilidad",
+        "black-box",
+        "red-neuronal",
+        "regresion-logistica",
+        "modelos-predictivos"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Data Science",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto Técnico"
+      ],
+      "search_questions": [
+        "¿Qué es un modelo de caja negra o black box en IA?",
+        "¿Por qué es importante la explicabilidad de los modelos predictivos en el deporte?",
+        "¿Qué diferencia práctica hay entre una regresión logística y una red neuronal?"
+      ],
+      "related_terms": [
+        "explicabilidad algorítmica",
+        "caja negra",
+        "capacidad predictiva",
+        "árbol de decisión",
+        "interpretabilidad de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Descripción técnica de las tipologías de datos en el fútbol.",
+      "context_after": "Estudio práctico de segmentación y clustering aplicado a redes de pases en competición internacional."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "18:55",
+      "end_timestamp": "23:43",
+      "start_seconds": 1135,
+      "end_seconds": 1423,
+      "duration_seconds": 288,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1135",
+      "title": "Contexto táctico mediante clustering de redes de pases",
+      "summary": "Se expone un análisis de clustering sobre aproximadamente 230,000 eventos en el Mundial Femenino 2023, descubriendo cinco tipos de pases. Comparar jugadoras (como Laia Codina y Millie Bright) demuestra que el clustering añade el contexto táctico que la estadística agregada omite.",
+      "literal_quote": "El estilo de juego y la tipología de pases que ejecutan ambas jugadoras era completamente diferente. Por lo tanto, estamos dándole contexto a esta estadística agregada que no nos da la información original.",
+      "full_transcript": "Vamos a una segunda capa de datos y, en este caso, vamos a presentarlos con otro estudio publicado en el año 2025 en la revista 'International Journal of Performance Analysis in Sport', donde hicimos un análisis a través de 'clustering', un análisis de segmentación de las redes de pases por equipos y por jugadoras en la FIFA Women's World Cup 2023... En la Copa del Mundo Femenina, estos registros sumaban un total de casi 230.000 observaciones de los cuales teníamos pases, entradas, despejes, penaltis. En concreto, nosotros llevamos a cabo un análisis de clusters buscando patrones estables en las redes de pases y descubrimos la existencia de cinco tipologías de pases, en función de localización, intención táctica y altura. Por ejemplo, dos tipos en campo propio, dos de creación, y uno de juego directo. Podemos ver en mapas de calor cómo pases ejecutados desde el área propia con gran altura quedaban clusterizados en juego directo... Esto nos permitía entender el estilo de juego de la selección. Realmente estamos hablando de cómo trasladar eventos tipo pase a comprensión mediante visualizaciones de fácil entendimiento práctico. Y veamos un ejemplo individual: Laia Codina y Millie Bright, defensas centrales finalistas. Con estadísticas agregadas, el número de pases era similar. El porcentaje de eficacia de Laia Codina era mucho mayor. Pero la realidad es que perdemos contexto. Si nos vamos al análisis gráfico (clusters), vemos que la tipología de pases y el estilo de juego que ejecutan ambas jugadoras era completamente diferente. Por lo tanto, le damos contexto a la estadística agregada.",
+      "keywords": [
+        "clustering",
+        "eventing",
+        "redes-de-pases",
+        "estilo-de-juego",
+        "mundial-femenino",
+        "contexto-tactico"
+      ],
+      "entities": [
+        "Laia Codina",
+        "Millie Bright",
+        "FIFA Women's World Cup 2023"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo funciona el clustering en las redes de pases de fútbol?",
+        "¿Qué aportan los clústeres sobre el estilo de juego en comparación con las estadísticas simples?",
+        "¿Qué diferencias tácticas mostraron Laia Codina y Millie Bright según el análisis de clústeres?"
+      ],
+      "related_terms": [
+        "algoritmo de clustering",
+        "segmentación de datos",
+        "tipologías de pases",
+        "mapas de calor",
+        "patrones estables"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre la explicabilidad y utilidad de modelos predictivos en la toma de decisiones.",
+      "context_after": "Estudio integrador de aprendizaje no supervisado sobre el estilo de ataque."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+      "speaker": "Illán Iván Maragaño",
+      "start_timestamp": "23:43",
+      "end_timestamp": "26:15",
+      "start_seconds": 1423,
+      "end_seconds": 1575,
+      "duration_seconds": 152,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=1423",
+      "title": "Clasificación de estilos de ataque y resumen de aplicabilidad",
+      "summary": "Se integra estadística agregada y registros observacionales mediante Machine Learning no supervisado para definir tres tipos de ataques: directo, conservativo y mixto. Se concluye que, ante alta complejidad de datos, la prioridad debe ser siempre la interpretabilidad para el cuerpo técnico.",
+      "literal_quote": "Las técnicas que podemos utilizar sobre esta tipología de datos son más avanzadas, pero siempre debemos de tratar de que estas técnicas sean, en última instancia, interpretables por aquellos que deben tomar decisiones.",
+      "full_transcript": "Y para finalizar y mostrar otro ejemplo con otro estudio publicado, en este caso, en la revista 'Biology of Sport', vemos cómo integramos dos de las técnicas que hemos mencionado previamente. En este caso, vemos cómo a través de estadísticas agregadas y de registros observacionales, pudimos aplicar un algoritmo de clustering, un algoritmo de segmentación, que nos permitía asignar tres tipologías de ataque en función de diferentes características: el tiempo de posesión en campo propio, en campo rival, la intención táctica, etcétera. Y encontramos tres tipos de ataque: ataque directo, ataque conservativo (o combinativo) y un ataque mixto. Esto resulta relativamente sencillo, pero al asignar estas etiquetas podíamos entender el tipo de juego de cada selección, traduciendo técnicas de machine learning no supervisado al campo práctico de forma sencilla. Teniendo todo esto en cuenta, y a modo de resumen... hemos visto cómo desde la estadística agregada, pasando por el eventing hasta el tracking, la complejidad y granularidad de los datos es mayor. Las técnicas son más avanzadas, pero siempre debemos de tratar de que estas técnicas sean interpretables por aquellos que deben tomar decisiones en base a estos datos. Por lo tanto, diferentes herramientas, desde la estadística inferencial hasta el aprendizaje automático supervisado y no supervisado... Cada vez más estas técnicas nos están dando una serie de insights que nos pueden permitir mejorar nuestra toma de decisiones.",
+      "keywords": [
+        "clustering",
+        "machine-learning",
+        "estilos-de-ataque",
+        "no-supervisado",
+        "interpretacion",
+        "toma-de-decisiones"
+      ],
+      "entities": [
+        "Biology of Sport"
+      ],
+      "topics": [
+        "Data Science",
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tipos de ataque identificados mediante clustering en este estudio?",
+        "¿Por qué es fundamental la interpretabilidad de los datos para los técnicos?",
+        "¿Cómo se integra la estadística agregada con registros observacionales?"
+      ],
+      "related_terms": [
+        "algoritmo de segmentación",
+        "ataque directo",
+        "ataque combinativo",
+        "granularidad",
+        "estadística inferencial"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estudio individualizado sobre las redes de pases y estilos defensivos de centrales.",
+      "context_after": "Cierre del primer bloque de contenidos de la ponencia."
+    }
+  ]
+}
