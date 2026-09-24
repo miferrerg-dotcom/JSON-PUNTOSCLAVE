@@ -1,0 +1,400 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Entrenamiento de fuerza basado en la potencia",
+    "speaker": "Carlos Mínguez",
+    "total_duration": "00:24:54",
+    "total_duration_seconds": 1494,
+    "source_file": "WEBVTT-1",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:01:40",
+      "end_timestamp": "00:05:00",
+      "start_seconds": 100,
+      "end_seconds": 300,
+      "duration_seconds": 200,
+      "timestamp_url": "?t=100",
+      "title": "Obsolescencia del 1RM y alternativas (RIR y RPE)",
+      "summary": "Carlos Mínguez descarta el porcentaje del 1RM por no aplicarse bien a cargas inestables, bandas elásticas o ejercicios isométricos excéntricos [1-3]. En su lugar, propone usar las repeticiones en reserva (RIR) y la escala RPE para medir el carácter del esfuerzo y calcular repeticiones restantes hasta el máximo [4-6].",
+      "literal_quote": "Nosotros, cuando entrenamos la fuerza, ya no programamos con un porcentaje del 1RM o del 1 RM. ¿Por qué? Porque creemos que este método está un poco obsoleto.",
+      "full_transcript": "Nosotros, cuando entrenamos la fuerza, ya no programamos con un porcentaje del 1RM o del 1 RM. ¿Por qué? Porque creemos que este método está un poco obsoleto. ¿Y por qué creemos que este método está obsoleto? Porque no se aplica a la realidad de todos los ejercicios en los que entrenamos. Por ejemplo, el porcentaje de RM, cuando nosotros añadimos bandas elásticas, cadenas o una carga que no es estable, no nos sirve... El otro motivo por el que no utilizamos el porcentaje del RM es porque no nos sirve en ejercicios isométricos excéntricos y, evidentemente, en ejercicios mixtos... Uno de los métodos que utilizamos son las repeticiones en reservas, lo que es más conocido como carácter del esfuerzo... Otro método que utilizamos es el RPE, que es una relación con el máximo esfuerzo.",
+      "keywords": [
+        "1RM",
+        "RIR",
+        "RPE",
+        "entrenamiento-fuerza",
+        "cargas-inestables",
+        "caracter-esfuerzo"
+      ],
+      "entities": [
+        "Carlos Mínguez"
+      ],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el porcentaje de 1RM está obsoleto según Carlos Mínguez?",
+        "¿Qué métodos alternativos al 1RM se usan para medir la carga?"
+      ],
+      "related_terms": [
+        "porcentaje",
+        "de",
+        "1RM",
+        "repeticiones",
+        "en",
+        "reserva",
+        "carácter",
+        "del",
+        "esfuerzo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación del ponente y su experiencia en el alto rendimiento con saltos de trampolín y natación.",
+      "context_after": "Transición hacia el entrenamiento basado puramente en la métrica de potencia media."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:05:11",
+      "end_timestamp": "00:08:00",
+      "start_seconds": 311,
+      "end_seconds": 480,
+      "duration_seconds": 169,
+      "timestamp_url": "?t=311",
+      "title": "Ajuste de cargas mediante potencia media y velocidad propulsiva",
+      "summary": "El ajuste de carga diario se realiza observando la velocidad propulsiva y la potencia media, calculada a partir de la masa, gravedad y aceleración [7-9]. Se incrementa o reduce la carga un 2-2.5% por cada variación de 0.02-0.05 m/s generada por fatiga o adaptación, deteniendo la serie al perder un 10% de potencia [9-12].",
+      "literal_quote": "Por cada 0,02 a 0,05 metros por segundo que cambiamos, vamos a aumentar o disminuir la carga un 2 % o un 2,5 %.",
+      "full_transcript": "El último, y para mí el más interesante, es el uso de la potencia. Sobre todo, no utilizar la potencia máxima, sino la potencia media durante el ejercicio. Para calcular esta potencia vamos a tener en cuenta la siguiente fórmula: la potencia es igual a la masa, la nuestra más la del ejercicio o el porcentaje de la nuestra... La aceleración que nosotros le damos a esa barra, más la gravedad, todo esto multiplicado por la velocidad propulsiva... ¿Cómo ajustamos esta carga en un entrenamiento? Cuando nuestra velocidad propulsiva varía de 0,02 a 0,05 en la primera serie que entrenamos, vamos a mirar esa velocidad y por cada 0,02 a 0,05 metros por segundo que cambiamos, vamos a aumentar o disminuir la carga un 2 % o un 2,5 %. ¿A qué se debe estos cambios? A veces los atletas nos vienen primero de una sesión de técnica... y puede que lleguen fatigados... A veces puede pasar lo contrario, que los atletas están creando adaptaciones... Y otra cosa que hacemos nosotros cuando estamos trabajando con la potencia... decimos tres series hasta que tu potencia baje un 10 %.",
+      "keywords": [
+        "potencia-media",
+        "velocidad-propulsiva",
+        "ajuste-carga",
+        "fatiga",
+        "adaptacion",
+        "perdida-potencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se ajusta la carga diaria utilizando la velocidad propulsiva?",
+        "¿Cuándo se debe finalizar una serie al entrenar basado en potencia?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "propulsiva",
+        "potencia",
+        "media",
+        "pérdida",
+        "del",
+        "10%"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación sobre alternativas al 1RM mediante escalas subjetivas y de reservas como RPE y RIR.",
+      "context_after": "Se exponen los problemas tecnológicos y la inexactitud de ciertos dispositivos para medir potencia."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:08:06",
+      "end_timestamp": "00:09:24",
+      "start_seconds": 486,
+      "end_seconds": 564,
+      "duration_seconds": 78,
+      "timestamp_url": "?t=486",
+      "title": "Retos con dispositivos de medición y atletas novatos",
+      "summary": "Algunos dispositivos no calculan bien la potencia al omitir la aceleración del sujeto, recomendándose opciones fiables como Chronojump/Chronopick [13, 14]. Además, la regla de pérdida del 10% no funciona en atletas sin experiencia porque no mantienen la estabilidad en su producción de potencia durante los levantamientos [14, 15].",
+      "literal_quote": "El problema que nos encontramos hoy en día al calcular el trabajo con la potencia es que no todos los dispositivos tienen en cuenta la misma fórmula.",
+      "full_transcript": "El problema que nos encontramos hoy en día al calcular el trabajo con la potencia es que no todos los dispositivos tienen en cuenta la misma fórmula. Hay algunos que traen una fuerza propulsiva... que no tienen en cuenta, como decimos anterior, la aceleración que nosotros creamos, sino que solo tienen en cuenta la gravedad. Entonces, en el caso nuestro, utilizamos Chronopick, Chronojump, porque es de los pocos dispositivos que bien utiliza esta fórmula. Y otro desventaja que tenemos con los atletas que no tienen experiencia a la hora de hacer el entrenamiento de cargas, es que el 10 % no funciona porque la primera serie hacen una potencia, la segunda baja un 20 %, pero la tercera repetición vuelven a subir sobre la primera. Entonces, como no mantienen una estabilidad, es un entrenamiento que no acaba de funcionar con ellos hasta que se les educa.",
+      "keywords": [
+        "dispositivos",
+        "medicion",
+        "chronojump",
+        "aceleracion",
+        "experiencia-atleta",
+        "estabilidad"
+      ],
+      "entities": [
+        "Chronopick",
+        "Chronojump"
+      ],
+      "topics": [
+        "Evaluación"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué fallan algunos dispositivos al medir la potencia de levantamiento?",
+        "¿Qué problemas surgen al entrenar por potencia en atletas inexpertos?"
+      ],
+      "related_terms": [
+        "fórmula",
+        "de",
+        "potencia",
+        "estabilidad",
+        "de",
+        "entrenamiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha definido la fórmula matemática correcta de potencia y el ajuste por fatiga diaria.",
+      "context_after": "El autor pasa a analizar gráficamente la diferencia entre inercia y fuerza aplicada real."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:09:28",
+      "end_timestamp": "00:11:30",
+      "start_seconds": 568,
+      "end_seconds": 690,
+      "duration_seconds": 122,
+      "timestamp_url": "?t=568",
+      "title": "Diferencia biomecánica entre fase propulsiva e inercia",
+      "summary": "Analizando un gráfico, se evidencia que la fase propulsiva termina cuando la fuerza aplicada es cero, aunque la barra suba por inercia [16, 17]. Calcular la potencia usando la velocidad media en lugar de la propulsiva genera grandes errores (hasta 500 vatios de diferencia en cargas bajas) [18, 19].",
+      "literal_quote": "Vemos que hay un punto donde la barra se sigue moviendo, pero la fuerza pasa a ser cero... consideramos que la fase propulsiva del movimiento es esta, mientras que esta es una parte de inercia.",
+      "full_transcript": "Si hablamos de la fase propulsiva, aquí tenemos un gráfico de una sentadilla con 65 kilos. La línea negra es el desplazamiento de la barra, la línea azul es la fuerza que nosotros aplicamos. Vemos que hay un punto donde la barra se sigue moviendo, pero la fuerza pasa a ser cero, lo que significa que de este punto a este punto no se está aplicando una fuerza. Entonces, cortamos directamente aquí y consideramos que la fase propulsiva del movimiento es esta, mientras que esta es una parte de inercia. Esto se da en casos donde la carga es baja, que por la propia inercia la barra se sigue moviendo. Si vemos cómo cambia esta fase propulsiva en cuanto a velocidad... si cogemos la velocidad media de todo el ejercicio, nuestra velocidad es de 0,85. Esto traducido a la potencia, vemos que la diferencia es muy grande, porque pasamos de tener un ejercicio donde el atleta ha estado 1600, 1700 a 1100. Significa que estamos hablando de una diferencia de 500 vatios, aproximadamente, en cada repetición.",
+      "keywords": [
+        "fase-propulsiva",
+        "inercia",
+        "velocidad-media",
+        "biomecanica",
+        "potencia",
+        "grafico-fuerza"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Qué es la fase propulsiva en el levantamiento de pesas?",
+        "¿Por qué hay discrepancia de vatios entre velocidad propulsiva y velocidad media?"
+      ],
+      "related_terms": [
+        "fase",
+        "propulsiva",
+        "velocidad",
+        "media",
+        "inercia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Advertencia sobre la precisión de los hardwares y medición de atletas jóvenes.",
+      "context_after": "Se presenta el protocolo de evaluación mediante cargas progresivas."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:11:31",
+      "end_timestamp": "00:13:28",
+      "start_seconds": 691,
+      "end_seconds": 808,
+      "duration_seconds": 117,
+      "timestamp_url": "?t=691",
+      "title": "Test progresivo de cargas evitando el 1RM",
+      "summary": "Para testear la potencia, se aumenta progresivamente el peso de 10 en 10 kilos en ejercicios estructurales (sentadilla, press banca) [20, 21]. El test se detiene al registrar una caída de potencia del 10% respecto al pico máximo, evitando buscar el fallo muscular para reducir el riesgo de lesión [21-23].",
+      "literal_quote": "Hacemos un test de cargas progresivas hasta que nuestra potencia pierde un 10 %... Nosotros ya paramos el test antes, porque ponerle más kilos no le está proporcionando una mejora en el rendimiento, pero sí que le estamos causando más riesgo de lesión.",
+      "full_transcript": "Nosotros testeamos los ejercicios que vayamos a trabajar con potencia, que normalmente lo que hacemos son los ejercicios principales: sentadilla, press banca y subida banco. Hacemos un test de cargas progresivas hasta que nuestra potencia pierde un 10 %. Empezaremos con 20 kilos, iremos subiendo de 10 en 10 y no haremos hasta que hallemos un fallo o hasta encontrar lo que sería el 1 RM, porque como ya hemos dicho, para nosotros este 1 RM es obsoleto. Buscamos hasta dónde baja la potencia. En este caso, vemos que este 10 % de bajar se encuentra en los 70 kilos... buscaremos en qué kilos tiene la potencia máxima, que en este caso, aproximadamente, estará entre 50 y 60 kilos. Y a partir de allí es donde trabajaremos... Nosotros ya paramos el test antes, porque ponerle más kilos no le está proporcionando una mejora en el rendimiento, pero sí que le estamos causando más riesgo de lesión al poner más kilos sobre la espalda.",
+      "keywords": [
+        "cargas-progresivas",
+        "potencia-maxima",
+        "test",
+        "evaluacion",
+        "riesgo-lesion",
+        "fallo-muscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cómo se determina la potencia máxima sin llegar al 1RM?",
+        "¿Por qué es preferible detener un test de carga antes del fallo?"
+      ],
+      "related_terms": [
+        "test",
+        "de",
+        "cargas",
+        "progresivas",
+        "1RM",
+        "obsoleto",
+        "riesgo",
+        "de",
+        "lesión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Diferenciación biomecánica entre fase de propulsión y fase de inercia para evitar errores en vatios.",
+      "context_after": "Paso a la batería de saltos para definir perfiles neuromusculares."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:13:28",
+      "end_timestamp": "00:18:13",
+      "start_seconds": 808,
+      "end_seconds": 1093,
+      "duration_seconds": 285,
+      "timestamp_url": "?t=808",
+      "title": "Perfil de manifestaciones de la fuerza mediante saltos",
+      "summary": "El perfil neuromuscular del atleta se evalúa con una batería de saltos que aísla componentes físicos: Squat Jump (capacidad contráctil), CMJ (capacidad elástica), Abalakov (uso de brazos) y Drop Jump (capacidad refleja) [24-26]. El Drop Jump también se evalúa a distintas alturas para hallar la caída óptima donde ocurre la mayor potencia [27-29].",
+      "literal_quote": "Hacemos estos tests: un squat jump con el 100 % del peso corporal, un squat jump normal, un counter movement jump, un balakov y un drop jump. Vemos que cada salto equivale a una manifestación de la fuerza.",
+      "full_transcript": "La otra cosa que testeamos es un perfil de las manifestaciones de la fuerza. Para hacer ese perfil hacemos estos tests: un squat jump con el 100 % del peso corporal, un squat jump normal, un counter movement jump, un balakov y un drop jump. Vemos que cada salto equivale a una manifestación de la fuerza. El squat jump es la capacidad contráctil, que nos está indicando la capacidad que tienen las fibras musculares de contraerse... El CMJ, aparte de lo que nos añade el squat jump, nos añade la capacidad elástica del músculo. El balakov nos está indicando la utilización de brazos de ese atleta... Y luego tenemos el drop jump... Tiene lo mismo que el balakov más la capacidad refleja del atleta. Con el drop jump nos pasa lo mismo. Vamos a calcular la potencia que utiliza en cada salto aumentando la altura de caída... para ver a partir de la fórmula conseguida del ascenso, cuál es su altura de caída más óptima. En este caso estaría entre 30 y 40, más cercano a 30 que a los 40 centímetros.",
+      "keywords": [
+        "bateria-saltos",
+        "squat-jump",
+        "cmj",
+        "abalakov",
+        "drop-jump",
+        "capacidad-elastica",
+        "pliometria"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Evaluación",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Qué capacidades se evalúan con los distintos tipos de saltos verticales?",
+        "¿Cómo se calcula la altura de caída óptima en un Drop Jump?"
+      ],
+      "related_terms": [
+        "manifestación",
+        "de",
+        "la",
+        "fuerza",
+        "capacidad",
+        "elástica",
+        "capacidad",
+        "refleja"
+      ],
+      "relevance_score": 5,
+      "context_before": "Descripción del test progresivo con barra para obtener el peso de potencia máxima.",
+      "context_after": "Se introducen los cinco ciclos de periodización comenzando por técnica y adaptación anatómica."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:18:13",
+      "end_timestamp": "00:22:43",
+      "start_seconds": 1093,
+      "end_seconds": 1363,
+      "duration_seconds": 270,
+      "timestamp_url": "?t=1093",
+      "title": "Periodización: Técnica, adaptación e hipertrofia sarcomérica",
+      "summary": "La periodización arranca con fases de técnica y adaptación anatómica donde no se mide la potencia, buscando preparar el cuerpo [30, 31]. Después se transita a la hipertrofia sarcomérica (crecimiento contráctil), operando al 60-80% de la potencia máxima, deteniendo la serie al perder el 10% de potencia o al alcanzar un RIR 5 [32-34].",
+      "literal_quote": "Cuando nosotros hacemos una hipertrofia, tenemos dos opciones: o hacer una hipertrofia sarcoplasmática... Cuando conseguimos una hipertrofia sarcomérica... es el sarcómero... vamos a estar entre el 60 y el 80 % de la potencia máxima.",
+      "full_transcript": "Lo primero que tenemos que tener en cuenta es que tenemos que enseñar a los atletas a hacer la técnica de los ejercicios... Aquí no estamos mirando potencias ni velocidades, ni nada... Luego vamos a hablar de lo que es la adaptación anatómica. Nuestro objetivo va a ser preparar el cuerpo para futuras cargas... Ya vamos aquí a la hipertrofia. Aquí, a partir de la hipertrofia, ya vamos a empezar a hablar de la potencia. Y cuando hablamos de hipertrofia, lo que nos interesa es la hipertrofia sarcomérica... Cuando nosotros hacemos una hipertrofia, tenemos dos opciones: o hacer una hipertrofia sarcoplasmática, que lo que estamos haciendo, aumentando, es sarcoplasma muscular, que no se produce fuerza... Cuando conseguimos una hipertrofia sarcomérica... es el sarcómero. Una vez, la hipertrofia... de 10 a 15 repeticiones. Y hablando de la potencia máxima, vamos a estar entre el 60 y el 80 % de la potencia máxima... pero también vamos a hacer hasta que la potencia baje un 10 %. En el caso de que lo hagamos con RIR, lo haremos con un carácter de esfuerzo, que ya será de cinco.",
+      "keywords": [
+        "periodizacion",
+        "tecnica",
+        "adaptacion-anatomica",
+        "hipertrofia-sarcomerica",
+        "potencia-maxima",
+        "rir-5"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las primeras etapas en un ciclo de periodización de fuerza?",
+        "¿Qué características tiene el entrenamiento de hipertrofia sarcomérica?"
+      ],
+      "related_terms": [
+        "adaptación",
+        "anatómica",
+        "hipertrofia",
+        "sarcomérica",
+        "potencia",
+        "máxima"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del uso del Drop Jump y perfil neuromuscular.",
+      "context_after": "Se detalla cómo programar los últimos ciclos para Fuerza Máxima y trabajo Específico."
+    },
+    {
+      "id": "V02-008",
+      "video_title": "Entrenamiento de fuerza basado en la potencia",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:22:44",
+      "end_timestamp": "00:24:54",
+      "start_seconds": 1364,
+      "end_seconds": 1494,
+      "duration_seconds": 130,
+      "timestamp_url": "?t=1364",
+      "title": "Bloques de Fuerza Máxima y Especificidad",
+      "summary": "La fase de fuerza máxima se aborda trabajando intensidades muy altas (85-95% de la potencia máxima) con rangos de RIR 1 a 3 [35]. La especificidad se adapta al deporte: la fuerza-velocidad se entrena al 30-60%, y la fuerza-resistencia al 25% de la potencia máxima, respetando siempre el corte de serie ante una caída del 10% [36, 37].",
+      "literal_quote": "Para fuerza máxima... vamos a estar entre un 85 y un 95 % de la potencia máxima hasta bajar un 10 %. Y aquí, si tenemos en cuenta el RIR, va a ser un RIR uno, dos, máximo tres.",
+      "full_transcript": "Para fuerza máxima, lo mismo, de dos a cuatro sesiones por semana, de tres a seis semanas... También vamos a estar entre un 85 y un 95 % de la potencia máxima hasta bajar un 10 %. Y aquí, si tenemos en cuenta el RIR, va a ser un RIR uno, dos, máximo tres y recuperaciones máximas. Y después, una vez hayamos hecho esos bloques, vamos a hacer que la especificidad, dependiendo de nuestro deporte, si necesitamos uno más enfocado a la velocidad... o si necesitamos más lo que es la resistencia a la fuerza... Y a partir de aquí, estamos hablando de entre un 30 y un 60 % de la potencia máxima, mientras que en el entrenamiento de fuerza de resistencia, resistencia a la fuerza, es un 25 % de esta potencia también siempre hasta que esta potencia baje un 10 %. La recuperación va de dos a cinco minutos.",
+      "keywords": [
+        "fuerza-maxima",
+        "especificidad",
+        "fuerza-velocidad",
+        "fuerza-resistencia",
+        "RIR"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cómo se entrena el bloque de fuerza máxima usando porcentajes de potencia?",
+        "¿Cuáles son los parámetros de carga para la fase específica deportiva?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "máxima",
+        "especificidad",
+        "fuerza",
+        "resistencia",
+        "velocidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las variables de carga (repeticiones y porcentajes) para hipertrofia sarcomérica.",
+      "context_after": "Finalización del fragmento provisto sobre la programación metodológica."
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+    "speaker": "Carlos Mínguez",
+    "total_duration": "00:21:20",
+    "total_duration_seconds": 1280,
+    "source_file": "WEBVTT-2",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:04:09",
+      "start_seconds": 4,
+      "end_seconds": 249,
+      "duration_seconds": 245,
+      "timestamp_url": "?t=4",
+      "title": "Introducción a la periodización y Ciclo de Adaptación Anatómica",
+      "summary": "Se presentan los cinco ciclos de entrenamiento. El primero, la adaptación anatómica (3-5 semanas), tiene como objetivo principal corregir los eslabones débiles de la temporada pasada para prevenir lesiones, enseñar técnica e inducir hipertrofia sarcomérica trabajando al 60-80% de la potencia.",
+      "literal_quote": "En la adaptación anatómica, nuestro objetivo es hacer incidencia en los puntos flojos o en el eslabón más débil detectado en la temporada anterior.",
+      "full_transcript": "Esta es la parte dos, que es la periodización de cómo metemos todos los contenidos que hemos utilizado o donde hemos acabado el vídeo anterior, cómo los metemos dentro de un ciclo de entrenamiento, desde que empezamos hasta una competición. En nuestro caso, tenemos cinco ciclos: adaptación anatómica, preparación física especial, fisicotécnica, técnica y el competitivo. En la adaptación anatómica, nuestro objetivo es hacer incidencia en los puntos flojos o en el eslabón más débil detectado en la temporada anterior. Es decir, si un atleta en la temporada anterior ha tenido una lesión, en este ciclo vamos a incidir sobre esa lesión para evitar que se produzca... En este ciclo también vamos a enseñar la técnica de los movimientos nuevos que necesitamos y vamos a aprovechar este ciclo para hacer la hipertrofia. Recordamos que es una hipertrofia sarcomérica, no sarcoplasmática. Una intensidad del 60 % al 80 % de la potencia o, si miramos con el RIR, entre cinco y 10. Recuperaciones cortas y durante este ciclo hacemos los test médicos, quirotemporométricos y pliometrías.",
+      "keywords": [
+        "periodizacion",
+        "adaptacion-anatomica",
+        "eslabon-debil",
+        "prevencion-lesiones",
+        "hipertrofia-sarcomerica"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cinco ciclos de periodización según Carlos Mínguez?",
+        "¿Qué objetivos tiene el ciclo de adaptación anatómica?"
+      ],
+      "related_terms": [
+        "adaptación",
+        "anatómica",
+        "eslabón",
+        "débil",
+        "hipertrofia",
+        "sarcomérica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la segunda parte de la presentación enfocada puramente en la macroestructura y periodización.",
+      "context_after": "El autor pasa a mostrar un ejemplo práctico de cómo se ve este ciclo en una hoja de entrenamiento."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:04:10",
+      "end_timestamp": "00:06:31",
+      "start_seconds": 250,
+      "end_seconds": 391,
+      "duration_seconds": 141,
+      "timestamp_url": "?t=250",
+      "title": "Aplicación práctica de carga mediante vatios y velocidad propulsiva",
+      "summary": "A través de un ejemplo de sesión (press banca y squat), Mínguez explica cómo se fija un objetivo de potencia (vatios) y se interrumpe la serie al perder el 10% del rendimiento. Además, se ajusta el peso inicial de la sesión según las fluctuaciones en la velocidad de propulsión.",
+      "literal_quote": "Tiene que ir a 930 vatios, es nuestro objetivo, nuestro target. Cuando baje el 10 % de esto, pararemos.",
+      "full_transcript": "Aquí tenemos un ejemplo de lo que sería una sesión de esta adaptación anatómica. En este caso, el objetivo sería la hipertrofia. Tenemos aquí los ejercicios y las series... os enseño los ejercicios principales, que son medio squat y el press banca, que ya lo miramos con la potencia. Tenemos aquí los kilos previstos. Tiene que ir a 930 vatios, es nuestro objetivo, nuestro target. Cuando baje el 10 % de esto, pararemos. Tenemos, como hemos dicho antes, 10, 12, 15, 20 repeticiones de esas hasta este 10 % mejor. En la primera serie hace 12, en la segunda serie hace 10, en la tercera vuelve a hacer 10 y en la cuarta hace ocho. En el caso del press banca, lo mismo. Entrenamiento de 25 kilos. Tenemos aquí el target, que son 420 vatios. Y también, como hemos dicho antes, la primera serie nos va a hacer modificar estos 52 kilos dependiendo de la velocidad de propulsión. Hay un cambio de 0,02 o 0,25 para cambiar.",
+      "keywords": [
+        "objetivo-vatios",
+        "velocidad-propulsion",
+        "ajuste-carga",
+        "perdida-potencia",
+        "hipertrofia"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se establece el objetivo de vatios en una sesión de hipertrofia?",
+        "¿Cómo afecta la velocidad de propulsión al peso levantado en el entrenamiento?"
+      ],
+      "related_terms": [
+        "vatios",
+        "pérdida",
+        "del",
+        "10%",
+        "velocidad",
+        "de",
+        "propulsión"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación teórica de la adaptación anatómica y sus rangos de intensidad.",
+      "context_after": "Transición hacia el segundo ciclo metodológico: la preparación física especial."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:06:33",
+      "end_timestamp": "00:10:36",
+      "start_seconds": 393,
+      "end_seconds": 636,
+      "duration_seconds": 243,
+      "timestamp_url": "?t=393",
+      "title": "Ciclo de Preparación Física Especial y prevención en multisaltos",
+      "summary": "Este ciclo busca desarrollar la fuerza máxima dinámica y explosiva (85-100% de potencia). Para evitar sobrecargas articulares y periostitis durante los multisaltos, estos se realizan exclusivamente en superficies blandas como tierra, nieve, hierba o escaleras.",
+      "literal_quote": "Estos multisaltos van a ser en superficies suaves, como podría ser tierra, nieve, hierba o escaleras, para evitar un contacto. Lo que tenemos que evitar es la sobrecarga de saltos, para evitar lo que serían periostitis.",
+      "full_transcript": "Nuestro segundo ciclo es el ciclo de preparación física especial o special physical preparation. Nuestro objetivo es el desarrollo de la fuerza dinámica máxima y el desarrollo de la fuerza explosiva. ¿Cuánto va a durar? De cuatro a seis semanas... La intensidad aquí va a ir entre el 85 al 100 % de la potencia máxima y la intensidad, si lo miramos con el RIR, va a ser de uno a 10. Tenemos una recuperación completa y aquí, aparte de la sesión de fuerza, propiamente de pesas, vamos a hacer añadir también bastantes multisaltos. Estos multisaltos van a ser en superficies suaves, como podría ser tierra, nieve, hierba o escaleras, para evitar un contacto. Lo que tenemos que evitar es la sobrecarga de saltos, para evitar lo que serían periostitis o que se puedan cargar rodillas y tobillos, que es donde nos encontramos la mayoría de problemas. Aquí sí que empezaremos a hacer un test control. Lo hacemos una vez por semana para mirar cómo está evolucionando este entrenamiento y controlamos el SJ 100 si estamos haciendo fuerza máxima dinámica y, si vamos a mirar la fuerza explosiva, vamos a mirar el SJ, el squat jump.",
+      "keywords": [
+        "fuerza-dinamica-maxima",
+        "fuerza-explosiva",
+        "multisaltos",
+        "superficies-suaves",
+        "periostitis",
+        "test-control"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué tipo de superficies se deben usar para los multisaltos en el ciclo de fuerza máxima?",
+        "¿Por qué es importante saltar sobre superficies blandas durante el entrenamiento de fuerza explosiva?"
+      ],
+      "related_terms": [
+        "superficies",
+        "suaves",
+        "fuerza",
+        "explosiva",
+        "periostitis"
+      ],
+      "relevance_score": 5,
+      "context_before": "Desglose de un ejemplo práctico del ciclo previo de adaptación anatómica.",
+      "context_after": "Se presenta el siguiente ciclo metodológico, enfocado en la fuerza elástico-explosiva."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:10:39",
+      "end_timestamp": "00:13:45",
+      "start_seconds": 639,
+      "end_seconds": 825,
+      "duration_seconds": 186,
+      "timestamp_url": "?t=639",
+      "title": "Ciclo Físico-Técnico y adaptación de superficies de salto",
+      "summary": "Enfocado en la fuerza elástico-explosiva (30-60% de potencia), este ciclo incrementa intencionadamente la dureza de las superficies de salto, buscando un terreno ligeramente más duro que el de competición (ej. asfalto vs tartán) para crear tolerancia tisular.",
+      "literal_quote": "Siempre, cuando hacemos este entrenamiento, le ponemos un escalón un poquito más duro de lo que se va a encontrar en la competición.",
+      "full_transcript": "Después tenemos el ciclo físico-técnico, que en este caso nuestro objetivo es el desarrollo de la fuerza elástico-explosiva. Lo mismo. Aquí iríamos de tres a cinco semanas repartido en uno o dos ciclos... La intensidad del 30 al 60 % de la potencia, un RIR de tres a ocho, recuperación completa. Y aquí, en los multisaltos, vamos aumentando la dureza de donde vamos a saltar. Podemos empezar por hierba, luego le podemos poner parquet, sintéticos, cemento. Siempre, cuando hacemos este entrenamiento, le ponemos un escalón un poquito más duro de lo que se va a encontrar en la competición. Un atleta que salte en tartán, a lo mejor iremos a asfalto, porque es algo más duro. Un deportista de vóley playa, por decir algo, que su superficie es la arena, le pondríamos un poco más, que es la hierba... Y durante este ciclo, los test que vamos a utilizar van a ser el CMJ o el avalakoff. Yo normalmente utilizo el avalakoff, porque así también... tenemos la utilización o cómo los atletas utilizan los brazos.",
+      "keywords": [
+        "fuerza-elastico-explosiva",
+        "superficies-salto",
+        "tolerancia-tisular",
+        "abalakov",
+        "multisaltos"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se selecciona la superficie de salto en el ciclo físico-técnico?",
+        "¿Qué intensidad de potencia se usa para trabajar la fuerza elástico-explosiva?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "elástico-explosiva",
+        "dureza",
+        "de",
+        "superficie",
+        "avalakoff"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del uso de superficies blandas para prevenir lesiones en etapas de fuerza máxima.",
+      "context_after": "Transición al ciclo de preparación técnica, donde la superficie ya iguala a la de competición."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:13:47",
+      "end_timestamp": "00:16:36",
+      "start_seconds": 827,
+      "end_seconds": 996,
+      "duration_seconds": 169,
+      "timestamp_url": "?t=827",
+      "title": "Ciclo de Preparación Técnica y Drop Jumps específicos",
+      "summary": "En esta fase, el objetivo es la fuerza reflejo-elástica usando Drop Jumps al 30-60% de potencia media. Las superficies de entrenamiento pasan a ser idénticas a las de competición (ej. tartán o trampolín) y el testeo se hace siempre en la altura de caída óptima del atleta.",
+      "literal_quote": "El objetivo es el desarrollo de la fuerza reflejo elástica, todo lo que serían drop jumps... Y aquí sí, que los saltos van a ser en superficies iguales que la competición.",
+      "full_transcript": "Ya vamos al ciclo de preparación técnica. El objetivo es el desarrollo de la fuerza reflejo elástica, todo lo que serían drop jumps. La duración: tiene una duración de entre tres y cuatro semanas... La intensidad va entre el 30 y el 60 % de la potencia. Recordamos que miramos la potencia media, no la máxima del ejercicio. La intensidad de tres a ocho RIR... Y aquí sí, que los saltos van a ser en superficies iguales que la competición. Es decir, un atleta de atletismo lo hará en superficies de tartán. Nosotros en caso que estamos en saltadores de trampolín, lo vamos a hacer en la misma superficie que el trampolín... Y el test que vamos a controlar va a ser el drop jump. Si os acordáis, cuando hemos estado hablando al principio del drop jump, hemos hecho un test para buscar la altura óptima del drop jump. Cuando hacemos el test control, siempre va a ser desde esa altura donde hemos encontrado que tiene su potencia máxima a la hora de hacer el test. Si hemos empezado a 20 centímetros porque era su potencia ideal... haremos siempre este test semanalmente a 20 centímetros.",
+      "keywords": [
+        "fuerza-reflejo-elastica",
+        "drop-jump",
+        "superficie-competicion",
+        "altura-optima",
+        "potencia-media"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué tipo de fuerza se trabaja en el ciclo de preparación técnica?",
+        "¿A qué altura se debe evaluar el Drop Jump semanalmente?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "reflejo",
+        "elástica",
+        "drop",
+        "jump",
+        "altura",
+        "óptima"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del ciclo físico-técnico donde las superficies eran más duras que la competición.",
+      "context_after": "Se presenta el ciclo final competitivo de la macroestructura de entrenamiento."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:16:38",
+      "end_timestamp": "00:18:32",
+      "start_seconds": 998,
+      "end_seconds": 1112,
+      "duration_seconds": 114,
+      "timestamp_url": "?t=998",
+      "title": "Fase Competitiva y especificidad del testeo",
+      "summary": "Con una duración típica de 2 a 4 semanas, este ciclo busca mantener el nivel físico adquirido. En lugar de utilizar pruebas estándar (como el CMJ), el control del rendimiento se realiza mediante un test biomecánico altamente específico del propio gesto de competición del atleta.",
+      "literal_quote": "Y si hacemos un test, ya no miramos si es un drop jump, un avalakoff, sino un test específico de su movimiento.",
+      "full_transcript": "Y el último ciclo ya de trabajo es el ciclo competitivo, que nuestro objetivo es mantener el nivel conseguido durante todos estos meses de trabajo. Duración. Normalmente son de dos a cuatro semanas, que es lo que suele durar la competición... Entonces la intensidad ya es de 30 a 60, de la potencia media de cada ejercicio, cinco a 10, recuperación completa. Y si hacemos un test, ya no miramos si es un drop jump, un avalakoff, sino un test específico de su movimiento. Por ejemplo, nosotros tenemos diseñado un test específico, un salto con voltereta, que equivale más al principio de su movimiento en el trampolín. Aquí vemos que ya son solo los ejercicios más importantes. También seguimos mirando la potencia...",
+      "keywords": [
+        "ciclo-competitivo",
+        "mantenimiento",
+        "test-especifico",
+        "gesto-competicion",
+        "potencia-media"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cuál es el objetivo principal del ciclo competitivo?",
+        "¿Cómo se evalúa a un atleta durante la fase competitiva?"
+      ],
+      "related_terms": [
+        "ciclo",
+        "competitivo",
+        "mantenimiento",
+        "test",
+        "específico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación del ciclo de preparación técnica y evaluación mediante Drop Jumps.",
+      "context_after": "Se presentan las conclusiones generales de la ponencia."
+    },
+    {
+      "id": "V02-007",
+      "video_title": "Entrenamiento de fuerza basado en la potencia - Periodización",
+      "speaker": "Carlos Mínguez",
+      "start_timestamp": "00:18:33",
+      "end_timestamp": "00:21:20",
+      "start_seconds": 1113,
+      "end_seconds": 1280,
+      "duration_seconds": 167,
+      "timestamp_url": "?t=1113",
+      "title": "Conclusiones: Obsolescencia del 1RM y precisión de la fórmula de potencia",
+      "summary": "Mínguez concluye reiterando que el porcentaje de 1RM es un concepto obsoleto para programar cargas. Remarca la importancia de usar dispositivos tecnológicos que apliquen la fórmula correcta de potencia, integrando la aceleración y la velocidad propulsiva en lugar de la velocidad media.",
+      "literal_quote": "Recordar utilizar la velocidad propulsiva, no la velocidad media del ejercicio, ya que nos da unos datos más exactos a lo que está pasando dentro del ejercicio.",
+      "full_transcript": "Esto es la periodización. Unas conclusiones: recordar que para nosotros el 1 % del RME ya es obsoleto, porque no incluye métodos avanzados y no nos acaba de convencer el uso de la potencia para calcular la carga. Lo ideal sería que todos los ejercicios se hicieran con una carga para mirar por potencia... Utilizar bien la fórmula de la masa más la aceleración, más la gravedad, más la velocidad propulsiva. Recordar que no todos los dispositivos del mercado utilizan esta fórmula. A partir de aquí, mi consejo es mirar los que utilizan bien esa fórmula... Recordar utilizar la velocidad propulsiva, no la velocidad media del ejercicio, ya que nos da unos datos más exactos a lo que está pasando dentro del ejercicio. El quinto punto del que hemos hablado es tener en cuenta el drop jump a la hora de mirar a qué altura... Y la última cosa que hemos visto durante nuestra presentación es la utilización de los cinco ciclos de entrenamiento, ordenados de esta manera... Finalmente, agradecer a NSCA España por la invitación de este curso.",
+      "keywords": [
+        "1RM-obsoleto",
+        "formula-potencia",
+        "velocidad-propulsiva",
+        "aceleracion",
+        "dispositivos-medicion",
+        "conclusiones"
+      ],
+      "entities": [
+        "NSCA España"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las conclusiones finales de Carlos Mínguez sobre el entrenamiento por potencia?",
+        "¿Qué variables debe incluir la fórmula correcta para medir potencia?"
+      ],
+      "related_terms": [
+        "1RM",
+        "obsoleto",
+        "velocidad",
+        "propulsiva",
+        "aceleración",
+        "fórmula",
+        "de",
+        "potencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la fase competitiva y el testeo del gesto deportivo.",
+      "context_after": "Despedida del curso impartido para NSCA España y finalización del archivo WEBVTT-2."
+    }
+  ]
+}
