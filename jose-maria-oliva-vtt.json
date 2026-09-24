@@ -1,0 +1,1152 @@
+{
+  "video": {
+    "video_id": "V01",
+    "video_title": "Leveraging AI and technology in everyday practice",
+    "speaker": "José María Oliva Lozano",
+    "total_duration": "01:13:11",
+    "total_duration_seconds": 4391,
+    "source_file": "WEBVTT",
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": "V01-001",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:01:45",
+      "start_seconds": 1,
+      "end_seconds": 105,
+      "duration_seconds": 104,
+      "timestamp_url": "?t=1",
+      "title": "Intersección entre investigación y tecnología",
+      "summary": "El ponente presenta su experiencia trabajando en la intersección de la investigación, el fútbol profesional y la tecnología deportiva. Destaca la importancia de traducir el conocimiento científico en herramientas prácticas que los profesionales y jugadores puedan utilizar realmente.",
+      "literal_quote": "A large part of my career has focused on performance research... and ultimately trying to translate scientific knowledge into something that practitioners and players can actually use.",
+      "full_transcript": "My name is José María Oliva Lozano, and I currently work as performance innovation director at the UEFA Federation. My background sits at the intersection of research, professional soccer, and sports technology. I started primarily from the academic and research side, and over time, I have had the opportunity to apply that knowledge in the sports technology sector and work for different sports organizations as well. A large part of my career has focused on performance research, identifying relevant questions, analyzing data, collating data, evaluating potential solutions, and ultimately trying to translate scientific knowledge into something that practitioners and players can actually use.",
+      "keywords": [
+        "investigacion",
+        "tecnologia-deportiva",
+        "futbol-profesional",
+        "traduccion-cientifica",
+        "uefa"
+      ],
+      "entities": [
+        "José María Oliva Lozano",
+        "UEFA Federation"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Cuál es la experiencia de José María Oliva Lozano?",
+        "¿Por qué es importante traducir el conocimiento científico al deporte?"
+      ],
+      "related_terms": [
+        "performance research",
+        "sports technology",
+        "scientific knowledge"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Se establece el objetivo principal de la charla sobre cómo utilizar las herramientas tecnológicas."
+    },
+    {
+      "id": "V01-002",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:01:45",
+      "end_timestamp": "00:02:14",
+      "start_seconds": 105,
+      "end_seconds": 134,
+      "duration_seconds": 29,
+      "timestamp_url": "?t=105",
+      "title": "El verdadero objetivo de la tecnología",
+      "summary": "El foco no debe estar en la última herramienta de IA en sí misma, sino en cómo utilizar estas tecnologías para mejorar la forma en que trabajamos, entendemos la información, automatizamos procesos y tomamos mejores decisiones.",
+      "literal_quote": "I want this presentation to focus on how we can use these tools to improve the way we work...",
+      "full_transcript": "And that's what I want to explore today. I don't want this presentation to be simply about AI tools or the latest technology. I want this presentation to focus on how we can use these tools to improve the way we work, how we find and understand information, how we automate repetitive processes, and how we build our own solutions to make easier or better decisions.",
+      "keywords": [
+        "ia",
+        "herramientas",
+        "automatizacion",
+        "toma-de-decisiones",
+        "flujo-de-trabajo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuál es el enfoque correcto al adoptar nuevas tecnologías en el deporte?",
+        "¿Para qué se deben usar las herramientas de IA en el trabajo diario?"
+      ],
+      "related_terms": [
+        "AI tools",
+        "automate repetitive processes",
+        "better decisions"
+      ],
+      "relevance_score": 4,
+      "context_before": "El ponente presentó su experiencia profesional.",
+      "context_after": "Se define el concepto de innovación separándolo de la tecnología."
+    },
+    {
+      "id": "V01-003",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:02:19",
+      "end_timestamp": "00:03:15",
+      "start_seconds": 139,
+      "end_seconds": 195,
+      "duration_seconds": 56,
+      "timestamp_url": "?t=139",
+      "title": "Innovación versus Tecnología",
+      "summary": "Se establece que la tecnología y la innovación no son lo mismo. Innovar puede ser simplemente rediseñar un flujo de trabajo para reducir su duración drásticamente (ej. de tres horas a 20 minutos), sin necesidad de nuevo equipamiento.",
+      "literal_quote": "Innovation can improve a product, but it can also improve a process, a service, an experience, or simply the way we make a decision.",
+      "full_transcript": "Innovation begins with a relevant problem. For me, when I think about innovation, sometimes our minds often immediately go to technology. We think about a new wearable, a new platform, AI, or some sophisticated piece of equipment. But technology and innovation are not the same thing. Innovation can improve a product, but it can also improve a process, a service, an experience, or simply the way we make a decision. For example, if it currently takes a performance scientist three hours every Monday morning to create a report, innovation might simply mean redesigning that workflow so that it takes 20 minutes.",
+      "keywords": [
+        "innovacion",
+        "tecnologia",
+        "flujo-de-trabajo",
+        "problema",
+        "tiempo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre innovación y tecnología?",
+        "¿Cómo se puede innovar en el deporte sin usar nueva tecnología?"
+      ],
+      "related_terms": [
+        "innovation",
+        "technology",
+        "workflow"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el objetivo principal de la presentación.",
+      "context_after": "Se exponen cuatro preguntas clave previas a buscar soluciones."
+    },
+    {
+      "id": "V01-004",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:03:15",
+      "end_timestamp": "00:04:10",
+      "start_seconds": 195,
+      "end_seconds": 250,
+      "duration_seconds": 55,
+      "timestamp_url": "?t=195",
+      "title": "Las cuatro preguntas previas a la tecnología",
+      "summary": "Antes de adoptar cualquier solución tecnológica, se deben responder cuatro preguntas fundamentales: qué problema se resuelve, para quién, qué se intenta mejorar y cómo se medirá el éxito de la solución.",
+      "literal_quote": "Start with the problem and then determine whether technology has a role in solving it.",
+      "full_transcript": "So before we start looking at potential solutions, I think there are four very simple questions we should ask. What problem are we actually solving? Who are we solving it for? What specifically are we trying to improve? And how will we know whether the new solution has actually made things better? Those questions sound obvious, but I think we often skip them. We sometimes see an interesting technology and then start searching for a problem where we can use it. I would argue that the process should be exactly the opposite. Start with the problem and then determine whether technology has a role in solving it.",
+      "keywords": [
+        "preguntas",
+        "evaluacion",
+        "problema",
+        "solucion",
+        "medicion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué preguntas hacer antes de comprar una nueva tecnología deportiva?",
+        "¿Cómo evitar implementar tecnología sin un propósito real?"
+      ],
+      "related_terms": [
+        "problem solving",
+        "potential solutions",
+        "measuring success"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se diferenció el concepto de innovación del de tecnología.",
+      "context_after": "Se presenta un framework secuencial de 5 pasos para resolver problemas."
+    },
+    {
+      "id": "V01-005",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:04:11",
+      "end_timestamp": "00:05:53",
+      "start_seconds": 251,
+      "end_seconds": 353,
+      "duration_seconds": 102,
+      "timestamp_url": "?t=251",
+      "title": "Secuencia metodológica de 5 pasos",
+      "summary": "Se propone un modelo secuencial: Problema, Personas, Proceso, Tecnología y Evaluación. Analizar cuellos de botella y comprender a los usuarios debe ocurrir siempre antes de seleccionar la herramienta tecnológica.",
+      "literal_quote": "The sequence I like to think about is problem, people, process, technology, and evaluation.",
+      "full_transcript": "This moves me to the second principle. Technology is only one part of innovation. The sequence I like to think about is problem, people, process, technology, and evaluation. First, we need to understand the problem, what's actually happening, and why is it a problem. Then we need to try to understand the people involved. Who is experiencing the problem? Who will use the solution? Who needs to change their behavior for the solutions to work? Then we need to understand the existing process. How does information currently move? Where are the bottlenecks? Where are errors occurring? Where are we losing time? Only after we understand those things should we start thinking about technology. Maybe the best solution is AI, maybe it's an automation, maybe it's a new application, but sometimes the best solution is simply changing the process. And finally, we need evaluation.",
+      "keywords": [
+        "secuencia",
+        "problema",
+        "personas",
+        "proceso",
+        "evaluacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuál es la secuencia correcta para implementar innovación en un equipo?",
+        "¿Qué se debe analizar antes de la tecnología en un proceso deportivo?"
+      ],
+      "related_terms": [
+        "problem",
+        "people",
+        "process",
+        "evaluation"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expusieron cuatro preguntas fundamentales sobre tecnología.",
+      "context_after": "Se insta a los profesionales a auditar su semana laboral típica."
+    },
+    {
+      "id": "V01-006",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:05:59",
+      "end_timestamp": "00:07:15",
+      "start_seconds": 359,
+      "end_seconds": 435,
+      "duration_seconds": 76,
+      "timestamp_url": "?t=359",
+      "title": "Auditoría de la semana laboral",
+      "summary": "El profesional debe analizar su semana para identificar tareas repetitivas (preparar reportes, buscar info, copiar datos) que consumen una cantidad excesiva de atención y tiempo, restando espacio al trabajo de verdadero valor.",
+      "literal_quote": "There are often tasks that are not particularly difficult, but they absorb a surprising amount of our attention because we repeat them again and again.",
+      "full_transcript": "I want to have everyone think about their own typical working week. Think about Monday through Friday and ask yourself a few questions. What are the things that you repeatedly do every week? Maybe you prepare the same report. Maybe you search for a research question. Maybe you copy information from one platform to another. Maybe you create similar presentations or communicate similar information to players, coaches. Then think about what consumes more time than it probably should. There are often tasks that are not particularly difficult, but they absorb a surprising amount of our attention because we repeat them again and again. Another question is: What requires you to constantly search for or reorganize information?",
+      "keywords": [
+        "auditoria",
+        "tareas-repetitivas",
+        "tiempo",
+        "atencion",
+        "reportes"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo identificar qué tareas automatizar en el trabajo diario?",
+        "¿Por qué las tareas repetitivas son un problema en el alto rendimiento?"
+      ],
+      "related_terms": [
+        "working week",
+        "repetitive tasks",
+        "reorganize information"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó el framework de 5 pasos para la innovación.",
+      "context_after": "Se define el objetivo real de usar IA en este contexto."
+    },
+    {
+      "id": "V01-007",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:07:15",
+      "end_timestamp": "00:08:29",
+      "start_seconds": 435,
+      "end_seconds": 509,
+      "duration_seconds": 74,
+      "timestamp_url": "?t=435",
+      "title": "Liberación de capacidad cognitiva",
+      "summary": "El objetivo de utilizar Inteligencia Artificial no es simplemente trabajar más rápido, sino eliminar el trabajo de bajo valor para dedicar la capacidad cognitiva y el tiempo a la creatividad, la experticia y la interacción humana con el atleta.",
+      "literal_quote": "The bigger opportunity here is to reduce low-value repetitive work, so that we can dedicate more of our time and cognitive capacity to the work that actually requires expertise.",
+      "full_transcript": "What valuable work are you currently not finding enough time to do? Maybe you would like to spend more time analyzing data, designing interventions, speaking with coaches, or working directly with players. And this is where I think AI and automation become interesting. The objective is not simply to do some amount of work faster. The bigger opportunity here is to reduce low-value repetitive work, so that we can dedicate more of our time and cognitive capacity to the work that actually requires expertise, creativity, and human interaction.",
+      "keywords": [
+        "capacidad-cognitiva",
+        "interaccion-humana",
+        "ia",
+        "automatizacion",
+        "valor"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el propósito de automatizar el trabajo con IA?",
+        "¿Cómo la IA ayuda a mejorar la interacción humana en el deporte?"
+      ],
+      "related_terms": [
+        "cognitive capacity",
+        "low-value repetitive work",
+        "human interaction"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se listaron tareas repetitivas que consumen tiempo innecesario.",
+      "context_after": "Se presenta una matriz para elegir la tecnología adecuada según el tipo de tarea."
+    },
+    {
+      "id": "V01-008",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:08:29",
+      "end_timestamp": "00:09:50",
+      "start_seconds": 509,
+      "end_seconds": 590,
+      "duration_seconds": 81,
+      "timestamp_url": "?t=509",
+      "title": "Categorización de tareas tecnológicas",
+      "summary": "Las tareas dictan la solución: predecibles = automatización; intensivas en información = asistencia de IA; recurrentes con juicio = Custom GPT; multiusuario = aplicación propia.",
+      "literal_quote": "If the task is information-intensive, AI assistance can be very helpful... If a task is recurring but still requires interaction and judgment, then perhaps we can create a specialized assistant.",
+      "full_transcript": "Let's think about repetitive and predictable tasks. That's usually a good candidate for automation. For example, if every Monday we collect the same data, apply the same rules, and generate the same type of report, there may be no reason for a person to manually execute every step. If the task is information-intensive, AI assistance can be very helpful Think about reviewing 20 scientific papers, comparing documents, or extracting information from long reports. If a task is recurring but still requires interaction and judgment, then perhaps we can create a specialized assistant, such as a custom GPT. If we have something that multiple users need to access consistently, then it might justify building an app.",
+      "keywords": [
+        "categorizacion",
+        "automatizacion",
+        "ia",
+        "custom-gpt",
+        "apps"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué tipo de solución tecnológica elegir según la tarea a realizar?",
+        "¿Cuándo se recomienda desarrollar una App en lugar de usar IA?"
+      ],
+      "related_terms": [
+        "automation",
+        "AI assistance",
+        "custom GPT",
+        "building an app"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se estableció que el objetivo es liberar tiempo y capacidad cognitiva.",
+      "context_after": "Se discuten las tareas con alto nivel de consecuencia y riesgo."
+    },
+    {
+      "id": "V01-009",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:09:50",
+      "end_timestamp": "00:10:30",
+      "start_seconds": 590,
+      "end_seconds": 630,
+      "duration_seconds": 40,
+      "timestamp_url": "?t=590",
+      "title": "Supervisión en tareas de alta consecuencia",
+      "summary": "Para tareas con alta incertidumbre o consecuencias graves, la tecnología no debe eliminar al humano, sino fortalecer su supervisión. La automatización máxima no es el objetivo final.",
+      "literal_quote": "In many cases, technology should actually help us strengthen human oversight. So the goal is not maximum automation.",
+      "full_transcript": "Then there is another category that is equally important, tasks involving high consequence or significant uncertainty. In those situations, our objective should not necessarily be to remove humans from the process. In many cases, technology should actually help us strengthen human oversight. So the goal is not maximum automation. The goal is to identify which parts of our process machines can perform reliably and which parts still require professional judgment, contextual knowledge, or accountability.",
+      "keywords": [
+        "alta-consecuencia",
+        "incertidumbre",
+        "supervision-humana",
+        "automatizacion",
+        "juicio-profesional"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuándo no se debe automatizar un proceso por completo?",
+        "¿Cuál es el rol del humano en tareas de alta incertidumbre deportiva?"
+      ],
+      "related_terms": [
+        "high consequence",
+        "human oversight",
+        "maximum automation"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se categorizaron diferentes tareas para asignarles soluciones tecnológicas.",
+      "context_after": "Se listan las 6 capacidades clave de la IA para profesionales."
+    },
+    {
+      "id": "V01-010",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:10:30",
+      "end_timestamp": "00:12:35",
+      "start_seconds": 630,
+      "end_seconds": 755,
+      "duration_seconds": 125,
+      "timestamp_url": "?t=630",
+      "title": "Seis capacidades de expansión mediante IA",
+      "summary": "La IA expande la capacidad del profesional en 6 áreas: Encontrar información rápida, Entender (desglosar papers), Comparar (metodologías), Crear (recursos educativos/código), Automatizar, y Comunicar (adaptar lenguaje científico a distintos perfiles).",
+      "literal_quote": "At a basic level, I think there are six areas where it can significantly expand our capacity...",
+      "full_transcript": "So what can AI help us do as performance practitioners? At a basic level, I think there are six areas where it can significantly expand our capacity, and the first is finding information. AI can help us search scientific literature... Secondly is understanding information. We can use it to break down complex papers... Third, we can compare research studies, technologies, protocols... And then there is the creation piece. AI can help us draft documents, generate code... We can also automate repetitive processes... And finally, AI can help us communicate more effectively. The same complex scientific information can be translated into something appropriate for a researcher, coach, athlete, executive, or whatever.",
+      "keywords": [
+        "capacidades",
+        "ia",
+        "busqueda",
+        "creacion",
+        "comunicacion",
+        "comparacion"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 6 áreas donde la IA ayuda al preparador físico?",
+        "¿Cómo mejora la IA la comunicación en un cuerpo técnico?"
+      ],
+      "related_terms": [
+        "finding information",
+        "understanding information",
+        "communicate more effectively"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la necesidad de mantener supervisión humana.",
+      "context_after": "Se advierte sobre la necesidad de buscar soluciones simples como los prompts."
+    },
+    {
+      "id": "V01-011",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:12:35",
+      "end_timestamp": "00:14:35",
+      "start_seconds": 755,
+      "end_seconds": 875,
+      "duration_seconds": 120,
+      "timestamp_url": "?t=755",
+      "title": "Simplicidad: Prompt vs. App",
+      "summary": "Se enfatiza elegir siempre la solución más simple y fiable. Para una tarea única, un prompt de 10 líneas es preferible a perder meses desarrollando una aplicación o un ecosistema complejo.",
+      "literal_quote": "Do not build an app when a prompt is enough.",
+      "full_transcript": "My recommendation is almost always to choose the simplest, reliable solution that actually solves the problem. If I have a one-time task, perhaps all I need is a good prompt... For example, maybe I need to analyze one paper or generate one report. There is no reason to build anything sophisticated around that... But the important thing here is that these levels should not become a hierarchy where more complicated means better. Sometimes a 10-line prompt is a better solution than an app that takes six months to develop. So the principle I want you to remember is the sentence at the bottom. Do not build an app when a prompt is enough.",
+      "keywords": [
+        "simplicidad",
+        "prompt",
+        "app",
+        "desarrollo",
+        "chatgpt"
+      ],
+      "entities": [
+        "ChatGPT",
+        "Grok"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuándo es suficiente usar un prompt de IA en lugar de una App?",
+        "¿Por qué es importante elegir soluciones tecnológicas simples?"
+      ],
+      "related_terms": [
+        "simplest reliable solution",
+        "prompt",
+        "build an app"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se enumeraron las 6 áreas de uso de IA.",
+      "context_after": "Se explica cómo estructurar correctamente un prompt."
+    },
+    {
+      "id": "V01-012",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:14:44",
+      "end_timestamp": "00:17:00",
+      "start_seconds": 884,
+      "end_seconds": 1020,
+      "duration_seconds": 136,
+      "timestamp_url": "?t=884",
+      "title": "Estructura de un prompt complejo",
+      "summary": "Mejores prompts nacen de mejor razonamiento. Un buen prompt requiere definir: la tarea, el contexto, las fuentes requeridas, criterios de evaluación, formato de salida y controles de verificación.",
+      "literal_quote": "Better prompts normally start with better thinking.",
+      "full_transcript": "People often talk about prompt engineering as though there is some secret combination of words that suddenly makes AI intelligent. I think it's much simpler than that. Better prompts normally start with better thinking... I tell it that I want the paper analyzed for a professional soccer performance staff. I ask for the population, methods, main findings, exercises, limitations, and practical implications... When I build prompts for more important tasks, I normally try to think about: What is the task? What context does the AI or model need? Which sources should it use? What criteria should we use to evaluate information? What output format do I want? And the verification controls that I need.",
+      "keywords": [
+        "prompt-engineering",
+        "contexto",
+        "criterios",
+        "formato",
+        "verificacion"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los componentes de un buen prompt para IA?",
+        "¿Cómo mejorar las instrucciones dadas a ChatGPT?"
+      ],
+      "related_terms": [
+        "prompt engineering",
+        "better thinking",
+        "verification controls"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se aconsejó utilizar prompts simples en lugar de apps complejas.",
+      "context_after": "Se introduce la conversión de prompts recurrentes en Custom GPTs."
+    },
+    {
+      "id": "V01-013",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:17:00",
+      "end_timestamp": "00:19:33",
+      "start_seconds": 1020,
+      "end_seconds": 1173,
+      "duration_seconds": 153,
+      "timestamp_url": "?t=1020",
+      "title": "Custom GPTs: Empaquetar experiencia",
+      "summary": "Cuando un prompt se repite constantemente, debe transformarse en un Custom GPT. Esto permite empaquetar reglas de evaluación, fuentes fiables y experiencia humana en un asistente reutilizable que estandariza los resultados.",
+      "literal_quote": "What we are doing is packing in our preferred process and our expertise into a reusable workflow.",
+      "full_transcript": "So at some point, it makes sense to stop rebuilding the same prompt and turn that logic into a reusable assistant. That's essentially what a custom GPT allows us to do, and this is one of my favorite things in AI, especially when using ChatGPT. We can define its role and purpose. We can give it consistent instructions. We can provide approved reference documents. We can standardize the output... The important distinction here is that we are not necessarily making the AI smarter. What we are doing is packing in our preferred process and our expertise into a reusable workflow. Instead of relying on each person to write the perfect prompt every time, now we create a consistent framework that people can reuse.",
+      "keywords": [
+        "custom-gpt",
+        "asistente-reutilizable",
+        "experiencia",
+        "chatgpt",
+        "estandarizacion"
+      ],
+      "entities": [
+        "ChatGPT"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Para qué sirve un Custom GPT en el rendimiento deportivo?",
+        "¿Cuándo dejar de usar prompts y crear un asistente reutilizable?"
+      ],
+      "related_terms": [
+        "reusable assistant",
+        "custom GPT",
+        "consistent framework"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se desglosaron los elementos clave de un buen prompt.",
+      "context_after": "Se diferencia entre Context GPT y Execution GPT."
+    },
+    {
+      "id": "V01-014",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:19:38",
+      "end_timestamp": "00:25:17",
+      "start_seconds": 1178,
+      "end_seconds": 1517,
+      "duration_seconds": 339,
+      "timestamp_url": "?t=1178",
+      "title": "Context GPT: Asistente de recuperación",
+      "summary": "Un Context GPT recibe conocimiento específico (papers sobre sueño, nutrición) y actúa como experto. Sus reglas fuerzan a usar esos documentos primarios para dar respuestas respaldadas sin inventar información.",
+      "literal_quote": "For context GPTs, we're giving AI the right knowledge... these documents should be treated as the trusted and preferred sources of information.",
+      "full_transcript": "For context GPTs, we're giving AI the right knowledge... We're going to provide the GPT with references in the area of nutrition, sleep, and recovery strategies... Your purpose is to help practitioners answer recovery-related questions by translating trusted scientific evidence into practical information for the soccer/football environment. Your primary knowledge base consists of the scientific documents uploaded to this GPT, and these documents should be treated as the trusted and preferred sources of information... We want to clearly indicate which source supports each part of the answer, and then we want to compare the evidence without assuming that one intervention is superior unless the uploaded sources support that conclusion. We set the boundaries. We say that we want to prioritize information explicitly supported by the uploaded documents. Do not invent findings...",
+      "keywords": [
+        "context-gpt",
+        "conocimiento",
+        "recuperacion",
+        "nutricion",
+        "base-de-conocimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "IA Deportiva",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es un Context GPT y cómo funciona?",
+        "¿Cómo configurar una IA para que no invente datos científicos?"
+      ],
+      "related_terms": [
+        "Context GPT",
+        "primary knowledge base",
+        "recovery strategies"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó cómo construir Custom GPTs.",
+      "context_after": "Se detalla la estructura visual en la que la IA debe devolver la respuesta."
+    },
+    {
+      "id": "V01-015",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:25:17",
+      "end_timestamp": "00:30:14",
+      "start_seconds": 1517,
+      "end_seconds": 1814,
+      "duration_seconds": 297,
+      "timestamp_url": "?t=1517",
+      "title": "Definición de estructura y estilo de respuesta",
+      "summary": "Se programa al GPT para responder siempre con: Bottom Line (respuesta corta), Evidencia, Aplicación al Fútbol, Aplicación Práctica y Limitaciones. El lenguaje debe ser comprensible para profesionales y evitar exceso de jerga académica.",
+      "literal_quote": "So unless the user requests a different format, we want the responses to follow this pattern.",
+      "full_transcript": "So unless the user requests a different format, we want the responses to follow this pattern. First one, the bottom line is giving a concise answer to the practitioner's question... And then what the evidence says, then the application to football, and then the practical application. We want to also acknowledge limitations... And also we want to add a row that is about what we still don't know. And of course, we cannot forget about the sources... we want to avoid unnecessary academic language, because the goal is to help the practitioner move from the scientific side or the evidence to the practical decision.",
+      "keywords": [
+        "estructura-respuesta",
+        "bottom-line",
+        "evidencia",
+        "limitaciones",
+        "lenguaje-academico"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Metodología",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué formato debe tener la respuesta de un asistente virtual deportivo?",
+        "¿Cómo adaptar el lenguaje científico para su aplicación en el campo?"
+      ],
+      "related_terms": [
+        "default response structure",
+        "bottom line",
+        "practical application"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se fijaron las fuentes de conocimiento del Context GPT.",
+      "context_after": "Se cambia al concepto de Execution GPTs (procesos paso a paso)."
+    },
+    {
+      "id": "V01-016",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:30:14",
+      "end_timestamp": "00:38:00",
+      "start_seconds": 1814,
+      "end_seconds": 2280,
+      "duration_seconds": 466,
+      "timestamp_url": "?t=1814",
+      "title": "Execution GPT: Procesamiento de Wellness (Hooper)",
+      "summary": "A diferencia del Context GPT, el Execution GPT recibe un proceso estricto. Se muestra cómo procesar datos del cuestionario Hooper de los atletas clasificando estrés, sueño y fatiga mediante un sistema de semáforo.",
+      "literal_quote": "The execution GPT is just following specific tasks that you have instructed the GPT to do.",
+      "full_transcript": "So the execution GPT is different in terms of how we program... We're going to tell the GPT, \"You are a wellness monitoring assistant designed to help performance and medical staff rapidly review daily athlete wellness data collected using the Hooper Questionnaire.\" ... The execution GPT is just following specific tasks that you have instructed the GPT to do. So step one, this is what you're going to do... We are telling the GPT that stress, fatigue, and DOMS go from very low to very high ratings... and we are adding this context that we want to create a green light or traffic light system... Step one, check the data. Step two, calculate the Hooper index. Step three, classify... identify players requiring attention.",
+      "keywords": [
+        "execution-gpt",
+        "wellness",
+        "hooper-index",
+        "semaforo",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué es un Execution GPT y cómo funciona?",
+        "¿Cómo procesar cuestionarios de wellness diariamente usando IA?"
+      ],
+      "related_terms": [
+        "Execution GPT",
+        "Hooper Questionnaire",
+        "traffic light system"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se programó la estructura de respuestas para el asistente de conocimiento.",
+      "context_after": "Se avanza hacia la automatización total sin activación manual."
+    },
+    {
+      "id": "V01-017",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:38:22",
+      "end_timestamp": "00:41:00",
+      "start_seconds": 2302,
+      "end_seconds": 2460,
+      "duration_seconds": 158,
+      "timestamp_url": "?t=2302",
+      "title": "Workflows automatizados sin intervención",
+      "summary": "Para procesos predecibles diarios (como reportes de rendimiento semanales), se conectan secuencias automáticas desencadenadas por un disparador (tiempo o envío de formulario), eliminando la necesidad de interacción humana para iniciar el análisis.",
+      "literal_quote": "The difference here is that we are no longer relying on someone to initiate every individual interaction with AI. Instead, we connect a sequence of repeatable steps.",
+      "full_transcript": "The difference here is that we are no longer relying on someone to initiate every individual interaction with AI. Instead, we connect a sequence of repeatable steps... We are going to have something triggering the workflow. Maybe a questionnaire is submitted, a new file arrives, or a certain time of the week is reached. Then information is collected. We apply checks... Then we process it. That might involve calculations, rules, or an AI model. An output is produced. Ideally, there is an appropriate review step, and then that output is distributed to whoever needs it. There are many performance science processes that could potentially fit this model. Weekly performance reports are an obvious one.",
+      "keywords": [
+        "flujo-de-trabajo",
+        "automatizacion",
+        "trigger",
+        "reportes-semanales",
+        "pasos-repetibles"
+      ],
+      "entities": [],
+      "topics": [
+        "Data Science",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo automatizar reportes deportivos con IA?",
+        "¿Cuáles son los pasos de un workflow automatizado en el deporte?"
+      ],
+      "related_terms": [
+        "workflow automation",
+        "triggering the workflow",
+        "repeatable steps"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se usó un GPT para procesar datos de manera manual (Execution GPT).",
+      "context_after": "El ponente advierte sobre el peligro de automatizar sin diseño para el fallo."
+    },
+    {
+      "id": "V01-018",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:41:02",
+      "end_timestamp": "00:43:19",
+      "start_seconds": 2462,
+      "end_seconds": 2599,
+      "duration_seconds": 137,
+      "timestamp_url": "?t=2462",
+      "title": "Diseño de vías de fallo (Failure pathways)",
+      "summary": "Automatizar un mal proceso solo genera errores más rápido. Es vital programar vías de fallo que detengan la automatización ante datos imposibles o formatos incorrectos (ej. libras en lugar de kg), pidiendo revisión humana.",
+      "literal_quote": "If we cannot clearly explain the process ourselves, automating it simply allows us to make mistakes faster and more consistently... So we also need to design the failure pathway.",
+      "full_transcript": "Do not automate a process that you don't understand. Before building automation, you need to map the workflow... If we cannot clearly explain the process ourselves, automating it simply allows us to make mistakes faster and more consistently. This leads to something that I think is extremely important when we design automated workflows. We normally design the ideal pathway. We imagine that the correct file arrives, all the data are complete, every value is correctly formatted... But real life doesn't work like that. So we also need to design the failure pathway. What happens if a file is missing? What happens if somebody has changed the units from kilograms to pounds...? A well-designed workflow needs to recognize when it should not continue... Flag the problem, pause the process, and send it to a human for review.",
+      "keywords": [
+        "vias-de-fallo",
+        "errores",
+        "automatizacion",
+        "datos",
+        "supervision"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Por qué es peligroso automatizar un proceso mal entendido?",
+        "¿Qué hacer cuando una automatización de datos falla?"
+      ],
+      "related_terms": [
+        "failure pathway",
+        "make mistakes faster",
+        "human for review"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicaron los beneficios de conectar pasos automáticos repetibles.",
+      "context_after": "Se presenta la plataforma Make AI como ejemplo práctico."
+    },
+    {
+      "id": "V01-019",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:43:25",
+      "end_timestamp": "00:48:38",
+      "start_seconds": 2605,
+      "end_seconds": 2918,
+      "duration_seconds": 313,
+      "timestamp_url": "?t=2605",
+      "title": "Automatización con Make AI (Reportes Wellness)",
+      "summary": "Se demuestra un escenario automatizado usando Make AI: conecta Google Sheets (datos Hooper) con OpenAI (análisis) y manda un email. Se ejecuta a las 9:00 AM diario, eliminando la revisión manual del Excel.",
+      "literal_quote": "every day at 9:00 a.m., I want this workflow to be run, and we want to get the report by that time automatically. So I don't have to worry about opening the spreadsheet...",
+      "full_transcript": "Here, I want to show you a very practical example of what we have just discussed on an automated report, which is generated via this Make AI tool and is based on the wellness data that we are collecting on the spreadsheet... So first of all, we have here the Google spreadsheet, right? ... We are analyzing the wellness data through OpenAI or the ChatGPT here, and then we're going to send the email report on the email module that we have here. This is something that is automated because we could select when we want to run this scenario. It could be daily... every day at 9:00 a.m., I want this workflow to be run, and we want to get the report by that time automatically. So I don't have to worry about opening the spreadsheet, looking at the data anymore. All I'm going to do is rely on what the AI process is doing...",
+      "keywords": [
+        "make-ai",
+        "google-sheets",
+        "openai",
+        "wellness",
+        "automatizacion-diaria"
+      ],
+      "entities": [
+        "Make AI tool",
+        "Google spreadsheet",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo enviar reportes de bienestar diarios automáticamente usando IA?",
+        "¿Qué herramientas se conectan para generar reportes deportivos con Make AI?"
+      ],
+      "related_terms": [
+        "Make AI tool",
+        "automated report",
+        "email module"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia del diseño lógico ante posibles fallos.",
+      "context_after": "Se enfoca en cómo encontrar y procesar evidencia científica en la web."
+    },
+    {
+      "id": "V01-020",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:48:43",
+      "end_timestamp": "00:50:50",
+      "start_seconds": 2923,
+      "end_seconds": 3050,
+      "duration_seconds": 127,
+      "timestamp_url": "?t=2923",
+      "title": "El poder de la pregunta buscable (Searchable Question)",
+      "summary": "Toda investigación debe iniciar definiendo claramente el problema a través de una 'Searchable Question'. Una mayor especificidad en la pregunta agudiza y mejora la relevancia de los resultados encontrados en la literatura científica.",
+      "literal_quote": "I am a huge fan of the statement that everything starts with a searchable question... Specificity narrows results and sharpens the relevance.",
+      "full_transcript": "As you know, we are now in this era of information. We have more access to science than ever, much more access to all these technologies than ever. And the real challenge that we have is moving through each stage intentionally... I am a huge fan of the statement that everything starts with a searchable question. Because sometimes we have not been able to define that problem that we have or that need. And this process is really useful. And when we are able to define our questions, we can find the best methods to support those questions... For example, which core physical fitness exercises produce the greatest core muscle activity in healthy adults? So specificity narrows results and sharpens the relevance.",
+      "keywords": [
+        "searchable-question",
+        "investigacion",
+        "especificidad",
+        "literatura",
+        "relevancia"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es vital usar una pregunta de búsqueda específica en investigación?",
+        "¿Cómo iniciar una revisión bibliográfica deportiva de forma eficiente?"
+      ],
+      "related_terms": [
+        "searchable question",
+        "specificity",
+        "literature"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se cerró la sección sobre automatización de flujos de trabajo con Make AI.",
+      "context_after": "Se presenta la herramienta Elicit para buscar respuestas a esas preguntas."
+    },
+    {
+      "id": "V01-021",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:50:50",
+      "end_timestamp": "00:55:00",
+      "start_seconds": 3050,
+      "end_seconds": 3300,
+      "duration_seconds": 250,
+      "timestamp_url": "?t=3050",
+      "title": "Búsqueda Semántica con Elicit",
+      "summary": "Elicit es una IA para descubrir literatura científica usando búsqueda semántica por significado, no solo palabras clave. Acelera la selección, extrae datos estructurados y crea tablas de evidencia, pero no reemplaza el juicio científico del profesional.",
+      "literal_quote": "Instead of relying exclusively on whether the authors happen to use the same keyword that we typed, it can search based on the meaning of the question.",
+      "full_transcript": "Once we have a good question, one tool that we can use and can help us find evidence more efficiently is Elicit. Traditionally, we might go into a database, identify keywords, run several searches... But tools such as Elicit can accelerate some of those early steps. For example, Elicit can use semantic searching. So instead of relying exclusively on whether the authors happen to use the same keyword that we typed, it can search based on the meaning of the question. It can also help us screen papers, extract structured information from studies, create evidence tables, compare studies... I see these tools as accelerators of discovery and realization, not replacements for scientific judgment. They help us to find the evidence faster.",
+      "keywords": [
+        "elicit",
+        "busqueda-semantica",
+        "literatura-cientifica",
+        "revision",
+        "ia"
+      ],
+      "entities": [
+        "Elicit",
+        "Google Scholar",
+        "PubMed"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué herramienta usar para buscar papers mediante búsqueda semántica?",
+        "¿Cómo funciona Elicit para revisiones sistemáticas en el deporte?"
+      ],
+      "related_terms": [
+        "Elicit",
+        "semantic searching",
+        "evidence tables"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se subrayó la necesidad de definir una pregunta específica antes de buscar.",
+      "context_after": "Se presenta otra herramienta (NotebookLM) enfocada en procesar fuentes preseleccionadas."
+    },
+    {
+      "id": "V01-022",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:55:13",
+      "end_timestamp": "00:57:08",
+      "start_seconds": 3313,
+      "end_seconds": 3428,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=3313",
+      "title": "Interrogación de Fuentes con NotebookLM",
+      "summary": "Mientras Elicit descubre literatura, NotebookLM sirve para interrogar un conjunto cerrado de documentos seleccionados. Sirve para comparar estudios, resumir, crear preguntas frecuentes o infografías visuales de los papers subidos.",
+      "literal_quote": "With Elicit, we are primarily trying to discover literature, and with NotebookLM, we can start with a collection of sources that we have already selected and then interrogate those sources.",
+      "full_transcript": "Second tool I find very interesting is NotebookLM, but it solves a slightly different problem. With Elicit, we are primarily trying to discover literature, and with NotebookLM, we can start with a collection of sources that we have already selected and then interrogate those sources. For example, imagine that I have 10 scientific papers, several consensus statements... I can ask whether two studies disagree, I can compare methodologies, I can locate specific information, I can ask it to explain a complicated concept, or I can generate summaries, study guides, frequently asked questions, or visual materials. So the AI can help us integrate the information, but we still need expertise to decide which information deserves to be included... For example, I have created an infographic that is going to describe the exercises from the practical application section.",
+      "keywords": [
+        "notebooklm",
+        "fuentes-cerradas",
+        "interrogacion",
+        "infografias",
+        "resumenes"
+      ],
+      "entities": [
+        "NotebookLM",
+        "Elicit"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre Elicit y NotebookLM?",
+        "¿Cómo extraer información comparativa de varios PDFs simultáneamente?"
+      ],
+      "related_terms": [
+        "NotebookLM",
+        "interrogate sources",
+        "generate summaries"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se analizó el uso de Elicit para descubrir evidencia.",
+      "context_after": "Se lanza una alerta sobre el riesgo de creer ciegamente en resúmenes generados por IA."
+    },
+    {
+      "id": "V01-023",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:57:14",
+      "end_timestamp": "00:58:26",
+      "start_seconds": 3434,
+      "end_seconds": 3506,
+      "duration_seconds": 72,
+      "timestamp_url": "?t=3434",
+      "title": "Verificación por encima de la aceleración",
+      "summary": "La IA puede hacer parecer sencilla la ciencia compleja con resúmenes convincentes. Su rol es acelerar la lectura inicial, pero ante información crítica que afecta la práctica (población, estadística), el profesional debe retornar siempre al paper original para verificar.",
+      "literal_quote": "Use AI to help you move through information faster, but when something matters, return to the evidence.",
+      "full_transcript": "Now, one of the risks with all of these tools is that they make scientific information feel much easier than it actually is. A generated summary can look incredibly clear and convincing... But we need to distinguish between using AI to accelerate reading and using AI to replace verification. For any information that might actually affect practice, I still want to return to the original source. I want to check who the participants were, I want to understand the exact intervention, and I want to look at the statistical results rather than only the verbal conclusion. So use AI to help you move through information faster, but when something matters, return to the evidence.",
+      "keywords": [
+        "verificacion",
+        "riesgos",
+        "lectura",
+        "estadistica",
+        "evidencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no se debe confiar ciegamente en un resumen de NotebookLM?",
+        "¿Qué elementos del paper original se deben verificar siempre manualmente?"
+      ],
+      "related_terms": [
+        "replace verification",
+        "original source",
+        "statistical results"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el uso de resúmenes mediante NotebookLM.",
+      "context_after": "El ponente propone la creación de herramientas digitales (apps) interactivas."
+    },
+    {
+      "id": "V01-024",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "00:58:47",
+      "end_timestamp": "01:02:37",
+      "start_seconds": 3527,
+      "end_seconds": 3757,
+      "duration_seconds": 230,
+      "timestamp_url": "?t=3527",
+      "title": "Prototipar el razonamiento, no solo la interfaz",
+      "summary": "Gracias a la IA, hoy los profesionales pueden crear prototipos funcionales sin gran conocimiento de código. Sin embargo, la trampa está en enfocarse en la interfaz visual; antes de ello, se debe diseñar rigurosamente la lógica de decisión que la sustentará.",
+      "literal_quote": "Before worrying about whether the app looks impressive, test the logic with hypothetical cases.",
+      "full_transcript": "Today, a practitioner with relatively limited coding experience can use AI-assisted tools to create working prototypes. Imagine, for example, a recovery decision support application... This is a major trap here, because building the interface is becoming easier. It's very tempting to start with the interface. We can start thinking about the buttons, the colors, the dashboards, how impressive the application looks. But the application is only as good as the decision logic underneath it. So before we build the interface, we need to define the reasoning. What information is absolutely required before the tool can make a recommendation? Which rules are actually supported by evidence? ... This is what I mean when I say prototype the reasoning, not only the screen. Before worrying about whether the app looks impressive, test the logic with hypothetical cases.",
+      "keywords": [
+        "prototipado",
+        "desarrollo-app",
+        "logica-de-decision",
+        "interfaz",
+        "programacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "IA Deportiva"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué priorizar al crear una App de rendimiento deportivo?",
+        "¿Por qué es un error enfocarse primero en el diseño visual de una app deportiva?"
+      ],
+      "related_terms": [
+        "prototype the reasoning",
+        "decision logic",
+        "working prototypes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se instó a verificar la información generada por IA.",
+      "context_after": "Se presenta el concepto de los clubes deportivos como Hubs de innovación."
+    },
+    {
+      "id": "V01-025",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "01:02:37",
+      "end_timestamp": "01:08:15",
+      "start_seconds": 3757,
+      "end_seconds": 4095,
+      "duration_seconds": 338,
+      "timestamp_url": "?t=3757",
+      "title": "Innovation Hubs y desarrollo de productos",
+      "summary": "Los profesionales no deben ser solo consumidores pasivos. Los clubes son entornos invaluables ('Innovation Hubs') para la investigación tecnológica. Al dar acceso a su feedback y entorno de élite, contribuyen activamente al desarrollo del producto.",
+      "literal_quote": "If a company is able to improve its technology because it has access to our environment, our practitioners, our feedback, then we are actively contributing to the product development.",
+      "full_transcript": "Practitioners should not only be consumers of innovation. We are actually in a extremely strong position to contribute to innovation... A professional club, federation, or performance center contains athletes, practitioners, infrastructure, and real problems, and those are incredibly valuable ingredients for innovation... That leads naturally to the concept of the innovation hubs... The basic idea is to create that structure, that connection between sport, research, and industry, because each of these environments has something valuable that the other two need... The access to the environment is an investment. Real-world access has value. Sometimes collaborations are framed as though the technology company is providing all of the value... But the sporting organization is also making a major contribution... If a company is able to improve its technology because it has access to our environment, our practitioners, our feedback, then we are actively contributing to the product development.",
+      "keywords": [
+        "innovation-hubs",
+        "colaboracion",
+        "feedback",
+        "entorno-de-elite",
+        "desarrollo-de-producto"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Concepto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué los clubes profesionales son esenciales para la innovación tecnológica?",
+        "¿Qué aporta un preparador físico al desarrollo de un nuevo producto tecnológico?"
+      ],
+      "related_terms": [
+        "innovation hubs",
+        "product development",
+        "sporting organization"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la creación de aplicaciones propias enfocándose en la lógica.",
+      "context_after": "Cierre de la charla sobre evaluación y supervisión de datos."
+    },
+    {
+      "id": "V01-026",
+      "video_title": "Leveraging AI and technology in everyday practice",
+      "speaker": "José María Oliva Lozano",
+      "start_timestamp": "01:08:15",
+      "end_timestamp": "01:13:11",
+      "start_seconds": 4095,
+      "end_seconds": 4391,
+      "duration_seconds": 296,
+      "timestamp_url": "?t=4095",
+      "title": "Evaluación tecnológica y supervisión humana (Human Loop)",
+      "summary": "Ante múltiples tecnologías, se sugiere usar el 'Sports Tech Quality Framework' para evaluar parámetros como precisión y usabilidad de forma automática. Sin embargo, al manejar datos sensibles de atletas, es innegociable mantener siempre a un humano en la toma de la decisión final.",
+      "literal_quote": "Technology accelerates the evaluation and the process, but humans own the decision.",
+      "full_transcript": "I think we need to play a key role in prototyping and evaluating sports tech, and frameworks like the Sports Tech Quality Framework is just very clear example of how we can contribute... We can create a system that extracts information from those different sources and classifies that information according to the categories in our evaluation framework... the more powerful sports technologies and AI become, the more important the responsible use of all of them becomes. I think we need a human verification loop around AI, particularly when we work in professional sports and potentially deal with athlete information. We need to ask whether information is identifiable or sensitive... Technology accelerates the evaluation and the process, but humans own the decision. So that's something that I want to keep in mind, and I try to keep in mind in my daily basis.",
+      "keywords": [
+        "framework",
+        "datos-sensibles",
+        "human-loop",
+        "toma-de-decisiones",
+        "privacidad"
+      ],
+      "entities": [
+        "Sports Tech Quality Framework"
+      ],
+      "topics": [
+        "Evaluación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Por qué es importante mantener una revisión humana sobre las decisiones de IA?",
+        "¿Cómo evaluar sistemáticamente las herramientas de tecnología deportiva?"
+      ],
+      "related_terms": [
+        "Sports Tech Quality Framework",
+        "human verification loop",
+        "athlete information"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó el valor del acceso a entornos de élite para la industria tecnológica.",
+      "context_after": "Despedida y fin de la presentación."
+    }
+  ]
+}
