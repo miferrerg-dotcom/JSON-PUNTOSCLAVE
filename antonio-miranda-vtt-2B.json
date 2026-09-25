@@ -1,0 +1,348 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "La optimización individual: perfil de rendimiento",
+    "speaker": "Antonio Miranda",
+    "total_duration": "00:17:10",
+    "total_duration_seconds": 1030,
+    "source_file": "WEBVTT-2B",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:02:13",
+      "end_timestamp": "00:04:40",
+      "start_seconds": 133,
+      "end_seconds": 280,
+      "duration_seconds": 147,
+      "timestamp_url": "?t=133",
+      "title": "Creación del perfil de rendimiento y la validez de los tests",
+      "summary": "El perfil de rendimiento clasifica a la jugadora mediante el cruce de datos y tests para estructurar su desarrollo. Antonio enfatiza que no se debe testear por testar; cada prueba debe tener consecuencias prácticas. Además, es clave que la jugadora conozca el objetivo de cada test y asuma la responsabilidad de su propio proceso.",
+      "literal_quote": "No testamos por testar. Creo que es importante que todo lo que testemos tenga consecuencias o validez para nosotros y que lo usemos. Cosas que no nos aportan las dejamos de hacer...",
+      "full_transcript": "La idea que tenemos de este perfil de rendimiento es clasificar a la jugadora según sus características. No solo quedarnos en los tests, sino también cruzar datos para dar más detalle de su perfil. Estructurar un camino de rendimiento en base a su perfil. Es importante que cuando nosotros clasifiquemos a la jugadora sepamos para qué lo hacemos y cómo queremos mejorar a partir de esa característica. Los tests. Es importante el tema también. No testamos por testar. Creo que es importante que todo lo que testemos tenga consecuencias o validez para nosotros y que lo usemos. Cosas que no nos aportan las dejamos de hacer porque no podemos andar perdiendo el tiempo en datos que no nos llevan a ningún sitio. Por eso hay que encontrar los mejores tests para la jugadora. Hay que ejecutar de la mejor manera estos tests y nos ayuda mucho la experiencia... Explicar y enseñar el porqué y qué buscamos con dichos tests... Creo que la jugadora necesita saber por qué está metida o encuadrada en un perfil de rendimiento, cómo lo hemos hecho y por qué lo vamos a hacer a nivel de entrenamiento. Y movernos en el cuadrante de manera conjunta.",
+      "keywords": [
+        "perfil-rendimiento",
+        "clasificacion",
+        "tests",
+        "validez",
+        "responsabilidad",
+        "feedback"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante seleccionar correctamente los tests físicos en el fútbol?",
+        "¿Cómo se construye el perfil de rendimiento de una jugadora?"
+      ],
+      "related_terms": [
+        "perfil",
+        "rendimiento",
+        "testar",
+        "datos",
+        "cuadrante",
+        "responsabilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Antonio se presenta y repasa brevemente su experiencia en clubes como el Atlético de Madrid y el Athletic Club.",
+      "context_after": "Se hace la transición de la fase preventiva (vista en otra charla) hacia la fase optimizadora."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:05:27",
+      "end_timestamp": "00:06:40",
+      "start_seconds": 327,
+      "end_seconds": 400,
+      "duration_seconds": 73,
+      "timestamp_url": "?t=327",
+      "title": "El plan optimizador: ser más fuerte y más resistente",
+      "summary": "Se diferencia el plan preventivo del plan optimizador. El optimizador busca potenciar las fortalezas de la jugadora mediante tres planes individuales: fuerza, habilidad de movimiento y sistemas energéticos. Para evaluar esto se utilizan baterías de fuerza (isométrica, dinámica, saltos, velocidad) y resistencia (test aeróbico, intermitente, GPS).",
+      "literal_quote": "El objetivo que tenemos es ser más fuerte y ser más resistente. Entrenar fuerza con más intención y repetir fuerza de manera intensiva.",
+      "full_transcript": "Ahora nos vamos a centrar en el plan optimizador. Potenciar las fortalezas de la jugadora, mejorar los déficits y eslabones débiles. Tenemos también tres planes de optimización. Uno sería el plan individual de la fuerza, que es donde nos vamos a centrar en esta charla... Un plan individual de habilidad de movimiento y un plan individual de sistemas energéticos... El objetivo que tenemos es ser más fuerte y ser más resistente. Entrenar fuerza con más intención y repetir fuerza de manera intensiva. Para ser más fuerte, ¿qué necesitamos? Una valoración de fuerza isométrica, valoración de fuerza dinámica, test de saltos, de velocidad, de 30 metros y test de cambio de dirección... Y para ser más resistentes, nos centramos en el test aeróbico de la carrera... los tests intermitentes de carrera y los datos GPS, donde yo voy a intentar explicaros un poco cómo hacemos los cruces de datos para ese perfil.",
+      "keywords": [
+        "plan-optimizador",
+        "fuerza",
+        "resistencia",
+        "test-isometrico",
+        "sistemas-energeticos"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres planes individuales dentro del plan optimizador?",
+        "¿Qué pruebas físicas se usan para medir si una jugadora es más fuerte o resistente?"
+      ],
+      "related_terms": [
+        "optimizador",
+        "fuerte",
+        "resistente",
+        "fuerza",
+        "isométrica",
+        "GPS"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se enfatiza la importancia de cruzar datos y de no testear sin un propósito válido.",
+      "context_after": "Se presenta la metodología de los cuatro cuadrantes para clasificar a las futbolistas."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:06:40",
+      "end_timestamp": "00:09:40",
+      "start_seconds": 400,
+      "end_seconds": 580,
+      "duration_seconds": 180,
+      "timestamp_url": "?t=400",
+      "title": "Clasificación por cuadrantes: Potenciar vs. Mejorar",
+      "summary": "Se clasifica a las jugadoras en cuatro cuadrantes (fuerte, resistente, potente, veloz), a menudo encontrando perfiles híbridos influenciados por su demarcación y el modelo de juego. La filosofía se basa en 'Potenciar vs Mejorar': elevar al máximo las virtudes naturales de la jugadora en lugar de buscar crear un perfil multidisciplinar plano.",
+      "literal_quote": "Si una jugadora es rápida, voy a potenciar que sea rápida. Si una jugadora es potente, voy a potenciar que sea potente. [...] Buscamos rendimiento y no una jugadora multidisciplinar.",
+      "full_transcript": "Debemos medir a la jugadora para ver el perfil de rendimiento y tenemos cuatro cuadrantes o cuatro casillas... fuerte, resistente, potente y veloz. No tenemos que encuadrar o clasificar a la jugadora simplemente en un perfil. Puede ser fuerte, resistente, fuerte y potente, potente y veloz... los cuadrantes van un poco en demanda a ello. La posición, las demandas, el modelo de juego, los esfuerzos, todo nos marca el tipo de optimización que vamos a implementar... Conocemos el tipo de jugadora que tenemos para hacer explotar sus características potenciales al máximo nivel y no nos olvidamos de los aspectos de mejora. Buscamos rendimiento y no una jugadora multidisciplinar... Aquí es donde me voy a parar un poco también para ver ese potencial versus mejorar, para ver que estamos formando jugadoras y necesitamos máximo rendimiento. Si una jugadora es rápida, voy a potenciar que sea rápida. Si una jugadora es potente, voy a potenciar que sea potente. Fuerte y resistente, lo mismo. Toda la característica positiva de cada jugadora vamos a elevarla al más alto nivel. No nos olvidamos de lo que tenemos que mejorar, pero sí que vamos a potenciar mucho más sus características y en lo que ella es buena.",
+      "keywords": [
+        "cuadrantes-rendimiento",
+        "hibridos",
+        "potenciar-fortalezas",
+        "demarcacion",
+        "especializacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cuatro cuadrantes del perfil de rendimiento físico?",
+        "¿Por qué es mejor potenciar las virtudes de una jugadora en lugar de buscar que sea multidisciplinar?"
+      ],
+      "related_terms": [
+        "cuadrantes",
+        "fuerte",
+        "resistente",
+        "potente",
+        "veloz",
+        "potenciar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del plan optimizador y las valoraciones de fuerza y resistencia necesarias.",
+      "context_after": "Se detallan las diferencias en las instrucciones al realizar el test de salto CMJ."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:09:43",
+      "end_timestamp": "00:11:15",
+      "start_seconds": 583,
+      "end_seconds": 675,
+      "duration_seconds": 92,
+      "timestamp_url": "?t=583",
+      "title": "Diferenciación del test CMJ: rendimiento frente a fatiga",
+      "summary": "El test de salto (CMJ) puede utilizarse para medir el pico de rendimiento (fijándose en altura, fuerza pico concéntrica/excéntrica) o para evaluar fatiga neuromuscular (donde se busca un RSI reactivo y un frenado excéntrico rápido). Es fundamental comunicar a la jugadora el objetivo exacto del salto en cada momento.",
+      "literal_quote": "En rendimiento vamos a buscar el mayor salto posible, la mayor velocidad posible, y en fatiga hacemos salto reactivo de la mayor velocidad posible.",
+      "full_transcript": "Nos metemos en los test. ¿De acuerdo? ¿Qué test hacemos? El CMJ, donde es importante distinguir entre variables de rendimiento y fatiga y explicarle a la jugadora para qué estamos haciendo el test. Por ejemplo: 'Hoy estamos haciendo rendimiento'. Nos centramos en variables como la altura de salto, el peak force concéntrico, el peak force excéntrico, el RCD concéntrico o el stick. Cuando vamos a orientar ese test más a fatiga, también eso tenemos que decirlo: 'Estamos evaluando la fatiga, y te necesito: un RSI que te centres en un breaking excéntrico mucho más rápido'. Buscamos también el tiempo de duración de la fase de breaking, el flight time, la duración concéntrica y excéntrica. Son variables que no tenemos que explicarlas todas... pero sí que en rendimiento vamos a buscar el mayor salto posible, la mayor velocidad posible, y en fatiga hacemos salto reactivo de la mayor velocidad posible. Vemos aquí también las curvas en el CMJ.",
+      "keywords": [
+        "test-cmj",
+        "rendimiento",
+        "fatiga",
+        "rsi",
+        "peak-force",
+        "breaking-excentrico"
+      ],
+      "entities": [
+        "CMJ"
+      ],
+      "topics": [
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se diferencia un test CMJ de rendimiento de uno de fatiga?",
+        "¿Qué variables importan al medir la fatiga neuromuscular con el salto CMJ?"
+      ],
+      "related_terms": [
+        "CMJ",
+        "rendimiento",
+        "fatiga",
+        "RSI",
+        "peak force",
+        "breaking"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la filosofía de potenciar las características principales de la futbolista en lugar de igualar todos los déficits.",
+      "context_after": "Se avanza hacia el desglose de los test isométricos y dinámicos en ejercicios básicos como sentadilla y hip thrust."
+    },
+    {
+      "id": "V05-005",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:11:18",
+      "end_timestamp": "00:13:30",
+      "start_seconds": 678,
+      "end_seconds": 810,
+      "duration_seconds": 132,
+      "timestamp_url": "?t=678",
+      "title": "Evaluación de fuerza isométrica y dinámica",
+      "summary": "Para evaluar la fuerza en ejes verticales y horizontales, realizan test isométricos de sentadilla y hip thrust, buscando la fuerza pico (Peak Force) y el RFD (Rate of Force Development). Posteriormente, los tests dinámicos progresivos estiman la repetición máxima (RM) observando la velocidad a la que mueven cargas crecientes (subiendo de 20 en 20 kilos).",
+      "literal_quote": "Hacemos un test progresivo para estimar la RM, donde vamos aumentando 20 kilos en cada serie. Hacemos tres series para que no lleve mucho tiempo y vemos la velocidad.",
+      "full_transcript": "Luego también tenemos isométricos máximos. En este, por ejemplo, test isométrico máximo de sentadilla, donde buscamos dos variables: una es el peak force, donde buscamos la mayor fuerza posible que aplique la jugadora, y también algo que cogemos con pinzas es el tiempo que tarda en llegar a ese pico, el RCD [RFD]. En test isométricos tiene menos sensibilidad, pero también le damos un seguimiento a ese RCD. Hacemos lo mismo con los test isométricos de cadena posterior. Necesitamos uno de eje vertical y otro de eje horizontal. Por eso medimos en sentadilla y en hip thrust. Es lo mismo: buscamos un peak force y un RCD. Este sería el foco en peak force, una curva progresiva de fuerza donde vemos que intentamos llegar al pico máximo de fuerza... Luego tenemos test dinámicos. Hacemos lo mismo con ejes verticales y ejes horizontales. Medimos una progresión de carga de sentadilla y una progresión de carga de hip thrust... Esto nos sirve para ir monitorizando las cargas de entrenamiento diarias, saber el peso y la velocidad que van a mover... Intentamos hacer un test progresivo para estimar la RM, donde vamos aumentando 20 kilos en cada serie. Hacemos tres series para que no lleve mucho tiempo y vemos la velocidad que lo mueven.",
+      "keywords": [
+        "test-isometrico",
+        "peak-force",
+        "rfd",
+        "test-dinamico",
+        "repeticion-maxima",
+        "velocidad-ejecucion"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué variables se miden en un test isométrico de sentadilla?",
+        "¿Cómo se estima la Repetición Máxima (RM) de forma dinámica sin fatigar a la jugadora?"
+      ],
+      "related_terms": [
+        "isométricos",
+        "peak force",
+        "RFD",
+        "dinámicos",
+        "RM",
+        "velocidad"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de las variables recogidas en el test de salto CMJ.",
+      "context_after": "Análisis de los datos de los GPS para clasificar la velocidad y resistencia de la futbolista en campo."
+    },
+    {
+      "id": "V05-006",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:13:30",
+      "end_timestamp": "00:15:00",
+      "start_seconds": 810,
+      "end_seconds": 900,
+      "duration_seconds": 90,
+      "timestamp_url": "?t=810",
+      "title": "Evaluación de velocidad y resistencia mediante GPS",
+      "summary": "Para clasificar si una jugadora es veloz o resistente no basta un test aislado. En velocidad, se cruza el pico máximo alcanzado con los metros recorridos en sprint (>28 km/h). En resistencia, evalúan métricas aplicadas a la competición como los metros/minuto, el 'High Speed Running' (>15 km/h) y las distancias en alta carga metabólica (HMRD).",
+      "literal_quote": "No solo queremos jugadoras que alcancen un pico de velocidad alto, sino que lo puedan aplicar en contexto de competición.",
+      "full_transcript": "Pico máximo de velocidad, siempre alcanzado por temporada... Este dato no lo sacamos solo de GPS. No nos centramos solo en el dato del pico de velocidad, sino que también lo cruzamos con los metros realizados a sprint máximo, que es por encima de 28 km/h. No solo queremos jugadoras que alcancen un pico de velocidad alto, sino que lo puedan aplicar en contexto de competición. ¿Cómo analizamos o clasificamos la jugada en resistencia? Manu os hablará del test de la banca que vamos a hacer. Yo voy a hablar de los datos GPS que buscamos para que una jugadora la consideremos de resistencia, que son el metro minuto, variables como en distancia, high speed running y HMRD. No solo ser resistente en un test normal, sino cómo lo vamos a aplicar en nuestro contexto. Si yo recorro mucha distancia en partido, al final soy una jugadora resistente. Si tengo un metro minuto elevado, soy una jugadora muy resistente, pero también en esas acciones de alta intensidad, high speed running por encima de 15 km/h, qué capacidad de metro minuto puedo tener durante un partido o incluso en alta carga metabólica, esa distancia en alta carga metabólica y en esos esfuerzos.",
+      "keywords": [
+        "gps",
+        "sprint",
+        "high-speed-running",
+        "metro-minuto",
+        "hmrd",
+        "resistencia-especifica"
+      ],
+      "entities": [
+        "GPS",
+        "HMRD"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Cómo se clasifica a una jugadora como 'resistente' usando datos de GPS?",
+        "¿Qué métricas de carrera se cruzan para evaluar la velocidad útil de una futbolista?"
+      ],
+      "related_terms": [
+        "velocidad",
+        "sprint",
+        "resistencia",
+        "GPS",
+        "metro minuto",
+        "HMRD"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los test isométricos y dinámicos para valorar la fuerza.",
+      "context_after": "Se presentan las conclusiones finales sobre la periodización de los tests y la autoevaluación."
+    },
+    {
+      "id": "V05-007",
+      "video_title": "La optimización individual: perfil de rendimiento",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:15:00",
+      "end_timestamp": "00:17:10",
+      "start_seconds": 900,
+      "end_seconds": 1030,
+      "duration_seconds": 130,
+      "timestamp_url": "?t=900",
+      "title": "Conclusiones: evolución del perfil y autoevaluación",
+      "summary": "Como conclusiones, Antonio resalta que los test deben ser rápidos, causar baja fatiga y hacerse con periodicidad porque el perfil de rendimiento es cambiante. Cierra con una frase de Kobe Bryant sobre la autoevaluación, instando a que la jugadora conozca sus defectos para mitigarlos y sus fortalezas para explotarlas.",
+      "literal_quote": "Lo que separa a los grandes jugadores de los jugadores históricos es su capacidad de autoevaluarse, diagnosticar sus debilidades y convertir esos defectos en fortalezas.",
+      "full_transcript": "Voy acabando con esta última parte. Vamos a hablar de las conclusiones. Encontrar un perfil donde la jugadora pueda demostrar sus capacidades, realizar los test con una periodización establecida para poder ver el progreso... Los test tienen que ser rápidos y que no necesiten mucho tiempo de la sesión de entrenamiento. Es importante que la jugadora tenga una experiencia con el test... E intentemos que los test se hagan con la menor fatiga posible para que podamos ver el máximo potencial. Explicar a la jugadora para qué es el test y qué queremos ver con él... El perfil de rendimiento puede ser cambiante a lo largo de la temporada. Vamos a mover el cuadrante hacia derecha, izquierda, arriba o abajo, y la jugadora va a poder ir cambiando también el cuadrante. Voy terminando con una cita, Kobe Bryant: 'Lo que separa a los grandes jugadores de los jugadores históricos es su capacidad de autoevaluarse, diagnosticar sus debilidades y convertir esos defectos en fortalezas'. Nosotros creemos que la jugadora debe ser consciente de sus características, de sus potenciadores y sus mejoras. Necesitamos que la jugadora sea consciente de lo que necesita explotar y por qué está con nosotros en el más alto nivel y las cosas que necesita mejorar o esconder.",
+      "keywords": [
+        "periodizacion-test",
+        "perfil-cambiante",
+        "autoevaluacion",
+        "debilidades",
+        "fortalezas"
+      ],
+      "entities": [
+        "Kobe Bryant"
+      ],
+      "topics": [
+        "Metodología",
+        "Professional Experience",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es importante que los tests físicos se hagan con la menor fatiga posible?",
+        "¿Cómo influye la autoevaluación en el rendimiento de un deportista de élite?"
+      ],
+      "related_terms": [
+        "test rápidos",
+        "fatiga",
+        "perfil",
+        "cambiante",
+        "autoevaluar",
+        "Kobe Bryant"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de las variables de GPS para la velocidad y la resistencia.",
+      "context_after": "Cierre de la presentación y despedida del ponente."
+    }
+  ]
+}

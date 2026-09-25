@@ -1,0 +1,364 @@
+{
+  "video": {
+    "video_id": "V06",
+    "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+    "speaker": "Manuel",
+    "total_duration": "00:21:46",
+    "total_duration_seconds": 1306,
+    "source_file": "WEBVTT-3A.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V06-001",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:14",
+      "start_seconds": 1,
+      "end_seconds": 194,
+      "duration_seconds": 193,
+      "timestamp_url": "?t=1",
+      "title": "Sistemas energéticos en el fútbol y el trabajo analítico individual",
+      "summary": "Se introduce la optimización de los sistemas energéticos (resistencia). Aunque la tendencia actual prioriza el trabajo con balón, el ponente defiende el entrenamiento analítico individualizado, ya que las tareas colectivas no pueden optimizar todos los perfiles por igual. Se repasan las tres vías fundamentales: ATP-PCr, glucolítica y oxidativa.",
+      "literal_quote": "Estoy de acuerdo en que la resistencia específica hay que trabajarla con balón, pero sí que hay una parte individual que podemos trabajar de forma analítica, de forma individualizada...",
+      "full_transcript": "Perfecto. Vamos a finalizar con la última parte de este modelo de optimización individual, centrándose en la optimización condicional... Ya hemos optimizado el nivel de fuerza de la jugadora, hemos optimizado su salida de movimiento y nos queda la última parte, que son los sistemas energéticos, la resistencia. Una parte que antiguamente era muy estudiada y trabajada. Luego llegó el modelo de que todo hay que hacerlo con balón. Y sí, estoy de acuerdo en que la resistencia específica hay que trabajarla con balón, pero sí que hay una parte individual que podemos trabajar de forma analítica, de forma individualizada... Cuanto mejor esté diseñado el entrenamiento de equipo, más acertarás a jugadora... pero es muy complicado diseñar tareas que optimicen a todas las jugadoras de todos los perfiles de posición por igual. Para ello, dentro del planificador, nos vamos a centrar ahora en sistemas resistentes. Voy a exponer un test aeróbico de carrera... Tenía pensado llevar a cabo el bronco test... es un test exigente y que da una BAM intermitente bastante importante, pero es cierto que la jugadora esta temporada no ha venido con unos niveles de fuerza demasiado buenos... Un repaso rápido sobre sistemas energéticos. El fútbol tiene una naturaleza intermitente, por lo cual hay una interacción continua entre los tres principales sistemas del organismo. Ese primer sistema de ATP fosfocreatina, que es clave en acciones explosivas... Una segunda vía, glucólica anaeróbica, que serían esfuerzos de entre 15 y 60 segundos... Y un último eslabón, el sistema oxidativo, que no menos importante. ¿Por qué se dice que es la base del rendimiento? Porque permite recuperar entre todos los esfuerzos explosivos y anaeróbicos que tiene el fútbol.",
+      "keywords": [
+        "sistemas-energeticos",
+        "resistencia",
+        "trabajo-analitico",
+        "atp-pcr",
+        "via-glucolitica",
+        "sistema-oxidativo"
+      ],
+      "entities": [
+        "Bronco test",
+        "Yo-Yo test"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario el trabajo analítico de resistencia en el fútbol?",
+        "¿Cuáles son los tres sistemas energéticos principales en el rendimiento del futbolista?"
+      ],
+      "related_terms": [
+        "sistemas energéticos",
+        "resistencia",
+        "analítica",
+        "balón",
+        "ATP",
+        "oxidativo",
+        "glucolítico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la parte final de la presentación sobre optimización individual enfocada a la resistencia.",
+      "context_after": "Se detalla cómo cada una de las tres vías energéticas se relaciona directamente con el modelo de juego."
+    },
+    {
+      "id": "V06-002",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:03:14",
+      "end_timestamp": "00:07:11",
+      "start_seconds": 194,
+      "end_seconds": 431,
+      "duration_seconds": 237,
+      "timestamp_url": "?t=194",
+      "title": "Integración de las vías energéticas en el modelo de juego",
+      "summary": "El fútbol requiere que los tres sistemas interactúen simultáneamente. La vía de ATP-PCr se asocia a aceleraciones cortas (5-10m), la glucolítica a repetir esfuerzos intensos (presión, transiciones), y la oxidativa permite sostener el modelo de juego los 90 minutos. Se expone la limitación de entrenar solo en espacios reducidos (SSG) porque descuidan el sistema oxidativo.",
+      "literal_quote": "Los comportamientos del modelo de juego tienen que cambiar, porque el equipo aeróbico no ha tenido gasolina para llegar al minuto 90 con el mismo comportamiento.",
+      "full_transcript": "Un detalle clave. No nos vamos a centrar en entrenar la vía por separado, sino la capacidad del jugador... sabiendo que las tres vías confluyen siempre en cada entrenamiento, en cada partido. El primer sistema, ATP fosfocreatina. Si nos lo llevamos hacia acciones específicas de fútbol, sería una capacidad de acelerar en cinco o 10 metros... El sistema glucolítico y oxidativo es una capacidad de repetir esfuerzos intensos que he llevado a una fase del juego, puede ser presionar, transitar, encarar repetidamente... Se puede entrenar, como hemos dicho, con optimización individual, mediante HIIT, mediante intervalos, y se puede entrenar de forma mucho más específica y mucho más rica en juegos reducidos con balón. Y ese sistema oxidativo, esa capacidad de recuperar entre esfuerzos... nos lleva a una sostenibilidad en el modelo de juego, que es que esos comportamientos se repitan y no en la segunda parte caigan porque ya no soy capaz de presionar alto... Los comportamientos del modelo de juego tienen que cambiar, porque el fin del equipo aeróbico no ha tenido gasolina para llegar al minuto 90 con el mismo comportamiento. Con lo cual, hay que acertar a que todos los jugadores sean capaces de llegar para que el míster pueda proponer el modelo que más le convenga... Es cierto que los míster con los que he trabajado últimamente son mucho más pro de espacio reducido, juegos de pocos jugadores, de pocos metros, en los que se trabaja mucho ese sistema glucolítico anaeróbico, pero no tanto ese sistema oxidativo, que nos tendríamos que ir al día de espacios amplios que dejen continuar las tareas, siempre la pelea que tenemos ahí entre nosotros. A ver si conseguimos un metro minuto alto en este día extensivo...",
+      "keywords": [
+        "interaccion-vias",
+        "modelo-de-juego",
+        "espacios-reducidos",
+        "gasolina-aerobica",
+        "sostenibilidad",
+        "hiit"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se relacionan los sistemas energéticos con el modelo de juego?",
+        "¿Por qué los juegos en espacios reducidos no son suficientes para entrenar la resistencia aeróbica en fútbol?"
+      ],
+      "related_terms": [
+        "vías energéticas",
+        "espacio reducido",
+        "gasolina",
+        "modelo de juego",
+        "HIIT",
+        "metro minuto"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica básica de los sistemas ATP, glucolítico y oxidativo.",
+      "context_after": "Se presenta el Test de la VAM como solución práctica para medir y entrenar la capacidad aeróbica."
+    },
+    {
+      "id": "V06-003",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:07:11",
+      "end_timestamp": "00:09:36",
+      "start_seconds": 431,
+      "end_seconds": 576,
+      "duration_seconds": 145,
+      "timestamp_url": "?t=431",
+      "title": "Test de VAM (6 minutos) para compensar volúmenes aeróbicos",
+      "summary": "Se detalla el test de 6 minutos para calcular la Velocidad Aeróbica Máxima (VAM) dividiendo la distancia total alcanzada entre 100. Este valor permite programar cargas de carrera precisas para jugadoras que no acumulan minutos competitivos, evitando la peligrosa pérdida del volumen aeróbico que no se puede recuperar solo jugando en espacios reducidos.",
+      "literal_quote": "Dividimos distancia total en esos seis minutos entre 100 y obtenemos la velocidad aeróbica máxima, que luego nos puede permitir establecer entrenamientos para esas jugadoras que no han tenido tanto ritmo competitivo.",
+      "full_transcript": "Para ello, volvemos a hacer un test que nos sirva para entrenar, que sea fácilmente repetible y que nos dé un valor que además nos permite programar entrenamientos específicos... Test de la BAM, seis minutos, máxima distancia posible. Se le dice a la jugadora: 'En seis minutos tienes que recorrer la máxima distancia posible'. Se puede valorar la distancia o bien con GPS... o bien diseñar una pista de atletismo alrededor del campo y poner un cono cada 15 metros y que esa jugadora, contando el número de vueltas más los metros, nos dé un poco la distancia exacta... ¿Qué sacamos con esta distancia? Dividimos distancia total en esos seis minutos entre 100 y obtenemos la velocidad aeróbica máxima, que luego nos puede permitir establecer entrenamientos para esas jugadoras que no han tenido tanto ritmo competitivo, que vienen de lesión, que se han quedado con déficit de cierta zona en un entrenamiento. Podemos especificar a qué velocidad queremos que meta esa serie de carga. Esta BAM medida así solo nos serviría para entrenamiento específico de carrera... no podemos dejar a la jugadora tanto de correr en el fútbol cuando toque y cuando hay que compensar volúmenes aeróbicos hay que hacerlos, porque si no juega ahora, no compite en cuatro semanas con el equipo, pierde aproximadamente 10 kilómetros de partido. Y recuperar ese volumen aeróbico, esa distancia total entrenando, es muy complicado de forma específica. Se puede recuperar la intensidad, la aceleración, los sprints... pero recuperar el volumen aeróbico es complicado.",
+      "keywords": [
+        "test-vam",
+        "6-minutos",
+        "velocidad-aerobica-maxima",
+        "volumen-aerobico",
+        "compensacion-cargas",
+        "suplentes"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se calcula la Velocidad Aeróbica Máxima (VAM) de forma práctica en campo?",
+        "¿Por qué es importante el entrenamiento aeróbico específico para las jugadoras suplentes?"
+      ],
+      "related_terms": [
+        "test",
+        "VAM",
+        "BAM",
+        "6 minutos",
+        "volumen",
+        "GPS",
+        "ritmo competitivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Discusión sobre la necesidad de compensar el trabajo de los juegos reducidos con carreras en espacios amplios.",
+      "context_after": "Se cambia de tema a los datos de GPS de partido y a la división en 5 zonas de velocidad."
+    },
+    {
+      "id": "V06-004",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:09:36",
+      "end_timestamp": "00:11:31",
+      "start_seconds": 576,
+      "end_seconds": 691,
+      "duration_seconds": 115,
+      "timestamp_url": "?t=576",
+      "title": "Zonas de velocidad GPS y el uso de datos del Mundial para motivar",
+      "summary": "Se clasifican los datos de carrera en cinco zonas. Las Zonas 1 a 3 reflejan volumen aeróbico de baja intensidad, mientras que las Zonas 4 y 5 representan alta intensidad y sprint. El equipo técnico utiliza los datos GPS del Mundial Femenino Sub-23 de 2023 como benchmark motivacional, mostrándole a la jugadora lo que necesita correr para alcanzar la élite internacional.",
+      "literal_quote": "¿Tú quieres llegar a competir a nivel internacional, quieres ir a una Copa del Mundo? Los datos de una Copa del Mundo en tu perfil son estos y tus datos son estos. No estás llegando, tienes que llegar.",
+      "full_transcript": "Por último, datos GPS. Veníamos haciendo 19,8 de high intensity running, 21 de sprint, estas temporadas atrás, pero este año nos hemos focalizado en igualarlo con la distancia que propone FIFA. Tenemos cinco zonas de velocidad, cinco zonas de entrenamiento de carrera, en las que, por perfil de jugadora, tendremos que intentar elevar más distancia en una zona o elevar más distancia en otra zona. Aquí tenemos en el Mundial sub23 femenino de 2023, que es el último mundial, cuánto corrían los equipos en función de primera y segunda parte, metro minuto, distancia total. Hay datos chulos en esta presentación y si os interesa el fútbol femenino y queréis ver a cuánto está el nivel internacional, que es algo que nosotros también utilizamos mucho con la jugadora: 'Oye, ¿tú quieres llegar a competir a nivel internacional, quieres ir a una Copa del Mundo? Los datos de una Copa del Mundo en tu perfil son estos y tus datos son estos. No estás llegando, tienes que llegar'. Y por ahí también a la jugadora le podemos meter un estímulo extra. Mapa de demanda de cada zona. Zona uno, zona dos, zona tres, nos vamos más a volumen de desplazamiento. No hay intensidades altas. Caminar, trote o una carrera a una intensidad bastante baja. Sobre todo entraría más el sistema oxidativo y la capacidad aeróbica... y en otros perfiles, como las jugadas exteriores, por ejemplo, que es mucho más importante la zona cuatro y la zona cinco. Carrera rápida, sprint, capacidad anaeróbica, velocidad, máxima presión neuromuscular.",
+      "keywords": [
+        "zonas-gps",
+        "mundial-femenino",
+        "fifa",
+        "high-intensity-running",
+        "sprint",
+        "benchmark"
+      ],
+      "entities": [
+        "FIFA",
+        "Copa del Mundo",
+        "Mundial sub23 femenino 2023"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Análisis",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cómo se utilizan los datos GPS internacionales para motivar a las futbolistas?",
+        "¿Qué miden las cinco zonas de velocidad en el GPS de un futbolista?"
+      ],
+      "related_terms": [
+        "GPS",
+        "Zonas",
+        "Mundial",
+        "FIFA",
+        "alta intensidad",
+        "internacional"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del Test VAM para entrenamientos fuera de la dinámica grupal.",
+      "context_after": "Se detalla en profundidad cuánto corren en estas zonas las diferentes posiciones (mediocentros, exteriores, delanteras, defensas)."
+    },
+    {
+      "id": "V06-005",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:11:31",
+      "end_timestamp": "00:14:06",
+      "start_seconds": 691,
+      "end_seconds": 846,
+      "duration_seconds": 155,
+      "timestamp_url": "?t=691",
+      "title": "Análisis de las demandas físicas según el perfil posicional",
+      "summary": "Analizando datos de la Copa del Mundo, se definen los perfiles posicionales. Las mediocentros lideran en volumen total (motor aeróbico alto). Las jugadoras exteriores y delanteras requieren mayor HSR (Zonas 4 y 5) y capacidad acelerativa. Por el contrario, las defensas tienen menor volumen absoluto, pero su desgaste reactivo depende fuertemente de la exigencia del ataque rival.",
+      "literal_quote": "Los jugadores exteriores realizaron entre un 42 y un 69 % más de distancia de alta intensidad de high intensity running que los centrales y centrocampistas.",
+      "full_transcript": "Si nos vamos a eso que estaba comentando. Perfil posicional específico, con datos de la Copa del Mundo... Mediocentros. Si tú eres mediocentro, ¿qué te interesa potenciar más? Se sabe que la demanda de partido va a ser, en distancia total, un volumen muy alto y la intensidad va a ser relativamente moderada. Hay que tener un motor aeróbico alto y capacidad para repetir esfuerzos. Los medios fueron las que más distancia recorrieron en esa Copa del Mundo por partido. A nivel de jugadoras exteriores, podemos meter ahí carriles, extremos, laterales... Un menor volumen de zonas dos, tres, respecto al mediocentro, pero un mayor volumen en zona cuatro, zona cinco, y mayor demanda de aceleración, desaceleración... Aquí podemos ver que los jugadores exteriores realizaron entre un 42 y un 69 % más de distancia de alta intensidad de high intensity running que los centrales y centrocampistas... Delanteros, alta posición zona cuatro, zona cinco, igual, velocidad, aceleración, capacidad para repetir en marcas en apoyo y ruptura. Y son las que más distancia cubrieron por encima de 23 kilómetros por hora. Ese dato es muy importante para las delanteras y también, por contra, para la defensa, porque cuando tengamos delanteras que nos exigen tanto, la defensa tiene que ser capaz de llegar... Y respecto a defensa, para acabar, menor volumen y menor exposición a zona cinco, pero es verdad que con ace dijo, porque su demanda responde siempre a la exigencia que tenga delante. Si el partido está controlado... la jugadora va a estar en una zona cómoda. Pero si nos están exigiendo mucho... sí que tienen que estar respondiendo a las exigencias del equipo rival.",
+      "keywords": [
+        "perfil-posicional",
+        "mediocentros",
+        "jugadoras-exteriores",
+        "delanteras",
+        "defensas",
+        "high-intensity-running",
+        "volumen-total"
+      ],
+      "entities": [
+        "Copa del Mundo"
+      ],
+      "topics": [
+        "Análisis de Datos",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las demandas físicas de una mediocentro en el fútbol femenino?",
+        "¿Qué posición realiza más High Speed Running (HSR) durante un partido?"
+      ],
+      "related_terms": [
+        "posicional",
+        "mediocentro",
+        "exteriores",
+        "delanteras",
+        "defensa",
+        "volumen",
+        "alta intensidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las zonas de velocidad 1 a 5 y su interpretación energética.",
+      "context_after": "Se presenta el caso real de una mediocentro y se analizan sus métricas comparadas con la élite."
+    },
+    {
+      "id": "V06-006",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:14:06",
+      "end_timestamp": "00:17:33",
+      "start_seconds": 846,
+      "end_seconds": 1053,
+      "duration_seconds": 207,
+      "timestamp_url": "?t=846",
+      "title": "Microdosis para cerrar la brecha entre el perfil actual y el élite",
+      "summary": "Se expone el caso de una mediocentro. Aunque su distancia total es muy buena, debe aumentar unos 100m de HSR y 120m de sprint para ser nivel internacional ('perfil requerido'). Se le programa una microdosis condicional post-entrenamiento en el MD-3 si la sesión colectiva no cumple los valores objetivo. Es vital informarle con antelación para que entienda el beneficio y no lo vea como un castigo.",
+      "literal_quote": "Si se lo marcamos, la jugadora ya lo tiene en la cabeza, le marcamos una exigencia alta... Acaba el entrenamiento, no es un castigo, porque tú ya previamente la has avisado y la jugadora lo va a tolerar bien.",
+      "full_transcript": "Estos dos gráficos se los mandábamos a cada jugadora a final de año para ver su perfil condicional... y cuál es el perfil deseado para que siga elevando su rendimiento. En este caso, una jugadora mediocentro, con una distancia total bastante buena... y un volumen de high intensity running aceptable, pero que se puede subir para ser una jugadora top y para llegar a ese nivel internacional... Tenemos perfil actual versus perfil requerido, que es el perfil al que queremos optimizar la jugadora para que sea top mundial, vaya a la selección o firme un contrato de mucho más dinero... Nos centramos en que los datos de referencia nos indican que a nivel de zona cuatro, zona cinco, está en 4,50 de high intensity running y en 160 de sprint, y que lo ideal es que no que lo duplique, pero sí que suba 100 metros más o menos de cada variable, o 120 en este caso de sprint. ¿Cómo puede llegar a eso si entrenando la exigencia no se lo demanda? Tenemos que meterle un estímulo específico. Igualmente, su distancia total es muy buena, su aceleración es alta, pero puede ser más alta... Hay que identificar cuál es el eslabón más débil de la cadena para poder mejorar... ¿Cuándo introducir esa microdosis de mejora individual? En este caso, esa microdosis de high intensity running y sprint yo la metería post entrenamiento en el menos tres. En caso de que nosotros estamos valorando el entrenamiento... y ese día ha sido un entrenamiento de mucho volumen... y estamos en valores por encima de su valor de partido, no le meteríamos esa microdosis... Nuestra experiencia es que a la jugadora le gusta. No le gusta que le digas directamente post entrenamiento: 'Oye, te toca esto hoy'. Es mejor dárselo todo programado... Si se lo marcamos, la jugadora ya lo tiene en la cabeza, le marcamos una exigencia alta y ahí vamos. Acaba el entrenamiento, no es un castigo, porque tú ya previamente la has avisado que tiene ese aspecto de mejora y la jugadora lo va a tolerar bien.",
+      "keywords": [
+        "microdosis",
+        "perfil-requerido",
+        "high-intensity-running",
+        "sprint",
+        "match-day-3",
+        "comunicacion",
+        "adherencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo se planifica una microdosis condicional post-entrenamiento en base a datos GPS?",
+        "¿Por qué es importante comunicar con antelación el trabajo físico extra a una futbolista?"
+      ],
+      "related_terms": [
+        "microdosis",
+        "perfil",
+        "HSR",
+        "sprint",
+        "MD-3",
+        "castigo",
+        "top mundial"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las métricas por posición extraídas del GPS.",
+      "context_after": "Se resume el flujo completo del modelo de optimización y se dan las conclusiones y despedida del curso."
+    },
+    {
+      "id": "V06-007",
+      "video_title": "La optimización individual: sistemas energéticos y perfil GPS",
+      "speaker": "Manuel",
+      "start_timestamp": "00:17:33",
+      "end_timestamp": "00:21:46",
+      "start_seconds": 1053,
+      "end_seconds": 1306,
+      "duration_seconds": 253,
+      "timestamp_url": "?t=1053",
+      "title": "Conclusión: El flujo de trabajo del modelo de optimización individual",
+      "summary": "El modelo de optimización no se aplica a toda la plantilla por igual, sino a jugadoras con déficit de rendimiento o a quienes lo demandan voluntariamente, ya que requiere gran dedicación del staff. El flujo cruza el perfil GPS competitivo, posicional e individual, identifica déficits y prescribe microdosis (dosis, volumen, densidad) con transferencia positiva al modelo de juego.",
+      "literal_quote": "Este microciclo individual no es para todas las jugadoras, sino para las que lo requieren porque están en un bajo rendimiento o para las que lo piden porque quieren seguir subiendo ese nivel.",
+      "full_transcript": "Por definir un poco este microciclo individual... El protocolo individual de adaptación lo reciben todas las jugadoras, pero los protocolos optimizadores... solo lo reciben las que nosotros consideramos que deben subir el nivel o las que ellas mismas nos dicen: 'Oye, quiero este plan'. Pero si no... estoy compitiendo bien, recupero bien, perfecto. No hay esa individualización. Solo en lo básico... porque tú estás rindiendo en tu mejor nivel y las edades de campo te tienen que llevar a mejorar. Entonces, también eso hay que tener claro, que este microciclo individual no es para todas las jugadoras, sino para las que lo requieren porque están en un bajo rendimiento o para las que lo piden porque quieren seguir subiendo ese nivel... Para construir todo el modelo de optimización individual... Partimos de un perfil como motor competitivo con datos GPS. Nos vamos a un perfil posicional, que ya sí que está influenciado por el modelo de juego. Nos vamos a un perfil de rendimiento individual... Identificamos déficit con todos los test que hemos valorado, con analistas, déficit de juego, déficit neuromuscular, déficit de resistencia... Hacemos un cruce de datos de esas tres: capacidad, habilidad, vía... Establecemos un método de entrenamiento que sea una buena dosis, densidad, volumen, intensidad, distribución dentro del microciclo... y vemos que eso tenga una transferencia positiva al modelo de juego. Esa sería la clave de toda la optimización individual... Requiere tiempo, requiere dedicación, requiere ilusión, si no, con 24 jugadoras es muy complicado... al final llegar a 24 jugadoras de esta manera es muy exigente. Nosotros estamos llevando ahora ocho, 10, 12 jugadoras... Nada más. Muchísimas gracias a todos por vuestro tiempo... Es un placer compartir conocimiento en este curso de tanto prestigio y estamos aquí para cualquier necesidad que tengáis.",
+      "keywords": [
+        "flujo-trabajo",
+        "modelo-optimizacion",
+        "microciclo-individual",
+        "recursos-staff",
+        "transferencia",
+        "cruce-datos"
+      ],
+      "entities": [
+        "Atlético de Madrid femenino"
+      ],
+      "topics": [
+        "Metodología",
+        "Staff Management",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el plan optimizador individual no se aplica a toda la plantilla de un equipo?",
+        "¿Cuáles son los pasos del modelo de optimización condicional de Manuel y Toni?"
+      ],
+      "related_terms": [
+        "microciclo",
+        "optimización",
+        "individual",
+        "rendimiento",
+        "staff",
+        "déficit",
+        "transferencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo planificar una microdosis condicional post-entrenamiento sin causar rechazo en la jugadora.",
+      "context_after": "Fin de la presentación."
+    }
+  ]
+}

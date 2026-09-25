@@ -1,0 +1,486 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+    "speaker": "Antonio Miranda",
+    "total_duration": "00:30:09",
+    "total_duration_seconds": 1809,
+    "source_file": "WEBVTT-1B",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:02:23",
+      "end_timestamp": "00:04:16",
+      "start_seconds": 143,
+      "end_seconds": 256,
+      "duration_seconds": 113,
+      "timestamp_url": "?t=143",
+      "title": "El ecosistema del rendimiento y la jugadora como ejecutora del modelo",
+      "summary": "Antonio destaca que, aunque el modelo de juego define las intenciones del equipo, es la futbolista quien debe interpretarlo y ejecutarlo, siendo su rendimiento individual una pieza esencial. Presenta el ecosistema que rodea a la jugadora (preparación física, servicios médicos, cuerpo técnico, etc.) para su desarrollo integral.",
+      "literal_quote": "El modelo puede ser excelente en el papel, pero necesita jugadoras capaces de interpretarlo y ejecutarlo. Ahí es donde entramos nosotros con estas optimizaciones individuales.",
+      "full_transcript": "En esta introducción quiero hablaros de que el modelo define sobre todo las cosas: lo que quiere hacer el equipo, cómo quiere hacerlo y los comportamientos que necesita repetir. La futbolista es quien finalmente ejecuta ese modelo. El rendimiento individual es una pieza esencial. El modelo puede ser excelente en el papel, pero necesita jugadoras capaces de interpretarlo y ejecutarlo. Ahí es donde entramos nosotros con estas optimizaciones individuales. Hay algo importante para el rendimiento colectivo, que es el modelo de juego, que nos marca esos comportamientos colectivos y empieza a nacer esa optimización individual, las demandas individuales de la jugadora en campo... Esta es la optimización individual de la que nosotros podemos dar. Es nuestro ecosistema: física, condicional, técnica, táctica, cognitiva y emocional. Aquí veis los roles que van rodeando a la jugadora: el desarrollo condicional, servicios médicos... el departamento de utillería, analistas, entrenador, asistentes. También en ese ecosistema entran el 'team manager' y el 'player'... Yendo a lo que nos compete para el desarrollo condicional, nosotros, el departamento de performance, lo componemos Manu... Yo, como 'strength and conditioning coach', tengo un rol más de entrenamiento de fuerza, recuperación y estrategias de recuperación y control de carga.",
+      "keywords": [
+        "ecosistema",
+        "rendimiento-individual",
+        "modelo-de-juego",
+        "multidisciplinar",
+        "optimizacion-condicional"
+      ],
+      "entities": [
+        "Atlético de Madrid",
+        "Manu"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el rol de la jugadora dentro del modelo de juego?",
+        "¿Cómo se organiza el ecosistema de alto rendimiento alrededor de la futbolista?"
+      ],
+      "related_terms": [
+        "modelo",
+        "juego",
+        "jugadora",
+        "ecosistema",
+        "rendimiento",
+        "individual"
+      ],
+      "relevance_score": 4,
+      "context_before": "Antonio Miranda se presenta, detalla su experiencia académica y su trayectoria en clubes como el Atlético de Madrid y el Athletic de Bilbao.",
+      "context_after": "Se introducen los tres objetivos principales del departamento condicional: disponibilidad, rendimiento y recuperación."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:04:22",
+      "end_timestamp": "00:05:30",
+      "start_seconds": 262,
+      "end_seconds": 330,
+      "duration_seconds": 68,
+      "timestamp_url": "?t=262",
+      "title": "Los tres objetivos de la optimización condicional",
+      "summary": "Se definen los tres pilares del área condicional: garantizar la disponibilidad de la jugadora (salud para entrenar y competir), mejorar su rendimiento (propiedades atléticas) y optimizar la recuperación para poder estresar más al cuerpo de forma segura.",
+      "literal_quote": "Disponibilidad para que la jugadora entrene y compita, aumentar ese rendimiento para que sea mejor y tener una recuperación que le permita estresar mucho más al cuerpo.",
+      "full_transcript": "Os quiero hablar de la optimización condicional y estos tres objetivos que podemos tener. El principal trabajo que tenemos nosotros es la disponibilidad. Buscamos la salud de la jugadora, que participe en el mayor número de sesiones posibles y que pueda ser convocable en el mayor número de partidos. Una jugadora con disponibilidad es una jugadora que puede entrenar, que puede aportar tanto en competición como en los entrenamientos a nivel de rendimiento. Una vez que tenemos esa disponibilidad de la jugadora, vamos a ir encaminándonos hacia su rendimiento: mejorar su perfil de rendimiento, aumentar sus propiedades como atleta, fuerza, sistemas energéticos, habilidad de movimiento. Es muy importante que también entre en ese tercer objetivo la recuperación: educar en el entrenamiento invisible, elegir las estrategias de recuperación óptimas para cada contexto, incluso individualizar las estrategias de recuperación. Por eso tenemos que tener bien controlados y bien establecidos nuestros objetivos. Disponibilidad para que la jugadora entrene y compita, aumentar ese rendimiento para que sea mejor y tener una recuperación que le permita estresar mucho más al cuerpo y dar un pasito más en ese rendimiento y, por supuesto, aumentar esa disponibilidad.",
+      "keywords": [
+        "disponibilidad",
+        "rendimiento",
+        "recuperacion",
+        "optimizacion-condicional",
+        "salud"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres objetivos de la preparación física en el fútbol femenino?",
+        "¿Por qué la recuperación es clave para mejorar el rendimiento?"
+      ],
+      "related_terms": [
+        "disponibilidad",
+        "rendimiento",
+        "recuperación",
+        "salud",
+        "entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describe el ecosistema multidisciplinar y el rol del staff alrededor del rendimiento de la jugadora.",
+      "context_after": "Se presenta el plan preventivo y se introduce el concepto de 'entrenamiento invisible' y la necesidad de educar a las jugadoras."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:07:41",
+      "start_seconds": 333,
+      "end_seconds": 461,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=333",
+      "title": "El plan preventivo y la responsabilidad en el entrenamiento invisible",
+      "summary": "Se abordan los planes preventivos (activación, recuperación, nutrición) recordando que prevenir lesiones radica en ser más fuerte y resistente. Se enfatiza el 'entrenamiento invisible', educando a la jugadora para que sea responsable durante las 20 horas diarias en las que el cuerpo técnico no puede controlarla.",
+      "literal_quote": "Tenemos 20 horas que no controlamos, que no la vemos... Aquí es donde quiero entrar, donde quiero que la jugadora sea responsable de su rendimiento y que en ello entra este entrenamiento que llamamos invisible.",
+      "full_transcript": "¿Cómo lograr esa optimización? Tenemos dos planes: un plan preventivo y un plan optimizador. Ahora nos vamos a centrar en el plan preventivo. Reducir el riesgo de incidencia lesional, mejorar la disponibilidad y la sensación. Esto consta de un protocolo individual de activación... un protocolo individual de recuperación... y el protocolo individual de nutrición... En este plan preventivo, no nos gusta nunca llamarlo prevenir, creemos que no tiene nada de prevención o creemos que nada te previene de la lesión, ya que es multifactorial, pero sí que nuestro objetivo para esa reducción de lesiones o de incidencia lesionales es ser más fuerte y ser más resistente. Entrenar fuerza con la máxima intención, repetir fuerza a la máxima intensidad y en ese protocolo individual de recuperación... Estrategias de recuperación. Ese entrenamiento que hablamos, invisible, que nadie ve. Nosotros a la jugadora la podemos estar estimulando, entrenando, estresando, como lo queráis llamar, durante dos horas, tres horas, máximo cuatro horas al día... Pero luego tenemos 20 horas que no controlamos, que no la vemos, que no podemos estar pendientes o encima de ella. Aquí es donde quiero entrar, donde quiero que la jugadora sea responsable de su rendimiento y que en ello entra este entrenamiento que llamamos invisible. Importante: educar. Siempre decimos educar, que la jugadora sepa qué hacer con lo que tiene, cómo lo hace y cuándo lo hace.",
+      "keywords": [
+        "plan-preventivo",
+        "entrenamiento-invisible",
+        "responsabilidad",
+        "fuerza",
+        "educacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué es el entrenamiento invisible en el fútbol?",
+        "¿Cómo se puede realmente reducir el riesgo de lesiones según el staff del Atlético de Madrid?"
+      ],
+      "related_terms": [
+        "preventivo",
+        "entrenamiento",
+        "invisible",
+        "responsabilidad",
+        "educación",
+        "lesión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición de los tres objetivos condicionales (disponibilidad, rendimiento, recuperación).",
+      "context_after": "Explicación de la pirámide de recuperación de Shona Halson y las estrategias con mayor o menor evidencia científica."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:08:13",
+      "end_timestamp": "00:10:49",
+      "start_seconds": 493,
+      "end_seconds": 649,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=493",
+      "title": "La pirámide de recuperación de Shona Halson y el nivel de evidencia",
+      "summary": "Se presenta la pirámide de recuperación. El sueño, la reducción del estrés, la nutrición y la hidratación conforman la base obligatoria innegociable. Por encima se ubican métodos con evidencia comprobada (agua fría/caliente) y en la cúspide aquellos con menor respaldo (crioterapia, luces rojas), cuyo uso debe priorizarse lógicamente.",
+      "literal_quote": "Puedo usar mil luces rojas, meterme en agua fría, ir a la sauna... pero si no tengo un sueño de calidad ni una buena alimentación e hidratación, no estamos haciendo nada bien.",
+      "full_transcript": "Sona Halsson nos cuenta en esta pirámide, que fue diseñada por John Lemore... la importancia de lo que debo hacer obligatorio, desde más abajo, hacia lo que menor evidencia tiene o el mínimo efecto, que es lo que estaría arriba. Eso no quiere decir que lo que hay más arriba no lo hagamos, sino que conozcamos bien esa pirámide para saber los obligatorios que tienen que hacer nuestras jugadoras. ¿Y eso qué es? Dormir. Dormir y relajarse. Hay que intentar tener unas horas de sueño idóneas, con calidad y con el menor estrés posible... El siguiente paso sería nutrición e hidratación. La nutrición, la hidratación y la reducción del estrés son la base de una buena recuperación. Puedo usar mil luces rojas, meterme en agua fría, ir a la sauna y tener miles de estrategias de recuperación, pero si no tengo un sueño de calidad ni una buena alimentación e hidratación, no estamos haciendo nada bien. Tenemos que educar y enseñar que la base de todo es dormir, tener el menor estrés posible, comer bien e hidratarse. A partir de ahí, ¿qué nos dice la ciencia? Las inmersiones en agua fría o caliente y los contrastes son lo que la ciencia más ha estudiado y tiene buena evidencia... Las prendas de compresión, la recuperación activa y los estiramientos tienen menor evidencia... Los masajes, los tratamientos y la fisioterapia están un poco más arriba en la pirámide. ¿No tenemos que hacerlo? Sí, tenemos que seguir haciéndolo, pero con cabeza. Lo que tiene menor evidencia son las cabinas de crioterapia, la electroestimulación, las vibraciones y, sobre todo, las nuevas modas. Esto no quiere decir que cuanto más subimos en la pirámide, menos tenemos que hacer. Nosotros lo puntuamos y decimos: si duermo ocho horas, a lo mejor no tengo que tratarme 20 minutos o no tengo que ponerme en la plataforma de vibración 10 minutos. Vamos puntuando. Los obligatorios hay que hacerlos sí o sí.",
+      "keywords": [
+        "piramide-recuperacion",
+        "sueno",
+        "evidencia-cientifica",
+        "nutricion",
+        "shona-halson"
+      ],
+      "entities": [
+        "Shona Halson",
+        "John Leeder"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las bases fundamentales de la pirámide de recuperación?",
+        "¿Qué métodos de recuperación tienen menor evidencia científica?"
+      ],
+      "related_terms": [
+        "recuperación",
+        "pirámide",
+        "sueño",
+        "evidencia",
+        "ciencia",
+        "obligatorios"
+      ],
+      "relevance_score": 5,
+      "context_before": "El ponente insta a educar a las jugadoras sobre su responsabilidad en las 20 horas de entrenamiento invisible.",
+      "context_after": "Se explica cómo gestionar estas estrategias de recuperación según el tiempo transcurrido desde el esfuerzo (timeline)."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:10:51",
+      "end_timestamp": "00:12:47",
+      "start_seconds": 651,
+      "end_seconds": 767,
+      "duration_seconds": 116,
+      "timestamp_url": "?t=651",
+      "title": "Timeline de recuperación post-carga y protocolos inmediatos",
+      "summary": "Es vital gestionar los métodos de recuperación según la ventana de tiempo (inmediato, 24h, 48h o 72h post-partido). Lo urgente al finalizar es hidratar, comer y descansar; el resto de estrategias (agua fría, compresión, bici) deben programarse adecuadamente sin caer en errores como usar electroestimulación al terminar.",
+      "literal_quote": "Es muy importante también saber qué hacer inmediatamente después del partido: tomar el batido, ir a comer, descansar, no salir, no beber alcohol.",
+      "full_transcript": "Importante también en este entrenamiento que llamamos invisible es conocer el 'timeline'. Termino un entrenamiento de carga o un partido y necesito saber qué debo empezar a hacer y cómo gestionar las estrategias de recuperación desde el instante en que termino la carga: 24 horas post, 48 o 76. A lo mejor lo que puedo hacer cuando termino una carga de entrenamiento alta o un partido no es lo mismo que lo que tengo que hacer 76 horas postexposición o a las 48 horas. Lorena Torres, que es otra profesional que ha trabajado mucho tiempo en la NBA y también en la selección española de baloncesto, nos trae este 'timeline', que creo que es muy importante. Termina el partido: hidratar, suplementar, comer y descansar. Los obligatorios. A partir de ahí, ¿qué puedo hacer? Medias de compresión si viajo, meterme en agua fría, hacer contrastes más adelante, estiramientos y recuperación activa, tratamiento, y luego luces rojas, electroestimulación, compresión neumática, descanso, estrés. Todo eso. Es muy importante también saber qué hacer inmediatamente después del partido: tomar el batido, ir a comer, descansar, no salir, no beber alcohol, no beber vino. Vengo de una sesión deportiva: ¿qué puedo hacer? Baño de agua fría, contrastes, tratarme, hacer estiramientos y una recuperación activa. Es importante que la jugadora lo conozca. Termina el partido: ¿qué hago? Me voy a poner electroestimulación. No, eso no es lo ideal. Lo ideal es hacer unos minutos de bici, meterse en agua fría, si tengo alguna molestia importante, un tratamiento, no olvidarme de comer, hidratarme y descansar.",
+      "keywords": [
+        "timeline-recuperacion",
+        "post-partido",
+        "hidratacion",
+        "descanso",
+        "ventana-tiempo"
+      ],
+      "entities": [
+        "Lorena Torres",
+        "NBA",
+        "Selección Española de Baloncesto"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué se debe hacer inmediatamente después de un partido para recuperar bien?",
+        "¿Cómo se distribuyen temporalmente las estrategias de recuperación deportiva?"
+      ],
+      "related_terms": [
+        "timeline",
+        "recuperación",
+        "post",
+        "hidratar",
+        "descansar",
+        "partido"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis de la pirámide de recuperación y de lo que cuenta con mayor o menor evidencia científica.",
+      "context_after": "Se reflexiona sobre el coste económico frente al beneficio real de los distintos métodos para educar a la jugadora."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:12:47",
+      "end_timestamp": "00:15:23",
+      "start_seconds": 767,
+      "end_seconds": 923,
+      "duration_seconds": 156,
+      "timestamp_url": "?t=767",
+      "title": "Análisis coste-beneficio y disponibilidad de recursos",
+      "summary": "Se educa a la jugadora para valorar la rentabilidad de cada método. Elementos baratos como el sueño o días libres generan máximos beneficios; no se necesita gastar dinero en modas innecesarias o incómodas. Se insta a adaptar las estrategias a los recursos reales y a las sensaciones individuales.",
+      "literal_quote": "Encontrar esos beneficios que, como vemos siempre, la calidad de nutrición, la hidratación, el descanso, incluso tener días libres, se muestran que son de bajo coste y muy alto beneficio.",
+      "full_transcript": "Importante también para educar a la jugadora es el coste-beneficio de los diferentes métodos de recuperación. Encontrar dentro de nuestra disponibilidad y los recursos que tengamos qué podemos o no hacer y qué aprecio para una mayor o peor recuperación. Peter Attia, un 'sport science' con muchas infografías, tiene esta que me encanta: cuáles son los mejores o peores beneficios y a cuánto ascienden. También vivimos en un mundo de marcas, de publicidad. Si a mí me regalan como jugadora profesional ciertas estrategias o cierto material, saber qué me va bien. Y si no lo necesito, pero una compañera lo tiene, a lo mejor no me lo tengo que comprar, porque es muy caro para lo que me va a dar. Encontrar esos beneficios que, como vemos siempre, la calidad de nutrición, la hidratación, el descanso, incluso tener días libres, se muestran que son de bajo coste y muy alto beneficio. Volvemos a la pirámide. Los obligatorios no me van a costar mucho dinero. A partir de ahí, también importan mucho las sensaciones, y aquí entran las individualidades de cada uno. ¿Puedo comprarme un colchón más especial, almohadas especiales? ¿Puedo pasar tiempo en la naturaleza? ¿Me gusta meditar o no? Las medidas de compresión... suplementación... inmersiones de agua fría. Tengo problemas articulares, me duele meterme o exponerme a esas posiciones de frío. Vamos a individualizar. Sobre todo quiero que se den cuenta de las cosas que no les vienen bien, de las cosas que les hacen daño, aunque sean baratas... Es importante también conocer los recursos que tenemos. Yo te puedo estar hablando de que podemos hacer baños de inmersión en agua fría, pero a lo mejor alguien con menos recursos no puede, no debe o no tiene cómo hacerlo. Esa recuperación activa: no tengo bicis en el gimnasio, tengo que salir a correr y el impacto no me va a venir bien. Oclusión, medias compresivas, etcétera. Entonces, encontrar los recursos.",
+      "keywords": [
+        "coste-beneficio",
+        "recursos",
+        "individualizacion",
+        "sensaciones",
+        "peter-attia"
+      ],
+      "entities": [
+        "Peter Attia"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Decisión"
+      ],
+      "search_questions": [
+        "¿Cómo influye el coste-beneficio en la elección de métodos de recuperación?",
+        "¿Por qué es importante considerar los recursos disponibles en la recuperación?"
+      ],
+      "related_terms": [
+        "coste",
+        "beneficio",
+        "recursos",
+        "individualizar",
+        "sensaciones",
+        "marcas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Exposición sobre el orden temporal correcto (timeline) para aplicar métodos tras finalizar un partido.",
+      "context_after": "Descripción específica de protocolos prácticos, comenzando por el ejercicio aeróbico de baja intensidad y la liberación miofascial."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:15:23",
+      "end_timestamp": "00:18:13",
+      "start_seconds": 923,
+      "end_seconds": 1093,
+      "duration_seconds": 170,
+      "timestamp_url": "?t=923",
+      "title": "Estrategias de recuperación activa y liberación miofascial",
+      "summary": "Para la recuperación activa, recomiendan ejercicio aeróbico en Zona 2 (12-18 minutos en bici, 115-125 ppm, 80-90 rpm) para aumentar flujo sanguíneo y aclarar lactato. La liberación miofascial (foam roller) y el estiramiento pasivo deben aplicarse buscando sensaciones relajantes, pasadas lentas y nunca dolor.",
+      "literal_quote": "Si hemos tenido una carga muy alta donde el músculo al final, por ese estrés, tiene pequeños daños... no necesito una sensación de estiramiento que me vaya a romper, una sensación de dolor. Necesito una sensación de soltar, una sensación agradable.",
+      "full_transcript": "Importante: ejercicio aeróbico, ejercicio de baja intensidad, esa recuperación activa de la que podemos hablar. Nosotros hablamos de entre 12 y 18 minutos de un ejercicio de intensidad baja, de zona dos, un ejercicio aeróbico. Estipulamos de rangos generales 115 pulsaciones por minuto, 120, 125, depende. También muy individualizado. La jugadora se lo controla bastante. Nosotros con la banda de frecuencia cardíaca podemos darle ese extra de monitorización mientras van haciendo el trabajo aeróbico. En nuestras bicis hemos detectado que entre 80 y 90 revoluciones por minuto son lo que en bici me lleva o me acerca a esa zona dos. El objetivo que tenemos es aumentar ese flujo sanguíneo, el aumento de nutrientes en zonas musculares dañadas y esa sensación de ligereza y soltura. Sobre todo en el más uno, después del partido. Eso ayuda a aclarar lactato... intentar que la sangre llegue a esos tejidos, que lleguen nutrientes, que no se pare de golpe y ayuda a no estar tan cargada. Liberación y estiramiento. Quizá tenga una menor evidencia, pero con nuestros recursos también le tenemos que sacar partido. Esa liberación miofascial con foam roller. Siempre decimos que para relajar, para una estrategia de recuperación, necesitamos esas pasadas con una presión un poco más fuerte, pero que sean lentas. El estiramiento pasivo, que tiene menor evidencia, también va mucho por sensaciones. La jugadora que necesita, que tiene que rebajar ese 'stretching' para soltar después de una carga... Deben estar relajadas, con respiraciones profundas, progresando en tensiones, y necesito que no sea dolor. Si hemos tenido una carga muy alta donde el músculo al final, por ese estrés, tiene pequeños daños, pequeñas roturas, no necesito una sensación de estiramiento que me vaya a romper, una sensación de dolor. Necesito una sensación de soltar, una sensación agradable. Es importante también que la jugadora se vaya conociendo en esto. Si yo estoy estirando después de un partido, el partido ha ido mal, he hecho un mal partido y encima estoy discutiendo del partido, no estoy relajada.",
+      "keywords": [
+        "recuperacion-activa",
+        "zona-2",
+        "foam-roller",
+        "estiramiento-pasivo",
+        "flujo-sanguineo"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Cuáles son los rangos óptimos para hacer recuperación activa en bicicleta?",
+        "¿Cómo deben realizarse los estiramientos y liberación miofascial post-partido?"
+      ],
+      "related_terms": [
+        "activa",
+        "bici",
+        "ppm",
+        "estiramiento",
+        "liberación",
+        "lactato"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre recursos reales y el balance coste/beneficio del entrenamiento invisible.",
+      "context_after": "Introducción a los protocolos de inmersión en agua (fría y caliente) y sus tiempos de uso durante la semana."
+    },
+    {
+      "id": "V03-008",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:18:15",
+      "end_timestamp": "00:20:37",
+      "start_seconds": 1095,
+      "end_seconds": 1237,
+      "duration_seconds": 142,
+      "timestamp_url": "?t=1095",
+      "title": "Inmersiones en agua fría, caliente y baños de contraste",
+      "summary": "El club emplea inmersión en agua fría para reducir inflamación en los días post-partido (MD+1), pero nunca en vísperas (MD-1) ni en días orientados a lograr adaptaciones musculares de fuerza. Los contrastes estimulan endorfinas y el calor ayuda a relajar y favorece el sueño en días alejados de la alta intensidad (MD-2 o MD+2).",
+      "literal_quote": "Si quiero que se metan en agua fría, el objetivo es que mejoren los dolores... Nunca lo hacemos en el menos uno. Y tampoco lo hacemos en días que necesitamos [adaptaciones] musculares porque hemos hecho un trabajo de fuerza.",
+      "full_transcript": "Perdón por el título, no es liberación y estiramientos, sino inmersiones en agua. Nosotros tenemos dos piscinas, que son las de la foto, donde tenemos agua fría y agua caliente. Podemos regular las temperaturas. Depende del día ponemos las dos frías, depende del día ponemos las dos calientes, pero de normal hay una fría y otra caliente. ¿Cómo intentamos que se metan en el agua? Si quiero que se metan en agua fría, el objetivo es que mejoren los dolores, las agujetas, mejorar el sistema inmune, mejorar la sensación de fatiga general. Y sí que lo hacemos en el día de partido, en el más uno. Nunca lo hacemos en el menos uno. Y tampoco lo hacemos en días que necesitamos musculares porque hemos hecho un trabajo de fuerza. Eso también es importante que la jugadora lo sepa. Días más centrales de la semana donde queremos esas adaptaciones... somos nosotros que tenemos que entrenarlas para decirles: 'Oye, aquí no es bueno que te metas en agua fría'. Si hace contrastes, mejora el flujo sanguíneo, la sensación de dolor local. Tiene una mayor evidencia en el flujo de la liberación de endorfinas... hace que la recuperación también se acelere. Sí que lo hacemos en el más uno, en el más dos, y hay veces que... lo metemos en el menos uno, pero siempre decimos que terminen con calor. Es muy recomendable en densidad competitiva... De normal, en semanas normales, no lo hacemos en menos uno. Si tengo hipersensibilidad, no es muy recomendable, al igual que el agua fría. Si tengo molestias articulares, he sufrido fracturas y tengo esa hipersensibilidad en la zona... son cosas que podemos adaptar. El calor también es cierto que tiene menor evidencia de momento, pero las evidencias... nos hablan de mejorar la sensación de estrés, ayuda a dormir mejor, relaja más al cuerpo. Lo hacemos en el más dos y en el menos dos, y nunca en el menos uno.",
+      "keywords": [
+        "agua-fria",
+        "baños-de-contraste",
+        "agua-caliente",
+        "microciclo",
+        "inflamacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuándo se recomienda evitar los baños de agua fría en el fútbol?",
+        "¿Qué beneficios aportan los baños de contraste para el futbolista?"
+      ],
+      "related_terms": [
+        "inmersiones",
+        "fría",
+        "caliente",
+        "contrastes",
+        "adaptaciones",
+        "microciclo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Revisión de recuperación activa en bicicleta y el uso prudente del foam roller o estiramientos.",
+      "context_after": "Se detallan otras estrategias como las prendas de compresión para viajes y el entrenamiento con oclusión (BFR)."
+    },
+    {
+      "id": "V03-009",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:20:37",
+      "end_timestamp": "00:23:32",
+      "start_seconds": 1237,
+      "end_seconds": 1412,
+      "duration_seconds": 175,
+      "timestamp_url": "?t=1237",
+      "title": "Prendas de compresión, BFR y el efecto de las nuevas 'modas'",
+      "summary": "Las botas de compresión son sumamente eficaces para reducir edemas durante los viajes. También se utiliza la oclusión (BFR) en pasivo o activo. Por otra parte, métodos con escasa evidencia como luces rojas o 'dreamtape' en la boca pueden ser útiles si producen adherencia psicológica en la jugadora o consiguen un objetivo fisiológico específico (aumentar frecuencia cardíaca a menor intensidad).",
+      "literal_quote": "Ideal para viajes, me coloco mis piernas de compresión y viajo con ellas... O simplemente nos ayudan a conseguir un objetivo, como puede ser el dreamtape para aumentar la frecuencia cardíaca a una menor intensidad.",
+      "full_transcript": "Otra estrategia de recuperación... son las piernas de compresión. Tiene bastante buena evidencia, mejora la circulación tras el ejercicio, mejora la percepción de recuperación y la funcionalidad muscular. Tienes menor dolor muscular, menor hinchazón, inflamación y menor edema. Es ideal para los viajes, por eso los metemos. Termino un partido y viajo, no hay tiempo para tratamientos... me coloco mis piernas de compresión y viajo con ellas. Tenemos también el BFR, pantalones HyDRO... Hay menor evidencia, es muy de sensaciones, pero al final lo que buscamos es restringir parcialmente el flujo sanguíneo y tras esa liberación o reperfusión, un aumento súbito del flujo sanguíneo, un incremento transitorio del aporte de oxígeno y eliminación de metabólicos. El protocolo que tenemos en bici de recuperación activa es tres por tres en minutos en oclusión y dos de liberación, pero también lo podemos poner en pasivo. Esto sí que es más individualizado... Luego tenemos una nula o menor evidencia científica, que son estas luces rojas, vibraciones, la estimulación, el dreamtape. Esto es lo que hablaba antes. Las modas... Va muy por sensaciones. Tenemos que esperar también a que la evidencia científica lo respalde mucho más, pero sobre todo tenemos que encontrar un porqué y un cómo lo hago... que aunque tienen menor evidencia científica, pueden ser buenas para una recuperación por simple creencia, hábito o sensación. Si yo tengo luces rojas, llevo luces rojas trabajando cuatro años y yo aquí te estoy diciendo que no te las pongas, a lo mejor sí que es bueno que te pongas esas luces rojas si ya has creado un hábito. O simplemente nos ayudan a conseguir un objetivo, como puede ser el dreamtape para aumentar la frecuencia cardíaca a una menor intensidad... tapamos boca para respirar solo por la nariz y la frecuencia cardíaca aumenta. Entonces, a una menor intensidad de pedaleo... la frecuencia cardíaca solamente por respirar por la nariz aumenta y nos lleva a esa zona dos con una menor intensidad.",
+      "keywords": [
+        "piernas-compresion",
+        "bfr",
+        "oclusion",
+        "luces-rojas",
+        "dreamtape",
+        "efecto-placebo"
+      ],
+      "entities": [
+        "HyDRO"
+      ],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Para qué sirven las botas de compresión en las futbolistas?",
+        "¿Cómo se utilizan las herramientas de oclusión o BFR para recuperar?"
+      ],
+      "related_terms": [
+        "compresión",
+        "viajes",
+        "BFR",
+        "oclusión",
+        "modas",
+        "evidencia"
+      ],
+      "relevance_score": 4,
+      "context_before": "El uso del agua fría, caliente y contrastes programados inteligentemente en el microciclo.",
+      "context_after": "Se presentan casos prácticos visuales mediante una tabla semanal con lo permitido y contraindicado para cada día del microciclo."
+    },
+    {
+      "id": "V03-010",
+      "video_title": "La optimización individual: la jugadora como referente del modelo (Parte 2)",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:23:34",
+      "end_timestamp": "00:27:17",
+      "start_seconds": 1414,
+      "end_seconds": 1637,
+      "duration_seconds": 223,
+      "timestamp_url": "?t=1414",
+      "title": "Individualización y programación de la recuperación en el microciclo",
+      "summary": "No hay recetas únicas; se debe cruzar el tipo de fatiga (mecánica, fisiológica), las preferencias/creencias del deportista y los días del microciclo (MD-4, MD+1). Con ello elaboran un calendario predeterminado, pero flexible, asegurándose de no interferir en los días de mayores adaptaciones físicas centrales en la semana.",
+      "literal_quote": "Debemos individualizar los procesos de recuperación para cada jugadora para poder llegar al máximo rendimiento. ¿Esto qué quiere decir? Nosotros tenemos una tabla general... de lo que se debe, no se puede o lo que es ideal para hacer en cada día de la semana.",
+      "full_transcript": "Y ahora os quiero hablar de los casos prácticos, de cómo usar las estrategias de recuperación o cómo lo hacemos nosotros. Y no siempre es café para todo. Debemos individualizar los procesos de recuperación para cada jugadora para poder llegar al máximo rendimiento. ¿Esto qué quiere decir? Nosotros tenemos una tabla general, que es la que voy a exponer, de lo que se debe, no se puede o lo que es ideal para hacer en cada día de la semana, de una semana normal, incluso pintando un más uno o un más dos... Lo principal y el objetivo que tenemos es: tipo de fatiga que tenemos. ¿Qué tipo de fatiga tengo? ¿Más fisiológica, mecánica, muscular?... Imagínate que tenemos un tipo de fatiga más fisiológica con más estrés mental. A lo mejor lo ideal no es estresar el cuerpo introduciéndonos en agua fría, y es mejor ir al agua calor... Y que no tenga interferencia con las adaptaciones de entrenamiento... El segundo paso sería el tipo de deportista que tenemos. No siempre a todas les funciona la misma estrategia de recuperación. Encontrar gustos, comodidad y creencias... Y en base a esto, el tercer objetivo que tendríamos para establecer un protocolo sería la programación de la recuperación. Tiempo desde ya esa competición. Cuántos días tenemos para recuperarnos... Encontrar también ese microciclo y ver cuántos días voy a tener libres y adaptar. Con todo esto... intentar adaptarlo para que ellas crean en esa recuperación. Nosotros no creemos o valoramos el: 'Vale, esto te va a venir bien, pero tienes que creer que te va a ir bien'. Si yo te estoy diciendo que algo te va a ayudar para recuperar, pero no crees en eso, al final no va a recuperarte. Esta sería la general. Para echarle un vistazo, hemos pintado el más uno y más dos, menos cuatro, menos tres, menos dos, menos uno y el partido no se nos escapa ningún día. Y veis que tenemos tipos de tratamientos marcados... En menos cuatro y menos tres intentamos no interferir en las cargas de entrenamiento ni en esas adaptaciones musculares o estructurales.",
+      "keywords": [
+        "individualizacion",
+        "microciclo",
+        "tipo-fatiga",
+        "creencias-deportista",
+        "tabla-general"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué no se aplican los mismos métodos de recuperación a todas las jugadoras?",
+        "¿Cómo interfiere la recuperación mal pautada con las adaptaciones del entrenamiento?"
+      ],
+      "related_terms": [
+        "microciclo",
+        "fatiga",
+        "individualizar",
+        "creencias",
+        "adaptaciones",
+        "programación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Repaso de métodos alternativos, prendas compresivas y elementos con escasa evidencia pero valor práctico.",
+      "context_after": "El ponente muestra el diseño del microciclo en pantalla, recapitula conclusiones finales y finaliza la sesión dando sus datos de contacto."
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "La optimización individual: el plan optimizador",
+    "speaker": "Manuel",
+    "total_duration": "00:23:21",
+    "total_duration_seconds": 1401,
+    "source_file": "WEBVTT-2A",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:02:53",
+      "start_seconds": 5,
+      "end_seconds": 173,
+      "duration_seconds": 168,
+      "timestamp_url": "?t=5",
+      "title": "Introducción al plan optimizador y contexto del fútbol femenino",
+      "summary": "Se introduce el plan optimizador cuyo fin es mejorar el rendimiento colectivo. Manuel destaca una diferencia clave en el fútbol femenino: muchas jugadoras llegan a la élite desde contextos amateurs sin base física ni experiencia previa con fisioterapeutas o preparadores, lo que obliga a crear planes individualizados desde cero.",
+      "literal_quote": "Las jugadoras cuando llegan a contexto de elite... venían de jugar equipos de pueblo, con lo cual quizás no habían tenido ni tratamiento de fisioterapia nunca...",
+      "full_transcript": "En esta segunda parte de la formación nos vamos a centrar en el plan optimizador... Antes hemos orientado el plan preventivo a que la jugadora esté disponible... Ahora nos vamos a centrar en, una vez que la jugadora tiene disponibilidad alta, cómo mejorar ese rendimiento de la jugadora para que los componentes colectivos sean de mucha más calidad e intensidad... Me gustaría hacer una distinción rápida entre fútbol masculino y fútbol femenino... Las jugadoras cuando llegan a contexto de elite, como es el primer equipo femenino del Atlético de Madrid... teníamos jugadoras en pretemporada que venían de contextos de pueblos. Venían de jugar equipos de pueblo, con lo cual quizás no habían tenido ni tratamiento de fisioterapia nunca, no habían tenido un preparador físico a tiempo completo nunca... Son jugadoras que vienen con un nivel de base muy bajo y están en el alto nivel. Eso en fútbol masculino no suele pasar... Cuando un chico llega a un equipo de elite, viene con una base bastante fuerte... Entonces, como las jugadoras vienen con un nivel de base a nivel de eslabones débiles... nunca ha hecho trabajo básico de fuerza, nivel de potencia lo mismo, no sabe aplicar fuerza. Con lo cual eso nos lleva a que tenemos que diseñar planes muy individualizados que partan desde la base para ir subiendo.",
+      "keywords": [
+        "plan-optimizador",
+        "futbol-femenino",
+        "elite",
+        "base-fisica",
+        "individualizacion"
+      ],
+      "entities": [
+        "Atlético de Madrid",
+        "Champions"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Contexto"
+      ],
+      "search_questions": [
+        "¿Por qué es necesario individualizar el plan optimizador en el fútbol femenino?",
+        "¿Qué diferencias de base física existen entre jugadores y jugadoras al llegar a la élite?"
+      ],
+      "related_terms": [
+        "plan",
+        "optimizador",
+        "base",
+        "física",
+        "élite",
+        "individualización"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la segunda parte de la formación orientada al rendimiento.",
+      "context_after": "Se presenta el rol del preparador físico asistente para el plan de fuerza base."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:02:54",
+      "end_timestamp": "00:05:02",
+      "start_seconds": 174,
+      "end_seconds": 302,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=174",
+      "title": "La transición del gimnasio al campo: el límite de la fuerza base",
+      "summary": "Aunque el trabajo de fuerza en el gimnasio es la base, ser fuerte moviendo cargas altas (ej. 120 kg en sentadilla) no garantiza el éxito en el fútbol. La jugadora necesita planes específicos de habilidades de movimiento y sistemas energéticos para aplicar esa fuerza en el campo moviendo su propio peso corporal rápidamente.",
+      "literal_quote": "Son jugadoras fuertes en el gimnasio, que han mejorado mucho... pero que luego no son capaces de llevar esa fuerza al campo.",
+      "full_transcript": "Vamos ahora al plan optimizador para potenciar fortalezas de la jugadora y/o mejorar déficits y eslabones débiles... En la base está el plan individual de fuerza, que va a comentar mi compañero Toni, que es especialista y es el que se encarga de ese trabajo... Y ahora vamos a pasar al plan individual de habilidades de movimiento. ¿Por qué? Porque hemos detectado que muchas jugadoras que sí han mejorado esa fuerza de base en el gimnasio, que son capaces de mover la carga en sentadilla, mover casi dos veces su peso corporal a intensidades altas, que mueven 100, 120 kilos... Son jugadoras fuertes en el gimnasio, que han mejorado mucho en esos básicos... pero que luego no son capaces de llevar esa fuerza al campo. Cuando tienen que moverse con su propio peso corporal, no mejoran el plan de aceleración, no mejora la velocidad, con lo cual sí nos interesa tener una fuerza de base, pero al final lo más importante es saber moverte rápido con tu cuerpo, porque al final el fútbol está en el verde... Eso nos lleva a establecer dos planes más, un plan individual de habilidad de movimiento y un plan de sistemas energéticos.",
+      "keywords": [
+        "fuerza-base",
+        "gimnasio",
+        "transferencia",
+        "habilidades-movimiento",
+        "peso-corporal"
+      ],
+      "entities": [
+        "Toni"
+      ],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué tener fuerza en el gimnasio no es suficiente para una futbolista?",
+        "¿Qué planes complementan el trabajo de fuerza base en el fútbol?"
+      ],
+      "related_terms": [
+        "fuerza",
+        "gimnasio",
+        "transferencia",
+        "campo",
+        "velocidad",
+        "movimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del contexto de las futbolistas al llegar a la élite y la necesidad de partir desde cero.",
+      "context_after": "Comienza el desglose de las cuatro habilidades fundamentales de movimiento."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:05:02",
+      "end_timestamp": "00:07:23",
+      "start_seconds": 302,
+      "end_seconds": 443,
+      "duration_seconds": 141,
+      "timestamp_url": "?t=302",
+      "title": "Las cuatro habilidades de movimiento y sus niveles de aprendizaje",
+      "summary": "Se identifican cuatro habilidades clave: acelerar, desacelerar, reorientar y cambiar de dirección. Estas se entrenan en tres niveles: nivel analítico (producir/absorber fuerza), variabilidad (reaccionar a estímulos) y representatividad (contexto real con balón, rivales y espacio-tiempo). Sin el contexto táctico, se crea una buena atleta, pero no una buena futbolista.",
+      "literal_quote": "Va a ser una buena atleta, pero no va a ser una buena futbolista.",
+      "full_transcript": "En cuanto al plan optimizador de rendimiento, si nos centramos ahora en la parte de habilidades... Vamos a destacar cuatro habilidades básicas: la capacidad para acelerar, la capacidad para desacelerar, la capacidad para reorientar y la capacidad para cambiar de dirección. En estas habilidades tenemos tres niveles de aprendizaje. Primero, una construcción de capacidad... que puede ser un estímulo muy analítico y con feedback técnico podemos llegar a mejorarlo. Y luego hay un nivel dos, tres, que nos va a acercar más a la realidad contextual de fútbol, que es la variabilidad y la representatividad. En la variabilidad nos referimos a cómo adapta su movimiento en función de estímulos visuales, estímulos auditivos... Y en la representatividad entrarían todos los elementos del juego: balón, compañeras, espacio, tiempo. No solo vale quedarnos en el nivel uno, que es lo fácil... porque una jugadora puede ser muy buena en el gimnasio, incluso puede ser muy rápida en 10 metros, pero si luego no es capaz de detenerse o cambiar de dirección cuando toca, o no es capaz de interpretar ese espacio-tiempo, no va a ser una buena futbolista. Va a ser una buena atleta, pero no va a ser una buena futbolista. En el nivel uno nos centramos en cómo puede producir y absorber fuerza la jugadora de manera más eficiente... Pero ahora lo más importante es el nivel dos, tres. Cuándo, por qué y cómo debe utilizar esa solución de movimiento la jugadora para rendir.",
+      "keywords": [
+        "habilidades-movimiento",
+        "aceleracion",
+        "desaceleracion",
+        "representatividad",
+        "toma-decision"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro habilidades básicas de movimiento en el fútbol?",
+        "¿Por qué es importante entrenar la representatividad del movimiento?"
+      ],
+      "related_terms": [
+        "acelerar",
+        "desacelerar",
+        "representatividad",
+        "estímulos",
+        "atleta",
+        "futbolista"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se expone la limitación de ser fuerte únicamente en ejercicios analíticos de gimnasio.",
+      "context_after": "Se detallan las características que debe tener un test de evaluación física para ser útil en el entorno de fútbol."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:07:23",
+      "end_timestamp": "00:10:47",
+      "start_seconds": 443,
+      "end_seconds": 647,
+      "duration_seconds": 204,
+      "timestamp_url": "?t=443",
+      "title": "Evaluación eficiente y el test de velocidad de 30 metros",
+      "summary": "Manuel subraya que las pruebas físicas deben ser rápidas, simples y periódicas para activar y entrenar sin robar tiempo de campo. El test de 30m con fotocélulas evalúa tres fases críticas: 0-10m (empuje/aceleración), 10-20m (transición vertical) y 20-30m (velocidad pico). Se ejemplifica cómo la velocidad sobresaliente de una jugadora (Ainoa) permite al equipo modificar su modelo táctico para jugar más adelantado.",
+      "literal_quote": "Los test tienen que servir o para activar o para entrenar directamente. No pueden ser test que ocupen mucho tiempo y deben ser fácilmente reproducibles.",
+      "full_transcript": "Si nos vamos a los tests... digo que los test tienen que ser test sencillos, que la jugadora pueda aprender rápido... fáciles de medir, que no requieran mucho tiempo... Los test tienen que servir o para activar o para entrenar directamente. No pueden ser test que ocupen mucho tiempo y deben ser fácilmente reproducibles. No vale medir en pretemporada y ya no volver a medir hasta final de temporada, porque entonces no vamos a ver mejoras... Si conseguimos que los test cumplan esos tres objetivos, la misma jugadora te lo va a pedir... Centrándonos en el test de velocidad de 30 metros... Parcial es importante para mí: 0-10, 10-20 y 20-30. En el parcial de 0 a 10 medimos la fase de aceleración, el mecanismo de empuje de la jugadora. En la fase de 10 a 20 medimos la transición de esa fase de aceleración más horizontal a una fase más vertical. Y en la fase de 20 a 30, la capacidad para que la jugadora alcance su pico de velocidad... Si tenemos una jugadora, como en la imagen... Ainoa... Es capaz de acelerar muy rápido y empujar muy fuerte el suelo... Se le puede potenciar ese comportamiento con microdosis para sacar una ventaja en partido que nos permitía... aprovechar su velocidad al espacio en tema de ruptura y, a nivel defensivo, poder defender mucho más adelante, porque sabías que había una jugadora que te podía hacer cobertura en la presión defensiva muy rápida... Esta fortaleza nos permite un modelo de juego mucho más agresivo.",
+      "keywords": [
+        "test-velocidad",
+        "30-metros",
+        "aceleracion",
+        "fotocelulas",
+        "influencia-tactica"
+      ],
+      "entities": [
+        "Ainoa"
+      ],
+      "topics": [
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué tres características deben tener los test de rendimiento en el fútbol?",
+        "¿Qué fases se evalúan en el test de velocidad de 30 metros?"
+      ],
+      "related_terms": [
+        "test",
+        "sencillo",
+        "30 metros",
+        "fases",
+        "aceleración",
+        "transición",
+        "táctica"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las tres fases de aprendizaje del movimiento y el contexto del juego.",
+      "context_after": "Se abordan los déficits específicos encontrados en el campo mediante el uso del videoanálisis."
+    },
+    {
+      "id": "V04-005",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:10:47",
+      "end_timestamp": "00:13:26",
+      "start_seconds": 647,
+      "end_seconds": 806,
+      "duration_seconds": 159,
+      "timestamp_url": "?t=647",
+      "title": "Traducción de déficits analíticos a problemas reales del juego",
+      "summary": "Cruzando los datos de los tests con el análisis de los partidos (videoanálisis), se identifican déficits reales. Pone el ejemplo de centrales con problemas para transitar rápidamente de un esfuerzo ofensivo al repliegue defensivo. Se aplican estímulos analíticos específicos (gimnasio) o complejos (campo con balón) dependiendo de en qué fase del movimiento reside el problema.",
+      "literal_quote": "Esa capacidad para acelerar desde una situación de campo rival y llegar a la transición defensiva nos condiciona el rendimiento.",
+      "full_transcript": "Y si vemos que hay un déficit de aceleración en ciertas jugadoras que nos preocupa porque nos está limitando el rendimiento, también tenemos que atacarlo. Si ese déficit está en la primera fase de aceleración... tenemos ejemplos en el bloque uno, que es recibir a la jugadora para hacer microdosis de entrenamiento pre o post. O si detectamos que es en la fase dos... mejorar la verticalidad, empujar el suelo en zancadas más largas, tenemos otro tipo de ejercicios... creo que la clave es detectar el objetivo y diseñar un plan, planificarlo en el microciclo y de ahí llevarlo a cabo, ver si la jugadora es capaz de mejorar... Si luego somos capaces de, aparte de no quedarnos solo en el test analítico, con los analistas de juego detectar que esos comportamientos también ocurren en partido y limitan el rendimiento. Vamos a poner aquí un ejemplo de cómo las centrales tienen un déficit para acelerar hacia adelante primero y luego, cuando lo superan, un déficit de aceleración y más velocidad para transitar hacia atrás... Se comete una pérdida, todo el equipo va a estar en campo contrario. No llegamos a la anticipación, nos toca correr para atrás y vamos a ver cómo las tres centrales no son capaces de llegar al repliegue... Si esa jugadora hubiese sido un poco más precisa, eso en un contexto de Europa y Champions, seguramente hubiéramos recuperado el balón... Esa capacidad para acelerar desde una situación de campo rival y llegar a la transición defensiva nos condiciona el rendimiento. Por ello, establecemos una estrategia de actuación... que puede ser en gimnasio o en campo... estímulos analíticos o un poco más complejos.",
+      "keywords": [
+        "deficit-aceleracion",
+        "videoanalisis",
+        "transicion-defensiva",
+        "centrales",
+        "rendimiento"
+      ],
+      "entities": [
+        "Champions"
+      ],
+      "topics": [
+        "Evaluación",
+        "Análisis de Datos",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis"
+      ],
+      "search_questions": [
+        "¿Cómo se relacionan los déficits de los test con el análisis de juego en vídeo?",
+        "¿De qué manera afecta la falta de aceleración al repliegue defensivo de las defensas centrales?"
+      ],
+      "related_terms": [
+        "déficit",
+        "aceleración",
+        "video",
+        "analistas",
+        "transición",
+        "repliegue"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del test de 30 metros y el uso táctico de las jugadoras más rápidas.",
+      "context_after": "Se presenta el Test 505 como herramienta clave para evaluar los cambios de dirección y los frenados."
+    },
+    {
+      "id": "V04-006",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:13:26",
+      "end_timestamp": "00:15:52",
+      "start_seconds": 806,
+      "end_seconds": 952,
+      "duration_seconds": 146,
+      "timestamp_url": "?t=806",
+      "title": "Evaluación del cambio de dirección y riesgo de LCA con el Test 505",
+      "summary": "Para evaluar los cambios de dirección se usa el Test 505. Las fases clave de evaluación incluyen la aceleración máxima, tiempo y distancia de deceleración, y la fase de salida. Analizar la deceleración es vital en fútbol femenino por la alta incidencia de lesiones de LCA, especialmente notable en los déficits y miedos de las jugadoras en fases de retorno (RTP). Herramientas como el 1080 sprint permiten ver asimetrías que las simples fotocélulas no captan.",
+      "literal_quote": "Estas tres variables son muy importantes, especialmente en fútbol femenino, porque hay muchas roturas de cruzado anterior que se producen en la deceleración.",
+      "full_transcript": "Vamos ahora a otra habilidad clave en el fútbol, que es el cambio de dirección. Para ello elegimos el test 505, que es un test... en el que la jugadora acelera 10 metros, pasa por una puerta, tiene una distancia en la que sigue acelerando y decide cuándo empezar a desacelerar para cambiar de dirección lo más rápido posible y volver a pasar por esa puerta de cinco metros en el menor tiempo posible. Vamos a diferenciar dos fases clave. La fase de entrada, en la que vamos a medir la aceleración máxima, y cuando la jugadora perciba que tiene que empezar a frenar, el tiempo de deceleración, la distancia de frenado y la deceleración máxima. Estas tres variables son muy importantes, especialmente en fútbol femenino, porque hay muchas roturas de cruzado anterior que se producen en la deceleración. Y la experiencia nos dice que hay muchas jugadoras, cuando vuelven tras cruzado anterior, que estos valores son bastante flojos, porque no deceleran a tiempo, ni con suficiente fuerza, porque igual tienen potencias de fuerza o miedos. Entonces es muy importante y relevante. Y hay una segunda fase, que es la fase de salida... Que sí que te mediría el tiempo total de salida y la aceleración máxima de esa pierna... Es verdad que para ello necesitamos el 1080... Si solo tuviéramos fotocélulas, solo podríamos medir tiempos... pero ya no podrías medir ese déficit de fuerza en frenada, cómo cambia la asimetría de una pierna y otra haciendo el cambio de dirección... Y si además tenemos la cámara que va asociada a este cable, podemos ver calidad de movimiento y no quedarnos solo con números.",
+      "keywords": [
+        "test-505",
+        "cambio-direccion",
+        "deceleracion",
+        "lca",
+        "1080-sprint",
+        "asimetrias"
+      ],
+      "entities": [
+        "1080 Sprint"
+      ],
+      "topics": [
+        "Evaluación",
+        "Lesiones"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué evalúa el test 505 en las futbolistas?",
+        "¿Por qué es crucial analizar la deceleración en la prevención de roturas de cruzado (LCA)?"
+      ],
+      "related_terms": [
+        "test 505",
+        "cambio de dirección",
+        "deceleración",
+        "LCA",
+        "cruzado",
+        "1080",
+        "asimetrías"
+      ],
+      "relevance_score": 5,
+      "context_before": "Traducción de la falta de aceleración en métricas perjudiciales a nivel técnico y táctico durante un partido.",
+      "context_after": "Presentación de la metodología para mejorar la fuerza excéntrica y la capacidad de frenado de las jugadoras."
+    },
+    {
+      "id": "V04-007",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:15:52",
+      "end_timestamp": "00:21:34",
+      "start_seconds": 952,
+      "end_seconds": 1294,
+      "duration_seconds": 342,
+      "timestamp_url": "?t=952",
+      "title": "El frenado como habilidad clave: superando el error del gimnasio",
+      "summary": "Para mejorar el cambio de dirección, la base debe ser construir fuerza excéntrica en el gimnasio (aunque produce mucha fatiga). Manuel reconoce un error común en el entrenamiento tradicional: enfocarse solo en producir fuerza de empuje. En la élite, la capacidad de frenar (absorber y reorganizar fuerza) es más decisiva que acelerar; las mejores regateadoras son expertas en decelerar. Entrenar esto exige progresar de lo analítico a la toma de decisión con estímulos reactivos.",
+      "literal_quote": "Y me he dado cuenta que cuando sube el nivel, la capacidad de frenar es más importante incluso que la capacidad de acelerar.",
+      "full_transcript": "En este caso, para mejorar el cambio de dirección, necesitamos mejorar diferentes aspectos de su técnica. Una clave muy importante es la fuerza excéntrica... Son estímulos exigentes que necesitan 48, 72 horas para recuperar. Entonces, hay que tener cuidado cuando incluir este tipo de trabajos una vez ya que haya comenzado la temporada... Trabajar en diferentes planos... Aplicar fuerza en diferentes ángulos también es muy importante... Aquí ya nos iríamos a ese perfil individual más modelo de juego. No es lo mismo la capacidad de movimiento... que la capacidad de utilizar ese movimiento. Esa jugadora puede hacer un cambio de dirección en cierto tiempo o distancia... de forma analítica. Pero el problema no es solo la capacidad de producir la fuerza, sino también la capacidad de absorberla, de reorganizarla y de propulsar. Eso a nivel analítico. Nos centremos solo en la capacidad de producir fuerza, que muchos programas, yo he sido el primero que he cometido ese error... eran: tienes que producir fuerza más rápido. Movimientos olímpicos, geometrías, saltos, trineo. Solo me centraba en la capacidad de aplicar fuerza, pero no me centraba en la capacidad de absorber esa fuerza... Y me he dado cuenta que cuando sube el nivel, la capacidad de frenar es más importante incluso que la capacidad de acelerar. Y nuestras mejores regateadoras del equipo son las que más deceleraciones hacen, porque son capaces de pararse y cambiarte el ritmo y pararse otra vez. Y cuando tú vas lento, ya soy capaz de sacarte esa ventaja. Esa capacidad de utilizar el movimiento requiere poder hacerlo cuando lo necesita, en el momento adecuado y con eficacia. Y esta estrategia metodológica de aprendizaje es mucho más compleja de diseñar que simplemente una sesión analítica... Y luego ya unos estímulos reactivos visuales en los que ya hay un poquito más de toma de decisión.",
+      "keywords": [
+        "fuerza-excentrica",
+        "absorber-fuerza",
+        "deceleracion",
+        "cambio-direccion",
+        "toma-decision",
+        "regateadoras"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué el entrenamiento en el gimnasio a veces no se transfiere bien al campo de fútbol?",
+        "¿Cuál es el rol de la deceleración en las jugadoras de perfil regateador?"
+      ],
+      "related_terms": [
+        "excéntrica",
+        "absorber",
+        "frenar",
+        "deceleración",
+        "regateadoras",
+        "estímulo",
+        "reactivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición sobre el test 505 y la importancia del análisis de las deceleraciones para prevenir lesiones.",
+      "context_after": "Planificación y encaje de las microdosis en el calendario de entrenamiento semanal del equipo."
+    },
+    {
+      "id": "V04-008",
+      "video_title": "La optimización individual: el plan optimizador",
+      "speaker": "Manuel",
+      "start_timestamp": "00:21:34",
+      "end_timestamp": "00:23:21",
+      "start_seconds": 1294,
+      "end_seconds": 1401,
+      "duration_seconds": 107,
+      "timestamp_url": "?t=1294",
+      "title": "Programación del microdosing optimizador en el microciclo",
+      "summary": "Para introducir estímulos optimizadores sin interferir con el entrenamiento grupal, es necesario encontrar el día ideal en el microciclo (el 'arte de programar'). Manuel sitúa el trabajo de aceleración/cambio de dirección en el MD-3 (pre-sesión) cuando la jugadora viene descansada tras un día libre, requiriendo madrugar, pero asegurando adherencia por los beneficios percibidos.",
+      "literal_quote": "Ese optimizador para mí de aceleración o de cambio de dirección debería entrar en el menos tres preentrenamiento. La jugadora está sin fatiga...",
+      "full_transcript": "Y por último, y no menos importante, ahora ya he diseñado esta estrategia metodológica, pero ¿cuándo se le incluye a la jugadora en el microciclo? Porque la parte de equipo es imprescindible, es la más importante. El arte de programar en el microciclo nos indica cuándo esa jugadora puede asumir mejor esas microdosis individuales. Por ejemplo, si nos vamos al mismo microciclo que puse antes, ese optimizador para mí de aceleración o de cambio de dirección debería entrar en el menos tres preentrenamiento. La jugadora está sin fatiga, ya ha venido un día de entrenamiento previo. Quizá el cambio de dirección entraría mejor por dinámica de entrenamiento en el menos cuatro, que es un día de espacios más reducidos, pero por venir de día libre esta semana, yo se lo incluiría en el menos tres. A la jugadora le supone un esfuerzo, porque tiene que madrugar un poco más, tiene que venir antes a entrenar al campo, pero al final, si la jugadora ve que hay un beneficio, lo va a asumir y lo va a aceptar. Esa es la clave, convencer a la jugadora desde el trabajo y desde que vea que hay un beneficio en su rendimiento. Se lo metería en el menos tres preentrenamiento y luego la jugadora ya cumpliría con toda la dinámica de equipo.",
+      "keywords": [
+        "microciclo",
+        "microdosing",
+        "match-day-3",
+        "pre-entrenamiento",
+        "adherencia",
+        "fatiga"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo es el mejor momento para introducir microdosis de aceleración en un microciclo?",
+        "¿Cómo se logra que las jugadoras acepten hacer trabajo extra antes del entrenamiento grupal?"
+      ],
+      "related_terms": [
+        "microciclo",
+        "microdosis",
+        "menos tres",
+        "preentrenamiento",
+        "fatiga",
+        "beneficio"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de metodologías analíticas y reactivas para entrenar la frenada.",
+      "context_after": "Fin del clip o segmento."
+    }
+  ]
+}

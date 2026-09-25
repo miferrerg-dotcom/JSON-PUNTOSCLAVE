@@ -1,0 +1,301 @@
+{
+  "video": {
+    "video_id": "V02",
+    "video_title": "La optimización individual: la jugadora como referente del modelo",
+    "speaker": "Manuel",
+    "total_duration": "00:20:40",
+    "total_duration_seconds": 1240,
+    "source_file": "WEBVTT-1A.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V02-001",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:04:19",
+      "start_seconds": 5,
+      "end_seconds": 259,
+      "duration_seconds": 254,
+      "timestamp_url": "?t=5",
+      "title": "Introducción al modelo de optimización individual",
+      "summary": "Manuel presenta el modelo aplicado en el Atlético de Madrid femenino, enfocado en optimizar la base física, técnica, táctica, cognitiva y emocional de la jugadora para facilitar su adaptación a las demandas del modelo de juego.",
+      "literal_quote": "Creo que la futbolista necesita tener una optimización base de su perfil individual para que se pueda adaptar a las demandas individuales de ese contexto o modelo de juego y luego pueda rendir a nivel colectivo.",
+      "full_transcript": "Muy buenas, ¿qué tal? Vamos a presentar la formación que vamos a impartir. Tiene por título: 'La optimización individual: la jugadora como referente del modelo'. Es un modelo de desarrollo que venimos implementando en el primer equipo del Atlético de Madrid femenino durante varias temporadas, y vamos a intentar explicarlo para que se pueda reproducir, mejorar y llevar a cabo en otros contextos deportivos. Un poco de presentación sobre mi contexto personal. Empecé en el fútbol masculino hace ocho temporadas, en el Club Deportivo Toledo. Justo salió la oportunidad de empezar allí con un equipo femenino de nueva creación. Estuve allí cuatro años, en un equipo semiprofesional con pocos recursos, en el que poco a poco fuimos mejorando la capacidad de rendimiento de las jugadoras... En la temporada 2023 firmé en el filial femenino del Atlético de Madrid, y compaginaba ese trabajo con un trabajo en una clínica del alto rendimiento y readaptación... A partir de ahí, al año siguiente, entré en el primer equipo femenino del Atlético de Madrid. El primer año estuve como preparador físico asistente... Y desde hace tres temporadas asumo la responsabilidad de jefe de rendimiento en el primer equipo femenino. La introducción de la formación pasa por lo que hemos hablado de la jugadora como referente del modelo. El fútbol parte de un modelo de juego X que viene implantado por el staff técnico-táctico, por el entrenador... creo que la futbolista necesita tener una optimización base de su perfil individual para que se pueda adaptar a las demandas individuales de ese contexto o modelo de juego y luego pueda rendir a nivel colectivo. Si la futbolista no tiene esa optimización de base, creo que le va a costar mucho más adaptarse a las demandas... Esa optimización individual de la jugadora tiene cinco aspectos fundamentales: una optimización física o condicional, como nosotros la llamamos, una optimización técnica, una optimización táctica, una optimización cognitiva y una optimización emocional.",
+      "keywords": [
+        "optimizacion-individual",
+        "atletico-madrid-femenino",
+        "modelo-de-juego",
+        "rendimiento-colectivo",
+        "preparacion-fisica"
+      ],
+      "entities": [
+        "Club Deportivo Toledo",
+        "Asociación de Futbolistas Españoles",
+        "Atlético de Madrid"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Introducción",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué es la optimización individual de la jugadora?",
+        "¿Por qué es importante optimizar el perfil base de la futbolista?"
+      ],
+      "related_terms": [
+        "optimización",
+        "individual",
+        "jugadora",
+        "modelo",
+        "juego",
+        "físico"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio de la presentación del webinar.",
+      "context_after": "Se explican los tres objetivos clave del área condicional y el trabajo multidisciplinar en el ecosistema del alto rendimiento."
+    },
+    {
+      "id": "V02-002",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:04:19",
+      "end_timestamp": "00:06:28",
+      "start_seconds": 259,
+      "end_seconds": 388,
+      "duration_seconds": 129,
+      "timestamp_url": "?t=259",
+      "title": "Tres objetivos clave: Disponibilidad, Rendimiento y Recuperación",
+      "summary": "Se detalla el ecosistema multidisciplinar del club y los tres objetivos principales de la temporada condicional: priorizar la disponibilidad de la jugadora para entrenar, mejorar sus eslabones débiles para el rendimiento y optimizar su recuperación.",
+      "literal_quote": "Siempre le incidimos a la jugadora en que preferimos disponibilidad a rendimiento. No tenemos ninguna jugadora que sea tan buena como para no entrenar y poder competir.",
+      "full_transcript": "Hablo un poco en plural porque esta charla va a ser compartida con mi compañero de departamento, Antonio Miranda... En este ecosistema del alto rendimiento se diferencia el staff técnico-táctico, que se encarga más del desarrollo del juego, un área condicional, que es la que yo dirijo y en la que comparto con mi compañero Toni, y también está un poco a caballo el readaptador... y una parte de servicios médicos. Los tres objetivos claves que nosotros nos ponemos al inicio de cada temporada a nivel condicional son: el primero de ellos es la disponibilidad de la jugadora, que la jugadora esté disponible el mayor número de entrenamientos y partidos posible... No tenemos ninguna jugadora que sea tan buena como para no entrenar y poder competir. Como segundo objetivo tenemos el rendimiento. Una vez que la jugadora está disponible en un alto porcentaje de sesiones... vamos a ver qué déficits tiene, qué eslabones débiles tiene y cómo mejorar esos eslabones débiles. Y por último, la recuperación, que es lo que nos permite que la jugadora... recupere para volver otra vez a entrenar el día siguiente... siempre le incidimos a la jugadora en que preferimos disponibilidad a rendimiento. Una vez que haya una disponibilidad alta, vamos a rendir, pero no queremos que la jugadora se centre en eslabones débiles y luego no pueda llegar al entrenamiento en buenas condiciones.",
+      "keywords": [
+        "ecosistema-alto-rendimiento",
+        "disponibilidad",
+        "rendimiento",
+        "recuperacion",
+        "multidisciplinar"
+      ],
+      "entities": [
+        "Antonio Miranda"
+      ],
+      "topics": [
+        "Staff Management",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los objetivos del área condicional en el fútbol femenino?",
+        "¿Por qué se prioriza la disponibilidad sobre el rendimiento?"
+      ],
+      "related_terms": [
+        "disponibilidad",
+        "rendimiento",
+        "recuperación",
+        "staff",
+        "técnico",
+        "médico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se introduce la optimización de los aspectos físicos, técnicos y cognitivos de las jugadoras.",
+      "context_after": "Se describe el plan preventivo y cómo se diferencian las estrategias de reducción del riesgo lesional."
+    },
+    {
+      "id": "V02-003",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:06:28",
+      "end_timestamp": "00:08:58",
+      "start_seconds": 388,
+      "end_seconds": 538,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=388",
+      "title": "El plan preventivo y el verdadero enfoque para prevenir lesiones",
+      "summary": "Se presenta el plan preventivo para reducir el riesgo lesional. Se aclara que la verdadera prevención no es solo hacer ejercicios con gomas, sino entrenar la fuerza y resistencia con intensidad para soportar las demandas máximas del juego.",
+      "literal_quote": "Lo que de verdad previene una lesión es ser más fuerte y ser más resistente. [...] luego tiene que ser capaz de entrenar la fuerza con la máxima intención, repetir esfuerzos a la máxima intensidad.",
+      "full_transcript": "¿Cómo lograr esa optimización condicional? Nosotros hemos identificado dos planes claramente diferenciados... Por un lado, el plan preventivo... Se basa en reducir el riesgo de incidencia lesional y mejorar la disponibilidad y la sensación de la jugadora en cada tarea de entrenamiento. Dentro de ese plan tenemos el protocolo individual de activación... Yo siempre pongo entre comillas la palabra prevenir, porque creo que en el fútbol sí podemos reducir el riesgo de incidencia lesional si hacemos muchas cosas bien, pero nunca vamos a poder impedir la lesión... Sí que con un plan establecido podemos reducir ese riesgo de incidencia lesional. Ese plan está en la base, pero para mí, lo que de verdad previene una lesión es ser más fuerte y ser más resistente. Muchas veces el doctor del club... me dice: 'Manu, esta jugadora viene de cruzado... a ver si le podemos hacer un plan preventivo... de activación de glúteo medio, de gomas'. Y yo le digo que ese plan preventivo de 10 minutos no va a reducir su riesgo de cruzado. Lo que va a prevenir su riesgo de cruzado es que sí, le hagamos un protocolo individual... pero luego tiene que ser capaz de entrenar la fuerza con la máxima intención, repetir esfuerzos a la máxima intensidad para que sea más fuerte, más resistente, y eso es lo que le va a permitir que cuando la demanda de juego le exijan, tenga menos probabilidad de volver a recaer. Entonces, en resumen, vamos a establecer un protocolo de activación individual... porque consideramos que está en la base para que la jugadora entrene con mejores sensaciones y pueda rendir mejor.",
+      "keywords": [
+        "plan-preventivo",
+        "riesgo-lesional",
+        "protocolo-activacion",
+        "fuerza-maxima",
+        "resistencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se reduce el riesgo de lesión en el fútbol femenino?",
+        "¿Por qué las bandas elásticas no son suficientes para prevenir lesiones?"
+      ],
+      "related_terms": [
+        "plan",
+        "preventivo",
+        "lesiones",
+        "fuerza",
+        "resistencia",
+        "activación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se definen la disponibilidad, rendimiento y recuperación como los tres pilares condicionales.",
+      "context_after": "Comienza la descripción del trabajo multidisciplinar del primer día de pretemporada y la batería de tests médicos."
+    },
+    {
+      "id": "V02-004",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:08:58",
+      "end_timestamp": "00:11:41",
+      "start_seconds": 538,
+      "end_seconds": 701,
+      "duration_seconds": 163,
+      "timestamp_url": "?t=538",
+      "title": "Valoración multidisciplinar inicial en pretemporada",
+      "summary": "El primer día de pretemporada incluye 2.5 horas de evaluación donde colaboran médicos, fisios, podólogos y preparadores físicos. Se realiza anamnesis, movilidad pasiva y cuantitativa, valoración de pie/tobillo y test isométricos máximos (ForceDecks) y saltos (CMJ).",
+      "literal_quote": "Con un goniómetro ya hacemos valoraciones cuantitativas de rotación interna de cadera [...] Hacemos una valoración isométrica máxima de cadera anterior y posterior.",
+      "full_transcript": "Este protocolo individual de activación lleva consigo un trabajo multidisciplinar. Nosotros el primer día de pretemporada intentamos organizarnos en diferentes postas para que las jugadoras estén dos horas y media... y que a partir de ahí podamos hablar de cómo viene la jugadora. Para ello, servicios médicos y área condicional tienen que estar muy unidos... Comenzamos con una anamnesis en la que el doctor recoge historial clínico, lesiones antiguas, valoraciones generales, hábitos de vida. Pasamos a una valoración de movilidad pasiva en camilla, en la que los fisios... ven cómo está la jugadora a nivel de cadenas musculares, a nivel de movilidad de cadera... Luego pasamos a una valoración de movilidad más cuantitativa... Con un goniómetro ya hacemos valoraciones cuantitativas de rotación interna de cadera, externa de cadera, movilidad de tobillo, tensión en cadena posterior. Una valoración de pie tobillo por parte del podólogo... Y a partir de ahí, de esa valoración médica, empezamos con los test un poco más del área condicional... Hacemos una valoración isométrica máxima de cadera anterior y cadera posterior. Hacemos una valoración isométrica máxima de abducción y aducción de cadera y hacemos un test de salto, CMJ y rotación. Son test isométricos máximos bastante seguros. Es cierto que hay que tener tanto los recursos humanos... como los recursos materiales, la plataforma de BAL, el ForceDecks.",
+      "keywords": [
+        "valoracion-inicial",
+        "anamnesis",
+        "movilidad",
+        "test-isometricos",
+        "force-decks",
+        "cmj"
+      ],
+      "entities": [
+        "ForceDecks",
+        "VALD"
+      ],
+      "topics": [
+        "Evaluación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué pruebas se realizan en la pretemporada del fútbol femenino?",
+        "¿Cómo se evalúa la movilidad y fuerza el primer día?"
+      ],
+      "related_terms": [
+        "valoración",
+        "movilidad",
+        "anamnesis",
+        "test",
+        "isométrico",
+        "multidisciplinar"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se subraya que la base del rendimiento es entrenar fuerte y se menciona el protocolo individual de activación.",
+      "context_after": "Se explican los bloques recomendados para el protocolo individual y el proceso de identificar objetivos para cada jugadora cruzando los datos obtenidos."
+    },
+    {
+      "id": "V02-005",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:11:41",
+      "end_timestamp": "00:16:13",
+      "start_seconds": 701,
+      "end_seconds": 973,
+      "duration_seconds": 272,
+      "timestamp_url": "?t=701",
+      "title": "Cruce de datos y diseño del perfil individual en base a 3 objetivos",
+      "summary": "Tras evaluar, el staff cruza datos subjetivos y cuantitativos (asimetrías, lesiones previas) para definir 3 objetivos de activación por jugadora. Se dividen en 5 bloques teóricos: movilidad, control motor, fuerza específica, reactividad y gesto deportivo. Cada jugadora es asignada a un fisio y a un preparador físico responsable.",
+      "literal_quote": "Nos sentaríamos servicios médicos, preparadores físicos y readaptador, cruzamos todos los datos e identificamos tres objetivos por jugadora.",
+      "full_transcript": "Vamos un poco a lo que he explicado, un poquito más de detalle... Aquí registramos lesiones antiguas, lesiones más recientes, análisis general, factores de riesgo... Con esto ya tenemos un primer mapa de cómo la jugadora viene. A partir de ahí, valoración cuantitativa de movilidad... Hacemos una valoración general de la fuerza en test máximos. Nos centramos más en esta parte en fuerza máxima alcanzada de forma progresiva que no en el RFD... Y ahí vemos en sentadilla, hip thrust, hip thrust unilateral, ABD de cadera... cómo está respecto a equipo y las asimetrías que puede tener... Con esa valoración general, si nos vamos un poco a la literatura científica, nos dicen que se recomienda que esos planes preventivos... se dividan o se diferencien en cinco bloques. Un bloque de movilidad... Un bloque de control o propiocepción... Una fuerza específica, que nosotros llamamos una activación neural, activación neuromuscular... Y luego, dos últimos bloques, un bloque de elasticidad reactividad y un bloque de posicionamiento gesto deportivo. Con todo ese mix de test... Nos sentaríamos servicios médicos, preparadores físicos y ratador, cruzamos todos los datos e identificamos tres objetivos por jugadora. Luego... hemos sumado un fisio más al equipo. Entonces, lo que hemos hecho es que hemos repartido a las jugadoras... Cada jugadora tiene dos responsables de rendimiento a su cargo... cuando ya se diseña el plan, por ejemplo, esta jugadora en el objetivo uno nos hemos centrado más en los objetivos de movilidad y control motor... En el objetivo dos, incidir en esta visual de cadera... Y un objetivo tres... incidir en esa asimetría pronunciada que hemos visto en pierna derecha.",
+      "keywords": [
+        "cruce-datos",
+        "asimetrias",
+        "objetivos-individuales",
+        "activacion-neuromuscular",
+        "control-motor"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Evaluación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se utilizan los datos de los tests para diseñar planes individuales?",
+        "¿En qué bloques se divide un plan preventivo en el fútbol?"
+      ],
+      "related_terms": [
+        "cruce",
+        "datos",
+        "objetivos",
+        "asimetrías",
+        "movilidad",
+        "control",
+        "motor"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se describen las herramientas y tests utilizados en la primera valoración de las jugadoras.",
+      "context_after": "Se muestra un ejemplo práctico de cómo se calendariza y ejecuta este plan durante un microciclo de entrenamiento."
+    },
+    {
+      "id": "V02-006",
+      "video_title": "La optimización individual: la jugadora como referente del modelo",
+      "speaker": "Manuel",
+      "start_timestamp": "00:16:13",
+      "end_timestamp": "00:20:40",
+      "start_seconds": 973,
+      "end_seconds": 1240,
+      "duration_seconds": 267,
+      "timestamp_url": "?t=973",
+      "title": "Implementación, supervisión y reevaluación del protocolo de activación",
+      "summary": "El protocolo se programa en el microciclo (ej. martes y jueves pre-sesión) y requiere constante supervisión para que la jugadora adhiera al trabajo. Se evalúa cada 4 a 6 semanas o ante nuevas molestias, modificando o sumando objetivos si los previos se han cumplido o estancado.",
+      "literal_quote": "Una vez que vemos que la jugadora ha cumplido con ese plan durante cuatro, cinco, seis semanas y ya el estímulo no le supone una mejora, reevaluamos para modificar.",
+      "full_transcript": "Diseñamos este test en la primera sesión de entrenamiento... Tardamos más o menos una semana en valorar a todas las jugadoras... se lo enseñamos a la jugadora, estamos los dos profesionales que tiene cada jugadora asignados en gimnasio y ya nos vamos a la ejecución del plan... Ahora bien, la jugadora tiene tres objetivos... Vamos a intentar orientarla sobre qué días es más importante o qué días es obligatorio cumplir este plan... ¿Tienen que ser justamente esos ejercicios? No tiene por qué. Empezamos con esos ejercicios, pero luego si la jugadora ve que algún ejercicio no le funciona... lo modificamos. En este caso... la jugadora va a recibir el domingo esta planificación individual. Tiene que realizar su protocolo individual de activación martes y jueves, pre sesión de entrenamiento... Y bueno, por concluir un poco este plan individual. Todo parte de una valoración inicial con un trabajo multidisciplinar. Identificamos eslabones débiles, diseñamos el protocolo individual de activación, programamos en semana qué días son los clave... Supervisamos, porque a la jugadora si no le va a costar, si no se siente atendida con atención y cuidada, quizás va a dejar de hacerlo, porque la experiencia nos dice que a las dos semanas va a dejar de hacerlo y luego van a empezar a aparecer otra vez las molestias. Supervisamos y una vez que vemos que la jugadora ha cumplido con ese plan durante cuatro, cinco, seis semanas y ya el estímulo no le supone una mejora, reevaluamos para modificar. Igualmente, si durante esas seis semanas se ha producido alguna molestia puntual o crónica, reevaluamos e identificamos otro objetivo... Ese sería el objetivo principal... que la jugadora esté con mejor sensación y mucho más activa.",
+      "keywords": [
+        "microciclo",
+        "supervision",
+        "adherencia",
+        "reevaluacion",
+        "protocolo-activacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuándo se debe reevaluar el plan preventivo de una jugadora?",
+        "¿Cómo se distribuye el trabajo de activación individual en un microciclo?"
+      ],
+      "related_terms": [
+        "supervisión",
+        "reevaluación",
+        "microciclo",
+        "protocolo",
+        "adherencia",
+        "estímulo"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se diseña el plan en la primera semana con 3 objetivos específicos según el cruce de datos.",
+      "context_after": "Cierre de la primera parte de la presentación sobre la fase preventiva, para dar paso a la sesión optimizadora."
+    }
+  ]
+}

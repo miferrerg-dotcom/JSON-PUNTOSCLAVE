@@ -1,0 +1,399 @@
+{
+  "video": {
+    "video_id": "V07",
+    "video_title": "La optimización individual: fuerza en el microciclo",
+    "speaker": "Antonio Miranda",
+    "total_duration": "00:25:42",
+    "total_duration_seconds": 1542,
+    "source_file": "WEBVTT-3B",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V07-001",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:01:13",
+      "start_seconds": 2,
+      "end_seconds": 73,
+      "duration_seconds": 71,
+      "timestamp_url": "?t=2",
+      "title": "Introducción al trabajo de fuerza y experiencia profesional",
+      "summary": "Antonio Miranda presenta la tercera ponencia de su bloque, ahora enfocada específicamente en la optimización condicional de la fuerza. Repasa brevemente su experiencia previa en clubes de élite como Atlético de Madrid, Madrid CFF y Athletic Club de Bilbao.",
+      "literal_quote": "Ahora, en esta última parte, voy a hablar sobre la optimización condicional, pero mucho más enfocados en la fuerza.",
+      "full_transcript": "Buenas tardes. Mi nombre es Antonio Miranda. Es la tercera ponencia en la que hablo sobre la optimización individual. Anteriormente hemos estado hablando de las estrategias de recuperación y de cómo crear un perfil de rendimiento de la jugadora... Ahora, en esta última parte, voy a hablar sobre la optimización condicional, pero mucho más enfocados en la fuerza. Como ya os dije antes, actualmente estoy en el Atlético de Madrid femenino, primer equipo, soy strength and conditioning... inicié mi carrera en Primera División de la mano del Madrid Club de Fútbol Femenino. También he tenido una temporada la oportunidad de ser asistente del entrenador en Athletic Club de Bilbao. A nivel formativo, soy graduado en Ciencias del Deporte, con un máster en preparación física en fútbol y entrenamiento de la fuerza en fútbol, experto en rehabilitación de lesiones por el INEFC y certificado de la NSCA.",
+      "keywords": [
+        "optimizacion-condicional",
+        "fuerza",
+        "strength-and-conditioning",
+        "experiencia-profesional",
+        "ciencias-del-deporte"
+      ],
+      "entities": [
+        "Atlético de Madrid femenino",
+        "Madrid Club de Fútbol Femenino",
+        "Athletic Club de Bilbao",
+        "INEFC",
+        "NSCA"
+      ],
+      "topics": [
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Introducción",
+        "Experiencia profesional"
+      ],
+      "search_questions": [
+        "¿Quién presenta la ponencia sobre la fuerza en el microciclo?",
+        "¿Cuál es la trayectoria profesional de Antonio Miranda en el fútbol femenino?"
+      ],
+      "related_terms": [
+        "optimización",
+        "condicional",
+        "fuerza",
+        "entrenador",
+        "preparación física"
+      ],
+      "relevance_score": 3,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Presentación del índice y recordatorio de cómo el modelo de juego impacta en la preparación física."
+    },
+    {
+      "id": "V07-002",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:01:18",
+      "end_timestamp": "00:04:38",
+      "start_seconds": 78,
+      "end_seconds": 278,
+      "duration_seconds": 200,
+      "timestamp_url": "?t=78",
+      "title": "Objetivos y contenidos del trabajo de fuerza",
+      "summary": "Se definen los objetivos del entrenamiento de fuerza: aumentar las capacidades físicas (ser más fuerte y resistente), integrarlas al campo y aplicar estímulos colectivos sin generar fatiga para la competición. La clave es potenciar las mayores virtudes de la jugadora y corregir sus eslabones débiles.",
+      "literal_quote": "Queremos que la jugadora sea mejor en lo que es mejor y que lo potencie lo máximo posible. Y corregir eslabones débiles...",
+      "full_transcript": "En la introducción nos volvemos a repetir... el modelo de juego define, entre otras cosas, qué quiere hacer el equipo... El modelo de juego tiene unos comportamientos colectivos y estos nos demandan unas características o unas exigencias individuales. De ahí parte nuestra optimización de la futbolista... Tenemos tres contenidos específicos, que son las capacidades, el entrenamiento colectivo y el entrenamiento optimizador... En capacidades, aumentar las capacidades físicas de la jugadora. Queremos hacerla mucho mejor atleta. Integrar esas capacidades en el juego... Hacerla más fuerte y más resistente. En cuanto al entrenamiento colectivo, aplicarle el estímulo correcto cada día de la semana, crear una adaptación sin fatiga para la competición... Y el entrenamiento optimizador, más enfocado a la individualidad de la jugadora, mejorar el perfil de rendimiento... explotar las capacidades potenciales, ese potenciar versus mejorar. Queremos que la jugadora sea mejor en lo que es mejor y que lo potencie lo máximo posible. Y corregir eslabones débiles, que es lo que hablábamos de que no nos olvidamos de mejorar... tenemos dos planes, uno preventivo y uno optimizador.",
+      "keywords": [
+        "modelo-de-juego",
+        "capacidades-fisicas",
+        "entrenamiento-colectivo",
+        "entrenamiento-optimizador",
+        "potenciar-virtudes",
+        "eslabones-debiles"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los principales objetivos del entrenamiento de fuerza en el fútbol femenino?",
+        "¿Por qué es importante potenciar las fortalezas de la jugadora en lugar de solo corregir debilidades?"
+      ],
+      "related_terms": [
+        "capacidades",
+        "colectivo",
+        "optimizador",
+        "fatiga",
+        "rendimiento",
+        "perfil"
+      ],
+      "relevance_score": 5,
+      "context_before": "Breve introducción profesional e índice de los temas de la charla.",
+      "context_after": "Se explica la planificación a largo plazo de los microciclos basándose en evidencia científica."
+    },
+    {
+      "id": "V07-003",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:04:44",
+      "end_timestamp": "00:09:15",
+      "start_seconds": 284,
+      "end_seconds": 555,
+      "duration_seconds": 271,
+      "timestamp_url": "?t=284",
+      "title": "Planificación meso y respaldo de la evidencia científica",
+      "summary": "Aunque el fútbol funciona semana a semana, el trabajo de fuerza exige planificaciones de 4 a 6 semanas (mesociclos) evaluando la carga aguda y crónica. Antonio destaca la importancia de respaldar el entrenamiento en la ciencia, citando métodos como el 'contrast training' para mejorar la aceleración y los requisitos de volumen mínimo para la hipertrofia o la ganancia de fuerza máxima.",
+      "literal_quote": "Aunque el fútbol sea un deporte de microciclos... nosotros como entrenadores de la fuerza y aplicar el estímulo optimizador, necesitamos planificar en una mayor temporalidad. Nosotros aplicamos o programamos de cinco a seis semanas.",
+      "full_transcript": "Dentro del microciclo hay diferentes días para dar una tipología de estímulos... Nos basamos también mucho en la evidencia científica. Intentamos que todo lo nuevo que salga... que vengan de la ciencia, de los 'papers', de los trabajos de los compañeros de investigación... Aunque el fútbol sea un deporte de microciclos, que siempre hemos hablado de que semana a semana, nosotros como entrenadores de la fuerza y aplicar el estímulo optimizador, necesitamos planificar en una mayor temporalidad. Nosotros aplicamos o programamos de cinco a seis semanas, dependiendo de nuestras ventanas FIFA, pero hacemos planificaciones meso. Conocer las cargas de entrenamiento semanales para poder aplicar el estímulo correcto. Los ratios que tenemos de carga aguda, crónica... nos va a hacer aplicar unos microciclos individualizados o no... Si yo sé que va a ser una semana de mayor carga porque tenemos más días de entrenamiento o de menor carga... habrá que congestionar, dividir, aplicar un estímulo de fuerza diferente. Más en ciencia, podemos hablar de que hay estudios que utilizan métodos de contrastes para mejorar la aceleración, la velocidad... programar entre cuatro o seis semanas sería lo ideal. La hipertrofia es similar, como dice Iversen... proximidad al fallo. Pero para ganancias de fuerza máxima, las cargas pesadas, más de un 60 % de la RM, siguen siendo superiores... la temporalidad de las cargas... se recomienda un mínimo de cuatro series semanales por grupos musculares.",
+      "keywords": [
+        "planificacion-meso",
+        "evidencia-cientifica",
+        "carga-aguda-cronica",
+        "contrast-training",
+        "hipertrofia",
+        "fuerza-maxima"
+      ],
+      "entities": [
+        "Iversen",
+        "FIFA"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué la planificación de fuerza no debe hacerse solo de semana a semana?",
+        "¿Qué evidencia científica apoya el entrenamiento de contrastes en el fútbol?"
+      ],
+      "related_terms": [
+        "microciclo",
+        "meso",
+        "carga",
+        "aguda",
+        "crónica",
+        "ciencia",
+        "contrastes"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detallan los tres tipos de contenido (capacidades, colectivo, optimizador).",
+      "context_after": "Se presenta la distribución exacta de días dentro de un microciclo patrón general."
+    },
+    {
+      "id": "V07-004",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:09:15",
+      "end_timestamp": "00:11:32",
+      "start_seconds": 555,
+      "end_seconds": 692,
+      "duration_seconds": 137,
+      "timestamp_url": "?t=555",
+      "title": "Estructuración del microciclo patrón de fuerza",
+      "summary": "Se presenta el modelo de un microciclo limpio (domingo a domingo). Está compuesto por dos días de recuperación, dos de acumulación y dos de activación. El MD+1 es regenerativo, el MD-4 es pre/post fuerza estructural, el MD-3 incluye patrones de movimiento y optimización individual (doble sesión), el MD-2 baja la carga, y el MD-1 sirve como sesión priming.",
+      "literal_quote": "Siempre intentamos aplicar dos días de recuperación, dos días de acumulación y dos días de activación prepartido.",
+      "full_transcript": "Controlar la carga de entrenamiento de fuerza es importante para conocer cómo responde el cuerpo a lo largo de las semanas... Días centrales de la semana son los adecuados para poder aplicar las adaptaciones musculares deseadas... ¿Cómo estructuramos, cómo programamos la fuerza dentro del microciclo? Esto sería un microciclo patrón o general de una semana limpia de domingo a domingo... donde siempre intentamos aplicar dos días de recuperación, dos días de acumulación y dos días de activación prepartido. ¿Y cómo desarrollamos o cómo programamos los contenidos? En +1, de normal hacemos un regenerativo... donde trabajamos miembro superior y core o miembro inferior y excéntricos. Luego en +2 tenemos día libre de normal... Y luego tenemos dos días de acumulación o dos días de alta carga, donde en -4 podemos hacer un trabajo de fuerza pre o post... Y en -3, presesión habría una activación de patrones de movimiento y ahí encontramos en una doble sesión el trabajo de optimización individual. Y después, los dos días siguientes sería una bajada de carga donde trabajaríamos miembro superior y core también. Y luego una activación en -1 para activar para el partido, donde haríamos una sesión de fuerza rápida en presesión. Esto puede cambiar con el microciclo... Las cargas de entrenamiento de fuerza no son iguales en un microciclo que en otro.",
+      "keywords": [
+        "microciclo-patron",
+        "regenerativo",
+        "acumulacion",
+        "activacion",
+        "priming",
+        "match-day-3"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se estructuran los días de fuerza en un microciclo tipo?",
+        "¿En qué días se acumula la mayor carga de entrenamiento de fuerza semanal?"
+      ],
+      "related_terms": [
+        "recuperación",
+        "acumulación",
+        "activación",
+        "prepartido",
+        "patrones",
+        "microciclo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Justificación científica para planificar a 4-6 semanas y monitorizar cargas.",
+      "context_after": "Se entra al detalle de los objetivos y ejercicios de los días +1 (Regenerativo) y -4 (Estructural)."
+    },
+    {
+      "id": "V07-005",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:12:10",
+      "end_timestamp": "00:15:24",
+      "start_seconds": 730,
+      "end_seconds": 924,
+      "duration_seconds": 194,
+      "timestamp_url": "?t=730",
+      "title": "Diferenciación entre +1 (Regenerativo/Compensatorio) y -4 (Estructural)",
+      "summary": "En el MD+1, las titulares hacen un trabajo regenerativo (aeróbico bajo, liberación, anabolismo de tren superior y estímulos excéntricos leves). Las suplentes hacen un compensatorio (hipertrofia superior, aeróbico alto). El MD-4 se enfoca en adaptaciones estructurales musculares mezclando distintas cargas, velocidades o isométricos pesados para reducir impacto articular.",
+      "literal_quote": "En menos cuatro tenemos un objetivo estructural, donde buscamos adaptaciones musculares con el foco en la estructura muscular.",
+      "full_transcript": "Este sería un ejemplo de regenerativo... estímulos de liberación de cadenas musculares, sobre todo para activar y compensar con grupos musculares de menor estimulación en partido. Trabajo de miembro superior para un anabolismo natural. Es un día también en que podemos tirar con más peso... Un trabajo aeróbico de baja carga... y una microdosis excéntrica según cargas y microciclo. Si vamos a hacer un día libre, al día siguiente podemos dar una microdosis de un estímulo excéntrico... Al igual que en más uno hay jugadoras que hacen un regenerativo, hay jugadoras que hacen un compensatorio. Entonces, cambia un poco su dinámica... Un trabajo de tren superior con objetivo de hipertrofia... Un trabajo aeróbico de alta intensidad para compensar cargas de competición y un estímulo post entrenamiento a miembro inferior... Como hemos hablado, en menos cuatro tenemos un objetivo estructural, donde buscamos adaptaciones musculares con el foco en la estructura muscular. Combinamos pesos altos o bajos con velocidades altas o más bajas... o incluso isométricos para reducir esa carga mecánica, pero que todavía me valga para crear adaptaciones a nivel estructural. Es importante también conocer que si venimos de dos días libres, podemos tener un objetivo también de estructuras sensibles, que llamamos, que es activar un poco esas estructuras para el campo y luego en el post a lo mejor sí que meter un estímulo más estructural.",
+      "keywords": [
+        "regenerativo",
+        "compensatorio",
+        "anabolismo",
+        "hipertrofia",
+        "trabajo-estructural",
+        "fuerza-excentrica"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre una sesión regenerativa y una compensatoria en el día +1?",
+        "¿Qué tipo de trabajo físico se realiza en el match day -4?"
+      ],
+      "related_terms": [
+        "regenerativo",
+        "compensatorio",
+        "miembro superior",
+        "estructural",
+        "isométricos",
+        "carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición del microciclo patrón completo de la semana.",
+      "context_after": "Se describe el día -3 y la sesión de reactivación rápida (priming) del día -1."
+    },
+    {
+      "id": "V07-006",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:16:11",
+      "end_timestamp": "00:18:15",
+      "start_seconds": 971,
+      "end_seconds": 1095,
+      "duration_seconds": 124,
+      "timestamp_url": "?t=971",
+      "title": "Patrones de movimiento (MD-3) y sesión de Priming (MD-1)",
+      "summary": "El MD-3 aísla acciones del contexto deportivo (desplazamientos multidireccionales, rotaciones, frenadas). Tras bajar la carga en el MD-2, el MD-1 se usa como sesión de 'priming' (fuerza rápida). Se busca mover cargas a 1 metro por segundo y se aplica entrenamiento de contrastes y pliometrías cortas para activar.",
+      "literal_quote": "Nuestra pre main session sería en menos uno... trabajos de fuerza aplicada con más o menos carga... pero normalmente intentamos trabajar a un metro segundo.",
+      "full_transcript": "El día de patrones de movimiento, que sería en el menos tres... los objetivos de este día en los patrones de movimiento es buscar reproducir movimientos que se dan en contexto deportivo, intentar aislarlo y descomponerlos para centrar el objetivo en esa coordinación y velocidad de ejecución... la base de estos días son los desplazamientos lineales multidireccionales y rotacionales... trabajos de movimientos que salen del core para los cambios de dirección, frenadas y desaceleraciones laterales... nos preparan para campo, para una sesión intensa de espacios un poco más amplios... en menos dos, haríamos una bajada de carga y es un día bastante interesante para meter ese estímulo de miembro superior... Importante: nuestra pre main session sería en menos uno. Serían trabajos de fuerza aplicada con más o menos carga... pero normalmente intentamos trabajar a un metro segundo. Con un trabajo de contrastes, también haciendo pliometrías y lanzamientos.",
+      "keywords": [
+        "patrones-movimiento",
+        "desplazamientos-multidireccionales",
+        "priming",
+        "fuerza-rapida",
+        "contrastes",
+        "pliometria"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué se entrena físicamente el día antes del partido (MD-1)?",
+        "¿En qué consisten los patrones de movimiento del match day -3?"
+      ],
+      "related_terms": [
+        "patrones",
+        "rotacionales",
+        "frenadas",
+        "priming",
+        "metro segundo",
+        "contrastes"
+      ],
+      "relevance_score": 4,
+      "context_before": "Detalle de los entrenamientos estructurales y compensatorios a inicio de semana.",
+      "context_after": "Se presenta el mapa semanal para insertar las microdosis y el plan optimizador individual post-campo en MD-3."
+    },
+    {
+      "id": "V07-007",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:18:15",
+      "end_timestamp": "00:22:52",
+      "start_seconds": 1095,
+      "end_seconds": 1372,
+      "duration_seconds": 277,
+      "timestamp_url": "?t=1095",
+      "title": "Inserción de microdosis y la doble sesión optimizadora (MD-3)",
+      "summary": "Las microdosis extras se programan en días como MD+1, MD-4 o MD-2 según fatiga. La sesión principal de optimización individual ocurre en MD-3 (post-entrenamiento), configurando una doble sesión. Se usan ejercicios complejos (pliometría, frenadas laterales) guiados por material visual (vídeos/fotos) para garantizar la calidad cuando la jugadora entrena de forma autónoma o fuera del club.",
+      "literal_quote": "El entrenamiento potenciador principal de su optimizador individual, la doble sesión de entrenamiento... La jugadora tiene un plan individualizado para ella, en base a su perfil.",
+      "full_transcript": "Y vamos a cómo estructuramos la fuerza en el microciclo de manera individual. Hemos hablado de la parte colectiva, ahora vamos a hablar de la parte individual. Necesitamos ver dónde podemos meter esas microdosis... en el más uno, si la jugadora tiene menos minutos, podemos dar una microdosis ahí. En el menos cuatro, que venimos sin fatiga, podemos dar otra microdosis ahí. En el menos dos, dependiendo de sus cargas, podemos dar otra microdosis ahí. Esto es un programa individual que mandamos a las jugadoras, que les creamos... Intentamos programar los estímulos extras al entrenamiento colectivo... Como veis en menos cuatro podemos dar una microdosis pequeña. Hablamos de cuatro ejercicios... con una dosis bastante pequeña, movido a la máxima intensidad y con la mayor intención... Dentro de este microciclo, como hemos visto en este optimizador post-sesión, de menos tres... Entrenamiento potenciador principal de su optimizador individual, la doble sesión de entrenamiento. ¿Esto qué significa? La jugadora tiene un plan individualizado para ella, en base a su perfil... Lo realiza en la doble sesión en menos tres, tiene objetivo en base a su perfil, está supervisado por nosotros... Normalmente contamos con dos bloques, ocho ejercicios... Lleva también consigo unos contenidos visuales para que la jugadora pueda saber qué está haciendo, cómo se hace. Lo lleva en forma de foto en el papel, pero también lo tenemos en forma de vídeo por si cualquier día hay que hacérselo llegar... Pongo algunos ejemplos: patrones rotacionales de primer paso, cambio de dirección... También patrones de desaceleración con giros y aceleraciones... Pliometrías algo más complejas. Al final son ejercicios mucho más complejos... invitamos a la jugadora a que sea intentemos hacerlo por la tarde para que no exista una fatiga alta.",
+      "keywords": [
+        "microdosis",
+        "optimizador-individual",
+        "doble-sesion",
+        "match-day-3",
+        "material-visual",
+        "ejercicios-complejos"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo se recomienda introducir microdosis de fuerza en el microciclo?",
+        "¿Cómo se gestiona la sesión optimizadora individual para asegurar que la jugadora la ejecute bien?"
+      ],
+      "related_terms": [
+        "microdosis",
+        "individual",
+        "doble sesión",
+        "menos tres",
+        "visual",
+        "pliometrías"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición del tipo de fuerza aplicada cada día hasta llegar al priming previo al partido.",
+      "context_after": "Cita de Rafa Nadal sobre la superación y las conclusiones finales de la ponencia."
+    },
+    {
+      "id": "V07-008",
+      "video_title": "La optimización individual: fuerza en el microciclo",
+      "speaker": "Antonio Miranda",
+      "start_timestamp": "00:22:54",
+      "end_timestamp": "00:25:42",
+      "start_seconds": 1374,
+      "end_seconds": 1542,
+      "duration_seconds": 168,
+      "timestamp_url": "?t=1374",
+      "title": "Conclusiones: educación, feedback y hábitos de la jugadora",
+      "summary": "Antonio cierra la ponencia con una cita de Rafa Nadal sobre la ambición de mejorar diariamente. Recalca que el éxito depende de educar a la jugadora, hacerla partícipe de su rendimiento, adaptar el entrenamiento a sus hábitos (horarios de sueño, preferencias) y fomentar el feedback constante para ajustar los ejercicios (progresar o regresar).",
+      "literal_quote": "Que la jugadora sea responsable y participe de su rendimiento y su optimización. Feedback para poder controlar esos detalles. 'Oye, Toni, este ejercicio no me va bien, noto molestias en esto'.",
+      "full_transcript": "Terminando con esta parte de la ponencia, Rafa Nadal dijo: 'Aunque ya haya alcanzado mi máximo nivel, tengo que creer que puedo mejorar. Me levanto cada mañana y voy a entrenar con la ilusión de que ese día voy a ser mejor'. Esto de la planificación y optimización individual para la jugadora tiene que ser así... ¿Y cómo somos mejores? Aplicando un estímulo individual en base a un perfil condicional. Estas conclusiones: programar contenidos que no interfieran en los contenidos de campo. Ser consciente de los tiempos y los días que necesitamos para recuperar... Educar a la jugadora en los contenidos a trabajar de la fuerza... Centrar el entrenamiento individual al perfil de la jugadora... Conocer a la jugadora para crear una programación acorde a sus hábitos diarios, si prefiere dormir más, si le gusta hacer más trabajo pre o más trabajo post, si no le importa venir por la tarde. También tenerlo controlado tanto en su programación como en las estrategias de recuperación... Que la jugadora sea responsable y participe de su rendimiento y su optimización. Feedback para poder controlar esos detalles. 'Oye, Toni, este ejercicio no me va bien, noto molestias en esto'. Podemos progresar o regresar en los ejercicios. Encontrar el equilibrio entre lo que la jugadora quiere desarrollar y lo que nosotros sabemos que tiene que potenciar... Encontrar estímulos idóneos y exóticos para que la jugadora encuentre efectivo y motivante el entrenamiento... Y acompañar con material visual... Creo que hemos explicado, tanto Manu como yo, lo que hacemos día a día de la manera más real posible... Muchísimas gracias, espero que haya sido de vuestro interés y que nos veamos pronto.",
+      "keywords": [
+        "educacion-deportista",
+        "habitos-diarios",
+        "feedback",
+        "motivacion",
+        "responsabilidad",
+        "conclusiones"
+      ],
+      "entities": [
+        "Rafa Nadal",
+        "Manu"
+      ],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Recomendación"
+      ],
+      "search_questions": [
+        "¿Qué papel juega el feedback de la jugadora en el diseño del entrenamiento de fuerza?",
+        "¿Por qué es vital adaptar el entrenamiento a los hábitos diarios de la futbolista?"
+      ],
+      "related_terms": [
+        "educar",
+        "hábitos",
+        "feedback",
+        "responsable",
+        "motivante",
+        "visual"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación de cómo gestionar la doble sesión individual del MD-3 utilizando vídeos o fotos.",
+      "context_after": "Fin del vídeo y despedida con datos de contacto."
+    }
+  ]
+}
