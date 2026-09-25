@@ -3,8 +3,8 @@
     "video_id": "V01",
     "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
     "speaker": "Ander Romarate",
-    "total_duration": "00:47:59",
-    "total_duration_seconds": 2879,
+    "total_duration": "00:46:26",
+    "total_duration_seconds": 2786,
     "source_file": "WEBVTT",
     "language": "es"
   },
@@ -628,55 +628,7 @@
       ],
       "relevance_score": 5,
       "context_before": "El rendimiento también se ve afectado por el equipamiento (silla, prótesis), la clasificación deportiva y la logística. Un problema logístico (ej: mal descanso por falta de autonomía) se convierte en problema de rendimiento. Hay que diseñar el sistema alrededor del deportista, no adaptar uno existente.",
-      "context_after": "Se presenta un apéndice/cierre que refuerza el concepto central de cómo gestionar las interacciones cruzadas en departamentos."
-    },
-    {
-      "id": "V01-014",
-      "video_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
-      "speaker": "Ander Romarate",
-      "start_timestamp": "00:46:29",
-      "end_timestamp": "00:47:59",
-      "start_seconds": 2789,
-      "end_seconds": 2879,
-      "duration_seconds": 90,
-      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=2789",
-      "title": "Interfaces y dinámicas cruzadas (Return to Play)",
-      "summary": "Se reitera la importancia de gestionar interfaces en problemas compartidos. Por ejemplo, el retorno de un jugador tras lesión (Return to Play) no depende solo de un departamento; requiere nutrición, logística, médicos y preparadores físicos trabajando alineados.",
-      "literal_quote": "Muchos problemas, por ejemplo, de rendimiento que tenemos con un deportista, no respetan las fronteras que hay entre nuestros departamentos.",
-      "full_transcript": "Aquí aparece una idea que quiero utilizar varias veces a lo largo de esta clase, que son las interfaces. Muchos problemas, por ejemplo, de rendimiento que tenemos con un deportista, no respetan las fronteras que hay entre nuestros departamentos. Por ejemplo, cuando un deportista retorna a la dinámica de equipo después de una lesión, este retorno no va a depender exclusivamente ni del médico, ni del fisioterapeuta, ni del preparador físico. También, por ejemplo, la prescripción del entrenamiento puede exigir integrar el criterio del entrenador con otros criterios fisiológicos que se marca el preparador físico. En el caso de la preparación nutricional, también, el plan nutricional no va a depender únicamente de lo que el nutricionista paute. También, por ejemplo, la logística del desplazamiento del deportista va a tener una relación o va a tener una implicación en el plan nutricional que nosotros le mandemos al deportista. Es decir, podemos tener profesionales que hacen muy bien su trabajo dentro de su parcela y, sin embargo, fallar en la decisión global que nosotros tomamos. Y a fin de cuentas, esto va a repercutir al rendimiento del deportista. Y cuantos más problemas atraviesen fronteras disciplinares, mayor va a ser la necesidad de coordinarnos entre nosotros. Y esto nos lleva a la siguiente cuestión. Si el problema es compartido, ¿cómo deberían colaborar los especialistas entre sí?",
-      "keywords": [
-        "interfaces",
-        "return-to-play",
-        "lesion",
-        "fronteras-departamentales",
-        "decision-global"
-      ],
-      "entities": [],
-      "topics": [
-        "Staff Management",
-        "Return to Play",
-        "Comunicación"
-      ],
-      "content_type": [
-        "Explicación",
-        "Reflexión"
-      ],
-      "search_questions": [
-        "¿Qué explica Ander Romarate sobre interfaces y dinámicas cruzadas (return to play)?",
-        "¿Dónde se usa el return to play como ejemplo de una interfaz interdisciplinar?",
-        "¿Por qué un especialista excelente puede fallar en la decisión global?"
-      ],
-      "related_terms": [
-        "interfaces",
-        "dinámicas",
-        "cruzadas",
-        "return to play",
-        "staff management",
-        "comunicación"
-      ],
-      "relevance_score": 4,
-      "context_before": "Resumen de la clase en 5 principios: 1) Empezar por el problema de rendimiento; 2) Diseñar alrededor del deportista; 3) Integrar cuando hay alta interdependencia; 4) Aclarar las responsabilidades y decisiones; 5) Tratar el contexto como variable de rendimiento.",
-      "context_after": "Fin del fragmento provisto."
+      "context_after": "Fin del webinar."
     }
   ]
 }
