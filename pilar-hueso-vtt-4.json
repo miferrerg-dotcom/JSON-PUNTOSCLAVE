@@ -1,0 +1,197 @@
+{
+  "video": {
+    "video_id": "V05",
+    "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+    "speaker": "Pilar Hueso Martos",
+    "total_duration": "12:02",
+    "total_duration_seconds": 722,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V05-001",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "00:05",
+      "end_timestamp": "03:40",
+      "start_seconds": 5,
+      "end_seconds": 220,
+      "duration_seconds": 215,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=5",
+      "title": "Fases y estructura del Return to Play",
+      "summary": "Se divide el 'Return to Play' en áreas de readaptación (rehabilitación, aproximación, orientación) y reentrenamiento (preoptimización, optimización y control). Es crucial la comunicación con el staff médico para definir los tiempos biológicos y establecer las altas (médica, deportiva y competitiva).",
+      "literal_quote": "Es esencial que tengamos esta comunicación con staff médico, staff performance, para saber cuáles son los procesos de timing de la lesión deportiva de nuestro jugador.",
+      "full_transcript": "A continuación, como estaba anteriormente exponiendo, vamos a hablar de cuáles son las fases de este protocolo de \"return to play\". Os repito, para mí esta diapositiva de la que anteriormente hemos estado hablando es esencial, sobre todo el tema de saber cuándo tenemos las altas, es decir, cuál es la baja médica, el alta médica, el alta deportiva y el alta competitiva. Esto dependerá del tipo de lesión que tengamos, pero es esencial que tengamos esta comunicación con staff médico, staff performance, para saber cuáles son los procesos de timing de la lesión deportiva de nuestro jugador. A partir de aquí vamos a crear ese \"return to play\", ese return to vuelta al trabajo, vuelta a la acción competitiva. ¿Cuáles son las fases en las que yo la divido? Tenemos una fase de rehabilitación. ¿Cuál es el criterio que yo utilizo aquí? Por ejemplo, ideas importantes. Es interesantísimo y básico el respeto del tiempo lesivo del aspecto biológico de la lesión. Es muy importante saber cuáles son los tiempos biológicos de este tejido lesionado, puesto que en este momento las acciones son mucho más analíticas, mucho más controladas y no puede haber ningún tipo de riesgo, puesto que aumentaríamos el tiempo de recuperación en el caso de pasarnos en esta fase. Una fase mucho más fisioterapéutica, mucho más en camilla y de mantenimiento del aspecto de rendimiento de la jugadora muy básico. Fase de aproximación. Aquí son acciones mucho más de fuerza. Focalizamos en los rangos de fuerza de ese tejido lesivo de menos a más y es muy importante aquí el timing de activación. Vamos a la fase de orientación, acciones más orientadas hacia el rendimiento. La acción con respecto a la anterior es de mayor intensidad. Acciones más funcionales, empezamos a meter un poquito más de CEA, de reactivaciones. Buscamos sobre todo que haya mayor confianza psicológica. Vamos avanzando, nuestra exigencia es cada vez mayor, el rendimiento de la jugadora es cada vez mayor. Aquí la acción va siendo un poquito más compleja. Sobre todo porque llamamos a patrones motores, a patrones un poquito más reales, un poquito más basados en la fatiga. Y aquí es muy interesante el control a nivel de GPS. Aquí la exigencia ya es mayor. Nos vamos a la fase de optimación, quinta fase. Aquí ya es real. Aquí no tenemos tanta limitación a nivel de acción del tejido lesivo. Aquí exponemos al tejido lesivo. La jugadora tiene que estar con cero dolor, cero procesos externos. En el ejemplo me refiero a después del entrenamiento, que no haya dolor, que no haya inflamación, que la zona no esté caliente. Aquí no tiene que haber ningún tipo de adaptación, es decir, de compensación, y el timing de activación tiene que ser totalmente positivo, no creando sobrecargas. Y por último, acción de control. A pesar de que la jugadora ya esté readaptada, ya esté compitiendo, ya esté en fase de equipo, tenemos que seguir con este seguimiento de esa zona previamente lesionada, puesto que puede generar a la larga acciones de compensación por protección. La podemos limitar o podemos dividirla en dos áreas. Un área de readaptación, donde vamos a tener esas primeras tres fases: rehabilitación, aproximación y orientación. Y una fase de reentrenamiento, que son: preoptimización, optimización y control. Estos son los dos caminos que dentro de un \"return to play\" existen.",
+      "keywords": [
+        "return-to-play",
+        "readaptacion",
+        "reentrenamiento",
+        "tiempo-biologico",
+        "altas-medicas",
+        "comunicacion"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Return to Play",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases del Return to Play según la ponente?",
+        "¿Por qué es importante respetar los tiempos biológicos en la rehabilitación?"
+      ],
+      "related_terms": [
+        "readaptación",
+        "reentrenamiento",
+        "tiempos biológicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de los hitos médicos en el proceso lesivo (alta médica, deportiva, competitiva).",
+      "context_after": "Se detalla la importancia de introducir la variabilidad, el caos y la evaluación cualitativa en estas etapas."
+    },
+    {
+      "id": "V05-002",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "03:40",
+      "end_timestamp": "06:49",
+      "start_seconds": 220,
+      "end_seconds": 409,
+      "duration_seconds": 189,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=220",
+      "title": "Introducción del caos, variabilidad y evaluación cualitativa",
+      "summary": "La progresión debe ir de lo simple a lo complejo, introduciendo el caos y la variabilidad bajo fatiga antes de la reincorporación al grupo. Es fundamental mantener un diálogo honesto con la jugadora e interpretar cualitativamente sus movimientos (fluidez, compensaciones) más allá de los datos numéricos de los dispositivos.",
+      "literal_quote": "Nosotros también tenemos que ver cuándo el movimiento es fluido... No solo siempre es el aspecto numérico, sino también el cómo se mueve la jugadora. Te va a dar mucha más información en algunos momentos que el GPS.",
+      "full_transcript": "Para mí es bastante interesante saber sobre todo cuándo introducir el caos, es decir, cuándo introducir esa mayor variabilidad, esa mayor exigencia física. Pero sobre todo, esto va muy de la mano también de la adaptación de las cargas por parte de la jugadora. Vais a encontrar que la jugadora, sobre todo cuando hay lesiones musculares, va a focalizar en punto. Por ejemplo, si tenemos una lesión de cuádriceps. Las lesiones de cuádriceps generalmente pueden ser un poquito más silenciosas, es decir, no dan tanta sintomatología como puede ser un isquiosural. Cada vez se va a focalizar cuando haya sobrecargas en la zona lesionada. Al principio suelen ser más globales y poco a poco va a ser más localizado ese punto, quizá armas de activación. Es interesante que haya un diálogo, pero sobre todo un diálogo honesto. ¿Cuándo quiero decir honesto? Porque no siempre va a ser honesto. La jugadora siempre va a querer jugar, siempre va a querer estar con el equipo. Es muy importante que nosotros también sepamos interpretar cuál es su comportamiento, ya no solo cuantitativo, sino cualitativo. Tenemos que conocer muy bien a nuestra jugadora, tenemos que saber cuándo está compensando. Porque una jugadora nos puede decir: \"No siento nada, estoy bien\", y que luego cuando reciba el balón veamos que hay una acción defensiva, es decir, hay un control excesivo de ese movimiento. Nosotros también tenemos que ver cuándo el movimiento es fluido, cuándo el timing no es alterado para saber que va bien en la lesión. No solo siempre es el aspecto numérico, sino también el cómo se mueve la jugadora. Te va a dar mucha más información en algunos momentos que el GPS. Como podéis ver en esta diapositiva anterior, es muy interesante saber cuándo introducir esos momentos de mayor exigencia, de mayor reclutamiento muscular, de mayor variabilidad y sobre todo complejidad. Vamos de una zona controlada a una zona menos controlada. Ese es nuestro objetivo. Nuestro objetivo es crear de lo simple a lo complejo. De la simpleza de un pase a introducir pase con control, con remate, cambio de plano, regate, acciones inverosímiles. Eso al final lo que va a crear es que la jugadora esté adaptada a diferentes planos, diferentes variables, que le va a dar confianza cuando esté con el equipo. Y esa introducción progresiva con el equipo será de un mayor éxito, que al final es el objetivo de todo readaptador, que no haya recaídas. Aquí lo veis muy simplificado. Todo lo que he dicho anteriormente es bastante complejo. Iniciamos una fase donde hay mucho control, donde ese control se va haciendo cada vez un poquito más, y nos vamos a esa fase de control medio, que es la fase de preoptimización. Introducción de variabilidad controlada, nos vamos a un puntito más alto, y ya el máximo es la acción previa antes de entrar con el equipo, donde a pesar de que hay un control, hay una réplica exacta de las demandas y sobre todo es muy importante llevarla hacia la fatiga.",
+      "keywords": [
+        "caos",
+        "variabilidad",
+        "cualitativo",
+        "compensacion",
+        "dialogo",
+        "fatiga"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Por qué es importante la evaluación cualitativa sobre la cuantitativa en la readaptación?",
+        "¿Cómo se introduce progresivamente la exigencia en una jugadora lesionada?"
+      ],
+      "related_terms": [
+        "aspecto cualitativo",
+        "fluidez de movimiento",
+        "introducción del caos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación teórica de las 6 fases de readaptación y reentrenamiento.",
+      "context_after": "Se abordan los factores invisibles (biopsicosociales, nutrición, estrés) que impactan en la readaptación."
+    },
+    {
+      "id": "V05-003",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "06:49",
+      "end_timestamp": "08:19",
+      "start_seconds": 409,
+      "end_seconds": 499,
+      "duration_seconds": 90,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=409",
+      "title": "Factores biopsicosociales y control de cargas extradeportivas",
+      "summary": "La individualización de la readaptación requiere considerar factores biopsicosociales: el perfil de la jugadora, estrés, variabilidad de la frecuencia cardíaca, nutrición y ciclo menstrual (síntomas premenstruales). Se recomienda centrarse en ejecutar de forma excelente lo controlable en lugar de obsesionarse por medir todas las variables.",
+      "literal_quote": "No siempre podemos controlar todas las variables que nos rodean, pero en los detalles encontramos la diferencia... lo que sepamos realizar bien, hacerlo de forma excelente.",
+      "full_transcript": "Clave de una readaptación deportiva bajo mi punto de vista, independientemente de la individualización, es la base. La base para mí de saber hacia qué camino voy según la jugadora y lesión que tenga. Perfil de la jugadora, su experiencia, si no tiene experiencia. Factores biopsicosociales. Es muy importante saber si esta jugadora previamente está estresada y algún componente externo que nos pueda influir también en esa evolución. El control de las cargas, tanto internas como externas. Es muy interesante tener ese control, por ejemplo, de la variabilidad de la frecuencia cardíaca, tan compleja como al mismo tiempo tan interesante esa medida del estrés. Esa nutrición, esos momentos de descanso. Individualización como variabilidad central, básico. Esa huella es muy importante. Las acciones biológicas críticas, es interesante saber también, ya no solo la experiencia, sino la edad de la jugadora, ciclo menstrual y sobre todo, cuáles son las acciones o la sintomatología premenstrual de nuestra jugadora. Hay, por ejemplo, acciones premenstruales como ese dolor de cabeza, estomacal, insomnio, que todo eso interfiere. Y clave, un buen diagnóstico. No siempre podemos controlar todas las variables que nos rodean, pero en los detalles encontramos la diferencia. Para mí esa es la clave. La clave es no obsesionarnos con controlar y lo que sepamos realizar bien, hacerlo de forma excelente. Esa es la clave para tener un buen éxito. ¿Cortamos aquí, porfi, Jorge?",
+      "keywords": [
+        "factores-biopsicosociales",
+        "control-cargas",
+        "frecuencia-cardiaca",
+        "ciclo-menstrual",
+        "nutricion",
+        "diagnostico"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué factores biopsicosociales influyen en la readaptación de una jugadora?",
+        "¿Cómo afectan los síntomas premenstruales al control de cargas?"
+      ],
+      "related_terms": [
+        "variabilidad de la frecuencia cardíaca",
+        "acciones premenstruales",
+        "factores extradeportivos"
+      ],
+      "relevance_score": 4,
+      "context_before": "La importancia del control cualitativo y la adaptación del entrenamiento hacia la fatiga.",
+      "context_after": "Se presenta el seguimiento post-reincorporación y el bucle preventivo de lesiones."
+    },
+    {
+      "id": "V05-004",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "08:19",
+      "end_timestamp": "12:02",
+      "start_seconds": 499,
+      "end_seconds": 722,
+      "duration_seconds": 223,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=499",
+      "title": "Seguimiento, reentrada al equipo y bucle preventivo",
+      "summary": "El proceso no termina con el alta competitiva; la gestión de la reentrada y la autonomía progresiva son vitales. Se debe monitorear la modificación de patrones motores (compensaciones por miedo en otras estructuras) y recrear el gesto lesivo bajo fatiga, consolidando un bucle constante entre readaptación, seguimiento y prevención.",
+      "literal_quote": "El proceso no termina con la alta competitiva, el momento más complejo es gestionar la reentrada con el equipo... La clave de nuestro trabajo tiene que ser estar el mayor tiempo posible en prevención.",
+      "full_transcript": "Perfecto, chicos. Ya nos vamos a este último pilar. El tercero. Vamos a hacer el seguimiento. Puesto que habéis visto las acciones de prevención, ¿qué ocurre cuando hay la acción lesiva? Ese protocolo, esas fases que hemos visto de aproximación, esas fases donde dividimos ese return to play. Y ahora notamos qué ocurre cuando nuestra jugadora ya está en momento competitivo. Es el proceso de seguimiento. Para mí, básico. Este se une a la prevención. Al final es un bucle, ahora lo vais a ver muy bien. Para mí esto es un balance que va desde los tiempos biológicos de tejido tisular, que hemos hablado de la lesión, hasta la exigencia competitiva del alto rendimiento en sí. Es un equilibrio difícil. El proceso no termina con la alta competitiva, el momento más complejo es gestionar la reentrada con el equipo. Autonomía progresiva. Esta jugadora poco a poco empieza ya a tener esa individualización mucho más lineal, individual ella misma. Y luego, sobre todo, el seguimiento de esos parámetros, en este caso a nivel de GPS, de wellness, de face to face en el diálogo con la jugadora. ¿Cuáles son para mí los ítems que hay que tener muy en cuenta cuando empieza esa reintroducción al equipo y esa estabilización con el equipo de la jugadora que previamente ha estado lesionada? Primero, aparición de lesiones, modificación de patrones motores. Cuando nosotros tenemos una lesión, por ejemplo, de mayor de dos meses, de cuatro semanas, cinco semanas, aquí va a haber compensaciones. Va a haber compensaciones y otras estructuras que no sea la estructura previamente lesiva, pueden estar posicionadas en momentos críticos. ¿Por qué? Porque hay momentos donde la jugadora va a defender o va a proteger esa zona que se ha lesionado. Ese miedo que se tiene, que nosotros como readaptadores tenemos que trabajarlo. Es por ello que es muy interesante que en esa última fase de readaptación, cuando ya estamos en la fase de aproximación, la fase ya de rendimiento, aquí es muy importante recrear el gesto lesivo. Y no solo una, sino recrearlo y además en fatiga. Hay que exponerla, porque con nosotros es cuando tiene que llegar al extremo, no con el equipo. Saber cuáles son esos patrones que puede estar modificando. Y eso es muy interesante con el diálogo. Cuando empieza a sobresalirse un poquito más el gemelo externo, por poner un ejemplo, lumbares. ¿Ahí qué está ocurriendo? Las sobrecargas continuas. Es muy importante ese diálogo que tenemos que tener con nuestro fisio. Por eso es interesante tener ese control de quién va a fisio, qué se ha tratado en fisio. Minutos competitivos, ese control de ese minutaje. Importante esa comunicación con performance, la progresión, siempre y cuando haya una asimilación. Y luego, sobre todo, crear esa línea paralela o esa línea de ida y vuelta de comunicación que sea muy fluida. Es un bucle. Es un bucle y es muy interesante, porque al final cuando este bucle se hace bien, la clave de nuestro trabajo tiene que ser estar el mayor tiempo posible en prevención. Prevención y reactivación. Ese es nuestro bucle de trabajo. Disminución de riesgo lesivo. Cuando estamos más tiempo en esa línea de trabajo, significa que poco a poco lo estamos haciendo bien, entre comillas, teniendo siempre en cuenta que hay muchas cosas que no controlaremos. En este bucle tenemos el bucle prevención, variables, lo que hemos hablado, recuperación, ese del control al caos, y luego ese seguimiento, monitorización, readaptación de las cargas, momentos donde es importante esas modificaciones pequeñitas que ayudan a esta jugadora",
+      "keywords": [
+        "seguimiento",
+        "reentrada",
+        "compensacion",
+        "bucle-preventivo",
+        "miedo",
+        "gesto-lesivo"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Evaluación",
+        "Return to Play",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante recrear el gesto lesivo en fatiga antes de la reincorporación?",
+        "¿Qué significa el bucle preventivo en la gestión de lesiones deportivas?"
+      ],
+      "related_terms": [
+        "autonomía progresiva",
+        "modificación de patrones motores",
+        "bucle de trabajo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Consideraciones sobre la individualización biopsicosocial en el control de carga.",
+      "context_after": "Finaliza el fragmento de la clase webvtt-4."
+    }
+  ]
+}

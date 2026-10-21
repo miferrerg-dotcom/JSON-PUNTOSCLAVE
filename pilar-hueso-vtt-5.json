@@ -1,0 +1,188 @@
+{
+  "video": {
+    "video_id": "V06",
+    "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+    "speaker": "Pilar Hueso Martos",
+    "total_duration": "11:25",
+    "total_duration_seconds": 685,
+    "source_file": "WEBVTT-5.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V06-001",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:23",
+      "start_seconds": 0,
+      "end_seconds": 143,
+      "duration_seconds": 143,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "El bloque infinito del rendimiento y control de carga",
+      "summary": "Pilar expone el 'bloque infinito de rendimiento', un ciclo continuo de prevención, lesión, recuperación y seguimiento. Subraya la importancia de identificar molestias antes de que sean lesiones limitantes, apoyándose en la comunicación con el preparador físico y los datos GPS para controlar la carga.",
+      "literal_quote": "Esta imagen es la clave de lo que es el rendimiento: la realización de ese momento de prevención, de activación, intentar esa disminución de riesgo lesivo...",
+      "full_transcript": "Genial. Ahora, en esta diapositiva, que para mí es clave para todo lo que anteriormente hemos estado hablando, tenemos el bloque infinito de rendimiento. Tenemos esa primera área, que es prevención, luego la recuperación, la lesión y por último el seguimiento. Esto es un continuo, porque al final hay que tener muy en cuenta que la vida deportiva de un deportista tiene sus subidas y bajadas. Es cierto que nos podemos encontrar con deportistas que no se hayan lesionado durante una temporada y que luego, la siguiente, no paren. Esto ocurre, es una realidad. O un deportista que se lesiona una vez y ya no se vuelve a lesionar, o mil variantes. Pero sí es cierto que cuando nosotros no encontramos una situación común, una situación base, aquí tenéis esta imagen. Esta imagen es la clave de lo que es el rendimiento: la realización de ese momento de prevención, de activación, intentar esa disminución de riesgo lesivo, ser eficientes con nuestro tiempo, con nuestro jugador o jugadora, que llegue ese momento lesivo, que llegue esa molestia. Ya no estamos hablando de una lesión que limite la capacidad de competición, sino de molestias. Eso lo encontramos muy a menudo: que no llegan a lesión, pero sí llegan a no sentirse del todo cómodos o cómodas entrenando. Por eso existe, sobre todo, esa buena comunicación con el preparador físico, que es el control de carga. Actualmente, es lo que comentaba al inicio de la ponencia: es uno de los aspectos que más estoy desarrollando a día de hoy, porque me he dado cuenta de que es la clave o puede ayudar muchísimo al preparador físico. Yo te digo qué jugador está en límite y al mismo tiempo te voy a decir qué parámetro de ese GPS tenemos que controlar durante la semana que entra para que cuando llegue el partido, este jugador lo podamos tener. Tenemos ese momento de recuperación, esa fase que hemos hablado anteriormente y la clave: el seguimiento. Seguir con el seguimiento de este jugador o jugadora, que se hayan adaptado las cargas, que ese trabajo también de gimnasio sea continuo, porque al final la clave y nuestro objetivo de por qué estamos en los equipos, en la \"staff\", es porque tenemos que ayudar a que el jugador o jugadora esté el mayor tiempo posible con nuestro equipo y sea competitivo.",
+      "keywords": [
+        "rendimiento",
+        "prevencion",
+        "recuperacion",
+        "molestias",
+        "control-carga",
+        "gps"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Control de Carga",
+        "Lesiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Explicación"
+      ],
+      "search_questions": [
+        "¿Qué fases componen el bloque infinito de rendimiento?",
+        "¿Cómo ayuda el control de carga GPS a evitar molestias o lesiones limitantes?"
+      ],
+      "related_terms": [
+        "bloque infinito de rendimiento",
+        "disminución de riesgo lesivo",
+        "control de carga"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin del fragmento WEBVTT-4 donde se hablaba del bucle preventivo.",
+      "context_after": "Se discuten las limitaciones de medir todo matemáticamente y la influencia de la IA en el trato humano."
+    },
+    {
+      "id": "V06-002",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "02:29", "end_timestamp": "05:03", "start_seconds": 149, "end_seconds": 303, "duration_seconds": 154,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=149",
+      "title": "El factor humano, el estrés y las limitaciones de la IA",
+      "summary": "Señala que la Inteligencia Artificial es útil para estadísticas, pero no sustituye la empatía humana ni puede medir las emociones del deportista. Ilustra cómo el estrés externo y la activación nerviosa (ej. antes de una Copa del Mundo u oposiciones) aumentan drásticamente el riesgo de lesiones.",
+      "literal_quote": "No somos robots, de que la IA no lo controla todo... a mí la IA no me ayuda cuando yo hablo con mi jugador. No me ayuda a sentir cómo está mi jugador o jugadora.",
+      "full_transcript": "Continuamos. Luego hay cosas que son importantes saber. Primero, que no somos dioses ni somos adivinos y no podemos tener la idea de que nosotros tenemos la clave de todo. No todo lo podemos medir. Trabajamos con personas, no lo podemos olvidar. Esa es la clave. No podemos olvidar ni podemos perder ese focus de que no somos robots, de que la IA no lo controla todo. Este es un punto que es muy importante, porque cada vez la IA está más presente y creemos que la IA tiene la clave de todo. Es cierto que nos puede ayudar. Sobre todo a nivel estadístico es donde más puedo estar utilizando a día de hoy la IA, pero a mí la IA no me ayuda cuando yo hablo con mi jugador. No me ayuda a sentir cómo está mi jugador o jugadora. No me ayuda en el \"wellness\", porque un jugador o jugadora tiene vida. No olvidéis que con nosotros están unas cuatro o cinco horas como máximo, pero el resto del tiempo cada uno de nuestros deportistas tiene su vida personal, emocional, una vida normal. Está claro que cada vez tenemos mayor control con Aura, con las pulseras, con el Hub. Sabemos un poquito cómo van esas medidas de recuperación, pero el aspecto emocional y psicológico afecta muchísimo. Sin ir más lejos y saliendo un poco del lado de lo que es el alto rendimiento o también del lado de la competición, cuando hablamos de oposiciones, oposiciones físicas, de nacionales, Policía Nacional, de bomberos, esa preparación física que tienen, generalmente las últimas semanas son de máximo riesgo, puesto que al venir un examen muy importante, nuestro sistema nervioso está muy activado, tanto parasimpático como simpático. Eso aumenta el riesgo lesivo. Ahí, por ejemplo, estos perfiles de personas que entrenan, es muy importante también trabajar el aspecto psicológico. Si nos vamos al rendimiento, yo he vivido situaciones, y esto es una situación real, donde tres semanas antes de una competición de Copa del Mundo femenina, una jugadora se lesionó a nivel isquiosural, un grado uno. Esto estaba encaminado, evidentemente, por muchos factores, pero también va encaminado por ese nerviosismo de que se acerca una fecha importante, que es una oportunidad muy importante, que a lo mejor solo se da una vez en la vida a nivel del deportista y que aumenta también ese estado de nerviosismo y de mala recuperación. Es importante tener esto en cuenta.",
+      "keywords": [
+        "factor-humano",
+        "inteligencia-artificial",
+        "estres",
+        "riesgo-lesivo",
+        "copa-del-mundo",
+        "sistema-nervioso"
+      ],
+      "entities": [
+        "Aura",
+        "Copa del Mundo"
+      ],
+      "topics": [
+        "IA Deportiva",
+        "Performance & Context",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué opina la ponente sobre el uso de la Inteligencia Artificial en el trato al deportista?",
+        "¿Cómo afecta el estrés y el nerviosismo al riesgo lesivo según los ejemplos dados?"
+      ],
+      "related_terms": [
+        "aspecto emocional",
+        "sistema nervioso activado",
+        "fatiga psicológica"
+      ],
+      "relevance_score": 5,
+      "context_before": "El concepto de que es imposible predecir o controlar al 100% las lesiones de un equipo.",
+      "context_after": "Se exponen las claves metodológicas finales del trabajo preventivo y la necesidad de vocación en la profesión."
+    },
+    {
+      "id": "V06-003",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "05:09", "end_timestamp": "08:47", "start_seconds": 309, "end_seconds": 527, "duration_seconds": 218,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=309",
+      "title": "Claves metodológicas y la importancia de la pasión",
+      "summary": "Resume las bases metodológicas: continuidad temporal, equilibrio entre lo cualitativo y cuantitativo, y la fuerza como pilar preventivo. Remarca que los avances tecnológicos o la IA carecen de impacto si el profesional no aporta pasión y empatía, vitales para sobrellevar los duros sacrificios de la élite en el extranjero.",
+      "literal_quote": "La IA nos va a ayudar... pero que si no le ponemos pasión, emoción, sentimiento, al final no llega a nuestro deportista, no somos capaces de llegar.",
+      "full_transcript": "Luego tenemos este ciclo de la salud, el flujo femenino para mí es muy importante, son conclusiones, vamos ya a línea de conclusión. Esto es un resumen de lo que anteriormente hemos ido hablando durante el inicio de la sesión. Claves que yo pondría aquí o en las que yo quiero que sobre todo fijéis la mirada: es muy importante que haya una continuidad en el trabajo. Ese momento de disminución de riesgo lesivo, de prevención de riesgo lesivo, es muy importante que nosotros creemos esa continuidad en el trabajo, porque al final vamos a crear que esos atletas tengan un trabajo metódico, continuo, regular y sobre todo que ayude al jugador a cada día sentirse un poquito mejor. Está claro que los resultados en las primeras dos semanas no se ven, pero cuando llevamos ya tres meses, eso sí que se ve, eso sí que lo sienten. Es muy importante que tengamos eso en cuenta. Esto es algo más personal. Yo siempre diré que cuando tú elijas un trabajo, elige un trabajo que sea tu pasión, porque así no lo llamarás trabajo. Creo que hay una frase muy parecida. Entonces, hazlo, pero desde la pasión, desde la vocación. Porque cuando hablamos de alto rendimiento, por ejemplo, cada uno de los desplazamientos que he tenido, tanto en Italia como en Estados Unidos, los he realizado yo sola, sin mi familia. Eso no es fácil. No es fácil el estar tan lejos de tus seres queridos, de tu familia, amigos, de tu gente, y se viven muchos momentos que no son fáciles de vivir. Evidentemente, te construye, te crea como persona, te hace más grande también, porque te va creando muchísimas capacidades resolutivas y más cuando estás en contextos que salen totalmente de tu zona de confort, pero también hay que estar preparados para eso. Entonces, es muy importante que cuando yo elija o por lo menos me quiera dedicar, que sepáis que sea vuestra pasión. Yo cuando inicié en este mundo, hubo una pregunta que me dijo un alumno hace ya años: \"¿Tú cómo sabías que querías ser readaptadora?\" Y la contestación que tuve, que la verdad fue pronta, ni la pensé, fue: \"Mira, es que yo para poder ser readaptadora he tenido que estar trabajando en tres trabajos diferentes para yo poder ser readaptadora\". Es decir, no siempre he podido dedicarme exclusivamente a algo de la readaptación. En los inicios todos hemos empezado, como digo yo, trabajando de todo menos de fútbol, pero eso al mismo tiempo te curte para que tú el día de mañana digas: \"Este es mi camino\". Entonces, es muy importante que ese aspecto lo tengáis. Como conclusión de lo que hemos estado hablando anteriormente, claves que tenemos: la medición. Si no sabemos dónde estamos, si no tenemos un número cuantitativo, por así decirlo, el aspecto cualitativo también se queda corto. Metas a corto plazo con objetivos asimilables, que tengamos esa capacidad de motivar a nuestro atleta o deportista. La fuerza para mí es la clave de esa prevención, es la base de mi trabajo. Evidentemente, cada lesión va a ser un mundo, cada lesión es diferente, eso es lo que hace esa complejidad. Nos tenemos que ayudar de las nuevas tecnologías. Momento de ciclo menstrual. Es importantísimo saber el aspecto hormonal, cómo nos ayuda, cómo le podemos sacar partido. El seguimiento, que haya un seguimiento continuo, esa progresión que sea asimilable, sobre todo. Y clave que para mí es lo que nos puede diferenciar de unos profesionales a otros es nuestro valor humano. Nosotros trabajamos con personas y rodeados de personas. La IA nos va a ayudar, todas las aplicaciones nos van a ayudar, pero que si no le ponemos pasión, emoción, sentimiento, al final no llega a nuestro deportista, no somos capaces de llegar.",
+      "keywords": [
+        "continuidad",
+        "pasion",
+        "metas-corto-plazo",
+        "fuerza",
+        "valor-humano",
+        "tecnologia"
+      ],
+      "entities": [
+        "Italia",
+        "Estados Unidos"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Metodología",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las claves metodológicas en el trabajo de disminución del riesgo lesivo?",
+        "¿Por qué es fundamental la vocación y el factor humano a pesar del avance tecnológico?"
+      ],
+      "related_terms": [
+        "metas a corto plazo",
+        "ciclo de la salud",
+        "valor humano"
+      ],
+      "relevance_score": 5,
+      "context_before": "La influencia negativa del estrés sobre el riesgo de lesiones deportivas.",
+      "context_after": "Se presenta la evolución del rol profesional desde el inicio hasta la madurez metodológica."
+    },
+    {
+      "id": "V06-004",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "08:50", "end_timestamp": "11:25", "start_seconds": 530, "end_seconds": 685, "duration_seconds": 155,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=530",
+      "title": "Evolución profesional y simplificación de la complejidad",
+      "summary": "Describe la trayectoria profesional en el alto rendimiento: inicia con desorientación, sigue con el éxito (y su efímera satisfacción) y asienta los pies tras un 'toque de realidad'. Cierra la ponencia con una reflexión fundamental: a mayor conocimiento de la complejidad, más simple debe volverse la intervención.",
+      "literal_quote": "Cuanto más entiendo esta complejidad, la intervención tiene que ser más simple.",
+      "full_transcript": "Esta es una diapositiva que no falla, que siempre la tengo en todas las presentaciones que llevo conmigo y es una línea profesional, es una línea de tipo profesional en la que todos hemos pasado o todos pasaremos. Empezamos desorientados. Tenemos una base teórica, pero no práctica. Buscamos esa primera oportunidad, y estamos un poquito con miedo, desorientados. Luego tenemos un pequeño éxito que nos hace quizás separarnos los pies del suelo, no tener esa cabeza, como yo digo. Y luego nos llega un toque de realidad. Siempre después del éxito hay un toque de realidad. Yo siempre lo diré. Cuando estabas en el alto rendimiento, te ponen la medalla y en el momento que estás bajando del podio ya estás pensando en cómo volver a conseguirla. Eso es lo que te dura la alegría de la medalla. Y eso es una realidad y me entenderéis más de uno. Yo me he puesto una medalla y ya estaba bajando del podio y ya estaba hablando con mi preparador físico de cómo iba a ser el microciclo siguiente para volver a conseguir la misma que me habían dado una hora atrás. Eso es literal. Evidentemente, siempre tenemos que buscar soluciones ante esos momentos donde tenemos ese bajón, por así decirlo. Y luego, poquito a poco iremos siendo un poquito expertos en nuestra materia. Yo, en mi caso, siempre tuve muy claro que me quería especializar en el mundo de la lesión, en el mundo de la readaptación, en el mundo de alto rendimiento, en el mundo de la mujer. Y fijaros ahora cómo también la vida te lleva a que, a saltos, como en mi caso, ahora volver al mundo masculino, porque yo inicié en el mundo masculino. Entonces, fijaros cómo cada día es un nuevo reto y lo importante es que estemos preparados para afrontar esa oportunidad. Para ir terminando, esta frase me gusta mucho: \"Cuanto más entiendo esta complejidad, la intervención tiene que ser más simple\". Esa es la clave de mi trabajo y es mi mantra para continuar. Así que sin más, me despido de todos vosotros. Ha sido un placer. Espero que os haya ayudado, que os haya servido un poquito para iluminaros o para tener ideas clave en vuestro trabajo, en vuestro día a día. Y como siempre digo, estoy a vuestra disposición para lo que necesitéis. Un saludo y muchas gracias de nuevo.",
+      "keywords": [
+        "evolucion-profesional",
+        "toque-realidad",
+        "exito",
+        "complejidad",
+        "intervencion-simple",
+        "especializacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Conclusión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases de la evolución profesional en el alto rendimiento?",
+        "¿Cuál es el 'mantra' metodológico final de Pilar Hueso respecto a la complejidad?"
+      ],
+      "related_terms": [
+        "línea profesional",
+        "toque de realidad",
+        "simplificación de la intervención"
+      ],
+      "relevance_score": 5,
+      "context_before": "Resumen de las claves metodológicas (fuerza, medición, continuidad, pasión).",
+      "context_after": "Cierre y despedida de la ponencia."
+    }
+  ]
+}

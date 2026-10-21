@@ -1,0 +1,277 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+    "speaker": "Pilar Hueso Martos",
+    "total_duration": "17:23",
+    "total_duration_seconds": 1043,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "00:00",
+      "end_timestamp": "03:50",
+      "start_seconds": 0,
+      "end_seconds": 230,
+      "duration_seconds": 230,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Filosofía y ejes de la prevención en el atleta adaptable",
+      "summary": "Pilar expone la filosofía de la prevención basada en crear 'atletas adaptables'. Destaca 10 ejes clave, enfatizando la individualización, la variabilidad de estímulos, la eficiencia en tiempo (15-30 min) y la progresión de lo simple a lo complejo sin generar sobrecargas antes del entrenamiento.",
+      "literal_quote": "El reto es crear atleta adaptable, no atleta adaptado.",
+      "full_transcript": "Empezamos con la primera parte, el primer pilar de la filosofía de la prevención. ¿Cuáles son los aspectos que tenemos que tener más en común, más clave, más importancia? Bajo mi punto de vista: variabilidad, adaptabilidad, progresión, transferencia hacia nuestro deporte, en este caso el fútbol y, sobre todo, el más importante bajo mi punto de vista, individualización. ¿Esto al final qué crea? Una buena sinergia, un buen timing de activación, sobre todo al aspecto de inicial, genera automatismos. Esto es interesante, porque ayuda a la jugadora a crear ese plan de trabajo, ese plan de concentración previo al entrenamiento y al partido. Además, interesante esa polivalencia. ¿A qué me quiero referir? A que las jugadoras creamos un patrón de movimiento, ya no tanto global, sino específico de nuestra jugadora, y eso nos va a crear ese mapa o esas capacidades de nuestras jugadoras, creando una jugadora polivalente. La polivalencia es lo que nos da un mayor recurso motor hacia los diferentes estímulos y exigencias que tiene este deporte. Cuando tengamos un patrón motor mucho más variable, va a haber una mejor resolución de las acciones competitivas, puesto que hay un mayor conocimiento del movimiento. Esto es como un niño pequeño: si le damos un margen de muchos colores, va a saber pintar con muchos colores. Sin embargo, si solo le damos uno, solo pintará con un color. Esto es igual: la variabilidad, la cantidad de recursos que le demos a nuestra jugadora, van a hacer de una jugadora que sea inteligente y tenga una capacidad resolutiva elevada a nivel coordinativa. El reto es crear atleta adaptable, no atleta adaptado. Adaptable, ¿qué significa? Adaptable es a nuestra capacidad de trabajo, a nuestra capacidad competitiva hacia lo que se van a enfrentar. Es la base de las acciones bajo mi línea de trabajo. ¿Cuáles son los 10 ejes a los que yo me uno, o los que yo me baso? El primero, respetar la complejidad del movimiento. Yo no voy a cambiar el movimiento de mi jugadora, sino voy a adaptar este movimiento hacia las diferentes capacidades que tenga que tener o diferentes exigencias que nos veamos. Creación de jugadoras adaptables. Inmunidad ante la vulnerabilidad de lesión, es decir, tener esa fuerza motora, esa fuerza muscular ante un imprevisto. Transferencia directa al juego. Para mí, el trabajo de prevención y activación tiene que ir ligado hacia el deporte que practique mi deportista. Eficiencia del ejercicio. Contamos con poco tiempo, entre 15, 20, como máximo 30 minutos. La eficiencia de trabajo tiene que ser extrema. Evitar la creación de sobrecargas. Cuando este trabajo se realiza de forma previa al entrenamiento, acciones de activación, no puede haber una acción de sobrecarga, puesto que esto influenciaría en la capacidad de trabajo de la jugadora con el equipo. Aprendizaje de automatismos. Eso también va a ayudar a nivel de concentración. Progresión. Siempre de lo simple a lo complejo. Siempre hay que enseñar el movimiento y una vez que el movimiento se domine, se crea la complejidad de este mismo. Variabilidad en los estímulos. Gracias a esa variabilidad, a ese abanico de acciones que nosotros le presentemos y enseñemos a nuestra jugadora, va a haber un mayor aprendizaje en ese patrón motor de ella misma. E individualización. Esta es la clave, esta es la base. No hay una jugadora igual, al igual que no hay ninguna lesión igual, y esto es lo que nos va a hacer crear ese detalle diferente con respecto a otros \"staff\".",
+      "keywords": [
+        "prevencion",
+        "adaptabilidad",
+        "variabilidad",
+        "individualizacion",
+        "eficiencia",
+        "progresion"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los 10 ejes de trabajo en la prevención de lesiones?",
+        "¿Qué significa crear un atleta adaptable?"
+      ],
+      "related_terms": [
+        "atleta adaptable",
+        "filosofía de la prevención",
+        "variabilidad de estímulos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento WEBVTT-2.",
+      "context_after": "Se detallan las demandas biomecánicas del juego y el análisis mediante la matriz diagnóstica."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "03:50",
+      "end_timestamp": "06:53",
+      "start_seconds": 230,
+      "end_seconds": 413,
+      "duration_seconds": 183,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=230",
+      "title": "Demandas del juego y matriz diagnóstica",
+      "summary": "Diferencia las demandas biomecánicas de las acciones con y sin balón. Presenta la 'matriz diagnóstica' para planificar, evaluando la carga interna (historial lesivo, rendimiento, posición) y externa (calendario, táctica, clima), permitiendo un análisis altamente contextualizado.",
+      "literal_quote": "La biomecánica del movimiento no es lo mismo con un balón que sin balón.",
+      "full_transcript": "¿Cuáles son las demandas del juego? Yo divido en acciones con balón y sin balón. Está claro que cuando tenemos acciones sin balón, esto es como las lesiones, hay con contacto y sin contacto. Esto es igual. La biomecánica del movimiento no es lo mismo con un balón que sin balón. De hecho, hay jugadoras que cuando corren con un balón, corren, entre comillas, mejor que cuando no lo tienen. Esto me ha ocurrido en muchísimas ocasiones. Entonces, es muy interesante que nosotros, o en mi caso yo, diferenciemos estas dos variables, puesto que para mí es un mundo en acciones con balón y es otro tipo de trabajo las acciones que realizo sin este. Por ejemplo, en acciones sin balón, tenemos desplazamientos, aceleraciones, deceleraciones, todo ello sin la pelota, con lo cual esa biomecánica cambia. Hay un mayor control, hay una mayor realidad, hay una mayor libertad a su vez, puesto que no depende del movimiento del balón la jugadora. Acciones de lucha, luego acciones de salto. Si nos vamos a acciones con balón, fijaros cómo puede cambiar el aspecto de un remate de cabeza o un remate sin el balón. cuando hablamos de objetivos también tácticos, saber cuál es el esquema de trabajo de mi entrenador, de mi staff técnico. Esto es muy interesante también a la hora de crear planes de trabajo de reintegración de la jugadora después de una lesión deportiva. Si nos vamos a la matriz diagnóstica, que es como yo le llamo a la variable de planificación preventiva, también diferencia en este caso de la carga tanto interna como externa de la jugadora. Si hablamos del perfil de la jugadora de esa carga interna, tenemos el antecedente lesivo, la valoración individual, ese análisis biomecánico, la dominancia, la lateralidad. Rendimiento individual, no es lo mismo el rendimiento de una portera que de una delantera, ya cambia todo. La carga también de aspectos minutos competitivos, hablamos de si es una jugadora veterana, joven, titular, no titular, si es de acción internacional o no. Todo esto cambia muchísimo. Si hablamos de acciones más externas, el calendario competitivo, sistemas de juego, qué exigencias se va a enfrentar mi jugadora, pues no es lo mismo un 4-2, que un 4-1, que un 3-1-2. Entonces, es interesante saber cuál es el aspecto táctico de mi equipo. Y ya no solo el aspecto táctico del equipo global, sino O al base del aspecto táctico en atacante, es decir, cuando se realiza la acción de ataque a cuando se realiza la acción defensiva. Como bien sabéis, cambian las modificaciones tácticas según un juego u otro y la exigencia, a su vez, de la jugadora. Microciclo semanal, no es lo mismo el partido en casa que fuera. Y luego variables externas, como puede ser la climatología, los viajes, los cambios de superficie y terreno de juego. Sí que es cierto que gracias a la normativa cada vez los campos tienen una mejor capacidad a nivel de calidad en aspecto de sistema de césped. Esto cada vez va mejorando.",
+      "keywords": [
+        "demandas-juego",
+        "biomecanica",
+        "matriz-diagnostica",
+        "carga-interna",
+        "carga-externa",
+        "tactica"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Explicación",
+        "Herramienta"
+      ],
+      "search_questions": [
+        "¿Qué variables componen la matriz diagnóstica de Pilar Hueso?",
+        "¿Cómo afectan las acciones con y sin balón a la biomecánica?"
+      ],
+      "related_terms": [
+        "matriz diagnóstica",
+        "carga interna",
+        "carga externa"
+      ],
+      "relevance_score": 5,
+      "context_before": "Presentación de los ejes metodológicos de prevención y la adaptabilidad de la jugadora.",
+      "context_after": "Explicación sobre la creación del 'Body Map' para identificar asimetrías y déficits en base a estos análisis."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "06:53",
+      "end_timestamp": "09:43",
+      "start_seconds": 413,
+      "end_seconds": 583,
+      "duration_seconds": 170,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=413",
+      "title": "Creación del 'Body Map' y comunicación técnica",
+      "summary": "A partir del análisis biomecánico en video, elabora un 'Body Map' individualizado para identificar déficits de movilidad y factores de riesgo lesivo. Esta información clave se comparte con el cuerpo técnico de forma simplificada y visual para facilitar la gestión del entrenador.",
+      "literal_quote": "Como yo siempre digo, mandar información clave para que en una simple visualización se sepa qué está ocurriendo.",
+      "full_transcript": "Acciones biomecánicas. Para mí, un aspecto interesante es analizar a la jugadora en movimiento, es decir, analizar vídeos, analizar fotografías, analizar sobre todo cuando tengo su historial lesivo y hay una dominancia de algún tipo de lesión o de sobrecargas de la jugadora. Analizo mucho su biomecánica, tanto en acción atacante como defensiva, con o sin balón, y voy desarrollando una serie de ítems, sobre todo de mapa, de esquema de la propia jugadora. Como vais a ver, en la salida con balón, en la salida de golpeo, y voy generando diferentes ítems. Pase de vuelo, de remate, defensiva. Al final, voy creando ese mapa, como ese cromo de esta jugadora, dando como resultado este body pap. Al final, el body pap, como podéis ver, voy poniendo en puntitos los diferentes ítems. Cada color significa una línea de trabajo. Por ejemplo, amarillo, déficit de movilidad. En rojo, pongo ese factor de riesgo a nivel lesivo, donde ha habido más de una recidiva o incluso solo una lesión, pero esta jugadora ya puede tener algún problema a nivel lumbar o en el caso de isquiotibial, como podéis ver, todo se va correlacionando. Historial lesivo, si ha habido algún tipo de cirugía, falta de estabilidad, sobre todo crítica, es decir, cuando hay retenciones, cuando hay déficits bastante exagerados. Y luego, necesidad de control motor. Todo este tipo de puntitos que veis en el mapa, al final me da un esquema de trabajo. Y es este. Estos esquemas que estáis viendo los hago con cada una de las jugadoras de forma individualizada, la cual se lo presento a mi staff, tanto médico como técnico. ¿Por qué se lo presento también al staff técnico? Que no le presento todo, puesto que al final hay que siempre mandar la información necesaria, porque como bien sabéis, al final un entrenador tiene mil cosas de responsabilidad, con lo cual siempre hay que facilitarle su trabajo. Un aspecto interesante es la clave. Como yo siempre digo, mandar información clave para que en una simple visualización se sepa qué está ocurriendo. Aquí la prescripción exacta de esta jugadora con respecto a todo lo anterior que habéis visto de análisis, viene. Una movilidad de tobillo, dosi flexión, esencial, movilidad de cadera, estabilidad, disociación lumbopélvica. Luego también tenemos que hacer una movilidad tanto de cadena posterior como el excéntrico de isquiotibial y sobre todo fuerza de core. Esos son los ítems básicos para esta jugadora. ¿Cuál es el protocolo que yo puedo crear de esta prevención, de estas seis fases? Aquí lo tenéis. Esto es lo que yo presento a mi staff, puesto que esto es la clave de todo el trabajo anterior y de la repercusión de todas las conclusiones que anteriormente he analizado.",
+      "keywords": [
+        "body-map",
+        "biomecanica",
+        "historial-lesivo",
+        "comunicacion",
+        "staff",
+        "informacion-visual"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Comunicación",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué es el Body Map y qué información refleja?",
+        "¿Cómo se debe presentar la información física al entrenador principal?"
+      ],
+      "related_terms": [
+        "Body Map",
+        "déficit de movilidad",
+        "factor de riesgo lesivo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición de las demandas de carga interna y externa mediante la matriz diagnóstica.",
+      "context_after": "Aplicación práctica en el gimnasio con un protocolo de seis fases para la activación."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "09:43",
+      "end_timestamp": "12:42",
+      "start_seconds": 583,
+      "end_seconds": 762,
+      "duration_seconds": 179,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=583",
+      "title": "Estructura progresiva de la sesión de activación",
+      "summary": "Se detalla una línea de trabajo en fases progresivas: inicia con estabilidad y movilidad para asegurar el rango de movimiento (ROM), seguida de fuerza básica (sin sobrecarga), pliometría, reactividad y acciones coordinativas, preparando el sistema neuromuscular antes de salir al campo.",
+      "literal_quote": "Si tenemos limitado nuestro rango de movimiento, cuando realizamos acciones de fuerza de activación, estaremos siempre en gran mayoría compensando con otra musculatura que no es la del objetivo.",
+      "full_transcript": "Se genera al final un sistema de trabajo donde, como podéis ver en el vídeo, esta es mi línea de trabajo, una primera base de estabilidad y movilidad, diferentes movimientos básicos. Como anteriormente en las primeras diapositivas he comentado, es esencial tener un rango de movimiento, un ROM ampliado, puesto que gracias a este nos va a ayudar a que cuando metamos las acciones de fuerza, tengamos, tanto origen como inserción, esa activación muscular. Si tenemos limitado nuestro rango de movimiento, cuando realizamos acciones de fuerza de activación, estaremos siempre en gran mayoría compensando con otra musculatura que no es la del objetivo. Metemos esa movilidad, como estáis viendo en el vídeo, ya un poquito más dinámica, con slider, con elásticos. Ya un poquito la capacidad material que podamos tener. Trabajar en todos los planos, tanto lateral, frontal, lateralidades, rotaciones internas, rotaciones externas. Vamos al entrenamiento básico de fuerza. Esto es interesante, puesto que cuando hablamos de una activación, lo primordial de cuando hacemos activación es no crear sobrecarga. Es por ello que cuando veis los elementos de fuerza, no están cargados. En algunas ocasiones las jugadoras podrán pedirlo cargado porque lo sientan, pero sí que es cierto que es interesante no sobrecargar, puesto que si llegan con demandas de déficit de fuerza al campo, esto repercutirá en su capacidad física, en su rendimiento. Vamos a acciones reactivas, aceleraciones, deceleraciones, wall trip en diferentes planos. Diferentes pliometrías, como estáis viendo, el sterup. Acciones coordinativas. Aquí metemos un poquito también de acción de fuerza, donde el balón, como podéis ver, no es un balón pesado. Acciones de empuje, acciones de tracción. Todas estas acciones que estoy poniendo en el vídeo son ejemplos, obviamente, no se hacen todas. Simplemente que para que vosotros, como siempre digo, tengáis un catálogo para poder elegir. Yo a mis jugadoras este tipo de acciones se las voy dosificando, estandarizando y creando en diferentes microciclos. No todo va en el mismo microciclo. Va a depender de sus sensaciones, del diálogo que tengamos de información con ella. Diferentes apoyos, con elásticos, sin elásticos y luego, sobre todo, el aspecto más esencial es la individualización. Y es un bucle de variabilidad, de adaptación, de progresión, de transferencia a nuestro deporte e individualización.",
+      "keywords": [
+        "activacion",
+        "rango-movimiento",
+        "estabilidad",
+        "fuerza-basica",
+        "pliometria",
+        "sistema-neuromuscular"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es importante tener un rango de movimiento amplio antes del trabajo de fuerza?",
+        "¿Cuáles son las fases de la sesión de activación propuesta?"
+      ],
+      "related_terms": [
+        "rango de movimiento",
+        "acciones reactivas",
+        "trabajo coordinativo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Generación del 'Body Map' y prescripción de ejercicios específicos presentados al staff.",
+      "context_after": "Distribución del protocolo preventivo en el contexto del microciclo semanal competitivo."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "12:42",
+      "end_timestamp": "16:19",
+      "start_seconds": 762,
+      "end_seconds": 979,
+      "duration_seconds": 217,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=762",
+      "title": "Dosificación del trabajo en el microciclo semanal",
+      "summary": "El trabajo preventivo y de activación se estructura en el microciclo. Incluye fases pre-entrenamiento (30 min, sin fatiga), post-entrenamiento (20-30 min, recuperación de cadena posterior con fatiga), día pre-partido (15 min, movilidad suave) y día de partido (focalización individual y diálogo).",
+      "literal_quote": "Buscamos la buena sensación de la jugadora, buscamos que termine bien la última sesión de entrenamiento antes del partido de la acción competitiva.",
+      "full_transcript": "Si tuviésemos que hacer un protocolo a la semana, un microciclo preventivo a la semana, ¿cómo lo podríamos dosificar en un microciclo? Tenemos la fase uno, que es el preentrenamiento. Tiempo de duración: 30 minutos. Estado: no fatiga. Foco: tenemos que tener en cuenta el aspecto de activación neuromuscular y movilidad fluida. Intensidad: media. Número de repeticiones: bajo y sin un gran peso. Luego, nos vamos a la fase dos, que es post entrenamiento, entre 20 y 30 minutos. Aquí, incluso lo podríamos hacer un poquito más. Estado de fatiga: aquí media alta, porque aquí sí que es verdad que al no tener después el entrenamiento, no hay nada que pueda influir. El foco, ¿hacia dónde lo ponemos? Una recuperación, dependiendo del día del microciclo, cadena posterior y movilidad total. Aquí la intensidad es mayor. Nos vamos a la fase tres, día antes del partido. Aquí, tiempo: poco, 15 minutitos. Estado: no fatiga. ¿Cuándo realizamos esto? Sobre todo al acabar el entrenamiento. Es el momento donde yo pondría más focalización en acciones... Y por último, acción en el partido, prepartido, fase última. Tiempo: entre 30 y 40 minutos. Va a depender de la acción que tengamos, si por ejemplo jugamos en casa o fuera. Estado: no fatiga. Focalización: individualizada. Sensación de la jugadora: diálogo \"face to face\". Aquí vais a ver un ejemplo real. Acción excéntrica visco pidial. Acciones lateralizadas con elástico, resistencia media. Nos vamos a después del entrenamiento. Acciones más fuertes, acciones coordinativas, acciones pliométricas de generación. Aquí ya estoy generando una acción mucho más exigente. Día antes de partido, mucha movilidad suave. Buscamos la buena sensación de la jugadora, buscamos que termine bien la última sesión de entrenamiento antes del partido de la acción competitiva. Y nos vamos ya al día de partido. Como podéis ver, es real. Está esta jugadora en fase de competición. Y cómo no, en mi tipo de planificación, la excéntrica no falla. Perfecto. Y por último, en esta...",
+      "keywords": [
+        "microciclo",
+        "preventivo",
+        "pre-entrenamiento",
+        "post-entrenamiento",
+        "pre-partido",
+        "cadena-posterior"
+      ],
+      "entities": [],
+      "topics": [
+        "Control de Carga",
+        "Metodología",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Caso práctico"
+      ],
+      "search_questions": [
+        "¿Cómo se dosifica la activación física durante la semana de partido?",
+        "¿Qué objetivos tiene la fase preventiva el día antes del partido?"
+      ],
+      "related_terms": [
+        "microciclo preventivo",
+        "estado de fatiga",
+        "diálogo face to face"
+      ],
+      "relevance_score": 4,
+      "context_before": "Estructura progresiva de los ejercicios de movilidad, fuerza y pliometría en el gimnasio.",
+      "context_after": "Conclusión sobre las diferencias clave conceptuales entre prevención y activación."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "16:19",
+      "end_timestamp": "17:23",
+      "start_seconds": 979,
+      "end_seconds": 1043,
+      "duration_seconds": 64,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=979",
+      "title": "Diferencias metodológicas entre prevención y activación",
+      "summary": "Concluye estableciendo las diferencias entre ambas rutinas. La activación se realiza antes del campo en jugadoras sanas para mejorar la eficiencia del movimiento específico. La prevención es post-entrenamiento, buscando reeducar déficits focales y readaptar las sobrecargas generadas en campo.",
+      "literal_quote": "Nosotros en el gimnasio somos los adaptadores de las sobrecargas del exterior. Eso es lo que hace el gimnasio: estabilizar, crear un balance.",
+      "full_transcript": "diapositiva vamos a saber algo importantísimo como conclusión de esta idea. Diferencias en el trabajo de prevención y trabajo de activación. El trabajo de activación lo hacemos antes del entrenamiento. Origen: seguimiento continuo de la jugadora sana. El objetivo: mejorar a nivel global la eficiencia del movimiento y preparación para la exigencia del entrenamiento de fútbol. Es dinámico y muy específico. Nos vamos al punto de prevención, lo realizaremos al finalizar el entrenamiento. Reeducación, déficit focal, recuperación biomecánica de la zona afectada. Es decir, después del entrenamiento siempre suele haber algún tipo de sobrecarga. Nosotros en el gimnasio somos los adaptadores de las sobrecargas del exterior. Eso es lo que hace el gimnasio: estabilizar, crear un balance. Es mucho más analítico y dinámico. Y aquí nos vamos, si ha habido algún tipo de problema de la jugadora, ir hacia ahí y sobre todo reforzar los puntos. Al final, siempre los mismos objetivos de protección, misma metodología neuromotriz, distinto punto de partida.",
+      "keywords": [
+        "prevencion",
+        "activacion",
+        "diferencias",
+        "sobrecarga",
+        "reeducacion",
+        "eficiencia-movimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Lesiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Concepto"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia principal entre el trabajo de prevención y el de activación?",
+        "¿Qué papel cumple el gimnasio después de un entrenamiento de campo?"
+      ],
+      "related_terms": [
+        "déficit focal",
+        "recuperación biomecánica",
+        "adaptadores de sobrecargas"
+      ],
+      "relevance_score": 5,
+      "context_before": "Planificación de las cargas físicas y sesiones preventivas según el día del microciclo.",
+      "context_after": "Fin del fragmento WEBVTT-2 provisto."
+    }
+  ]
+}

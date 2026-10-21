@@ -1,0 +1,194 @@
+{
+  "video": {
+    "video_id": "V04",
+    "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+    "speaker": "Pilar Hueso Martos",
+    "total_duration": "08:09",
+    "total_duration_seconds": 489,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V04-001",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "00:00",
+      "end_timestamp": "02:11",
+      "start_seconds": 0,
+      "end_seconds": 131,
+      "duration_seconds": 131,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=0",
+      "title": "Evolución profesional y simplificación de la complejidad",
+      "summary": "Se traza un paralelismo entre la evolución artística de Picasso y la del profesional deportivo. Destaca que es imposible controlar todas las variables en un deporte colectivo, por lo que el objetivo debe ser nutrirse de diversas culturas y metodologías para simplificar la complejidad y crear una \"huella\" de trabajo propia.",
+      "literal_quote": "Poquito a poco fui creando mi simplificación de la complejidad que al mismo tiempo mi trabajo me estaba dando... hasta llegar a mi línea, mi huella de trabajo.",
+      "full_transcript": "Bien, chicos, continuamos. Fijaos con qué vamos a continuar: con una slide. Diréis: \"¿Y esto a cuento de qué pone esta slide?\" Es una slide de arte. En este caso, es arte de Picasso, la evolución de este artista. Como podéis ver, va desde su primera etapa de inicio hasta su etapa final. Entonces, ¿hacia dónde quiero llegar? Hacia la evolución de los profesionales, de nosotros mismos. Hablo a nivel personal, porque es importante también dar un punto de vista personal. Al igual que tenéis la teoría, todo mi trabajo veis que está presentado o basado a nivel científico, pero también a nivel personal. Yo cuando inicié mi primer año, era muy metódica en el sentido de exageradamente muy centrada en el control de todo tipo de variables, lo cual yo creía que llegaba a una perfección, pero al mismo tiempo era una exigencia desmesurada, puesto que nunca se llega a ese control de una variable como puede ser un deporte colectivo. Después, poquito a poco, fui aprendiendo cómo modificar esas variables, cómo unirlas, creando ese plan de trabajo, esa línea de trabajo personal basada en lo que aprendía de mis compañeros, en lo que yo estudiaba, en las formaciones que al mismo tiempo daba, de lo que escuchaba, de lo que yo vivía. Poquito a poco fui creando mi simplificación de la complejidad que al mismo tiempo mi trabajo me estaba dando, cómo podía ser mucho más eficiente hasta llegar a mi propio trabajo, hasta llegar a mi línea, mi huella de trabajo. Eso es a lo que os animo. Os animo a que cojáis vuestra mochila, la llenéis de experiencia, de recursos, de formaciones, de ideas, de experiencia, como yo digo, de muchas culturas, porque también es muy interesante. Siempre animo a mis compañeros a viajar, a vivir otro tipo de competición. No siempre es fácil, obviamente, el rendimiento sabemos cómo es. Pero eso al final te da también un bagaje y una visión, tanto a nivel profesional como personal, que os va a ayudar en vuestro trabajo y a crear vuestra huella.",
+      "keywords": [
+        "evolucion-profesional",
+        "metodologia",
+        "simplificacion",
+        "culturas",
+        "experiencia"
+      ],
+      "entities": [
+        "Picasso"
+      ],
+      "topics": [
+        "Professional Experience",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es imposible controlar todas las variables en un deporte colectivo?",
+        "¿Qué importancia tiene viajar y conocer otras culturas según la ponente?"
+      ],
+      "related_terms": [
+        "simplificación de la complejidad",
+        "huella de trabajo",
+        "bagaje profesional"
+      ],
+      "relevance_score": 4,
+      "context_before": "Inicio del fragmento WEBVTT-3.",
+      "context_after": "Se presenta un ejemplo real de cómo un factor incontrolable genera una lesión durante un partido."
+    },
+    {
+      "id": "V04-002",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "02:12",
+      "end_timestamp": "03:59",
+      "start_seconds": 132,
+      "end_seconds": 239,
+      "duration_seconds": 107,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=132",
+      "title": "La imprevisibilidad del deporte y el factor humano",
+      "summary": "Utilizando el ejemplo de una lesión de hombro ocurrida durante la celebración de un gol, ilustra cómo ciertas variables escapan del control profesional. Subraya que el rol principal es acompañar al deportista tanto en sus mejores como en sus peores momentos, sin olvidar nunca el trato humano.",
+      "literal_quote": "Para mí, ser ratona significa estar ayudando al deportista en su peor y mejor momento profesional. Creo que tiene que ver con saber hacia lo que nos estamos enfrentando y sobre todo, saber que estamos trabajando con personas.",
+      "full_transcript": "Porque, cómo no, nosotros queremos controlarlo todo. Esto es una celebración de gol. Fijaos en el esquema de la derecha, cómo en la celebración hay un blocaje de la jugadora. Esa jugadora real se hizo daño en el hombro. Para que veáis que no todo se puede controlar. Para mí, ser ratona significa estar ayudando al deportista en su peor y mejor momento profesional. Creo que tiene que ver con saber hacia lo que nos estamos enfrentando y sobre todo, saber que estamos trabajando con personas. Esto nos va a ayudar mucho a saber hacia dónde vamos.",
+      "keywords": [
+        "imprevisibilidad",
+        "celebracion",
+        "lesion",
+        "factor-humano",
+        "deportista"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Ejemplo",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué ejemplo utiliza para demostrar que no todo se puede controlar en el fútbol?",
+        "¿Qué significa para la ponente trabajar con el deportista en su peor y mejor momento?"
+      ],
+      "related_terms": [
+        "blocaje",
+        "incontrolable",
+        "trabajo con personas"
+      ],
+      "relevance_score": 4,
+      "context_before": "Explicación sobre la necesidad de aceptar que no se pueden controlar todas las variables del deporte.",
+      "context_after": "Se introducen las tres fases fundamentales del proceso lesivo: recuperación, readaptación y reentrenamiento."
+    },
+    {
+      "id": "V04-003",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "04:00",
+      "end_timestamp": "04:47",
+      "start_seconds": 240,
+      "end_seconds": 287,
+      "duration_seconds": 47,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=240",
+      "title": "Diferencias culturales en las fases del proceso lesivo",
+      "summary": "Se divide el abordaje de la lesión en tres líneas: recuperación (clínico), readaptación (funcional) y reentrenamiento (físico y específico). Se expone cómo cada país prioriza fases distintas (ej. España es más clínica, EE. UU. más físico, Italia con readaptaciones largas), enriqueciendo la visión del profesional.",
+      "literal_quote": "En Italia, el trabajo de readaptación era mucho más largo con respecto a Estados Unidos. En Estados Unidos, el proceso de readaptación era más corto, mucho más enfocado en preparación física. En España está mucho más enfocado en la clínica...",
+      "full_transcript": "Bien, vamos a empezar esta segunda línea, donde vamos a hablar un poquito más del proceso lesivo. Vamos a hablar de estas tres líneas: recuperación, readaptación y reentrenamiento. Son tres líneas de trabajo muy diferentes. El ejemplo de la recuperación es un aspecto más clínico. En readaptación son aspectos más funcionales. Y cuando hablamos de reentrenamiento, sobre todo más a nivel competitivo, real, de juego, son adjetivos mucho más específicos. ¿Cómo lo divido yo? Lo divido en un momento más analítico, un momento mix y un momento más físico. Dependiendo de los \"staff\" y ligas donde he estado, donde he trabajado, va variando la línea de trabajo. Por ejemplo, en Italia, el trabajo de readaptación era mucho más largo con respecto a Estados Unidos. En Estados Unidos, el proceso de readaptación era más corto, mucho más enfocado en preparación física. En España está mucho más enfocado en la clínica, menos enfocado en la preparación física. Entonces, ¿todo esto al final qué te da? Te da un bagaje, te da una mochila de experiencia, de campo, de visión mucho más amplio, mucho más global, que te ayuda a crear tu huella. Sobre todo te ayuda a hacer mucho más \"screening\", mucho más analítico, mucho más exigente en tu línea de trabajo.",
+      "keywords": [
+        "proceso-lesivo",
+        "recuperacion",
+        "readaptacion",
+        "reentrenamiento",
+        "cultura-deportiva"
+      ],
+      "entities": [
+        "Italia",
+        "Estados Unidos",
+        "España"
+      ],
+      "topics": [
+        "Return to Play",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Explicación",
+        "Comparación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las tres fases del proceso lesivo?",
+        "¿Qué diferencias existen en la readaptación de lesiones entre España, Italia y EE. UU.?"
+      ],
+      "related_terms": [
+        "aspecto clínico",
+        "aspectos funcionales",
+        "adjetivos específicos"
+      ],
+      "relevance_score": 5,
+      "context_before": "La importancia del trato humano en el proceso deportivo del jugador.",
+      "context_after": "Se detalla la brújula para estructurar estas fases del Return to Play y los hitos médicos a alcanzar."
+    },
+    {
+      "id": "V04-004",
+      "video_title": "Factores de ayuda en la disminución del riesgo lesivo en el fútbol femenino",
+      "speaker": "Pilar Hueso Martos",
+      "start_timestamp": "04:47",
+      "end_timestamp": "08:09",
+      "start_seconds": 287,
+      "end_seconds": 489,
+      "duration_seconds": 202,
+      "timestamp_url": "[URL_BASE_DEL_VIDEO]?t=287",
+      "title": "Estructura del Return to Play y entrenamiento invisible",
+      "summary": "Establece la progresión del 'Return to Play' desde lo simple a lo complejo. Recalca la vital importancia del 'entrenamiento invisible' (hábitos fuera de las horas del club), las métricas cualitativas y emocionales. Define una progresión de hitos clara: baja médica -> recuperación -> alta médica -> readaptación -> alta deportiva -> reentrenamiento -> alta competitiva.",
+      "literal_quote": "El aspecto más esencial que tenemos que tener en cuenta es que la baja médica, cuando está dada, vamos al punto de recuperación, encontramos ese alta médica, no vamos al proceso de readaptación, no encontramos ese alta deportiva y no vamos al reentrenamiento, llegando al alta competitiva.",
+      "full_transcript": "Bien, ¿cuáles son los principales pilares que yo baso? Ese return to play y return to performance. Equipo multidisciplinar, proceso de recuperación y readaptación, estructurado por etapas, fases, objetivos precisos, seguimiento de esta jugadora recuperada, porque la acción no termina y sobre todo ese trabajo preventivo de activación del que anteriormente hemos hablado. Bien, ¿cuál es la brújula de esta decisión, de este return to play? Vamos a esquematizar. Es lo que yo siempre digo. Al final es muy importante hacer lo complejo, hacerlo simple. Ese es mi mantra de trabajo. La complejidad que tiene una lesión, que tiene el aspecto competitivo, vamos a hacerlo simple dentro de que es complicado. Sobre todo al primero es esa metodología, lo de lo simple a complejo, regresión, reeducación, movimiento. Siempre es interesante esa reeducación de movimiento. La jugadora en algunos momentos no siempre tiene una técnica buena o no siempre tiene un aprendizaje motor bueno. Hablamos del segundo pilar, el atleta. La jugadora como siempre es la protagonista y sobre todo inculcar esos hábitos saludables, el entrenamiento invisible, básico. La jugadora está con nosotros entre cuatro, máximo cinco o seis horas. El resto del día, esas 20 horas, 22 horas, la jugadora no se ve y hay que inculcarle esos hábitos positivos para que el rendimiento no solo termine en el campo. Y cómo no, las métricas, el acceso al aspecto cuantitativo es muy interesante, es muy esencial, pero no olvidemos el aspecto también cualitativo y el aspecto emocional y las variables internas que anteriormente hemos hablado. Los aspectos emocionales también son muy importantes porque también modifican mucho los movimientos. Objetivos a corto plazo y sobre todo que sean alcanzables. Bien, esta es una de las diapositivas que a mí personalmente más me gusta. Creo que es una de las diapositivas clave en esta presentación que estoy haciendo con vosotros. Y sobre todo, el aspecto más esencial que tenemos que tener en cuenta es que la baja médica, cuando está dada, vamos al punto de recuperación, encontramos ese alta médica, no vamos al proceso de readaptación, no encontramos ese alta deportiva y no vamos al reentrenamiento, llegando al alta competitiva. Como podéis ver, en cada uno de los esquemas, recuperación, readaptación, reentrenamiento, hay una serie de ítem cada vez más importantes. Esa es la clave. En recuperación, por ejemplo, es muy importante el tratamiento clínico, el reposo activo. En readaptación, la movilidad, propriocepción, fortalecimiento. En reentrenamiento, simulación de juego, aspectos condicionales físicos, reentrenamiento táctico. Es clave. Cada línea tiene su punto más fuerte. Dentro del aspecto de recuperación y reentrenamiento, aquí podéis ver un esquema mucho más determinado, pero al mismo tiempo mucho más esquematizado, donde aquí, sobre todo, vais a ver en cada punto lo importante que nos tenemos que tener en cuenta. Por ejemplo, el reentrenamiento, ese alta competitiva, tenemos un aspecto mucho más específico, acción en bajo más presión, acción mucho más compleja. Aquí ya hay realidad. Vamos a la realidad del juego, donde estamos en recuperación hasta que tenemos esa alta médica, pues tenemos un mayor control, es mucho más simple, más aislado, analítico, es una fase más clínica. Entonces, para que veáis lo interesante y sobre todo complejo que es la reeducación, sobre todo la readaptación lesiva. Fases en las que yo concreto mi etapa de...",
+      "keywords": [
+        "return-to-play",
+        "entrenamiento-invisible",
+        "baja-medica",
+        "alta-deportiva",
+        "reeducacion",
+        "métricas-emocionales"
+      ],
+      "entities": [],
+      "topics": [
+        "Return to Play",
+        "Evaluación",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pasos clave desde la baja médica hasta el alta competitiva?",
+        "¿Qué es el entrenamiento invisible y por qué es importante en la recuperación?"
+      ],
+      "related_terms": [
+        "alta médica",
+        "alta deportiva",
+        "alta competitiva",
+        "entrenamiento invisible"
+      ],
+      "relevance_score": 5,
+      "context_before": "Diferencias metodológicas y culturales en la división del tratamiento lesivo.",
+      "context_after": "[Fragmento finaliza con la idea incompleta sobre la concreción de etapas]."
+    }
+  ]
+}
