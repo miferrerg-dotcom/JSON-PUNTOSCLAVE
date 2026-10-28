@@ -1,0 +1,152 @@
+{
+  "video": {
+    "video_id": "RM-02",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:06:46",
+    "total_duration_seconds": 406,
+    "source_file": "WEBVTT-1.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-02-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:36",
+      "start_seconds": 0,
+      "end_seconds": 96,
+      "duration_seconds": 96,
+      "timestamp_url": "?t=0",
+      "title": "El reto de la toma de decisiones en el rendimiento deportivo",
+      "summary": "Tener más datos, tecnología y especialistas no garantiza tomar mejores decisiones. El éxito depende de cómo se interpreta la información, quién participa y quién posee la autoridad para cerrar la decisión.",
+      "literal_quote": "¿por qué organizaciones con más datos, tecnología y más especialistas no siempre acaban tomando las mejores decisiones?",
+      "full_transcript": "Hola a toda la comunidad de Performance Scientist Specialist de MSD Spain. Mi nombre es Roberto Martínez y durante la ponencia de hoy quiero abordar una pregunta muy concreta: ¿por qué organizaciones con más datos, tecnología y más especialistas no siempre acaban tomando las mejores decisiones? En nuestra industria, la del rendimiento deportivo, no depende únicamente de qué medimos. También depende de cómo interpretamos la información, quién participa en ese proceso de decisión y quién tiene autoridad para cerrar las decisiones.",
+      "keywords": [
+        "toma-de-decisiones",
+        "datos",
+        "tecnologia",
+        "especialistas",
+        "autoridad",
+        "interpretacion"
+      ],
+      "entities": [
+        "Roberto Martínez",
+        "MSD Spain"
+      ],
+      "topics": [
+        "Toma de Decisiones",
+        "Data Science"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Por qué más datos y tecnología no garantizan mejores decisiones en el deporte?",
+        "¿De qué depende una buena toma de decisiones en el rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "toma de decisiones",
+        "autoridad",
+        "interpretación de datos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la presentación.",
+      "context_after": "Se presenta la experiencia profesional del ponente y cómo los diferentes contextos organizativos afectan el rendimiento."
+    },
+    {
+      "id": "RM-02-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "01:38",
+      "end_timestamp": "04:22",
+      "start_seconds": 98,
+      "end_seconds": 262,
+      "duration_seconds": 164,
+      "timestamp_url": "?t=98",
+      "title": "El próximo gran salto en el rendimiento: funcionar como un sistema",
+      "summary": "Tras analizar ecosistemas en Europa, África y Oriente Medio, se concluye que el próximo salto evolutivo no es medir más. El verdadero reto es lograr que especialistas y tecnología funcionen como un sistema integrado.",
+      "literal_quote": "El siguiente salto que va a venir no vendrá de medir más, está en conseguir que todo funcione como un sistema.",
+      "full_transcript": "Mi experiencia profesional se ha desarrollado durante más de 12 temporadas en tres continentes y siete países... he podido observar cómo cambia el funcionamiento real de cada organización. He estado en entornos con una alta densidad de profesionales especializados... en otros contextos, he trabajado con estructuras de autoridad literalmente castrenses... y actualmente me encuentro en Oriente Medio... incorporando infraestructura, tecnología y conocimiento a una velocidad enorme. Mi sensación es que el siguiente salto que va a venir no vendrá de medir más, está en conseguir que todo funcione como un sistema. Porque puedes tener los mejores médicos, los mejores preparadores físicos... y aun así puedes seguir teniendo dificultades para conseguir que toda esa información llegue a tiempo, se interprete... y termine influyendo en una decisión.",
+      "keywords": [
+        "ecosistemas",
+        "sistema",
+        "tecnologia",
+        "especializacion",
+        "integracion",
+        "rendimiento"
+      ],
+      "entities": [
+        "Europa",
+        "África",
+        "Oriente Medio",
+        "CAF Champions League"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Análisis de contexto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuál es el siguiente paso evolutivo en el rendimiento deportivo según Roberto Martínez?",
+        "¿Por qué es clave que los departamentos funcionen como un sistema integrado?"
+      ],
+      "related_terms": [
+        "sistema integrado",
+        "ecosistemas de rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Introducción a la problemática de la sobreinformación en las decisiones.",
+      "context_after": "Se establece la tesis principal de la ponencia y la estructura que seguirá el contenido."
+    },
+    {
+      "id": "RM-02-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "04:23",
+      "end_timestamp": "06:46",
+      "start_seconds": 263,
+      "end_seconds": 406,
+      "duration_seconds": 143,
+      "timestamp_url": "?t=263",
+      "title": "De la dispersión de datos a la acción y el aprendizaje",
+      "summary": "La tesis central es que se debe convertir la información dispersa en evidencia contextualizada. El hilo conductor del éxito es pasar del dato a la decisión, de la decisión a la acción coordinada, y de la acción al aprendizaje continuo.",
+      "literal_quote": "El hilo conductor va a ser siempre el mismo: cómo pasar del dato a una decisión clara, de la decisión a una acción coordinada y de la acción a un aprendizaje.",
+      "full_transcript": "La tesis de la ponencia es bien sencilla: más datos no garantizan mejores decisiones. Y ahí nos encontramos con un reto, que es convertir información dispersa en evidencia contextualizada. El propósito de la sesión será comprender cómo se construyen las decisiones de rendimiento y cómo se alinean la evidencia, las personas y la autoridad. La presentación se organiza en tres grandes movimientos... Primero, vamos a establecer el problema. Después, vamos a analizar el papel de performance scientist... y el proceso de toma de decisiones y la gobernanza del rendimiento. Finalmente, aplicamos estos principios a casos prácticos. El hilo conductor va a ser siempre el mismo: cómo pasar del dato a una decisión clara, de la decisión a una acción coordinada y de la acción a un aprendizaje.",
+      "keywords": [
+        "datos",
+        "evidencia-contextualizada",
+        "decision",
+        "accion",
+        "aprendizaje",
+        "gobernanza"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Framework",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Cómo se transforma un dato en aprendizaje dentro de un club?",
+        "¿Cuáles son las fases para construir decisiones de rendimiento?"
+      ],
+      "related_terms": [
+        "evidencia contextualizada",
+        "gobernanza del rendimiento",
+        "ciclo de aprendizaje"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reflexión sobre la necesidad de que los clubes funcionen como sistemas estructurados.",
+      "context_after": "Fin del fragmento VTT proporcionado. Queda abierta la explicación detallada de cada punto en el resto del webinar."
+    }
+  ]
+}

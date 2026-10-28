@@ -1,0 +1,183 @@
+{
+  "video": {
+    "video_id": "RM-03",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:06:57",
+    "total_duration_seconds": 417,
+    "source_file": "WEBVTT-3.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-03-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:03",
+      "end_timestamp": "00:01:13",
+      "start_seconds": 3,
+      "end_seconds": 73,
+      "duration_seconds": 70,
+      "timestamp_url": "?t=3",
+      "title": "De medir a traducir: la evolución del profesional del rendimiento",
+      "summary": "Tradicionalmente el trabajo comenzaba midiendo, pero el dato por sí solo únicamente indica qué ocurrió. Para aportar valor, la información necesita interpretación contextual y una posterior traducción adaptada a cada receptor (entrenador, médico, jugador).",
+      "literal_quote": "La evidencia sí que debe ser coherente, pero el mensaje debe adaptarse a quién va a utilizarla.",
+      "full_transcript": "En el bloque anterior hemos visto que disponer de más datos no acaba garantizando la mejor decisión. Y esto cambia la manera de entender el papel actual del performance scientist. Tradicionalmente, el trabajo del profesional del rendimiento comienza midiendo: GPS, biomarcadores, cuestionarios, test, información médica. Y debe comenzar ahí, porque sin una captura rigurosa, no existe una evidencia que sea fiable. Pero medir no completa el proceso, solo nos va a decir qué ocurrió. El siguiente paso natural va a ser interpretar. El dato adquiere un significado cuando lo relacionamos con el jugador, con el momento del microciclo y con el objetivo competitivo. Una vez relacionado, lo que debemos hacer es una traducción. El entrenador, el médico, el jugador, la dirección, no formulan ni la misma pregunta ni tampoco necesitan el mismo nivel de detalle. La evidencia sí que debe ser coherente, pero el mensaje debe adaptarse a quién va a utilizarla. Va a necesitar conectar.",
+      "keywords": [
+        "performance-scientist",
+        "medir",
+        "interpretar",
+        "traducir",
+        "contexto",
+        "evidencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Metodología"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Definición de rol"
+      ],
+      "search_questions": [
+        "¿Por qué medir datos no es suficiente en el rendimiento deportivo?",
+        "¿Cómo debe comunicarse la evidencia a los diferentes departamentos de un club?"
+      ],
+      "related_terms": [
+        "traducción de datos",
+        "rol del sport scientist"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación previa sobre la paradoja de tener más datos pero no tomar mejores decisiones.",
+      "context_after": "Se detalla cómo conectar la información distribuida entre los distintos profesionales."
+    },
+    {
+      "id": "RM-03-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:01:13",
+      "end_timestamp": "00:02:35",
+      "start_seconds": 73,
+      "end_seconds": 155,
+      "duration_seconds": 82,
+      "timestamp_url": "?t=73",
+      "title": "Conectar la información distribuida y el objetivo de influir",
+      "summary": "La información vital está fragmentada entre médicos, entrenadores y jugadores. El especialista debe reunir estas perspectivas antes de decidir. Influir no significa imponer ni sustituir a la autoridad final, sino asegurar que la evidencia llegue a tiempo.",
+      "literal_quote": "Influir no significa imponer, ni menos sustituir a quien tiene la autoridad final. Significa conseguir que la evidencia adecuada llegue a la persona adecuada cuando todavía se puede mejorar una decisión.",
+      "full_transcript": "Y es que la información más relevante suele estar distribuida. El área médica conoce la evolución clínica, por ejemplo, el cuerpo técnico va a conocer la intención de la sesión, el plan de partido, y el jugador conoce su respuesta propia, cómo se siente, y performance va a saber su exposición previa, su exposición programada y la exposición futura a tres días. El valor del performance scientist o del especialista de rendimiento va a ser reunir esas perspectivas en la misma conversación antes de que se decida. Porque una mala interpretación, si llega aislada o al decisor equivocado, o demasiado tarde, es muy difícil. Una vez cerrado lo de conectar, aparece la influencia. Influir no significa imponer, ni menos sustituir a quien tiene la autoridad final. Significa conseguir que la evidencia adecuada llegue a la persona adecuada cuando todavía se puede mejorar una decisión. Esto a veces va a permitir ajustar el plan y otras veces va a permitir simplemente confirmarlo. Por eso, medir es el principio, pero influir en la calidad de la decisión es el verdadero objetivo.",
+      "keywords": [
+        "informacion-distribuida",
+        "influencia",
+        "autoridad",
+        "perspectivas",
+        "comunicacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Qué significa influir en el proceso de toma de decisiones deportivas?",
+        "¿Por qué es importante conectar la información de los distintos departamentos?"
+      ],
+      "related_terms": [
+        "influencia sin autoridad",
+        "flujo de información"
+      ],
+      "relevance_score": 5,
+      "context_before": "La necesidad de traducir el mensaje de los datos según el receptor.",
+      "context_after": "Se presenta el modelo operativo para estructurar este proceso de influencia."
+    },
+    {
+      "id": "RM-03-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:02:35",
+      "end_timestamp": "00:06:25",
+      "start_seconds": 155,
+      "end_seconds": 385,
+      "duration_seconds": 230,
+      "timestamp_url": "?t=155",
+      "title": "El arquitecto del proceso de decisión y sus cinco funciones clave",
+      "summary": "Para evitar depender de conversaciones informales, el especialista actúa como 'arquitecto del proceso' aplicando cinco funciones: integrar evidencia, interpretar contexto, conectar profesionales, recomendar opciones (mostrando incertidumbres) y revisar la acción final.",
+      "literal_quote": "El performance scientist es el que se va a encargar de construir las conexiones, las preguntas y las revisiones que permiten decidir con mayor claridad a la organización.",
+      "full_transcript": "Para que esa influencia no dependa únicamente de una persona concreta o de una conversación informal, de pasillo, necesitamos diseñar el proceso. Para mí, ahí el performance scientist actúa como arquitecto del proceso de decisión per se. Esta expresión no significa que decida todo, ni que lo sustituya, por ejemplo, al entrenador, ni al médico o dirección deportiva. Significa que el performance scientist es el que se va a encargar de construir las conexiones, las preguntas y las revisiones que permiten decidir con mayor claridad a la organización. Este sistema va a conectar información, personas, opciones, decisión y acción. La primera función del performance scientist será integrar. La información relevante normalmente está distribuida entre diferentes fuentes, profesionales, departamentos, y es el performance scientist quien debe reunir la evidencia necesaria alrededor de una pregunta concreta. Ahí va a tener que comprobar la calidad de esa evidencia y debe evitar que cada departamento trabaje con una versión diferente de la realidad. La segunda función es interpretar. Los datos no tienen un significado independiente del contexto. Los datos deben estar relacionados con el objetivo de la sesión, con el momento del microciclo, con el historial del jugador, con las demandas competitivas o con la respuesta individual. La tercera función es conectar. Una decisión de rendimiento es muy raro que dependa únicamente de una misma perspectiva. Por eso es importante que incorporemos a la conversación y al proceso de decisión a los diferentes profesionales interesados en esa decisión. El área médica, puede ser la opinión del propio jugador, el conocimiento del entrenador, diferentes profesionales del área de performance, y el performance scientist será el encargado de conectar a todos ellos. La cuarta función es la función de recomendar. El performance scientist no debe limitarse a únicamente señalar un punto de vista o exponer que existe un problema. Debe explicar qué sabemos y también qué incertidumbre existe. Esa última es muy importante. Una vez que tenemos el qué sabemos y qué incertidumbre existe, el siguiente paso es presentar qué opciones tenemos y cuáles podrían ser las diferentes consecuencias de cada una de ellas. La quinta función es la función de revisar. Una vez que la decisión ya se convierte en una acción, necesitamos comprobar qué ocurrió, no dejar solo la acción hecha sin pasar por el último filtro de revisión, porque esa misma revisión es lo que va a generar el propio aprendizaje para situaciones futuras o incluso para que se quede en la propia organización. Por tanto, el proceso no va a terminar cuando enviamos un informe o presentamos un dashboard, independientemente de lo completo que sea. Termina cuando la información ha contribuido a una acción y posteriormente hemos aprendido de sus consecuencias. Ahí es donde se encuentra el verdadero valor del performance scientist: no en controlar todas las decisiones, sino en conseguir que el sistema decida por sí mismo mejor.",
+      "keywords": [
+        "arquitecto-decision",
+        "integrar",
+        "interpretar",
+        "conectar",
+        "recomendar",
+        "revisar"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cinco funciones del performance scientist?",
+        "¿Qué significa ser el arquitecto del proceso de decisión en un equipo?"
+      ],
+      "related_terms": [
+        "5 funciones clave",
+        "ciclo de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del objetivo de influir en las decisiones garantizando que la evidencia llegue a la autoridad.",
+      "context_after": "Transición hacia la importancia de conocer los intereses de las personas involucradas en el sistema."
+    },
+    {
+      "id": "RM-03-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:06:25",
+      "end_timestamp": "00:06:57",
+      "start_seconds": 385,
+      "end_seconds": 417,
+      "duration_seconds": 32,
+      "timestamp_url": "?t=385",
+      "title": "Hacia el ecosistema del rendimiento: personas e intereses",
+      "summary": "Antes de diseñar mecánicamente el proceso, es fundamental entender el ecosistema humano: qué información poseen los involucrados, qué intereses protegen, sus responsabilidades y su capacidad real de influir.",
+      "literal_quote": "...debemos conocer muy bien a las personas que forman el proceso, qué información poseen, qué intereses van a proteger, qué responsabilidad asumen y qué capacidad real van a poder tener de influir en decisiones.",
+      "full_transcript": "Pero antes de avanzar para diseñar este proceso en sí, debemos conocer muy bien a las personas que forman el proceso, qué información poseen, qué intereses van a proteger, qué responsabilidad asumen y qué capacidad real van a poder tener de influir en decisiones. Y todo esto nos va a conducir al siguiente bloque, que es el ecosistema del rendimiento deportivo.",
+      "keywords": [
+        "ecosistema",
+        "personas",
+        "intereses",
+        "responsabilidad",
+        "influencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Introducción",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Qué factores humanos hay que considerar antes de diseñar un proceso de decisión?",
+        "¿Por qué es vital entender los intereses de cada departamento en un club?"
+      ],
+      "related_terms": [
+        "ecosistema deportivo",
+        "factores organizacionales"
+      ],
+      "relevance_score": 4,
+      "context_before": "Finalización de la explicación de las cinco funciones metodológicas.",
+      "context_after": "Inicio del bloque sobre el ecosistema de rendimiento deportivo."
+    }
+  ]
+}

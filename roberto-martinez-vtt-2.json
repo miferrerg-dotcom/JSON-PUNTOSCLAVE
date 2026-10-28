@@ -1,0 +1,139 @@
+{
+  "video": {
+    "video_id": "RM-03",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:04:50",
+    "total_duration_seconds": 290,
+    "source_file": "WEBVTT-2.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-03-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00",
+      "end_timestamp": "01:14",
+      "start_seconds": 0,
+      "end_seconds": 74,
+      "duration_seconds": 74,
+      "timestamp_url": "?t=0",
+      "title": "La abundancia de datos no garantiza mejores decisiones",
+      "summary": "A pesar de tener un acceso sin precedentes a tecnologías (tracking, plataformas de fuerza, biomarcadores), la simple acumulación de datos no se traduce automáticamente en mejores decisiones de rendimiento si no se estructuran correctamente.",
+      "literal_quote": "Nunca hemos tenido tanta información alrededor de un atleta. En teoría, esa cantidad de información debería significar que podamos tomar mejores decisiones, pero en la práctica esa relación no acaba de ser automática.",
+      "full_transcript": "Comenzamos por el punto de partida de todo este recorrido: el salto entre disponer de un dato y conseguir que ese dato contribuya realmente a una decisión. Puede parecer una transición sencilla, pero en la práctica es precisamente donde muchos sistemas comienzan a perder valor. En el fútbol actual y en el sistema de rendimiento deportivo, nunca hemos tenido, como a la fecha de hoy, tanta capacidad para medir, integrar y contextualizar la información. Tenemos sistemas de tracking y carga externa, monitorización de carga interna, capacidad de analizar la recuperación, plataformas de fuerza, evaluaciones neuromusculares, perfiles de fuerza y velocidad, biomarcadores, variables fisiológicas como sueño, wellness y readiness, screening médico, historial de lesiones y disponibilidad, datos técnico-tácticos y profesionales cada vez más especializados. Nunca hemos tenido tanta información alrededor de un atleta. En teoría, esa cantidad de información debería significar que podamos tomar mejores decisiones, pero en la práctica esa relación no acaba de ser automática.",
+      "keywords": [
+        "datos",
+        "tecnologia",
+        "tracking",
+        "sobreinformacion",
+        "rendimiento"
+      ],
+      "entities": [],
+      "topics": [
+        "Análisis de Datos",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Problema conceptual"
+      ],
+      "search_questions": [
+        "¿Por qué la abundancia de datos no mejora automáticamente las decisiones deportivas?",
+        "¿Qué tipos de datos se monitorizan habitualmente en el fútbol de élite?"
+      ],
+      "related_terms": [
+        "paradoja de la información",
+        "monitorización deportiva"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio del fragmento WEBVTT-2.",
+      "context_after": "Se plantea la problemática de cómo canalizar toda esta información hacia la toma de decisiones efectivas."
+    },
+    {
+      "id": "RM-03-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "01:15",
+      "end_timestamp": "03:38",
+      "start_seconds": 75,
+      "end_seconds": 218,
+      "duration_seconds": 143,
+      "timestamp_url": "?t=75",
+      "title": "El verdadero reto: contexto, tiempo y comunicación organizativa",
+      "summary": "Tener un buen dashboard no sirve de nada si la información está fragmentada, llega tarde o se interpreta de formas contradictorias por distintos departamentos. El principal fallo de los clubes suele ser de comunicación, gobernanza o ejecución, no de falta de datos.",
+      "literal_quote": "El problema no es solamente la cantidad de información que tenemos, sino conseguir que esa información llegue a las personas adecuadas, con el contexto adecuado y a tiempo para modificar una acción.",
+      "full_transcript": "Podemos tener un dashboard excelente y, a pesar de ello, continuar sin saber si debemos modificar una carga, limitar una participación o mantener el plan competitivo. Y es que el problema no es solamente la cantidad de información que tenemos, sino conseguir que esa información llegue a las personas adecuadas, con el contexto adecuado y a tiempo para modificar una acción. Por lo tanto, la pregunta que nos acompaña hoy es: ¿cómo convertimos la información disponible en mejores decisiones de rendimiento? Más información no garantiza mejores decisiones. Para entender la distancia entre tener información y tomar una decisión, vamos a pensar únicamente en esta situación, deliberadamente simplificada: un jugador importante llega al partido con información completamente contradictoria. El área médica lo considera clínicamente disponible, su exposición reciente ha sido inferior a la habitual y el jugador dice que quiere participar. El entrenador, en este caso, considera que lo necesita. A partir de ese compendio tenemos datos, contexto y diferentes perspectivas, pero todavía no tenemos una decisión. [...] Lo importante por ahora es entender la distancia entre disponer de información y ser capaces de convertirla en una decisión coherente y ejecutable. En ese recorrido es posible que fallen muchas cosas, como, por ejemplo, que la información esté fragmentada, llegue tarde, se interprete de manera diferente o no esté claro quién recomienda, quién decide y quién ejecuta. Por eso, muchas organizaciones realmente no tienen un problema de datos, acaban teniendo un problema de integración, comunicación, gobernanza o incluso ejecución.",
+      "keywords": [
+        "contexto",
+        "comunicacion",
+        "integracion",
+        "gobernanza",
+        "fragmentacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Análisis de contexto",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fallas más comunes al procesar datos en un equipo deportivo?",
+        "¿Por qué es vital que la información llegue a tiempo y con el contexto adecuado?"
+      ],
+      "related_terms": [
+        "gobernanza de datos",
+        "flujo de comunicación"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se detalla la cantidad de sistemas de recolección de información disponibles en el deporte actual.",
+      "context_after": "Se introduce el ciclo de valor que debe atravesar el dato para convertirse en una acción útil."
+    },
+    {
+      "id": "RM-03-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "03:39",
+      "end_timestamp": "04:50",
+      "start_seconds": 219,
+      "end_seconds": 290,
+      "duration_seconds": 71,
+      "timestamp_url": "?t=219",
+      "title": "El ciclo del dato y la figura del Performance Scientist",
+      "summary": "Para que un dato genere valor real debe atravesar un proceso estricto: información, comunicación, decisión, acción y revisión. Para asegurar este flujo y evitar fallos, se vuelve indispensable la figura del Performance Scientist.",
+      "literal_quote": "Para producir valor, este dato debe entrar en un proceso que abarca información, comunicación, decisión, acción y revisión.",
+      "full_transcript": "La calidad del rendimiento no depende únicamente de la calidad de los datos, sino también de la calidad de las decisiones. El dato es solamente el punto de partida. Para producir valor, este dato debe entrar en un proceso que abarca información, comunicación, decisión, acción y revisión. Si ese recorrido se rompe por alguna de sus partes, podemos tener una tecnología excelente y puntera y, aun así, una decisión pobre. Por eso, el objetivo de esta sesión no es encontrar una métrica perfecta, es entender cómo construir un sistema que nos permita, en primer lugar, formular mejores preguntas, conectar evidencia y contexto, y aumentar la calidad de las decisiones. Para que eso ocurra, necesitamos primero una figura capaz de conectar evidencia, personas y práctica. Y eso nos lleva directamente al siguiente bloque de la presentación: el nuevo rol del performance scientist.",
+      "keywords": [
+        "proceso",
+        "accion",
+        "revision",
+        "performance-scientist",
+        "sistema"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son las fases del proceso para que un dato produzca valor?",
+        "¿Cuál es el rol principal del Performance Scientist?"
+      ],
+      "related_terms": [
+        "ciclo de la información",
+        "Performance Scientist"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de cómo las fallas organizativas bloquean la utilidad de los datos.",
+      "context_after": "Se concluye este segmento y se da paso al bloque específico sobre el rol del performance scientist."
+    }
+  ]
+}
