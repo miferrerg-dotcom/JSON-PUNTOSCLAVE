@@ -1,0 +1,349 @@
+{
+  "video": {
+    "video_id": "RM-05",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:23:10",
+    "total_duration_seconds": 1390,
+    "source_file": "WEBVTT-5.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-05-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:06:00",
+      "start_seconds": 0,
+      "end_seconds": 360,
+      "duration_seconds": 360,
+      "timestamp_url": "?t=0",
+      "title": "El Athlete Performance Decision Framework y sus ocho fases",
+      "summary": "Roberto Martínez presenta un marco estructurado en 8 fases circulares (Pregunta, Evidencia, Contexto, Opciones, Recomendación, Decisión, Acción y Revisión). Su propósito no es predecir resultados infalibles, sino hacer el razonamiento explícito, trazable y evitar saltos lógicos perjudiciales al tomar decisiones.",
+      "literal_quote": "El valor de este framework no es que esté en recorrer mecánicamente todas las ocho fases, está sobre todo en evitar saltos muy determinados.",
+      "full_transcript": "Pero disponer de información integrada todavía no garantiza una buena decisión. Necesitamos un proceso que conecte esa información con una recomendación, con una decisión, con una acción y con un aprendizaje... Este es el Athlete Performance Decision Framework. Es una síntesis aplicada propia... informada por principios de athlete monitoring, gestión del riesgo, return to sport and shared decision-making. No afirmo que la secuencia completa sea un modelo científicamente validado ni que pueda predecir el resultado. Su función es hacer el razonamiento mucho más explícito, trazable y revisable. Este framework... consiste en ocho fases. La primera es la pregunta... La segunda es la evidencia... La tercera es el contexto... La cuarta fase son las opciones... La quinta fase es la recomendación... La sexta fase es la fase de decisión... La séptima es la acción... La octava y última fase... es la fase de revisión y aprendizaje. Como podéis ver, las fases de este framework están elaboradas de forma circular, precisamente para que la revisión genere nuevas preguntas... El valor de este framework no es que esté en recorrer mecánicamente todas las ocho fases, está sobre todo en evitar saltos muy determinados. Por ejemplo, analizar datos sin primero haber hecho una pregunta.",
+      "keywords": [
+        "framework",
+        "toma-decisiones",
+        "metodologia",
+        "razonamiento",
+        "fases"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Introducción"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 8 fases del Athlete Performance Decision Framework?",
+        "¿Cuál es el verdadero valor de usar un framework en las decisiones deportivas?"
+      ],
+      "related_terms": [
+        "Athlete Performance Decision Framework",
+        "ciclo de decisión circular"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó previamente cómo transformar datos fragmentados en información útil.",
+      "context_after": "Se detalla a profundidad la fase uno del modelo metodológico propuesto."
+    },
+    {
+      "id": "RM-05-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:06:00",
+      "end_timestamp": "00:07:35",
+      "start_seconds": 360,
+      "end_seconds": 455,
+      "duration_seconds": 95,
+      "timestamp_url": "?t=360",
+      "title": "Fase 1 (Pregunta): El inicio del proceso de decisión",
+      "summary": "Un error común es comenzar el análisis revisando datos. El proceso debe iniciar definiendo exactamente qué se debe decidir, sobre qué jugador, en qué marco temporal y con qué nivel de urgencia. La calidad de la pregunta determinará la relevancia de la evidencia.",
+      "literal_quote": "Una buena decisión no comienza cuando alguien elige, se construye desde la propia pregunta...",
+      "full_transcript": "Una buena decisión no comienza cuando alguien elige, se construye desde la propia pregunta y solo se completa cuando la acción se convierte en un aprendizaje... La primera es la pregunta: ¿qué debemos decidir? Muchas organizaciones comienzan por los datos disponibles, no por la decisión que van a tener que tomar. Consecuencia de esto es que aparecen métricas muy interesantes... pero todavía seguimos sin una decisión clara. Una buena pregunta... debe especificar, por ejemplo, qué debemos decidir, sobre qué jugador, qué horizonte temporal o con qué urgencia vamos a tener que decidir. Porque no es lo mismo preguntar si un jugador presenta fatiga, que preguntar si está preparado para completar la sesión de hoy... La calidad de la pregunta determina la relevancia de la evidencia.",
+      "keywords": [
+        "pregunta",
+        "calidad-decision",
+        "urgencia",
+        "evidencia",
+        "analisis"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué es un error empezar un análisis mirando los datos disponibles?",
+        "¿Qué elementos debe contener una buena pregunta de rendimiento?"
+      ],
+      "related_terms": [
+        "formulación del problema",
+        "pregunta de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación general del framework circular.",
+      "context_after": "Se avanza a la recolección de evidencia específica para responder la pregunta."
+    },
+    {
+      "id": "RM-05-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:07:35",
+      "end_timestamp": "00:10:18",
+      "start_seconds": 455,
+      "end_seconds": 618,
+      "duration_seconds": 163,
+      "timestamp_url": "?t=455",
+      "title": "Fase 2 (Evidencia) y la gestión de la incertidumbre",
+      "summary": "Al reunir la información, el especialista debe comunicar de forma transparente su nivel de confianza y los límites del dato. Existen tres grandes fuentes de incertidumbre: de medida (fallos técnicos o errores), de interpretación (múltiples explicaciones a un mismo dato) y de decisión (límites en la tolerancia al riesgo).",
+      "literal_quote": "Ese 'no estoy seguro' puede significar tres cosas... incertidumbre de medida... de interpretación... o incertidumbre de decisión.",
+      "full_transcript": "Segunda fase, que es la evidencia. Aquí ya empezamos a reunir únicamente la información necesaria para responder a la pregunta que hemos hecho al principio... Debemos diferenciar... qué sabemos, qué creemos, qué desconocemos y también comunicar nuestro nivel de confianza... Para hacerlo, hay tres cuestiones que son claves. Cuánto confío en la medida o en la medición, cuánto confío en la interpretación que he hecho y qué nivel de incertidumbre estoy dispuesto a aceptar. Una medición puede ser fiable y aun así admitir diferentes interpretaciones... Reconocerlo no debilita la recomendación, simplemente hace explícitos los límites... Ese 'no estoy seguro' puede significar tres cosas... incertidumbre de medida: faltan datos o existe error. Puede ser incertidumbre de interpretación: el dato es correcto, pero puede haber varias explicaciones. O puede ser incertidumbre de decisión: entendemos la situación, pero debemos decidir cuánto riesgo aceptar.",
+      "keywords": [
+        "evidencia",
+        "incertidumbre",
+        "medida",
+        "interpretacion",
+        "riesgo"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Cuáles son los tres tipos de incertidumbre al evaluar datos deportivos?",
+        "¿Por qué es importante comunicar el nivel de confianza de los datos?"
+      ],
+      "related_terms": [
+        "nivel de confianza",
+        "tolerancia al riesgo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Importancia de definir una pregunta específica antes de mirar métricas.",
+      "context_after": "Se añade la dimensión del contexto para darle sentido a la evidencia."
+    },
+    {
+      "id": "RM-05-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:10:18",
+      "end_timestamp": "00:11:20",
+      "start_seconds": 618,
+      "end_seconds": 680,
+      "duration_seconds": 62,
+      "timestamp_url": "?t=618",
+      "title": "Fase 3 (Contexto): Factores individuales y organizativos",
+      "summary": "Un dato aislado carece de valor sin su contexto adecuado. El contexto engloba el perfil del jugador (historial, posición, minutos acumulados, viajes) y el marco organizativo (recursos, tiempo disponible y las personas que deben participar en la ejecución).",
+      "literal_quote": "Un mismo dato, por ejemplo, puede tener diferentes significados según el jugador, el microciclo o el momento competitivo.",
+      "full_transcript": "Ya nos vamos a contexto... Un valor o un dato no se puede medir de forma aislada. Entendiendo contexto, debemos considerar, por ejemplo, el perfil del jugador, que involucra su historial, su posición, sus minutos acumulados, el día de microciclo, el contenido de la sesión, los viajes que hay o que ha hecho... Y también debemos tener en cuenta el contexto organizativo, no solo el propio perfil individual. Ahí valoramos cosas como cuánto tiempo tenemos, qué recursos están disponibles, quién debe participar y qué restricciones pueden condicionar la ejecución de esa decisión.",
+      "keywords": [
+        "contexto",
+        "perfil-jugador",
+        "contexto-organizativo",
+        "recursos",
+        "microciclo"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Qué elementos componen el contexto al analizar métricas deportivas?",
+        "¿Cómo influye el contexto organizativo en las decisiones de un club?"
+      ],
+      "related_terms": [
+        "contexto organizativo",
+        "perfil individual"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de las fuentes de incertidumbre y errores en los datos.",
+      "context_after": "Construcción de escenarios como antesala a la recomendación."
+    },
+    {
+      "id": "RM-05-005",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:11:20",
+      "end_timestamp": "00:13:50",
+      "start_seconds": 680,
+      "end_seconds": 830,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=680",
+      "title": "Fase 4 (Opciones): Construcción de escenarios y reversibilidad",
+      "summary": "Antes de recomendar, el analista debe plantear alternativas: mantener plan, reducir volumen, adaptar posición, etc. Para cada opción se deben detallar beneficios, riesgos y sus consecuencias, valorando críticamente su reversibilidad (una decisión corregible al día siguiente frente a una lesión que compromete la salud).",
+      "literal_quote": "...no asumimos el mismo nivel de incertidumbre en base a la reversibilidad ante una decisión que se puede corregir mañana o ante otra que puede comprometer la salud y disponibilidad del jugador.",
+      "full_transcript": "Por último, nos vamos a la fase cuatro: opciones. Antes de recomendar, es clave que construyamos escenarios. Ante una misma pregunta podemos establecer varios escenarios, como mantener planificación, reducir volumen, modificar intensidad, limitar ciertas posiciones... o posponer la decisión. Cada opción debe presentarse con sus posibles beneficios, riesgos, condiciones y consecuencias, y también hay que valorar la reversibilidad de esa opción... Y sobre todo, no asumimos el mismo nivel de incertidumbre en base a la reversibilidad ante una decisión que se puede corregir mañana o ante otra que puede comprometer la salud y disponibilidad del jugador.",
+      "keywords": [
+        "opciones",
+        "escenarios",
+        "reversibilidad",
+        "incertidumbre",
+        "riesgos"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Metodología"
+      ],
+      "content_type": [
+        "Metodología",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Cómo se deben plantear las opciones antes de una recomendación de rendimiento?",
+        "¿Qué papel juega la reversibilidad al evaluar opciones en el deporte?"
+      ],
+      "related_terms": [
+        "construcción de escenarios",
+        "análisis de consecuencias"
+      ],
+      "relevance_score": 5,
+      "context_before": "Agregando el contexto a la evidencia recolectada.",
+      "context_after": "Se detalla cómo el performance scientist elabora su recomendación profesional."
+    },
+    {
+      "id": "RM-05-006",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:13:50",
+      "end_timestamp": "00:17:10",
+      "start_seconds": 830,
+      "end_seconds": 1030,
+      "duration_seconds": 200,
+      "timestamp_url": "?t=830",
+      "title": "Fase 5 (Recomendación): Evitar la falsa precisión",
+      "summary": "La recomendación integra el análisis previo para proponer el curso de acción más coherente. Debe hacerse sin ocultar las dudas, evitando la falsa precisión matemática (como dar un porcentaje exacto de riesgo de lesión). Se debe comunicar cualitativamente el nivel de preocupación y los factores que lo originan.",
+      "literal_quote": "Disponemos de una probabilidad calibrada o validada, no podemos afirmar: «Este jugador tiene un 40 % de riesgo de lesión».",
+      "full_transcript": "Una de las confusiones más habituales... es tratar la recomendación y la decisión como si fuese lo mismo. La recomendación es una construcción profesional... Su primera función es decir con claridad qué proponemos. También debe explicar con qué nivel de confianza trabajamos... Por eso, la recomendación no debe ocultar la incertidumbre... Y eso consiste en hacer explícitas nuestras limitaciones. Por ejemplo... «hoy recomiendo limitar la exposición de alta velocidad. Mi nivel de confianza es moderado... todavía me falta comprobar cómo responde este jugador». Hasta aquí, el performance scientist tiene una responsabilidad importante... que exige evitar una falsa precisión. Disponemos de una probabilidad calibrada o validada, no podemos afirmar: «Este jugador tiene un 40 % de riesgo de lesión». No, eso no se puede hacer. Debemos comunicar nuestra valoración de una forma mucho más rigurosa: «Mi nivel de preocupación es moderado por estos tres factores...»",
+      "keywords": [
+        "recomendacion",
+        "falsa-precision",
+        "comunicacion",
+        "riesgo-lesion",
+        "incertidumbre"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Comunicación"
+      ],
+      "search_questions": [
+        "¿Por qué es un error usar porcentajes exactos para el riesgo de lesión?",
+        "¿Cómo debe comunicar un especialista de rendimiento sus recomendaciones?"
+      ],
+      "related_terms": [
+        "falsa precisión",
+        "comunicación del riesgo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Generación de múltiples escenarios de acción.",
+      "context_after": "Se hace la diferenciación estricta entre la acción de recomendar y el acto de decidir."
+    },
+    {
+      "id": "RM-05-007",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:17:10",
+      "end_timestamp": "00:19:55",
+      "start_seconds": 1030,
+      "end_seconds": 1195,
+      "duration_seconds": 165,
+      "timestamp_url": "?t=1030",
+      "title": "Fases 6 y 7 (Decisión y Acción): Autoridad y responsabilidad en la ejecución",
+      "summary": "Recomendar no implica tener la autoridad para decidir. La decisión pertenece a quien asume la responsabilidad del riesgo (área médica, entrenador o directiva). Una vez decidido, la fase de Acción define estrictamente quién ejecuta, cuándo lo hace y cómo se comunica, estableciendo qué señales obligarán a reajustar el plan.",
+      "literal_quote": "Recomendar no significa poseer automáticamente el derecho de decidir. Esa decisión aparece cuando una persona con autoridad elige una opción, acepta el riesgo correspondiente y asume la responsabilidad.",
+      "full_transcript": "Sin embargo, y esto es muy clave, recomendar no significa poseer automáticamente el derecho de decidir. Esa decisión aparece cuando una persona con autoridad elige una opción, acepta el riesgo correspondiente y asume la responsabilidad de cerrar ese proceso... La autoridad final depende de la naturaleza de la decisión y la estructura organizativa. En una cuestión clínica... es el área médica. Si la decisión es sobre selección o participación competitiva, el entrenador asume esa responsabilidad. Si la decisión es relacionada con presupuesto... la dirección... Los datos no deciden. Los datos aportan evidencia... La séptima fase del framework es la acción. Aquí debemos definir quién convierte la decisión en práctica, qué debe hacer, cuándo debe hacerlo y cómo se comunicará... La acción también va a necesitar condiciones y seguimiento. Qué señales observaremos, qué variables monitorizaremos o qué situación podría obligarnos a mantener, modificar o detener el plan.",
+      "keywords": [
+        "decision",
+        "accion",
+        "autoridad",
+        "responsabilidad",
+        "ejecucion"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Quién es el encargado de cerrar la decisión en un equipo de alto rendimiento?",
+        "¿Qué elementos deben definirse durante la fase de acción deportiva?"
+      ],
+      "related_terms": [
+        "derechos de decisión",
+        "implementación táctica"
+      ],
+      "relevance_score": 5,
+      "context_before": "La construcción de la recomendación técnica.",
+      "context_after": "El cierre del ciclo con la revisión y el aprendizaje sistémico."
+    },
+    {
+      "id": "RM-05-008",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:19:55",
+      "end_timestamp": "00:23:10",
+      "start_seconds": 1195,
+      "end_seconds": 1390,
+      "duration_seconds": 195,
+      "timestamp_url": "?t=1195",
+      "title": "Fase 8 (Revisión): Outcome bias y el verdadero aprendizaje sistémico",
+      "summary": "La evaluación post-acción debe analizar tanto el resultado como la calidad del proceso. Hay que evitar el 'outcome bias' (juzgar una decisión solo por si salió bien o mal). El conocimiento generado solo se vuelve valioso cuando se incorpora a la organización, modificando protocolos, criterios o preguntas futuras.",
+      "literal_quote": "La revisión solo produce un verdadero aprendizaje cuando modifica el sistema.",
+      "full_transcript": "La octava fase es la revisión y aprendizaje. Después de ejecutar una acción, analizamos el resultado, pero también debemos revisar la calidad del proceso... ¿La acción se aplicó como se había acordado? ¿La información llegó a tiempo? ¿Participaron las personas adecuadas? ...Esta distinción responde a un sesgo conocido como outcome bias... Señala que una vez que conocemos el resultado, vamos a tender a considerar mejor la decisión que terminó bien y peor la decisión que terminó mal, aunque ambas se hubieran tomado utilizando la misma información. Por eso debemos construir primero el momento de la decisión: qué sabíamos, qué desconocíamos... La revisión solo produce un verdadero aprendizaje cuando modifica el sistema. Podemos actualizar un criterio, un protocolo, un umbral... Si la revisión termina únicamente con una conversación, el conocimiento acaba permaneciendo en las personas, no en la propia organización... El framework describe cómo construimos una decisión y la gobernanza... determina quién participa, quién recomienda y quién posee la autoridad.",
+      "keywords": [
+        "revision",
+        "aprendizaje",
+        "outcome-bias",
+        "sistema",
+        "sesgo-resultado"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Metodología",
+        "Aprendizaje"
+      ],
+      "search_questions": [
+        "¿Qué es el outcome bias en la gestión deportiva?",
+        "¿Cómo se asegura el aprendizaje a largo plazo en un club de fútbol?"
+      ],
+      "related_terms": [
+        "sesgo de retrospectiva",
+        "mejora continua organizativa"
+      ],
+      "relevance_score": 5,
+      "context_before": "La ejecución de la acción designada.",
+      "context_after": "Se anticipa el próximo bloque del webinar que abordará directamente la gobernanza del rendimiento."
+    }
+  ]
+}

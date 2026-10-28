@@ -1,0 +1,224 @@
+{
+  "video": {
+    "video_id": "RM-08",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:14:18",
+    "total_duration_seconds": 858,
+    "source_file": "WEBVTT-8.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-08-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:22",
+      "start_seconds": 1,
+      "end_seconds": 202,
+      "duration_seconds": 201,
+      "timestamp_url": "?t=1",
+      "title": "Caso práctico 1: Reformular la pregunta de disponibilidad",
+      "summary": "Ante un jugador con una semana de entrenamiento incompleta, el médico, el preparador físico, el entrenador y el propio jugador pueden tener opiniones encontradas. La solución no es decidir de forma binaria si juega o no, sino reestructurar la pregunta: ¿qué participación puede asumir y bajo qué condiciones?",
+      "literal_quote": "En lugar de: ¿juega mañana?, preguntamos: ¿qué participación puede asumir, con qué nivel de confianza y bajo qué condiciones?",
+      "full_transcript": "Vamos a imaginar que tenemos un jugador clave que ha realizado una semana de entrenamiento incompleta... El área médica lo va a considerar disponible clínicamente... Desde performance, podemos observar que su posición reciente todavía es inferior... El entrenador considera que ese jugador puede ser importante... y el propio jugador reporta una confianza alta... ¿quién tiene razón? Probablemente, todos... porque no están respondiendo exactamente a la misma pregunta. Por eso... no va a consistir en decidir si juega o no juega... En lugar de: ¿juega mañana?, preguntamos: ¿qué participación puede asumir, con qué nivel de confianza y bajo qué condiciones?",
+      "keywords": [
+        "disponibilidad",
+        "reformulacion",
+        "pregunta",
+        "contexto",
+        "caso-practico"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo se debe abordar la disponibilidad de un jugador con opiniones médicas y técnicas cruzadas?",
+        "¿Por qué es un error plantear preguntas binarias sobre la participación de un futbolista?"
+      ],
+      "related_terms": [
+        "pregunta de decisión",
+        "evaluación de disponibilidad"
+      ],
+      "relevance_score": 5,
+      "context_before": "Inicio de la sección final de casos prácticos y conclusiones.",
+      "context_after": "Se explica quién debe tomar la decisión final sobre la participación limitada del jugador."
+    },
+    {
+      "id": "RM-08-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:03:22",
+      "end_timestamp": "00:04:55",
+      "start_seconds": 202,
+      "end_seconds": 295,
+      "duration_seconds": 93,
+      "timestamp_url": "?t=202",
+      "title": "Separación entre recomendar y decidir",
+      "summary": "El especialista en rendimiento puede recomendar una participación limitada, pero no tiene el derecho de decidir. La autoridad recae en el médico (clínica) o en el entrenador (táctica). Además, el éxito de la decisión se evalúa con la información previa, no solo por si el resultado final fue favorable.",
+      "literal_quote": "El performance puede recomendar, pero no necesariamente puede decidir... La calidad de la decisión la vamos a tener que evaluar y analizar con la información que teníamos antes de conocer el resultado.",
+      "full_transcript": "La recomendación podía ser perfectamente una participación limitada... Pero aquí vamos a ver algo que es una parte importante... el performance puede recomendar, pero no necesariamente puede decidir. En el caso que exista una restricción clínica... la autoridad para decidir... sería del médico. Si el jugador está disponible y la discusión es cómo utilizarlo competitivamente, corresponde al entrenador... Supongamos que este jugador va a participar, que juega bien y que no ocurre ningún problema. Exactamente eso no va a demostrar que la decisión fue correcta, solo va a demostrar que fue un resultado favorable. La calidad de la decisión la vamos a tener que evaluar y analizar con la información que teníamos antes de conocer el resultado.",
+      "keywords": [
+        "recomendar",
+        "decidir",
+        "autoridad",
+        "evaluacion",
+        "resultado"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Quién tiene la autoridad para decidir si un jugador con alta carga compite?",
+        "¿Por qué el resultado de un partido no valida si una decisión técnica o médica fue correcta?"
+      ],
+      "related_terms": [
+        "derechos de decisión",
+        "evaluación del proceso"
+      ],
+      "relevance_score": 5,
+      "context_before": "Reformulación de la pregunta de disponibilidad en el caso práctico.",
+      "context_after": "Se plantea un segundo caso práctico de mayor complejidad."
+    },
+    {
+      "id": "RM-08-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:04:55",
+      "end_timestamp": "00:08:16",
+      "start_seconds": 295,
+      "end_seconds": 496,
+      "duration_seconds": 201,
+      "timestamp_url": "?t=295",
+      "title": "Caso práctico 2: Coordinación entre club, selección y staff personal",
+      "summary": "Cuando un jugador regresa de la selección nacional y cuenta con un programa de preparación individual, interactúan tres sistemas sin una autoridad central común. El gran error es convertir al propio jugador en el gestor de estos entornos; la solución es que los staffs se coordinen y reconstruyan la información real.",
+      "literal_quote": "El jugador no debería convertirse nunca en la capa que integra permanentemente todo su ecosistema... ninguna tiene autoridad sobre el ecosistema completo.",
+      "full_transcript": "Tenemos un jugador que regresa de una concentración con su selección. Su club vuelve a competir dentro de 76 horas y... existía una sesión previamente planificada... Partimos de que tenemos tres sistemas alrededor del futbolista... Muchas veces la única persona que conoce parcialmente lo que ocurre en los tres entornos es el propio jugador... Y ese es un punto muy importante. El jugador no debería convertirse nunca en la capa que integra permanentemente todo su ecosistema... Aquí lo que tenemos es un error de sistema. Tres organizaciones, objetivos legítimos, información fragmentada, responsabilidades diferentes y... ninguna tiene autoridad sobre el ecosistema completo. Por eso, antes de decidir qué debe hacer el jugador hoy, necesitamos reconstruir mucho mejor la información que tenemos disponible.",
+      "keywords": [
+        "seleccion",
+        "club",
+        "staff-personal",
+        "coordinacion",
+        "ecosistema"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Comunicación"
+      ],
+      "content_type": [
+        "Caso práctico",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cómo gestionar a un jugador que vuelve de su selección y tiene un entrenador personal?",
+        "¿Por qué es perjudicial que el futbolista sea quien coordine su propio cuerpo técnico?"
+      ],
+      "related_terms": [
+        "gestión de staff externo",
+        "ecosistemas sin autoridad central"
+      ],
+      "relevance_score": 5,
+      "context_before": "Cierre del caso práctico de decisiones internas del club.",
+      "context_after": "Se detalla cómo el preparador físico individual debe aportar valor sin chocar con el club."
+    },
+    {
+      "id": "RM-08-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:08:16",
+      "end_timestamp": "00:11:37",
+      "start_seconds": 496,
+      "end_seconds": 697,
+      "duration_seconds": 201,
+      "timestamp_url": "?t=496",
+      "title": "La realidad competitiva única del jugador y el valor del programa individual",
+      "summary": "El futbolista no vive en tres realidades distintas, sino en una sola. Si cada entorno optimiza solo su parcela, se puede desoptimizar al jugador. El valor real de un entrenador personal no es sumar sesiones siempre, sino saber cuándo aportar y cuándo evitar generar ruido.",
+      "literal_quote": "Si cada entorno optimiza únicamente su propia intervención, podemos incluso acabar desoptimizando al propio jugador.",
+      "full_transcript": "Y el programa individual debe aportar valor sin competir con ninguno de los dos... Por tanto, la solución al final no va a ser controlar todos estos entornos. La solución pasa por coordinar los entornos... Y aquí viene una frase muy importante: el valor de un programa individual del futbolista de élite no está en conseguir que siempre haya una sesión... El valor está en saber cuándo esa intervención va a aportar valor y cuándo un trabajo extra solo va a aportar más ruido... el futbolista no vive dentro de tres formaciones diferentes. Si lo simplificamos, el futbolista solo tiene una única realidad competitiva. Y para mí, esta es la idea central de todo este segundo caso. Si cada entorno optimiza únicamente su propia intervención, podemos incluso acabar desoptimizando al propio jugador.",
+      "keywords": [
+        "realidad-competitiva",
+        "programa-individual",
+        "desoptimizacion",
+        "ruido",
+        "coordinacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Control de Carga"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuándo un programa de entrenamiento individualizado perjudica al jugador de fútbol?",
+        "¿Qué significa desoptimizar a un jugador por falta de coordinación de staffs?"
+      ],
+      "related_terms": [
+        "optimización holística",
+        "ruido en el entrenamiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación del fallo sistémico al no cruzar información entre selección y club.",
+      "context_after": "Síntesis de las conclusiones de toda la ponencia."
+    },
+    {
+      "id": "RM-08-005",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:11:37",
+      "end_timestamp": "00:14:18",
+      "start_seconds": 697,
+      "end_seconds": 858,
+      "duration_seconds": 161,
+      "timestamp_url": "?t=697",
+      "title": "Conclusiones finales: el dato no decide, la organización aprende",
+      "summary": "El webinar concluye con 4 ideas clave: 1) El dato reduce incertidumbre pero no decide; 2) El contexto modifica el significado del dato; 3) La autoridad de cada rol debe ser clara; 4) Sin revisión posterior no hay aprendizaje. El rendimiento mejora cuando se aprende a decidir mejor con la información existente.",
+      "literal_quote": "El rendimiento no mejora simplemente porque una organización sepa más. Mejora cuando aprende a decidir mejor con aquello que ya sabe.",
+      "full_transcript": "Quiero cerrarla con cuatro ideas clave. La primera: el dato no decide. El dato puede reducir la incertidumbre... pero no determina por sí solo qué debemos hacer. La segunda conclusión: el contexto cambia el significado... La tercera conclusión es que la autoridad debe estar clara. Integrar perspectivas no significa que todos decidan sobre todo... La cuarta conclusión: sin revisión no hay aprendizaje. Una decisión no va a terminar cuando se ejecuta... Si personalmente tuviera que reducir toda esta presentación a una sola idea, sería esta: el rendimiento no mejora simplemente porque una organización sepa más. Mejora cuando aprende a decidir mejor con aquello que ya sabe. Para mí... ese es también uno de los grandes retos de performance scientist... No producir más información, sino ayudar a que esa información se convierta en decisiones claras, coordinadas y ejecutables.",
+      "keywords": [
+        "conclusiones",
+        "datos",
+        "contexto",
+        "autoridad",
+        "aprendizaje",
+        "revision"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Evaluación"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Resumen"
+      ],
+      "search_questions": [
+        "¿Cuáles son las 4 conclusiones principales sobre el proceso de toma de decisiones en rendimiento?",
+        "¿Por qué no basta con recolectar más datos para mejorar el rendimiento de un equipo?"
+      ],
+      "related_terms": [
+        "principios de decisión",
+        "aprendizaje sistémico"
+      ],
+      "relevance_score": 5,
+      "context_before": "Resolución de cómo alinear entornos fragmentados alrededor de un jugador.",
+      "context_after": "Agradecimientos y despedida final del webinar."
+    }
+  ]
+}

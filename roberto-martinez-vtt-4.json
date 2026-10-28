@@ -1,0 +1,356 @@
+{
+  "video": {
+    "video_id": "RM-04",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:19:16",
+    "total_duration_seconds": 1156,
+    "source_file": "WEBVTT-4.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-04-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:02:30",
+      "start_seconds": 1,
+      "end_seconds": 150,
+      "duration_seconds": 149,
+      "timestamp_url": "?t=1",
+      "title": "El núcleo central del ecosistema del jugador",
+      "summary": "El ecosistema principal rodea al jugador y cuenta con cinco stakeholders: el entrenador (necesidades tácticas), el área médica (salud y restricciones), performance (preparación y carga), el propio jugador (sensaciones) y la dirección (estrategia y economía).",
+      "literal_quote": "Estas cinco perspectivas forman el núcleo principal, pero no todo el ecosistema del jugador.",
+      "full_transcript": "En el bloque anterior definimos al performance scientist como el arquitecto del proceso de decisión. Pero para diseñar ese proceso, debemos comprender primero el ecosistema en el que se produce... Encontramos un primer núcleo más cercano, formado por cinco stakeholders principales. El primero es el entrenador, quien aporta la necesidad táctica y competitiva. Luego nos encontramos con el área médica, que analiza la condición clínica, identifica restricciones... Seguimos con performance, el stakeholder que estudia su preparación... El propio jugador es una parte también... incorpora sus sensaciones, su confianza... junto con, cerrando este núcleo, dirección. La dirección considera sobre todo las implicaciones más estratégicas, deportivas, económicas o institucionales. Estas cinco perspectivas forman el núcleo principal, pero no todo el ecosistema del jugador.",
+      "keywords": [
+        "ecosistema",
+        "entrenador",
+        "medico",
+        "performance",
+        "direccion",
+        "jugador"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Framework",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Quiénes componen el núcleo principal de decisión alrededor de un futbolista?",
+        "¿Cuál es el rol de cada departamento en el ecosistema del jugador?"
+      ],
+      "related_terms": [
+        "stakeholders principales",
+        "entorno del jugador"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se ha definido al sport scientist como arquitecto del proceso de decisión.",
+      "context_after": "Se amplía el ecosistema para incluir especialistas internos y factores externos."
+    },
+    {
+      "id": "RM-04-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:02:31",
+      "end_timestamp": "00:07:21",
+      "start_seconds": 151,
+      "end_seconds": 441,
+      "duration_seconds": 290,
+      "timestamp_url": "?t=151",
+      "title": "El impacto del entorno externo e institucional",
+      "summary": "Más allá del staff interno, el jugador está influenciado por familias, agentes, staff privado, patrocinadores y entidades institucionales (selecciones, ligas). El departamento de rendimiento debe identificar y gestionar estas influencias sin confundirlas con la autoridad deportiva formal.",
+      "literal_quote": "Sobre los patrocinadores, es relevante entender que su influencia debe ser identificada y gestionada, pero no confundida con autoridad deportiva.",
+      "full_transcript": "Fuera de toda esa estructura formal del club, también existe un entorno con capacidad muy real de influencia, y cuanto más élite es el jugador, más todavía. La familia puede afectar la estabilidad emocional... El agente... protege sus oportunidades contractuales. Luego entra la parte de entrenadores personales, fisioterapeutas... pueden aportar una continuidad, pero también generar duplicaciones si no existe coordinación. Seguimos con los patrocinadores... no tienen autoridad formal, pero pueden condicionar compromisos comerciales, exposición pública... Su influencia debe ser identificada y gestionada, pero no confundida con autoridad deportiva. Finalmente, el entorno institucional: Selección Nacional, federación, liga... pueden determinar de una forma más marcada calendarios, regulaciones y prioridades.",
+      "keywords": [
+        "entorno-externo",
+        "agentes",
+        "patrocinadores",
+        "instituciones",
+        "influencia"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué influencia tienen los patrocinadores y agentes en un equipo de fútbol?",
+        "¿Por qué es importante gestionar el entorno privado de un futbolista?"
+      ],
+      "related_terms": [
+        "staff privado",
+        "influencia institucional"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición de los 5 stakeholders del núcleo central.",
+      "context_after": "Cómo se distribuye la autoridad y la influencia entre todos estos actores."
+    },
+    {
+      "id": "RM-04-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:07:22",
+      "end_timestamp": "00:09:06",
+      "start_seconds": 442,
+      "end_seconds": 546,
+      "duration_seconds": 104,
+      "timestamp_url": "?t=442",
+      "title": "Participación, influencia y autoridad en la decisión",
+      "summary": "Para coordinar las decisiones, se debe diferenciar entre quién debe participar (aporta información), quién ejerce influencia (formal o informal) y quién tiene la autoridad (responsabilidad de cerrar). El performance scientist filtra quién interviene.",
+      "literal_quote": "No todos participan siempre, no todos influyen igual y no todos tienen autoridad.",
+      "full_transcript": "Aquí debemos diferenciar tres conceptos... Primero, la participación. Necesitamos la perspectiva de esta persona para resolver la pregunta, pero no todos participan siempre. El segundo es la influencia: ¿puede este stakeholder condicionar formal o informalmente la decisión? Y el tercero es la autoridad: ¿posee el derecho o la responsabilidad de cerrar una decisión este stakeholder? Porque una persona puede tener una información muy relevante pero no una autoridad final... El performance scientist debe reconocer estas relaciones, seleccionar los stakeholders y conseguir que esa información forme parte de la conversación... Por eso, el mensaje final es: no todos participan siempre, no todos influyen igual y no todos tienen autoridad.",
+      "keywords": [
+        "participacion",
+        "influencia",
+        "autoridad",
+        "toma-decision",
+        "stakeholders"
+      ],
+      "entities": [],
+      "topics": [
+        "Toma de Decisiones",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Metodología",
+        "Definición"
+      ],
+      "search_questions": [
+        "¿Cuál es la diferencia entre influencia y autoridad en un club deportivo?",
+        "¿Cómo debe seleccionar un analista quién participa en una decisión?"
+      ],
+      "related_terms": [
+        "derechos de decisión",
+        "niveles de influencia"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del entorno institucional y su impacto.",
+      "context_after": "Se aborda el problema de los datos fragmentados y cómo integrarlos."
+    },
+    {
+      "id": "RM-04-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:09:08",
+      "end_timestamp": "00:11:36",
+      "start_seconds": 548,
+      "end_seconds": 696,
+      "duration_seconds": 148,
+      "timestamp_url": "?t=548",
+      "title": "La integración de fuentes a partir de la pregunta",
+      "summary": "Acumular métricas aisladas de GPS, wellness o test genera confusión si cada departamento usa su versión. La verdadera integración comienza por definir la pregunta exacta de decisión (ej. disponibilidad o ajuste de carga) para seleccionar la información prioritaria.",
+      "literal_quote": "Integrar, sobre todo, va a comenzar siempre con la pregunta de decisión. ¿Qué necesitamos decidir? Es la clave.",
+      "full_transcript": "En un entorno de rendimiento, la información está distribuida entre varias fuentes... El GPS va a describir carga externa, el RPE o medidor de carga interna cómo percibió su esfuerzo, un cuestionario de wellness, test, marcadores biológicos, el área médica... Todas estas fuentes pueden ser muy útiles, pero ninguna de ellas por sí sola muestra la realidad. El problema acaba apareciendo cuando una fuente aislada se convierte en una explicación completa o cada departamento trabaja con una versión diferente. Aquí, integrar la información no va a consistir solo en acumular métricas, sino que la integración va a comenzar con una pregunta de decisión. ¿Qué necesitamos decidir? Es la clave... necesitamos decidir la disponibilidad, ajustar la carga... Esa pregunta va a determinar qué información vamos a necesitar.",
+      "keywords": [
+        "integracion",
+        "pregunta-decision",
+        "metricas",
+        "fragmentacion",
+        "fuentes"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Metodología",
+        "Análisis de Datos"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Por qué es un error acumular métricas deportivas sin un propósito?",
+        "¿Cuál es el primer paso para integrar datos en el rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "fuentes de datos",
+        "pregunta de rendimiento"
+      ],
+      "relevance_score": 5,
+      "context_before": "Definición de roles en la gobernanza de decisiones.",
+      "context_after": "Se detallan los cuatro filtros aplicables a la información."
+    },
+    {
+      "id": "RM-04-005",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:11:42",
+      "end_timestamp": "00:13:21",
+      "start_seconds": 702,
+      "end_seconds": 801,
+      "duration_seconds": 99,
+      "timestamp_url": "?t=702",
+      "title": "Los cuatro filtros para procesar el dato",
+      "summary": "Tras formular la pregunta, los datos deben pasar por cuatro filtros antes de integrarse: Calidad (fiabilidad), Contexto (microciclo o sesión), Tiempo (tendencia longitudinal vs puntual) e Individualidad (perfil propio de cada futbolista).",
+      "literal_quote": "Solo después de aplicar estos filtros, los datos se van a empezar a convertir en una información ya integrada.",
+      "full_transcript": "A partir de ahí, vamos a aplicar... cuatro filtros: calidad, contexto, tiempo e individualidad. Lo primero, la calidad, vamos a comprobar que el dato sea fiable y completo. El segundo, contexto, vamos a considerar el microciclo, los minutos, el contenido o el objetivo de la sesión. Luego, el tiempo, vamos a distinguir si existe una variación puntual o una tendencia longitudinal. Y cuarto, la individualidad. Con ella vamos a interpretar la información según el perfil, historial o respuesta habitual. Una CPK... no podemos irnos solo al valor, tenemos que tener en cuenta la tendencia. Solo después de aplicar estos filtros, los datos se van a empezar a convertir en una información ya integrada, compartida y útil para decidir.",
+      "keywords": [
+        "filtros",
+        "calidad",
+        "contexto",
+        "tiempo",
+        "individualidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Metodología",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los 4 filtros para integrar la información deportiva?",
+        "¿Cómo influye la individualidad al analizar métricas biológicas?"
+      ],
+      "related_terms": [
+        "procesamiento de datos",
+        "contextualización"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de que todo inicia con una pregunta de decisión.",
+      "context_after": "Se profundiza en el primer filtro: la calidad del dato."
+    },
+    {
+      "id": "RM-04-006",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:13:25",
+      "end_timestamp": "00:14:37",
+      "start_seconds": 805,
+      "end_seconds": 877,
+      "duration_seconds": 72,
+      "timestamp_url": "?t=805",
+      "title": "Dimensiones para evaluar la calidad de la métrica",
+      "summary": "Un dato solo es útil si posee validez (mide el constructo adecuado), fiabilidad (varía solo cuando el jugador cambia), sensibilidad (supera el ruido normal) e integridad (protocolo estable). El objetivo no es eliminar la incertidumbre, sino conocerla.",
+      "literal_quote": "El objetivo no va a ser eliminar toda incertidumbre, el objetivo va a ser conocerla antes de utilizar el dato para recomendar una acción.",
+      "full_transcript": "En esta siguiente diapositiva vamos a ver cómo la calidad del dato limita la calidad de la decisión. Antes de integrar los datos, debemos comprobar si estos mismos datos realmente van a merecer la pena... Vamos a analizar validez, sensibilidad, fiabilidad e integridad. La validez nos dice si estamos midiendo el constructo adecuado. La fiabilidad nos permite conocer cuánto puede variar la medida sin que el jugador haya cambiado. La sensibilidad nos va a ayudar a determinar si el cambio observado supera ese ruido normal. Y finalmente, la integridad operativa: datos completos, mismo protocolo, dispositivos comparables... La calidad no pertenece genéricamente a una tecnología, pertenece a una métrica concreta obtenida con un dispositivo, protocolo y condiciones determinadas. El objetivo no va a ser eliminar toda incertidumbre, el objetivo va a ser conocerla.",
+      "keywords": [
+        "calidad-dato",
+        "validez",
+        "fiabilidad",
+        "sensibilidad",
+        "incertidumbre"
+      ],
+      "entities": [],
+      "topics": [
+        "Evaluación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Metodología",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Qué variables determinan la calidad técnica de un dato deportivo?",
+        "¿Por qué es imposible eliminar toda la incertidumbre de la tecnología?"
+      ],
+      "related_terms": [
+        "integridad operativa",
+        "validación de tecnología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición de los cuatro filtros generales del dato.",
+      "context_after": "Se explica cómo presentar la información de forma correcta."
+    },
+    {
+      "id": "RM-04-007",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:14:38",
+      "end_timestamp": "00:17:08",
+      "start_seconds": 878,
+      "end_seconds": 1028,
+      "duration_seconds": 150,
+      "timestamp_url": "?t=878",
+      "title": "Presentación adaptada de la información",
+      "summary": "La información debe responder tres cuestiones: ¿Qué sabemos? (evidencia e incertidumbre), ¿Qué significa? (contexto y desviaciones) y ¿Qué opciones tenemos? (escenarios). El mensaje debe adaptarse a si el receptor es el entrenador, el médico o el jugador.",
+      "literal_quote": "El mensaje, una vez entregado, debe adaptarse al receptor, ya que no es lo mismo enviar información al entrenador... que a un médico... o al jugador.",
+      "full_transcript": "La información debe presentarse de una forma que facilite la decisión. La primera pregunta sería: ¿qué sabemos realmente? Presentamos las principales señales, la evidencia disponible, qué falta y nuestro nivel de confianza. La segunda: ¿qué significa esta información? Aquí vamos a incorporar el contexto, la interpretación y explicamos si la respuesta era esperable o existe desviación. La tercera es: ¿qué opciones tenemos? Es más útil presentar diferentes escenarios y sus posibles consecuencias. Especialmente en el fútbol, las decisiones se toman con información incompleta y urgencia. Si existe incertidumbre, hay que comunicarla... no conviene transformar una situación compleja en una clasificación simplificada (verde, amarilla, roja). Además, el mensaje... debe adaptarse al receptor, ya que no es lo mismo enviar información al entrenador, que necesita comprender las implicaciones sobre el entrenamiento, que a un médico, que valorará un riesgo clínico, o al jugador, que necesita un mensaje sencillo de qué se espera de él.",
+      "keywords": [
+        "comunicacion",
+        "informacion",
+        "opciones",
+        "escenarios",
+        "receptor"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cómo debe presentar los datos un sport scientist?",
+        "¿Por qué se deben evitar los sistemas de colores simples para evaluar lesiones?"
+      ],
+      "related_terms": [
+        "adaptación del mensaje",
+        "comunicación de riesgo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Verificación técnica de la calidad del dato.",
+      "context_after": "Se presenta un ejemplo de Dashboard como herramienta estructurada."
+    },
+    {
+      "id": "RM-04-008",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:17:08",
+      "end_timestamp": "00:19:16",
+      "start_seconds": 1028,
+      "end_seconds": 1156,
+      "duration_seconds": 128,
+      "timestamp_url": "?t=1028",
+      "title": "El dashboard como organizador de la conversación",
+      "summary": "Un panel de control (dashboard) con datos de carga, wellness y biomarcadores no representa la decisión final. Solo se considera monitorización real cuando la información se interpreta, organiza el debate interdepartamental, genera una acción y se revisa.",
+      "literal_quote": "El propio dashboard en sí no es la decisión, sino que es la herramienta que nos organiza la conversación.",
+      "full_transcript": "He preparado un ejemplo ilustrativo de dashboard... Y lo más relevante de este dashboard es saber que el propio dashboard en sí no es la decisión, sino que es la herramienta que nos organiza la conversación. Integra exposición, respuesta subjetiva, información médica y contexto. Carga externa GPS, carga interna Hub, Wellness, RPE, refractómetro de hidratación, biomarcadores y contextos ambientales (humedad, temperatura), además del porcentaje de cobertura y la calidad del dato. Nosotros solo vamos a poder hablar de monitoring cuando esa información se interpreta, se comunica y produce una acción, y posteriormente la revisamos. Si no ocurre esto, al final solo estamos visualizando, no monitorizando. Por tanto, este dashboard o informe no es la decisión final per se. Son herramientas para preparar una conversación de mucha mayor calidad.",
+      "keywords": [
+        "dashboard",
+        "visualizacion",
+        "monitorizacion",
+        "conversacion",
+        "informe"
+      ],
+      "entities": [
+        "GPS",
+        "Power BI",
+        "Hub"
+      ],
+      "topics": [
+        "Comunicación",
+        "Data Science"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué diferencia hay entre visualizar datos y monitorizar?",
+        "¿Cuál es la verdadera utilidad de un dashboard deportivo?"
+      ],
+      "related_terms": [
+        "herramientas de visualización",
+        "organización de la información"
+      ],
+      "relevance_score": 5,
+      "context_before": "Criterios para presentar la información al cuerpo técnico.",
+      "context_after": "Final del fragmento VTT."
+    }
+  ]
+}

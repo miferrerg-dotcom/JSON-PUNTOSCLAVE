@@ -1,0 +1,230 @@
+{
+  "video": {
+    "video_id": "RM-06",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:15:06",
+    "total_duration_seconds": 906,
+    "source_file": "WEBVTT-6.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-06-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:02:13",
+      "start_seconds": 0,
+      "end_seconds": 133,
+      "duration_seconds": 133,
+      "timestamp_url": "?t=0",
+      "title": "Gobernanza del rendimiento: reglas, roles e influencia",
+      "summary": "La gobernanza no implica aumentar la burocracia, sino establecer reglas (procedimientos), roles (quién aporta/interpreta) y derechos de decisión. Es vital diferenciar entre tener información, poseer influencia y detentar la autoridad real para decidir.",
+      "literal_quote": "Cuando hablamos de gobernanza, no estamos hablando necesariamente de añadir más jerarquía... Estamos hablando de establecer reglas, roles y derechos de decisión.",
+      "full_transcript": "Anterior hemos analizado de forma un poco más detallada el framework que ordena el proceso de decisión... En este bloque, vamos a desarrollar con más profundidad el sistema de gobernanza en la industria del rendimiento deportivo. Quién tiene autoridad para tomar esa decisión. Aquí aparece la gobernanza del rendimiento... Cuando hablamos de gobernanza, no estamos hablando necesariamente de añadir más jerarquía, reuniones o burocracia. Estamos hablando de establecer reglas, roles y derechos de decisión que permitan que la organización tome mejores decisiones y con más claridad... Por eso vamos a tener que diferenciar tres conceptos que en ocasiones se acaban confundiendo. Estos son: la información, la influencia y la autoridad. Una persona puede disponer de una información muy relevante y no tener derecho de decisión. También puede ejercer una influencia enorme dentro del club sin tener formalmente esa responsabilidad.",
+      "keywords": [
+        "gobernanza",
+        "roles",
+        "reglas",
+        "derechos-decision",
+        "influencia",
+        "autoridad"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Definición"
+      ],
+      "search_questions": [
+        "¿Qué significa la gobernanza en el rendimiento deportivo?",
+        "¿Cuál es la diferencia entre influencia y autoridad en un club?"
+      ],
+      "related_terms": [
+        "gobernanza corporativa deportiva",
+        "derechos de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Fin de la explicación detallada de las 8 fases del framework de decisión.",
+      "context_after": "Se analiza cómo la comunicación afecta directamente el rendimiento y las lesiones."
+    },
+    {
+      "id": "RM-06-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:02:13",
+      "end_timestamp": "00:03:35",
+      "start_seconds": 133,
+      "end_seconds": 215,
+      "duration_seconds": 82,
+      "timestamp_url": "?t=133",
+      "title": "La comunicación como sistema y el verdadero rol del analista",
+      "summary": "La comunicación deficiente aumenta las lesiones (como indica un estudio en 36 clubes europeos). El objetivo del Performance Analyst no es suplantar la autoridad médica o técnica, sino mejorar las condiciones y la claridad con las que ellos toman la decisión final.",
+      "literal_quote": "Su responsabilidad no es sustituir esa autoridad, es mejorar las condiciones en las que la decisión se toma.",
+      "full_transcript": "La información también debe circular entre las personas adecuadas... Existe un estudio con 36 clubes europeos que indica que una menor calidad percibida de la comunicación entre el entrenador y el área médica se asoció con una mayor carga lesional, menos disponibilidad de entrenamientos y partidos... la comunicación no es un elemento accesorio, sino que forma parte de un sistema. Una vez que tenemos este marco más claro... este performance analyst puede integrar la evidencia, puede interpretar el contexto, puede hacer más explícita la incertidumbre y también puede construir una recomendación clara, pero eso no significa que posea la autoridad final para decidir. Su responsabilidad no es sustituir esa autoridad, es mejorar las condiciones en las que la decisión se toma. Es importante que la persona con la autoridad formal para decidir reciba la evidencia adecuada.",
+      "keywords": [
+        "comunicacion",
+        "lesiones",
+        "analista",
+        "autoridad",
+        "recomendacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cómo afecta la mala comunicación a las lesiones en el fútbol?",
+        "¿Cuál es el límite de responsabilidad del Performance Analyst al recomendar?"
+      ],
+      "related_terms": [
+        "impacto lesional",
+        "mejora del entorno de decisión"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la diferencia entre tener información y tener autoridad.",
+      "context_after": "Desglose de los cuatro ámbitos de decisión y quién tiene autoridad en cada uno."
+    },
+    {
+      "id": "RM-06-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:03:37",
+      "end_timestamp": "00:09:00",
+      "start_seconds": 217,
+      "end_seconds": 540,
+      "duration_seconds": 323,
+      "timestamp_url": "?t=217",
+      "title": "Distribución de la autoridad según el ámbito organizativo",
+      "summary": "La autoridad varía según la naturaleza de la decisión: el área médica decide sobre restricciones clínicas; el entrenador sobre participación competitiva; entrenador y performance sobre diseño de carga; y dirección sobre presupuestos y estrategias. Definir esto evita crisis por urgencias.",
+      "literal_quote": "La autoridad no se distribuye de la misma manera en todas las decisiones, sino que va a depender de la naturaleza de la decisión que vamos a tomar.",
+      "full_transcript": "La autoridad no se distribuye de la misma manera en todas las decisiones, sino que va a depender de la naturaleza de la decisión que vamos a tomar. Aquí vamos a ver cuatro ámbitos... Empezando por el estado de salud y las restricciones clínicas. En este caso, el área médica evalúa... el jugador no deberá ser un informante pasivo. Respecto a la selección y participación competitiva, si no existe una contraindicación... va a corresponder al entrenador. Si la naturaleza de la decisión atañe al diseño y al ajuste de la carga, aquí la responsabilidad se construye entre dos: cuerpo técnico y performance. El cuarto ámbito representa la estrategia y los recursos de la organización... presupuestos, contratación... corresponden normalmente a la dirección. El problema no es que existan problemas distintos... El problema aparece cuando nadie sabe quién recomienda, quién decide y quién asume la responsabilidad final. Por eso la gobernanza es clave que se decida antes de una situación crítica. Integrar perspectivas no significa diluir esa autoridad.",
+      "keywords": [
+        "autoridad",
+        "entrenador",
+        "medico",
+        "direccion",
+        "performance",
+        "carga"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Metodología",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿A quién le corresponde decidir sobre el ajuste de cargas de entrenamiento?",
+        "¿Por qué se deben definir los derechos de decisión antes de una crisis?"
+      ],
+      "related_terms": [
+        "ámbitos de autoridad",
+        "responsabilidad compartida"
+      ],
+      "relevance_score": 5,
+      "context_before": "La función del analista para mejorar las condiciones de los decisores finales.",
+      "context_after": "Cómo proceder cuando estos departamentos definidos no logran ponerse de acuerdo."
+    },
+    {
+      "id": "RM-06-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:09:15",
+      "end_timestamp": "00:13:10",
+      "start_seconds": 555,
+      "end_seconds": 790,
+      "duration_seconds": 235,
+      "timestamp_url": "?t=555",
+      "title": "Gestión del desacuerdo: hechos, intereses y escalado de decisiones",
+      "summary": "El desacuerdo es natural. El método para gestionarlo consta de 4 pasos: 1) Separar hechos (datos) de interpretaciones e intereses (qué protege cada uno); 2) Escalar a la autoridad correspondiente para que asuma la decisión final sin ruido jerárquico; 3) Decidir condiciones y riesgos; y 4) Revisar el proceso.",
+      "literal_quote": "El primer paso es separar los hechos de las interpretaciones y de los intereses.",
+      "full_transcript": "Incluso cuando las responsabilidades están bien definidas, no siempre va a existir un consenso... El médico puede considerar que el riesgo es elevado, el entrenador puede entender que el jugador es muy necesario y el performance puede proponer una participación limitada... El desacuerdo es normal dentro de una organización. Lo importante es cómo esa misma organización gestiona ese desacuerdo... El primer paso es separar los hechos de las interpretaciones y de los intereses. Los hechos representan la información disponible... Las interpretaciones explican qué creemos que significa... Y los intereses van a reflejar lo que cada 'stakeholder' va a intentar proteger. El segundo paso... es escalar ese desacuerdo a la autoridad adecuada... Significa saber quién debe cerrar la decisión cuando las personas indicadas no consigan alcanzar una recomendación común. El tercer paso es decidir... qué hará, qué limitaciones existirán, qué riesgo estamos aceptando. Como cuarto paso encontramos revisar... el resultado y el proceso.",
+      "keywords": [
+        "desacuerdo",
+        "hechos",
+        "interpretaciones",
+        "intereses",
+        "escalar",
+        "consenso"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Proceso",
+        "Metodología"
+      ],
+      "search_questions": [
+        "¿Cuáles son los pasos para gestionar el desacuerdo en un staff técnico?",
+        "¿Qué significa escalar una decisión en el rendimiento deportivo?"
+      ],
+      "related_terms": [
+        "gestión de conflictos",
+        "resolución de desacuerdos"
+      ],
+      "relevance_score": 5,
+      "context_before": "La categorización de los derechos de decisión por cada área organizativa.",
+      "context_after": "El falso mito de alcanzar siempre el consenso en el alto rendimiento."
+    },
+    {
+      "id": "RM-06-005",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:13:12",
+      "end_timestamp": "00:15:06",
+      "start_seconds": 792,
+      "end_seconds": 906,
+      "duration_seconds": 114,
+      "timestamp_url": "?t=792",
+      "title": "El mito del consenso absoluto y la transición entre ecosistemas",
+      "summary": "El consenso multidisciplinar es deseable pero rara vez posible. Un sistema sólido permite gestionar el desacuerdo con claridad sin paralizar al club. Estos mecanismos varían profundamente en la práctica según la cultura y el ecosistema regional (Europa, África, Oriente Medio).",
+      "literal_quote": "Un sistema sólido no elimina los desacuerdos. Un sistema sólido permite gestionarlos sin que se paralice la organización, sin ocultar responsabilidades...",
+      "full_transcript": "El consenso es deseable porque facilita la ejecución y genera confianza dentro de un equipo multidisciplinar... Pero ese consenso no siempre será posible y, cuando no lo sea, la claridad es esencial. De hecho, el consenso casi nunca es posible y puede hasta ser sano también, pero debe ejecutarse una claridad a la hora de resolver ese desacuerdo. Un sistema sólido no elimina los desacuerdos. Un sistema sólido permite gestionarlos sin que se paralice la organización, sin ocultar responsabilidades y sin deteriorar las relaciones profesionales... Ahora vamos a ver todo este marco en diferentes ecosistemas. Estas reglas de derecho de decisión y estas relaciones de influencia no funcionan igual en todos los lugares... La autoridad del entrenador, del médico... pueden cambiar profundamente según la cultura y la estructura en la que trabajemos. En este siguiente bloque voy a hablar de varios ecosistemas en los que he trabajado... Europa, África, Oriente Medio.",
+      "keywords": [
+        "consenso",
+        "ecosistemas",
+        "multidisciplinar",
+        "claridad",
+        "cultura"
+      ],
+      "entities": [
+        "Europa",
+        "África",
+        "Oriente Medio"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Es obligatorio llegar a un consenso en las decisiones de alto rendimiento?",
+        "¿Cómo afectan las diferentes culturas a la toma de decisiones en el fútbol?"
+      ],
+      "related_terms": [
+        "dinámicas de poder regionales",
+        "sistema de resolución de conflictos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de los cuatro pasos metodológicos para superar un desacuerdo interdepartamental.",
+      "context_after": "Final del segmento WEBVTT-6. Se abren los casos prácticos sobre Europa, África y Oriente Medio."
+    }
+  ]
+}

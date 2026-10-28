@@ -1,0 +1,280 @@
+{
+  "video": {
+    "video_id": "RM-07",
+    "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+    "speaker": "Roberto Martínez",
+    "total_duration": "00:17:21",
+    "total_duration_seconds": 1041,
+    "source_file": "WEBVTT-7.vtt",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "RM-07-001",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:04:46",
+      "start_seconds": 1,
+      "end_seconds": 286,
+      "duration_seconds": 285,
+      "timestamp_url": "?t=1",
+      "title": "Las cinco variables que condicionan el funcionamiento organizativo",
+      "summary": "Las estructuras de decisión varían entre clubes según cinco factores: estructura y especialización, recursos disponibles, autoridad e influencia, velocidad de decisión y coordinación entre stakeholders. Estas dimensiones determinan dónde aparecerán los cuellos de botella en la toma de decisiones.",
+      "literal_quote": "En esta ponencia voy a proponer cinco variables que realmente condicionan su funcionamiento: estructura y especialización, autoridad e influencia, velocidad de decisión, coordinación entre 'stakeholders' y recursos disponibles.",
+      "full_transcript": "En el bloque anterior vimos cómo la gobernanza define las reglas, roles y derechos de decisión. Sin embargo, estas estructuras no funcionan de la misma manera en todas las organizaciones... En esta ponencia voy a proponer cinco variables que realmente condicionan su funcionamiento: estructura y especialización, autoridad e influencia, velocidad de decisión, coordinación entre \"stakeholders\" y recursos disponibles. Respecto a la primera, estructura y especialización, vamos a ver que en algunas organizaciones encontramos departamentos amplios... Eso permite desarrollar un conocimiento profundo, pero también puede generar silos y dificultar su coordinación. La segunda variable: diferentes recursos disponibles. La abundancia de información por sí sola no acaba resolviendo nada... Cuando los recursos son más limitados, el sistema va a tender a la necesidad de priorizar. La autoridad e influencia también varía... Un organigrama oficial puede indicar quién debería decidir, pero no siempre va a reflejar cómo circula realmente el poder. Otra variable clave es la velocidad de decisión... Cuanto menor sea el tiempo disponible, más importante va a ser haber establecido previamente las responsabilidades... La quinta variable es la coordinación... La coordinación depende de cómo se comparte esa información, qué lenguaje se utiliza y cuándo se producen las conversaciones. También es clave ver quién transforma las conclusiones en acciones.",
+      "keywords": [
+        "variables",
+        "ecosistema",
+        "especializacion",
+        "recursos",
+        "velocidad-decision",
+        "coordinacion"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Framework",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cinco variables que cambian el funcionamiento de un club deportivo?",
+        "¿Cómo afecta la velocidad de decisión en un equipo de alto rendimiento?"
+      ],
+      "related_terms": [
+        "variables organizativas",
+        "cuellos de botella"
+      ],
+      "relevance_score": 5,
+      "context_before": "Explicación de la gobernanza y los derechos de decisión.",
+      "context_after": "Se aplica este marco de variables al contexto europeo."
+    },
+    {
+      "id": "RM-07-002",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:05:42",
+      "end_timestamp": "00:06:34",
+      "start_seconds": 342,
+      "end_seconds": 394,
+      "duration_seconds": 52,
+      "timestamp_url": "?t=342",
+      "title": "Ecosistema europeo: el reto de integrar la alta especialización",
+      "summary": "En Europa, los clubes suelen contar con una alta densidad de profesionales muy especializados. El principal desafío en estos entornos es evitar los silos y lograr unificar múltiples interpretaciones bajo una misma decisión coherente.",
+      "literal_quote": "Cuando aumenta la especialización, también aumenta la necesidad de integrar toda esa especialización... el reto es conseguir que esa 'expertise' contribuya a una misma decisión.",
+      "full_transcript": "En algunos contextos europeos en los que he podido trabajar y observar, he encontrado una alta densidad de profesionales muy especializados. No hablo únicamente de organizaciones con grandes presupuestos... sino de estructuras más contenidas, donde también podemos observar preparadores físicos, \"sport scientists\", analistas, médicos, fisioterapeutas y nutricionistas con un nivel de educación y especialización muy alto. Eso supone una enorme capacidad, pero también genera un nuevo reto: cuando aumenta la especialización, también aumenta la necesidad de integrar toda esa especialización. Podemos tener cinco profesionales excelentes observando a un mismo jugador, pero aun así producir cinco interpretaciones o mensajes diferentes. Por eso, el reto es conseguir que esa \"expertise\" contribuya a una misma decisión, unificar todo eso bajo una misma decisión.",
+      "keywords": [
+        "europa",
+        "especializacion",
+        "integracion",
+        "silos",
+        "expertise"
+      ],
+      "entities": [
+        "Europa"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cuál es el mayor reto en los clubes europeos altamente especializados?",
+        "¿Por qué la especialización puede generar un problema en la toma de decisiones?"
+      ],
+      "related_terms": [
+        "silos departamentales",
+        "unificación de criterios"
+      ],
+      "relevance_score": 4,
+      "context_before": "Definición general de las variables organizativas.",
+      "context_after": "Contraste con el ecosistema de los clubes en África."
+    },
+    {
+      "id": "RM-07-003",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:06:36",
+      "end_timestamp": "00:07:57",
+      "start_seconds": 396,
+      "end_seconds": 477,
+      "duration_seconds": 81,
+      "timestamp_url": "?t=396",
+      "title": "Ecosistema africano: integrar el conocimiento en jerarquías castrenses",
+      "summary": "En África se observan estructuras con enorme capacidad logística y jerarquías muy marcadas (casi castrenses). El reto al incorporar expertos internacionales es lograr que su conocimiento logre fluir e influir respetando las estrictas líneas de autoridad establecidas.",
+      "literal_quote": "Puedes incorporar 'expertise' en una organización, pero después ese conocimiento tiene que aprender a funcionar dentro de esa estructura de autoridad.",
+      "full_transcript": "En África, por otro lado, mi experiencia en determinados contextos ha sido diferente. He trabajado en organizaciones con una capacidad institucional y logística enorme, estructuras multideportivas, jerarquías muy definidas y una capacidad operativa para competir en contextos internacionales... También tenían una estructura castrense, literalmente, y una jerarquía y una capacidad de funcionariado muy amplio. Por tanto, el problema no era necesariamente de falta de recursos... En determinadas áreas, el reto podía aparecer más por una menor densidad de perfiles altamente especializados, y parte de ese conocimiento se incorporaba a través de integrar profesionales internacionales dentro de la estructura. Ahí aprendí una cosa importante: puedes incorporar \"expertise\" en una organización, pero después ese conocimiento tiene que aprender a funcionar dentro de esa estructura de autoridad, comunicaciones y toma de decisiones, ya que ese conocimiento por sí solo no cambia una organización. Tiene que conseguir entrar en el sistema. No basta con traer uno, dos, tres o cinco profesionales altamente cualificados.",
+      "keywords": [
+        "africa",
+        "jerarquia",
+        "castrense",
+        "expertise",
+        "autoridad"
+      ],
+      "entities": [
+        "África"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cómo es el ecosistema de los clubes de alto rendimiento en África?",
+        "¿Qué problema surge al llevar expertos internacionales a clubes con jerarquías estrictas?"
+      ],
+      "related_terms": [
+        "estructura jerárquica",
+        "integración de conocimiento"
+      ],
+      "relevance_score": 4,
+      "context_before": "Análisis del ecosistema europeo y sus problemas de integración.",
+      "context_after": "Análisis del ecosistema deportivo en Oriente Medio."
+    },
+    {
+      "id": "RM-07-004",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:07:58",
+      "end_timestamp": "00:09:29",
+      "start_seconds": 478,
+      "end_seconds": 569,
+      "duration_seconds": 91,
+      "timestamp_url": "?t=478",
+      "title": "Oriente Medio: de la infraestructura a la cultura organizativa",
+      "summary": "En regiones como Catar o Kuwait, se adopta tecnología e infraestructura de élite a gran velocidad. El desafío evolutivo ya no es incorporar más recursos, sino lograr que esos procesos y relaciones interpersonales forjen una verdadera cultura organizativa sistemática.",
+      "literal_quote": "El siguiente paso no consiste en tener acceso a mejores herramientas o mejores profesionales, consiste en conseguir que todo ese potencial funcione como un sistema.",
+      "full_transcript": "En Oriente Medio, por otro lado, una parte muy importante de mi recorrido profesional durante los últimos años, ya sea en Catar, ya sea en Kuwait... he podido vivir desde dentro un ecosistema deportivo con una enorme capacidad para incorporar infraestructura, tecnología, conocimiento y profesionales internacionales, y además hacerlo a una velocidad muy alta... Pero también me ha enseñado algo: la infraestructura puede incorporarse rápido, la tecnología puede incorporarse muy rápido también, incluso el \"expertise\" puede incorporarse muy rápido, pero conseguir que los procesos, las relaciones y la forma de trabajar generen una verdadera cultura organizativa es donde creo que existe una enorme oportunidad. El siguiente paso no consiste en tener acceso a mejores herramientas o mejores profesionales, consiste en conseguir que todo ese potencial funcione como un sistema. Creo que nos dice bastante hacia dónde está evolucionando nuestra profesión. Cada vez se trata menos de ser únicamente el especialista que produce información y cada vez más de ser capaces de conectar personas, procesos y decisiones.",
+      "keywords": [
+        "oriente-medio",
+        "catar",
+        "tecnologia",
+        "cultura-organizativa",
+        "sistema"
+      ],
+      "entities": [
+        "Oriente Medio",
+        "Catar",
+        "Kuwait"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Professional Experience"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Cuál es el principal reto de los clubes deportivos en Oriente Medio?",
+        "¿Por qué tener tecnología y profesionales no es suficiente para el éxito deportivo?"
+      ],
+      "related_terms": [
+        "creación de cultura",
+        "desarrollo organizativo"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis del entorno institucional africano.",
+      "context_after": "Se presenta un cuarto contexto: la gestión individual del jugador que involucra a staff externo."
+    },
+    {
+      "id": "RM-07-005",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:09:29",
+      "end_timestamp": "00:10:45",
+      "start_seconds": 569,
+      "end_seconds": 645,
+      "duration_seconds": 76,
+      "timestamp_url": "?t=569",
+      "title": "La gestión individual del jugador de élite y el exceso de ruido",
+      "summary": "El futbolista moderno, al estilo NBA o NFL, interactúa con su club, selección, agencia y staff personal. Si estas entidades no se coordinan, el jugador se ve forzado a ser el gestor de su entorno, lo cual añade 'ruido' e interfiere con su prioridad real: entrenar, competir y recuperar.",
+      "literal_quote": "Añadir más profesionales y capas sin definir cómo se coordinan puede aumentar el soporte... pero también va a aumentar mucho el ruido.",
+      "full_transcript": "Además de estos tres contextos... existe otro contexto que no depende de la geografía y es la gestión individual de los futbolistas de élite. Está muy asentada en instituciones como NBA o NFL, y en el fútbol profesional cada vez está apareciendo más que el propio futbolista tenga su staff de rendimiento alrededor. Y es que un jugador puede relacionarse simultáneamente con su club, con la selección, con su agencia, con su familia, con sus profesionales personales... En muchos casos, la única persona que realmente conecta todo esto entre sí es el propio jugador. Pero ese jugador no debería tener que convertirse en un supergestor de todas sus propias estructuras. La prioridad del futbolista debe ser entrenar, competir y recuperar. Por eso, añadir más profesionales y capas sin definir cómo se coordinan puede aumentar el soporte que hay alrededor de este atleta, pero también va a aumentar mucho el ruido que se va a generar.",
+      "keywords": [
+        "staff-personal",
+        "jugador-elite",
+        "ruido",
+        "coordinacion",
+        "gestion-individual"
+      ],
+      "entities": [
+        "NBA",
+        "NFL"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Reflexión",
+        "Análisis de contexto"
+      ],
+      "search_questions": [
+        "¿Por qué es un problema que un futbolista tenga mucho staff personal sin coordinar?",
+        "¿Cuál es el riesgo de la gestión individual del jugador de élite?"
+      ],
+      "related_terms": [
+        "ruido organizativo",
+        "entorno del atleta"
+      ],
+      "relevance_score": 5,
+      "context_before": "Análisis de entornos regionales de toma de decisión.",
+      "context_after": "Se presenta el modelo de las cuatro dimensiones de influencia para diagnosticar ecosistemas."
+    },
+    {
+      "id": "RM-07-006",
+      "video_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+      "speaker": "Roberto Martínez",
+      "start_timestamp": "00:11:35",
+      "end_timestamp": "00:17:21",
+      "start_seconds": 695,
+      "end_seconds": 1041,
+      "duration_seconds": 346,
+      "timestamp_url": "?t=695",
+      "title": "Las cuatro dimensiones para diagnosticar el sistema de influencia",
+      "summary": "Para adaptar la toma de decisiones a un nuevo club, se deben diagnosticar cuatro dimensiones: Autoridad (quién decide realmente), Información (qué evidencia se considera legítima), Tiempo (cuándo se toma la decisión, lo que define el nivel de urgencia) y Ejecución (quién convierte lo acordado en acción real). Los principios metodológicos permanecen, pero el sistema se adapta.",
+      "literal_quote": "Los principios permanecen, el sistema debe adaptarse... consiste en diagnosticar rápidamente y con precisión de cómo circula la información, la influencia y la responsabilidad.",
+      "full_transcript": "Necesitamos identificar cómo funciona realmente su sistema de influencia. Para hacerlo, vamos a analizar las siguientes cuatro grandes dimensiones: autoridad, información, tiempo y ejecución. La primera dimensión, que es la autoridad... ¿quién puede cerrar la decisión? No basta con conocer quién aparece en la parte superior del organigrama, sino... quién posee el derecho de decisión en ese ámbito concreto y quién puede condicionarla desde una posición un poco más informal (entrenador, propietario, jugador, médico)... La segunda dimensión es la propia información. Aquí debemos preguntarnos: ¿qué evidencia existe y quién la controla? ...¿Qué información se considera legítima dentro de ese ecosistema? En algunas estructuras, los datos cuantitativos tienen una gran influencia (GPS). Sin embargo, en otras, tiene mucha influencia la propia experiencia del entrenador, una evaluación médica... La tercera dimensión es el tiempo. ¿Cuándo debe decidirse? La calidad de una recomendación va a depender también de que llegue en el momento adecuado... Cuando la decisión es más inmediata, vamos a necesitar simplificar el mensaje, priorizar la evidencia y trabajar con la incertidumbre. La cuarta dimensión... es la ejecución. ¿Quién convierte esa decisión en una acción? Por ejemplo, una organización puede mantener una excelente conversación en los despachos y tomar una decisión adecuada, pero fracasar durante la implementación... Estas cuatro dimensiones explican por qué un modelo que funciona en una organización puede totalmente fracasar cuando se traslada de manera automática a otra... Sin embargo, los principios fundamentales sí que van a permanecer... Los principios permanecen, el sistema debe adaptarse.",
+      "keywords": [
+        "dimensiones",
+        "influencia",
+        "autoridad",
+        "informacion",
+        "tiempo",
+        "ejecucion"
+      ],
+      "entities": [
+        "GPS"
+      ],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Framework",
+        "Evaluación"
+      ],
+      "search_questions": [
+        "¿Cuáles son las cuatro dimensiones para evaluar el sistema de influencia de un equipo?",
+        "¿Por qué un modelo de rendimiento exitoso en un club puede fracasar en otro?"
+      ],
+      "related_terms": [
+        "sistema de influencia",
+        "diagnóstico de equipos"
+      ],
+      "relevance_score": 5,
+      "context_before": "Exposición sobre el contexto individual del jugador y sus problemáticas.",
+      "context_after": "Cierre de este bloque conceptual, dando paso a los casos de estudio aplicados que seguirán."
+    }
+  ]
+}
