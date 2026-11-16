@@ -1,0 +1,389 @@
+{
+  "video": {
+    "video_id": "V03",
+    "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+    "speaker": "José Andrés González Moreno",
+    "total_duration": "00:21:10",
+    "total_duration_seconds": 1270,
+    "source_file": "WEBVTT-3",
+    "language": "es"
+  },
+  "segments": [
+    {
+      "id": "V03-001",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:00:01",
+      "end_timestamp": "00:03:16",
+      "start_seconds": 1,
+      "end_seconds": 196,
+      "duration_seconds": 195,
+      "timestamp_url": "?t=1",
+      "title": "Introducción a los cinco pilares del ambiente de alto rendimiento",
+      "summary": "Para asegurar que los factores del ambiente (personas, procesos y comportamientos) operen al máximo nivel, se deben establecer cinco pilares fundamentales: visión conjunta, claridad de roles, sistemas de comunicación, integración interdisciplinar y accountability.",
+      "literal_quote": "Ahora vamos a dar visibilidad a esos pilares fundamentales que harán que todos estos factores importantes... cobren sentido y podamos asegurarnos de que cada uno de ellos esté al máximo nivel posible.",
+      "full_transcript": "Y con esto entramos de lleno en la cuarta parte de la presentación, una de las más importantes. Tras haber contextualizado la realidad a la que nos enfrentamos los profesionales del rendimiento hoy en día, esa necesidad de coordinar las diferentes secciones con las que trabajamos de manera conjunta, con el fin de maximizar y optimizar los resultados de nuestros deportistas y equipos. Una vez hemos conceptualizado qué es exactamente un ambiente de alto rendimiento y cuáles son sus tres principales componentes: las personas, los profesionales, los procesos y sistemas de trabajo que van a utilizar entre ellos, y los comportamientos que se van a dar perpetuados en el tiempo de manera consistente. Ahora vamos a dar visibilidad a esos pilares fundamentales que harán que todos estos factores importantes que hemos ido nombrando durante la presentación cobren sentido y podamos asegurarnos de que cada uno de ellos esté al máximo nivel posible, con el fin de tener el mejor ambiente de alto rendimiento posible. Aquí tenemos un resumen de los mismos. El primero, una visión conjunta. El segundo, para que todos los profesionales tengan un rol claro, como ya venimos comentando. El tercero, como hemos dicho, forma parte de esos aprendizajes esenciales, como mencionaba en mi experiencia en estos últimos tres años: sistemas de comunicación. Si decimos que la comunicación es una variable de rendimiento, ¿cómo nos podemos asegurar de que la comunicación sea la mejor posible dentro de nuestro grupo y nuestro equipo? El punto cuatro es una integración interdisciplinar, este concepto conocido por todos y muy tratado en los últimos años, que difiere un poco de la forma de trabajar, no solo en una misma cosa, en un mismo objetivo, sino hacerlo de manera conjunta y coordinada. Y luego, el quinto punto, el accountability, que se refiere a esas responsabilidades, a esa toma de decisiones y esa coordinación en cuanto a la situación: qué pasa, quién se hace cargo de ella y, si surge un problema, cómo lo podemos solucionar y mejorar. Iremos saltando de uno a otro para tenerlos claros y conformar nuestro ambiente de alto rendimiento.",
+      "keywords": [
+        "pilares",
+        "vision-conjunta",
+        "claridad-roles",
+        "sistemas-comunicacion",
+        "integracion-interdisciplinar",
+        "accountability",
+        "optimizar"
+      ],
+      "entities": [],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Framework"
+      ],
+      "search_questions": [
+        "¿Cuáles son los cinco pilares del ambiente de alto rendimiento según José Moreno?",
+        "¿Qué componentes forman parte de la estructura para optimizar los resultados del equipo?",
+        "¿Cómo se relacionan las personas, procesos y comportamientos con los cinco pilares?"
+      ],
+      "related_terms": [
+        "introducción",
+        "a",
+        "los",
+        "cinco",
+        "pilares",
+        "del",
+        "ambiente",
+        "de",
+        "alto",
+        "rendimiento",
+        "performance",
+        "metodología"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se ha explicado previamente la importancia de adaptar la metodología a la cultura organizativa.",
+      "context_after": "Se procede a desglosar el primer pilar: la visión conjunta."
+    },
+    {
+      "id": "V03-002",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:03:18",
+      "end_timestamp": "00:08:05",
+      "start_seconds": 198,
+      "end_seconds": 485,
+      "duration_seconds": 287,
+      "timestamp_url": "?t=198",
+      "title": "Pilar 1: Visión conjunta e identidad del equipo",
+      "summary": "Una visión conjunta requiere que todos los departamentos compartan objetivos, la identidad (cómo conseguirlos) y las prioridades de la temporada. Esto evita que cada sección persiga métricas aisladas. El ejemplo de los New York Knicks ilustra cómo visibilizar esta identidad unifica al grupo.",
+      "literal_quote": "Es superimportante que todos los departamentos, incluidos jugadores... compartan y tengan claro cuáles son los objetivos del grupo, el cómo se pretende llegar a esos objetivos, que va a construir la identidad de ese equipo.",
+      "full_transcript": "El pilar uno, como decíamos, una visión conjunta. Este probablemente en deportes de equipo se trata más que cuando trabajas con un deportista únicamente, porque al final requiere poner los objetivos de la temporada de manera conjunta, el cómo, la manera en la que el grupo quiere llegar a conseguirlos, que conformen esa identidad, y luego cuáles son las prioridades, dependiendo de esos objetivos de esa temporada, de los procesos, de cómo y qué es lo importante para intentar llegar al final y conseguir los objetivos. ¿Qué es lo que puede pasar si esta visión no es conjunta? Dentro de un departamento de rendimiento, dentro de un equipo, que los preparadores físicos se centren en un objetivo concreto que no se alinee perfectamente con los fisios, que los entrenadores no entiendan cuáles son los objetivos de los preparadores físicos. Por tanto, el compartir esta visión por medio de estos tres factores, estos tres ítems, objetivos, identidad y prioridades, va a hacer que esta visión sea común. Aquí tenemos el primero de los pilares. Es superimportante que todos los departamentos, incluidos jugadores, preparadores físicos, fisios, staff técnico y management, compartan y tengan claro cuáles son los objetivos del grupo, el cómo se pretende llegar a esos objetivos, que va a construir la identidad de ese equipo y cuáles son las prioridades a lo largo del proceso. Compartir esto va a evitar que cada sección optimice su propia métrica, que tenga sus propios objetivos y que no estén alineados con el resto, y va a evitar que ese tipo de cosas pasen y choquen. Por ejemplo, en un equipo como puede ser de baloncesto, la dinámica de juego, la identidad del equipo, cómo quiere jugar ese equipo durante esa temporada, va a condicionar mucho también el estilo de cómo los preparadores físicos se deben alinear con el staff técnico para entrenar de una manera que todas las ganancias vayan en línea con ese estilo de juego. Diferentes prioridades, dependiendo también, por ejemplo, de la rotación, qué jugadores van a jugar por encima de 20, 30 minutos, qué jugadores van a jugar por debajo de 10, cinco, y cómo todo eso se debe alinear y cuáles son las prioridades con el fin de que se pueda maximizar el rendimiento de ese grupo. Aquí, a modo de anécdota, me ha gustado juntar este ejemplo de visión conjunta que han tenido los Knicks este año, campeones de la NBA. Tuve la suerte de visitarlos a final de temporada y me pareció curioso cómo tenían esta visión conjunta a la entrada del vestuario, en la que incluyen varias cosas en referente a, ya no sus objetivos, que me imagino que sería, nunca lo sabremos a ciencia cierta, pero ganar el campeonato, sino la identidad, el cómo querían llegar a esos objetivos, por medio de esos epígrafes que veis ahí y firmados por todos. Al final, esa visión común es una manera de hacer que todo el grupo vaya en la misma página, en el mismo barco. Nosotros también este año lo teníamos exactamente igual, firmado por todos los jugadores y por toda la parte del staff. Es una manera de unificar a todo el grupo y de asegurarte de que estos tres factores importantes de la visión común se respetan.",
+      "keywords": [
+        "vision-conjunta",
+        "objetivos",
+        "identidad",
+        "prioridades",
+        "metricas",
+        "alineacion",
+        "knicks"
+      ],
+      "entities": [
+        "Knicks",
+        "NBA"
+      ],
+      "topics": [
+        "Performance & Context",
+        "Metodología"
+      ],
+      "content_type": [
+        "Explicación",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Qué tres factores componen la visión conjunta según el primer pilar?",
+        "¿Por qué es un problema que cada departamento optimice su propia métrica?",
+        "¿Qué ejemplo utiliza José Moreno para ilustrar la identidad de equipo en el vestuario?"
+      ],
+      "related_terms": [
+        "pilar",
+        "1",
+        "visión",
+        "conjunta",
+        "e",
+        "identidad",
+        "del",
+        "equipo",
+        "performance",
+        "metodología"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se listaron los cinco pilares que sostienen el ambiente de alto rendimiento.",
+      "context_after": "El ponente avanza al segundo pilar: la claridad de roles y la toma de decisiones."
+    },
+    {
+      "id": "V03-003",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:08:06",
+      "end_timestamp": "00:09:23",
+      "start_seconds": 486,
+      "end_seconds": 563,
+      "duration_seconds": 77,
+      "timestamp_url": "?t=486",
+      "title": "Pilar 2: Claridad de roles y evitar solapamientos",
+      "summary": "Dentro del grupo interdisciplinar, es vital definir la responsabilidad de cada profesional y, sobre todo, qué NO deben hacer. Esto evita pisotones entre departamentos que generan fricción silenciosa. También debe quedar explícito quién toma cada decisión.",
+      "literal_quote": "También algo muy importante es Qué no deberían de hacer para evitar algunos solapamientos y pisotones entre departamentos que pueden ocasionar fricción silenciosa y hacer que el ambiente empeore.",
+      "full_transcript": "Como segundo pilar, la claridad de los roles. Algo superimportante que, como directores de rendimiento, tenemos que tener muy claro dentro de nuestro departamento y, por supuesto, en los procesos que compartamos con otras secciones y diferentes departamentos. Tenemos que tener muy claro dentro de ese proceso qué función corresponde a cada profesional. Aquí vemos que la responsabilidad de cada departamento, de cada profesional, es muy importante, que todo el mundo entienda la suya. También algo muy importante es Qué no deberían de hacer para evitar algunos solapamientos y pisotones entre departamentos que pueden ocasionar fricción silenciosa y hacer que el ambiente empeore. Algo primordial es quién toma cada decisión. Como veníamos hablando, dentro de cada proceso y situación, qué profesional toma cada decisión es algo que se tiene que tener muy claro.",
+      "keywords": [
+        "claridad-roles",
+        "responsabilidad",
+        "solapamientos",
+        "friccion-silenciosa",
+        "toma-decisiones",
+        "departamentos"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Consejo"
+      ],
+      "search_questions": [
+        "¿Por qué es importante definir qué NO deben hacer los profesionales de un departamento?",
+        "¿Qué causa la fricción silenciosa en un ambiente de alto rendimiento?",
+        "¿Cómo influye la claridad de roles en la toma de decisiones?"
+      ],
+      "related_terms": [
+        "pilar",
+        "2",
+        "claridad",
+        "de",
+        "roles",
+        "y",
+        "evitar",
+        "solapamientos",
+        "staff management",
+        "toma de decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se explicó la necesidad de unificar la visión para no tener métricas aisladas.",
+      "context_after": "Se introduce el tercer pilar basado en sistematizar la comunicación."
+    },
+    {
+      "id": "V03-004",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:09:23",
+      "end_timestamp": "00:10:44",
+      "start_seconds": 563,
+      "end_seconds": 644,
+      "duration_seconds": 81,
+      "timestamp_url": "?t=563",
+      "title": "Pilar 3: Sistematización de la comunicación",
+      "summary": "La comunicación no debe depender del estado de ánimo de las personas o de factores externos del día a día. Para garantizar un alto nivel constante, debe basarse en sistemas y procesos estructurados, como reuniones, reports y feedback pautado.",
+      "literal_quote": "Dar visibilidad a cuáles son esas herramientas principales que nos van a ayudar a que la comunicación dependa menos de las personas y más de sistemas y procesos.",
+      "full_transcript": "Aquí tenemos nuestro pilar número tres, cuya importancia ya veníamos adelantando dentro de los aprendizajes que he tenido en estos años. Aquí lo que vamos a hacer es dar visibilidad a cuáles son esas herramientas principales que nos van a ayudar a que la comunicación dependa menos de las personas y más de sistemas y procesos. Al final, esto hará que la comunicación siempre se mantenga a un cierto nivel y no sea dependiente del profesional que esté ese día, las condiciones del día, si se entrena en otra pista o si se viaja. Estas reuniones, estos reports, este feedback pautado y cómo se transfiere la información dentro del departamento y entre departamentos, con el fin de maximizar el rendimiento de nuestro equipo, sea lo mejor posible. Cada equipo va a tener uno. Evidentemente, las reuniones y cómo se compartan los reports de un equipo a otro va a cambiar mucho, pero estas cuatro cosas deben estar claras para garantizar que la comunicación sea la mejor posible.",
+      "keywords": [
+        "comunicacion",
+        "sistemas",
+        "procesos",
+        "reuniones",
+        "reports",
+        "feedback-pautado",
+        "estabilidad"
+      ],
+      "entities": [],
+      "topics": [
+        "Comunicación",
+        "Staff Management"
+      ],
+      "content_type": [
+        "Explicación",
+        "Proceso"
+      ],
+      "search_questions": [
+        "¿Por qué la comunicación no debe depender exclusivamente de las personas?",
+        "¿Qué herramientas ayudan a sistematizar la comunicación en un equipo de alto rendimiento?",
+        "¿Cómo afectan los sistemas de comunicación al flujo de información interdepartamental?"
+      ],
+      "related_terms": [
+        "pilar",
+        "3",
+        "sistematización",
+        "de",
+        "la",
+        "comunicación",
+        "comunicación",
+        "staff management"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se destacó la necesidad de tener roles claros para evitar fricciones.",
+      "context_after": "El enfoque pasa al cuarto pilar: cómo lograr que esta comunicación genere un trabajo interdisciplinar orgánico."
+    },
+    {
+      "id": "V03-005",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:10:44",
+      "end_timestamp": "00:14:28",
+      "start_seconds": 644,
+      "end_seconds": 868,
+      "duration_seconds": 224,
+      "timestamp_url": "?t=644",
+      "title": "Pilar 4: Integración interdisciplinar orgánica y modelo Return to Play",
+      "summary": "Trabajar en el mismo espacio no garantiza un trabajo conjunto; es vital provocar interacciones orgánicas compartiendo espacios comunes. Un ejemplo de integración es el sistema de Return to Play de Rebelo Marques (2019), que atribuye responsabilidades claras a cada departamento en función del estadio de la lesión.",
+      "literal_quote": "El trabajar juntos en un mismo espacio, en un mismo equipo, nunca va a garantizar que el trabajo sea de manera conjunta... un ejemplo... es en un proceso de return to play... un sistema de toma de decisiones, el cual atribuye una responsabilidad a cada sección.",
+      "full_transcript": "Pasamos ahora al pilar cuatro, esa integración de cómo nuestro equipo y nuestro ambiente tienen que trabajar de manera interdisciplinar. Todos sabemos por qué: el trabajar juntos en un mismo espacio, en un mismo equipo, nunca va a garantizar que el trabajo sea de manera conjunta. Al final, como veis en este gráfico, que lo muestra de manera muy sencilla, va a producir menos interacción y los jugadores serán vistos como puzzles de piezas separadas. El no compartir, no trabajar de manera conjunta y el no retar entre las diferentes secciones no va a recoger todo el jugo que se puede exprimir si las diferentes secciones y departamentos trabajan, como vemos en el gráfico de la derecha, de manera interdisciplinar. Evidentemente, va a ser un mayor esfuerzo, pero se va a ver recompensado en un mayor rendimiento para los jugadores, para tu atleta o para tu equipo. ¿Cómo podemos garantizar esto? Como justamente acabamos de ver en esos sistemas de comunicación. Todos sabemos que las reuniones que van a pasar con cierta frecuencia y los reports que también se pueden ir dando durante el día son una manera, pero hay que garantizar también que esta interdisciplinaridad pase de manera orgánica. Nosotros, por ejemplo, en nuestro equipo, en estos años intentábamos que todo el staff tuviera un espacio en el que iba a coincidir normalmente durante el día. Por ejemplo, nosotros teníamos un despacho en el que todo el staff, en algún momento puntual, iba a pasar por ahí, iba a estar ahí a ciertas horas y minutos durante el día, y eso iba a posibilitar la opción de interactuar entre los departamentos, quizá no todos los días de manera conjunta en su totalidad, pero ya esa fricción y ese acercamiento iban a posibilitar un mayor flujo de información y, como consecuencia, un mayor trabajo conjunto. Un ejemplo, una situación en la que se vea cuánto de importante es, sobre todo, esta interdisciplinaridad y toda la suma de lo que veníamos hablando, es en un proceso de return to play, como el ejemplo que ponemos aquí de este sistema de Rebelo Marques y colaboradores del 2019, que me gusta usar y he venido implementando en los equipos en los que he ido trabajando. Es un sistema de toma de decisiones, el cual atribuye una responsabilidad a cada sección y departamento en función del estadio de la lesión e independientemente de la información que se vaya compartiendo día a día. Sabiendo este sistema, todos saben perfectamente cuál es su rol, en qué momento está el jugador y cuándo su participación es de mayor o menor importancia, cuándo las decisiones tienen que ser tomadas por cada equipo. La referencia va a estar al final de la presentación y es un sistema que verdaderamente merece la pena.",
+      "keywords": [
+        "integracion-interdisciplinar",
+        "espacios-comunes",
+        "interaccion-organica",
+        "return-to-play",
+        "toma-decisiones",
+        "responsabilidad"
+      ],
+      "entities": [
+        "Rebelo Marques"
+      ],
+      "topics": [
+        "Staff Management",
+        "Return to Play"
+      ],
+      "content_type": [
+        "Metodología",
+        "Ejemplo"
+      ],
+      "search_questions": [
+        "¿Por qué compartir un mismo espacio físico no asegura un trabajo interdisciplinar?",
+        "¿Cómo fomenta el diseño de oficinas la interacción orgánica entre el staff?",
+        "¿En qué consiste el sistema de Return to Play de Rebelo Marques según la charla?"
+      ],
+      "related_terms": [
+        "pilar",
+        "4",
+        "integración",
+        "interdisciplinar",
+        "orgánica",
+        "y",
+        "modelo",
+        "return",
+        "to",
+        "play",
+        "staff management",
+        "return to play"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se explicó la importancia de sistematizar la información mediante reuniones y reportes.",
+      "context_after": "Se presenta el quinto pilar, que aborda la responsabilidad ante los errores (accountability)."
+    },
+    {
+      "id": "V03-006",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:14:29",
+      "end_timestamp": "00:15:21",
+      "start_seconds": 869,
+      "end_seconds": 921,
+      "duration_seconds": 52,
+      "timestamp_url": "?t=869",
+      "title": "Pilar 5: Accountability y aprendizaje del error",
+      "summary": "El quinto pilar es el 'accountability'. Consiste en determinar qué figura es responsable ante cada situación, cómo se debe responder ante los fallos y, fundamentalmente, qué proceso seguir para aprender del error y minimizar el riesgo futuro.",
+      "literal_quote": "El hacerte cargo de quién es el responsable... cómo esa figura, ese departamento o esa sección tiene que responder ante los fallos y, lo más importante para seguir con el proceso, cómo podemos aprender de ello y minimizar el riesgo.",
+      "full_transcript": "Aquí pasamos a nuestro pilar número cinco, accountability, que trata de las diferentes responsabilidades según la situación. Como veis aquí, esos tres círculos nos hacen preguntarnos qué es lo importante de tener la responsabilidad dependiendo de la situación. El hacerte cargo de quién es el responsable, quién es la figura que tiene que encargarse de esta situación, cómo respondemos, cómo esa figura, ese departamento o esa sección tiene que responder ante los fallos y, lo más importante para seguir con el proceso, cómo podemos aprender de ello y minimizar el riesgo de que vuelva a pasar en el futuro.",
+      "keywords": [
+        "accountability",
+        "responsabilidad",
+        "fallos",
+        "aprendizaje",
+        "minimizar-riesgo",
+        "errores"
+      ],
+      "entities": [],
+      "topics": [
+        "Staff Management",
+        "Toma de Decisiones"
+      ],
+      "content_type": [
+        "Explicación",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Qué engloba el concepto de accountability dentro del ambiente de alto rendimiento?",
+        "¿Por qué es importante establecer cómo se responde ante los fallos del equipo?",
+        "¿Cuál es el objetivo final de analizar los errores según el pilar de accountability?"
+      ],
+      "related_terms": [
+        "pilar",
+        "5",
+        "accountability",
+        "y",
+        "aprendizaje",
+        "del",
+        "error",
+        "staff management",
+        "toma de decisiones"
+      ],
+      "relevance_score": 4,
+      "context_before": "Se detalló cómo integrar los departamentos de manera interdisciplinar y coordinada.",
+      "context_after": "Se presenta una rúbrica final para que cada profesional evalúe su propio entorno organizativo."
+    },
+    {
+      "id": "V03-007",
+      "video_title": "Ambiente en el Alto Rendimiento - Los 5 Pilares",
+      "speaker": "José Andrés González Moreno",
+      "start_timestamp": "00:15:22",
+      "end_timestamp": "00:21:10",
+      "start_seconds": 922,
+      "end_seconds": 1270,
+      "duration_seconds": 348,
+      "timestamp_url": "?t=922",
+      "title": "Auditoría del ambiente de rendimiento y reflexión final",
+      "summary": "Se aporta una rúbrica de 7 ítems para evaluar el ambiente organizativo, involucrar a otros departamentos e identificar los eslabones débiles. Como conclusión, cualquier programa, método o sistema de entrenamiento solo triunfará si el entorno le provee las condiciones y consistencia necesarias.",
+      "literal_quote": "Cuando nos preguntemos qué método de trabajo empleas... creo que tenemos que empezar a incluir qué ambiente es el que permite a tus programas de trabajo, a tus sistemas de entrenamiento, tener éxito.",
+      "full_transcript": "Aquí volvemos a los cinco pilares a modo de repaso para que los tengamos claros. Es muy importante que cuando vayamos a instaurar en nuestra organización ese ambiente de alto rendimiento, tengamos estos cinco pilares en cuenta y sepamos perfectamente la mejor manera de que cada uno esté. Por último, en esta quinta parte, antes del cierre, os voy a dejar una herramienta que podéis utilizar para revisar vuestro ambiente de alto rendimiento, empezando desde hoy. Aquí tenéis la herramienta presentada a modo de auditoría o rúbrica, que incluye, como podéis ver en la columna de la izquierda, siete ítems que han sido tratados durante toda la charla y que son cruciales para moldear y garantizar que el ambiente de alto rendimiento sea el que buscamos. Nosotros, como directores de rendimiento y preparadores físicos, vamos a tener mayor capacidad de influencia en algunos de ellos que en otros, pero el objetivo es, evidentemente, evaluar cómo es ese ambiente de rendimiento y, sobre todo, identificar cuáles son los posibles eslabones débiles dentro de nuestra organización, con el fin de que tengamos pistas de cómo podemos mejorarlos y crear una influencia en ellos para mejorar el ambiente como tal. Esta herramienta no es solo individualmente para nosotros, también la podemos utilizar con otros profesionales, ya sea dentro de nuestro departamento o en otros departamentos diferentes. El hecho de involucrar a todos y hacerles partícipes de ello va a hacer que tomen ese ambiente como conjunto, como suyo propio, y por tanto se van a implicar de una manera más cercana y van a darle la importancia que se merece. Una vez conceptualizado el ambiente de rendimiento y vistas todas las partes que lo componen y cómo puede influir completamente en los resultados y en la ejecución de tus programas, quiero que hagamos este ejercicio de volver al inicio. Cuando nos preguntemos qué método de trabajo empleas, qué sistema de entrenamiento utilizas, creo que tenemos que empezar a incluir qué ambiente es el que permite a tus programas de trabajo, a tus sistemas de entrenamiento, tener éxito, como parte de ese área global de rendimiento en la que cada vez estamos teniendo más voz y que cada vez está cobrando más importancia en estos últimos años dentro de las organizaciones. Con esta diapositiva vamos llegando al final de esta charla, tras 60 minutos, que espero que de verdad hayan servido para dar un poco de luz a esta área nueva dentro del rendimiento, que tan importante es, pero que no se le da la importancia que se merece. Como decía al principio, nadie se cuestiona la importancia de los programas con el fin de buscar esas adaptaciones. Todo el mundo tiene clara esa hoja de ruta en cuanto a estos sistemas y métodos de entrenamiento, pero la importancia del ambiente para crear esos comportamientos y cómo esos comportamientos son los que te van a acercar a esa consistencia y qué tan importante es dentro de un rendimiento y para conseguir esos resultados que buscamos. Termino con esta cita. En estos tres años en Japón, siendo la figura de director de rendimiento de varios equipos, aprendí que ese área de programación, de prescripción, de ejercicio, es solo una pequeña parte de nuestra figura a día de hoy, y cómo el crear un ambiente óptimo, donde los profesionales con los que trabajamos sean capaces de manera consistente dar lo mejor de sí y dar unas condiciones en las que se encuentren cómodos, van a ser vitales para conseguir los máximos resultados posibles. Hasta aquí la presentación de este módulo. Les agradezco muchísimo la atención y espero de verdad que el contenido les sirva. Es un tema que se está originando en los últimos años y que para nosotros está cobrando mucha importancia como profesionales del rendimiento. Así que espero que las estrategias del contenido compartido les sea de gran utilidad. Aquí, como comentaba, les dejo los detalles de mi contacto, mi correo electrónico, mis redes sociales, para que si hubiese alguna duda puedan preguntarme y para que podamos interactuar, conocernos, conectar y seguir creciendo entre todos como profesionales. Muchas gracias y espero conectar con vosotros. Un saludo.",
+      "keywords": [
+        "auditoria",
+        "rubrica",
+        "evaluacion",
+        "eslabones-debiles",
+        "implicacion",
+        "metodos-entrenamiento",
+        "consistencia"
+      ],
+      "entities": [
+        "Japón"
+      ],
+      "topics": [
+        "Evaluación",
+        "Performance & Context"
+      ],
+      "content_type": [
+        "Herramienta",
+        "Reflexión"
+      ],
+      "search_questions": [
+        "¿Para qué sirve la rúbrica o auditoría presentada al final de la charla?",
+        "¿Por qué es importante involucrar a otros profesionales en la evaluación del ambiente?",
+        "¿Qué conclusión final aporta José Moreno sobre el éxito de los métodos de entrenamiento?"
+      ],
+      "related_terms": [
+        "auditoría",
+        "del",
+        "ambiente",
+        "de",
+        "rendimiento",
+        "y",
+        "reflexión",
+        "final",
+        "evaluación",
+        "performance"
+      ],
+      "relevance_score": 5,
+      "context_before": "Se definieron los cinco pilares esenciales del ambiente de alto rendimiento.",
+      "context_after": "Finalización y cierre de la charla con los agradecimientos y datos de contacto del ponente."
+    }
+  ]
+}
